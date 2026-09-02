@@ -305,14 +305,20 @@ const visuals: Record<string, React.FC> = {
 export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
   const [q, setQ] = useState('');
   const [cat, setCat] = useState<string>('All');
+  const [showAll, setShowAll] = useState(false);
   const cats = ['All', ...Array.from(new Set(RULE_GUIDES.map(g=>g.category)))];
   const filtered = useMemo(()=>{
+    const needle = q.trim().toLowerCase();
     return RULE_GUIDES.filter(g=>{
       if (cat!=='All' && g.category!==cat) return false;
-      if (q && !(`${g.name} ${g.shortDefinition} ${g.slug}`.toLowerCase().includes(q.toLowerCase()))) return false;
+      if (needle) {
+        const hay = `${g.name} ${g.shortDefinition} ${g.slug} ${g.category} ${(g.commonMistakes || []).join(' ')}`.toLowerCase();
+        if (!hay.includes(needle)) return false;
+      }
       return true;
     });
   },[q,cat]);
+  const glanceList = showAll || RULE_GUIDES.length <= 20 ? RULE_GUIDES : RULE_GUIDES.slice(0, 20);
 
   return (
     <div className="bg-[#080A10] min-h-screen">
