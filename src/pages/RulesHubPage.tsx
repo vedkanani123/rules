@@ -417,7 +417,7 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
                     {guide.formula}
                   </div>
                   <div className="flex items-center justify-between pt-1">
-                    <span className="text-xs font-medium text-[#8A8F98] flex items-center gap-1"><Clock className="w-3 h-3" />5 min • {guide.firmsUsing[0]?.firmName} <span className="w-1 h-1 rounded-full bg-white/20" /> {guide.firmsUsing.length} firms</span>
+                    <span className="text-xs font-medium text-[#8A8F98] flex items-center gap-1"><Clock className="w-3 h-3" />5 min • {guide.firmsUsing?.[0]?.firmName ?? 'Multi-firm'} <span className="w-1 h-1 rounded-full bg-white/20" /> {(guide.firmsUsing || []).length} firms</span>
                     <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white text-[#080A10] text-xs font-bold group-hover:bg-sky-500 group-hover:text-white transition-colors">Learn <ArrowRight className="w-3 h-3" /></span>
                   </div>
                 </div>
