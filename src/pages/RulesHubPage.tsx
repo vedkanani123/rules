@@ -363,7 +363,7 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
               ))}
             </div>
           </div>
-          <p className="text-[11px] text-[#6B7280] mt-2">{filtered.length} guides • Covering every single rule from daily loss to hidden conditions • Click any card to learn with animation</p>
+          <p className="text-[11px] text-[#6B7280] mt-2">{filtered.length} of {RULE_GUIDES.length} guides • Covering every single rule from daily loss to hidden conditions • Click any card to learn with animation</p>
         </div>
       </div>
 
