@@ -109,11 +109,11 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
               <div className="mt-5 grid grid-cols-1 sm:grid-cols-2 gap-3">
                 <div className="p-4 rounded-xl bg-amber-500/[0.06] border border-amber-500/15">
                   <p className="text-xs font-semibold text-amber-400 flex items-center gap-1.5"><AlertTriangle className="w-3.5 h-3.5" /> Why traders get caught</p>
-                  <p className="text-xs leading-relaxed text-white/50 mt-2">This rule is often buried in FAQ or enforced only at payout review — not on the pricing page. Marketing says “allowed”, FAQ says “2-min buffer”. Our engine flags it as <b className="text-amber-400">Easy-to-Miss</b>.</p>
+                  <p className="text-xs leading-relaxed text-white/50 mt-2">{caughtText}</p>
                 </div>
                 <div className="p-4 rounded-xl bg-sky-500/[0.06] border border-sky-500/15">
                   <p className="text-xs font-semibold text-sky-400 flex items-center gap-1.5"><Target className="w-3.5 h-3.5" /> How to stay safe</p>
-                  <p className="text-xs leading-relaxed text-white/50 mt-2">Check the Source Inspector for the exact FAQ excerpt, test your equity distance in the simulator above, and set a 20% buffer below the floor.</p>
+                  <p className="text-xs leading-relaxed text-white/50 mt-2">{safeText}</p>
                 </div>
               </div>
             </section>
