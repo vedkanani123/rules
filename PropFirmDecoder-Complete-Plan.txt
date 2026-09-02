@@ -1,0 +1,3388 @@
+PROJECT MASTER GOAL
+===================
+
+We are building a global Prop Firm Intelligence Platform.
+
+Working brand:
+PropFirmDecoder
+
+Primary purpose:
+Decode prop-firm programs so traders can understand the real rules, risks, costs, payout conditions and trader experience BEFORE they spend money.
+
+This is NOT simply a prop-firm directory.
+This is NOT simply a comparison website.
+This is NOT a coupon/affiliate website.
+This is NOT a generic review website.
+This is NOT a “Top 10 Best Prop Firms” blog.
+
+The product is an INTELLIGENCE LAYER between confusing prop-firm information and the trader's decision.
+
+============================================================
+1. THE PROBLEM WE ARE SOLVING
+============================================================
+
+The prop-firm/funded-trading industry is fragmented.
+
+There are many firms across:
+
+- Forex / CFD
+- Futures
+- Crypto
+- Metals
+- Indices
+- Stocks
+- Multi-asset products
+
+Each firm can have many different programs:
+
+- 1-Step
+- 2-Step
+- 3-Step
+- Instant
+- Combine
+- Swing
+- Bootcamp
+- Lightning
+- Hyper Growth
+- other special programs
+
+And each individual program can have different:
+
+- account sizes
+- prices
+- profit targets
+- daily-loss rules
+- maximum drawdown
+- static/trailing/EOD/intraday drawdown
+- equity vs balance calculations
+- consistency rules
+- best-day rules
+- minimum trading days
+- news restrictions
+- weekend rules
+- overnight rules
+- EA/bot rules
+- copy-trading rules
+- hedging rules
+- lot/contract limits
+- payout gates
+- payout caps
+- payout schedules
+- safety buffers
+- KYC requirements
+- inactivity requirements
+- country restrictions
+- platform restrictions
+- prohibited-strategy rules
+- activation/reset/add-on fees
+- funded-stage restrictions
+
+The information is often scattered across:
+
+- pricing pages
+- challenge pages
+- model pages
+- FAQ
+- help centers
+- support articles
+- Terms & Conditions
+- prohibited-practices documents
+- payout documentation
+- announcements
+- blog posts
+- promotions
+- platform pages
+- separate subdomains
+
+A trader may need to open many pages just to understand one account.
+
+The problem becomes even worse because:
+
+EVALUATION RULES != FUNDED RULES != PAYOUT-GATE RULES.
+
+A trader can pass an evaluation and only later discover a funded-stage restriction that materially changes how they can trade.
+
+Rules can also differ according to:
+
+- program
+- account size
+- stage
+- country
+- purchase date
+- platform
+- promotion
+- payout stage
+
+The result is confusion, preventable account failures, payout disputes, repeated challenge purchases and poor decision-making.
+
+============================================================
+2. OUR CORE MISSION
+============================================================
+
+Our mission is:
+
+MAKE PROP-FIRM RULES UNDERSTANDABLE BEFORE THE TRADER PAYS.
+
+We want a trader to visit one website and answer:
+
+“What exactly am I buying?”
+
+“What exact rules apply to this program?”
+
+“What do these rules actually mean?”
+
+“How are they calculated?”
+
+“What can cause an account breach?”
+
+“What can prevent or delay a payout?”
+
+“What changes after I become funded?”
+
+“What conditions are easy to miss?”
+
+“What do traders report experiencing?”
+
+“What does the firm say?”
+
+“What information is actually verified?”
+
+“What changed over time?”
+
+“Does this program fit the way I trade?”
+
+“How would my own trades behave under these rules?”
+
+The product should replace dozens of browser tabs with one clear intelligence experience.
+
+============================================================
+3. THE NORTH STAR
+============================================================
+
+The ultimate product promise is:
+
+“Know the rules before you pay.”
+
+The deeper mission is:
+
+“Reduce preventable rule deaths.”
+
+The user should not need to become an expert in prop-firm terminology before using the platform.
+
+We translate complicated rules into understandable decisions.
+
+============================================================
+4. WHAT WE ARE REALLY BUILDING
+============================================================
+
+The website is only the visible layer.
+
+The real product is:
+
+UNIVERSAL DATA ENGINE
++
+SOURCE ARCHIVE
++
+RULE DATABASE
++
+PROGRAM MODEL
++
+RULE VERSIONING
++
+EVIDENCE ENGINE
++
+CONFLICT DETECTION
++
+EASY-TO-MISS CONDITION DETECTION
++
+CALCULATION ENGINE
++
+BREACH SIMULATION
++
+CONSISTENCY ENGINE
++
+PAYOUT ENGINE
++
+STRATEGY MATCHING
++
+TRADER EXPERIENCE INTELLIGENCE
++
+CHANGE DETECTION
++
+COMPARISON ENGINE
++
+LEARNING SYSTEM
+
+The public website exposes this intelligence in a simple way.
+
+============================================================
+5. THE FUNDAMENTAL DATA PRINCIPLE
+============================================================
+
+The unit of the product is a PROGRAM, not simply a firm.
+
+Examples:
+
+FTMO 1-Step != FTMO 2-Step != FTMO Swing
+
+Apex EOD != Apex Intraday != Apex Legacy
+
+Topstep Combine != XFA Standard != XFA Consistency != Live
+
+FundedNext Instant != Stellar 2-Step
+
+Never flatten fundamentally different programs into one firm-level number.
+
+A firm page is an entry point.
+
+The actual intelligence belongs to the individual program.
+
+============================================================
+6. THREE RULE LAYERS
+============================================================
+
+Every program must be understood through three major layers:
+
+1. EVALUATION
+2. FUNDED
+3. PAYOUT GATE
+
+The user should be able to see these separately.
+
+For every rule, the system must know:
+
+- program
+- account size
+- phase/stage
+- condition
+- exception
+- effective date
+- source
+- verification state
+
+============================================================
+7. OUR MOST IMPORTANT DIFFERENTIATOR
+============================================================
+
+We are not trying to win by having the largest list.
+
+We win by understanding rules deeply.
+
+Our core differentiator is:
+
+SAME TRADE -> DIFFERENT PROGRAMS -> DIFFERENT OUTCOMES
+
+Example concept:
+
+A trader provides one trade history.
+
+The platform can show:
+
+Program A:
+PASS
+
+Program B:
+BREACH
+
+Program C:
+CONSISTENCY PROBLEM
+
+Program D:
+PAYOUT PROBLEM
+
+Same trader.
+Same behavior.
+Different rule system.
+
+This becomes a major product, content and sharing mechanism.
+
+The user should finally understand:
+
+“The problem is not just whether this trade made money.
+The problem is how this program's rules interpret the trade.”
+
+============================================================
+8. THE RULE DECODER
+============================================================
+
+For every important rule we want to show:
+
+OFFICIAL RULE
+↓
+WHAT IT MEANS
+↓
+EXACT CALCULATION
+↓
+REAL ACCOUNT EXAMPLE
+↓
+WHY IT MATTERS
+↓
+HOW A TRADER CAN VIOLATE IT
+↓
+SOURCE
+↓
+VERIFICATION STATUS
+
+Example:
+
+Daily Drawdown
+4%
+
+We should not stop there.
+
+Show:
+
+$100,000 account
+4% = $4,000
+
+Then apply the firm's actual calculation model.
+
+Then explain:
+
+- what balance is used
+- what equity is used
+- whether open P&L counts
+- when the clock resets
+- what timezone applies
+- whether swap/commission counts
+- what happens at the threshold
+
+The result must be understandable without reading the original legal wording.
+
+============================================================
+9. "HOW CAN I FAIL THIS PROGRAM?"
+============================================================
+
+This is one of the flagship product experiences.
+
+Every program should answer:
+
+HOW CAN I FAIL THIS PROGRAM?
+
+Show:
+
+- largest risks
+- easiest rules to misunderstand
+- funded-only restrictions
+- payout gates
+- easy-to-miss conditions
+- prohibited strategies
+- consistency traps
+- drawdown mechanics
+
+Do not only show “10% max DD”.
+
+Explain the actual path to failure.
+
+Use human language.
+
+============================================================
+10. EASY-TO-MISS CONDITIONS
+============================================================
+
+We want to surface information that traders are likely to miss.
+
+This can include rules that are:
+
+- buried in FAQ
+- buried in help center
+- hidden in terms
+- only present on a program page
+- only applicable after funding
+- only applicable at payout
+- only applicable to a particular account size
+- dependent on purchase date
+- subject to an important exception
+- inconsistent across official pages
+
+Do NOT automatically call every such rule a “hidden rule”.
+
+Prefer:
+
+- Easy-to-Miss
+- Important Condition
+- Conditional Rule
+- Buried Condition
+- High-Impact Condition
+
+Use stronger “hidden” language only where the evidence genuinely supports it.
+
+============================================================
+11. EVIDENCE-FIRST PHILOSOPHY
+============================================================
+
+We do not want a database of unsupported numbers.
+
+We want a database of evidence.
+
+Every important claim should answer:
+
+WHERE DID THIS COME FROM?
+
+Every rule should include:
+
+- source URL
+- source type
+- captured/verified date
+- relevant excerpt
+- program/account scope
+- stage
+- evidence status
+
+Possible evidence types:
+
+OFFICIAL
+OFFICIAL_HELP
+OFFICIAL_TERMS
+OFFICIAL_SUPPORT
+OFFICIAL_ANNOUNCEMENT
+TRADER_REPORT
+REVIEW_PLATFORM
+FIRM_RESPONSE
+THIRD_PARTY_ANALYSIS
+INFERENCE
+UNVERIFIED
+
+Possible statuses:
+
+VERIFIED
+PARTIALLY_VERIFIED
+CONFLICTING
+OUTDATED
+UNVERIFIED
+
+Never fabricate certainty.
+
+If a value cannot be verified:
+
+show:
+“Not verified”
+
+not:
+0
+not:
+N/A pretending it is known
+not:
+an AI guess
+
+============================================================
+12. OFFICIAL VS TRADER EXPERIENCE
+============================================================
+
+We must keep these layers separate.
+
+OFFICIAL RULE:
+What the firm publicly states.
+
+TRADER REPORT:
+What a trader says happened.
+
+FIRM RESPONSE:
+What the firm says in response.
+
+PLATFORM ANALYSIS:
+Our neutral interpretation of the evidence.
+
+We never silently merge them.
+
+Example:
+
+Trader says:
+“My payout was denied because of X.”
+
+Firm says:
+“Account review identified Y.”
+
+Official rules say:
+“Y is prohibited under condition Z.”
+
+Platform:
+“Here are the three pieces of evidence. The private account data cannot be independently verified.”
+
+This distinction is mandatory.
+
+============================================================
+13. CONFLICT DETECTION
+============================================================
+
+If two official pages disagree or one page qualifies another:
+
+DO NOT silently choose one.
+
+Show:
+
+CONFLICT / QUALIFICATION DETECTED
+
+Source A:
+...
+
+Source B:
+...
+
+Difference:
+...
+
+What appears current:
+...
+
+Evidence:
+...
+
+Confidence:
+...
+
+This is an intelligence feature, not an error.
+
+============================================================
+14. RULE VERSIONING
+============================================================
+
+Every program is living data.
+
+Store historical versions.
+
+Example:
+
+RuleVersion 1
+effective_from:
+January 1
+
+RuleVersion 2
+effective_from:
+March 15
+
+The user should be able to see:
+
+WHAT CHANGED?
+
+Old:
+5%
+
+New:
+4%
+
+Changed:
+March 15
+
+Affected:
+$100K Program
+
+Impact:
+HIGH
+
+Source:
+Official documentation
+
+Do not overwrite historical truth.
+
+Old rules remain available and are marked historical/outdated where appropriate.
+
+============================================================
+15. CRAWLER / DISCOVERY VISION
+============================================================
+
+The long-term system must accept:
+
+ANY PUBLIC PROP-FIRM URL
+
+The user enters:
+
+https://examplepropfirm.com
+
+The platform should be capable of discovering its public information architecture.
+
+It should locate, where publicly accessible:
+
+- homepage
+- pricing
+- programs
+- account pages
+- FAQ
+- help center
+- support articles
+- rules
+- payout rules
+- terms
+- refund
+- complaints
+- prohibited practices
+- platform pages
+- announcements
+- documents
+- other relevant sources
+
+This must be a UNIVERSAL engine.
+
+The first firm is only the first implementation/test.
+
+Do not hardcode one company's website structure into the entire product.
+
+============================================================
+16. DATA PIPELINE
+============================================================
+
+Our ideal pipeline is:
+
+USER ENTERS FIRM URL
+↓
+DISCOVERY
+↓
+CRAWL
+↓
+SOURCE ARCHIVE
+↓
+DOCUMENT CLASSIFICATION
+↓
+PROGRAM DETECTION
+↓
+ACCOUNT DETECTION
+↓
+RULE EXTRACTION
+↓
+RULE NORMALIZATION
+↓
+CONDITION / EXCEPTION MODELING
+↓
+SOURCE LINKING
+↓
+VALIDATION
+↓
+CONFLICT DETECTION
+↓
+EASY-TO-MISS ANALYSIS
+↓
+RULE VERSIONING
+↓
+CHANGE DETECTION
+↓
+INTELLIGENCE LAYER
+↓
+PUBLIC PROGRAM PROFILE
+
+Crawler data must remain separate from interpreted data.
+
+Raw evidence must never be destroyed.
+
+============================================================
+17. SOURCE HIERARCHY
+============================================================
+
+For factual rule values:
+
+1. Current account/program-specific official source
+2. Current official terms
+3. Current official help center
+4. Official support/documentation
+5. Official announcement
+6. Official pricing/program page
+7. Official marketing page
+8. Third-party source
+9. Trader report
+
+But lower-priority evidence is not deleted.
+
+The system keeps the evidence chain.
+
+============================================================
+18. REVIEW INTELLIGENCE
+============================================================
+
+Reviews should not become a meaningless star rating.
+
+We care about recurring experiences.
+
+Extract themes such as:
+
+- payout
+- KYC
+- rules
+- support
+- execution
+- platform
+- refund
+- account closure
+- news
+- hedging
+- consistency
+- inactivity
+- copy trading
+
+Show:
+
+- number of relevant reports
+- dates
+- recurring patterns
+- sentiment
+- evidence quality
+- firm responses where available
+
+Trustpilot/Reddit/YouTube are inputs into trader experience intelligence, NOT automatic proof of rule truth.
+
+============================================================
+19. COMPLAINT RADAR
+============================================================
+
+Eventually detect spikes such as:
+
+“payout denied”
+“KYC”
+“hedging”
+“consistency”
+“rule changed”
+“account closed”
+
+with timestamps.
+
+The goal is to identify:
+
+WHAT TRADERS ARE CURRENTLY EXPERIENCING
+
+not merely:
+
+WHAT IS THE CURRENT STAR RATING?
+
+============================================================
+20. FIRM RISK INTELLIGENCE
+============================================================
+
+Eventually each firm can have a separate risk layer based on evidence such as:
+
+- time in operation
+- legal/regulatory information
+- official status
+- payout disclosures
+- rule stability
+- recent rule changes
+- closure history
+- documented warnings
+- business model disclosures
+- public payout behavior
+
+Do not use Trustpilot alone.
+
+Do not call a firm safe/unsafe based on a subjective opinion.
+
+Use evidence + methodology.
+
+============================================================
+21. SIM VS LIVE
+============================================================
+
+This distinction must be visible.
+
+Every program should identify, where evidence permits:
+
+SIMULATED
+LIVE
+HYBRID
+UNKNOWN
+
+Do not hide this in a footer.
+
+A user should understand what type of product they are purchasing.
+
+If the firm describes the account as simulated, say so clearly.
+
+If live execution is claimed but not independently established:
+
+show the claim and evidence status.
+
+============================================================
+22. A-BOOK / B-BOOK / BUSINESS MODEL
+============================================================
+
+This is a secondary intelligence layer.
+
+Where meaningful evidence exists, the platform can distinguish:
+
+A-BOOK
+B-BOOK
+HYBRID
+UNKNOWN
+
+But never infer this confidently from speculation.
+
+Use:
+
+Firm states
+Evidence indicates
+Unknown
+
+and provide the source.
+
+============================================================
+23. DRAWDown DECODER
+============================================================
+
+This is a flagship tool.
+
+Inputs may include:
+
+- starting balance
+- current balance
+- current equity
+- peak
+- peak equity
+- open P&L
+- daily starting value
+- EOD value
+- timezone
+- payouts
+- high-water mark
+
+Outputs:
+
+- current drawdown
+- remaining drawdown
+- floor
+- remaining buffer
+- distance to breach
+- rule state
+
+The most important concept:
+
+DO NOT teach traders to size risk from headline account size.
+
+Teach them to size from:
+
+ACTUAL AVAILABLE LOSS DISTANCE.
+
+============================================================
+24. CONSISTENCY DECODER
+============================================================
+
+Explain:
+
+- best-day rules
+- profit concentration rules
+- winning-day requirements
+- payout consistency
+- target adjustments
+- reset behavior
+- whether losses reset the calculation
+
+Show examples.
+
+Example:
+
+“This $1,800 day just changed the effective target from X to Y.”
+
+The calculator must be deterministic.
+
+============================================================
+25. PAYOUT ELIGIBILITY ENGINE
+============================================================
+
+A headline:
+
+“80% profit split”
+
+is not enough.
+
+The engine should model:
+
+- first payout date
+- minimum profit
+- minimum balance
+- winning-day count
+- consistency
+- payout cap
+- safety buffer
+- open-position rules
+- pending-order rules
+- reset behavior
+- payout frequency
+- payout conditions
+
+Then show:
+
+CAN I CURRENTLY REQUEST A PAYOUT?
+
+YES
+NO
+CONDITIONAL
+
+and why.
+
+============================================================
+26. ALL-IN COST
+============================================================
+
+Do not show only sticker price.
+
+Calculate where data supports it:
+
+challenge fee
++
+subscription months
++
+resets
++
+activation
++
+data fees
++
+required add-ons
+-
+documented refund
+
+Output:
+
+ALL-IN COST TO FIRST PAYOUT
+
+This is especially important for futures programs.
+
+Never pretend exact future cost when it depends on unknown duration.
+
+Show scenario assumptions.
+
+============================================================
+27. SAME-TRADE VISUAL
+============================================================
+
+This is a signature feature.
+
+Take one trade or one trade history.
+
+Render the same behavior against several programs.
+
+Example:
+
+PROGRAM A
+GREEN
+Survives
+
+PROGRAM B
+RED
+Drawdown breach
+
+PROGRAM C
+AMBER
+Consistency issue
+
+PROGRAM D
+RED
+News violation
+
+Use the actual rules.
+
+This must be mathematically correct.
+
+It should become one of the most shareable visuals on the platform.
+
+============================================================
+28. STRATEGY MATCHER
+============================================================
+
+We are not building:
+
+“Best prop firm”
+
+We are building:
+
+“Best match for your strategy.”
+
+Ask:
+
+Market
+Strategy
+Account size
+Country
+Platform
+News
+Weekend
+Overnight
+EA
+Risk profile
+Consistency preference
+Payout preference
+
+Then explain:
+
+WHY the program fits.
+
+Also explain:
+
+WHY the program may NOT fit.
+
+The negative recommendation is extremely important.
+
+Example:
+
+“You hold overnight, trade news and often have large winning days. This program may be a poor fit because…”
+
+Never hide the reason behind a mysterious score.
+
+============================================================
+29. NO SINGLE GLOBAL SCORE
+============================================================
+
+Do not mix:
+
+Futures
+FX/CFD
+Crypto
+
+into one simplistic score.
+
+Each market should have appropriate comparison logic.
+
+The matcher can be cross-program, but the underlying rule mathematics must respect asset-class differences.
+
+============================================================
+30. COMPARISON
+============================================================
+
+Compare exact programs, not vague firms.
+
+Minimum useful comparison includes:
+
+- asset class
+- model
+- fee
+- all-in cost
+- profit target
+- daily loss
+- max DD
+- DD type
+- equity/balance
+- consistency
+- minimum days
+- news
+- weekend
+- overnight
+- EA
+- copy
+- hedging
+- contract/lot limits
+- payout gates
+- payout cap
+- profit split
+- inactivity
+- KYC
+- sim/live
+- restrictions
+- last verified source/date
+
+Every important cell should have source evidence.
+
+============================================================
+31. GRAVEYARD / CLOSED FIRMS
+============================================================
+
+Do not delete companies simply because they closed.
+
+Historical companies are valuable.
+
+Keep:
+
+ACTIVE
+PAUSED
+CLOSED
+RESEARCH ONLY
+
+and show:
+
+closure date
+evidence
+historical programs
+historical rules
+historical context
+
+Remove affiliate CTA from dead/junk entities.
+
+============================================================
+32. PUBLIC METHODOLOGY
+============================================================
+
+The methodology must be public.
+
+Explain:
+
+- how rules are collected
+- how sources are prioritized
+- how conflicts are handled
+- how freshness is measured
+- how firm-risk is measured
+- how trader reports are treated
+- how affiliate relationships work
+- how matcher recommendations are generated
+
+A user should never need to trust us blindly.
+
+============================================================
+33. ANTI-AFFILIATE PRINCIPLE
+============================================================
+
+The platform may eventually monetize through affiliates.
+
+But:
+
+AFFILIATE MONEY MUST NOT CONTROL FACTUAL DATA.
+
+Never:
+
+- rank a firm because of CPA
+- hide a negative firm because of affiliate revenue
+- put paid firms above better-supported results
+- sell placement disguised as research
+- allow coupon urgency to dominate the experience
+
+The order should be:
+
+RULES
+→ EVIDENCE
+→ EXPLANATION
+→ COMPARISON
+→ DECISION
+→ OPTIONAL DISCLOSED AFFILIATE ACTION
+
+Trust comes before revenue.
+
+============================================================
+34. WEBSITE EXPERIENCE
+============================================================
+
+The website should feel like:
+
+A serious financial intelligence product.
+
+Not:
+
+- coupon marketplace
+- generic affiliate blog
+- broker directory
+- crypto casino
+- AI-generated landing page
+
+The visual philosophy should be:
+
+quiet
+premium
+data-rich
+clear
+modern
+fast
+trustworthy
+
+Simple for beginners.
+Powerful for advanced traders.
+
+============================================================
+35. USER EXPERIENCE PRINCIPLE
+============================================================
+
+Every complicated concept must answer:
+
+WHAT IS IT?
+
+WHAT DOES IT MEAN?
+
+SHOW ME AN EXAMPLE.
+
+WHY SHOULD I CARE?
+
+HOW CAN IT HURT ME?
+
+SHOW ME THE SOURCE.
+
+============================================================
+36. HOMEPAGE
+============================================================
+
+The homepage should communicate the product instantly.
+
+Primary message:
+
+KNOW THE RULES BEFORE YOU PAY.
+
+Then immediately explain:
+
+We collect the scattered rules.
+We verify the evidence.
+We explain the math.
+We show the risks.
+We help you compare programs.
+
+Primary actions:
+
+Investigate a Firm
+Compare Programs
+Check My Strategy
+Decode Drawdown
+
+Avoid:
+
+Top 10 lists
+countdown timers
+raffles
+fake urgency
+affiliate-heavy hero sections
+
+============================================================
+37. SEARCH
+============================================================
+
+Search should accept:
+
+firm name
+program
+account size
+rule
+drawdown
+payout
+news
+EA
+consistency
+country
+platform
+
+Examples:
+
+FTMO 1-Step
+Apex EOD
+daily drawdown
+$100K
+news trading
+consistency
+
+Search results should clearly distinguish:
+
+Firm
+Program
+Rule
+Guide
+Change
+Tool
+
+============================================================
+38. GLOBAL SCOPE
+============================================================
+
+The final vision is global.
+
+Support:
+
+Forex / CFD
+Futures
+Crypto
+and future asset classes.
+
+Support global traders.
+
+Eventually support multiple languages, especially where real user demand exists.
+
+Do not design the database around one country.
+
+Country eligibility must be first-class information.
+
+============================================================
+39. SEO VISION
+============================================================
+
+Do not depend on generic:
+
+“Best Prop Firm 2026”
+
+content.
+
+Build authority around:
+
+- trailing drawdown
+- static vs trailing
+- EOD vs intraday
+- equity vs balance
+- consistency
+- best day
+- payout gates
+- news windows
+- weekend holding
+- why challenges fail
+- hidden/easy-to-miss rules
+- one-step vs two-step vs instant
+- firm-vs-program comparisons
+
+Then generate high-quality program pages from the structured database.
+
+A program page is a living intelligence object, not a generic article.
+
+============================================================
+40. PUBLIC DATA
+============================================================
+
+Where practical, expose:
+
+- current rule dataset
+- methodology
+- change history
+- downloadable JSON/CSV
+- source dates
+- research status
+
+The goal is to make the platform citeable by:
+
+traders
+communities
+journalists
+researchers
+content creators
+other tools
+
+============================================================
+41. FUTURE FLAGSHIP FEATURES
+============================================================
+
+The long-term moat may include:
+
+1. Same-trade comparison
+2. Drawdown Decoder
+3. Consistency Simulator
+4. Payout Eligibility Engine
+5. Strategy Matcher
+6. Trade-history import from MT5/Tradovate/CSV
+7. Practice mode using FUNDED rules
+8. Rule-change alerts
+9. Checkout/browser overlay
+10. Complaint Radar
+11. Firm Graveyard
+12. Firm Risk Intelligence
+13. Firm-specific news calendar
+14. Multilingual intelligence
+15. Public rules dataset
+16. B2B Rules API
+
+These should be developed in stages.
+
+Do NOT build everything at once.
+
+============================================================
+42. THE BEST FUTURE USER FLOW
+============================================================
+
+A trader sees a prop firm in a YouTube/Instagram/Telegram promotion.
+
+They come to us.
+
+They enter the firm.
+
+We show:
+
+FIRM
+↓
+PROGRAMS
+↓
+EXACT ACCOUNT
+↓
+EVALUATION RULES
+↓
+FUNDED RULES
+↓
+PAYOUT GATES
+↓
+EASY-TO-MISS CONDITIONS
+↓
+HOW TO FAIL
+↓
+SAME-TRADE VISUAL
+↓
+TRADER EXPERIENCE
+↓
+RULE CHANGES
+↓
+ALL-IN COST
+↓
+STRATEGY MATCH
+↓
+SOURCES
+↓
+DECISION
+
+The user should leave understanding the product instead of merely knowing its marketing claims.
+
+============================================================
+43. WHAT WE MUST NEVER BECOME
+============================================================
+
+Never become:
+
+- another coupon site
+- another generic review blog
+- another “best prop firm” ranking page
+- another Trustpilot-only ranking
+- a broker-rating website
+- a spammy AI SEO farm
+- a site that mixes futures and FX into one score
+- a site that silently overwrites conflicting rules
+- a site that presents trader allegations as facts
+- a site that copies competitor data as truth
+- a site that uses fake numbers for credibility
+- a site that pretends every program is equally comparable
+
+Never sacrifice trust for affiliate revenue.
+
+============================================================
+44. THE TRUST RULE
+============================================================
+
+When uncertain:
+
+SHOW THE UNCERTAINTY.
+
+Examples:
+
+Verified
+Partially verified
+Conflicting
+Unverified
+Not disclosed
+Historical
+Trader-reported
+Firm-stated
+
+This is a feature, not a weakness.
+
+============================================================
+45. THE PRODUCT'S TRUE MOAT
+============================================================
+
+Our moat is NOT:
+
+“we list 500 firms.”
+
+Our moat is:
+
+“We understand every program deeply enough to explain the rules, calculate their consequences, compare them correctly, replay trader behavior against them, track their evolution, and connect the official rules with real-world trader experience.”
+
+The database becomes a living rule graph.
+
+Firm
+→ Program
+→ Account
+→ Stage
+→ Rule
+→ Condition
+→ Exception
+→ Source
+→ Version
+→ Change
+→ Trader experience
+→ Outcome
+
+============================================================
+46. DEFINITION OF WORLD #1
+============================================================
+
+We are World #1 when:
+
+A trader is about to buy a challenge.
+
+They come to PropFirmDecoder.
+
+They either paste the firm/program link or search for it.
+
+Within minutes they can see:
+
+- what the product actually is
+- whether it is simulated/live/hybrid/unknown
+- every important rule
+- evaluation rules
+- funded rules
+- payout gates
+- exact drawdown mechanics
+- consistency mechanics
+- hidden/easy-to-miss conditions
+- examples
+- calculations
+- trader-reported problems
+- firm responses
+- recent rule changes
+- all-in cost
+- strategy compatibility
+- what could cause their own trades to fail
+
+And they can verify the important information themselves.
+
+The trader should think:
+
+“I do not need to open 20 tabs anymore.”
+
+That is the outcome we are building toward.
+
+============================================================
+47. GOAT IS THE FIRST TEST, NOT THE PRODUCT
+============================================================
+
+The first prop firm used for deep implementation/testing is:
+
+https://www.goatfundedtrader.com/
+
+Goat should become the first complete demonstration of the engine.
+
+But:
+
+DO NOT hardcode Goat into the architecture.
+
+The real test is:
+
+Goat
+→ works
+
+Firm B
+→ works
+
+Firm C
+→ works
+
+without rewriting the entire product.
+
+The engine must eventually support the global market.
+
+============================================================
+48. DEVELOPMENT DECISION RULE
+============================================================
+
+Whenever deciding whether to build a feature, ask:
+
+Does this help the trader understand the real program?
+
+Does this improve evidence?
+
+Does this improve rule accuracy?
+
+Does this improve explainability?
+
+Does this improve simulation?
+
+Does this improve comparison?
+
+Does this improve trust?
+
+Does this improve decision quality?
+
+If not, it is probably lower priority.
+
+============================================================
+49. NORTH-STAR PRODUCT LOOP
+============================================================
+
+SOURCE
+→
+RULE
+→
+EXPLANATION
+→
+CALCULATION
+→
+RISK
+→
+SIMULATION
+→
+TRADER EXPERIENCE
+→
+DECISION
+
+Everything in the platform should reinforce this loop.
+
+============================================================
+50. FINAL PRODUCT STATEMENT
+============================================================
+
+PropFirmDecoder exists because traders should not have to discover the real rules AFTER they pay.
+
+We collect the scattered information.
+
+We decode the rules.
+
+We preserve the evidence.
+
+We show the conditions.
+
+We explain the math.
+
+We expose what is easy to miss.
+
+We track what changes.
+
+We show what traders report.
+
+We separate reports from facts.
+
+We simulate consequences.
+
+We compare programs correctly.
+
+And we help each trader make a more informed decision.
+
+The ultimate vision is:
+
+EVERY FIRM.
+EVERY PROGRAM.
+EVERY IMPORTANT RULE.
+EVERY IMPORTANT CONDITION.
+EVERY SOURCE.
+EVERY MEANINGFUL CHANGE.
+EVERY RELEVANT TRADER EXPERIENCE.
+
+ONE INTELLIGENCE PLATFORM.
+
+When working on this project, always preserve this goal.
+Do not reduce the product to a directory, ranking table, affiliate page, or cosmetic UI.
+The website is only the interface.
+The real product is the intelligence system underneath it.
+
+
+================================================================================
+PROPFIRMDECODER
+Complete project bible
+Compiled: 2 September 2026 (IST)
+For: Ved Kanani
+Brand to ship: PropFirmDecoder
+Domains to buy now: propfirmdecoder.com  +  drawdowndecoder.com
+North-star sentence: Don't buy the challenge until you can see how it kills you.
+================================================================================
+
+This file is the full working document. It is not a pitch deck. It is the
+product, the market, the rules, the competitors, the names, the features,
+and the plan in one place. Numbers below are only used when a named source
+exists. Affiliate roundups and Track360-style market-size claims are marked
+UNVERIFIED. Do not paste those into the public site as facts.
+
+
+--------------------------------------------------------------------------------
+0. WHAT THIS COMPANY IS
+--------------------------------------------------------------------------------
+
+The user journey today:
+
+  YouTube / Instagram / Telegram ad
+       -> prop firm landing page
+       -> "10% profit, 10% drawdown, 90% split, 80% off today"
+       -> trader pays for a challenge
+       -> trader does not understand trailing vs static, equity vs balance,
+          consistency, news windows, weekend flatten, inactivity clocks,
+          or that FUNDED rules are different from EVAL rules
+       -> account dies
+       -> reset / new challenge / another ad
+
+The industry is built on that loop. Finance Magnates (26 Jun 2026), citing
+FPFX, says about 7% of traders who buy a challenge ever receive a payout.
+That means fee revenue from the other 93% funds operations and the winners.
+
+Most retail "prop firms" sell SIMULATED evaluations. FTMO states on its
+own site that accounts are "demo accounts with fictitious funds." Payouts
+are typically contractual rewards paid from operating revenue (challenge
+fees + the split they keep), not a share of a live interbank book. The5ers
+says this explicitly: https://the5ers.com/what-is-a-prop-firm/
+
+So the product is not "another best prop firm 2026 list."
+The product is a RULES DECODER:
+
+  - list ALL prop firms that actually operate
+  - list ALL evaluation models (1-step, 2-step, 3-step, instant, combine,
+    lightning, hyper growth, bootcamp, swing)
+  - split FX/CFD vs US futures vs crypto (these are three products, not one)
+  - show EVERY rule, including hidden / poorly written / funded-only rules
+  - show them with examples and visuals a trader can actually understand
+  - let the trader compare, check, read, learn, then pick the program that
+    matches HOW THEY TRADE
+  - goal: make traders succeed (reduce preventable rule deaths), not
+    maximize challenge-fee cookies
+
+Closest existing positioning: proprulebook.com ("the prop firm rules that
+actually fail traders") -- coverage looks tiny (~4 firms on the homepage).
+Closest existing catalog: propfirmmap.com (~211 listings).
+Closest existing marketplace: propfirmmatch.com.
+Nobody has the killer layer: "this same trade lives on FTMO 2-Step and
+dies on Apex Intraday, and this green day just raised your Topstep target."
+
+
+--------------------------------------------------------------------------------
+1. VERDICT (THINK LIKE A TRADER)
+--------------------------------------------------------------------------------
+
+The idea is right. The market is packed with the WRONG product.
+
+Traders do not fail because they cannot find "best prop firm 2026."
+They fail because:
+
+  1. Ads sell a story, sites hide the real rules.
+  2. Rules are written in legal / marketing English, split across pricing
+     pages, FAQs, help centers, and "forbidden practices" PDFs.
+  3. Eval rules != funded rules != payout-gate rules. People pass, then
+     die in week one of funded (FTMO news +/-2 minutes and weekend flatten
+     only apply after you are funded on Standard).
+  4. Trailing drawdown means "I'm up 8%, I have 10% room" is a lie. The
+     floor already moved up.
+  5. Consistency / Best Day can silently raise the target or hide the
+     payout button. Losses do NOT reset best day.
+  6. A TP/SL fill inside a news window can be a breach even if you did
+     not open a new trade (FTMO).
+  7. Comparison sites rank whoever pays the highest affiliate CPA.
+  8. Trustpilot is gamed. Instant Funding's page was suspended in early
+     2026 for fake reviews (documented by PropFirmMap).
+  9. 80-100 firms died in 2024 (Finance Magnates Intelligence). Funded
+     "profits" are unsecured contractual claims, not SIPC money.
+ 10. CFD "10% static" and futures "$3,000 target vs $2,000 trailing MLL"
+     are not comparable. Mixing them into one 0-100 score mis-educates.
+
+World #1 is not "more firms than PropFirmMap."
+World #1 is: when a trader is about to buy a challenge, they paste the
+link or pick the program and SEE THE DEATH CONDITIONS before they pay.
+Google sends them for drawdown / hidden-rules / consistency queries.
+Discord sends the screenshot of the same-trade visual.
+Firms hate you. Traders trust you.
+
+Honest public promise (never say "we get you funded"):
+  We reduce preventable rule deaths. The ~7% payout rate is the base rate.
+
+
+--------------------------------------------------------------------------------
+2. HOW THESE COMPANIES ACTUALLY EARN
+--------------------------------------------------------------------------------
+
+2.1 Cash flows (typical)
+
+  1. Evaluation / challenge fees      -- largest stream. Most buyers never
+                                        get funded.
+  2. Resets                           -- pay again after a fail.
+  3. Activation / funded-account fees -- common in US futures.
+  4. Subscriptions                    -- common in futures (Topstep, Earn2Trade).
+                                        Rare in FX/CFD (usually one-time).
+  5. Add-ons                          -- 95% split, EA/VPS, swing, no min days.
+  6. Profit-split keep                -- they keep 10-50% of trader profit
+                                        on funded accounts.
+  7. Inactivity expiry                -- forces a new purchase.
+  8. Reactivation                     -- buy back a blown funded account
+                                        (Topstep Back2Funded is hundreds of $).
+  9. Data fees                        -- futures DOM / Level 2 (Topstep $38/mo).
+
+FPFX, cited by Finance Magnates (26 Jun 2026):
+  only 7% of challenge buyers ever receive a payout, so fee revenue from
+  the other 93% funds operations and winners.
+  https://www.financemagnates.com/forex/prop-trading-slips-down-paris-agenda-as-the-us-steps-up/
+
+2.2 Three asset-class products (NEVER one ranking)
+
+  FX/CFD
+    Instruments: FX, indices, metals, oil, some crypto CFDs
+    Platforms: MT4/5, cTrader, DXtrade, MatchTrader, TradeLocker, TradingView
+    Names: FTMO, FundedNext, The5ers, FundingPips
+    Fee: one-time challenge; 2-step often refundable
+    Risk: % daily + % max DD (often static); news windows
+
+  US FUTURES
+    Instruments: CME/CBOT/NYMEX/COMEX (ES, NQ, CL, MBT, MET)
+    Platforms: TopstepX, NinjaTrader, Tradovate, Rithmic
+    Names: Topstep, Apex, Tradeify, Earn2Trade
+    Fee: monthly sub and/or one-time eval + activation
+    Risk: dollar trailing / EOD trailing; contract caps; consistency for payouts
+
+  CRYPTO
+    Spot/perps OR CME micros only
+    Topstep: CME Micro Bitcoin/Ether futures ONLY, not spot
+    https://www.topstep.com/disclosures-notices
+    Weekend holding vs 24/7 is the fork
+
+2.3 Evaluation models
+
+  2-STEP (still the FX/CFD default)
+    Prove twice. Typical: Phase 1 8-10%, Verification 5%, daily 5%,
+    max 10% static, 4-5 min trading days, unlimited time.
+    FTMO 2-Step: 10% then 5%, daily 5%, max 10% static, 4 min days,
+    fee refunded with first reward, reward "up to 90%."
+    https://ftmo.com/en/trading-objectives/
+    https://ftmo.com/en/how-it-works/
+    FundedNext Stellar 2-Step: 8% then 5%, daily 5%, max 10% static,
+    5 min days, 80% standard / up to 95% add-on, 15% challenge-phase
+    reward after first scale-up, first payout 21 days.
+    https://fundednext.com/general-rules/cfds/trading-objectives
+
+  1-STEP
+    One target, usually tighter DD.
+    FTMO 1-Step: 10% target, daily 3%, max 10% EOD TRAILING,
+    Best Day Rule 50%, reward 90%, fee NOT refunded.
+    FundedNext Stellar 1-Step: 10%, daily 3%, max 6% static, 2 min days,
+    first reward 5 business days. Marketing from $39.99 on $6K.
+    Topstep Combine / Apex eval: 1-step by design.
+
+  3-STEP
+    The5ers Bootcamp is the named 3-step in this set.
+    Treat program-page numbers as live-check items.
+
+  INSTANT / LIGHTNING / HYPER GROWTH
+    Skip eval, pay more, tighter ongoing rules.
+    FundedNext Stellar Instant: no target, no daily loss, 6% trailing,
+    no min days, split up to 80% (vs 95% on challenge paths), no fee refund.
+
+2.4 Official fee examples
+
+  Challenge / Combine : FTMO one-time (2-Step refundable, 1-Step not).
+                        Topstep monthly until pass. Earn2Trade TCP25 from $150/mo.
+  Reset               : Topstep reset = same as monthly path
+                        ($49 / $95 on 50K). FundedNext 1-Step: 10% off.
+  Activation          : Topstep Standard $149 once per XFA.
+                        "No Activation Fee" path: $95/mo on 50K then $0.
+                        https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions
+  Reactivation        : Topstep Back2Funded $599 / $699 / $829 (50/100/150K),
+                        30-day window.
+  Subscription        : Topstep 50K Standard $49/mo. Earn2Trade TCP from $150/mo.
+  Add-ons             : FundedNext 95% add-on; EAs/VPS with add-ons;
+                        1-Step news-trading profit on funded cut to 40%.
+  Data                : Topstep Level 2 $38/mo.
+
+2.5 Official profit splits (not marketing blogs)
+
+  FTMO 2-Step     up to 90%; fee refunded with first reward.
+  FTMO 1-Step     90%, fee not refunded.
+  FundedNext      80% standard, scale-up 90%, 95% add-on; Instant capped 80%.
+                  15% of challenge profit on 1-Step/2-Step after first scale-up.
+  The5ers HS      withdrawals every 14 days. Marketing says 80% HS / 50%
+                  Bootcamp scaling to 100% -- confirm on checkout.
+  Topstep         "Keep 90% of your profits." XFA payouts after 5x $150
+                  winning days (Standard) or 3 days + 40% consistency.
+  Apex EOD PA     100% of approved payout amount, $500 min, MAX 6 PAYOUTS
+                  then PA closes, then re-eval. 50K ladder:
+                  $1,500 / 1,500 / 2,000 / 2,500 / 2,500 / 3,000.
+                  https://apextraderfunding.com/help-center/eod-trailing-drawdown-accounts/eod-payouts/
+  Earn2Trade TCP  50% under $1,500, 80% over $1,500.
+
+2.6 A-book vs B-book vs hybrid (almost never labeled on comparison sites)
+
+  A-book  : trader's order goes to the market / LP. Firm earns commission
+            / spread share. Firm WANTS the trader to survive and trade size.
+  B-book  : firm is the counterparty. Trader loss = firm profit.
+            Simulated evals with "fictitious funds" are economically closer
+            to this even when they later "copy" winners.
+  Hybrid  : A-book the good traders, B-book the rest (or internalize and
+            hedge the tail).
+
+  Product rule: treat funded CFD/FX props as SIMULATED unless the firm
+  proves live capital with a named broker / IB registration.
+  Topstep Brokerage LLC is a CFTC-registered IB / NFA 0567079. Live call-up
+  is rare (0.71% of Express Funded in 2025, Topstep's own stats).
+  FTMO/FundedNext/The5ers are generally unregulated evaluation services.
+  Breakout/Kraken is a rare firm that discloses funded orders may be
+  internal book entries.
+
+  Almost NO comparison site labels firms A/B/hybrid with evidence.
+  Coverage lives in operator blogs (Track360, PropFirmScan, FX News Group).
+  This is a first-class column for us, with "evidence / claimed / unknown."
+
+
+--------------------------------------------------------------------------------
+3. PASS / FAIL RATES (ONLY SOURCED NUMBERS)
+--------------------------------------------------------------------------------
+
+3.1 Published by a firm (best available) -- TOPSTEP 2025
+    Language indexed on Topstep disclosures / program pages (JS-heavy,
+    confirm live before publishing):
+
+    Jan-Dec 2025:
+      (a) 16.8% of Trading Combines initiated were completed
+          (advance to Funded Level).
+      (b) 51.8% of INDIVIDUALS who entered >=1 Combine advanced at least once.
+      (c) 33.3% of Funded-Level individuals received a payout.
+      (d) 0.71% of Express Funded participants were called up to a LIVE
+          Funded Account.
+
+    https://www.topstep.com/disclosures-notices
+    https://www.topstep.com/our-program
+
+    How to use in product copy:
+      Account-level pass ~ 1 in 6.
+      Person-level (retries) ~ 1 in 2.
+      Funded != paid (only 1 in 3 funded got a payout).
+      Live capital is rare (0.71%).
+      NOT transferable to FTMO / FundedNext.
+
+    Topstep also states: "Over 63% of traders have lost an account in a
+    single day."
+    https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions
+
+3.2 Industry-level (named, not firm-audited)
+
+    Finance Magnates 26 Jun 2026, citing FPFX:
+      7% of traders who buy a challenge successfully secure a payout.
+
+    The5ers (firm blog, citing FPFX 300k accounts) -- SECONDHAND / UNVERIFIED
+    independently: ~14% pass evaluation, ~7% ever paid, 1-3% consistently
+    funded a year. https://the5ers.com/what-is-a-prop-firm/
+
+    FTMO publishes 4.5M+ customers and $650M+ paid in rewards, NOT a
+    pass rate. https://ftmo.com/en/how-it-works/
+
+3.3 Do NOT use without an "unverified" flag
+
+    Affiliate pages citing "FTMO 10-12%", "Apex 12-18%", "industry 5-10%",
+    "$850M revenue", "2.1M funded traders" (Track360, TradersSecondBrain,
+    ThePropFirmGuide). No audit trail.
+
+    Track360 also claims ~120-150 active acquiring firms in 2026, peak
+    220+ in 2023, retail revenue ~$850M, ~12M challenge purchases,
+    affiliates drive ~40-50% of purchases. Treat as THEIR estimate.
+
+    Octrado study: primary market $4.0-4.5B, broader ecosystem ~$20B.
+    https://prop.octrado.com/documents/octrado-study-prop-trading.pdf
+    These cannot all be true under one definition. Directories count
+    listings. Track360 counts acquiring operators. Nobody has a census.
+
+3.4 Qualitative failure stories (UNVERIFIED, use as education not stats)
+
+    - Daily loss / trailing DD on OPEN equity, not closed P&L.
+    - One green day that trips consistency and RAISES the target.
+    - News window: SL/TP fills inside +/-2 minutes = breach.
+    - Weekend hold on "Standard" funded FX accounts.
+    - Payout denied on KYC / "prohibited strategy" after a winning month.
+    - Fee cycling: fail, reset, promo code, fail again.
+
+
+--------------------------------------------------------------------------------
+4. RULES TRADERS MISUNDERSTAND (THE PRODUCT CORE)
+--------------------------------------------------------------------------------
+
+Every program on the site must encode these as structured fields, not
+prose. Official citations where we have them.
+
+4.1 Drawdown types -- the #1 killer
+
+  STATIC / ABSOLUTE
+    Floor = start minus X%. Floor does NOT rise with profits.
+    Who: FTMO 2-Step max 10% static. FundedNext Stellar 1/2/Lite static.
+    The5ers High Stakes 10% from initial.
+
+  EOD TRAILING
+    Floor trails END-OF-DAY peak (or midnight balance). Intraday
+    excursion may still FAIL IN REAL TIME if equity hits the current floor.
+    Who: FTMO 1-Step max loss: EOD trailing 10% of initial, recalculated
+    00:00 CE(S)T on highest prior midnight balance. Topstep MLL "set at
+    the end of each day." Tradeify: EOD trailing, ENFORCED IN REAL TIME.
+    Earn2Trade eval: EOD min balance.
+
+  INTRADAY TRAILING
+    Floor trails PEAK EQUITY including unrealized. A runner that gives
+    back can fail you without a closed loss.
+    Who: Apex Intraday Trailing: threshold follows peak (realized +
+    unrealized), never down; eval 50K = $2,000.
+    https://apextraderfunding.com/help-center/intraday-trailing-drawdown-accounts/intraday-trailing-drawdown-explained/
+
+  DAILY LOSS
+    Recalculated each day from yesterday's close (balance and/or equity).
+    Includes OPEN P&L.
+    Who: FTMO 2-Step: 5% of INITIAL off TODAY's midnight balance, equity
+    cannot go below that. The5ers HS: 5% of HIGHER OF prior close equity
+    or balance, 00:00 UTC+3. FundedNext: % of initial, includes unrealized,
+    swap, commission.
+
+  EQUITY VS BALANCE
+    Equity = balance + open P&L +/- swap - commission.
+    MOST daily/max rules use equity.
+    FTMO: "account equity (Balance + Open Positions P/L +/- Swaps -
+    Commissions)." https://ftmo.com/en/trading-objectives/
+
+  SOFT VS HARD DAILY
+    Soft: trading halted for the day. Hard: account dead.
+    Topstep optional DLL: "not a rule break... until next market open."
+    The5ers Hyper Growth: 3% daily PAUSE (day only); 6% stop-out kills.
+    High Stakes 5% daily TERMINATES.
+
+  MISCONCEPTION: "I'm up 8%, I have 10% room."
+  On a TRAILING account the floor has already moved up.
+  On EQUITY rules, an open loser can breach even if yesterday's
+  close was fine.
+
+  PRODUCT OUTPUT: "inches to death", not "10% DD."
+  Inputs: start, peak (intraday vs EOD), open P&L, midnight / 15:10 CT
+  close, payouts (which reset some trails).
+
+4.2 Consistency / Best Day / profitable-day rules
+
+  FTMO 1-Step Best Day Rule:
+    Best day <= 50% of Positive Days' Profit (sum of PROFITABLE days
+    only). Not a hard fail -- you must keep trading until the ratio
+    drops. Hedging / splitting a trade across days to game it is
+    FORBIDDEN.
+    https://ftmo.com/en/trading-objectives/
+    https://ftmo.com/en/forbidden-trading-practices/
+
+  Topstep Combine:
+    Best day <= 50% of Profit Target; exceeding RAISES THE TARGET
+    (best day / 0.50). Losses do NOT reset best day. Can pass in 2
+    days, not 1. 50K: $3,000 target, stay under $1,500/day.
+    https://help.topstep.com/en/articles/8284208-consistency-at-topstep
+
+  Topstep XFA Consistency path:
+    Best day <= 40% of THAT WINDOW's net profit; 3 days; resets after
+    each payout. Standard path: 5 winning days of $150+, no 40% rule.
+
+  Apex PA:
+    Best day < 50% of profit since last payout; plus 5 qualifying days
+    with a min daily profit ($250 on 50K EOD).
+
+  Earn2Trade:
+    30% consistency. Help center says no min days, but 30% implies
+    >=4 profitable days.
+
+  The5ers High Stakes:
+    3 PROFITABLE days (not just any trade day).
+
+  MISCONCEPTION: "I hit the dollar target so I'm done."
+  Consistency can silently raise the bar or hide the payout button.
+
+4.3 News-trading windows
+
+  FTMO Standard funded:
+    No open OR close (including SL/TP) +/-2 minutes of listed
+    high-impact events on targeted symbols. Holding through is OK if
+    opened >2 min before. EVAL: unrestricted. Swing: unrestricted.
+    Also forbids "gap trading" around major news and <=2 hours before
+    a >=2-hour market close.
+    https://ftmo.com/en/faq/can-i-trade-news/
+    https://ftmo.com/en/forbidden-trading-practices/
+
+  The5ers:
+    Hold through news OK; EXECUTE +/-2 min of high-impact (Forex
+    Factory, server time) prohibited. PROFITS in the window deducted;
+    LOSSES KEPT.
+    https://the5ers.com/faqs/what-are-the-general-rules-for-the-high-stakes-program/
+
+  FundedNext Stellar 1-Step:
+    News allowed on challenge; funded "News Trading Profit 40%"
+    (profits in news windows haircut).
+
+  Earn2Trade: "Can Trade News" on TCP page.
+
+  MISCONCEPTION: "I didn't open a new trade."
+  A TP/SL fill inside the window is enough at FTMO.
+
+4.4 Weekend / overnight holding
+
+  FTMO Standard funded: close before weekend / before a rollover
+    >2 hours. EVAL: overnight and weekend OK. Swing: no restriction.
+    https://ftmo.com/en/faq/do-i-have-to-close-my-positions-overnight-or-before-the-weekend/
+  FundedNext Stellar 1-Step: weekend holding allowed on challenge AND funded.
+  Futures: exchange hours. Topstep trading day 5:00 PM CT to 3:10 PM CT.
+    Friday pass -> XFA not tradable until Sunday 5 PM CT.
+    CME crypto micros are NOT 24/7.
+
+4.5 Min days, lot/contract caps, EA / copy
+
+  Min days:
+    FTMO 2-Step 4 days with a position OPENED (a 3-day hold still
+    counts as 1 open day). FundedNext 2-Step 5; 1-Step 2; Instant 0.
+    The5ers HS 3 profitable days. Topstep Combine: consistency implies
+    >=2. Apex payout: 5 qualifying profitable days.
+
+  Contract caps (futures):
+    Topstep 50K: 5 mini / 50 micro.
+    Earn2Trade TCP25: progression ladder, max 3 -- exceeding is a HARD FAIL.
+    Apex eval 50K up to 10 (blog; confirm help center).
+
+  EAs:
+    FTMO allows algos if replicable and not hyperactive
+    (>2,000 server requests/day forbidden); third-party EA may hit
+    max capital allocation if many users share it.
+    FundedNext 1-Step: EAs/VPS add-on.
+    Topstep: automation allowed with conditions; copiers OK across
+    YOUR accounts; Prohibited Conduct still applies.
+
+  Copy / third-party:
+    FTMO: personal use only -- no one else trades your account; you
+    don't trade theirs. Topstep: ONE profile; multiple profiles = ToS
+    violation.
+
+4.6 Payouts, KYC, inactivity, scaling
+
+  KYC:
+    FTMO Identity AFTER passing, before FTMO Account.
+    https://ftmo.com/en/faq/when-do-i-complete-ftmo-identity/
+    FundedNext: KYC after phases.
+    The Funded Trader CEO publicly blamed >$2M of blocked Jan-Feb 2024
+    withdrawals on KYC / fraud / prohibited strategies.
+
+  Inactivity:
+    FundedNext CFDs 60 consecutive days with no trade -> deactivate.
+    The5ers HS: 30 days eval / 60 days funded.
+    JoinProp documents firms where the inactivity clock starts on
+    PURCHASE day, not first trade.
+
+  Payout buffers / safety nets:
+    Apex Safety Net = drawdown + $100, LIFETIME of the PA;
+    50K EOD min balance to request $52,600.
+    Tradeify: trailing locks at start + $100 once EOD profit exceeds
+    DD+$100.
+
+  Caps:
+    Apex 6 payouts then close (50K total ladder $13,000).
+    Tradeify Lightning/Growth: per-request caps and escalating
+    consistency (20% -> 25% -> 30% on Lightning).
+
+  Scaling:
+    FTMO scaling plan (site: up to $2M).
+    The5ers Hyper Growth: double on 10% milestones, marketed to $4M.
+    Earn2Trade TCP: withdraw target to climb $25K -> $50K -> $100K -> $200K.
+
+  Profits don't carry:
+    Topstep Combine P&L does NOT transfer to XFA (XFA starts at $0
+    buying-power P&L).
+
+4.7 Hidden-clause library (must be FIELDS, not blog posts)
+
+  - "Fair trading" / "gambling" / "all-or-nothing" / "abusive strategy"
+  - Opposite accounts / hedging across accounts
+  - EA hyperactivity / third-party EA allocation caps
+  - Copy trading / signal services / passing the account
+  - Lot-size variance / martingale / grid
+  - Best-day gaming (split a winner across days)
+  - Gap trading around news / around market close
+  - Inactivity from purchase date
+  - Payout REQUEST that itself can breach DD (E8 example on JoinProp)
+  - Retroactive rule changes
+  - Identity / KYC mismatch after a winning month
+  - Max capital allocation if the same strategy is used by many clients
+
+
+--------------------------------------------------------------------------------
+5. FUTURES vs FX/CFD -- STRUCTURAL DIFFERENCES THAT CHANGE OUTCOMES
+--------------------------------------------------------------------------------
+
+  ITEM            FUTURES (Topstep/Apex/Tradeify/E2T)     FX/CFD (FTMO/FN/The5ers)
+  DD quote        Dollars ($3,000 target vs $2,000 MLL    Percent (8-10% / 5-10%)
+                  on 50K -- ratio ~1.5:1, trailing makes
+                  it worse after a green day)
+  Fee             Subscription rebill if slow             One-time; slow pass is "free" extra time
+  Sim vs live     Combine + XFA often still sim;          Almost always sim by contract
+                  Live is discretionary / rare
+  Payout gate     Winning-day counts, safety nets,        News, weekend, KYC, "forbidden practices"
+                  consistency, CAPS
+  Regulation      Topstep is CFTC IB / NFA                Generally unregulated evaluation services
+  News            N/A (futures hours)                     +/-2 min windows, profit haircuts
+  Weekend         Flat before 3:10 CT Friday              Standard funded: flatten; Instant/Swing: often OK
+
+  NEVER mix these into one "best firm 2026" number.
+  Separate boards. Separate matchers. Separate SEO clusters.
+
+
+--------------------------------------------------------------------------------
+6. CLOSURES, PAYOUT CONTROVERSIES, REGULATION (2024-2026)
+--------------------------------------------------------------------------------
+
+6.1 Regulation
+
+  CFTC v. Traders Global Group d/b/a My Forex Funds (Sep 2023,
+  litigation continued into 2025):
+    Complaint: fraudulently soliciting >=$310 million in fees from
+    >135,000 customers; alleged the firm was the counterparty, not a
+    third-party LP. Asset freeze 29 Aug 2023.
+    https://www.cftc.gov/PressRoom/PressReleases/8771-23
+    Product copy must say "charged / alleged," NOT "convicted."
+    A May 2025 Special Master report criticized CFTC declarations.
+
+  Consob (Italy), 8 Jul 2024:
+    Warns that "funded trading" / "shadow investment games" resemble
+    FINANCE VIDEO GAMES: paid tests designed to be hard to pass,
+    promised profit-share on "real" replication, complaints of no
+    payouts. Similar warnings by Belgium FSMA and Spain CNMV.
+    https://www.consob.it/web/area-pubblica/-/comunicazione-del-2024-07-08
+
+  EU 2026: CySEC chair told Finance Magnates ESMA is NOT in substantive
+  talks on retail prop (26 Jun 2026). Same article: FTMO bought OANDA;
+  firms hybridizing into brokers.
+
+  MetaQuotes 2024: revoked MT4/5 for many prop setups (esp. US). Forced
+  migration to cTrader / DXtrade / MatchTrader / TradeLocker. Primary
+  driver of the 2024 wipeout per FM Intelligence.
+
+6.2 Closures / pauses (documented news)
+
+  The Funded Trader pauses all ops -- 28 Mar 2024
+    https://www.financemagnates.com/forex/breaking-prop-trading-firm-the-funded-trader-pauses-all-operations/
+    After payout-denial wave. CEO: $17M paid vs >$2M blocked Jan-Feb 2024
+    (KYC/fraud/prohibited strategies). ~80k accounts. Later Cayman move;
+    Aug 2024 claimed 30% of owed payouts sent.
+
+  SurgeTrader shuts -- 2024
+    https://www.financemagnates.com/forex/prop-firm-surgetrader-shuts-down-a-week-after-losing-match-trader-license/
+    Lost MetaQuotes, then Match-Trader license, then closed.
+
+  Industry wipeout -- 2024
+    https://www.financemagnates.com/forex/exclusive-80-100-prop-firms-wiped-out-in-2024s-industry-collapse/
+    FM Intelligence: 80-100 firms gone in 2024; FunderPro mid-year ~50.
+    Extended estimate early 2024-late 2025: up to 100 firms, ~14% of
+    the market (FM 26 Jun 2026).
+
+  ATFunded (ATFX) paused -- as of Jun 2026 article, sustainability review.
+
+  MyFundedFX -> SeacrestFunded prop exit -- 6 Feb 2026
+    Secondary trackers (JoinProp, PropFirmVerifier). CONFIRM on
+    seacrestmarkets.com before publishing as fact. UNVERIFIED at
+    primary-source level in this research.
+
+  Trader outcome when a firm dies: funded "profits" are unsecured
+  contractual claims, not SIPC / segregated broker money.
+
+
+--------------------------------------------------------------------------------
+7. COMPLETE COMPETITOR LANDSCAPE (CHECKED LIVE, 2 SEP 2026)
+--------------------------------------------------------------------------------
+
+Market-size warning: PropFirmMap lists 211-221 "verified" firms;
+BestPropFirms 25; PROP NAVI 31; ThePropFirmGuide 57; TradingPilot 56+;
+Track360 says 120-150 acquiring operators. Listing != operating.
+
+Named sites from the original scan that are DEAD / NOT COMPARISON SITES:
+
+  propfirms.io          PARKS (not a working directory)
+  whichprop.com         parking lander
+  propfirmdaily.com     parking lander
+  propchallenge.com     parking
+  propchallenges.com    parking (old index remnants -- do not treat as live)
+  propfirm.app          FOR SALE (Spaceship). Working product is propfirmapp.com
+  breakoutprop.com      a CRYPTO PROP FIRM (Kraken-owned), not a directory
+  daytrading.com/prop-trading-firms   404. Real page: /prop-trading
+
+--------------------------------------------------------------------------------
+7.1 Directories / ranking / comparison (site by site)
+--------------------------------------------------------------------------------
+
+1) PROP FIRM MATCH
+   URL: https://propfirmmatch.com/
+   Claims: trusted platform to compare using verified data; reviews,
+   rules, rankings. Separate Forex / Futures / Crypto. Transparency
+   page says no firm can buy a ranking.
+   Actually: huge marketplace -- firms, challenges, offers, reviews,
+   spreads, payouts, demo logins, unlisted-firms board, loyalty,
+   Chrome extension, awards. FXStreet (Apr 2026) calls it
+   "feature-rich but heavily monetised... more like a marketplace
+   than a neutral comparison tool" (pop-ups, giveaways, discount
+   banners, urgency).
+   Transparency: https://propfirmmatch.com/transparency -- discloses
+   commercial relationships; does NOT publish exact ranking formula.
+   STEAL: breadth (forex+futures+crypto), filter depth, trader-review
+   volume, unlisted/delisted/warnings, demo-account hub, challenge-
+   level (not just firm-level) catalog.
+   PROBLEMS: affiliate marketplace UX; promotions mix with rankings;
+   hard to separate organic vs promoted; they admit they are paid by
+   firms they rank (PickMyTrade).
+   Hidden-rule decoding / visual breach / A-B book: NOT CORE.
+
+2) THETRUSTEDPROP
+   URL: https://thetrustedprop.com/
+   Rankings: https://thetrustedprop.com/rankings
+   Payout proof: https://thetrustedprop.com/payout-proof
+   Safety: https://thetrustedprop.com/safety-center
+   How we rank: https://thetrustedprop.com/how-we-rank
+   Claims: 400+ firms. Trust Score 40%, User Reviews 25%, Payout
+   Reliability 20%, Platform Quality 15%. Affiliate does not guarantee
+   higher rankings.
+   Actually: operated by S and A Marketing FZ-LLC. Homepage still
+   offer-heavy. Rankings observed with 1-3 reviews at 5.0 at the top.
+   STEAL: named safety center, explicit methodology weights, forum,
+   payout-proof as a first-class page.
+   PROBLEMS: marketing-company owner; small-n review inflation;
+   CFD-heavy. Hidden-rule visuals / A-B book: WEAK.
+
+3) FOREXPROPREVIEWS
+   URL: https://forexpropreviews.com/
+   Actually: long-form reviews with promo codes branded
+   FOREXPROPREVIEWS, weekly free-challenge raffle, Prop School,
+   live spreads. Forex/CFD first.
+   STEAL: head-to-head named-pair articles; Prop School; live-spread.
+   PROBLEMS: classic affiliate; "unbiased" while codes are in H1s.
+   Hidden-rule decoding is article-level, not a rules engine.
+
+4) BESTPROPFIRMS (bestpropfirms.com)
+   URL: https://www.bestpropfirms.com/
+   Same team as CompareForexBrokers (Justin Grossbard / Noam Korbl).
+   Independently ranking 25 FOREX prop firms; "no paid placements";
+   BPF Score 0-100 from 7 criteria. Last verified 31 Aug 2026.
+   One table of 25 with scores, promo codes, Visit CTAs. FundedNext 97,
+   BrightFunded 95, Eightcap 93... FTMO only 75.
+   STEAL: published 7-criterion score; all 25 on one page; last-verified
+   date; buyer-guide order (eval -> drawdown -> split -> payout -> platform).
+   PROBLEMS: forex/CFD-only, 25 firms -- misses Apex/Topstep/Tradeify.
+   Promo codes on high-scoring rows. New firms graded on a curve vs FTMO.
+
+5) TRADERSUNION
+   URL: https://tradersunion.com/ratings/prop/common/  (updated 28 Aug 2026)
+   Broker-style ranking (min deposit, "regulation," "Go to broker").
+   Weights: Challenge 25%, Payout 20%, Pricing 15%, Platforms 12.5%,
+   Scaling 10%, Support 10%, Transparency 7.5%.
+   STEAL: explicit weight table; they correctly note most props are
+   unregulated.
+   PROBLEMS: broker-comparison UX on a non-broker product. Regulation
+   column messy (FundedNext listed ASIC). Mixes CFD with Earn2Trade.
+   Stale adjacent articles still mention MyForexFunds.
+
+6) WIKIFX
+   URLs: https://www.wikifx.com/en/best/best-prop-trading-firms.html
+         https://www.wikifx.com/en/best/best-funded-trader-programs.html
+   STALE/WRONG 2026 listicle: SurgeTrader, Fidelcrest, The Funded Trader
+   as if current leaders; swapped founded/country; 70% FTMO split
+   (outdated); confuses institutional desks with retail challenges.
+   DO NOT USE AS A DATA SOURCE.
+
+7) DAYTRADING.COM
+   URL: https://www.daytrading.com/prop-trading  (updated 25 Aug 2026)
+   Editorial "top 3 funded accounts" because they "aren't comfortable
+   recommending most firms." Top 3 are BROKER-PROP HYBRIDS: Eightcap
+   Challenges, NinjaTrader Prop / Tradovate Prop, Kraken Funded.
+   STEAL: willingness to recommend almost nobody; scorecard; skepticism
+   of finfluencer prop shilling.
+   PROBLEMS: not a directory. Misses FTMO/Apex/Topstep as "top 3."
+   Affiliate disclosure that compensation can influence list placement.
+
+8) LIVING FROM TRADING (Pedro Taveira)
+   https://www.livingfromtrading.com/blog/forex-prop-firms/  (17 Aug 2026)
+   https://www.livingfromtrading.com/blog/futures-prop-firms/
+   YouTuber/blogger roundups + PropScan comparison tool. Separate forex
+   vs futures. Calls out FTMO 1-step best day rule.
+   STEAL: separate asset-class roundups; pairwise tables; YouTube trust.
+   PROBLEMS: affiliate Visit buttons; soft ratings; not a live rules DB.
+
+9) PROP FIRM APP  (propfirmapp.com, NOT .app)
+   https://propfirmapp.com/
+   Futures-leaning. Learning center: consistency, trailing DD with
+   examples (TradeDay/Apex/Topstep), payout timing, "9 Prop Firm Fees."
+   STEAL: education that names EOD vs intraday vs static with firm
+   examples; fee-stack honesty; futures-native.
+   PROBLEMS: affiliate codes. Brand confusion with propfirm.app for sale.
+
+10) TRADINGPILOT
+    https://www.tradingpilot.com/
+    Claims 56+ firms, 1342+ challenges, $567.8M+ payouts tracked;
+    Prop Navigator quiz; challenge calculator; blockchain payout tracker;
+    cashback. Firms page sorted "by sales through TradingPilot."
+    STEAL: challenge-level catalog + matcher quiz + payout tracker as a
+    product; restriction flags (news, EAs, overnight).
+    PROBLEMS: deal/cashback site; explicit affiliate gravity.
+
+11) PROPINDER (FXStreet / Swiset)
+    https://propinder.com/
+    Quiz -> shortlist with trust rating, phases, DD, price, PROPINDER
+    discount codes. FXStreet positions it as slower/more considered vs
+    PFM's marketplace.
+    STEAL: profile-first UX (experience, platform, country) instead of
+    a 200-row grid; rules before CTA; media-brand distribution.
+    PROBLEMS: still affiliate codes. Catalog "still expanding."
+
+12) PROP FIRMS COMPARED
+    https://www.propfirmscompared.com/
+    Deal marketplace with Featured/Sponsored slot. AI Challenge Finder.
+    Asset-class tabs. Updated 31 Aug 2026.
+    STEAL: asset-class tabs; AI finder.
+    PROBLEMS: sponsored homepage; thin methodology.
+
+13) PROP FIRM GORILLA
+    https://propfirmgorilla.com/
+    Compare up to 5 PLANS (eval rules + funded rules + price). Discord
+    + weekday livestream. Futures-leaning.
+    STEAL: plan-level compare including FUNDED-STAGE rules (rare).
+    PROBLEMS: small catalog; community-first, data-second; affiliate.
+
+14) JOINPROP
+    https://joinprop.com/
+    Compare 150-200+ challenges; quiz; "a firm cannot pay for a better
+    rating." Review cards that call HIDDEN TRAPS in bullets (FTMO 1-Step
+    Best Day; advertised 90% vs 50% at most levels; inactivity clock
+    starts on purchase day; E8 payout-request breach).
+    STEAL: review format that lists "the thing marketing hides" as
+    bullets; quiz; futures vs CFD split.
+    PROBLEMS: still affiliate; scores without a fully inspectable dataset.
+
+15) PROPFIRMMAP
+    https://propfirmmap.com/
+    Compare: https://propfirmmap.com/compare
+    Payout leaderboard 2026:
+    https://propfirmmap.com/blog/prop-firm-payout-leaderboard-2026-who-actually-pays-verified-data
+    Trust-crisis (fake Trustpilot):
+    https://propfirmmap.com/blog/prop-firm-trust-crisis-fake-reviews-shutdowns-verification-2026
+    Claims 211-221 verified firms; weekly re-verify; 180 firms / 2827
+    challenges in compare (Aug 2026). Broadest STRUCTURED directory found.
+    Filters: asset, size, 1-step/2-step/instant, DD type, payout speed.
+    All-in cost after codes. Safety A/A+.
+    STEAL: challenge-level all-in cost; safety grade; weekly refresh
+    claim; fake-review / shutdown journalism.
+    PROBLEMS: "verified" = their completeness checks, not audited
+    payouts. Trustpilot is an input (and they document Trustpilot gaming).
+    211 listings >> 120-150 acquiring firms. Hidden-rule decoder: partial.
+    Visuals / A-B: no.
+
+16) PROPFIRMITO
+    https://propfirmito.com/rank/
+    21 firms / 325 offers; 0-100 from 14 factors / 6 pillars; SEPARATE
+    Forex / Futures / Crypto leaderboards; codes re-verified at live
+    checkout. Crypto board empty after delist.
+    STEAL: asset-class-separated scores; account-level scoring;
+    checkout-verified discounts; "rankings first, discounts second."
+    PROBLEMS: tiny catalog.
+
+17) TRADERVERDICT
+    https://traderverdict.com/best-prop-firms-2026
+    35 firms; TVSM-PF v2.0.2; 17 variables / 6 dimensions; EVERY SCORE
+    CITES A VERBATIM EXTRACT from the firm's rules/TOS; NFA BASIC / CFTC
+    checks; firms below 50 stay listed as Research Only with ZERO
+    affiliate links, enforced in code. Freshest verification 2026-08-02.
+    STEAL: cite-the-source scoring; keep bad firms listed; kill affiliate
+    below a threshold; live score from a database.
+    PROBLEMS: only 35 firms; dense; not a visual simulator.
+
+18) PROP NAVI
+    https://propnavi.io/en/
+    Table: https://propnavi.io/en/data/comparison/  (updated 2026-06-22;
+    31 firms, 28 active, 3 closed)
+    Affiliate-bias article:
+    https://propnavi.io/en/blog/affiliate-conflict-of-interest-prop-comparison/
+    Red flags 2026: https://propnavi.io/en/blog/prop-firm-red-flags-2026/
+    Side-by-side from official terms; "--" if unverified (not zero);
+    downloadable JSON/CSV; shutdown tracker.
+    STEAL: downloadable dataset; don't invent zeros; closed firms stay
+    in the table; the best public critique of comparison-site bias.
+    PROBLEMS: ~31 firms; flagship-plan only; spreadsheet, not a decoder.
+
+19) THE PROP FIRM GUIDE
+    https://thepropfirmguide.com/
+    Payout-denied guide: https://thepropfirmguide.com/prop-firm-payout-denied/
+    57 firms (23 futures / 28 forex / 6 crypto); on-chain payout tracker
+    (Rise/Arbitrum); "no paid placements"; started after losing money on
+    "safe" affiliate lists. Still has deals up to 90% off and loyalty
+    points for BUYING THROUGH THEIR CODES.
+    STEAL: on-chain "who actually paid"; consistency calculator; explicit
+    futures vs forex vs crypto IA; payout-denied playbook; no-consistency
+    filter.
+    PROBLEMS: still affiliate. On-chain misses ACH/wire/Deel futures names.
+
+20) FXEMPIRE
+    https://www.fxempire.com/prop-firms
+    40+ firms, 100+ data points, hands-on testing.
+    Advertising disclosure is unusually blunt: compensation CAN influence
+    the products they showcase AND list placement.
+    STEAL: hands-on testing claim; category guides.
+    PROBLEMS: they admit placement can be bought.
+
+21) BESTPROPS
+    https://bestprops.com/compare/   and   https://bestprops.com/rules/
+    Compare RULES BEFORE YOU BUY, sourced from official help-center
+    packets with evidence IDs and check dates (e.g. 2026-07-07).
+    Filters: daily loss, DD type, consistency, payout gates, news/weekend,
+    source reliability. Futures and forex/CFD.
+    STEAL: cite official help articles per cell; filter by the rules that
+    actually fail traders; source confidence. CLOSEST DATA MODEL TO OURS.
+    PROBLEMS: smaller brand; anti-bot; catalog size needs a browser confirm.
+
+22) PROPSCORER
+    https://www.propscorer.com/
+    PropScore / Health Score from "live tracked data"; verified payout
+    feed. Tier list: https://www.propscorer.com/blog/prop-firm-tier-list-march-2026
+    STEAL: treating payout flow as a time series; health vs marketing score.
+    PROBLEMS: newer; futures-skew; methodology less public.
+
+23) RESPONSIBLE TRADING
+    https://responsibletrading.com/best-prop-firms-2026-our-independent-rankings-after-testing-50-firms/
+    https://responsibletrading.com/safest-prop-firms-2026/
+    https://responsibletrading.com/prop-firm-scams-to-avoid-in-2026-how-to-spot-the-warning-signs/
+    Independent scoring; no paid placements; safety after the collapse wave.
+    STEAL: safety-first ranking; "rule stability" as a pillar.
+    PROBLEMS: editorial, not a live DB. CFD-skewed safest list.
+
+24) OTHER NOTABLE 2025-2026 DIRECTORIES
+
+    PropFirmScan     https://propfirmscan.com/firms
+                     Directory + PFS 0-10; Companies House/SEC/ASIC + FPA.
+                     ALSO has an A-book vs B-book guide:
+                     https://propfirmscan.com/guides/the-ultimate-guide-to-prop-firm-broker-execution-a-book-vs-b-book-models
+    BestPropFirmGuide https://bestpropfirmguide.com/
+                     36 firms ranked ONLY by Trustpilot (Aug 2026, 263k
+                     reviews). Trustpilot is gamed. Do not copy this.
+    PropFundHub      https://propfundhub.com/
+                     44+ firms, tools, graveyard, shutdown tracker.
+                     "Largest" claim is false vs Map/PFM.
+    Prop Firm Pal    https://propfirmpal.com/     list + reviews + codes
+    PropFirmPickr    https://propfirmpickr.com/prop-firms    60+ , PICKR discounts
+    PropTradersHub   https://proptradershub.com/rankings     13 firms, tiny
+    H2T Funding      https://h2tfunding.com/best-prop-firms/  40+ blog/directory
+    FuturesHive      https://www.futureshive.com/blog/best-futures-prop-firm-2026
+                     8 futures firms, "no affiliate bias" claim. Blog, not DB.
+    TradeTerminal    https://tradeterminal.org/prop-firms
+                     Topstep vs Apex vs Tradeify vs Lucid. Only 4 firms;
+                     excellent FINE-PRINT table. "No affiliate rankings."
+    TradeCovex       https://tradecovex.com/guides/prop-firm-rules-2026
+                     Honest 2026 rule-change hub (Topstep/Apex/MFFU).
+    PropRulebook     https://proprulebook.com/
+                     DIRECT PRODUCT COLLISION. "The prop firm rules that
+                     actually fail traders." Challenge matrix, drawdown
+                     calculator, rule-risk quiz. Coverage looks ~4 firms.
+                     Race them on DEPTH, not slogan. Do not use the
+                     Rulebook name.
+
+    Also in the category: DamnPropFirms (damnpropfirms.com, futures
+    discounts + community), Vetted Prop Firms, PropFirmStats,
+    PropFirmDeals, PropFirmsRadar, TradingFunder, FundedTruth,
+    PassPropTradingFirms, Payout Junction (payoutjunction.com, on-chain
+    payout tracker).
+
+--------------------------------------------------------------------------------
+7.2 Complaint / review communities
+--------------------------------------------------------------------------------
+
+  TRUSTPILOT  https://www.trustpilot.com/
+    Default trust signal AND the most manipulated. PropFirmMap documents
+    Instant Funding's page SUSPENDED in early 2026 for fake reviews.
+    Firms buy reviews with challenge credits. High score + low volume
+    != safety.
+    STEAL: review VELOCITY and 1-star THEMES (payout, KYC, hedging,
+    consistency), not the star average.
+
+  FOREX PEACE ARMY
+    https://www.forexpeacearmy.com/forex-reviews/prop-trading-firms
+    Older FX complaint culture. Mixed with brokers. Reputation mixed.
+    Live fetch sometimes "Please come back later."
+
+  REDDIT (use as complaint radar, not a ranking)
+    r/propfirm          payout denials, live rule-change reports
+    r/proptrading
+    r/FuturesTrading    Apex, Topstep, Tradeify
+    r/Daytrading, r/Forex, r/FundedTrading
+    Problems: shills, brigading, unverified screenshots.
+    STEAL: sort by New; tag themes into our hidden-rule layer with
+    timestamps.
+
+--------------------------------------------------------------------------------
+7.3 Education / YouTube-adjacent / hidden-rule explainers
+    (almost none are also good directories)
+--------------------------------------------------------------------------------
+
+  PropJournal
+    https://propjournal.net/guides/trailing-drawdown-explained
+    https://propjournal.net/guides/prop-firm-rules-comparison
+    BEST numeric walkthrough of static vs EOD trailing vs intraday
+    trailing on the SAME TRADE (FTMO vs Apex vs Topstep vs FundedNext).
+    STEAL: visual-in-prose examples; "winners hurt you"; remaining-DD
+    formulas. Gap: sells a journal product; "70% fail" not independently
+    sourced.
+
+  PropFirm App Learning Center   -- futures fee reality; named DD types
+
+  ThePropFirmGuide payout-denied -- taxonomy: consistency, min days,
+    news window, retroactive rules as DENIAL CATEGORIES
+
+  PropFirmEscape
+    https://propfirmescape.com/prop-firms/news-trading-rules-in-prop-firms-what-is-allowed/
+    News blackouts vs consistency as de facto news ban; eval vs funded
+    rule split. STEAL: "rules that activate after you're funded."
+
+  PropFirmScan A-book guide  -- only dedicated A/B explainer found.
+    Alarmist; not per-firm verified.
+
+  Track360 beginner/operator guide
+    https://track360.io/blog/what-is-a-prop-firm-complete-2026-guide
+    B-book vs A-book vs hybrid as BUSINESS MODELS; affiliate economics.
+    Written for affiliates/operators. Steal the honesty, not the numbers.
+
+  FX News Group -- payout mechanics, A/B/hybrid, "abusive strategy" clauses
+    https://fxnewsgroup.com/forex-news/payments/prop-firm-payouts-how-traders-get-paid/
+
+  Velotrade blog -- checklist UX (firm-owned)
+    https://velotrade.com/blog/prop-firm-rules-explained
+
+  Tradeify firm blog -- clear EOD vs intraday, selling Tradeify EOD
+    https://tradeify.co/post/trailing-drawdown-explained-for-prop-firm-traders
+
+  TradesViz simulator
+    https://www.tradesviz.com/prop-firm-simulator/
+    65+ account profiles; tick-enforced DD (static, EOD trail, intraday,
+    trail-to-lock). THE VISUAL/SIMULATOR NOBODY'S COMPARISON SITE HAS.
+    Paid journal; not a review site.
+
+  TradeZella -- Prop Firm Sync: live DD/consistency warnings for
+    FTMO/Topstep/Apex+. Pre-breach alerts. SaaS, not comparison.
+    https://www.tradezella.com/
+
+  HFT Arbitrage payout denials
+    https://hftarbitrageplatform.com/en/prop-firm-payout-denials/
+    12 denial-rule categories from published TOS. Promotes an arb
+    platform; "300 firms" unsourced.
+
+  Adjacent tools (not directories, they own "rules/breach" language):
+    PropPulser (breach replay), PropTracker, Journali Prop Firm Mode,
+    PropJournal, KeepFunded, Vigil (runvigil.app), PropFirmFit.
+
+--------------------------------------------------------------------------------
+7.4 Asset-class split of directories
+--------------------------------------------------------------------------------
+
+  FUTURES-NATIVE: PropFirm Match Futures tab, JoinProp futures,
+    PropFirm App, Prop Firm Gorilla, ThePropFirmGuide futures,
+    TradeTerminal 4-firm fine print, TradeCovex 2026 rewrites,
+    LivingFromTrading futures, FuturesHive, DamnPropFirms, PropScorer.
+
+  CFD/FOREX-NATIVE: ForexPropReviews, BestPropFirms, TradersUnion,
+    WikiFX, LivingFromTrading forex, FXEmpire.
+
+  CRYPTO-NATIVE: Breakout is a FIRM. Crypto Fund Trader compared on
+    Kraken's page. ThePropFirmGuide lists 6 crypto firms. Propfirmito
+    crypto board empty. PropFirmMap tracks some crypto challenges.
+
+  CROSS-ASSET (2026 winners if you want one URL): PropFirmMatch,
+    PropFirmMap, TradingPilot, ThePropFirmGuide, PROP NAVI, JoinProp.
+
+  There is NO single dominant cross-asset DECODER. That is us.
+
+--------------------------------------------------------------------------------
+7.5 Common trader complaints about comparison sites (sourced)
+--------------------------------------------------------------------------------
+
+  From PROP NAVI, TTT Markets, FundedX/PickMyTrade PFM reviews,
+  FXStreet Propinder-vs-PFM, ThePropFirmGuide origin story:
+
+  1. Affiliate rankings look the same -- same 3 firms on top; new
+     high-CPA firms over-ranked vs FTMO/Topstep.
+     https://propnavi.io/en/blog/affiliate-conflict-of-interest-prop-comparison/
+     https://tttmarkets.com/articles/why-most-best-prop-firm-lists-are-misleading/
+  2. Methodology unpublished or "we consider trust and payouts" with
+     no weights.
+  3. Bad news lags -- dead firms stay on "best of" until commissions dry up.
+  4. Trustpilot laundering -- sites reprint 4.8 stars.
+  5. Headline numbers only -- split, fee, account size. Missing:
+     eval-vs-funded split, consistency, news window, trailing tick vs
+     EOD, best day, inactivity from purchase date.
+  6. Marketplace UX -- pop-ups, raffles, "limited offer."
+  7. Stale rules -- WikiFX 2026 still reads like 2022; Apex March 2026
+     overhaul invalidates pre-2026 reviews.
+  8. No payout proof that isn't the firm's own screenshot.
+  9. CFD-only "best prop firm" lists that ignore futures (and vice versa).
+ 10. Reddit consensus: use comparison sites for FILTERS/CODES, then
+     verify on Reddit/Discord/Trustpilot 1-stars.
+
+--------------------------------------------------------------------------------
+7.6 GAP ANALYSIS -- what NO existing site does well
+    (this is the product hole)
+--------------------------------------------------------------------------------
+
+  1. Visual breach examples as a COMPARISON layer.
+     PropJournal/Tradeify explain trailing DD in prose. TradesViz/
+     TradeZella simulate inside a paid journal. NO directory shows a
+     tick chart of "this trade passes FTMO and fails Topstep" next to
+     the rank. SINGLE LARGEST CONTENT GAP.
+
+  2. Eval rules vs funded rules vs payout-gate rules as THREE COLUMNS.
+     Gorilla and BestProps get closest. Most sites scrape the marketing
+     challenge and ignore consistency/news that turn on AFTER funding.
+
+  3. A-book vs B-book / sim vs live, per firm, with evidence.
+     Not on any ranking table. Only essays.
+
+  4. Rule changelog / versioning.
+     Apex Mar 2026, Topstep 2025-26, MFFU product swap, Lucid's four
+     restructures. No site offers "rules as of date X vs date Y" except
+     scattered blogs. Comparison tables go stale in weeks.
+
+  5. Honest asset-class split without mixing CME trailing-dollar DD
+     with FTMO 10% static CFD.
+
+  6. Payout proof that isn't (a) Trustpilot, (b) affiliate screenshots,
+     or (c) only Rise on-chain. ACH/wire futures names are missing.
+
+  7. Hidden-clause library as STRUCTURED FIELDS, not articles.
+
+  8. Non-affiliate or affiliate-firewalled negatives.
+     TraderVerdict's "Research Only / no links below 50" is the only
+     hard mechanism found. PROP NAVI's downloadable CSV is the only
+     auditable dataset found.
+
+  9. Futures cost-of-carry (activation, data, reset, commission).
+     PropFirm App "9 fees" is rare. Directories show sticker price.
+
+ 10. WikiFX / TradersUnion-style broker templates applied to props
+     actively MIS-EDUCATE (regulation column, min deposit, dead firms).
+     A good product should not look like a broker rating.
+
+ 11. Crypto props are an afterthought.
+
+ 12. Complaint graph -- nobody pipes r/propfirm + Trustpilot 1-star
+     THEMES (not scores) + shutdown dates into the ranking with
+     timestamps. PROP NAVI shutdown tracker is the seed.
+
+STEAL-THIS SHORTLIST (copy mechanisms, not brands):
+  TraderVerdict   source-cited scores; keep bad firms; cut affiliate
+                  below a threshold
+  PROP NAVI       downloadable data; "--" not 0; write the bias article
+                  yourself
+  BestProps / Gorilla   rules-as-filters; funded vs eval
+  PropJournal + TradesViz   same-trade DD visuals / simulator
+  ThePropFirmGuide   on-chain payouts + consistency calculator +
+                     denial taxonomy
+  JoinProp reviews   "hidden trap" bullets
+  Propinder       profile-first, low-urgency UX
+  PropFirmMap     challenge-level all-in cost; safety grade;
+                  fake-review journalism
+  DayTrading.com  courage to recommend three broker-backed names and
+                  trash the rest
+  TradeCovex / TradeTerminal   futures fine print that tracks THIS
+                               YEAR's rule rewrite
+
+AVOID: WikiFX listicles, Trustpilot-only ranks, PFM-style pop-up
+marketplace, mixing CME trailing $ DD with FTMO % static in one
+"best firm" number.
+
+
+--------------------------------------------------------------------------------
+8. NAMING AND SEO
+--------------------------------------------------------------------------------
+
+8.1 Brand to ship
+
+  PRIMARY BRAND     PropFirmDecoder
+  PRIMARY DOMAIN    propfirmdecoder.com     (looked unregistered / NX
+                                            on 2 Sep 2026 -- confirm at
+                                            a registrar before buying)
+  FLAGSHIP TOOL     DrawdownDecoder
+  TOOL DOMAIN       drawdowndecoder.com     (also looked NX)
+  OPTIONAL LATER    whichchallenge.com      matcher/quiz product line
+
+  How to use them: register PropFirmDecoder + DrawdownDecoder the same
+  day. Ship as PropFirmDecoder. DrawdownDecoder is the flagship tool
+  section (and a redirect). Do NOT split brand equity across three
+  public names.
+
+  Homepage subtitle: "Prop firm rules, decoded."
+  North star: "Don't buy the challenge until you can see how it kills you."
+
+8.2 Why this ranks
+
+  Every winner in this niche is `PropFirm + function`:
+    Match, Map, Guide, Stats, Deals, Decoder.
+  Easy to spell. Contains the category. Google and traders both parse it.
+  Decoder is the JOB they do not own.
+
+  Clever invented names (Vigil, Track360, AIFO) do NOT steal
+  "best prop firm 2026" in year one.
+
+  Do NOT try to win the homepage on "best prop firm 2026."
+  That SERP is a knife fight among affiliate roundups.
+  Win these first, then expand into firm x challenge matrices:
+    trailing drawdown
+    prop firm hidden rules
+    consistency rule / prop firm consistency
+    why did I fail my prop firm challenge / drawdown breach
+    static vs trailing vs EOD vs intraday
+    equity vs balance drawdown
+    1-step vs 2-step vs instant
+    FTMO vs FundedNext, Apex vs Topstep (programmatic)
+    are prop firms legit / do prop firms pay
+    prop firms that accept US traders
+    which firms have no consistency rule
+    news trading restrictions
+
+  Title-tag pattern that already wins:
+    {Rule} Explained 2026: {Firm examples} | PropFirmDecoder
+    Example: "Trailing Drawdown Explained 2026: Apex vs Topstep vs FTMO
+    1-Step | PropFirmDecoder"
+
+8.3 Top 20 queries traders actually type
+    (volumes UNKNOWN -- demand inferred from SERP crowding)
+
+   1. best prop firm(s) 2026          -- highest commercial heat, affiliate knife fight
+   2. prop firm / prop firms          -- category, hard for a new brand
+   3. best futures prop firm          -- split SERP, high US intent
+   4. FTMO alternative(s)             -- switcher intent
+   5. instant funding / instant funding prop firm
+                                      -- category AND a live brand (instantfunding.com)
+   6. funded account                  -- generic, weak as a brand
+                                      (Topstep marks Funded Account as a trademark)
+   7. prop trading challenge          -- educational + sales pages
+   8. trailing drawdown               -- OPEN WEDGE, blogs not a directory brand
+   9. prop firm rules                 -- PropFirmMap already has /prop-firm-rules
+  10. prop firm hidden rules          -- PassPropTradingFirms owns a page. OUR job.
+  11. consistency rule                -- formula + "payout denied" intent
+  12. are prop firms legit / scam     -- classic People Also Ask
+  13. do prop firms pay / payout proof
+  14. cheapest prop firm              -- discount hunters, spammy
+  15. prop firm reviews
+  16. FTMO vs FundedNext (and Apex vs Topstep)
+  17. best prop firm for beginners
+  18. drawdown breach / why did I fail my challenge
+                                      -- visual-explainer opportunity
+  19. 1-step vs 2-step / instant vs challenge
+  20. prop firms that pay / fastest payout
+
+8.4 Twelve name candidates (DNS as of 2 Sep 2026; NX = looks unregistered,
+    confirm at registrar; NX is a clue, not a guarantee)
+
+   1  PropFirmDecoder      propfirmdecoder.com       PRIMARY. Category + job.
+   2  DrawdownDecoder      drawdowndecoder.com       Flagship tool. Open SERP wedge.
+   3  ChallengeDecoder     challengedecoder.com      Traders buy challenges, not "firms."
+   4  WhichChallenge       whichchallenge.com        Matcher/quiz. Weaker exact-match SEO.
+   5  EveryPropFirm        everypropfirm.com         "List ALL" claim. allpropfirms.com already redirects.
+   6  NoHiddenRules        nohiddenrules.com         Exact promise.
+   7  BreachExplained      breachexplained.com       Visual-breach product.
+   8  DrawdownExplained    drawdownexplained.com     Guide tone.
+   9  EvalDecoder          evaldecoder.com           Short; weaker SEO.
+  10  PickTheChallenge     pickthechallenge.com      Quiz pairing.
+  11  DontBreach           dontbreach.com            Memorable, weaker SEO.
+  12  FundedFit            fundedfit.com             COLLISION: propfirmfit.com is live.
+
+  Parked / possibly buyable backups (not the 12):
+    proprules.com, fundedrules.com, ruleradar.com, rulesexplained.com
+    (GoDaddy/Hostinger-style parking).
+    rightchallenge.com, breachlab.com, challengebook.com are HugeDomains
+    listings (usually expensive).
+    drawdownmap.com looked NX. Avoid BreachMap (cyber-risk product /
+    atom.com listing).
+
+8.5 Names to AVOID
+
+  Too close to existing brands:
+    PropFirmMatch, PropMatch, FirmMatch, ChallengeMatch, FundedMatch
+    TheTrustedProp, TrustedProp, VettedProp, BestProps
+    PropFirmGuide / ThePropFirmGuide (thepropfirmguide.com live;
+      propfirmguide.com is NX but brand-collides)
+    PropFirmMap, PropMap, PropFirmRadar, PropNavi, JoinProp, PropScorer
+    PROP RULEBOOK / Rulebook Prop -- LIVE COMPETITOR at proprulebook.com
+    PropFirmFit / PropFit -- propfirmfit.com live; propfit.com for sale
+    KeepFunded -- live MT5/cTrader product
+    FundedTrader -- fundedtrader.com 301s to Topstep
+    PropDecoder / Prop Decode -- Indian real-estate analytics firm;
+      propdecoder.com resolves
+    Instant Funding, AIFO, FTMO-ish spellings, Trading Combine
+    (Topstep: Trading Combine and Funded Account marked registered)
+
+  Spammy / unrankable:
+    BestPropFirm, BestPropFirm2026, GetFundedNow, PropFirmKing,
+    100PercentFunded, anything with "scam" as the brand, Damn-clones,
+    HiddenRules.com (generic, no "prop"), PropClarity (property meaning),
+    RuleClear (unrelated live product), EvalFit (AI hiring product)
+
+  Keyword traps:
+    Don't brand as Instant Funding (firm occupies the SERP).
+    Don't brand as Funded Account (Topstep trademark; firms bid the term).
+    Don't brand as Prop Firm Rules -- propfirmrules.com is a thin coupon
+    site; PropFirmMap ranks the query.
+
+8.6 Practical naming next steps
+
+  1. Registrar-check and buy propfirmdecoder.com and drawdowndecoder.com
+     immediately.
+  2. Counsel search: USPTO TESS + EUIPO + UKIPO for PropFirmDecoder /
+     DrawdownDecoder / WhichChallenge; also common-law vs Prop Rulebook
+     and PropFirmFit.
+  3. Differentiation line competitors cannot copy overnight:
+     every firm, every program, hidden rules included, breach visualized,
+     eval matched to the trader's actual trade history -- not another
+     discount table.
+
+
+--------------------------------------------------------------------------------
+9. PRODUCT FEATURES (COMPLETE)
+--------------------------------------------------------------------------------
+
+The unit of the database is a PROGRAM, not a firm.
+FTMO 1-Step != FTMO 2-Step != FTMO Swing.
+Apex EOD != Apex Intraday != Apex Legacy.
+Topstep Combine != XFA Standard != XFA Consistency != Live.
+FundedNext Instant != Stellar 2-Step.
+
+9.1 Data model (minimum)
+
+  Firm
+    id, legal_name, brand_name, country, asset_classes[],
+    sim_vs_live (sim | live | hybrid | unknown),
+    a_book_b_book (a | b | hybrid | unknown + evidence_url),
+    regulator_ids[] (NFA/CFTC/none),
+    founded_on, status (active | paused | dead),
+    death_date, death_source_url,
+    last_verified_at
+
+  Program
+    id, firm_id, name, slug,
+    asset_class (cfd | futures | crypto),
+    eval_model (one_step | two_step | three_step | instant | combine | other),
+    fee_type (one_time | subscription | hybrid),
+    account_sizes[],
+    last_verified_at, last_verified_url
+
+  RuleVersion
+    program_id, effective_from, effective_to (null = current),
+    layer (eval | funded | payout_gate),
+    source_url, source_quote, confidence (official | trader_reported),
+    fields:  (see 9.2)
+
+  Source
+    url, captured_at, kind (official | review | youtube | reddit | trustpilot),
+    transcript_or_extract, linked_rule_ids[]
+
+9.2 Comparison columns (minimum viable, every program)
+
+  Program ID
+  Asset class
+  Eval model
+  Fee type
+  Sticker price by size
+  All-in 1-pass cost (sub x months + resets + activation + data + add-ons - refund)
+  Profit target (and whether it can be RAISED by consistency)
+  Daily rule (hard / soft / pause) + % or $ + equity vs balance + clock timezone
+  Max DD type (static / EOD trail / intraday trail) + lock behavior
+  Equity vs balance
+  Consistency formula (and whether losses reset best day: they usually don't)
+  Min days definition (open-a-position day vs profitable day)
+  News window (open, close, SL/TP, hold-through, profit haircut, loss kept?)
+  Weekend / overnight
+  EA / copy / hedging / lot or contract caps
+  Payout gates / caps / winning-day counts / safety net / min balance
+  Split (and whether it is add-on)
+  Inactivity (from first trade vs from purchase)
+  KYC timing
+  Sim vs live
+  Forbidden-practices flags
+  Last verified URL + timestamp
+
+9.3 Core features (this IS the product)
+
+  F1  PROGRAM OBJECTS, not firm pages.
+
+  F2  THREE RULE LAYERS on every program: eval / funded / payout-gate.
+      FTMO news +/-2 min and weekend flatten only hit AFTER you pass.
+      That is why people pass then die in week one.
+
+  F3  SAME-TRADE VISUAL. One equity curve.
+      Green on FTMO 2-Step static.
+      Dead on Apex intraday trailing.
+      Dead on Topstep if the green day trips 50% consistency.
+      This is the screenshot that gets shared.
+      Nobody's directory has it. TradesViz has it inside a paid journal.
+
+  F4  DRAWDOWN DECODER.
+      Inputs: start, peak, open P&L, their clock (midnight CET vs 3:10 PM CT).
+      Output: inches to death, not "10% DD."
+      Teach position size from FLOOR DISTANCE, not from "account size."
+
+  F5  CONSISTENCY SIMULATOR.
+      "This $1,800 day just raised your Topstep target to $3,600."
+      "Apex payout button hidden until you grind the ratio under 50%."
+      Losses do not reset best day.
+
+  F6  HIDDEN-RULE LIBRARY AS FIELDS
+      (section 4.7), each with official cite + trader-reported corroboration
+      marked unverified.
+
+  F7  MATCHER, NOT A RANKING.
+      You hold overnight, you take fat days, you trade NFP
+        -> we KILL trailing-intraday and 50% consistency programs.
+      No "#1 firm." No 0-100 mixing futures and FX.
+      Profile-first UX like Propinder, without the coupon gravity.
+
+  F8  ALL-IN COST TO FIRST PAYOUT.
+      Sticker + months of subscription + resets + activation + data
+      + add-ons - advertised refund.
+      Topstep 50K Standard: $49 x n + $149. One-month pass ~ $198
+      before tax. A 4-month pass is a different product.
+
+  F9  SIM vs LIVE on every row.
+      FTMO funded is sim. Topstep Live is 0.71%. Consob called this a
+      finance video game. Say it. Do not hide it behind a footer.
+
+  F10 EVERY CELL CITES A SOURCE + DATE.
+      Official URL first.
+      Trader-reported (Trustpilot 1-star themes, Reddit, YouTube
+      transcript) as a second layer, marked unverified.
+      "--" if unverified. NEVER invent a zero. (PROP NAVI rule)
+
+9.4 Trust / anti-affiliate features (how you become #1 instead of
+    the 40th coupon site)
+
+  F11 CHANGELOG. "Apex 4.0, Mar 2026, what changed." Git-style diff
+      of RuleVersion. Old reviews stay, marked stale.
+
+  F12 GRAVEYARD. 80-100 firms died in 2024. Funded profits are
+      unsecured claims. Dead firms STAY in the table (TraderVerdict /
+      PROP NAVI), with affiliate links cut.
+
+  F13 AFFILIATE FIREWALL.
+      Like TraderVerdict: no "Visit" on junk firms.
+      NEVER rank by CPA.
+      If you take a cookie, show it AFTER the rules, never instead of them.
+      Write the bias article yourself on day one (PROP NAVI move).
+      Methodology page is public. Dataset is downloadable.
+
+  F14 SEPARATE BOARDS: FX/CFD vs futures vs crypto.
+      Never one 0-100 score mixing 10% static with a $2k trailing floor.
+
+  F15 PRACTICE MODE that uses FUNDED rules, not eval rules.
+      FTMO news/weekend do not apply in eval. Traders pass eval then
+      die in week one of funded.
+
+  F16 CHROME OVERLAY on the firm's checkout page:
+      "You're buying FTMO 1-Step. EOD trailing + Best Day 50%.
+       Here's what that does to your last 20 trades."
+      (PFM already has an extension for DEMO LOGINS. Ours overlays RULES.)
+
+  F17 COMPLAINT RADAR.
+      Trustpilot 1-star THEMES + r/propfirm + YouTube, with timestamps.
+      Not star averages. Velocity of "payout denied" / "KYC" / "hedging"
+      / "consistency" beats a 4.8.
+
+  F18 PAYOUT ELIGIBILITY ENGINE.
+      Winning-day counts, safety net, min balance, consistency window
+      reset, per-request caps, Apex 6-payout lifetime, Tradeify lock.
+      "80% split" is meaningless if you cannot withdraw.
+
+  F19 FAILURE-MODE LIBRARY tied to official forbidden-practices pages:
+      gap trading, opposite accounts, EA hyperactivity, third-party EAs
+      vs allocation caps, copy trading, hedging to game Best Day.
+
+  F20 FIRM-RISK LAYER.
+      Years live, IB/NFA registration, published payout stats, recent
+      rule changes, closure history. Do not rank on Trustpilot stars.
+
+  F21 SAFETY GRADE that is about RULE STABILITY + PAYOUT BEHAVIOR +
+      LEGAL POSTURE, not "we like this firm." DayTrading.com energy:
+      courage to recommend almost nobody.
+
+9.5 Data pipeline (exactly what you described, made rigorous)
+
+  LAYER 1 -- Official website / help center / TOS / forbidden-practices
+            Ground truth. Versioned. Every cell has URL + timestamp.
+            Re-verify on a calendar (weekly for majors, on-alert when
+            a changelog is detected).
+
+  LAYER 2 -- Review websites
+            People write about problems, hidden rules, how they breached.
+            Ingest THEMES, not stars. Trustpilot, FPA, JoinProp-style
+            trap bullets, firm-specific 1-star clusters.
+
+  LAYER 3 -- YouTube transcripts
+            Tag to a rule ID: "breached on trailing," "KYC blocked
+            payout," "news window SL fill." Personality channels
+            (LivingFromTrading etc.) plus blow-up recaps.
+
+  LAYER 4 -- Trader experience
+            Structured reports on OUR site (not a dump of Discord).
+            Corroboration of Layer 1-3. Never the only source for a
+            numeric rule.
+
+  Conflict rule:
+    Official wins for the number.
+    Trader-reported wins for "this is how it actually got me."
+    Show both. Never silently overwrite official with a YouTuber.
+
+9.6 Pedagogy that matches the data
+
+  - Teach DAILY LOSS first, profit target second.
+    Topstep: 63% lose an account in a single day. Daily breach is
+    the modal fail.
+  - Teach position size from floor distance, not account size.
+  - Teach green-day management (stop trading when best-day % is near
+    the cap).
+  - Teach retry math: Topstep person-level 51.8% vs account-level 16.8%
+    -- retries work only if the user CHANGES BEHAVIOR, not if they
+    repurchase the same mistake.
+  - Never imply the product "gets you funded."
+
+9.7 Extra features (additions on top of the original idea)
+
+  X1  Import MT5 / Tradovate / CSV -> "you would have failed 6 of
+      these 10 programs." This is the matcher with proof.
+  X2  Rule-change ALERTS for programs the user already bought.
+  X3  Hindi + Spanish later. A huge share of challenge buyers come
+      from ads in those languages and understand the rules even less.
+  X4  Mobile-first. They buy from a phone after a YouTube ad.
+  X5  If you ever sell data, sell the RULES API to journals
+      (TradeZella / TradesViz competitors). Do not become a journal.
+  X6  Public JSON/CSV dump of the current rule table (PROP NAVI).
+      This makes journalists and Reddit cite YOU.
+  X7  "Keep bad firms listed" with Research Only + no affiliate
+      (TraderVerdict), plus a graveyard.
+  X8  News/weekend calendar bound to the FIRM'S list, not generic
+      Forex Factory. FTMO has a restricted-event table. The5ers uses
+      FF but keeps losses / strips profits. SL/TP in the window must
+      be modeled as a breach.
+
+9.8 What the first public homepage must NOT be
+
+  - "Top 10 Prop Firms 2026" with FundedNext #1 because CPA is high
+  - One score mixing futures and FX
+  - Raffle / 80% off countdown
+  - Trustpilot 4.8 as a safety badge
+  - Broker-style "Go to broker" / "min deposit" / fake regulation column
+
+
+--------------------------------------------------------------------------------
+10. DETAILED PLAN TO BE WORLD #1
+--------------------------------------------------------------------------------
+
+Definition of #1:
+  When a trader is about to buy a challenge, they paste the link or
+  pick the program and see the death conditions before they pay.
+  Google sends them for drawdown / hidden-rules / consistency queries.
+  Discord sends the same-trade screenshot.
+  Firms hate you. Traders trust you.
+
+10.1 Phase 0 -- this week
+
+  - Buy propfirmdecoder.com + drawdowndecoder.com
+  - Trademark search (USPTO TESS + EUIPO + UKIPO)
+  - Do NOT build a ranking. Build the schema in section 9.1
+  - Pick 12 PROGRAMS across 8 firms as the wedge, not 200 thin rows:
+
+      FTMO 2-Step
+      FTMO 1-Step
+      FundedNext Stellar 2-Step
+      FundedNext Instant
+      The5ers High Stakes
+      Topstep Combine
+      Topstep XFA (Standard vs Consistency as two programs)
+      Apex EOD
+      Apex Intraday
+      Tradeify (flagship)
+      Earn2Trade TCP
+
+  - For each: official pages only, last-verified date, ONE visual of
+    a real breach pattern
+  - Write the public methodology / bias page on day one
+  - Homepage north star sentence locked
+
+10.2 Phase 1 -- 30 days (the site people share)
+
+  Ship:
+    Same-trade visual
+    Drawdown decoder
+    Consistency simulator
+    Compare 2-4 programs side by side, three layers
+    Matcher quiz: style -> which programs you should NOT buy
+    Hard disclosure: sim vs live, 7% payout base rate (FPFX/FM), graveyard
+
+  SEO pages that win the WEDGE, not the coupon war:
+    Trailing drawdown explained (Apex vs Topstep vs FTMO 1-Step)
+    Hidden rules that blow funded accounts
+    Consistency rule / Best Day
+    1-step vs 2-step vs instant
+    Daily loss vs max drawdown
+    Static vs trailing vs EOD vs intraday
+    Equity vs balance
+    Why did I fail my challenge
+    FTMO vs FundedNext (two programs, not two brands)
+    Apex vs Topstep
+
+  Design:
+    Quiet. No countdown. No raffle. Rules before CTA.
+    Mobile-first.
+    Every number has a source chip.
+
+  Success metric for Phase 1 (honest):
+    A trader can pick two programs and see, on one screen, which of
+    their last trades would have died. That screenshot is the growth
+    engine. Not ads.
+
+10.3 Phase 2 -- 90 days (the database)
+
+  - Scale to all active majors. CFD + futures + crypto as SEPARATE boards
+  - YouTube transcript + review-theme pipeline into the hidden-rule layer
+  - Changelog + shutdown tracker
+  - All-in cost to first payout
+  - Public methodology + downloadable dataset
+  - Optional disclosed affiliate AFTER the decoder, never on the rank
+  - Firm-risk layer (NFA/CFTC, years live, death history)
+  - Payout-denied taxonomy (ThePropFirmGuide) as a first-class guide
+  - US-trader / country eligibility as a filter (this is a real blocker)
+
+  Coverage target (realistic, not vanity):
+    Every actively marketed program from the 12-firm wedge, then the
+    next 30 names that actually take money, then the long tail.
+    Prefer 80 deep programs over 211 thin listings.
+
+10.4 Phase 3 -- the moat
+
+  - Trade-history import (MT5 / Tradovate / CSV)
+  - Checkout overlay (Chrome)
+  - Rule-change alerts for programs the user holds
+  - Payout proof that isn't only Rise on-chain (ACH/wire futures too)
+  - Practice mode on FUNDED rules
+  - Hindi + Spanish
+  - Rules API for journals (B2B, if ever)
+  - Complaint radar with timestamps
+  - News calendar bound to each firm's restricted-event list
+
+10.5 How you lose (do none of these)
+
+  - Homepage "Top 10 Prop Firms 2026" with high-CPA names on top
+  - One score mixing futures and FX
+  - Scraping other comparison sites as truth
+  - Trustpilot stars as safety
+  - Stale rules. A table that is not re-verified is a lie
+  - Saying "we get you funded"
+  - Hiding that WINNING can still fail consistency, news, weekend,
+    KYC, or a trailing tick
+  - Quoting Track360 market-size / pass-rate figures as facts
+  - Saying MyForexFunds "stole $310M" as adjudicated fact
+  - Looking like a broker rating (min deposit, fake license column)
+  - Pop-ups, raffles, "limited offer"
+  - Killing negative firms off the list so the affiliate sheet stays clean
+
+10.6 Monetization that does not destroy the mission
+
+  Allowed, in this order:
+    1. Trust first. The decoder is free. The dataset is public.
+    2. Optional disclosed affiliate cookie AFTER the user has seen
+       eval + funded + payout-gate + the same-trade visual for THAT
+       program. Never a "Visit" on a Research Only / dead / junk firm.
+    3. Premium later: trade import, checkout overlay, rule-change
+       alerts, funded-rules practice mode.
+    4. B2B much later: rules API.
+
+  Not allowed:
+    Paid placement in the matcher.
+    Ranking formula that includes CPA.
+    Homepage inventory sold to the newest instant-funding shop.
+
+10.7 Content / SEO operating system
+
+  Do not write 50 "best prop firm 2026" posts.
+  Write 20 canonical RULE explainers, then generate programmatic
+  pages from the database:
+
+    /rules/trailing-drawdown
+    /rules/consistency
+    /rules/news-window
+    /rules/weekend-holding
+    /rules/payout-gates
+    /compare/{program-a}-vs-{program-b}
+    /firms/{firm}/{program}
+    /graveyard
+    /methodology
+    /decoder   (the tool, also on drawdowndecoder.com)
+
+  Each program page is a living RuleVersion, not a 2026 listicle.
+
+10.8 Team / operating rhythm (practical)
+
+  Weekly: re-verify the 12-firm wedge official URLs. Diff anything
+  that moved. Ship changelog entries the same day.
+  Daily (once live): complaint radar (Reddit/Trustpilot 1-star themes)
+  for payout / KYC / hedging / consistency spikes.
+  On firm emails / help-center updates: new RuleVersion, old one
+  stays with effective_to.
+  Never let a YouTuber "update" a number without an official URL.
+
+10.9 Legal / consumer-protection posture (on every page)
+
+  - These are simulated evaluations unless proven otherwise
+  - Past payouts are not a guarantee
+  - We are not the firm, not a broker, not investment advice
+  - Consob / FSMA / CNMV warnings exist; we surface them
+  - CFTC v. My Forex Funds is alleged, not a conviction in this doc
+  - If we earn a commission we say so next to the button, after the rules
+
+10.10 First 12-program official source pack (start here, live-check
+      before ship)
+
+  FTMO
+    https://ftmo.com/en/trading-objectives/
+    https://ftmo.com/en/how-it-works/
+    https://ftmo.com/en/faq/can-i-trade-news/
+    https://ftmo.com/en/faq/do-i-have-to-close-my-positions-overnight-or-before-the-weekend/
+    https://ftmo.com/en/forbidden-trading-practices/
+    https://ftmo.com/en/faq/when-do-i-complete-ftmo-identity/
+    https://ftmo.com/en/faq/why-is-the-fee/
+
+  FundedNext
+    https://fundednext.com/general-rules/cfds/trading-objectives
+    https://fundednext.com/usa/cfds/stellar-1-step
+    https://fundednext.com/usa/cfds/stellar-2-step
+    https://help.fundednext.com/en/articles/8021071-what-is-the-profit-target-of-the-stellar-2-step-challenge
+
+  The5ers
+    https://the5ers.com/faqs/what-are-the-general-rules-for-the-high-stakes-program/
+    https://the5ers.com/what-is-a-prop-firm/
+    https://the5ers.com/challenge-programs-bootcamp-high-stakes-hyper-growth-explained/
+
+  Topstep
+    https://www.topstep.com/our-program
+    https://www.topstep.com/disclosures-notices
+    https://www.topstep.com/no-activation-fee
+    https://help.topstep.com/en/articles/8284197-trading-combine-parameters
+    https://help.topstep.com/en/articles/8284208-consistency-at-topstep
+    https://help.topstep.com/en/articles/8284099-topstep-program-overview
+    https://help.topstep.com/en/articles/14289835-topstep-pricing-and-payment-questions
+
+  Apex
+    https://apextraderfunding.com/help-center/eod-trailing-drawdown-accounts/eod-payouts/
+    https://apextraderfunding.com/help-center/intraday-trailing-drawdown-accounts/intraday-trailing-drawdown-explained/
+
+  Earn2Trade
+    https://help.earn2trade.com/en/articles/5941958-what-are-the-evaluation-rules
+    https://www.earn2trade.com/trader-career-path
+
+  Tradeify
+    https://help.tradeify.co/en/articles/10495897-rules-trailing-max-drawdowns
+    https://tradeify.co/post/trailing-drawdown-explained-for-prop-firm-traders
+
+10.11 Live-check before any public number ships
+
+  - Topstep 2025 stats block (JS-heavy)
+  - Apex Intraday vs EOD product picker
+  - The5ers Hyper Growth / Bootcamp numbers
+  - Seacrest / MyFundedFX Feb 2026 closure on a PRIMARY page
+  - Any split / fee that is promo-coded
+  - Domain availability at the registrar (NX is not a purchase)
+
+
+--------------------------------------------------------------------------------
+11. SOURCE LIST
+--------------------------------------------------------------------------------
+
+Official firm (primary):
+  FTMO, FundedNext, The5ers, Topstep, Apex, Earn2Trade, Tradeify
+  URLs in 10.10
+
+Regulators / news:
+  https://www.cftc.gov/PressRoom/PressReleases/8771-23
+  https://www.consob.it/web/area-pubblica/-/comunicazione-del-2024-07-08
+  https://www.financemagnates.com/forex/exclusive-80-100-prop-firms-wiped-out-in-2024s-industry-collapse/
+  https://www.financemagnates.com/forex/prop-trading-slips-down-paris-agenda-as-the-us-steps-up/
+  https://www.financemagnates.com/forex/breaking-prop-trading-firm-the-funded-trader-pauses-all-operations/
+  https://www.financemagnates.com/forex/prop-firm-surgetrader-shuts-down-a-week-after-losing-match-trader-license/
+  https://www.financemagnates.com/thought-leadership/taking-stock-of-the-retail-prop-trading-market/
+
+Competitor / education (used for landscape, not as ground truth for rules):
+  All URLs in section 7.
+  FXStreet PFM vs Propinder:
+    https://www.fxstreet.com/education/prop-trading-comparison-sites-propinder-vs-propfirmmatch-202604090956
+  Octrado study:
+    https://prop.octrado.com/documents/octrado-study-prop-trading.pdf
+
+UNVERIFIED / do not treat as stats:
+  Track360 market-size and pass-rate tables
+  TradersSecondBrain, PropFirmMap shutdown tallies as census
+  ThePropFirmGuide shutdown tallies
+  JoinProp Seacrest write-ups without a primary page
+  Community pass-rate tables
+  "70% fail" on journal blogs
+
+
+--------------------------------------------------------------------------------
+12. ONE-PAGE CHEAT SHEET
+--------------------------------------------------------------------------------
+
+  Brand          PropFirmDecoder
+  Domains        propfirmdecoder.com  +  drawdowndecoder.com
+  Job            Decode every program so traders pick the right
+                 challenge and KEEP the account
+  Unit           Program, not firm
+  Layers         Eval | Funded | Payout-gate
+  Killer feature Same-trade visual (lives here, dies there)
+  Data           Official first, then reviews, then YouTube, then
+                 experience. Cite everything. "--" not 0.
+  Ranking        There isn't one. There is a matcher.
+  Boards         FX/CFD  |  Futures  |  Crypto   (never mixed score)
+  Affiliate      After the decoder, never instead of it. Firewall junk.
+  SEO            Win drawdown / hidden rules / consistency, not
+                 "best prop firm 2026"
+  Honest promise Reduce preventable rule deaths. Base rate ~7% ever paid.
+  Do not become  PropFirmMatch with a nicer logo
+  Race           Prop Rulebook on positioning (they are thin)
+                 PropFirmMap on catalog (they have no decoder)
+  This week      Buy domains. Schema. 12 programs. One visual each.
+
+================================================================================
+END
+Compiled for Ved Kanani by Propfirm, 2 September 2026
+================================================================================

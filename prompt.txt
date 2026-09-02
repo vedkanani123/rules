@@ -1,0 +1,44 @@
+Perfect ONLY the FIRST HERO/FIRST-SCREEN viewport of the homepage. Do not redesign the rest of the website.
+
+Goal: when a user opens the site, the first 1 second must look like a world-class premium financial intelligence product. At normal desktop resolution, the entire hero must feel intentionally fitted inside the first viewport — no awkward empty space, no oversized elements, no part of the next section appearing randomly at the bottom.
+
+Fix all of these yourself:
+
+- Rebalance the hero into a perfect 2-column composition.
+- Reduce excessive top/bottom whitespace.
+- Correct the vertical alignment between the left content and right intelligence panel.
+- Make the hero occupy approximately 75–90% of the first viewport, leaving only a subtle hint of the next section.
+- Improve heading font size, line-height, letter spacing, and line breaks so the headline feels powerful but not oversized.
+- Make the supporting paragraph narrower and easier to scan.
+- Perfect spacing between badge → headline → paragraph → search/CTA → metadata.
+- Make the right-side intelligence panel slightly larger and visually dominant enough to balance the headline, but never overpower it.
+- Keep the panel fully visible inside the first viewport.
+- Remove anything that feels like copied PipsGuard UI.
+- Keep the current PropFirmRules concept: “Source → Rule → Risk → Decision”.
+- Make the right panel feel like a real evidence-intelligence instrument, not a trading execution/protection dashboard.
+- Use subtle grid/data-line detail only where it improves depth.
+- Keep animation extremely subtle and premium: source cards, evidence lines, verification status, and risk state can gently update.
+- No fake trading chart, no random illustration, no 3D object, no excessive glow, no AI-looking decoration.
+- Keep the dark navy/black background, white typography, blue/emerald accents, amber warnings, and red only for critical states.
+- Make the hero look excellent at 1440px, 1280px, 1024px and mobile.
+- On mobile, stack the content intelligently and keep the first viewport clean.
+- Make sure there is no horizontal overflow.
+- Make all buttons/search controls visually aligned and consistent.
+- Remove any text or UI that belongs to another product or copied reference.
+- Ensure every visible metric in the hero is clearly connected to PropFirmRules.
+
+IMPORTANT:
+Do not simply shrink everything to make it fit.
+
+Recompose the layout using professional spacing, hierarchy, proportions, and typography.
+
+The result should feel like:
+premium financial intelligence + modern SaaS + serious research terminal.
+
+The first viewport must communicate in 2–3 seconds:
+
+“PropFirmRules researches prop firms, verifies their rules, explains the risks, and helps me make a better decision.”
+
+Do not modify lower sections except where necessary to prevent the first viewport from looking unfinished.
+
+After making the changes, inspect the actual rendered page at desktop and mobile sizes and iterate until the first screen looks professionally art-directed rather than merely “responsive”.

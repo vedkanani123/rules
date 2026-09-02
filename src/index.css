@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-300: #93c5fd;
+  --color-brand-400: #60a5fa;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2563eb;
+  --color-pips-bg: #080A10;
+  --color-pips-surface: #111318;
+  --color-pips-card: #16181E;
+  --color-pips-border: #1F2228;
+}
+
+.glass-card {
+  background: rgba(17, 19, 24, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+@layer base {
+  html {
+    scrollbar-gutter: stable;
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: #1F2228 #080A10;
+  }
+  body {
+    background: #080A10;
+    color: #e5e7eb;
+    min-height: 100dvh;
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    line-height: 1.6;
+  }
+  /* PipsGuard editorial headings */
+  h1, h2 { letter-spacing: -0.03em; line-height: 0.92; }
+  h3, h4 { letter-spacing: -0.02em; }
+  * { scrollbar-width: thin; }
+  *:focus-visible { outline: 2px solid #3b82f6; outline-offset: 2px; }
+}
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #080A10; }
+::-webkit-scrollbar-thumb { background: #1F2228; border-radius: 9999px; }
+::-webkit-scrollbar-thumb:hover { background: #2A2D35; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.text-balance { text-wrap: balance; }
+
+@keyframes hero-scan {
+  0% { transform: translateY(-40%); opacity: 0; }
+  12% { opacity: 0.7; }
+  88% { opacity: 0.7; }
+  100% { transform: translateY(420%); opacity: 0; }
+}
+@keyframes hero-float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes hero-float-slow {
+  0%, 100% { transform: translateY(0px) translateX(0px); }
+  50% { transform: translateY(-14px) translateX(4px); }
+}
+@keyframes hero-crawl {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+@keyframes hero-pulse-ring {
+  0% { transform: scale(0.7); opacity: 0.55; }
+  100% { transform: scale(1.8); opacity: 0; }
+}
+
+.hero-scan-line {
+  animation: hero-scan 3.6s ease-in-out infinite;
+}
+.hero-float {
+  animation: hero-float 5.5s ease-in-out infinite;
+}
+.hero-float-delay {
+  animation: hero-float-slow 7s ease-in-out infinite;
+}
+.hero-crawl-track {
+  animation: hero-crawl 28s linear infinite;
+}
+.hero-pulse-ring {
+  animation: hero-pulse-ring 2.2s ease-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-scan-line,
+  .hero-float,
+  .hero-float-delay,
+  .hero-crawl-track,
+  .hero-pulse-ring {
+    animation: none;
+  }
+}

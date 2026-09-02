@@ -1,0 +1,6 @@
+{
+  "name": "Prop Firm Intelligence Platform",
+  "description": "Evidence-first prop firm intelligence platform featuring verified rules, conflict detection, rule calculations, trader complaint analysis, and crawl exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
