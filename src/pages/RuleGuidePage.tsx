@@ -157,7 +157,7 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
                 ))}
               </div>
               <div className="mt-5 flex gap-2">
-                <button onClick={()=>onNavigate('/prop-firms/goat-funded-trader')} className="px-4 py-2.5 rounded-full bg-white text-[#080A10] text-xs font-semibold">See live rule with source →</button>
+                <button onClick={()=>onNavigate(primaryFirmHref)} className="px-4 py-2.5 rounded-full bg-white text-[#080A10] text-xs font-semibold">See live rule with source →</button>
                 <button onClick={()=>onNavigate('/simulator')} className="px-4 py-2.5 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-medium text-white">Test in simulator</button>
               </div>
             </section>
