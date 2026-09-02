@@ -2555,16 +2555,6 @@ export const RULE_GUIDES: RuleGuideItem[] = [
     detailedExplanation: 'Two-step evaluations split the goal so Phase 1 proves edge and Phase 2 proves repeatability. On $100K that is usually $8,000 then $5,000. One-step programs compress it into a single 10% goal with tighter trailing rules. Instant funding skips targets entirely but pays a lower split and stricter intraday caps. Funded accounts have no profit target; the only job is to stay above the floors and meet payout gates.',
     formula: 'Target Balance = Nominal Size * (1 + Target %)',
     example: 'On a $100K 2-step, Phase 1 target is $108,000 ($8,000 profit) and Phase 2 target is $105,000 ($5,000 profit). Hit $107,900 in Phase 1 and you still fail by $100 — targets require closed balance at or above the line, not floating equity.',
-    howFirmsCalculation: [
-      {
-        title: 'Placeholder',
-        description: 'Placeholder',
-      },
-      {
-        title: 'Placeholder 2',
-        description: 'Placeholder 2',
-      },
-    ],
     howFirmsCalculate: [
       {
         title: 'Standard 2-Step (GFT / FTMO)',
