@@ -429,4 +429,9 @@ export interface RuleGuideItem {
     firmName: string;
     modelVariation: string;
   }[];
+  riskLevel?: 'SAFE' | 'MODERATE' | 'HIGH' | 'EXTREME';
+  stageScope?: string;
+  appliesTo?: string[];
+  relatedSlugs?: string[];
+  calculator?: string;
 }
