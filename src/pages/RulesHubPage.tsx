@@ -370,18 +370,24 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
       {/* All Rules at a Glance - clear topics strip */}
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div className="rounded-2xl bg-[#111318] border border-[#1F2228] p-4">
-          <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] flex items-center gap-2 mb-3"><Sparkles className="w-3.5 h-3.5 text-[#3b82f6]" /> All rules at a glance — every single rule topic</p>
+          <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] flex items-center gap-2 mb-3"><Sparkles className="w-3.5 h-3.5 text-[#3b82f6]" /> All rules at a glance — every single rule topic ({RULE_GUIDES.length})</p>
           <div className="flex flex-wrap gap-2">
-            {RULE_GUIDES.map((g, idx)=>{
+            {glanceList.map((g, idx)=>{
               const Icon = categoryIcons[g.category] || BookOpen;
+              const globalIdx = RULE_GUIDES.findIndex(x=>x.slug===g.slug);
               return (
                 <button key={g.slug} onClick={()=>onNavigate(`/rules/${g.slug}`)} className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#080A10] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] text-xs font-medium text-white/70 hover:text-white transition-colors">
-                  <span className="w-5 h-5 rounded-full bg-white text-[#080A10] flex items-center justify-center text-[10px] font-bold">{String(idx+1).padStart(2,'0')}</span>
+                  <span className="w-5 h-5 rounded-full bg-white text-[#080A10] flex items-center justify-center text-[10px] font-bold">{String(globalIdx+1).padStart(2,'0')}</span>
                   <Icon className="w-3 h-3" /> {g.name}
                 </button>
               );
             })}
           </div>
+          {RULE_GUIDES.length > 20 && (
+            <button onClick={()=>setShowAll(v=>!v)} className="mt-3 px-4 py-2 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-medium text-white/60 hover:text-white transition-colors">
+              {showAll ? `Show less` : `Show all ${RULE_GUIDES.length} rules (${RULE_GUIDES.length - 20} more)`}
+            </button>
+          )}
         </div>
       </div>
 
