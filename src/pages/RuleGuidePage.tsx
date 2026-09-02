@@ -86,7 +86,7 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
               <div className="inline-flex items-center gap-2 px-3 py-2 rounded-xl bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]">
                 <Shield className="w-3.5 h-3.5 text-emerald-400" /> Verified vs official FAQ & Terms
               </div>
-              <p className="text-[11px] text-white/30">Applies to {guide.firmsUsing.length} firms • {guide.category}</p>
+              <p className="text-[11px] text-white/30">Applies to {(guide.firmsUsing || []).length} firms • {guide.category}{guide.stageScope ? ` • ${guide.stageScope}` : ''}</p>
               {prev && <button onClick={()=>onNavigate(`/rules/${prev.slug}`)} className="text-xs text-white/40 hover:text-white flex items-center gap-1 lg:justify-end"><ArrowLeft className="w-3 h-3" /> Prev: {prev.name.slice(0,20)}</button>}
               {next && <button onClick={()=>onNavigate(`/rules/${next.slug}`)} className="text-xs text-white/40 hover:text-white flex items-center gap-1 lg:justify-end">Next: {next.name.slice(0,20)} <ArrowRight className="w-3 h-3" /></button>}
             </div>
