@@ -12,6 +12,8 @@ const categoryIcons: Record<string, any> = {
   'Payout Rules': Wallet,
   'Account Rules': ShieldAlert,
   'Trading Rules': Boxes,
+  'Commercial & Legal': FileText,
+  'Futures Specific': Activity,
 };
 
 const categoryColors: Record<string, string> = {
@@ -21,6 +23,8 @@ const categoryColors: Record<string, string> = {
   'Evaluation Rules': 'bg-sky-500/10 text-sky-400 border-sky-500/20',
   'Account Rules': 'bg-amber-500/10 text-amber-400 border-amber-500/20',
   'Trading Rules': 'bg-violet-500/10 text-violet-400 border-violet-500/20',
+  'Commercial & Legal': 'bg-slate-500/10 text-slate-300 border-slate-500/20',
+  'Futures Specific': 'bg-cyan-500/10 text-cyan-400 border-cyan-500/20',
 };
 
 // Mini visual components per slug
