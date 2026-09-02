@@ -331,8 +331,8 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
               <h1 className="text-[28px] sm:text-[36px] font-semibold tracking-tight text-white leading-tight">Every rule, <span className="text-[#8A8F98]">visually decoded.</span></h1>
               <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl">Not a blog. An interactive learning system — every rule has a live visual, formula, real dollar example, and the exact firm wording that traps traders.</p>
               <div className="flex flex-wrap items-center gap-2 mt-4">
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-medium text-emerald-400"><Shield className="w-3 h-3" />12 guides</span>
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Calculator className="w-3 h-3" />30+ rules</span>
+                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-medium text-emerald-400"><Shield className="w-3 h-3" />{RULE_GUIDES.length} guides</span>
+                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Calculator className="w-3 h-3" />{cats.length - 1} categories</span>
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Eye className="w-3 h-3" />Live visuals</span>
                 <span className="text-[11px] text-[#6B7280] hidden sm:inline">• No affiliate fluff • Source-backed</span>
               </div>
