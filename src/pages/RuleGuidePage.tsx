@@ -192,7 +192,7 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
 
           <div className="lg:col-span-4 space-y-6">
             <div className="rounded-2xl bg-[#111318] border border-[#1F2228] p-4">
-              <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] mb-3">All 12 guides</p>
+              <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] mb-3">All {allGuides.length} guides</p>
               <div className="space-y-1 max-h-[420px] overflow-auto pr-1">
                 {allGuides.map(g => (
                   <button key={g.slug} onClick={() => onNavigate(`/rules/${g.slug}`)} className={`w-full text-left px-3 py-2.5 rounded-xl text-[13px] transition-colors flex items-center gap-2 ${g.slug===guide.slug ? 'bg-white text-[#080A10] font-medium shadow-sm' : 'text-[#8A8F98] hover:text-white hover:bg-[#080A10]'}`}>
