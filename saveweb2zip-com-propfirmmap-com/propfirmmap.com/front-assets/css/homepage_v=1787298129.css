@@ -1,0 +1,2099 @@
+/* ── Hero Section ── */
+.hero-section {
+    text-align: center;
+    padding-top: 2.5rem;
+    padding-bottom: 1.5rem;
+}
+
+/* Trust eyebrow above H1 - independent positioning (2026-04-26).
+   Sits on the purple page gradient, so uses translucent white surface + light text. */
+.hero-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0 auto 18px;
+    padding: 6px 14px;
+    background: rgba(255, 255, 255, 0.10);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 999px;
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+}
+
+.hero-eyebrow__icon {
+    color: #34d399;
+    font-size: 14px;
+    line-height: 1;
+}
+
+.hero-eyebrow__dot {
+    color: rgba(255, 255, 255, 0.55);
+    margin: 0 2px;
+    font-weight: 400;
+}
+
+/* Exp 18 (home_deal_pill) sunset 2026-06-04 - the homepage deal pill (55 imp /
+   0 OC, contingency for the already-sunset Exp 13 spotlight) was removed
+   entirely along with its partial, the config flag, and the whitelist row. */
+
+.hero-title {
+    color: var(--color-text-on-dark);
+    font-weight: 800;
+    font-size: 44px;
+    line-height: 1.12;
+    margin-bottom: 12px;
+    letter-spacing: -0.6px;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero-subtitle {
+    color: rgba(255, 255, 255, 0.72);
+    font-size: 17px;
+    font-weight: 400;
+    max-width: 580px;
+    margin: 0 auto 28px;
+    line-height: 1.5;
+}
+
+/* ── Search Box ── */
+.search-container_2 {
+    background: var(--color-surface-card);
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.12);
+    padding: 16px;
+    width: 100%;
+    margin: auto;
+    transition: box-shadow 0.3s ease;
+}
+
+.search-container_2:focus-within {
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.18);
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    background: var(--color-surface-warm);
+    border-radius: 12px;
+    padding: 8px 12px;
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    background: transparent;
+    flex-grow: 1;
+    font-size: 16px;
+    padding: 6px 8px;
+    color: var(--color-text-dark);
+}
+
+.search-box input::placeholder {
+    color: var(--color-text-placeholder);
+}
+
+.search-box button {
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.search-button {
+    background: var(--gradient-brand) !important;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity 0.2s ease;
+    flex-shrink: 0;
+}
+
+.search-button:hover {
+    opacity: 0.9;
+}
+
+.search-icon {
+    font-size: 16px;
+    color: var(--color-text-on-dark);
+}
+
+.cros-btn {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 4px 8px;
+    margin-right: 4px;
+}
+
+.cros-btn-icon {
+    font-size: 14px;
+    color: var(--color-text-placeholder);
+}
+
+.search-results {
+    margin-top: 8px;
+}
+
+.search-results .result {
+    display: flex;
+    align-items: center;
+    padding: 10px 4px;
+    border-bottom: 1px solid var(--color-surface-gray);
+    transition: background 0.15s ease;
+}
+
+.search-results .result:hover,
+.search-results a[role="option"].result--active .result {
+    background: var(--color-surface-warm);
+    border-radius: 8px;
+}
+
+.search-results .result img {
+    max-width: 36px;
+    max-height: 36px;
+    margin-right: 12px;
+    border-radius: 6px;
+}
+
+.result-text {
+    color: var(--color-text-gray);
+    font-weight: 600;
+    margin-top: 16px;
+    display: block;
+}
+
+.no-results {
+    padding: 8px 0 4px;
+}
+
+.add-firm-btn {
+    border-radius: 10px;
+    border: 0;
+    background: var(--gradient-brand);
+    color: var(--color-text-on-dark);
+    padding: 10px 24px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 16px;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.add-firm-btn:hover {
+    opacity: 0.9;
+}
+
+.add-firm-btn--submitted {
+    background: linear-gradient(135deg, #34d399, #10b981) !important;
+    cursor: default;
+}
+
+/* ── Social Proof Stats ── */
+.hero-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+    margin-top: 28px;
+    padding: 16px 24px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+}
+
+.hero-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    flex: 1;
+}
+
+.hero-stat__number {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--color-text-primary);
+    letter-spacing: -0.5px;
+}
+
+.hero-stat__label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--color-text-meta);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.hero-stat__divider {
+    width: 1px;
+    height: 32px;
+    background: var(--color-border-light);
+    flex-shrink: 0;
+}
+
+/* Clickable stat tile - was inert <div> pre-2026-06-01 (Clarity flagged
+ * homepage dead-clicks at 8.7%). Each tile now deep-links to its catalog page
+ * with the same chip affordance as /firms safety-grade filter pills. */
+.hero-stat--link {
+    text-decoration: none;
+    color: inherit;
+    padding: 6px 10px;
+    margin: -6px -10px;
+    border-radius: 10px;
+    transition: background-color 0.18s ease, transform 0.18s ease;
+}
+
+.hero-stat--link:hover,
+.hero-stat--link:focus-visible {
+    background-color: rgba(99, 102, 241, 0.08);
+    transform: translateY(-1px);
+    outline: none;
+}
+
+.hero-stat--link:hover .hero-stat__number,
+.hero-stat--link:focus-visible .hero-stat__number {
+    color: #4338ca;
+}
+
+.hero-stat--link:focus-visible {
+    box-shadow: 0 0 0 2px #6366f1, 0 0 0 4px rgba(99, 102, 241, 0.18);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hero-stat--link {
+        transition: none;
+    }
+    .hero-stat--link:hover,
+    .hero-stat--link:focus-visible {
+        transform: none;
+    }
+}
+
+/* ── Popular Firms ── */
+.popular-section {
+    margin-top: 2.5rem;
+}
+
+.section-label {
+    font-size: 13px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.5);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.section-label i {
+    margin-right: 4px;
+    font-size: 11px;
+}
+
+.popular-firms-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.popular-firm-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255, 255, 255, 0.95);
+    padding: 8px 14px;
+    border-radius: 10px;
+    color: var(--color-text-primary);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.popular-firm-chip:hover,
+.popular-firm-chip:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    color: var(--color-text-primary);
+    text-decoration: none;
+}
+
+.popular-firm-chip img {
+    width: 24px;
+    height: 24px;
+    border-radius: 5px;
+    object-fit: contain;
+}
+
+/* ── Quick Links ── */
+.quick-links {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-top: 2.5rem;
+}
+
+.quick-link-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 24px 12px 20px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    color: var(--color-text-dark);
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.quick-link-card:hover,
+.quick-link-card:focus-visible {
+    background: var(--color-surface-card);
+    transform: translateY(-3px);
+    border-color: rgba(99, 102, 241, 0.2);
+    color: var(--color-text-dark);
+    text-decoration: none;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.quick-link-icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.quick-link-icon--blue {
+    background: rgba(122, 149, 248, 0.2);
+    color: #7A95F8;
+}
+
+.quick-link-icon--green {
+    background: rgba(34, 197, 94, 0.2);
+    color: #22c55e;
+}
+
+.quick-link-icon--gold {
+    background: rgba(245, 158, 11, 0.2);
+    color: var(--color-accent-amber-light);
+}
+
+.quick-link-icon--purple {
+    background: rgba(167, 139, 250, 0.2);
+    color: #a78bfa;
+}
+
+.quick-link-card:hover .quick-link-icon {
+    transform: scale(1.08);
+    transition: transform 0.2s ease;
+}
+
+.quick-link-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--color-text-primary);
+}
+
+.quick-link-desc {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--color-text-meta);
+    margin-top: -4px;
+}
+
+/* ── Finder CTA ── */
+.finder-cta {
+    margin-top: 2.5rem;
+}
+
+.finder-cta-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    border-radius: 14px;
+    padding: 24px 28px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+}
+
+.finder-cta-text h3 {
+    color: var(--color-text-primary);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 4px;
+}
+
+.finder-cta-text p {
+    color: var(--color-text-meta);
+    font-size: 14px;
+    margin: 0;
+}
+
+/* Selector carries .finder-cta-inner so it outranks global.css's
+   `.finder-cta-inner a` dark-link rule (0,1,1), which was repainting this
+   label brand purple on a brand-purple fill: measured 1.29:1 on prod, i.e.
+   the homepage's "Find My Firm" CTA was effectively invisible. Gradient now
+   starts at the dark stop because white on #7A95F8 is only 2.81:1. */
+.finder-cta-inner a.finder-cta-btn,
+.finder-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 28px;
+    background: linear-gradient(100deg, var(--color-cta-purple) 0%, var(--color-cta-purple-dark) 100%);
+    border-radius: 10px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: none;
+    white-space: nowrap;
+    transition: opacity 0.2s, transform 0.2s;
+}
+
+.finder-cta-inner a.finder-cta-btn:hover,
+.finder-cta-inner a.finder-cta-btn:focus-visible,
+.finder-cta-btn:hover,
+.finder-cta-btn:focus-visible {
+    opacity: 0.9;
+    transform: translateY(-1px);
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (max-width: 576px) {
+    .finder-cta-inner {
+        flex-direction: column;
+        text-align: center;
+        padding: 20px 16px;
+    }
+
+    .finder-cta-text h3 {
+        font-size: 16px;
+    }
+
+    .finder-cta-btn {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* ── Top Rated Section ── */
+.top-rated-section {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.section-heading {
+    text-align: center;
+    color: var(--color-text-on-dark);
+    margin-bottom: 4px;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.section-subheading {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.top-rated-card {
+    gap: 12px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    padding: 16px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.top-rated-card:hover,
+a:focus-visible > .top-rated-card {
+    transform: translateY(-2px);
+    background: var(--color-surface-card);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.top-rated-card--podium {
+    border-color: rgba(255, 215, 0, 0.25);
+}
+
+.top-rated-rank {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--color-text-hint);
+    min-width: 32px;
+    text-align: center;
+}
+
+.top-rated-rank--gold {
+    color: #FFD700;
+    font-size: 22px;
+}
+
+.top-rated-rank--silver {
+    color: #C0C0C0;
+}
+
+.top-rated-rank--bronze {
+    color: #CD7F32;
+}
+
+.top-rated-info {
+    flex-grow: 1;
+    min-width: 0;
+}
+
+.firm-logo-sm {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    object-fit: contain;
+    background: var(--color-surface-card);
+    padding: 4px;
+    flex-shrink: 0;
+}
+
+.top-rated-info .firm-name {
+    color: var(--color-text-primary);
+    font-weight: 600;
+    font-size: 15px;
+    display: block;
+    margin-bottom: 6px;
+}
+
+.pfm-score-bar-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.pfm-score-bar {
+    flex-grow: 1;
+    height: 6px;
+    background: var(--color-border-light);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.pfm-score-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #7A95F8, #a78bfa);
+    border-radius: 3px;
+    transition: width 0.6s ease;
+}
+
+.pfm-score-inline {
+    color: var(--color-primary);
+    font-size: 13px;
+    font-weight: 700;
+    min-width: 28px;
+}
+
+.view-all-link {
+    color: rgba(255, 255, 255, 0.72);
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.2s ease;
+    display: inline-block;
+    padding: 8px 6px;
+    margin: -8px -6px;
+}
+
+.view-all-link:hover {
+    color: rgba(255, 255, 255, 0.95);
+    text-decoration: none;
+}
+
+/* ── Hot Deals Section ── */
+.hot-deals-section {
+    margin-top: 2.5rem;
+}
+
+.hot-deals-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.hot-deal-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(245, 158, 11, 0.2);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.hot-deal-card:hover,
+.hot-deal-card:focus-within {
+    transform: translateY(-2px);
+    border-color: rgba(245, 158, 11, 0.4);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.hot-deal-card__research {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 16px 16px 12px;
+    color: inherit;
+    flex: 1 1 auto;
+}
+
+.hot-deal-card__research-link {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.hot-deal-card__research-link:hover,
+.hot-deal-card__research-link:focus-visible {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Stretched link: covers the whole research zone, so the card reads and clicks
+   exactly as it did when it was one wrapping anchor. Stops short of the CTA
+   below, which is a separate outbound link. */
+.hot-deal-card__research-link::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+}
+
+.hot-deal-card__cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 10px 14px;
+    background: linear-gradient(135deg, #fbbf24, #f59e0b 55%, #d97706);
+    color: var(--color-text-primary);
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+    text-decoration: none;
+    border-top: 1px solid rgba(245, 158, 11, 0.35);
+    transition: background 0.25s cubic-bezier(0.4, 0, 0.2, 1), color 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hot-deal-card__cta:hover,
+.hot-deal-card__cta:focus-visible {
+    background: linear-gradient(135deg, #f59e0b, #d97706 55%, #b45309);
+    color: var(--color-text-primary);
+    text-decoration: none;
+}
+
+.hot-deal-card__cta-arrow {
+    font-size: 18px;
+    line-height: 1;
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hot-deal-card:hover .hot-deal-card__cta-arrow,
+.hot-deal-card:focus-within .hot-deal-card__cta-arrow {
+    transform: translateX(3px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .hot-deal-card,
+    .hot-deal-card__cta,
+    .hot-deal-card__cta-arrow,
+    .hot-deal-code {
+        transition: none;
+    }
+    .hot-deal-card:hover,
+    .hot-deal-card:focus-within {
+        transform: none;
+    }
+    .hot-deal-card:hover .hot-deal-card__cta-arrow,
+    .hot-deal-card:focus-within .hot-deal-card__cta-arrow {
+        transform: none;
+    }
+}
+
+.hot-deal-discount {
+    font-size: 18px;
+    font-weight: 800;
+    color: var(--color-accent-amber);
+    letter-spacing: -0.3px;
+}
+
+.hot-deal-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.hot-deal-info img {
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    object-fit: contain;
+    background: var(--color-surface-card);
+    padding: 2px;
+}
+
+.hot-deal-firm {
+    color: var(--color-text-primary);
+    font-size: 14px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+/* z-index 2 keeps the copy button clickable above the stretched research link:
+   without it the anchor's ::after swallows the tap and the code copies nothing. */
+.hot-deal-code {
+    position: relative;
+    z-index: 2;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px;
+    background: rgba(245, 158, 11, 0.1);
+    border: 1px dashed rgba(245, 158, 11, 0.4);
+    border-radius: 6px;
+    color: var(--color-accent-amber-dark);
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    width: fit-content;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.hot-deal-code:hover,
+.hot-deal-code:focus-visible {
+    background: rgba(245, 158, 11, 0.2);
+    border-color: rgba(245, 158, 11, 0.75);
+}
+
+.hot-deal-code.is-copied {
+    background: rgba(52, 211, 153, 0.15) !important;
+    border-color: var(--color-accent-green-dark) !important;
+    color: var(--color-accent-green-dark) !important;
+}
+
+/* Clipboard unavailable (locked-down in-app WebViews): the code stays on screen
+   and is auto-selected so the user can copy it by hand. */
+.hot-deal-code.is-copyfail {
+    background: #fde9e9 !important;
+    border-color: #b91c1c !important;
+    color: #b91c1c !important;
+}
+
+.hot-deal-code i {
+    font-size: 11px;
+    opacity: 0.7;
+}
+
+/* ── Trending Section ── */
+.trending-section {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.trending-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.trending-card {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 18px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+}
+
+.trending-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(122,149,248,0.03) 0%, transparent 60%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.trending-card:hover,
+.trending-card:focus-visible {
+    background: var(--color-surface-card);
+    border-color: rgba(99, 102, 241, 0.15);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+}
+
+.trending-card:hover::before {
+    opacity: 1;
+}
+
+.trending-card--top {
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.04) 0%, #fff 100%);
+    border-color: rgba(245, 158, 11, 0.2);
+}
+
+.trending-card--top:hover {
+    border-color: rgba(245, 158, 11, 0.35);
+}
+
+.trending-card__rank {
+    min-width: 28px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--color-text-hint);
+    flex-shrink: 0;
+}
+
+.trending-card__fire {
+    color: var(--color-accent-amber-light);
+    font-size: 18px;
+    animation: firePulse 2s ease-in-out infinite;
+}
+
+@keyframes firePulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.7; transform: scale(1.1); }
+}
+
+.trending-card__logo img,
+.trending-card__logo picture img {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    object-fit: contain;
+    background: var(--color-surface-card);
+    padding: 3px;
+    flex-shrink: 0;
+}
+
+.trending-card__info {
+    flex-grow: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.trending-card__name {
+    color: var(--color-text-primary);
+    font-size: 15px;
+    font-weight: 700;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.trending-card__meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.trending-card__tp {
+    color: var(--color-accent-amber);
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.trending-card__tp i {
+    font-size: 10px;
+    margin-right: 2px;
+}
+
+.trending-card__split {
+    color: var(--color-text-meta);
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.trending-card__right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+}
+
+.trending-card__deal {
+    display: inline-block;
+    padding: 3px 8px;
+    background: rgba(245, 158, 11, 0.1);
+    border: 1px solid rgba(245, 158, 11, 0.3);
+    border-radius: 6px;
+    color: var(--color-accent-amber-dark);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    white-space: nowrap;
+}
+
+/* Exp 21 (home_trending_deal) sunset 2026-06-04 - the .trending-card__deal--link
+   clickable affiliate variant (120 imp / 0 OC) was removed. The base
+   .trending-card__deal passive span above stays so the discount % is still
+   visible on each trending card. */
+
+.trending-card__price {
+    color: var(--color-text-meta);
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.trending-card__arrow {
+    color: var(--color-text-disabled);
+    font-size: 12px;
+    flex-shrink: 0;
+    transition: all 0.2s ease;
+}
+
+.trending-card:hover .trending-card__arrow {
+    color: var(--color-primary);
+    transform: translateX(3px);
+}
+
+/* ── Blog Section ── */
+.blog-section {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.blog-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+}
+
+.blog-card-home {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 20px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.blog-card-home:hover,
+.blog-card-home:focus-visible {
+    background: var(--color-surface-card);
+    transform: translateY(-2px);
+    text-decoration: none;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.blog-card-home__meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+}
+
+.blog-card-home__date {
+    color: var(--color-primary);
+    font-weight: 600;
+}
+
+.blog-card-home__reading {
+    color: var(--color-text-hint);
+}
+
+.blog-card-home__title {
+    color: var(--color-text-primary);
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.blog-card-home__excerpt {
+    color: var(--color-text-gray);
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* ── Browse by Category Section ── */
+.category-section {
+    margin-top: 2.5rem;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.category-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    text-decoration: none;
+    color: var(--color-text-primary);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.category-card:hover,
+.category-card:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    border-color: rgba(99, 102, 241, 0.15);
+    color: var(--color-text-primary);
+    text-decoration: none;
+}
+
+.category-card__icon {
+    width: 42px;
+    height: 42px;
+    border-radius: 11px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    flex-shrink: 0;
+    transition: transform 0.2s ease;
+}
+
+.category-card:hover .category-card__icon {
+    transform: scale(1.08);
+}
+
+.category-card__text {
+    flex-grow: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.category-card__title {
+    color: var(--color-text-primary);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.category-card__desc {
+    color: var(--color-text-meta);
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.category-card__arrow {
+    color: var(--color-text-disabled);
+    font-size: 11px;
+    flex-shrink: 0;
+    transition: all 0.2s ease;
+}
+
+.category-card:hover .category-card__arrow {
+    color: var(--color-primary);
+    transform: translateX(3px);
+}
+
+/* ── Pulse / Industry Updates Section ── */
+/* ── Pulse / Industry Updates Section ── */
+.pulse-section {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.pulse-section--prominent {
+    background: var(--color-surface-card);
+    border-radius: 16px;
+    padding: 24px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    box-shadow: 0 2px 12px rgba(99, 102, 241, 0.06);
+}
+
+.pulse-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+
+.pulse-header__left {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.pulse-header__left .section-heading {
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--color-text-primary, #1a1a2e);
+}
+
+.pulse-section--prominent .section-subheading {
+    color: var(--color-text-meta, #888);
+}
+
+.pulse-live-icon {
+    color: var(--color-primary, #6366f1);
+    animation: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes pulse-glow {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+.pulse-live-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 3px 10px;
+    background: rgba(16, 185, 129, 0.1);
+    color: var(--color-accent-green);
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: 20px;
+    border: 1px solid rgba(16, 185, 129, 0.2);
+}
+
+.pulse-live-dot {
+    width: 6px;
+    height: 6px;
+    background: var(--color-accent-green);
+    border-radius: 50%;
+    animation: pulse-dot 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.6; transform: scale(0.8); }
+}
+
+.pulse-header__link {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--color-primary, #6366f1);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    transition: all 0.2s ease;
+    padding: 8px 6px;
+    margin: -8px -6px;
+}
+
+.pulse-header__link:hover {
+    color: var(--color-primary-hover, #4f46e5);
+    gap: 8px;
+}
+
+.pulse-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.pulse-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 14px 16px;
+    background: #f9fafb;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    border-radius: 12px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pulse-card--linked {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pulse-card:hover,
+.pulse-card:focus-visible {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    background: var(--color-surface-card);
+    border-color: rgba(99, 102, 241, 0.15);
+}
+
+.pulse-card__icon {
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.pulse-card__content {
+    flex-grow: 1;
+    min-width: 0;
+}
+
+.pulse-card__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 3px;
+}
+
+.pulse-card__type {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.pulse-card__time {
+    font-size: 11px;
+    color: var(--color-text-hint, #999);
+    white-space: nowrap;
+}
+
+.pulse-card__title {
+    color: var(--color-text-primary, #1a1a2e);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.pulse-card__change {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 4px;
+    font-size: 12px;
+}
+
+.pulse-card__old {
+    color: var(--color-text-hint, #999);
+    text-decoration: line-through;
+}
+
+.pulse-card__arrow-sm {
+    font-size: 9px;
+    color: var(--color-text-hint, #999);
+}
+
+.pulse-card__new {
+    color: var(--color-accent-green);
+    font-weight: 600;
+}
+
+.pulse-card__firm {
+    font-size: 12px;
+    color: var(--color-primary, #6366f1);
+    font-weight: 500;
+    text-decoration: none;
+    margin-top: 3px;
+    display: inline-block;
+}
+
+.pulse-card--linked:hover .pulse-card__firm {
+    text-decoration: underline;
+}
+
+.pulse-card__nav-arrow {
+    color: var(--color-text-hint, #ccc);
+    font-size: 12px;
+    align-self: center;
+    flex-shrink: 0;
+    transition: all 0.2s ease;
+}
+
+.pulse-card:hover .pulse-card__nav-arrow {
+    color: var(--color-primary, #6366f1);
+    transform: translateX(2px);
+}
+
+.pulse-cta-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 24px;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.12) 0%, rgba(139, 92, 246, 0.12) 100%);
+    border: 1px solid rgba(99, 102, 241, 0.2);
+    border-radius: 10px;
+    color: var(--color-primary, #6366f1);
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pulse-cta-btn--prominent {
+    padding: 12px 28px;
+    background: linear-gradient(135deg, #6366f1 0%, #7c3aed 100%);
+    color: var(--color-text-on-dark);
+    border: none;
+    border-radius: 12px;
+    font-size: 15px;
+    box-shadow: 0 4px 14px rgba(99, 102, 241, 0.25);
+}
+
+.pulse-cta-btn--prominent:hover,
+.pulse-cta-btn--prominent:focus-visible {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+    color: var(--color-text-on-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(99, 102, 241, 0.35);
+    text-decoration: none;
+}
+
+.pulse-cta-count {
+    background: rgba(255, 255, 255, 0.25);
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.pulse-cta-btn:hover,
+.pulse-cta-btn:focus-visible {
+    background: linear-gradient(100deg, #7A95F8 0%, #6453CA 100%);
+    color: var(--color-text-on-dark);
+    border-color: transparent;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(99, 102, 241, 0.3);
+    text-decoration: none;
+}
+
+.pulse-cta-btn i {
+    font-size: 16px;
+}
+
+/* ── Hero CTAs (Experiment 5: quiz primary, browse secondary) ── */
+.hero-ctas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    margin: 0 auto 28px;
+}
+
+.hero-cta-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 14px;
+    padding: 14px 28px;
+    background: linear-gradient(135deg, #6366f1 0%, #7c3aed 100%);
+    color: var(--color-text-on-dark);
+    text-decoration: none;
+    border-radius: 14px;
+    box-shadow: 0 10px 28px rgba(99, 102, 241, 0.35), 0 2px 6px rgba(139, 92, 246, 0.25);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                background 0.25s ease;
+    min-width: 340px;
+    justify-content: center;
+}
+
+.hero-cta-primary:hover,
+.hero-cta-primary:focus-visible {
+    background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+    color: var(--color-text-on-dark);
+    text-decoration: none;
+    transform: translateY(-2px);
+    box-shadow: 0 16px 40px rgba(99, 102, 241, 0.45), 0 4px 12px rgba(139, 92, 246, 0.35);
+    outline: none;
+}
+
+.hero-cta-primary:active {
+    transform: translateY(0);
+}
+
+.hero-cta-primary__icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.18);
+    color: var(--color-text-on-dark);
+    font-size: 18px;
+    flex-shrink: 0;
+}
+
+.hero-cta-primary__text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2px;
+    line-height: 1.15;
+    text-align: left;
+}
+
+.hero-cta-primary__title {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    color: var(--color-text-on-dark);
+}
+
+.hero-cta-primary__subtitle {
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.82);
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+.hero-cta-primary__arrow {
+    font-size: 20px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.9);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    flex-shrink: 0;
+}
+
+.hero-cta-primary:hover .hero-cta-primary__arrow {
+    transform: translateX(4px);
+}
+
+.hero-cta-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 14px;
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    background: rgba(255, 255, 255, 0.04);
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.hero-cta-secondary:hover,
+.hero-cta-secondary:focus-visible {
+    color: var(--color-text-on-dark);
+    border-color: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.1);
+    text-decoration: none;
+    outline: none;
+}
+
+/* ── Browse CTA (Exp 5 v2): visible second-option button - solid white-outline so it reads as a real choice not a footnote ── */
+.hero-cta-browse {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 13px 24px;
+    color: var(--color-text-on-dark);
+    text-decoration: none;
+    border-radius: 14px;
+    border: 1.5px solid rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+                border-color 0.25s ease,
+                background 0.25s ease;
+    min-width: 280px;
+    justify-content: center;
+}
+
+.hero-cta-browse:hover,
+.hero-cta-browse:focus-visible {
+    color: var(--color-text-on-dark);
+    text-decoration: none;
+    border-color: var(--color-text-on-dark);
+    background: rgba(255, 255, 255, 0.18);
+    transform: translateY(-2px);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18), 0 0 0 1px rgba(255, 255, 255, 0.3);
+    outline: none;
+}
+
+.hero-cta-browse:active {
+    transform: translateY(0);
+}
+
+.hero-cta-browse__icon {
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.9);
+    flex-shrink: 0;
+}
+
+.hero-cta-browse__text {
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: -0.1px;
+    color: var(--color-text-on-dark);
+}
+
+.hero-cta-browse__arrow {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.85);
+    transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    flex-shrink: 0;
+}
+
+.hero-cta-browse:hover .hero-cta-browse__arrow {
+    transform: translateX(4px);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 34px;
+    }
+
+    .hero-subtitle {
+        font-size: 15px;
+    }
+
+    .hero-ctas {
+        gap: 10px;
+        margin-bottom: 22px;
+    }
+
+    .hero-cta-primary {
+        min-width: 0;
+        width: 100%;
+        max-width: 420px;
+        padding: 13px 20px;
+        gap: 12px;
+    }
+
+    .hero-cta-primary__icon {
+        width: 36px;
+        height: 36px;
+        font-size: 16px;
+    }
+
+    .hero-cta-primary__title {
+        font-size: 15px;
+    }
+
+    .hero-cta-primary__subtitle {
+        font-size: 11px;
+    }
+
+    .hero-cta-primary__arrow {
+        font-size: 18px;
+    }
+
+    .hero-cta-secondary {
+        font-size: 13px;
+        padding: 5px 12px;
+    }
+
+    .hero-cta-browse {
+        min-width: 0;
+        width: 100%;
+        max-width: 420px;
+        padding: 12px 18px;
+        gap: 10px;
+    }
+
+    .hero-cta-browse__text {
+        font-size: 14px;
+    }
+
+    .hero-cta-browse__arrow {
+        font-size: 16px;
+    }
+
+    .quick-links {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .popular-firm-chip {
+        font-size: 13px;
+        padding: 7px 12px;
+    }
+
+    .blog-cards-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hot-deals-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .category-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .pulse-section--prominent {
+        padding: 18px;
+    }
+
+    .pulse-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 6px;
+    }
+}
+
+@media (max-width: 576px) {
+    .pulse-section--prominent {
+        padding: 14px;
+        border-radius: 12px;
+    }
+
+    .pulse-card {
+        padding: 12px 14px;
+        gap: 10px;
+    }
+
+    .pulse-card__icon {
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    .pulse-card__title {
+        font-size: 13px;
+    }
+
+    .pulse-card__nav-arrow {
+        display: none;
+    }
+
+    .pulse-cta-btn--prominent {
+        width: 100%;
+        justify-content: center;
+        padding: 12px 20px;
+    }
+
+    .hero-section {
+        padding-top: 1.5rem;
+    }
+
+    .hero-title {
+        font-size: 28px;
+    }
+
+    .hero-subtitle {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .search-container_2 {
+        padding: 12px;
+    }
+
+    .popular-firm-chip {
+        font-size: 12px;
+        padding: 6px 10px;
+    }
+
+    .popular-firm-chip img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .quick-links {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .quick-link-card {
+        padding: 18px 8px 14px;
+    }
+
+    .quick-link-icon {
+        width: 38px;
+        height: 38px;
+        font-size: 16px;
+    }
+
+    .quick-link-title {
+        font-size: 12px;
+    }
+
+    .quick-link-desc {
+        font-size: 10px;
+    }
+
+    .hero-stats {
+        padding: 12px 16px;
+    }
+
+    .hero-stat__number {
+        font-size: 20px;
+    }
+
+    .hero-stat__label {
+        font-size: 10px;
+    }
+
+    .hot-deals-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .hot-deal-discount {
+        font-size: 16px;
+    }
+
+    .trending-card {
+        padding: 12px 14px;
+        gap: 10px;
+    }
+
+    .trending-card__name {
+        font-size: 14px;
+    }
+
+    .trending-card__logo img,
+    .trending-card__logo picture img {
+        width: 34px;
+        height: 34px;
+    }
+
+    .trending-card__deal,
+    .trending-card__price {
+        font-size: 10px;
+    }
+
+    .blog-card-home {
+        padding: 16px;
+    }
+
+    .blog-card-home__title {
+        font-size: 14px;
+        -webkit-line-clamp: 2;
+    }
+
+    .category-grid {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+
+    .category-card {
+        padding: 12px 14px;
+    }
+
+    .category-card__icon {
+        width: 36px;
+        height: 36px;
+        font-size: 17px;
+    }
+
+    .category-card__title {
+        font-size: 13px;
+    }
+
+    .pulse-cta-btn {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 375px) {
+    .hero-title {
+        font-size: 24px;
+    }
+
+    .hero-subtitle {
+        font-size: 13px;
+    }
+
+    .hero-eyebrow {
+        font-size: 10px;
+        padding: 5px 11px;
+        letter-spacing: 0.3px;
+        margin-bottom: 14px;
+    }
+
+    .hero-eyebrow__icon {
+        font-size: 12px;
+    }
+
+    .popular-firm-chip {
+        font-size: 11px;
+        padding: 5px 8px;
+        gap: 6px;
+    }
+
+    .hero-stats {
+        padding: 10px 12px;
+        gap: 0;
+    }
+
+    .hero-stat__number {
+        font-size: 18px;
+    }
+
+    .hero-stat__label {
+        font-size: 9px;
+        letter-spacing: 0.3px;
+    }
+
+    .hero-stat__divider {
+        height: 24px;
+    }
+
+    .top-rated-card {
+        padding: 12px;
+        gap: 8px;
+    }
+
+    .firm-logo-sm {
+        width: 36px;
+        height: 36px;
+    }
+
+    .top-rated-info .firm-name {
+        font-size: 13px;
+    }
+
+    .hot-deal-card__research {
+        padding: 12px 12px 10px;
+    }
+
+    .hot-deal-card__cta {
+        padding: 9px 12px;
+        font-size: 12px;
+    }
+
+    .hot-deal-card__cta-arrow {
+        font-size: 16px;
+    }
+
+    .hot-deal-discount {
+        font-size: 15px;
+    }
+
+    .blog-card-home__excerpt {
+        display: none;
+    }
+}
+
+/* Trending-card stretched-link pattern - the outer .trending-card is now a <div> (not <a>) so the TrustPilot chip inside it
+   can be a real outbound <a> without nesting anchors (invalid HTML). The card-link covers the entire card; the TP chip
+   layers above with pointer-events:auto so its own click target wins. Same pattern as v2.11.4 home-deal-spotlight. */
+.trending-card__card-link {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    border-radius: inherit;
+    text-decoration: none;
+}
+.trending-card__rank,
+.trending-card__logo,
+.trending-card__info,
+.trending-card__right {
+    position: relative;
+    z-index: 2;
+    pointer-events: none;
+}
+/* Only ANCHOR variants of the TP chip get pointer-events: auto. The passive
+   .trending-card__tp <span> (rendered when is_trustpilot_suspended=true with
+   "⚠ Suspended" copy on line 371 of home.blade.php) used to be in this group
+   too, which made it a dead-click target - a tap on the suspended chip
+   landed on a span with no handler instead of bubbling through to the
+   stretched .trending-card__card-link beneath. Now the suspended span
+   inherits pointer-events: none from .trending-card__info, so clicks pass
+   through to the card-link and route to /firms/{slug} as expected. */
+.trending-card__name-link,
+.trending-card__tp--link {
+    position: relative;
+    z-index: 3;
+    pointer-events: auto;
+}
+.trending-card__name-link {
+    color: inherit;
+    text-decoration: none;
+}
+.trending-card__tp--link {
+    color: inherit;
+    text-decoration: none;
+    transition: text-decoration 0.15s ease;
+}
+.trending-card__tp--link:hover,
+.trending-card__tp--link:focus-visible {
+    text-decoration: underline;
+    text-decoration-color: #00b67a;
+    text-underline-offset: 3px;
+}
+
+/* Recently Tracked Firms - homepage internal-link strip surfacing the newest
+   firm pages (indexation-mesh: gives the thinnest / least-linked firm pages a
+   homepage inbound link). Opaque white cards, dark text, responsive 2-col grid. */
+.recent-firms-section {
+    margin-top: 3rem;
+    padding-bottom: 1rem;
+}
+
+.recent-firms-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+}
+
+.recent-firm-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    background: var(--color-surface-card);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    text-decoration: none;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.recent-firm-card:hover,
+.recent-firm-card:focus-visible {
+    transform: translateY(-2px);
+    border-color: rgba(99, 102, 241, 0.18);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    text-decoration: none;
+}
+
+.recent-firm-card:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
+.recent-firm-card__logo img,
+.recent-firm-card__logo picture img {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    object-fit: contain;
+    background: var(--color-surface-card);
+    padding: 3px;
+    flex-shrink: 0;
+}
+
+.recent-firm-card__info {
+    flex-grow: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.recent-firm-card__name {
+    color: var(--color-text-primary);
+    font-size: 15px;
+    font-weight: 700;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.recent-firm-card__meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.recent-firm-card__asset {
+    color: var(--color-primary);
+    font-size: 12px;
+    font-weight: 600;
+    background: linear-gradient(rgba(99, 102, 241, 0.08), rgba(99, 102, 241, 0.08)), var(--color-surface-card);
+    padding: 1px 8px;
+    border-radius: 20px;
+}
+
+.recent-firm-card__added {
+    color: var(--color-text-gray);
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.recent-firm-card__arrow {
+    color: var(--color-text-gray);
+    font-size: 13px;
+    flex-shrink: 0;
+    transition: transform 0.3s ease;
+}
+
+.recent-firm-card:hover .recent-firm-card__arrow {
+    transform: translateX(3px);
+    color: var(--color-primary);
+}
+
+@media (max-width: 560px) {
+    .recent-firms-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .recent-firm-card,
+    .recent-firm-card__arrow {
+        transition: none;
+    }
+    .recent-firm-card:hover,
+    .recent-firm-card:focus-visible {
+        transform: none;
+    }
+    .recent-firm-card:hover .recent-firm-card__arrow {
+        transform: none;
+    }
+}

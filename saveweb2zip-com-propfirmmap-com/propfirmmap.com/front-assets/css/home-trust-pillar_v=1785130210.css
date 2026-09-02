@@ -1,0 +1,590 @@
+/*
+ * Homepage Trust Pillar (2026-05-28) - surfaces top-3 firms by composite
+ * Trust Aggregate score on the homepage. Layered conic-gradient ring per
+ * card (byte-mirror of the firm-show firm-trust-aggregate ring palette),
+ * stretched-card-link pattern (per the v2.11.4 home-deal-spotlight fix
+ * so the entire card is clickable), TrustPilot chip is its own outbound
+ * anchor per the 2026-05-09 TrustPilot link rule.
+ *
+ * White-card theme over the purple page gradient - per OPAQUE-BACKGROUND
+ * RULE every card surface declares background:#fff so the gradient can
+ * never bleed through. WCAG: dark text on white (#1a1a2e=AAA), grade
+ * pill is white on saturated bg (color palette verified per ladder).
+ */
+
+.home-trust-pillar {
+    margin: 32px 0 28px;
+    padding: 0;
+}
+
+.home-trust-pillar__head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+}
+
+.home-trust-pillar__head-left {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.home-trust-pillar__heading {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0 0 6px 0;
+    color: var(--color-text-on-dark);
+    font-size: 24px;
+    font-weight: 800;
+    letter-spacing: -0.01em;
+    line-height: 1.15;
+}
+
+.home-trust-pillar__heading-icon {
+    font-size: 26px;
+    color: #fbbf24;
+    filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.25));
+}
+
+.home-trust-pillar__sub {
+    margin: 0;
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 13.5px;
+    font-weight: 500;
+    line-height: 1.45;
+    max-width: 540px;
+}
+
+.home-trust-pillar__method {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 14px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 999px;
+    color: var(--color-text-on-dark);
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+
+.home-trust-pillar__method:hover,
+.home-trust-pillar__method:focus-visible {
+    background: rgba(255, 255, 255, 0.18);
+    border-color: rgba(255, 255, 255, 0.4);
+    color: var(--color-text-on-dark);
+    text-decoration: none;
+    transform: translateY(-1px);
+    outline: 2px solid rgba(255, 255, 255, 0.7);
+    outline-offset: 2px;
+}
+
+.home-trust-pillar__method i {
+    font-size: 14px;
+}
+
+/* ---------- Grid ---------- */
+.home-trust-pillar__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+}
+
+/* ---------- Card ---------- */
+.home-trust-pillar__card {
+    position: relative;
+    background: var(--color-surface-card);
+    border-radius: 16px;
+    padding: 22px 22px 18px;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.10);
+    overflow: hidden;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    border: 1px solid #eef0f6;
+    cursor: pointer;
+}
+
+.home-trust-pillar__card--top {
+    border: 1px solid rgba(245, 158, 11, 0.45);
+    box-shadow: 0 8px 30px rgba(245, 158, 11, 0.18);
+}
+
+.home-trust-pillar__card:hover,
+.home-trust-pillar__card:focus-within {
+    transform: translateY(-3px);
+    box-shadow: 0 14px 40px rgba(0, 0, 0, 0.15);
+}
+
+.home-trust-pillar__card--top:hover,
+.home-trust-pillar__card--top:focus-within {
+    box-shadow: 0 16px 46px rgba(245, 158, 11, 0.28);
+}
+
+/* Stretched card-link overlay: covers the entire card so empty-space
+ * clicks deep-link into the firm trust breakdown. The named interactive
+ * children (firm-name, TP chip) layer above with pointer-events:auto. */
+.home-trust-pillar__card-link {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    border-radius: inherit;
+    text-decoration: none;
+}
+
+.home-trust-pillar__card-link:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: -2px;
+}
+
+/* ---------- Rank badge (top-right corner) ---------- */
+.home-trust-pillar__rank-badge {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 3;
+    pointer-events: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 10px;
+    background: linear-gradient(135deg, #fbbf24, #f59e0b);
+    color: var(--color-text-primary);
+    font-size: 10.5px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    border-radius: 999px;
+    box-shadow: 0 2px 8px rgba(245, 158, 11, 0.35);
+}
+
+.home-trust-pillar__card:not(.home-trust-pillar__card--top) .home-trust-pillar__rank-badge {
+    background: linear-gradient(135deg, var(--color-border-light), var(--color-border-mid));
+    color: #1f2937;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.home-trust-pillar__rank-icon {
+    font-size: 13px;
+}
+
+/* ---------- Body ---------- */
+.home-trust-pillar__body {
+    position: relative;
+    z-index: 2;
+    pointer-events: none;
+    display: grid;
+    grid-template-columns: 92px 1fr;
+    gap: 18px;
+    align-items: center;
+    margin-top: 12px;
+}
+
+/* ---------- Conic-gradient trust ring ---------- */
+.home-trust-pillar__ring {
+    position: relative;
+    width: 92px;
+    height: 92px;
+    border-radius: 50%;
+    background: conic-gradient(
+        var(--tp-grade-color, var(--color-accent-green)) 0%,
+        var(--tp-grade-color, var(--color-accent-green)) var(--tp-fill-pct, 0%),
+        var(--color-surface-gray) var(--tp-fill-pct, 0%),
+        var(--color-surface-gray) 100%
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.home-trust-pillar__ring-inner {
+    width: 72px;
+    height: 72px;
+    background: var(--color-surface-card);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+}
+
+.home-trust-pillar__ring-score {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--color-text-primary);
+    font-variant-numeric: tabular-nums;
+}
+
+.home-trust-pillar__ring-denom {
+    margin-top: 2px;
+    font-size: 10px;
+    color: var(--color-text-subtle);
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+/* ---------- 7-day delta chip ---------- */
+.home-trust-pillar__ring-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    pointer-events: none;
+}
+
+.home-trust-pillar__delta {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    font-size: 11px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+    border: 1px solid transparent;
+    background: var(--color-surface-gray);
+    color: #4b5563;
+}
+
+.home-trust-pillar__delta--up {
+    background: rgba(16, 185, 129, 0.12);
+    color: #047857;
+    border-color: rgba(16, 185, 129, 0.35);
+}
+
+.home-trust-pillar__delta--down {
+    background: rgba(239, 68, 68, 0.12);
+    color: var(--color-danger-dark);
+    border-color: rgba(239, 68, 68, 0.35);
+}
+
+.home-trust-pillar__delta--flat {
+    background: rgba(107, 114, 128, 0.12);
+    color: #4b5563;
+    border-color: rgba(107, 114, 128, 0.25);
+}
+
+.home-trust-pillar__delta-icon {
+    font-size: 13px;
+    line-height: 1;
+}
+
+.home-trust-pillar__delta-value {
+    font-weight: 800;
+}
+
+.home-trust-pillar__delta-window {
+    font-weight: 600;
+    opacity: 0.7;
+    font-size: 10px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    margin-left: 2px;
+}
+
+/* ---------- Meta column ---------- */
+.home-trust-pillar__meta {
+    min-width: 0;
+}
+
+.home-trust-pillar__firm-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+}
+
+.home-trust-pillar__firm-row img {
+    border-radius: 8px;
+    object-fit: contain;
+    background: var(--color-surface-card);
+    flex-shrink: 0;
+}
+
+.home-trust-pillar__firm-text {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+}
+
+.home-trust-pillar__firm-name {
+    position: relative;
+    z-index: 3;
+    pointer-events: auto;
+    color: var(--color-text-primary);
+    font-size: 16px;
+    font-weight: 800;
+    text-decoration: none;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.home-trust-pillar__firm-name:hover,
+.home-trust-pillar__firm-name:focus-visible {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+.home-trust-pillar__grade-pill {
+    align-self: flex-start;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 28px;
+    padding: 2px 8px;
+    color: var(--color-text-on-dark);
+    font-size: 11px;
+    font-weight: 800;
+    border-radius: 5px;
+    letter-spacing: 0.3px;
+}
+
+/* ---------- Signal chips row ---------- */
+.home-trust-pillar__signal-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 10px;
+}
+
+.home-trust-pillar__chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 9px;
+    font-size: 11.5px;
+    font-weight: 700;
+    border-radius: 999px;
+    text-decoration: none;
+    line-height: 1.2;
+}
+
+.home-trust-pillar__chip-icon {
+    font-size: 12px;
+}
+
+.home-trust-pillar__chip--tp {
+    position: relative;
+    z-index: 3;
+    pointer-events: auto;
+    background: rgba(0, 182, 122, 0.12);
+    color: #00875a;
+}
+
+.home-trust-pillar__chip--tp:hover,
+.home-trust-pillar__chip--tp:focus-visible {
+    background: rgba(0, 182, 122, 0.20);
+    color: #00875a;
+    text-decoration: underline;
+    text-decoration-color: #00b67a;
+    text-underline-offset: 2px;
+}
+
+.home-trust-pillar__chip--tp .home-trust-pillar__chip-icon {
+    color: #00b67a;
+}
+
+.home-trust-pillar__chip-count {
+    color: var(--color-text-neutral-gray);
+    font-weight: 600;
+    font-size: 10.5px;
+    margin-left: 2px;
+}
+
+.home-trust-pillar__chip--safety {
+    background: rgba(16, 185, 129, 0.12);
+    color: #065f46;
+}
+
+.home-trust-pillar__chip--safety .home-trust-pillar__chip-icon {
+    color: var(--color-accent-green);
+}
+
+.home-trust-pillar__chip--partner {
+    background: rgba(99, 102, 241, 0.12);
+    color: var(--color-primary-dark);
+}
+
+.home-trust-pillar__chip--partner .home-trust-pillar__chip-icon {
+    color: var(--color-primary);
+}
+
+/* ---------- Details row ---------- */
+.home-trust-pillar__details-row {
+    display: flex;
+    align-items: center;
+}
+
+.home-trust-pillar__details-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    color: var(--color-primary);
+    font-size: 12px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: gap 0.2s ease, color 0.2s ease;
+    position: relative;
+    z-index: 3;
+    pointer-events: auto;
+    border-radius: 3px;
+}
+
+.home-trust-pillar__details-link:hover,
+.home-trust-pillar__details-link:focus-visible {
+    color: var(--color-primary-dark);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    gap: 7px;
+}
+
+.home-trust-pillar__details-link:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
+.home-trust-pillar__details-link i {
+    font-size: 14px;
+    transition: transform 0.2s ease;
+}
+
+.home-trust-pillar__card:hover .home-trust-pillar__details-link i,
+.home-trust-pillar__card:focus-within .home-trust-pillar__details-link i {
+    transform: translateX(3px);
+}
+
+/* ---------- Foot ---------- */
+.home-trust-pillar__foot {
+    margin-top: 18px;
+    text-align: center;
+}
+
+.home-trust-pillar__leaderboard-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.home-trust-pillar__leaderboard-link:hover,
+.home-trust-pillar__leaderboard-link:focus-visible {
+    color: var(--color-text-on-dark);
+    border-color: rgba(255, 255, 255, 0.35);
+    background: rgba(255, 255, 255, 0.08);
+    text-decoration: none;
+    outline: 2px solid rgba(255, 255, 255, 0.7);
+    outline-offset: 2px;
+}
+
+.home-trust-pillar__leaderboard-link i {
+    font-size: 14px;
+}
+
+/* ---------- Tablet ---------- */
+@media (max-width: 991px) {
+    .home-trust-pillar__grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .home-trust-pillar__card:nth-child(3) {
+        grid-column: 1 / -1;
+        max-width: 50%;
+        margin: 0 auto;
+    }
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 575px) {
+    .home-trust-pillar {
+        margin: 24px 0 22px;
+    }
+    .home-trust-pillar__head {
+        margin-bottom: 14px;
+    }
+    .home-trust-pillar__heading {
+        font-size: 20px;
+    }
+    .home-trust-pillar__heading-icon {
+        font-size: 22px;
+    }
+    .home-trust-pillar__sub {
+        font-size: 12.5px;
+    }
+    .home-trust-pillar__method {
+        padding: 6px 12px;
+        font-size: 11px;
+    }
+    .home-trust-pillar__grid {
+        grid-template-columns: 1fr;
+        gap: 14px;
+    }
+    .home-trust-pillar__card:nth-child(3) {
+        max-width: none;
+    }
+    .home-trust-pillar__card {
+        padding: 18px 18px 14px;
+    }
+    .home-trust-pillar__body {
+        grid-template-columns: 76px 1fr;
+        gap: 14px;
+    }
+    .home-trust-pillar__ring {
+        width: 76px;
+        height: 76px;
+    }
+    .home-trust-pillar__ring-inner {
+        width: 60px;
+        height: 60px;
+    }
+    .home-trust-pillar__ring-score {
+        font-size: 20px;
+    }
+    .home-trust-pillar__firm-name {
+        font-size: 15px;
+    }
+    .home-trust-pillar__rank-badge {
+        top: 12px;
+        right: 12px;
+        padding: 4px 8px;
+        font-size: 9.5px;
+    }
+    .home-trust-pillar__delta {
+        padding: 2px 6px;
+        font-size: 10px;
+    }
+    .home-trust-pillar__delta-icon {
+        font-size: 12px;
+    }
+    .home-trust-pillar__delta-window {
+        font-size: 9px;
+    }
+}
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+    .home-trust-pillar__card,
+    .home-trust-pillar__method,
+    .home-trust-pillar__details-link,
+    .home-trust-pillar__details-link i,
+    .home-trust-pillar__leaderboard-link {
+        transition: none !important;
+        transform: none !important;
+    }
+}

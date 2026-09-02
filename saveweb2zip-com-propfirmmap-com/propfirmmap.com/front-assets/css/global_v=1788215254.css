@@ -1,0 +1,2941 @@
+/*
+ * PropFirmMap Global Stylesheet
+ * Consolidated from: tokens.css, layout.css, breadcrumbs.css, pfm-score.css,
+ *                    accessibility.css, cookie-consent.css, feedback-widget.css, newsletter.css
+ * Purpose: Single CSS file loaded on ALL pages to reduce HTTP requests.
+ */
+
+/* ════════════════════════════════════════════════════════════════
+   DESIGN TOKENS (from tokens.css)
+   ════════════════════════════════════════════════════════════════ */
+
+:root {
+    /* This site has no dark theme: every surface is a white card and every control
+       is explicitly styled. Declaring the document light-only stops a THIRD-PARTY
+       asset's own dark variant from firing on our white tiles. An SVG referenced by
+       <img> evaluates its internal @media (prefers-color-scheme:dark) against the
+       embedding document's colour scheme, so a brand logo shipping a near-white
+       dark-mode fill rendered invisible on .firm-hero-logo for every dark-OS
+       visitor (Finotive Futures, 2026-08-25). Curl cannot see it: the rule lives
+       inside the asset and only fires client-side. Verified fixed in Chromium and
+       Firefox; also covers currentColor and any future imported variant.
+       Must stay in a stylesheet loaded in <head>: both engines bind an image's
+       colour scheme when it is decoded, so a rule applied later leaves already-
+       loaded logos on the wrong variant. */
+    color-scheme: only light;
+
+    /* ── Brand Colors ── */
+    --color-primary:        #6366f1;
+    --color-primary-dark:   #4f46e5;
+    --color-primary-darker: #4338ca;  /* deep indigo hover/focus states */
+    --color-primary-alt:    #7489e1;   /* pagination, radio labels */
+    --color-success:        #059669;
+
+    /* ── Brand Gradients ── */
+    --gradient-brand:       linear-gradient(to bottom, #7A95F8 8%, #6453CA 92%);
+    --gradient-brand-h:     linear-gradient(to right, #7A95F8 8%, #6453CA 92%);
+    --gradient-brand-diag:  linear-gradient(100deg, #7A95F8 0%, #6453CA 100%);
+    --color-brand-blue:     #7A95F8;  /* legacy solid brand blue, gradient start stop */
+    --color-brand-purple:   #6453CA;  /* legacy solid brand purple, gradient end stop */
+
+    /* ── Surfaces (white theme) ── */
+    --color-surface-card:   #ffffff;   /* primary card/container bg */
+    --color-surface-warm:   #f8f9fa;   /* secondary card/tab backgrounds */
+    --color-surface-gray:   #f1f3f5;   /* secondary panels, date badges */
+    --color-surface-input:  #f8f9fa;   /* textarea, confirmation inputs */
+    --color-surface-search: #f8f9fa;   /* search box bg */
+    --color-surface-hover:  #f0f0f5;   /* hover states on white cards */
+    --color-surface-rating: #e5e7eb;   /* rating bar track */
+    --color-surface-badge:  #f0f0f0;   /* badge backgrounds */
+    --color-surface-neutral: #dfdfdf;  /* profile/checkout tab + input backgrounds */
+    --color-surface-warm-pink: #FBF5F3; /* checkout/compare/profile/review warm card bg */
+    --color-surface-frost:  #fafbff;   /* very light indigo-tinted card bg (calculators, trend cards) */
+    --color-surface-muted:         #eeeeee;  /* subtle tab-hover / hover-state backgrounds */
+    --color-surface-indigo-light:  #eef0ff;  /* light indigo tint for register/save icon backgrounds */
+
+    /* ── Text Colors (dark text for white surfaces) ── */
+    --color-text-primary:   #1a1a2e;
+    --color-text-dark:      #333333;
+    --color-text-mid:       #555555;
+    --color-text-gray:      #666666;   /* placeholders, star labels */
+    /* MUTED TEXT TIER - every token below was darkened to #6f6f6f on 2026-08-23.
+       Do NOT "restore" any of them to a lighter grey; see MUTED TEXT CONTRAST
+       FLOOR immediately after this :root block for the measured reason. */
+    --color-text-muted:     #6f6f6f;   /* descriptions, about text */
+    --color-text-subtle:    #6f6f6f;   /* section titles, date badges */
+    --color-text-mid-gray:  #6f6f6f;   /* checkout/profile section labels, tab text */
+    --color-text-light:     #6f6f6f;   /* struck-through prices */
+    --color-text-hint:      #6f6f6f;   /* reading time, dates, arrows */
+    --color-text-meta:      #6f6f6f;   /* stat labels, descriptions */
+    --color-text-disabled:  #cccccc;   /* disabled arrows, inactive icons - EXEMPT, see note */
+    --color-text-placeholder: #6f6f6f; /* input placeholders */
+    --color-text-table:     #555555;   /* table headers */
+    --color-text-section:   #666666;   /* compare section titles */
+    --color-text-link:      #6366f1;   /* link color on white bg - 4.47:1, see note */
+    --color-text-error:        #dc2626;  /* loss/negative delta text, form errors */
+    --color-text-neutral-gray: #666e7b;  /* flat/neutral delta text, grade-f badges */
+    --color-text-slate:        #616e80;  /* muted disclaimer/meta text on white cards */
+
+    /* ── Text Colors (light text for dark/gradient surfaces) ── */
+    --color-text-on-dark:   #ffffff;
+    --color-text-on-dark-muted: rgba(255, 255, 255, 0.7);
+
+    /* ── Accent Colors ── */
+    --color-accent-amber:      #d97706;  /* deal/discount accent */
+    --color-accent-amber-dark: #b45309;  /* deal code text */
+    --color-accent-amber-light:#f59e0b;  /* gold scores, warnings */
+    --color-accent-green:      #10b981;  /* success, CTA buttons */
+    --color-accent-green-dark: #059669;  /* success hover */
+    --color-accent-bright-green:      #41b618;  /* accent-btn gradient start, nav icon */
+    --color-accent-bright-green-dark: #2d8a11;  /* accent-btn gradient end */
+    --color-danger:            #e74c3c;  /* remove/delete actions, unfavorite icons */
+    --color-danger-dark:       #b91c1c;  /* alert badge text on light-red bg */
+    --color-success-dark:      #047857;  /* success badge text on light-green bg */
+    --color-info-blue:         #1d4ed8;  /* price-drop badges/pills */
+    --color-traffic-safe:      #22c55e;  /* drawdown-calculator safe zone (bar fill, legend dot) */
+    --color-traffic-caution:   #fbbf24;  /* drawdown-calculator caution zone (bar fill, legend dot) */
+    --color-traffic-danger:    #ef4444;  /* drawdown-calculator danger zone (bar fill, icons, badges) */
+    --color-icon-violet:       #7c3aed;  /* drawdown-calculator floor-limit icon color */
+    --color-icon-empty:        #dddddd;  /* empty star, unset icon placeholder */
+
+    /* ── Amber badge scale (deal/urgency chips, alert bells) ── */
+    --color-amber-text-strong:  #92400e;  /* dark amber text on light amber bg */
+    --color-amber-text-darker:  #78350f;  /* dark amber text, hover state */
+    --color-amber-bg-light:     #fef3c7;  /* light amber chip/hover bg */
+    --color-amber-border-light: #fde68a;  /* light amber chip/card border */
+
+    /* ── Inline success/error alert boxes (form feedback) ── */
+    --color-alert-success-bg:     #ecfdf5;
+    --color-alert-success-border: #a7f3d0;
+    --color-alert-success-text:   #065f46;
+    --color-alert-error-bg:       #fef2f2;
+    --color-alert-error-border:   #fecaca;
+    --color-alert-error-text:     #991b1b;
+
+    /* ── Border Colors ── */
+    --color-border-light:   #e5e7eb;   /* table row borders, card borders */
+    --color-border-mid:     #d1d5db;   /* divider lines */
+    --color-border-footer:  #7d8aba;   /* footer link underline */
+    --color-border-default: #dee2e6;   /* input borders, card borders, dropdowns */
+    --color-border-frost:   #eceff5;   /* border to pair with --color-surface-frost */
+    --color-border-strong:  #bbbbbb;   /* hover border emphasis (stronger than --color-border-mid) */
+
+    /* ── Typography ── */
+    --font-family-base:     'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+    /* ── CTA fills that carry white text ──
+       --color-accent-green (#10b981) and #34d399 are display greens: white on
+       them measures 2.54:1 and 1.92:1, so a white-label button built from them
+       fails WCAG 1.4.3 badly. These two are the darkened equivalents reserved
+       for filled CTAs, measured at 5.48:1 and 7.68:1 against white. Do not
+       swap the display greens for these in text or icon contexts. */
+    --color-cta-green:       #047857;
+    --color-cta-green-dark:  #065f46;
+    /* Same problem on the brand gradient: white on #7A95F8 is 2.81:1, so a
+       filled purple CTA starts at #6453CA (5.78:1) instead of the light stop. */
+    --color-cta-purple:      #6453CA;
+    --color-cta-purple-dark: #4f46e5;
+    /* Same problem on the amber accent: white on #f59e0b is 2.15:1 and on
+       #d97706 is 3.19:1, both fail. These measure 5.02:1 and 7.09:1. */
+    --color-cta-amber:       #b45309;
+    --color-cta-amber-dark:  #92400e;
+
+    /* ── Touch targets ──
+       Minimum tappable size on coarse pointers (WCAG 2.5.8 AA / iOS HIG).
+       Applied to controls that render smaller than this on mobile, most
+       notably the promo-code copy buttons: a redeemed code is the only
+       conversion a partner firm can verify, so its tap must not miss. */
+    --touch-target-min:     44px;
+
+    /* ── Border Radius ── */
+    --radius-sm:            5px;
+    --radius-md:            8px;
+    --radius-lg:            12px;
+    --radius-xl:            20px;
+    --radius-pill:          24px;
+    --radius-round:         50px;
+}
+
+/* ============================================================
+   MUTED TEXT CONTRAST FLOOR  (2026-08-23, eng-frontend)
+   ------------------------------------------------------------
+   Seven muted-text tokens used to sit between #777777 and #aaaaaa. Every one
+   of them failed the site's own 4.5:1 body-text floor on every surface it is
+   painted on. Measured, not estimated:
+
+     #777777  4.48:1 white   4.25:1 #f8f9fa   4.03:1 #f1f3f5
+     #828282  3.84:1         3.65:1           3.45:1
+     #888888  3.54:1         3.36:1           3.19:1
+     #8E8888  3.48:1         3.31:1           3.13:1
+     #9ca3af  2.54:1         2.41:1           2.28:1
+     #999999  2.85:1         2.70:1           2.56:1
+     #aaaaaa  2.32:1         2.20:1           2.09:1
+
+   All seven are now #6f6f6f = 5.02:1 white / 4.77:1 #f8f9fa / 4.52:1 #f1f3f5.
+
+   WHY #6f6f6f AND NOT SOMETHING DARKER: it is the LIGHTEST grey that clears
+   4.5:1 on all three surfaces at once, so the muted tier stays as visually
+   recessed as the floor permits. #767676 is the familiar "AA grey" but it only
+   clears on pure white (4.54:1) and fails on #f8f9fa (4.31:1) and #f1f3f5
+   (4.08:1), both of which are common secondary surfaces here - so it is NOT
+   safe on this site and must not be used as the muted value.
+
+   --color-text-disabled (#cccccc, 1.61:1) is deliberately UNCHANGED. WCAG 1.4.3
+   exempts inactive user-interface components, and darkening it would make
+   disabled controls read as enabled.
+
+   --color-text-link (#6366f1) is ALSO below the floor at 4.47:1 on white and
+   3.94:1 on the #eff0fe pills, but it is the brand colour and is used as a fill
+   as well as text, so changing it is a design decision and is NOT bundled here.
+   It is filed to design with the measured numbers. Note for whoever picks it up:
+   #6366f1 on white is 4.47:1, NOT the 4.87:1 quoted in the 2026-08-23
+   cross-dept item - that figure is wrong and it is why the white case was
+   previously judged safe.
+
+   This replaced a pattern of correcting one class at a time (.cmp-metric-note
+   08-22, .deal-card__code-label + .offer-verif-note 08-23), which could never
+   converge: the tokens kept re-seeding the failure into every new component.
+   ============================================================ */
+
+
+/* ── Nav Icon Colors ── */
+.nav-icon-gold   { color: #f59e0b; }
+.nav-icon-brand  { color: #7A95F8; }
+.nav-icon-trophy { color: #FFD700; }
+.nav-icon-green  { color: #41b618; }
+.nav-icon-purple { color: #a78bfa; }
+.nav-icon-user   { font-size: 20px; margin-right: 4px; }
+
+/* Nav search bar compact style */
+.search--nav {
+    padding: 1px 15px !important;
+    width: 90%;
+}
+
+/* Text helper: white at 85% opacity */
+.text-white-85 {
+    color: rgba(255, 255, 255, 0.85);
+}
+
+/* ════════════════════════════════════════════════════════════════
+   LAYOUT (from layout.css)
+   ════════════════════════════════════════════════════════════════ */
+
+/* Global link styling: white on gradient background, never default blue */
+a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Dark link color for light/white-background containers */
+.tab-content a,
+.firm-card a,
+.review-card a,
+.payout-card a,
+.profile-card a,
+.blog-card__body a,
+.blog-card a,
+.blog-featured a,
+.blog-newsletter a,
+.blog-tool-link,
+.quick-link-card,
+.hot-deal-card,
+.top-rated-card a,
+.trending-card,
+.blog-card-home,
+.finder-cta-inner a,
+.firm-hero a,
+.firm-challenges-table a,
+.firm-reviews-header a,
+.firm-review-card a,
+.firm-about-card a,
+.firm-about-card-full a,
+.firm-bd-card a,
+.firm-stat-card a,
+.firm-bottom-cta a,
+.firm-no-reviews a,
+.firm-table-scroll a,
+.suggestions a,
+.search-results a,
+.search-results .result a,
+.pulse-sidebar-card a,
+.pulse-alert-card a,
+.pulse-event__card a,
+.pulse-firm-filter-active a,
+.pulse-empty a,
+.pulse-filters a,
+.pulse-pagination a,
+.alt-firm-grid a,
+.alt-cta a,
+.altshow-source a,
+.altshow-card a,
+.altshow-vs a,
+.altshow-related a,
+.altshow-table a {
+    color: #6366f1;
+}
+
+.tab-content a:hover,
+.firm-card a:hover,
+.review-card a:hover,
+.payout-card a:hover,
+.profile-card a:hover,
+.blog-card__body a:hover,
+.blog-card a:hover,
+.blog-featured a:hover,
+.blog-newsletter a:hover,
+.firm-hero a:hover,
+.firm-challenges-table a:hover,
+.firm-reviews-header a:hover,
+.firm-review-card a:hover,
+.firm-about-card a:hover,
+.firm-about-card-full a:hover,
+.firm-bd-card a:hover,
+.firm-stat-card a:hover,
+.firm-bottom-cta a:hover,
+.firm-no-reviews a:hover,
+.firm-table-scroll a:hover,
+.pulse-sidebar-card a:hover,
+.pulse-alert-card a:hover,
+.pulse-event__card a:hover,
+.pulse-firm-filter-active a:hover,
+.pulse-empty a:hover,
+.pulse-filters a:hover,
+.pulse-pagination a:hover,
+.alt-firm-grid a:hover,
+.alt-cta a:hover,
+.altshow-source a:hover,
+.altshow-card a:hover,
+.altshow-vs a:hover,
+.altshow-related a:hover,
+.altshow-table a:hover {
+    color: var(--color-primary-dark);
+}
+
+.btn-block,
+.frmbtn {
+    color: white !important;
+}
+
+/* Ensure gradient buttons keep white text in light containers */
+.firm-hero .firm-visit-btn,
+.firm-hero .firm-promo-code,
+.firm-hero .firm-promo-use-btn,
+.firm-bottom-cta .firm-visit-btn,
+.firm-table-scroll .firm-table__get-started-btn,
+.firm-table-scroll .firm-table__view-btn,
+.firm-table-scroll .firm-table__promo-btn {
+    color: #fff !important;
+}
+
+.img_data {
+    width: 60px !important;
+}
+
+.about_img {
+    width: 32px !important;
+}
+
+.search-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+#searchInput {
+    width: 100%;
+    border-radius: 50px;
+    padding: 10px 20px;
+    border: 2px solid white;
+    background-color: white;
+    font-size: 16px;
+    color: #333;
+    z-index: 2;
+}
+
+.suggestions {
+    position: absolute;
+    width: 92%;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    top: 64px;
+    left: 16px;
+    z-index: 10000;
+}
+
+.suggestions li {
+    padding: 10px;
+    cursor: pointer;
+    color: #333;
+}
+
+.suggestions li:hover {
+    background-color: #f1f1f1;
+    color: #1a1a2e;
+}
+
+.suggestions a {
+    color: #333;
+}
+
+.suggestions a:hover {
+    color: #1a1a2e;
+}
+
+.footer-version {
+    text-align: center;
+    margin-top: 8px;
+    font-size: 11px;
+}
+
+.footer-version a {
+    color: rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+    border-bottom: none;
+}
+
+.footer-version a:hover {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   BREADCRUMBS (from breadcrumbs.css)
+   ════════════════════════════════════════════════════════════════ */
+
+.pfm-breadcrumbs {
+    margin-bottom: 8px;
+}
+
+.pfm-breadcrumbs__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0;
+}
+
+.pfm-breadcrumbs__item {
+    display: flex;
+    align-items: center;
+    font-size: 0.82rem;
+    line-height: 1;
+}
+
+.pfm-breadcrumbs__separator {
+    color: rgba(255, 255, 255, 0.3);
+    margin: 0 8px;
+    font-size: 0.75rem;
+}
+
+.pfm-breadcrumbs__link {
+    color: rgba(255, 255, 255, 0.55);
+    text-decoration: none;
+    transition: color 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.pfm-breadcrumbs__link:hover {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+}
+
+.pfm-breadcrumbs__link i {
+    font-size: 0.9rem;
+}
+
+.pfm-breadcrumbs__current {
+    color: rgba(255, 255, 255, 0.85);
+    font-weight: 500;
+    max-width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+@media (max-width: 576px) {
+    .pfm-breadcrumbs {
+        margin-bottom: 6px;
+    }
+
+    .pfm-breadcrumbs__item {
+        font-size: 0.75rem;
+    }
+
+    .pfm-breadcrumbs__current {
+        max-width: 160px;
+    }
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   PFM SCORE BADGES (from pfm-score.css)
+   ════════════════════════════════════════════════════════════════ */
+
+.pfm-score-badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6px 10px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #6453CA 0%, #7A95F8 100%);
+    box-shadow: 0 2px 8px rgba(100, 83, 202, 0.35);
+    z-index: 2;
+}
+
+.pfm-score-value {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.1;
+}
+
+.pfm-score-label {
+    font-size: 9px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.75);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    margin-top: 2px;
+}
+
+.pfm-score-badge-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 12px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #6453CA 0%, #7A95F8 100%);
+    box-shadow: 0 2px 10px rgba(100, 83, 202, 0.3);
+    min-width: 56px;
+}
+
+.pfm-score-value-lg {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.1;
+}
+
+.pfm-score-label-sm {
+    font-size: 8px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    line-height: 1;
+    margin-top: 3px;
+}
+
+.pfm-score-bar-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.pfm-score-bar {
+    flex-grow: 1;
+    height: 6px;
+    background: #e5e7eb;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.pfm-score-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    background: linear-gradient(90deg, #6453CA 0%, #7A95F8 100%);
+    transition: width 0.6s ease;
+}
+
+.pfm-score-inline {
+    font-size: 14px;
+    font-weight: 700;
+    color: #6453CA;
+    min-width: 32px;
+    text-align: right;
+}
+
+.top-rated-card {
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    padding: 16px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.top-rated-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.top-rated-card .firm-logo-sm {
+    width: 44px;
+    height: 44px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.top-rated-card .firm-name {
+    color: #1a1a2e;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.top-rated-card .firm-name:hover {
+    color: #6366f1;
+    text-decoration: none;
+}
+
+.top-rated-rank {
+    font-size: 12px;
+    font-weight: 700;
+    color: #666;
+    min-width: 20px;
+}
+
+@media (max-width: 576px) {
+    .pfm-score-badge {
+        padding: 4px 8px;
+    }
+
+    .pfm-score-value {
+        font-size: 15px;
+    }
+
+    .pfm-score-label {
+        font-size: 8px;
+    }
+
+    .pfm-score-badge-detail {
+        padding: 6px 8px;
+    }
+
+    .pfm-score-value-lg {
+        font-size: 18px;
+    }
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   ACCESSIBILITY (from accessibility.css)
+   ════════════════════════════════════════════════════════════════ */
+
+.skip-to-content {
+    position: absolute;
+    top: -100%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10000;
+    padding: 12px 24px;
+    background: #fff;
+    color: #1f2937;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    text-decoration: none;
+    transition: top 0.2s ease;
+}
+
+.skip-to-content:focus {
+    top: 0;
+    outline: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+*:focus-visible {
+    outline: 2px solid rgba(122, 149, 248, 0.8);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+*:focus:not(:focus-visible) {
+    outline: none;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+    outline: 2px solid rgba(122, 149, 248, 0.8);
+    outline-offset: 2px;
+}
+
+.menu a:focus-visible,
+.menu button:focus-visible,
+.quick-link-card:focus-visible,
+.popular-firm-chip:focus-visible,
+.top-rated-card a:focus-visible,
+.finder-cta-btn:focus-visible,
+footer a:focus-visible {
+    outline-color: rgba(255, 255, 255, 0.9);
+}
+
+.firm-card__cta:focus-visible {
+    outline-color: #fff;
+    outline-offset: -2px;
+}
+
+.search-box input:focus-visible,
+#searchInput:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(122, 149, 248, 0.5);
+}
+
+.footer-copyright {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: inherit;
+}
+
+.suggestion-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    text-decoration: none;
+    color: #333;
+    transition: background 0.15s ease;
+}
+
+.suggestion-item:hover {
+    background: #f1f1f1;
+    text-decoration: none;
+    color: #333;
+}
+
+.suggestion-item__logo {
+    width: 36px;
+    height: 36px;
+    border-radius: 6px;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+/* ════════════════════════════════════════════════════════════════
+   LINK SECTION BACKGROUNDS
+   Ensures containers with navigation links have non-transparent
+   backgrounds for visual consistency and test compliance.
+   ════════════════════════════════════════════════════════════════ */
+
+/* Footer columns */
+.footer-col {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 12px 14px;
+    border-radius: 10px;
+}
+
+/* Homepage containers - subtle background for link section styling */
+.quick-links,
+.popular-firms-grid,
+.trending-grid,
+.hot-deals-grid,
+.blog-cards-grid,
+.pulse-cards {
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 12px;
+}
+
+/* Firm filters and sorting */
+.firm-filter-group__pills,
+.firm-sort-pills,
+.account-size-filter__pills {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 4px;
+}
+
+/* Blog containers - subtle background for link section styling */
+.blog-tools,
+.blog-grid {
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 10px;
+    padding: 12px;
+}
+
+/* Map country firms */
+.country-card-firms,
+.country-firms {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 4px;
+}
+
+/* Calendar filters */
+.cal-filter-group {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    padding: 4px;
+}
+
+/* VS comparison grids */
+.vs-popular-grid,
+.vs-type-chips,
+.vs-more-chips,
+.vs-all-firms {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Compare page link grids */
+.cmp-suggestion-grid,
+.cmp-crosslinks-grid {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Category grid (best page) */
+.cat-grid {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Awards & Funded Calculator CTA buttons */
+.awards-cta__buttons,
+.fc-cta-buttons {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Deal category page containers */
+.deal-cat-grid,
+.deal-top-firms,
+.deals-grid {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Deals page link sections */
+.deals-browse-grid,
+.dcat-nav,
+.dcat-categories-grid,
+.dcat-cta__links,
+.nav-tabs,
+.dfp-faq {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Awards page link sections */
+.awards-nav,
+.awards-category__more {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Firm view containers */
+.firm-table-container,
+.firm-cards-container {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Challenge compare, search, and other dynamic result containers */
+.cc-results,
+.search-results-grid,
+.account-sizes-grid {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Pulse page link sections */
+.pulse-filters,
+.pulse-sidebar-cta__links,
+.pulse-sidebar-card__list {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Reports page link sections */
+.reports-grid,
+.reports-cta__links {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+/* Glossary page link sections */
+.glossary-letters,
+.glossary-categories,
+.glossary-letter-group,
+.glossary-cta__buttons,
+.glossary-related-grid,
+.glossary-category-list,
+.glossary-firm-list,
+.glossary-sidebar__card {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 10px;
+    padding: 4px;
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   DARK BACKGROUND LINK SAFETY
+   Ensures all links on dark/gradient backgrounds are visible.
+   ════════════════════════════════════════════════════════════════ */
+.dfp-faq__a a,
+.deals-empty a,
+.awards-empty a {
+    color: #fff;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.dfp-faq__a a:hover,
+.deals-empty a:hover,
+.awards-empty a:hover {
+    color: rgba(255,255,255,0.8);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+    }
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   COOKIE CONSENT (from cookie-consent.css)
+   ════════════════════════════════════════════════════════════════ */
+
+.cookie-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;
+    padding: 0;
+    transform: translateY(100%);
+    transition: transform 0.4s ease;
+}
+
+.cookie-consent.visible {
+    transform: translateY(0);
+}
+
+.cookie-consent__inner {
+    max-width: 900px;
+    margin: 0 auto 20px;
+    background: rgba(30, 20, 60, 0.92);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: var(--radius-lg);
+    padding: 20px 28px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.25);
+}
+
+.cookie-consent__text {
+    flex: 1;
+    color: rgba(255, 255, 255, 0.85);
+    font-family: var(--font-family-base);
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.cookie-consent__text a {
+    color: var(--color-primary);
+    text-decoration: underline;
+}
+
+.cookie-consent__text a:hover {
+    color: #fff;
+}
+
+.cookie-consent__actions {
+    display: flex;
+    gap: 10px;
+    flex-shrink: 0;
+}
+
+.cookie-consent__btn {
+    font-family: var(--font-family-base);
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px 22px;
+    border-radius: var(--radius-md);
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.15s;
+    white-space: nowrap;
+}
+
+.cookie-consent__btn:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+.cookie-consent__btn--accept {
+    background: var(--color-primary);
+    color: #fff;
+}
+
+.cookie-consent__btn--decline {
+    background: transparent;
+    color: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.cookie-consent__btn--decline:hover {
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 576px) {
+    .cookie-consent__inner {
+        flex-direction: column;
+        margin: 0 10px 10px;
+        padding: 16px 20px;
+        gap: 14px;
+    }
+
+    .cookie-consent__text {
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .cookie-consent__actions {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   FEEDBACK WIDGET (from feedback-widget.css)
+   ════════════════════════════════════════════════════════════════ */
+
+.feedback-fab {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #7c3aed, #a855f7);
+    border: none;
+    color: #fff;
+    font-size: 22px;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(124, 58, 237, 0.4);
+    z-index: 9990;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* `bottom` is animated because the floating-stack lifts below move this
+       button whenever a bottom bar opens. .scroll-top-btn already transitions
+       it; without the match the FAB jumped while its neighbour slid. */
+    transition: transform 0.2s ease,
+                box-shadow 0.2s ease,
+                bottom 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.feedback-fab:hover {
+    transform: scale(1.08);
+    box-shadow: 0 6px 24px rgba(124, 58, 237, 0.55);
+}
+
+.feedback-fab svg {
+    width: 22px;
+    height: 22px;
+    fill: #fff;
+}
+
+.feedback-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9998;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease, visibility 0.25s ease;
+}
+
+.feedback-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.feedback-modal {
+    position: fixed;
+    bottom: 90px;
+    right: 24px;
+    width: 360px;
+    max-width: calc(100vw - 32px);
+    max-height: calc(100vh - 120px);
+    background: rgba(30, 15, 60, 0.95);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 16px;
+    z-index: 9999;
+    overflow: hidden;
+    transform: translateY(20px) scale(0.95);
+    opacity: 0;
+    visibility: hidden;
+    transition: transform 0.25s ease, opacity 0.25s ease, visibility 0.25s ease;
+}
+
+.feedback-modal.active {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+    visibility: visible;
+}
+
+.feedback-modal__header {
+    padding: 16px 20px 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.feedback-modal__title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.feedback-modal__close {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    transition: color 0.15s;
+}
+
+.feedback-modal__close:hover {
+    color: #fff;
+}
+
+.feedback-modal__body {
+    padding: 16px 20px 20px;
+}
+
+.feedback-types {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+}
+
+.feedback-type-btn {
+    padding: 6px 14px;
+    border-radius: 20px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.05);
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.feedback-type-btn:hover {
+    border-color: rgba(168, 85, 247, 0.5);
+    color: #fff;
+}
+
+.feedback-type-btn.selected {
+    background: rgba(168, 85, 247, 0.25);
+    border-color: #a855f7;
+    color: #fff;
+}
+
+.feedback-textarea {
+    width: 100%;
+    min-height: 100px;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: rgba(255, 255, 255, 0.06);
+    color: #fff;
+    font-size: 14px;
+    resize: vertical;
+    font-family: inherit;
+    transition: border-color 0.15s;
+}
+
+.feedback-textarea::placeholder {
+    color: rgba(255, 255, 255, 0.35);
+}
+
+.feedback-textarea:focus {
+    outline: none;
+    border-color: #a855f7;
+}
+
+.feedback-email {
+    width: 100%;
+    padding: 10px 12px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: rgba(255, 255, 255, 0.06);
+    color: #fff;
+    font-size: 13px;
+    margin-top: 10px;
+    font-family: inherit;
+    transition: border-color 0.15s;
+}
+
+.feedback-email::placeholder {
+    color: rgba(255, 255, 255, 0.35);
+}
+
+.feedback-email:focus {
+    outline: none;
+    border-color: #a855f7;
+}
+
+.feedback-submit {
+    width: 100%;
+    padding: 10px;
+    margin-top: 14px;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(135deg, #7c3aed, #a855f7);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.feedback-submit:hover {
+    opacity: 0.9;
+}
+
+.feedback-submit:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.feedback-error {
+    color: #f87171;
+    font-size: 12px;
+    margin-top: 6px;
+    display: none;
+}
+
+.feedback-error.visible {
+    display: block;
+}
+
+.feedback-success {
+    text-align: center;
+    padding: 32px 20px;
+}
+
+.feedback-success__icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: rgba(34, 197, 94, 0.15);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 16px;
+}
+
+.feedback-success__icon svg {
+    width: 28px;
+    height: 28px;
+    fill: #22c55e;
+}
+
+.feedback-success__title {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 6px;
+}
+
+.feedback-success__text {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 13px;
+}
+
+.feedback-charcount {
+    text-align: right;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.3);
+    margin-top: 4px;
+}
+
+@media (max-width: 576px) {
+    .feedback-modal {
+        right: 8px;
+        bottom: 80px;
+        width: calc(100vw - 16px);
+    }
+
+    .feedback-fab {
+        bottom: 16px;
+        right: 16px;
+        width: 46px;
+        height: 46px;
+        font-size: 18px;
+    }
+
+    .feedback-fab svg {
+        width: 18px;
+        height: 18px;
+    }
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   NEWSLETTER (from newsletter.css)
+   ════════════════════════════════════════════════════════════════ */
+
+.newsletter-form {
+    display: flex;
+    gap: 8px;
+    max-width: 480px;
+    width: 100%;
+}
+
+.newsletter-form__input {
+    flex: 1;
+    padding: 12px 20px;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.08);
+    color: #fff;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.newsletter-form__input::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.newsletter-form__input:focus {
+    border-color: rgba(122, 149, 248, 0.6);
+    background: rgba(255, 255, 255, 0.12);
+}
+
+.newsletter-form__btn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #7A95F8, #6366f1);
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    white-space: nowrap;
+}
+
+.newsletter-form__btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(122, 149, 248, 0.4);
+}
+
+.newsletter-form__btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.newsletter-form__btn i {
+    margin-right: 6px;
+}
+
+.newsletter-alert {
+    padding: 10px 16px;
+    border-radius: 10px;
+    font-size: 13px;
+    margin-top: 8px;
+    max-width: 480px;
+}
+
+.newsletter-alert--success {
+    background: rgba(34, 197, 94, 0.15);
+    color: #22c55e;
+    border: 1px solid rgba(34, 197, 94, 0.3);
+}
+
+.newsletter-alert--error {
+    background: rgba(239, 68, 68, 0.15);
+    color: #ef4444;
+    border: 1px solid rgba(239, 68, 68, 0.3);
+}
+
+.newsletter-cta {
+    text-align: center;
+    padding: 48px 24px;
+    margin-top: 40px;
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.newsletter-cta__icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, rgba(122, 149, 248, 0.2), rgba(99, 102, 241, 0.2));
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.newsletter-cta__icon i {
+    font-size: 24px;
+    color: #7A95F8;
+}
+
+.newsletter-cta__title {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 8px;
+}
+
+.newsletter-cta__subtitle {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 0 24px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newsletter-cta .newsletter-form {
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.newsletter-cta .newsletter-alert {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newsletter-cta__privacy {
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 12px;
+}
+
+.newsletter-cta__privacy a {
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline;
+}
+
+.footer-newsletter {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-newsletter__title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 4px;
+    letter-spacing: -0.01em;
+}
+
+.footer-newsletter__sub {
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 0 12px;
+    line-height: 1.5;
+    max-width: 520px;
+}
+
+.footer-newsletter .newsletter-form__input {
+    padding: 10px 16px;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.footer-newsletter .newsletter-form__btn {
+    padding: 10px 18px;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+.newsletter-sidebar {
+    padding: 24px;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 32px;
+}
+
+.newsletter-sidebar__title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 6px;
+}
+
+.newsletter-sidebar__desc {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0 0 16px;
+}
+
+.newsletter-sidebar .newsletter-form {
+    flex-direction: column;
+}
+
+.newsletter-sidebar .newsletter-form__input {
+    width: 100%;
+}
+
+.newsletter-sidebar .newsletter-form__btn {
+    width: 100%;
+}
+
+.newsletter-unsub-card {
+    text-align: center;
+    padding: 60px 32px;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 40px;
+}
+
+.newsletter-unsub-icon {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+.newsletter-unsub-icon--success {
+    background: rgba(34, 197, 94, 0.15);
+    color: #22c55e;
+}
+
+.newsletter-unsub-icon--error {
+    background: rgba(239, 68, 68, 0.15);
+    color: #ef4444;
+}
+
+.newsletter-unsub-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+}
+
+.newsletter-unsub-message {
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.75);
+    margin: 0 0 8px;
+}
+
+.newsletter-unsub-note {
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.45);
+    margin: 0 0 28px;
+}
+
+.newsletter-unsub-btn {
+    display: inline-block;
+    padding: 12px 28px;
+    background: linear-gradient(135deg, #7A95F8, #6366f1);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 14px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.newsletter-unsub-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(122, 149, 248, 0.4);
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Deals Alert Banner (top of /deals) */
+.deals-alert-banner {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 22px;
+    background: #fff;
+    border: 1px solid rgba(99, 102, 241, 0.15);
+    border-radius: 14px;
+    box-shadow: 0 4px 18px rgba(99, 102, 241, 0.08);
+    margin-bottom: 4px;
+    position: relative;
+    overflow: hidden;
+}
+
+.deals-alert-banner::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(122, 149, 248, 0.04), rgba(99, 102, 241, 0.04));
+    pointer-events: none;
+}
+
+.deals-alert-banner > * {
+    position: relative;
+    z-index: 1;
+}
+
+.deals-alert-banner__icon {
+    flex: 0 0 auto;
+    width: 46px;
+    height: 46px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #7A95F8, #6366f1);
+    color: #fff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.deals-alert-banner__body {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+.deals-alert-banner__title {
+    font-size: 15px;
+    font-weight: 700;
+    color: #1a1a2e;
+    line-height: 1.3;
+}
+
+.deals-alert-banner__desc {
+    font-size: 13px;
+    color: #666;
+    margin-top: 2px;
+    line-height: 1.4;
+}
+
+.deals-alert-banner__form {
+    flex: 0 1 420px;
+    max-width: 420px;
+    margin: 0;
+}
+
+/* Newsletter CTA Deals Variant */
+.newsletter-cta--deals {
+    background: linear-gradient(135deg, #fff 0%, #faf9ff 100%);
+    border: 1px solid rgba(99, 102, 241, 0.12);
+    box-shadow: 0 6px 28px rgba(99, 102, 241, 0.1);
+}
+
+.newsletter-cta--deals .newsletter-cta__icon {
+    background: linear-gradient(135deg, #7A95F8, #6366f1);
+}
+
+.newsletter-cta--deals .newsletter-cta__icon i {
+    color: #fff;
+}
+
+/* --deals renders on a WHITE card; the base .newsletter-cta text is white
+   (built for the dark gradient pages), so override back to dark text or it is
+   invisible white-on-white. Incident 2026-06-04 (/deals signup). */
+.newsletter-cta--deals .newsletter-cta__title {
+    color: var(--color-text-primary, #1a1a2e);
+}
+
+.newsletter-cta--deals .newsletter-cta__subtitle {
+    color: var(--color-text-mid, #555);
+}
+
+.newsletter-cta__benefits {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px 20px;
+    margin-top: 18px;
+}
+
+.newsletter-cta__benefit {
+    font-size: 12px;
+    font-weight: 500;
+    color: #6366f1;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.newsletter-cta__benefit i {
+    color: #10b981;
+    font-size: 16px;
+}
+
+@media (max-width: 860px) {
+    .deals-alert-banner {
+        flex-wrap: wrap;
+    }
+
+    .deals-alert-banner__form {
+        flex: 1 1 100%;
+        max-width: 100%;
+        margin-top: 6px;
+    }
+}
+
+@media (max-width: 520px) {
+    .newsletter-form {
+        flex-direction: column;
+    }
+
+    .newsletter-form__btn {
+        width: 100%;
+    }
+
+    .newsletter-cta {
+        padding: 32px 16px;
+    }
+
+    .newsletter-cta__title {
+        font-size: 18px;
+    }
+
+    .newsletter-unsub-card {
+        padding: 40px 20px;
+    }
+
+    .deals-alert-banner {
+        padding: 16px;
+        gap: 12px;
+    }
+
+    .deals-alert-banner__icon {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+
+    .deals-alert-banner__title {
+        font-size: 14px;
+    }
+}
+
+/* ════════════════════════════════════════════════════════════════
+   UTILITY CLASSES (extracted from inline styles)
+   ════════════════════════════════════════════════════════════════ */
+.pt-section { padding-top: 2.5rem; }
+.text-muted-gradient { opacity: 0.75; }
+.gap-md { gap: 12px; }
+.country-flag-sm { width: 20px; height: 14px; border-radius: 2px; vertical-align: middle; }
+.icon-sm { font-size: 13px; }
+.firms-hero-link { color: #fff; text-decoration: underline; }
+.firms-hero-link:hover { color: rgba(255, 255, 255, 0.8); }
+
+/* ════════════════════════════════════════════════════════════════
+   SOCIAL SHARE BUTTONS (reusable component)
+   ════════════════════════════════════════════════════════════════ */
+.social-share--inline {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.social-share__label {
+    color: var(--color-text-light, #6f6f6f);
+    font-size: 13px;
+    font-weight: 500;
+    margin-right: 4px;
+}
+
+.social-share__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border-radius: 10px;
+    border: 1px solid var(--color-border-light, #e5e7eb);
+    background: var(--color-surface-warm, #f8f9fa);
+    color: #666;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    text-decoration: none;
+}
+
+.social-share__btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.social-share__btn--facebook:hover {
+    background: #1877f2;
+    color: #fff;
+    border-color: #1877f2;
+}
+
+.social-share__btn--twitter:hover {
+    background: #000;
+    color: #fff;
+    border-color: #000;
+}
+
+.social-share__btn--linkedin:hover {
+    background: #0a66c2;
+    color: #fff;
+    border-color: #0a66c2;
+}
+
+.social-share__btn--copy:hover {
+    background: var(--color-primary);
+    color: #fff;
+    border-color: var(--color-primary);
+}
+
+.social-share__btn--copy.copied {
+    background: var(--color-success, #10b981);
+    color: #fff;
+    border-color: var(--color-success, #10b981);
+}
+
+.social-share__x-icon {
+    width: 16px;
+    height: 16px;
+}
+
+/* ════════════════════════════════════════════════════════════════
+   PUSH NOTIFICATION PROMPT
+   ════════════════════════════════════════════════════════════════ */
+
+.push-prompt {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9998;
+    padding: 0;
+    transform: translateY(100%);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    pointer-events: none;
+}
+
+.push-prompt--visible {
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.push-prompt__inner {
+    max-width: 560px;
+    margin: 0 auto 20px;
+    background: rgba(30, 20, 60, 0.94);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: var(--radius-lg, 16px);
+    padding: 18px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.25);
+}
+
+.push-prompt__icon {
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #f59e0b, #f97316);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    font-size: 22px;
+    color: #fff;
+    animation: pushBell 2s ease-in-out infinite;
+}
+
+@keyframes pushBell {
+    0%, 80%, 100% { transform: rotate(0deg); }
+    85% { transform: rotate(8deg); }
+    90% { transform: rotate(-8deg); }
+    95% { transform: rotate(4deg); }
+}
+
+.push-prompt__text {
+    flex: 1;
+    min-width: 0;
+}
+
+.push-prompt__text strong {
+    display: block;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+
+.push-prompt__text span {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.push-prompt__actions {
+    display: flex;
+    gap: 8px;
+    flex-shrink: 0;
+}
+
+.push-prompt__btn {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 8px 18px;
+    border-radius: var(--radius-md, 8px);
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.15s;
+    white-space: nowrap;
+}
+
+.push-prompt__btn:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+.push-prompt__btn--yes {
+    background: linear-gradient(135deg, #f59e0b, #f97316);
+    color: #fff;
+}
+
+.push-prompt__btn--no {
+    background: transparent;
+    color: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.push-prompt__btn--no:hover {
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+@media (max-width: 576px) {
+    .push-prompt__inner {
+        flex-wrap: wrap;
+        margin: 0 10px 10px;
+        padding: 16px;
+        gap: 12px;
+    }
+    .push-prompt__text { flex-basis: calc(100% - 60px); }
+    .push-prompt__actions { width: 100%; justify-content: center; }
+}
+
+
+/* ════════════════════════════════════════════════════════════════
+   SCROLL TO TOP BUTTON
+   ════════════════════════════════════════════════════════════════ */
+
+/* Sits directly ABOVE .feedback-fab in the bottom-right floating stack. Both are
+   position:fixed in the same corner, so a shared corner offset makes the 44px
+   button land wholly inside the 52px FAB and the higher-z FAB swallows every
+   click. right:28px keeps it horizontally centred on the FAB (24 + 52/2 - 44/2). */
+.scroll-top-btn {
+    position: fixed;
+    bottom: 88px;
+    right: 28px;
+    width: 44px;
+    height: 44px;
+    border-radius: 12px;
+    background: var(--color-surface-card, #fff);
+    border: 1px solid var(--color-border-light, #e5e7eb);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    color: var(--color-text-secondary, #555);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(12px);
+    transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                visibility 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                transform 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                bottom 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+                background 0.2s ease,
+                box-shadow 0.2s ease;
+    /* Same floating layer as .feedback-fab (9990), one step below it. At the old
+       z-index:999 any page-level fixed bar (.firm-sticky-cta is 1040) buried it. */
+    z-index: 9989;
+    font-size: 20px;
+    line-height: 1;
+}
+
+.scroll-top-btn.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.scroll-top-btn:hover {
+    background: var(--color-primary, #6366f1);
+    color: #fff;
+    border-color: var(--color-primary, #6366f1);
+    box-shadow: 0 6px 20px rgba(99, 102, 241, 0.3);
+    transform: translateY(-2px);
+}
+
+.scroll-top-btn:active {
+    transform: translateY(0);
+}
+
+@media (max-width: 576px) {
+    /* Mirrors the desktop stack against the 46px mobile FAB at bottom/right 16px:
+       bottom 16 + 46 + 12 gap, right 16 + 46/2 - 40/2 to stay centred on it. */
+    .scroll-top-btn {
+        bottom: 74px;
+        right: 19px;
+        width: 40px;
+        height: 40px;
+        border-radius: 10px;
+        font-size: 18px;
+    }
+}
+
+/* ---- FLOATING STACK vs COOKIE BANNER ----
+   The consent banner is a full-width fixed slab at z-index 10000, so while it is
+   open it covers the whole bottom strip and every floating control in it reads as
+   a dead click. cookie-consent.js publishes the measured banner height so the
+   stack can clear it, then removes the class when the banner is dismissed. */
+body.pfm-cookie-banner-open .feedback-fab {
+    bottom: calc(24px + var(--pfm-cookie-banner-h, 0px) + 12px);
+}
+
+body.pfm-cookie-banner-open .scroll-top-btn {
+    bottom: calc(88px + var(--pfm-cookie-banner-h, 0px) + 12px);
+}
+
+@media (max-width: 576px) {
+    body.pfm-cookie-banner-open .feedback-fab {
+        bottom: calc(16px + var(--pfm-cookie-banner-h, 0px) + 12px);
+    }
+
+    body.pfm-cookie-banner-open .scroll-top-btn {
+        bottom: calc(74px + var(--pfm-cookie-banner-h, 0px) + 12px);
+    }
+}
+
+/* ---- FLOATING STACK vs FIRM STICKY CTA ----
+   Same failure as the cookie banner above, with the roles reversed: the sticky
+   bar is only z-index 1040, so it loses to the 9990 FAB and the 9989 back-to-top
+   and the OVERLAP EATS THE BAR instead of the stack. Measured on live prod
+   2026-08-19 with elementFromPoint sampling on /firms/apextraderfunding: at
+   375x667 the bar's close button is 2% hittable and at 390x844 it is 10%, both
+   blocked by .feedback-fab, so a phone user cannot dismiss a bar covering 11% of
+   their viewport and the tap opens the feedback modal instead. Desktop is 100%
+   because the FAB sits right of the bar's controls there, which is why an
+   earlier desktop-weighted measurement recorded this as merely cosmetic.
+
+   firms/show.blade.php toggles the class and publishes the MEASURED bar height
+   on the same IntersectionObserver that reveals the bar, so the stack rides up
+   with it and drops back when the bar hides or is dismissed. Measured rather
+   than hard-coded for the same reason as the banner: the bar is 77px at 1440px
+   and grows when the deal line wraps on a narrow screen. */
+body.pfm-sticky-cta-open .feedback-fab {
+    bottom: calc(24px + var(--pfm-sticky-cta-h, 0px) + 12px);
+}
+
+body.pfm-sticky-cta-open .scroll-top-btn {
+    bottom: calc(88px + var(--pfm-sticky-cta-h, 0px) + 12px);
+}
+
+/* Both open at once. The bar is ITSELF lifted by the banner height (see the
+   .firm-sticky-cta rule in firm-show.css), so the stack has to clear the sum,
+   not whichever obstruction happens to win the cascade. These score (0,3,1) and
+   so beat the single-class rules above on specificity, not source order. */
+body.pfm-cookie-banner-open.pfm-sticky-cta-open .feedback-fab {
+    bottom: calc(24px + var(--pfm-cookie-banner-h, 0px) + var(--pfm-sticky-cta-h, 0px) + 12px);
+}
+
+body.pfm-cookie-banner-open.pfm-sticky-cta-open .scroll-top-btn {
+    bottom: calc(88px + var(--pfm-cookie-banner-h, 0px) + var(--pfm-sticky-cta-h, 0px) + 12px);
+}
+
+@media (max-width: 576px) {
+    body.pfm-sticky-cta-open .feedback-fab {
+        bottom: calc(16px + var(--pfm-sticky-cta-h, 0px) + 12px);
+    }
+
+    body.pfm-sticky-cta-open .scroll-top-btn {
+        bottom: calc(74px + var(--pfm-sticky-cta-h, 0px) + 12px);
+    }
+
+    body.pfm-cookie-banner-open.pfm-sticky-cta-open .feedback-fab {
+        bottom: calc(16px + var(--pfm-cookie-banner-h, 0px) + var(--pfm-sticky-cta-h, 0px) + 12px);
+    }
+
+    body.pfm-cookie-banner-open.pfm-sticky-cta-open .scroll-top-btn {
+        bottom: calc(74px + var(--pfm-cookie-banner-h, 0px) + var(--pfm-sticky-cta-h, 0px) + 12px);
+    }
+}
+
+/* ---- OFFER URGENCY PILL ----
+   Rendered by resources/views/partials/offer-urgency-pill.blade.php whenever
+   an offer's expires_at is within the next 14 days. Used on firm show page,
+   /deals index, /deals/{slug}, and homepage hot-deals. Shared here so every
+   surface gets identical visuals without duplicating CSS. */
+.offer-urgency-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    line-height: 1;
+    white-space: nowrap;
+    vertical-align: middle;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.offer-urgency-pill i {
+    font-size: 14px;
+    line-height: 1;
+}
+
+.offer-urgency-pill--sm {
+    padding: 3px 8px;
+    font-size: 11px;
+    gap: 4px;
+}
+
+.offer-urgency-pill--sm i {
+    font-size: 12px;
+}
+
+.offer-urgency-pill--amber {
+    background: #fef3c7;
+    color: #92400e;
+    border: 1px solid rgba(217, 119, 6, 0.3);
+}
+
+.offer-urgency-pill--red {
+    background: #fee2e2;
+    color: #b91c1c;
+    border: 1px solid rgba(239, 68, 68, 0.35);
+    animation: offer-urgency-pulse 1.8s ease-in-out infinite;
+}
+
+@keyframes offer-urgency-pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.35); }
+    50%      { box-shadow: 0 0 0 4px rgba(239, 68, 68, 0); }
+}
+
+/* Home hot-deal card hosts the pill below the code line - keep it spaced. */
+.hot-deal-card .offer-urgency-pill {
+    margin-top: 6px;
+    align-self: flex-start;
+}
+
+/*
+ * Keep <picture> out of the box tree so the <img> inside stays the flex/grid
+ * item. 27 logo classes (.firm-card__logo, .cmp-logo, .deal-grid__logo ...) set
+ * flex-shrink:0 or order: on the IMG, and wrapping it would hand those roles to
+ * the wrapper and let logos squash in tight rows.
+ */
+picture {
+    display: contents;
+}
+
+/* ── Coupon-code toast (fires when a deal CTA copies its code on click) ──
+   Dark opaque surface with white text: it renders over arbitrary page content,
+   so it must not depend on whatever sits behind it. */
+.pfm-code-toast {
+    position: fixed;
+    left: 50%;
+    bottom: 24px;
+    transform: translate(-50%, 16px);
+    z-index: 9999;
+    width: min(420px, calc(100vw - 32px));
+    /* Without this the horizontal padding is added ON TOP of the width bound, which
+       is what pushed the toast past a 375px viewport. */
+    box-sizing: border-box;
+    padding: 14px 44px 14px 18px;
+    border-radius: 12px;
+    background: #1a1a2e;
+    color: #ffffff;
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.32);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s;
+}
+
+/* A failed copy leaves this toast holding the user's only copy of the code, so it
+   is marked as something to act on rather than a passing confirmation. */
+.pfm-code-toast--warn {
+    border-left: 3px solid var(--color-warning, #f59e0b);
+}
+
+.pfm-code-toast.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0);
+}
+
+.pfm-code-toast strong {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.pfm-code-toast span {
+    font-size: 0.82rem;
+    line-height: 1.4;
+    color: rgba(255, 255, 255, 0.86);
+}
+
+.pfm-code-toast__row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+/* user-select is the manual escape hatch for a locked-down clipboard: when both
+   copy paths fail, highlighting this by hand is the only route left. */
+.pfm-code-toast__code {
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 8px 12px;
+    border-radius: 8px;
+    /* Lightens the toast's own opaque #1a1a2e surface, never the page. Layering the
+       white card token here would put white text on white. Measured 11.99:1. */
+    background: rgba(255, 255, 255, 0.12); /* bleed-ok */
+    border: 1px dashed rgba(255, 255, 255, 0.34);
+    color: #ffffff;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.95rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-align: center;
+    overflow-wrap: anywhere;
+    -webkit-user-select: all;
+    user-select: all;
+}
+
+.pfm-code-toast__recopy {
+    flex: 0 0 auto;
+    min-height: 44px;
+    padding: 0 16px;
+    border: 0;
+    border-radius: 8px;
+    background: #ffffff;
+    color: #1a1a2e;
+    font-size: 0.82rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1), transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pfm-code-toast__recopy:hover {
+    background: #e9e9f2;
+    transform: translateY(-1px);
+}
+
+.pfm-code-toast__close {
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    border-radius: 8px;
+    background: transparent; /* bleed-ok: sits on the toast's own opaque surface */
+    color: rgba(255, 255, 255, 0.72);
+    font-size: 1.25rem;
+    line-height: 1;
+    cursor: pointer;
+    transition: background 0.2s ease, color 0.2s ease;
+}
+
+.pfm-code-toast__close:hover {
+    background: rgba(255, 255, 255, 0.14);
+    color: #ffffff;
+}
+
+.pfm-code-toast__recopy:focus-visible,
+.pfm-code-toast__close:focus-visible {
+    outline: 2px solid #ffffff;
+    outline-offset: 2px;
+}
+
+/* The sticky firm CTA bar owns the bottom edge on firm pages. */
+.firm-sticky-cta ~ .pfm-code-toast,
+body:has(.firm-sticky-cta) .pfm-code-toast {
+    bottom: 96px;
+}
+
+/* Must stay AFTER the .firm-sticky-cta rule above: both selectors score (0,2,1),
+   so this only wins the tie on source order. The consent banner is z-index 10000
+   and the toast 9999, so an un-lifted toast is invisible behind it. */
+body.pfm-cookie-banner-open .pfm-code-toast {
+    bottom: calc(24px + var(--pfm-cookie-banner-h, 0px) + 12px);
+}
+
+/* On firm pages the sticky CTA is ALSO lifted by the banner height (see
+   firm-show.css), so the toast has to clear the banner AND the bar sitting on
+   top of it, or it lands inside the bar. Same 96px bar clearance as above. */
+body.pfm-cookie-banner-open .firm-sticky-cta ~ .pfm-code-toast,
+body.pfm-cookie-banner-open:has(.firm-sticky-cta) .pfm-code-toast {
+    bottom: calc(96px + var(--pfm-cookie-banner-h, 0px));
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .pfm-code-toast { transition: opacity 0.18s ease, visibility 0.18s; transform: translate(-50%, 0); }
+}
+
+/* ── Chart.js fallback notice ──
+   Rendered by window.pfmChartReady() in main.js when the Chart.js bundle is
+   unusable (Safari < 14.1 cannot parse its static class fields). Replaces what
+   would otherwise be a blank box with an explanation. Opaque background so it
+   never inherits the page gradient; #555 on #f8f9fa is 7.1:1. */
+.pfm-chart-fallback {
+    margin: 0;
+    padding: 24px 16px;
+    background: var(--color-surface-warm, #f8f9fa);
+    border: 1px dashed var(--color-border-light, #e5e7eb);
+    border-radius: var(--radius-lg, 12px);
+    color: var(--color-text-mid, #555555);
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+/* ════════════════════════════════════════════════════════════════
+   FIRM ORIGIN - VERIFIED-ABSENCE CHIP (partials/firm-origin.blade.php)
+   Shown when a firm publishes no jurisdiction anywhere on its own site
+   (firms.country_unknown). A firm we simply have not researched yet renders
+   nothing at all, so the two states never look alike. Muted pill so it reads
+   as "we checked, there is none" rather than as a hole in the data.
+   Opaque background: this sits on white cards AND in table cells, and must
+   never let the page gradient through.
+   #555 on #f1f3f5 is 6.7:1; the #6b7280 used by the sibling "Founded: not
+   disclosed" chip measured 4.39:1, under the site's own 4.5:1 floor.
+   ════════════════════════════════════════════════════════════════ */
+.firm-origin-undisclosed {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 9px;
+    border-radius: var(--radius-round, 999px);
+    background: var(--color-surface-gray, #f1f3f5);
+    color: var(--color-text-mid, #555555);
+    border: 1px solid var(--color-border-light, #e5e7eb);
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.5;
+    white-space: nowrap;
+    cursor: help;
+}
+
+/* ════════════════════════════════════════════════════════════════
+   ACTIVATION FEE - THREE STATES, NEVER TWO (partials/activation-fee.blade.php)
+   "$99" (recorded amount) and "None" (recorded zero) are plain values and
+   inherit the surrounding cell. Only "Unknown" is chipped, because it is the
+   one state that must never be mistaken for "None" - that confusion was the
+   live bug this partial was built to remove (NULL rendered as "None" on
+   /firms/{id}/summary, 2026-08-22).
+   Same muted-chip treatment as .firm-origin-undisclosed above so the site has
+   ONE visual language for "we have not recorded this".
+   #555 on #f1f3f5 is 6.7:1. Opaque background: this lands inside white cards
+   AND in table cells, so the page gradient must never show through.
+   ════════════════════════════════════════════════════════════════ */
+.activation-fee--unknown {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 9px;
+    border-radius: var(--radius-round, 999px);
+    background: var(--color-surface-gray, #f1f3f5);
+    color: var(--color-text-mid, #555555);
+    border: 1px solid var(--color-border-light, #e5e7eb);
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.5;
+    white-space: nowrap;
+    cursor: help;
+}
+
+/* ============================================================
+   OFFER VERIFICATION NOTE  (partials/offer-verification-note.blade.php)
+   ------------------------------------------------------------
+   The dated provenance of one promo code. Lives in global.css because the same
+   partial renders on /deals (deals.css) and /firms/{slug} (firm-show.css); a
+   per-stylesheet copy would be exactly the drift the shared partial exists to
+   prevent.
+
+   CONTRAST: #555 on the white card measures 7.46:1. Deliberately NOT
+   --color-text-subtle (#888), which is 3.54:1 and fails the site's 4.5:1 floor
+   at this size - the same failure corrected on .cmp-metric-note 2026-08-22.
+   ============================================================ */
+.offer-verif-note {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    margin-top: 6px;
+    color: var(--color-text-mid, #555);
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1.35;
+    letter-spacing: 0.1px;
+}
+
+.offer-verif-note i {
+    flex-shrink: 0;
+    font-size: 13px;
+    line-height: 1.25;
+    color: var(--color-text-mid, #555);
+}
+
+/* Checkout-tested is the strongest evidence we can hold, so ONLY that branch
+   earns the green badge. #059669 on white is 3.76:1, above the 3:1 floor for a
+   graphical object. The TEXT stays #555 rather than going green with the icon,
+   which would drop it to a failing ratio at 11px. */
+.offer-verif-note--checkout i {
+    color: var(--color-accent-green-dark, #059669);
+}
+
+/* A stale check keeps its date and loses all present-tense weight, matching the
+   wording and icon downgrade already applied inside App\Support\OfferVerification. */
+.offer-verif-note--stale {
+    font-weight: 500;
+    opacity: 0.85;
+}
+
+/* /deals grid: the right column is flex-shrink:0, so an unbounded one-line
+   caption would widen every card. Bounded and allowed to wrap instead. */
+.offer-verif-note--deal-card {
+    max-width: 160px;
+    margin-top: 8px;
+    text-align: left;
+}
+
+/* /firms/{slug}: .firm-promo-item is already flex-wrap, so a full basis puts the
+   note on its own line under the code/CTA row rather than squeezing it. */
+.offer-verif-note--firm-promo {
+    flex-basis: 100%;
+    margin-top: 2px;
+}
+
+/* ============================================================
+   OFFER ABSENCE NOTE (partials/offer-none-checked.blade.php)
+   The dated "we looked and there was no code" answer, shown where we hold no
+   offer at all. Every colour here is a DARK-ON-LIGHT pair - CLAUDE.md failure
+   mode B.
+
+   RATIOS ARE MEASURED AGAINST THIS PANEL'S OWN #f8f9fa, NOT AGAINST THE #fff
+   CARD BEHIND IT. That distinction is not pedantry: the site's usual link
+   #6366f1 clears the 4.5:1 floor on white (4.87:1) and FAILS on this panel
+   (4.24:1), which is exactly the kind of near-miss that ships because the
+   nearest ancestor was assumed rather than traced. Measured: #333 12.0:1,
+   #555 7.1:1, the #4338ca link 7.5:1, its #312e81 hover 10.8:1. The icon is
+   decorative and never carries meaning on its own.
+   ============================================================ */
+.offer-none-note {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    margin-bottom: 12px;
+    padding: 10px 12px;
+    background: #f8f9fa;
+    border: 1px solid rgba(0,0,0,0.06);
+    border-radius: 8px;
+    text-align: left;
+}
+
+.offer-none-note__icon {
+    flex-shrink: 0;
+    margin-top: 1px;
+    font-size: 16px;
+    color: var(--color-text-mid, #555);
+}
+
+.offer-none-note__body {
+    min-width: 0;
+}
+
+.offer-none-note__text {
+    margin: 0;
+    color: #333;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.offer-none-note__detail {
+    margin: 4px 0 0;
+    color: var(--color-text-mid, #555);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1.45;
+}
+
+.offer-none-note__sources {
+    margin: 4px 0 0;
+    color: var(--color-text-mid, #555);
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1.45;
+    /* Firm URLs are long and this sits in a narrow column on mobile. */
+    overflow-wrap: anywhere;
+}
+
+.offer-none-note__sources a {
+    color: #4338ca;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(67,56,202,0.35);
+    transition: color 0.2s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.offer-none-note__sources a:hover {
+    color: #312e81;
+    border-bottom-color: #312e81;
+}
+
+@media (max-width: 576px) {
+    .offer-none-note {
+        padding: 10px;
+    }
+
+    .offer-none-note__text {
+        font-size: 12.5px;
+    }
+}
+
+
+/* === All-in cost badge (2026-08-26) ===
+   Renders the true entry cost of a plan (price + a recorded activation fee) on
+   the two per-plan surfaces: the firm-show plan table and the challenge-detail
+   buy rail. Lives here rather than in firm-show.css / challenge-details.css
+   because it is one component on two pages and global.css is the only sheet
+   layouts/front.blade.php loads on both.
+
+   Contrast: opaque #fff7ed surface with #9a3412 text (~7.4:1) and a #fed7aa
+   border, so it reads as a distinct chip inside the white card it sits in and
+   never inherits a transparent background. Amber, not red - this is a heads-up
+   that the sticker price is incomplete, not an error state. */
+.all-in-cost {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 1px;
+    margin-top: 6px;
+    padding: 5px 9px;
+    background: #fff7ed;
+    border: 1px solid #fed7aa;
+    border-radius: 8px;
+    /* The plan table sets white-space:nowrap on its cells at wide viewports. */
+    white-space: nowrap;
+    cursor: help;
+}
+
+.all-in-cost__total {
+    color: #9a3412;
+    font-size: 12.5px;
+    font-weight: 700;
+    line-height: 1.3;
+    /* Load-bearing in the plan table, which is auto-layout: the total is the
+       figure being warned about and must never wrap. Shrinking the badge to fit
+       the cell does not work there - a narrower badge lowers the column's
+       min-content width, so the column shrinks with it and the text wraps
+       anyway. Keeping this one span unbreakable puts a floor under the column
+       instead. The breakdown below stays wrappable. */
+    white-space: nowrap;
+}
+
+.all-in-cost__breakdown {
+    color: #b45309;
+    font-size: 10.5px;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+/* Buy rail: full-width block under the headline price, immediately above the
+   outbound CTA, so the total is read before the click and not after it. */
+.all-in-cost--rail {
+    display: flex;
+    width: 100%;
+    margin: 10px 0 0;
+    padding: 9px 12px;
+    border-radius: 10px;
+    white-space: normal;
+}
+
+.all-in-cost--rail .all-in-cost__total {
+    font-size: 15px;
+}
+
+.all-in-cost--rail .all-in-cost__breakdown {
+    font-size: 12px;
+}
+
+/* Phone: the plan table's Price cell measures ~88px at a 375px viewport, leaving
+   the badge a ~70px box, and at the desktop size the total alone wrapped onto
+   two lines inside it - which is not what a warning about a price may look like.
+   Tightened so "$105 all-in" holds one line. The breakdown is allowed to wrap
+   beneath it rather than being dropped: the Activation Fee column is already
+   display:none at this width, so this is the only place the split is readable.
+   The rail is unaffected (it is a full-width card, not a table cell). */
+@media (max-width: 767px) {
+    .all-in-cost {
+        padding: 5px 6px;
+        white-space: normal;
+    }
+
+    .all-in-cost__total {
+        font-size: 11px;
+    }
+
+    .all-in-cost__breakdown {
+        font-size: 9.5px;
+    }
+
+    .all-in-cost--rail {
+        padding: 9px 12px;
+    }
+
+    .all-in-cost--rail .all-in-cost__total {
+        font-size: 15px;
+    }
+
+    .all-in-cost--rail .all-in-cost__breakdown {
+        font-size: 12px;
+    }
+}
+
+/* ==========================================================================
+   TRUSTPILOT RATING-WITHHELD CHIP (partials/trustpilot-withheld.blade.php)
+   Fully opaque on purpose: this chip is dropped into both white cards and the
+   dark deal strips, so it cannot inherit a parent surface. #92400e on #fef3c7
+   is 7.4:1, so it clears AA on either.
+   ========================================================================== */
+.pfm-tp-withheld {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    background: var(--color-amber-bg-light, #fef3c7);
+    border: 1px solid var(--color-amber-border-light, #fde68a);
+    color: var(--color-amber-text-strong, #92400e);
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1.3;
+    white-space: nowrap;
+    text-decoration: none;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pfm-tp-withheld:hover,
+.pfm-tp-withheld:focus {
+    background: #fde68a;
+    color: var(--color-amber-text-darker, #78350f);
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(146, 64, 14, 0.18);
+}
+
+.pfm-tp-withheld i {
+    font-size: 13px;
+    flex-shrink: 0;
+}
+
+/* Narrow rails and sidebar rows, where the full-width chip would overflow. */
+.pfm-tp-withheld--compact {
+    padding: 2px 7px;
+    font-size: 11px;
+    gap: 3px;
+}
+
+.pfm-tp-withheld--compact i {
+    font-size: 11px;
+}
+
+@media (max-width: 480px) {
+    .pfm-tp-withheld {
+        font-size: 11px;
+        padding: 3px 8px;
+    }
+}
+
+/* ==========================================================================
+   FIRM EVENT CHANGE  ("old value -> new value")
+   Rendered by resources/views/partials/firm-event-change.blade.php on
+   /firms/{slug}, /trust-check/{slug}, /pulse and /reports/{slug}.
+
+   old_value/new_value are free prose, not scalars: 143 of the 1,470 visible
+   pairs run past 60 characters (longest 308). Every surface chip is an
+   inline-flex row with no wrap and no width cap, so a long pair rendered as
+   two tall prose columns inside a 13px pill. Long pairs now collapse into a
+   native <details> disclosure instead.
+
+   SPECIFICITY IS DELIBERATE. The four surface stylesheets (firm-show.css,
+   trust-check.css, pulse.css, reports.css) all load AFTER global.css and their
+   chip rules are single-class, so a single-class rule here would lose the
+   cascade. Every long-form rule is therefore anchored on two classes
+   (.pfm-evchange.pfm-evchange--long) so it wins regardless of load order.
+   ========================================================================== */
+
+/* Short pairs are untouched: the surface's own chip class still governs them
+   completely. .pfm-evchange is only a hook so the pair can be found and tested. */
+
+.pfm-evchange.pfm-evchange--long {
+    display: block;
+    max-width: 100%;
+    margin-top: 8px;
+    padding: 0;
+    /* Opaque base. .tc-timeline__change ships no background at all, and the
+       other three sit on white cards, so the component states its own surface
+       rather than depending on an ancestor. */
+    background: var(--color-surface-warm, #f8f9fa);
+    border: 1px solid var(--color-border-light, #e5e7eb);
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: 13px;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--color-text-dark, #333333);
+    transition: border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pfm-evchange.pfm-evchange--long[open] {
+    border-color: var(--color-border-mid, #d1d5db);
+    box-shadow: 0 4px 16px rgba(26, 26, 46, 0.06);
+}
+
+/* GRID, NOT FLEX, AND minmax(0, 1fr) IS THE WHOLE POINT.
+   The preview is a nowrap line far wider than any container (913px measured).
+   overflow:hidden clips how it PAINTS but does not reduce what it contributes
+   to intrinsic max-content sizing, so under flex this summary reported a huge
+   max-content width and every ancestor without min-width:0 grew to match it.
+   That gave /pulse a 1129px scroll width on a 375px viewport, proven by
+   deleting .pfm-evchange from the live DOM and watching it drop back to 375.
+   /trust-check and /firms only escaped because .tc-timeline__content and
+   .firm-timeline-content happen to set min-width:0 themselves, which is luck,
+   not design. A minmax(0, 1fr) track caps the flexible column's intrinsic
+   contribution at 0, so the component can no longer widen ANY parent.
+   Both .visually-hidden children are position:absolute and so are not grid
+   items; the in-flow children are exactly preview + toggle. */
+.pfm-evchange.pfm-evchange--long > .pfm-evchange__summary {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 10px;
+    /* Containing block for the absolutely-positioned .visually-hidden label. */
+    position: relative;
+    /* 44px keeps the disclosure a legal touch target on mobile. */
+    min-height: 44px;
+    padding: 8px 12px;
+    cursor: pointer;
+    list-style: none;
+    color: var(--color-text-dark, #333333);
+}
+
+/* Suppress the native disclosure triangle; the +/- below replaces it. */
+.pfm-evchange.pfm-evchange--long > .pfm-evchange__summary::-webkit-details-marker {
+    display: none;
+}
+
+.pfm-evchange.pfm-evchange--long > .pfm-evchange__summary::marker {
+    content: '';
+}
+
+.pfm-evchange.pfm-evchange--long > .pfm-evchange__summary:hover {
+    background: var(--color-surface-hover, #f0f0f5);
+}
+
+.pfm-evchange.pfm-evchange--long > .pfm-evchange__summary:focus-visible {
+    outline: 2px solid var(--color-primary, #6366f1);
+    outline-offset: -2px;
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__preview {
+    display: block;
+    /* Pairs with the summary's minmax(0, 1fr) track so this can actually
+       shrink below its content width and the ellipsis engages. */
+    min-width: 0;
+    /* LOAD-BEARING, and the fix for a real 375px horizontal-scroll regression
+       measured on prod 2026-08-31. This preview holds a .visually-hidden span,
+       which is position:absolute. With no positioned ancestor its containing
+       block is the initial one, so the overflow:hidden below does NOT clip it:
+       it settles at its static position inside this nowrap line (x=591 on a
+       375px viewport) and drags the page's scroll width out with it. Making
+       this the containing block brings it back under the clip. */
+    position: relative;
+    /* One line, ellipsised. The full value is one click away, never lost. */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__arrow {
+    color: var(--color-text-gray, #666666);
+    padding: 0 2px;
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__toggle {
+    flex: 0 0 auto;
+    width: 20px;
+    height: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: var(--color-surface-card, #ffffff);
+    border: 1px solid var(--color-border-light, #e5e7eb);
+    color: var(--color-primary, #6366f1);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__toggle::before {
+    content: '+';
+}
+
+.pfm-evchange.pfm-evchange--long[open] .pfm-evchange__toggle::before {
+    content: '\2212';
+}
+
+.pfm-evchange.pfm-evchange--long > .pfm-evchange__summary:hover .pfm-evchange__toggle {
+    transform: scale(1.1);
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__full {
+    padding: 2px 12px 12px;
+    border-top: 1px solid var(--color-border-light, #e5e7eb);
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__row {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding-top: 10px;
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__key {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: var(--color-text-gray, #666666);
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__val {
+    font-size: 13px;
+    line-height: 1.55;
+    /* Prose, so it must wrap. anywhere also stops an unbroken token (a URL or a
+       long slash-joined rule string) from forcing a horizontal scrollbar. */
+    white-space: normal;
+    overflow-wrap: anywhere;
+    text-decoration: none;
+}
+
+/* No line-through on the expanded "Before" value. It is struck through in the
+   collapsed preview, where it is 34 characters; across 300 characters of prose
+   a strike-through is simply unreadable. */
+.pfm-evchange.pfm-evchange--long .pfm-evchange__val--old {
+    color: var(--color-text-gray, #666666);
+}
+
+.pfm-evchange.pfm-evchange--long .pfm-evchange__val--new {
+    color: var(--color-text-primary, #1a1a2e);
+    font-weight: 600;
+}
+
+@media (max-width: 480px) {
+    .pfm-evchange.pfm-evchange--long > .pfm-evchange__summary {
+        padding: 8px 10px;
+    }
+
+    .pfm-evchange.pfm-evchange--long .pfm-evchange__full {
+        padding: 2px 10px 12px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .pfm-evchange.pfm-evchange--long,
+    .pfm-evchange.pfm-evchange--long .pfm-evchange__toggle {
+        transition: none;
+    }
+
+    .pfm-evchange.pfm-evchange--long > .pfm-evchange__summary:hover .pfm-evchange__toggle {
+        transform: none;
+    }
+}

@@ -1,0 +1,143 @@
+/*
+ * print.css - print / save-as-PDF stylesheet for the public site.
+ * Loaded with media="print" so it NEVER affects on-screen rendering (and is
+ * invisible to Google). Goal: a trader can print or PDF a firm profile, a
+ * comparison, or a calculator result as a clean black-on-white document with
+ * all site chrome (nav, footers, floating CTAs, cookie bar) stripped out.
+ */
+
+@page {
+    margin: 1.5cm;
+}
+
+@media print {
+    /* Force a clean light document regardless of the on-screen purple theme. */
+    html,
+    body {
+        background: #fff !important;
+        color: #1a1a2e !important;
+        font-size: 12pt;
+        line-height: 1.4;
+    }
+
+    /* Strip every piece of site chrome that is noise on paper. */
+    .pfm-header,
+    footer[role="contentinfo"],
+    .footer-newsletter,
+    .newsletter-form,
+    .cookie-consent,
+    .scroll-top-btn,
+    .feedback-fab,
+    .firm-sticky-cta,
+    .compare-tray,
+    .firm-deal-alerts,
+    .sticky-deal-bar,
+    .back-to-top,
+    nav.breadcrumb-nav .breadcrumb-cta,
+    [data-print-hide],
+    iframe,
+    video {
+        display: none !important;
+    }
+
+    #main-content,
+    main {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    /* Neutralise the gradient / dark surfaces onto white so text stays legible. */
+    .block,
+    .card,
+    section,
+    .firm-card,
+    .firm-similar-card,
+    .best-deal-grid,
+    .deal-card,
+    .compare-card,
+    .calc-card,
+    .container,
+    .row,
+    [class*="__card"],
+    [class*="-card"] {
+        background: #fff !important;
+        color: #1a1a2e !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+        border-color: #ccc !important;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #1a1a2e !important;
+        page-break-after: avoid;
+    }
+
+    p,
+    li,
+    td,
+    th,
+    span,
+    a {
+        color: #1a1a2e !important;
+    }
+
+    /* Keep individual cards and table rows from splitting across a page break. */
+    .card,
+    .block,
+    .firm-card,
+    .firm-similar-card,
+    .deal-card,
+    tr,
+    img,
+    figure {
+        page-break-inside: avoid;
+        break-inside: avoid;
+    }
+
+    /* Readable tables on paper. */
+    table {
+        width: 100% !important;
+        border-collapse: collapse !important;
+    }
+
+    th,
+    td {
+        border: 1px solid #ccc !important;
+        padding: 6px 8px !important;
+        background: #fff !important;
+        color: #1a1a2e !important;
+    }
+
+    thead th {
+        background: #f2f2f2 !important;
+    }
+
+    /* Images should never overflow the printable width. */
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+
+    /* Affiliate / visit buttons are dead weight on paper - hide the loud ones,
+       but leave inline text links intact so context is preserved. */
+    a[target="_blank"].btn,
+    .firm-cta-btn,
+    .deal-card__cta,
+    .best-deal-grid__cta,
+    .btn-affiliate {
+        display: none !important;
+    }
+
+    /* Avoid orphaned/widowed lines. */
+    p {
+        orphans: 3;
+        widows: 3;
+    }
+}

@@ -1,0 +1,310 @@
+/*
+ * Home - Head-to-Head Battles section
+ * White cards on purple page background. Purple-accent VS badge.
+ */
+
+.vs-battles-section {
+    margin-top: 2.5rem;
+}
+
+.vs-battles-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.vs-battles-header__left {
+    flex: 1;
+    min-width: 0;
+}
+
+.vs-battles-header__icon {
+    color: var(--color-primary, #6366f1);
+    margin-right: 6px;
+    vertical-align: -3px;
+    font-size: 1.05em;
+}
+
+.vs-battles-header__all {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    opacity: 0.9;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    white-space: nowrap;
+    padding: 6px 10px;
+    border-radius: 8px;
+}
+
+.vs-battles-header__all:hover,
+.vs-battles-header__all:focus-visible {
+    color: #fff;
+    opacity: 1;
+    transform: translateX(2px);
+    background: rgba(255, 255, 255, 0.08);
+    text-decoration: none;
+}
+
+.vs-battles-header__all i {
+    font-size: 11px;
+    margin-left: 4px;
+}
+
+.vs-battles-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    background: rgba(255, 255, 255, 0.06);
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.vs-battle-card {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 8px;
+    padding: 16px 14px 44px;
+    background: var(--color-surface-card, #fff);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 14px;
+    text-decoration: none;
+    color: var(--color-text-primary, #1a1a2e);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    overflow: hidden;
+}
+
+.vs-battle-card:hover,
+.vs-battle-card:focus-visible {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 28px rgba(99, 102, 241, 0.18);
+    border-color: rgba(99, 102, 241, 0.25);
+    color: var(--color-text-primary, #1a1a2e);
+    text-decoration: none;
+}
+
+.vs-battle-card__side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    min-width: 0;
+    padding: 4px 2px;
+    border-radius: 10px;
+    transition: background 0.2s ease;
+}
+
+.vs-battle-card__side--winning {
+    background: rgba(99, 102, 241, 0.05);
+}
+
+.vs-battle-card__logo {
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vs-battle-card__logo img {
+    max-width: 48px;
+    max-height: 48px;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+.vs-battle-card__name {
+    font-weight: 700;
+    font-size: 13px;
+    color: var(--color-text-primary, #1a1a2e);
+    text-align: center;
+    line-height: 1.25;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.vs-battle-card__score {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+    padding: 3px 10px;
+    background: var(--color-surface-warm, #f8f9fa);
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.vs-battle-card__side--winning .vs-battle-card__score {
+    background: rgba(99, 102, 241, 0.12);
+}
+
+.vs-battle-card__score-val {
+    font-weight: 800;
+    color: var(--color-primary, #6366f1);
+    font-size: 13px;
+}
+
+.vs-battle-card__side--winning .vs-battle-card__score-val {
+    color: var(--color-primary-dark, #4f46e5);
+}
+
+.vs-battle-card__score-label {
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--color-text-subtle, #888);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
+
+.vs-battle-card__middle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 4px;
+}
+
+.vs-battle-card__vs {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: var(--gradient-brand-diag, linear-gradient(100deg, #7A95F8 0%, #6453CA 100%));
+    color: #fff;
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    box-shadow: 0 4px 12px rgba(100, 83, 202, 0.3);
+    flex-shrink: 0;
+}
+
+.vs-battle-card__cta {
+    position: absolute;
+    left: 14px;
+    right: 14px;
+    bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--color-primary, #6366f1);
+    padding-top: 8px;
+    border-top: 1px dashed rgba(99, 102, 241, 0.2);
+    transition: color 0.2s ease, gap 0.2s ease;
+}
+
+.vs-battle-card:hover .vs-battle-card__cta,
+.vs-battle-card:focus-visible .vs-battle-card__cta {
+    color: var(--color-primary-dark, #4f46e5);
+    gap: 10px;
+}
+
+.vs-battle-card__cta i {
+    font-size: 11px;
+}
+
+.vs-battles-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    border-radius: 999px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.vs-battles-cta:hover,
+.vs-battles-cta:focus-visible {
+    background: rgba(255, 255, 255, 0.18);
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
+.vs-battles-cta i {
+    font-size: 16px;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+    .vs-battles-grid {
+        grid-template-columns: 1fr;
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .vs-battle-card {
+        padding: 14px 12px 42px;
+    }
+
+    .vs-battle-card__logo,
+    .vs-battle-card__logo img {
+        width: 42px;
+        height: 42px;
+        max-width: 42px;
+        max-height: 42px;
+    }
+
+    .vs-battle-card__vs {
+        width: 34px;
+        height: 34px;
+        font-size: 11px;
+    }
+
+    .vs-battle-card__name {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 420px) {
+    .vs-battle-card {
+        grid-template-columns: 1fr auto 1fr;
+        gap: 4px;
+        padding: 12px 8px 40px;
+    }
+
+    .vs-battle-card__logo,
+    .vs-battle-card__logo img {
+        width: 38px;
+        height: 38px;
+        max-width: 38px;
+        max-height: 38px;
+    }
+
+    .vs-battle-card__vs {
+        width: 30px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .vs-battle-card__name {
+        font-size: 11px;
+    }
+
+    .vs-battle-card__score {
+        padding: 2px 8px;
+    }
+
+    .vs-battle-card__score-val {
+        font-size: 12px;
+    }
+
+    .vs-battle-card__score-label {
+        font-size: 9px;
+    }
+}

@@ -1,0 +1,81 @@
+/*
+ * Homepage FAQ block.
+ *
+ * Mirrors .cat-faq from category-landing.css so the homepage answers look
+ * identical to the /best and /deals answers they are generated alongside, but
+ * lives in its own file because the homepage has no other reason to pull in the
+ * whole category-landing stylesheet.
+ *
+ * Every colour carries an explicit literal fallback. On 2026-08-18 global.css
+ * (the only stylesheet layouts/front.blade.php loads) was found to be missing 38
+ * of the tokens defined in tokens.css, so every var() reference without a
+ * fallback computed to transparent/initial. All seven tokens below are present
+ * in global.css today; the fallbacks mean this block still renders as a readable
+ * white card with dark text if that ever regresses.
+ */
+
+.home-faq {
+    margin-bottom: 32px;
+}
+
+.home-faq__item {
+    background: var(--color-surface-card, #ffffff);
+    border-radius: 10px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    border: 1px solid var(--color-border-light, #e5e7eb);
+}
+
+.home-faq__question {
+    padding: 16px 20px;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--color-text-primary, #1a1a2e);
+    cursor: pointer;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* 44px minimum touch target on mobile: 16+16 padding + ~1.15rem line box. */
+    min-height: 44px;
+    transition: background 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.home-faq__question::-webkit-details-marker {
+    display: none;
+}
+
+.home-faq__question::after {
+    content: '+';
+    font-size: 1.2rem;
+    color: var(--color-text-hint, #9ca3af);
+    flex-shrink: 0;
+    margin-left: 12px;
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.home-faq__item[open] .home-faq__question::after {
+    content: '\2212';
+    color: var(--color-primary, #6366f1);
+}
+
+.home-faq__question:hover {
+    background: var(--color-surface-warm, #f8f9fa);
+}
+
+.home-faq__question:focus-visible {
+    outline: 2px solid var(--color-primary, #6366f1);
+    outline-offset: -2px;
+}
+
+.home-faq__answer {
+    padding: 0 20px 16px;
+    font-size: 0.88rem;
+    color: var(--color-text-mid, #4b5563);
+    line-height: 1.7;
+}
+
+.home-faq__answer a {
+    color: var(--color-primary, #6366f1);
+    font-weight: 600;
+}

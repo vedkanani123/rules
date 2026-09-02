@@ -1,0 +1,345 @@
+/* ==========================================================================
+   Per-firm Deal Alerts
+   - .firm-deal-alert-btn          (compact bell button on cards / deals page)
+   - .firm-deal-alert-popover      (anchored popover form opened by the bell)
+   - .firm-deal-alert-card         (prominent inline card on firm show page)
+
+   Theme: white-card on purple gradient. Bell uses an amber accent so it
+   stands out from the green/violet "Visit" CTAs without competing for the
+   primary action role.
+   ========================================================================== */
+
+/* ------------- Bell trigger button -------------- */
+.firm-deal-alert-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--color-surface-card);
+    color: var(--color-amber-text-strong);
+    border: 1px solid var(--color-amber-border-light);
+    border-radius: 999px;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+    cursor: pointer;
+    transition: background 0.18s ease, border-color 0.18s ease, transform 0.18s ease, color 0.18s ease, box-shadow 0.18s ease;
+}
+.firm-deal-alert-btn i {
+    font-size: 14px;
+    color: var(--color-accent-amber-light);
+}
+.firm-deal-alert-btn:hover,
+.firm-deal-alert-btn:focus-visible {
+    background: var(--color-amber-bg-light);
+    border-color: var(--color-accent-amber-light);
+    color: var(--color-amber-text-darker);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(245, 158, 11, 0.18);
+    outline: 2px solid var(--color-accent-amber-light);
+    outline-offset: 2px;
+}
+.firm-deal-alert-btn.is-subscribed {
+    background: var(--color-alert-success-bg);
+    border-color: var(--color-accent-green);
+    color: var(--color-alert-success-text);
+}
+.firm-deal-alert-btn.is-subscribed i {
+    color: var(--color-accent-green);
+}
+.firm-deal-alert-btn--pill {
+    padding: 8px 14px;
+    font-size: 13px;
+}
+
+@media (max-width: 560px) {
+    .firm-deal-alert-btn__text {
+        display: none;
+    }
+    .firm-deal-alert-btn {
+        padding: 6px 9px;
+    }
+}
+
+/* ------------- Popover (anchored by JS) -------------- */
+.firm-deal-alert-popover {
+    position: absolute;
+    z-index: 10500;
+    width: 320px;
+    max-width: calc(100vw - 24px);
+    background: var(--color-surface-card);
+    color: var(--color-text-primary);
+    border: 1px solid var(--color-border-light);
+    border-radius: 12px;
+    box-shadow: 0 12px 32px rgba(15, 23, 42, 0.18);
+    padding: 16px 16px 14px;
+    font-size: 14px;
+    animation: firmDealAlertPopIn 0.18s ease both;
+}
+@keyframes firmDealAlertPopIn {
+    from { opacity: 0; transform: translateY(-6px); }
+    to   { opacity: 1; transform: translateY(0); }
+}
+.firm-deal-alert-popover::before {
+    content: '';
+    position: absolute;
+    top: -7px;
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg);
+    width: 12px;
+    height: 12px;
+    background: var(--color-surface-card);
+    border-left: 1px solid var(--color-border-light);
+    border-top: 1px solid var(--color-border-light);
+}
+.firm-deal-alert-popover__title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-weight: 700;
+    font-size: 14px;
+    color: var(--color-text-primary);
+    margin-bottom: 6px;
+}
+.firm-deal-alert-popover__title i {
+    color: var(--color-accent-amber-light);
+    font-size: 18px;
+}
+.firm-deal-alert-popover__sub {
+    font-size: 12.5px;
+    color: var(--color-text-mid);
+    line-height: 1.45;
+    margin-bottom: 10px;
+}
+.firm-deal-alert-popover__form {
+    display: flex;
+    gap: 6px;
+}
+.firm-deal-alert-popover__input {
+    flex: 1 1 auto;
+    background: var(--color-surface-card);
+    border: 1px solid var(--color-border-mid);
+    border-radius: 8px;
+    padding: 9px 11px;
+    font-size: 13.5px;
+    color: var(--color-text-primary);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.firm-deal-alert-popover__input:focus {
+    outline: none;
+    border-color: var(--color-accent-amber-light);
+    box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.18);
+}
+.firm-deal-alert-popover__btn {
+    background: linear-gradient(135deg, var(--color-cta-amber) 0%, var(--color-cta-amber-dark) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 14px;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+    white-space: nowrap;
+}
+.firm-deal-alert-popover__btn:hover,
+.firm-deal-alert-popover__btn:focus-visible {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px rgba(245, 158, 11, 0.32);
+}
+.firm-deal-alert-popover__btn:disabled {
+    opacity: 0.7;
+    cursor: wait;
+    transform: none;
+}
+.firm-deal-alert-popover__msg {
+    margin-top: 8px;
+    min-height: 0;
+}
+.firm-deal-alert-popover__alert {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    padding: 8px 10px;
+    border-radius: 8px;
+    font-size: 12.5px;
+    line-height: 1.4;
+}
+.firm-deal-alert-popover__alert i {
+    font-size: 16px;
+    margin-top: 1px;
+}
+.firm-deal-alert-popover__alert.is-success {
+    background: var(--color-alert-success-bg);
+    color: var(--color-alert-success-text);
+    border: 1px solid var(--color-alert-success-border);
+}
+.firm-deal-alert-popover__alert.is-error {
+    background: var(--color-alert-error-bg);
+    color: var(--color-alert-error-text);
+    border: 1px solid var(--color-alert-error-border);
+}
+.firm-deal-alert-popover__close {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 22px;
+    line-height: 1;
+    color: var(--color-text-placeholder);
+    cursor: pointer;
+    padding: 2px 6px;
+}
+.firm-deal-alert-popover__close:hover,
+.firm-deal-alert-popover__close:focus-visible {
+    color: var(--color-text-primary);
+}
+
+/* ------------- Inline card (firm show page) -------------- */
+.firm-deal-alert-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    background: var(--color-surface-card);
+    border: 1px solid var(--color-amber-border-light);
+    border-radius: 14px;
+    padding: 18px 20px;
+    margin: 22px 0;
+    box-shadow: 0 4px 14px rgba(245, 158, 11, 0.08);
+    position: relative;
+    overflow: hidden;
+}
+.firm-deal-alert-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(254, 243, 199, 0.55) 0%, rgba(255, 255, 255, 0) 65%), var(--color-surface-card);
+    pointer-events: none;
+    border-radius: 14px;
+}
+.firm-deal-alert-card__icon {
+    flex: 0 0 auto;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--color-cta-amber) 0%, var(--color-cta-amber-dark) 100%);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    box-shadow: 0 4px 12px rgba(245, 158, 11, 0.28);
+    z-index: 1;
+}
+.firm-deal-alert-card__body {
+    flex: 1 1 auto;
+    min-width: 0;
+    z-index: 1;
+}
+.firm-deal-alert-card__heading {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--color-text-primary);
+    line-height: 1.3;
+    margin-bottom: 4px;
+}
+.firm-deal-alert-card__sub {
+    font-size: 13px;
+    color: var(--color-text-mid);
+    line-height: 1.5;
+    margin-bottom: 12px;
+}
+.firm-deal-alert-card__form {
+    display: flex;
+    gap: 8px;
+}
+.firm-deal-alert-card__input {
+    flex: 1 1 auto;
+    min-width: 0;
+    background: var(--color-surface-card);
+    border: 1px solid var(--color-border-mid);
+    border-radius: 10px;
+    padding: 11px 14px;
+    font-size: 14px;
+    color: var(--color-text-primary);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+.firm-deal-alert-card__input:focus {
+    outline: none;
+    border-color: var(--color-accent-amber-light);
+    box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.18);
+}
+.firm-deal-alert-card__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(135deg, var(--color-cta-amber) 0%, var(--color-cta-amber-dark) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 11px 18px;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, opacity 0.15s ease;
+    white-space: nowrap;
+}
+.firm-deal-alert-card__btn i {
+    font-size: 16px;
+}
+.firm-deal-alert-card__btn:hover,
+.firm-deal-alert-card__btn:focus-visible {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 20px rgba(245, 158, 11, 0.34);
+}
+.firm-deal-alert-card__btn:disabled {
+    opacity: 0.75;
+    cursor: wait;
+    transform: none;
+}
+.firm-deal-alert-card__msg {
+    margin-top: 10px;
+}
+.firm-deal-alert-card__alert {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 9px 12px;
+    border-radius: 10px;
+    font-size: 13px;
+    line-height: 1.45;
+}
+.firm-deal-alert-card__alert i {
+    font-size: 18px;
+    margin-top: 1px;
+}
+.firm-deal-alert-card__alert.is-success {
+    background: var(--color-alert-success-bg);
+    color: var(--color-alert-success-text);
+    border: 1px solid var(--color-alert-success-border);
+}
+.firm-deal-alert-card__alert.is-error {
+    background: var(--color-alert-error-bg);
+    color: var(--color-alert-error-text);
+    border: 1px solid var(--color-alert-error-border);
+}
+
+@media (max-width: 640px) {
+    .firm-deal-alert-card {
+        flex-direction: column;
+        gap: 12px;
+        padding: 16px;
+    }
+    .firm-deal-alert-card__icon {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .firm-deal-alert-card__form {
+        flex-direction: column;
+    }
+    .firm-deal-alert-card__btn {
+        justify-content: center;
+    }
+}

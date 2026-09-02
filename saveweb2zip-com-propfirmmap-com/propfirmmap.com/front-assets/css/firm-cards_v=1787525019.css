@@ -1,0 +1,1089 @@
+/* ── Firm Index Cards v2 ── */
+
+.firm-card {
+    background: #fff;
+    border-radius: var(--radius-xl);
+    padding: 22px;
+    position: relative;
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--color-border-light);
+}
+
+.firm-card:hover,
+.firm-card:focus-within {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12), 0 4px 12px rgba(100, 83, 202, 0.08);
+}
+
+/* ── Header: Logo + Name + Type + Score ── */
+.firm-card__header {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    margin-bottom: 14px;
+    padding-top: 4px;
+}
+
+.firm-card__logo {
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
+    border-radius: 12px;
+    flex-shrink: 0;
+    background: #fff;
+    padding: 2px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.firm-card__header-text {
+    flex-grow: 1;
+    min-width: 0;
+}
+
+.firm-card__name {
+    display: block;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--color-text-primary);
+    line-height: 1.3;
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    transition: color 0.2s ease;
+}
+
+.firm-card__name:hover {
+    color: var(--color-primary);
+    text-decoration: none;
+}
+
+.firm-card__meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 5px;
+}
+
+.firm-card__type-pill {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    background: rgba(99, 102, 241, 0.1);
+    color: var(--color-primary);
+    letter-spacing: 0.3px;
+}
+
+.firm-card__score {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--color-accent-amber-light);
+}
+
+.firm-card__score i {
+    font-size: 13px;
+}
+
+/* ── Safety Grade Badge (Card) ── */
+.firm-card__safety-grade {
+    display: inline-block;
+    padding: 1px 7px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+    line-height: 1.5;
+}
+.safety-grade--aplus { background: rgba(16, 185, 129, 0.12); color: var(--color-accent-green-dark); }
+.safety-grade--a     { background: rgba(34, 197, 94, 0.12);  color: #16a34a; }
+.safety-grade--bplus { background: rgba(132, 204, 22, 0.12); color: #65a30d; }
+.safety-grade--b     { background: rgba(245, 158, 11, 0.12); color: var(--color-accent-amber); }
+.safety-grade--c     { background: rgba(249, 115, 22, 0.12); color: #ea580c; }
+.safety-grade--d     { background: rgba(239, 68, 68, 0.12);  color: #dc2626; }
+
+/* Non-hue symbols for color-blind accessibility (WCAG 1.4.1).
+   A+/A get a ✓ check, C gets ! (caution), D gets ✕ (danger).
+   B+/B are intentionally neutral - no prefix.
+   \00a0 = non-breaking space separating symbol from the grade letter. */
+.safety-grade--aplus::before,
+.safety-grade--a::before     { content: '✓\00a0'; font-size: 9px; font-weight: 900; }
+.safety-grade--c::before      { content: '!\00a0'; font-size: 9px; font-weight: 900; }
+.safety-grade--d::before      { content: '✕\00a0'; font-size: 9px; font-weight: 900; }
+
+/* Table safety grade - inherits .safety-grade--X color + ::before symbol above */
+.firm-table__safety {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+}
+
+/* ── Verified by PropFirmMap badge (card) ── */
+.firm-card__verified-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 1px 7px;
+    background: rgba(16, 185, 129, 0.10);
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 700;
+    color: #047857;
+    line-height: 1.5;
+}
+
+.firm-card__verified-badge i {
+    font-size: 12px;
+    color: var(--color-accent-green);
+}
+
+/* ── Verified Partner badge (card) ──
+   Purple tint mirrors the firm-show hero Verified Partner chip (firm-show.css L481)
+   so the trust signal reads identically across listing + detail surfaces. */
+.firm-card__partner-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 1px 7px;
+    background: rgba(99, 102, 241, 0.10);
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 700;
+    color: #4f46e5;
+    line-height: 1.5;
+}
+
+.firm-card__partner-badge i {
+    font-size: 12px;
+    color: #6366f1;
+}
+
+/* Table verified icon (next to firm name) */
+.firm-table__verified-icon {
+    margin-left: 4px;
+    font-size: 14px;
+    color: var(--color-accent-green);
+    vertical-align: middle;
+}
+
+/* Table partner icon - sits between firm name and the verified shield */
+.firm-table__partner-icon {
+    margin-left: 4px;
+    font-size: 14px;
+    color: var(--color-primary);
+    vertical-align: middle;
+}
+
+/* ── TrustPilot Rating Bar ── */
+.firm-card__trustpilot-bar {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 12px;
+    background: rgba(0, 182, 122, 0.06);
+    border-radius: 10px;
+    margin-bottom: 14px;
+    min-height: 36px;
+}
+
+.firm-card__tp-stars {
+    display: flex;
+    gap: 1px;
+}
+
+.firm-card__tp-star {
+    font-size: 15px;
+    line-height: 1;
+}
+
+.firm-card__tp-star--full {
+    color: #00b67a;
+}
+
+.firm-card__tp-star--half {
+    color: #00b67a;
+    opacity: 0.5;
+}
+
+.firm-card__tp-star--empty {
+    color: var(--color-border-mid);
+}
+
+.firm-card__tp-score {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--color-text-primary);
+    margin-left: 2px;
+}
+
+/* --color-text-subtle (#888) measures 3.54:1 on the white card, under the 4.5:1 floor
+   for 11px text; --color-text-gray (#666) measures 5.74:1 and matches the table view. */
+.firm-card__tp-count {
+    font-size: 11px;
+    color: var(--color-text-gray);
+    font-weight: 400;
+}
+
+.firm-card__tp-none {
+    font-size: 12px;
+    color: var(--color-text-subtle);
+    font-style: italic;
+}
+
+/* ── TrustPilot SUSPENDED Warning ── */
+.firm-card__trustpilot-bar--suspended {
+    background: rgba(239, 68, 68, 0.08);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+}
+
+.firm-card__tp-suspended {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--color-accent-amber-light);
+    letter-spacing: 0.3px;
+}
+
+.firm-card__tp-suspended i {
+    font-size: 14px;
+    animation: tp-pulse 2s ease-in-out infinite;
+}
+
+.firm-card__tp-suspended-label {
+    background: rgba(245, 158, 11, 0.15);
+    color: var(--color-accent-amber-light);
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+@keyframes tp-pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+/* ── Key Metrics Row ── */
+.firm-card__metrics {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    margin-bottom: 14px;
+    background: var(--color-surface-warm);
+    border-radius: 10px;
+    padding: 10px 0;
+}
+
+.firm-card__metric {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0 8px;
+    gap: 2px;
+}
+
+.firm-card__metric-divider {
+    width: 1px;
+    background: rgba(0, 0, 0, 0.08);
+    align-self: stretch;
+    flex-shrink: 0;
+}
+
+.firm-card__metric-label {
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--color-text-subtle);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.firm-card__metric-value {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--color-text-primary);
+    line-height: 1.2;
+}
+
+.firm-card__metric-value--price {
+    color: var(--color-primary);
+}
+
+.firm-card__metric-value--green {
+    color: var(--color-accent-green-dark);
+}
+
+.firm-card__metric-sub {
+    font-size: 10px;
+    color: var(--color-text-subtle);
+    font-weight: 400;
+}
+
+/* ── Info Badges: Drawdown + Platforms ── */
+.firm-card__badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 14px;
+}
+
+.firm-card__badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 3px 9px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--color-text-mid);
+    background: var(--color-surface-badge);
+    white-space: nowrap;
+    transition: background 0.2s ease;
+}
+
+.firm-card__badge i {
+    font-size: 12px;
+    color: var(--color-primary);
+}
+
+.firm-card__badge--platform {
+    background: rgba(99, 102, 241, 0.08);
+    color: var(--color-primary);
+    font-weight: 600;
+    font-size: 10px;
+    padding: 2px 8px;
+}
+
+.firm-card__badge--more {
+    background: var(--color-surface-badge);
+    color: var(--color-text-subtle);
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 7px;
+}
+
+/* ── Drawdown note (shared by the catalog card badge and the catalog table cell) ──
+   firms.daily_drawdown is free text up to 346 characters, so it must never inherit
+   the one-line pill treatment: it clamps to two lines and expands in place. */
+.dd-note {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    max-width: 100%;
+    min-width: 0;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    text-align: left;
+    font: inherit;
+    cursor: default;
+}
+
+.dd-note__text {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    overflow: hidden;
+    min-width: 0;
+}
+
+.dd-note[aria-expanded="true"] .dd-note__text {
+    display: block;
+    overflow: visible;
+}
+
+/* Deep indigo, not the brand indigo: on the #f0f0f0 badge the lighter tone measures 3.9:1 */
+.dd-note__toggle {
+    flex: none;
+    align-self: flex-end;
+    color: var(--color-primary-darker);
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+button.dd-note {
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+
+button.firm-card__badge--dd:hover {
+    background: #e6e6e6;
+}
+
+button.dd-note:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+}
+
+/* Card variant: keep the badge look, drop the single-line pill geometry. */
+.firm-card__badge--dd {
+    background: var(--color-surface-badge);
+    color: var(--color-text-mid);
+    white-space: normal;
+    border-radius: 12px;
+    padding: 4px 10px;
+    line-height: 1.45;
+}
+
+.firm-card__badge--dd .bx {
+    flex: none;
+    margin-top: 1px;
+}
+
+/* Table variant: plain text inside the cell, no pill. */
+.firm-table__dd {
+    background: transparent; /* bleed-ok: sits inside the opaque .firm-table-scroll card */
+    color: var(--color-text-dark);
+    padding: 0;
+    line-height: 1.45;
+    font-size: 13px;
+}
+
+/* ── Promo Code ── */
+.firm-card__promo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 8px 12px;
+    margin-bottom: 12px;
+    background: rgba(245, 158, 11, 0.08);
+    border: 1px dashed rgba(245, 158, 11, 0.35);
+    border-radius: 10px;
+}
+
+.firm-card__promo-label {
+    font-size: 11px;
+    color: var(--color-text-mid);
+    font-weight: 500;
+}
+
+.firm-card__promo-code {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 3px 10px;
+    background: linear-gradient(135deg, var(--color-accent-amber-light), var(--color-accent-amber));
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.firm-card__promo-code:hover {
+    background: linear-gradient(135deg, var(--color-accent-amber), var(--color-accent-amber-dark));
+    transform: scale(1.03);
+}
+
+.firm-card__promo-code.is-copied {
+    background: linear-gradient(135deg, #34d399, #10b981) !important;
+}
+
+.firm-card__promo-code.is-copyfail {
+    background: #b91c1c !important;
+    color: #fff !important;
+}
+
+.firm-card__promo-code i {
+    font-size: 12px;
+}
+
+/* ── Deal Badge (top ribbon) ── */
+.firm-card__deal-badge {
+    position: absolute;
+    top: -1px;
+    left: 18px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 5px 12px 7px;
+    background: linear-gradient(135deg, var(--color-accent-amber-light), var(--color-accent-amber));
+    color: #fff;
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border-radius: 0 0 8px 8px;
+    z-index: 2;
+    box-shadow: 0 2px 8px rgba(245, 158, 11, 0.35);
+}
+
+.firm-card__deal-badge i {
+    font-size: 14px;
+}
+
+/* ── CTA Buttons ── */
+.firm-card__footer {
+    margin-top: auto;
+}
+
+.firm-card__cta-row {
+    display: flex;
+    gap: 8px;
+}
+
+.firm-card__cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 10px 16px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    text-align: center;
+}
+
+/* Selector carries .firm-card so it outranks global.css's `.firm-card a`
+   dark-link rule (0,1,1), which was repainting this button's label brand
+   purple over its green fill: measured 1.19:1 on prod, the worst contrast
+   on the site, on the catalog's primary CTA. The declared white below was
+   never reaching the page. Fill is the darkened CTA green because white on
+   the display green is only 2.54:1; this pairing measures 5.48:1. */
+.firm-card a.firm-card__cta--get-started,
+.firm-card__cta--get-started {
+    flex: 1;
+    background: linear-gradient(135deg, var(--color-cta-green), var(--color-cta-green-dark));
+    color: #fff;
+}
+
+.firm-card a.firm-card__cta--get-started:hover,
+.firm-card a.firm-card__cta--get-started:focus-visible,
+.firm-card__cta--get-started:hover,
+.firm-card__cta--get-started:focus-visible {
+    background: linear-gradient(135deg, var(--color-cta-green-dark), #033f2e);
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(16, 185, 129, 0.35);
+}
+
+.firm-card__cta--get-started i {
+    font-size: 11px;
+    opacity: 0.8;
+}
+
+.firm-card__cta--details {
+    padding: 10px 14px;
+    background: rgba(99, 102, 241, 0.08);
+    color: var(--color-primary);
+    border: 1px solid rgba(99, 102, 241, 0.15);
+}
+
+.firm-card__cta--details:hover,
+.firm-card__cta--details:focus-visible {
+    background: rgba(99, 102, 241, 0.15);
+    color: var(--color-primary);
+    text-decoration: none;
+    transform: translateY(-1px);
+}
+
+/* ── Favorite Button ── */
+.firm-card-fav {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    z-index: 3;
+    background: rgba(255, 255, 255, 0.85);
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    color: var(--color-text-disabled);
+    font-size: 14px;
+}
+
+.firm-card-fav:hover {
+    background: #fff;
+    transform: scale(1.1);
+    color: #ef4444;
+}
+
+.firm-card-fav.is-favorited {
+    color: #ef4444;
+    background: #fff;
+}
+
+/* ── PFM Score Badge (legacy, now inline) ── */
+.pfm-score-badge {
+    display: none;
+}
+
+/* ── Sort Pills ── */
+.firm-sort-pills {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.firm-sort-label {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 13px;
+}
+
+.firm-sort-pill {
+    font-size: 13px;
+    padding: 4px 10px;
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 0.75);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.firm-sort-pill:hover {
+    color: #fff;
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.firm-sort-pill--active {
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    font-weight: 600;
+}
+
+/* ── View Toggle ── */
+.firm-view-toggle {
+    display: flex;
+    gap: 2px;
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    padding: 2px;
+}
+
+.firm-view-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-size: 16px;
+}
+
+.firm-view-btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.firm-view-btn--active {
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+}
+
+/* ── Account Size Filter ── */
+.account-size-filter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 12px 16px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.account-size-filter__label {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+}
+
+.account-size-filter__label i {
+    font-size: 16px;
+}
+
+.account-size-filter__pills {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.account-size-pill {
+    font-size: 13px;
+    padding: 5px 14px;
+    border-radius: 20px;
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all 0.2s ease;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.account-size-pill:hover {
+    color: #fff;
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
+    text-decoration: none;
+}
+
+.account-size-pill--active {
+    background: linear-gradient(135deg, var(--color-cta-purple, #6453CA), #6366f1);
+    color: #fff;
+    font-weight: 600;
+    border-color: transparent;
+    box-shadow: 0 2px 8px rgba(99, 102, 241, 0.3);
+}
+
+.account-size-pill--active:hover {
+    background: linear-gradient(135deg, #6366f1, #4f46e5);
+    color: #fff;
+}
+
+/* ── Empty State ── */
+.firm-empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.firm-empty-state i {
+    font-size: 48px;
+    margin-bottom: 16px;
+    opacity: 0.5;
+}
+
+.firm-empty-state h3 {
+    color: #fff;
+    margin-bottom: 8px;
+}
+
+.firm-empty-state__btn {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 10px 24px;
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+.firm-empty-state__btn:hover {
+    background: rgba(255, 255, 255, 0.25);
+    color: #fff;
+    text-decoration: none;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+    .firm-card {
+        padding: 18px;
+    }
+
+    .firm-card__metrics {
+        padding: 8px 0;
+    }
+
+    .firm-card__metric-value {
+        font-size: 14px;
+    }
+
+    .firm-sort-pills {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .firm-card__logo {
+        width: 44px;
+        height: 44px;
+    }
+
+    .firm-card__name {
+        font-size: 15px;
+    }
+
+    .firm-card__tp-star {
+        font-size: 13px;
+    }
+
+    .firm-card__metrics {
+        padding: 8px 0;
+        gap: 0;
+    }
+
+    .firm-card__metric {
+        padding: 0 6px;
+    }
+
+    .firm-card__metric-value {
+        font-size: 13px;
+    }
+
+    .firm-card__badges {
+        gap: 4px;
+    }
+
+    .firm-card__badge {
+        font-size: 10px;
+        padding: 2px 7px;
+    }
+
+    .firm-card__cta {
+        padding: 9px 12px;
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 375px) {
+    .firm-card {
+        padding: 16px;
+    }
+
+    .firm-card__header {
+        gap: 10px;
+    }
+
+    .account-size-filter {
+        padding: 10px 12px;
+        gap: 8px;
+    }
+
+    .account-size-pill {
+        font-size: 12px;
+        padding: 4px 10px;
+    }
+}
+
+/* ──────────────────────────────────────────────────────────────
+   14-day PFM-score sparkline (inline SVG) - sits next to the
+   score pill in the card header. Shared styling also applies to
+   the table variant (firm-table.css duplicates only the layout
+   wrapper, the base .pfm-sparkline rules live here).
+   ────────────────────────────────────────────────────────────── */
+.pfm-sparkline {
+    display: inline-block;
+    vertical-align: middle;
+    flex-shrink: 0;
+    overflow: visible;
+    opacity: 0.95;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.firm-card__score + .pfm-sparkline {
+    margin-left: 4px;
+}
+
+.firm-card:hover .pfm-sparkline {
+    opacity: 1;
+    transform: translateY(-1px);
+}
+
+.pfm-sparkline--flat path { opacity: 0.7; }
+.pfm-sparkline--empty    { opacity: 0.45; }
+
+/* Tighter on very small cards */
+@media (max-width: 375px) {
+    .pfm-sparkline { display: none; }
+}
+
+/* ──────────────────────────────────────────────────────────────
+   14-day momentum trio - stacked PFM / TrustPilot / Price
+   sparklines. Used on firm cards, alternatives cards, and any
+   listing context where a single score sparkline isn't enough.
+   The partial renders one .pfm-sparkline-trio wrapper with up to
+   3 .pfm-sparkline-trio__row rows (each row = icon label + SVG).
+   ────────────────────────────────────────────────────────────── */
+.firm-card__trends,
+.altshow-card__trends,
+.altshow-source__trends,
+.alt-firm-card__trends {
+    margin-top: 8px;
+    padding: 8px 10px;
+    background: #fafbff;
+    border: 1px solid #eef0f7;
+    border-radius: 8px;
+}
+
+.firm-card__trends-heading,
+.altshow-card__trends-heading,
+.altshow-source__trends-heading {
+    display: block;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: #8a8fa3;
+    margin-bottom: 4px;
+}
+
+.pfm-sparkline-trio {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.pfm-sparkline-trio__row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-height: 16px;
+}
+
+.pfm-sparkline-trio__label {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--color-text-mid);
+    min-width: 46px;
+    flex-shrink: 0;
+}
+
+.pfm-sparkline-trio__label i {
+    font-size: 12px;
+    color: var(--color-primary);
+}
+
+.pfm-sparkline-trio__row--tp .pfm-sparkline-trio__label i    { color: #00b67a; }
+.pfm-sparkline-trio__row--price .pfm-sparkline-trio__label i { color: var(--color-accent-amber-light); }
+
+.pfm-sparkline-trio__label-text {
+    color: var(--color-text-dark);
+}
+
+.pfm-sparkline-trio__empty {
+    padding: 4px 0;
+}
+
+.pfm-sparkline-trio__empty-label {
+    font-size: 10px;
+    font-style: italic;
+    color: var(--color-text-slate, #616e80);
+}
+
+/* Compact variant: no labels, tight stacking - used on dense cards
+   (e.g. /alternatives index small firm tiles). */
+.pfm-sparkline-trio--compact {
+    gap: 1px;
+}
+
+.pfm-sparkline-trio--compact .pfm-sparkline-trio__row {
+    min-height: 12px;
+}
+
+/* Alternatives-index compact card trend slot - even tighter */
+.alt-firm-card__trends {
+    padding: 6px 8px;
+    margin-top: 6px;
+}
+
+/* Hide entirely on very small phones where rows wrap badly */
+@media (max-width: 375px) {
+    .firm-card__trends,
+    .alt-firm-card__trends {
+        display: none;
+    }
+}
+
+/* Mobile tighten */
+@media (max-width: 520px) {
+    .firm-card__trends,
+    .altshow-card__trends,
+    .altshow-source__trends {
+        padding: 6px 8px;
+    }
+    .pfm-sparkline-trio__label { min-width: 40px; font-size: 9px; }
+    .pfm-sparkline-trio__label i { font-size: 11px; }
+}
+
+
+/* Deal-alert bell row at bottom of firm card */
+.firm-card__alert-row {
+    margin-top: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+/* ──────────────────────────────────────────────────────────────
+   Clickable chip filters - closes dead-click cluster on /firms
+   (Clarity 2026-05-31: 33.33% dead-click rate). Card-view variants
+   of the table-side --link affordance rules.
+   ────────────────────────────────────────────────────────────── */
+.firm-card__type-pill--link,
+.firm-card__safety-grade--link {
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.firm-card__type-pill--link:hover,
+.firm-card__type-pill--link:focus-visible {
+    background: rgba(99, 102, 241, 0.18);
+    color: #4338ca;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(99, 102, 241, 0.18);
+    outline: none;
+    text-decoration: none;
+}
+
+.firm-card__safety-grade--link:hover,
+.firm-card__safety-grade--link:focus-visible {
+    filter: brightness(0.92);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.10);
+    outline: none;
+    text-decoration: none;
+}
+
+.firm-card__type-pill--link:focus-visible,
+.firm-card__safety-grade--link:focus-visible {
+    outline: 2px solid #6366f1;
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .firm-card__type-pill--link,
+    .firm-card__safety-grade--link {
+        transition: none;
+    }
+    .firm-card__type-pill--link:hover,
+    .firm-card__type-pill--link:focus-visible,
+    .firm-card__safety-grade--link:hover,
+    .firm-card__safety-grade--link:focus-visible {
+        transform: none;
+    }
+}

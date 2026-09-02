@@ -1,0 +1,88 @@
+/* ==========================================================================
+   Horizontal-scroll affordance for wide data tables.
+
+   Measured on prod 2026-08-28 at a 375px viewport: /deals renders a 1033px
+   comparison table inside a 315px wrapper (718px, 69% of the table, off screen)
+   and /best/{slug} a 701px table inside 349px (352px, 50% off screen). Both
+   wrappers were plain `overflow-x: auto` with no visual cue, and mobile overlay
+   scrollbars stay invisible until the user already scrolls - so there was no
+   signal at all that the hidden columns existed. Mobile is 48.3% of real /deals
+   pageviews and 45.1% of all real outbound clicks, so this is not an edge case.
+
+   Two independent cues, deliberately split by cost:
+   - Edge shadows: pure CSS, applied by JS only to wrappers that really overflow.
+     No scroll listener and no layout impact.
+   - Text hint: static markup gated on a media query, so it never moves the
+     table after paint. See partials/table-scroll-hint.blade.php.
+   ========================================================================== */
+
+/* Doubled class raises specificity to (0,2,0) so this wins over the per-page
+   `.cat-table-wrap { background: ... }` rules, which load after the globals.
+   --pfm-xscroll-bg is written by table-scroll-affordance.js from the wrapper's
+   own computed background-color, so the fade always matches its real surface. */
+.pfm-xscroll.pfm-xscroll {
+    background:
+        /* Covers: scroll WITH the content, so each shadow is masked at its extreme. */
+        linear-gradient(to right, var(--pfm-xscroll-bg, #fff) 30%, rgba(255, 255, 255, 0)) left center / 44px 100% no-repeat local,
+        linear-gradient(to left, var(--pfm-xscroll-bg, #fff) 30%, rgba(255, 255, 255, 0)) right center / 44px 100% no-repeat local,
+        /* Shadows: pinned to the wrapper's edges. */
+        radial-gradient(farthest-side at 0 50%, rgba(26, 26, 46, 0.20), rgba(26, 26, 46, 0)) left center / 18px 100% no-repeat scroll,
+        radial-gradient(farthest-side at 100% 50%, rgba(26, 26, 46, 0.20), rgba(26, 26, 46, 0)) right center / 18px 100% no-repeat scroll,
+        var(--pfm-xscroll-bg, #fff);
+}
+
+/* JS gives an overflowing wrapper tabindex="0" so it is reachable by keyboard
+   (WCAG 2.1.1 - a scroll container with no focusable child is otherwise a
+   keyboard trap for the hidden columns). Make that focus visible. */
+.pfm-xscroll:focus-visible {
+    outline: 2px solid var(--color-primary, #6366f1);
+    outline-offset: 2px;
+}
+
+/* --------------------------------------------------------------------------
+   "Swipe" hint. Shown only under 768px, where these tables always overflow
+   (the narrowest is 504px wide). Rendered in the HTML rather than injected on
+   load so it never shifts the table down after paint.
+   -------------------------------------------------------------------------- */
+.pfm-table-hint {
+    display: none;
+}
+
+@media (max-width: 767.98px) {
+    .pfm-table-hint {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        width: fit-content;
+        max-width: 100%;
+        margin: 0 auto 10px;
+        padding: 7px 14px;
+        background: var(--color-surface-subtle, #f8f9fa);
+        border: 1px solid var(--color-border-light, #e5e7eb);
+        border-radius: 20px;
+        color: var(--color-text-body, #333);
+        font-size: 13px;
+        font-weight: 600;
+        line-height: 1.3;
+        text-align: center;
+    }
+
+    .pfm-table-hint__icon {
+        flex-shrink: 0;
+        color: var(--color-primary, #6366f1);
+        font-size: 18px;
+        animation: pfm-table-hint-nudge 1.8s ease-in-out infinite;
+    }
+}
+
+@keyframes pfm-table-hint-nudge {
+    0%, 100% { transform: translateX(-2px); }
+    50%      { transform: translateX(2px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .pfm-table-hint__icon {
+        animation: none;
+    }
+}

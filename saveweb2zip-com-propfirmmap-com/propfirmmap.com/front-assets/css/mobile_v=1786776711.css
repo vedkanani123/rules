@@ -1,0 +1,484 @@
+/*
+ * PropFirmMap Mobile Responsive Fixes
+ * Comprehensive mobile styles for 375px and 768px breakpoints.
+ * Loaded after all other stylesheets to override where needed.
+ */
+
+/* ── Mobile Menu Overlay ── */
+.mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 998;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1), visibility 0.3s;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+}
+
+.mobile-menu-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* ── Tablet (max 768px) ── */
+@media (max-width: 768px) {
+
+    /* Header: make it relative so children can position against it */
+    header.pt-5 {
+        padding-top: 1.5rem !important;
+    }
+
+    header .container-fluid > .row {
+        position: relative;
+    }
+
+    /* Logo: remove hacky negative top positioning */
+    .logo {
+        position: static !important;
+        top: auto !important;
+        z-index: 1001 !important;
+        display: block;
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    .logo img {
+        width: 12rem !important;
+    }
+
+    /* Navbar: fixed hamburger position, proper stacking */
+    .navbar {
+        position: static !important;
+        top: auto !important;
+        right: auto !important;
+        width: auto !important;
+        padding: 0 !important;
+        align-items: flex-end !important;
+    }
+
+    /* Hamburger icon: fixed position top-right */
+    .hamburger {
+        display: flex !important;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 1002;
+        padding: 8px;
+        border-radius: 10px;
+        background: rgba(255, 255, 255, 0.12);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        transition: background 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .hamburger:hover,
+    .hamburger.active {
+        background: rgba(255, 255, 255, 0.18);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Mobile menu: animated slide-down panel */
+    .menu {
+        display: flex !important;
+        flex-direction: column;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        background: linear-gradient(165deg, #7A95F8 0%, #6453CA 60%, #5240B0 100%);
+        padding: 72px 20px 28px;
+        gap: 4px;
+        max-height: 100vh;
+        overflow-y: auto;
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+        transform: translateY(-100%);
+        opacity: 0;
+        transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+                    opacity 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        pointer-events: none;
+    }
+
+    .menu.active {
+        transform: translateY(0) !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+    }
+
+    .menu-item,
+    .menu .dropdown {
+        width: 100%;
+    }
+
+    .menu .menu-button {
+        width: 100%;
+        text-align: left;
+        padding: 12px 16px !important;
+        font-size: 15px;
+        font-weight: 500;
+        border: none !important;
+        border-radius: 12px !important;
+        background: rgba(255, 255, 255, 0.07) !important;
+        transition: background 0.2s ease, transform 0.2s ease;
+    }
+
+    .menu .menu-button:hover,
+    .menu .menu-button:active {
+        background: rgba(255, 255, 255, 0.14) !important;
+    }
+
+    /* Preserve amber gradient CTA on mobile menu */
+    .menu .menu-button--cta {
+        background: linear-gradient(135deg, #f59e0b 0%, #f97316 100%) !important;
+        color: #1a1a2e !important;
+        border-radius: 12px !important;
+        font-weight: 600 !important;
+        text-align: center !important;
+        justify-content: center !important;
+        margin-top: 4px;
+        margin-left: 0 !important;
+    }
+    .menu .menu-button--cta:hover,
+    .menu .menu-button--cta:active {
+        background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%) !important;
+        color: #1a1a2e !important;
+    }
+
+    /* Active page in mobile menu */
+    .menu .menu-button--active {
+        background: rgba(255, 255, 255, 0.15) !important;
+        border-left: 3px solid rgba(255, 255, 255, 0.6) !important;
+    }
+
+    .menu .menu-button--active::after {
+        display: none;
+    }
+
+    /* Dropdown content in mobile: static flow, not absolute */
+    .menu .dropdown-content {
+        position: static !important;
+        border: none;
+        background: rgba(0, 0, 0, 0.12);
+        border-radius: 0 0 12px 12px;
+        margin-top: 2px;
+        padding: 4px 4px 6px;
+        box-shadow: inset 0 2px 8px rgba(0, 0, 0, 0.1);
+        backdrop-filter: none;
+        transform: none !important;
+        left: 0;
+        opacity: 1 !important;
+        visibility: visible !important;
+        pointer-events: auto !important;
+    }
+
+    .menu .dropdown:hover > .menu-button {
+        border-radius: 12px 12px 0 0 !important;
+    }
+
+    .menu .dropdown-content a {
+        padding: 10px 16px;
+        font-size: 14px;
+        border-radius: 8px;
+    }
+
+    .menu .dropdown-content a:hover {
+        transform: none;
+    }
+
+    /* Search bar: clean positioning on inner pages */
+    .col-lg-3 .search {
+        margin-top: 8px !important;
+        margin-right: 0 !important;
+        width: 100% !important;
+        padding: 6px 15px !important;
+    }
+
+    /* Search suggestions */
+    .suggestions {
+        width: 100% !important;
+        left: 0 !important;
+        top: 48px !important;
+    }
+
+    /* Page title: scale down for tablet */
+    .page_title {
+        font-size: 34px !important;
+    }
+
+    /* Homepage search title */
+    .search-title {
+        font-size: 34px !important;
+    }
+
+    /* Firm cards in index: 2 columns on tablet */
+    .top_firm_tabs .row > .col-md-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    /* Reduce footer spacer */
+    #main-content {
+        padding-bottom: 60px;
+    }
+
+    /* Tab pills: allow wrapping */
+    .nav-tabs {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* Pagination: a double-digit page count overflows a phone on one line, and
+       because it is centred the first and last pages fall outside the viewport
+       on both sides, where html{overflow-x:hidden} makes them unreachable
+       rather than merely off-screen. Wrapping keeps every page clickable. */
+    .pagination {
+        flex-wrap: wrap;
+        justify-content: center;
+        row-gap: 6px;
+    }
+
+    li.nav-item > a.nav-link {
+        padding: 6px 24px;
+        font-size: 14px;
+    }
+
+    /* Sort controls: wrap nicely */
+    .d-flex.justify-content-center.align-items-center.flex-wrap {
+        gap: 8px !important;
+    }
+}
+
+/* ── Mobile (max 576px) ── */
+@media (max-width: 576px) {
+
+    /* Prevent horizontal scroll on mobile */
+    html, body { overflow-x: hidden; }
+
+    header.pt-5 {
+        padding-top: 1rem !important;
+    }
+
+    .logo img {
+        width: 10rem !important;
+    }
+
+    /* Hamburger tweak for smaller screens */
+    .hamburger {
+        top: 14px;
+        right: 14px;
+    }
+
+    .menu {
+        padding: 64px 16px 24px;
+    }
+
+    .menu .menu-button {
+        padding: 11px 14px !important;
+        font-size: 14px;
+    }
+
+    /* Hide search bar on mobile (homepage has its own) */
+    .col-lg-3:has(.search) {
+        display: none;
+    }
+
+    /* Page title: smaller for phones */
+    .page_title {
+        font-size: 26px !important;
+        padding-top: 0.5rem !important;
+    }
+
+    .search-title {
+        font-size: 26px !important;
+    }
+
+    /* Homepage popular firms: ensure readability */
+    .popular-firm-chip {
+        flex: 0 0 calc(50% - 4px);
+    }
+
+    /* Firm cards: single column on phone */
+    .top_firm_tabs .row > .col-md-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    /* Top rated cards: single column */
+    .col-md-6.col-12.mb-3 .top-rated-card {
+        padding: 12px;
+    }
+
+    /* Tab content: tighter padding */
+    .tab-content {
+        padding: 20px 10px;
+    }
+
+    .footer_div .div-56 {
+        flex-direction: column;
+    }
+
+    .footer_div .div-56 a {
+        font-size: 12px;
+    }
+
+    #main-content {
+        padding-bottom: 40px;
+    }
+
+    /* Review tab cards: reduce padding */
+    .review_tab {
+        padding: 14px;
+    }
+
+    /* Rating bars: make progress title readable */
+    span.progress_title {
+        font-size: 11px;
+        left: 40px;
+    }
+
+    span.progress_titles {
+        font-size: 10px;
+        margin-left: 8px;
+        white-space: nowrap;
+    }
+
+    /* Tab pills: smaller on mobile */
+    li.nav-item > a.nav-link {
+        padding: 6px 16px !important;
+        font-size: 13px;
+    }
+
+    /* Table responsiveness */
+    .table-responsive {
+        overflow-x: auto !important;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* Multi-step form: full width */
+    #multiStepForm {
+        width: 100% !important;
+    }
+
+    /* Checkbox labels: prevent text overflow */
+    .form-check-label {
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+
+    /* Search input on homepage: tighter */
+    .search-input {
+        padding: 14px 16px;
+        font-size: 16px;
+    }
+
+    /* Firm detail promo button */
+    .promo-btn {
+        width: 80% !important;
+    }
+
+    /* Blog cards: full width */
+    .col-md-6.mb-4 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+/* ── Small phones (max 375px) ── */
+@media (max-width: 375px) {
+
+    .logo img {
+        width: 9rem !important;
+    }
+
+    .page_title {
+        font-size: 22px !important;
+    }
+
+    .search-title {
+        font-size: 22px !important;
+    }
+
+    .section-label {
+        font-size: 11px;
+    }
+
+    /* Top rated cards: tighter */
+    .top-rated-card {
+        padding: 10px;
+        gap: 8px !important;
+    }
+
+    .top-rated-card .firm-logo-sm {
+        width: 36px;
+        height: 36px;
+    }
+
+    .top-rated-card .firm-name {
+        font-size: 13px;
+    }
+
+    /* Score badge: smaller */
+    .pfm-score-badge {
+        padding: 3px 6px;
+    }
+
+    .pfm-score-value {
+        font-size: 14px;
+    }
+
+    /* Cookie consent: tighter */
+    .cookie-consent__inner {
+        padding: 12px 14px;
+        margin: 0 6px 6px;
+    }
+
+    .cookie-consent__text {
+        font-size: 12px;
+    }
+
+    .cookie-consent__btn {
+        font-size: 12px;
+        padding: 6px 16px;
+    }
+}
+
+/* ── Promo-code copy buttons: tap target ──
+ * Keyed to [data-copy-code], the same contract main.js already delegates on,
+ * so every copy control is covered and a new one cannot ship undersized.
+ * Measured on prod at 375px before this rule: 24-43px against a 44px floor
+ * across all 9 rendering classes (.firm-promo-code alone already cleared it).
+ * min-height rather than padding, so the pill grows without reflowing its
+ * neighbours; each of these is already a flex box, so align-items centres
+ * the label and value inside the taller box. */
+@media (max-width: 767px) {
+    [data-copy-code] {
+        min-height: var(--touch-target-min);
+        align-items: center;
+    }
+
+    /* .cmp-promo-code is the only copy control that is not already a flex
+       box (display:block), so the rule above would leave its label sitting
+       at the top of the taller button instead of centred. */
+    .cmp-promo-code {
+        display: inline-flex;
+        justify-content: center;
+    }
+}
+
+/* ── Extra 375px refinements ── */
+@media (max-width: 375px) {
+    .firm-sort-pills { gap: 4px; }
+    .firm-sort-pill { font-size: 11px; padding: 4px 8px; }
+    .firm-sort-label { font-size: 11px; }
+    .firm-filter-group__pills { gap: 4px; }
+    .firm-filter-pill { font-size: 11px; padding: 4px 10px; }
+    .footer-columns { grid-template-columns: 1fr 1fr !important; gap: 16px; }
+    .footer-col__title { font-size: 13px; }
+    .footer-col a { font-size: 12px; padding: 6px 0; }
+}

@@ -1,0 +1,54 @@
+/* Floating compare tray (premium light). */
+.cmp-tray {
+    position: fixed; left: 50%; bottom: 18px; transform: translateX(-50%) translateY(140%);
+    z-index: 1200; max-width: 94vw; opacity: 0; transition: transform 0.28s ease, opacity 0.28s ease;
+    pointer-events: none;
+}
+.cmp-tray.is-on { transform: translateX(-50%) translateY(0); opacity: 1; pointer-events: auto; }
+.cmp-tray__inner {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    background: #ffffff; border: 1px solid var(--color-border-light, #e5e7eb);
+    border-radius: 16px; padding: 10px 14px;
+    box-shadow: 0 14px 44px rgba(17, 24, 39, 0.18), 0 2px 6px rgba(17, 24, 39, 0.06);
+}
+.cmp-tray__title { font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: #8b84ad; }
+.cmp-tray__chips { display: flex; gap: 8px; flex-wrap: wrap; }
+.cmp-tray__chip {
+    display: inline-flex; align-items: center; gap: 6px;
+    background: #f7f5ff; border: 1px solid #e7e2f7; border-radius: 20px; padding: 4px 6px 4px 8px;
+    font-size: 12.5px; font-weight: 600; color: #46406b;
+}
+.cmp-tray__chip img { width: 18px; height: 18px; border-radius: 4px; object-fit: contain; background: #fff; }
+.cmp-tray__chip button { border: none; background: #e0d9f5; color: #5a49bf; width: 18px; height: 18px; border-radius: 50%; cursor: pointer; line-height: 1; font-size: 14px; transition: background 0.2s ease; }
+.cmp-tray__chip button:hover { background: #d0c5f0; }
+.cmp-tray__chip button:focus-visible { outline-offset: 2px; }
+.cmp-tray__actions { display: flex; align-items: center; gap: 10px; margin-left: auto; }
+.cmp-tray__clear { border: none; background: none; color: #9a93b8; font-size: 13px; font-weight: 600; cursor: pointer; transition: color 0.2s ease; }
+.cmp-tray__clear:hover { color: #5a49bf; }
+.cmp-tray__go {
+    display: inline-flex; align-items: center; gap: 6px; text-decoration: none;
+    background: linear-gradient(135deg, #6d5ef0, #5a49bf); color: #fff; font-size: 14px; font-weight: 700;
+    padding: 10px 18px; border-radius: 11px; box-shadow: 0 4px 14px rgba(90, 73, 191, 0.34);
+    transition: filter 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+.cmp-tray__go:hover { filter: brightness(1.06); color: #fff; transform: translateY(-1px); box-shadow: 0 6px 18px rgba(90, 73, 191, 0.4); }
+.cmp-tray__go:focus-visible { outline-color: #fff; outline-offset: -3px; }
+
+.cmp-toast {
+    position: fixed; left: 50%; bottom: 90px; transform: translateX(-50%) translateY(10px);
+    background: #1a1a2e; color: #fff; font-size: 13px; font-weight: 600; padding: 10px 16px; border-radius: 10px;
+    z-index: 1300; opacity: 0; transition: opacity 0.2s ease, transform 0.2s ease; pointer-events: none;
+}
+.cmp-toast.is-on { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+@media (max-width: 600px) {
+    .cmp-tray { left: 8px; right: 8px; bottom: 8px; transform: translateY(140%); max-width: none; }
+    .cmp-tray.is-on { transform: translateY(0); }
+    .cmp-tray__inner { border-radius: 13px; }
+    .cmp-tray__title { display: none; }
+}
+
+/* Respect reduced-motion: snap the tray/toast into place instead of sliding. */
+@media (prefers-reduced-motion: reduce) {
+    .cmp-tray, .cmp-toast { transition: none; }
+}

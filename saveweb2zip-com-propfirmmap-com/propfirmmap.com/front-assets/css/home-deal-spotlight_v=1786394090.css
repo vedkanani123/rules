@@ -1,0 +1,600 @@
+/* Homepage Deal Spotlight (Exp 13)
+ *
+ * Single horizontal banner card pinned above the Hot Deals 4-card grid on /.
+ * Distinct from /deals Deal of the Day hero (which is full-bleed). This is
+ * compact, opaque (per CLAUDE.md OPAQUE-BACKGROUND RULE) and fits the existing
+ * homepage rhythm - wider than a hot-deal card, shorter than the /deals hero.
+ *
+ * Layout: 3-column grid on desktop (discount badge | body | CTA), collapses
+ * to single column at <768px with discount + body in a row above the CTA.
+ */
+
+.home-deal-spotlight {
+    position: relative;
+    margin: 0 0 32px;
+    padding: 24px 24px 20px;
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 55%, #fde68a 100%), var(--color-surface-card, #fff);
+    border: 1.5px solid #f59e0b;
+    border-radius: 18px;
+    box-shadow: 0 10px 32px rgba(245, 158, 11, 0.18), 0 2px 6px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+    isolation: isolate;
+    cursor: pointer;
+    transition: box-shadow 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.home-deal-spotlight::before {
+    content: "";
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    width: 180px;
+    height: 180px;
+    background: radial-gradient(circle, rgba(245, 158, 11, 0.20) 0%, rgba(245, 158, 11, 0) 70%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+.home-deal-spotlight__ribbon {
+    position: absolute;
+    top: 0;
+    left: 20px;
+    transform: translateY(-50%);
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: linear-gradient(135deg, #ef4444, #dc2626);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    padding: 5px 12px;
+    border-radius: 999px;
+    box-shadow: 0 4px 12px rgba(239, 68, 68, 0.32);
+    z-index: 2;
+}
+
+.home-deal-spotlight__ribbon i {
+    font-size: 13px;
+}
+
+.home-deal-spotlight__inner {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 24px;
+    align-items: center;
+}
+
+.home-deal-spotlight__discount {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 92px;
+    padding: 10px 6px;
+    background: #fff;
+    border: 2px solid #f59e0b;
+    border-radius: 14px;
+    box-shadow: 0 4px 12px rgba(245, 158, 11, 0.18);
+}
+
+.home-deal-spotlight__discount-num {
+    font-size: 36px;
+    font-weight: 900;
+    color: #92400e;
+    line-height: 1;
+    letter-spacing: -0.02em;
+}
+
+.home-deal-spotlight__discount-off {
+    font-size: 11px;
+    font-weight: 800;
+    color: #b45309;
+    letter-spacing: 0.1em;
+    margin-top: 4px;
+}
+
+.home-deal-spotlight__body {
+    min-width: 0;
+}
+
+.home-deal-spotlight__firm-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 6px;
+}
+
+.home-deal-spotlight__logo {
+    flex-shrink: 0;
+    width: 44px !important;
+    height: 44px !important;
+    border-radius: 10px;
+    object-fit: contain;
+    background: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.home-deal-spotlight__firm-text {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+}
+
+.home-deal-spotlight__firm-name {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1a1a2e;
+    text-decoration: none;
+    line-height: 1.1;
+}
+
+.home-deal-spotlight__firm-name:hover,
+.home-deal-spotlight__firm-name:focus-visible {
+    color: #92400e;
+    text-decoration: underline;
+}
+
+.home-deal-spotlight__chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.home-deal-spotlight__chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 700;
+    border-radius: 999px;
+    text-decoration: none;
+    line-height: 1.5;
+}
+
+.home-deal-spotlight__chip--grade {
+    background: rgba(99, 102, 241, 0.12);
+    color: #4f46e5;
+}
+
+.home-deal-spotlight__chip--tp {
+    background: rgba(0, 182, 122, 0.12);
+    color: #00724d;
+    transition: background-color 0.18s ease;
+}
+
+.home-deal-spotlight__chip--tp:hover,
+.home-deal-spotlight__chip--tp:focus-visible {
+    background: rgba(0, 182, 122, 0.22);
+}
+
+.home-deal-spotlight__chip--tp i {
+    font-size: 11px;
+    color: #00b67a;
+}
+
+.home-deal-spotlight__headline {
+    font-size: 22px;
+    font-weight: 800;
+    color: #1a1a2e;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    margin: 8px 0 10px;
+}
+
+.home-deal-spotlight__meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+}
+
+.home-deal-spotlight__code-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    background: #fff;
+    border: 1.5px dashed #f59e0b;
+    border-radius: 8px;
+    font-family: ui-monospace, "SF Mono", Menlo, Monaco, "Cascadia Mono", monospace;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.home-deal-spotlight__code-label {
+    font-size: 9px;
+    font-weight: 800;
+    color: #b45309;
+    letter-spacing: 0.12em;
+}
+
+.home-deal-spotlight__code-value {
+    font-size: 13px;
+    font-weight: 800;
+    color: #92400e;
+    letter-spacing: 0.04em;
+}
+
+.home-deal-spotlight__from {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    color: #555;
+}
+
+.home-deal-spotlight__from i {
+    color: #b45309;
+    font-size: 13px;
+}
+
+.home-deal-spotlight__from strong {
+    color: #1a1a2e;
+    font-weight: 800;
+}
+
+.home-deal-spotlight__cta-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 6px;
+    min-width: 200px;
+}
+
+.home-deal-spotlight__cta {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 14px 20px;
+    background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 55%, #d97706 100%);
+    color: #1a1a2e;
+    font-size: 15px;
+    font-weight: 800;
+    text-decoration: none;
+    border-radius: 12px;
+    border: 1.5px solid rgba(146, 64, 14, 0.25);
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.4),
+        0 8px 18px rgba(245, 158, 11, 0.32);
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1),
+                background 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    letter-spacing: 0.01em;
+}
+
+.home-deal-spotlight__cta:hover,
+.home-deal-spotlight__cta:focus-visible {
+    transform: translateY(-1px);
+    background: linear-gradient(135deg, #f59e0b 0%, #d97706 55%, #b45309 100%);
+    color: #1a1a2e;
+    text-decoration: none;
+    box-shadow:
+        inset 0 1px 0 rgba(255, 255, 255, 0.4),
+        0 12px 24px rgba(245, 158, 11, 0.4);
+}
+
+.home-deal-spotlight__cta:active {
+    transform: translateY(0);
+}
+
+.home-deal-spotlight__cta-arrow {
+    font-size: 18px;
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.home-deal-spotlight__cta:hover .home-deal-spotlight__cta-arrow,
+.home-deal-spotlight__cta:focus-visible .home-deal-spotlight__cta-arrow {
+    transform: translateX(4px);
+}
+
+.home-deal-spotlight__cta-sub {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    font-size: 11px;
+    color: #92400e;
+    font-weight: 600;
+}
+
+.home-deal-spotlight__cta-sub i {
+    font-size: 12px;
+    color: #059669;
+}
+
+/* Tablet */
+@media (max-width: 991px) {
+    .home-deal-spotlight {
+        padding: 20px 18px 16px;
+    }
+    .home-deal-spotlight__headline {
+        font-size: 19px;
+    }
+    .home-deal-spotlight__discount {
+        min-width: 80px;
+    }
+    .home-deal-spotlight__discount-num {
+        font-size: 30px;
+    }
+}
+
+/* Mobile - collapse 3-col grid into 2 rows: [discount + body] then [CTA full-width] */
+@media (max-width: 768px) {
+    .home-deal-spotlight {
+        padding: 18px 16px 14px;
+        margin-bottom: 24px;
+    }
+    .home-deal-spotlight__inner {
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto auto;
+        gap: 14px 14px;
+    }
+    .home-deal-spotlight__discount {
+        grid-row: 1;
+        grid-column: 1;
+        min-width: 72px;
+        padding: 8px 6px;
+    }
+    .home-deal-spotlight__discount-num {
+        font-size: 26px;
+    }
+    .home-deal-spotlight__body {
+        grid-row: 1;
+        grid-column: 2;
+    }
+    .home-deal-spotlight__cta-wrap {
+        grid-row: 2;
+        grid-column: 1 / -1;
+        min-width: 0;
+    }
+    .home-deal-spotlight__headline {
+        font-size: 17px;
+        margin: 4px 0 8px;
+    }
+    .home-deal-spotlight__firm-row {
+        gap: 8px;
+        margin-bottom: 4px;
+    }
+    .home-deal-spotlight__logo {
+        width: 36px !important;
+        height: 36px !important;
+    }
+    .home-deal-spotlight__cta {
+        padding: 13px 18px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-deal-spotlight__headline {
+        font-size: 16px;
+    }
+    .home-deal-spotlight__chips {
+        gap: 4px;
+    }
+}
+
+/* ============================================================================
+ * Hero variant - pinned ABOVE the H1 in the homepage hero (Exp 13 fix 2026-05-18).
+ *
+ * Why: 105 home_deal_impression / 0 home_deal_click over 7d in the original
+ * placement (after the Pulse section, ~600-900px below the fold on 375x667).
+ * Mobile visitors never scrolled to it. Hero placement guarantees above-fold
+ * visibility - the trade-off is the spotlight competes with the H1 and CTAs
+ * for visual attention, so this variant runs SHORTER & TIGHTER than the base
+ * banner:
+ *   - 16px top margin (was 0) so it has breathing room below the eyebrow pill
+ *   - 18px bottom margin (was 32px) so H1 sits close behind
+ *   - Discount badge shrinks (92→72px on desktop, 72→62px on mobile)
+ *   - Headline tightens to 18px so the row stays compact
+ *   - CTA min-width reduced so the 3-col grid fits typical hero widths
+ * ============================================================================ */
+.home-deal-spotlight--hero {
+    margin: 16px 0 18px;
+    padding: 18px 20px 14px;
+    box-shadow: 0 6px 22px rgba(245, 158, 11, 0.16), 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__inner {
+    gap: 18px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__discount {
+    min-width: 72px;
+    padding: 8px 6px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__discount-num {
+    font-size: 28px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__discount-off {
+    font-size: 10px;
+    margin-top: 3px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__headline {
+    font-size: 18px;
+    margin: 6px 0 8px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__cta-wrap {
+    min-width: 168px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__cta {
+    padding: 12px 18px;
+    font-size: 14px;
+}
+
+.home-deal-spotlight--hero .home-deal-spotlight__logo {
+    width: 38px !important;
+    height: 38px !important;
+}
+
+/* Hero variant on tablet - keep compact, don't grow back to base sizes */
+@media (max-width: 991px) {
+    .home-deal-spotlight--hero {
+        padding: 16px 16px 12px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__headline {
+        font-size: 17px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__discount-num {
+        font-size: 26px;
+    }
+}
+
+/* Hero variant on mobile - tightest packing so spotlight + H1 both stay above
+ * the iPhone SE fold (375x667). Discount + body stack horizontally on row 1,
+ * CTA spans full-width on row 2. Total height target: ≤200px. */
+@media (max-width: 768px) {
+    .home-deal-spotlight--hero {
+        margin: 12px 0 14px;
+        padding: 14px 14px 12px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__inner {
+        gap: 10px 12px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__discount {
+        min-width: 62px;
+        padding: 6px 4px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__discount-num {
+        font-size: 22px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__discount-off {
+        font-size: 9px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__headline {
+        font-size: 15px;
+        margin: 2px 0 6px;
+        line-height: 1.2;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__logo {
+        width: 32px !important;
+        height: 32px !important;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__firm-name {
+        font-size: 13px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__cta {
+        padding: 11px 16px;
+        font-size: 13px;
+    }
+    /* Ribbon shrinks too so it doesn't overlap the firm logo when squeezed */
+    .home-deal-spotlight--hero .home-deal-spotlight__ribbon {
+        font-size: 10px;
+        padding: 4px 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .home-deal-spotlight--hero .home-deal-spotlight__headline {
+        font-size: 14px;
+    }
+    .home-deal-spotlight--hero .home-deal-spotlight__chips {
+        gap: 4px;
+    }
+    /* Hide the "from $X" meta on the smallest viewports - the discount badge
+     * + headline + code pill already carry the value prop. */
+    .home-deal-spotlight--hero .home-deal-spotlight__from {
+        display: none;
+    }
+}
+
+/* Reduced-motion guard - neutralize transforms but keep gradient/shadow weight */
+@media (prefers-reduced-motion: reduce) {
+    .home-deal-spotlight__cta,
+    .home-deal-spotlight__cta-arrow,
+    .home-deal-spotlight__chip--tp {
+        transition: none;
+    }
+    .home-deal-spotlight__cta:hover,
+    .home-deal-spotlight__cta:focus-visible {
+        transform: none;
+    }
+    .home-deal-spotlight__cta:hover .home-deal-spotlight__cta-arrow,
+    .home-deal-spotlight__cta:focus-visible .home-deal-spotlight__cta-arrow {
+        transform: none;
+    }
+    .home-deal-spotlight {
+        transition: none;
+    }
+}
+
+/* Stretched card-link overlay (Exp 13 CTR fix 2026-05-21).
+ *
+ * The entire spotlight is a clickable anchor. Inner interactive elements
+ * (firm-name link, TrustPilot chip, CTA button) sit above the card-link via
+ * z-index so they preserve their own click destinations:
+ *   - card-link  → /out/?src=home_deal  (affiliate)
+ *   - firm-name  → /firms/{slug}        (research)
+ *   - TP chip    → trustpilot.com       (offsite trust signal)
+ *   - CTA button → /out/?src=home_deal  (same as card-link, kept for affordance)
+ *
+ * Empty space inside .home-deal-spotlight__inner is pointer-events: none so
+ * clicks bubble through to the card-link beneath. Each interactive element
+ * re-enables pointer-events: auto via position:relative + z-index. */
+.home-deal-spotlight__card-link {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    display: block;
+    border-radius: inherit;
+    text-decoration: none;
+}
+.home-deal-spotlight__card-link:focus {
+    outline: none;
+}
+.home-deal-spotlight__ribbon,
+.home-deal-spotlight__inner {
+    position: relative;
+    z-index: 2;
+    pointer-events: none;
+}
+/* Re-enable pointer events on every element a user might legitimately want
+ * to click independently of the affiliate destination. */
+.home-deal-spotlight__firm-name,
+.home-deal-spotlight__chip--tp,
+.home-deal-spotlight__cta,
+.home-deal-spotlight__code-pill {
+    position: relative;
+    z-index: 3;
+    pointer-events: auto;
+}
+/* Subtle whole-card hover affordance so visitors understand the card itself
+ * is clickable. Mirrors the lift/shadow that already exists on .__cta but at
+ * a lighter touch so the CTA still reads as the primary action. */
+.home-deal-spotlight:hover,
+.home-deal-spotlight:focus-within {
+    box-shadow: 0 14px 40px rgba(245, 158, 11, 0.26), 0 4px 10px rgba(0, 0, 0, 0.06);
+}
+@media (prefers-reduced-motion: reduce) {
+    .home-deal-spotlight:hover,
+    .home-deal-spotlight:focus-within {
+        box-shadow: 0 10px 32px rgba(245, 158, 11, 0.18), 0 2px 6px rgba(0, 0, 0, 0.05);
+    }
+}
+
+/* The code pill was an inert span styled to look interactive: a documented
+   dead-click shape. It is a real copy button now, so it needs both terminal
+   states - copied, and clipboard-unavailable (in-app WebViews) where the code
+   is auto-selected for manual copying instead. */
+.home-deal-spotlight__code-pill.is-copied {
+    background: #ecfdf5;
+    border-color: #047857;
+    color: #047857;
+}
+
+.home-deal-spotlight__code-pill.is-copyfail {
+    background: #fef2f2;
+    border-color: #b91c1c;
+    color: #b91c1c;
+}
