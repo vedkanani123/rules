@@ -155,6 +155,124 @@ const VisualGeneric: React.FC<{icon:any, label:string, desc:string}> = ({icon:Ic
   </div>
 );
 
+// EOD snapshot: floor steps only at close, enforced live
+const VisualEOD: React.FC = () => {
+  const [day, setDay] = React.useState(0);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setDay(v => (v + 1) % 3), 1400);
+    return () => clearInterval(id);
+  }, []);
+  const closes = [100800, 101500, 101000];
+  const floor = closes[day] - 2000;
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 flex flex-col gap-2">
+      <div className="flex justify-between text-[10px] font-mono text-white/30"><span>EOD close ${closes[day].toLocaleString()}</span><span className="text-cyan-400">Floor ${floor.toLocaleString()}</span></div>
+      <div className="flex gap-1.5 flex-1 items-end">{closes.map((c, i) => (<div key={i} className={`flex-1 rounded ${i <= day ? 'bg-cyan-500/60' : 'bg-[#1F2228]'}`} style={{ height: `${30 + (c - 100000) / 25}%` }} />))}</div>
+      <p className="text-[10px] text-white/40">Floor steps at close only • enforced live</p>
+    </div>
+  );
+};
+// Static vs trailing comparison bars
+const VisualStaticVsTrailing: React.FC = () => {
+  const [peak, setPeak] = React.useState(102000);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setPeak(v => (v >= 108000 ? 100500 : v + 1000)), 900);
+    return () => clearInterval(id);
+  }, []);
+  const staticFloor = 92000; const trailFloor = Math.min(100000, peak - 8000);
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 flex flex-col gap-2">
+      <div className="flex justify-between text-[10px] font-mono text-white/30"><span>Peak ${peak.toLocaleString()}</span><span>Static $92K vs Trail ${trailFloor.toLocaleString()}</span></div>
+      <div className="h-2 rounded-full bg-[#1F2228] relative overflow-hidden"><div className="absolute inset-y-0 left-0 bg-emerald-500/70" style={{ width: `${((staticFloor - 90000) / 20000) * 100}%` }} /><div className="absolute inset-y-0 bg-amber-500/70" style={{ left: `${((staticFloor - 90000) / 20000) * 100}%`, width: `${((trailFloor - staticFloor) / 20000) * 100}%` }} /></div>
+      <div className="flex gap-2 text-[10px]"><span className="text-emerald-400">■ Static locked</span><span className="text-amber-400">■ Trail drag</span></div>
+    </div>
+  );
+};
+// 80% margin gambling gauge
+const VisualMargin80: React.FC = () => {
+  const [use, setUse] = React.useState(45);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setUse(v => (v >= 95 ? 40 : v + 9)), 800);
+    return () => clearInterval(id);
+  }, []);
+  const bad = use >= 80;
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 flex flex-col gap-2">
+      <div className="flex justify-between text-[10px] font-mono text-white/30"><span>Margin {use}%</span><span className={bad ? 'text-red-400' : 'text-emerald-400'}>{bad ? 'FLAGGED' : 'SAFE'}</span></div>
+      <div className="h-3 rounded-full bg-[#1F2228] relative overflow-hidden"><div className={`h-full transition-all duration-500 ${bad ? 'bg-red-500' : 'bg-emerald-500'}`} style={{ width: `${use}%` }} /><div className="absolute inset-y-0 w-0.5 bg-white/70" style={{ left: '80%' }} /></div>
+      <p className="text-[10px] text-white/40">White line = 80% gambling tripwire</p>
+    </div>
+  );
+};
+// IP cluster: linked nodes light up
+const VisualIPCluster: React.FC = () => {
+  const [on, setOn] = React.useState(false);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setOn(v => !v), 1200);
+    return () => clearInterval(id);
+  }, []);
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 flex flex-col gap-2">
+      <div className="flex justify-between text-[10px] font-mono text-white/30"><span>Shared VPS 192.0.2.14</span><span className={on ? 'text-red-400' : 'text-white/30'}>{on ? '3 linked → review' : 'scanning…'}</span></div>
+      <div className="flex items-center justify-center gap-3 flex-1">{[0, 1, 2].map(i => (<div key={i} className={`w-9 h-9 rounded-full border flex items-center justify-center text-[10px] font-bold transition-colors ${on ? 'bg-red-500/20 border-red-500/40 text-red-300' : 'bg-[#111318] border-[#1F2228] text-white/40'}`}>A{i + 1}</div>))}</div>
+      <p className="text-[10px] text-white/40 text-center">Same IP + mirrored entries = cluster flag</p>
+    </div>
+  );
+};
+// Payout ladder steps
+const VisualPayoutLadder: React.FC = () => {
+  const [step, setStep] = React.useState(0);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setStep(v => (v + 1) % 4), 1100);
+    return () => clearInterval(id);
+  }, []);
+  const caps = ['$1.5K', '$2K', '$3K', 'Uncapped'];
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 flex flex-col gap-2">
+      <div className="flex gap-1.5 flex-1">{caps.map((c, i) => (<div key={c} className={`flex-1 rounded-lg border flex items-end justify-center pb-2 text-[10px] font-mono font-bold transition-colors ${i <= step ? 'bg-emerald-500/15 border-emerald-500/30 text-emerald-300' : 'bg-[#111318] border-[#1F2228] text-white/25'}`} style={{ height: `${55 + i * 15}%` }}>{c}</div>))}</div>
+      <p className="text-[10px] text-white/40 text-center">Cycle {step + 1}/4 • caps lift with consistency</p>
+    </div>
+  );
+};
+// Hard vs soft breach split panel
+const VisualBreachType: React.FC = () => {
+  const [hard, setHard] = React.useState(true);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setHard(v => !v), 1500);
+    return () => clearInterval(id);
+  }, []);
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 grid grid-cols-2 gap-2">
+      <div className={`rounded-lg border p-2 text-center transition-colors ${hard ? 'bg-red-500/15 border-red-500/40' : 'bg-[#111318] border-[#1F2228]'}`}><p className="text-[10px] font-bold text-red-400">HARD</p><p className="text-[10px] text-white/50">Daily / max / cap = dead</p></div>
+      <div className={`rounded-lg border p-2 text-center transition-colors ${!hard ? 'bg-amber-500/15 border-amber-500/40' : 'bg-[#111318] border-[#1F2228]'}`}><p className="text-[10px] font-bold text-amber-400">SOFT</p><p className="text-[10px] text-white/50">Margin / target / hold</p></div>
+      <p className="col-span-2 text-[10px] text-white/40 text-center">{hard ? 'Hard touch → instant termination' : 'Soft flag → recoverable warning'}</p>
+    </div>
+  );
+};
+// All-in cost stack
+const VisualCost: React.FC = () => {
+  const [resets, setResets] = React.useState(0);
+  React.useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    const id = setInterval(() => setResets(v => (v + 1) % 3), 1300);
+    return () => clearInterval(id);
+  }, []);
+  const total = 499 + resets * 349 + 50;
+  return (
+    <div className="h-[118px] rounded-xl bg-[#080A10] border border-[#1F2228] p-3 flex flex-col gap-2">
+      <div className="flex justify-between text-[10px] font-mono text-white/30"><span>$499 + {resets} reset(s) + $50</span><span className="text-emerald-400">Total ${total}</span></div>
+      <div className="flex h-3 rounded-full overflow-hidden bg-[#1F2228]"><div className="bg-sky-500/80" style={{ width: `${(499 / total) * 100}%` }} /><div className="bg-amber-500/80" style={{ width: `${((resets * 349) / total) * 100}%` }} /><div className="bg-emerald-500/80" style={{ width: `${(50 / total) * 100}%` }} /></div>
+      <p className="text-[10px] text-white/40">■ Fee ■ Resets ■ Activation • refund only at payout</p>
+    </div>
+  );
+};
+
 const visuals: Record<string, React.FC> = {
   'daily-drawdown': VisualDaily,
   'trailing-drawdown': VisualTrailing,
