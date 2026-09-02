@@ -173,6 +173,21 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
               </div>
               <button onClick={()=>onNavigate('/prop-firms')} className="shrink-0 px-4 py-2 rounded-full bg-white text-[#080A10] text-xs font-semibold">Compare firms →</button>
             </section>
+
+            {relatedGuides.length > 0 && (
+              <section className="rounded-2xl bg-[#111318] border border-[#1F2228] p-6">
+                <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] mb-1">Related guides</p>
+                <h2 className="text-[15px] font-semibold text-white mb-4">Keep learning this cluster</h2>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                  {relatedGuides.map(r => (
+                    <button key={r.slug} onClick={()=>onNavigate(`/rules/${r.slug}`)} className="text-left p-3 rounded-xl bg-[#080A10] border border-[#1F2228] hover:border-sky-500/30 transition-colors">
+                      <p className="text-[13px] font-medium text-white">{r.name}</p>
+                      <p className="text-[11px] text-white/40 mt-0.5 line-clamp-1">{r.shortDefinition}</p>
+                    </button>
+                  ))}
+                </div>
+              </section>
+            )}
           </div>
 
           <div className="lg:col-span-4 space-y-6">
