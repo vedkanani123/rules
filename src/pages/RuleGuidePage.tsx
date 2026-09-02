@@ -14,6 +14,46 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
   const prev = idx>0 ? allGuides[idx-1] : null;
   const next = idx<allGuides.length-1 ? allGuides[idx+1] : null;
 
+  const FIRM_SLUG_MAP: Record<string, string> = {
+    'goat funded trader': 'goat-funded-trader',
+    'ftmo': 'ftmo',
+    'funding pips': 'funding-pips',
+    'fundednext': 'funded-next',
+    'funded next': 'funded-next',
+    'the5ers': 'the-5ers',
+    'the 5ers': 'the-5ers',
+    'topstep': 'topstep',
+    'apex trader funding': 'apex-trader-funding',
+    'apex': 'apex-trader-funding',
+    'take profit trader': 'take-profit-trader',
+    'alpha capital': 'alpha-capital',
+  };
+  const primaryFirmName = guide.firmsUsing?.[0]?.firmName ?? '';
+  const primaryFirmSlug = FIRM_SLUG_MAP[primaryFirmName.trim().toLowerCase()] ?? '';
+  const primaryFirmHref = primaryFirmSlug ? `/prop-firms/${primaryFirmSlug}` : '/prop-firms';
+
+  const isNewsGuide = guide.slug === 'news-trading-restrictions' || guide.slug === 'weekend-overnight' || guide.slug === 'trading-hours-rollover' || guide.slug === 'instruments-hours-trading';
+  const isPayoutGuide = guide.category === 'Payout Rules' || guide.slug.includes('payout') || guide.slug === 'profit-split-progression' || guide.slug === 'refund-chargeback';
+  const isRiskGuide = guide.category === 'Risk Management';
+  const caughtText = isNewsGuide
+    ? 'This rule is often buried in FAQ or enforced only on funded accounts — not on the pricing page. Marketing says "allowed", FAQ says "2-min buffer" around red-folder news. Our engine flags it as Easy-to-Miss.'
+    : isPayoutGuide
+      ? 'Payout rules hide behind headline splits. Minimum profit, winning-day counts, consistency caps, safety buffers, and KYC must all clear — fail one and the payout button stays hidden with no explanation.'
+      : isRiskGuide
+        ? 'Risk floors are enforced tick by tick against live equity including spread and swaps. Server-time resets and intraday peaks shrink usable room far below what the headline percent suggests.'
+        : 'This rule is often buried in FAQ or enforced only at payout review — not on the pricing page. Check the exact firm wording before assuming the headline covers your case.';
+  const safeText = isNewsGuide
+    ? 'Check the Source Inspector for the exact FAQ excerpt, flatten or halve size into the ±2-min window, and cancel pending stop orders before red-folder releases.'
+    : isPayoutGuide
+      ? 'Track winning days, best-day %, buffer distance, and KYC status in one checklist before requesting. Keep trading normally while the request queues.'
+      : isRiskGuide
+        ? 'Check the Source Inspector for the exact FAQ excerpt, test your equity distance in the simulator, and keep a 20% buffer above the nearest floor.'
+        : 'Verify the firm terms excerpt, keep evidence logs of your setup, and test edge cases in the simulator before sizing up.';
+
+  const relatedGuides = (guide.relatedSlugs || [])
+    .map(s => allGuides.find(g => g.slug === s))
+    .filter((g): g is RuleGuideItem => Boolean(g));
+
   return (
     <div className="bg-[#080A10] min-h-screen">
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8 pb-16">
