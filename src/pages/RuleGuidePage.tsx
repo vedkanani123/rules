@@ -214,7 +214,13 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug, onNavig
               <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] mb-3">Quick check</p>
               <div className="space-y-2.5 text-[13px]">
                 <div className="flex items-center justify-between p-3 rounded-xl bg-[#080A10] border border-[#1F2228]"><span className="text-white/40">Category</span><span className="font-medium text-white text-xs">{guide.category}</span></div>
-                <div className="flex items-center justify-between p-3 rounded-xl bg-[#080A10] border border-amber-500/15"><span className="text-white/40">Risk if ignored</span><span className="font-medium text-amber-400 text-xs">High — breach</span></div>
+                <div className="flex items-center justify-between p-3 rounded-xl bg-[#080A10] border border-amber-500/15"><span className="text-white/40">Risk if ignored</span><span className="font-medium text-amber-400 text-xs">{guide.riskLevel ? `${guide.riskLevel} — breach` : 'High — breach'}</span></div>
+                {guide.stageScope && (
+                  <div className="flex items-center justify-between p-3 rounded-xl bg-[#080A10] border border-[#1F2228]"><span className="text-white/40">Stage scope</span><span className="font-medium text-white text-xs">{guide.stageScope}</span></div>
+                )}
+                {guide.appliesTo && guide.appliesTo.length > 0 && (
+                  <div className="p-3 rounded-xl bg-[#080A10] border border-[#1F2228]"><p className="text-white/40 text-xs mb-1.5">Applies to</p><div className="flex flex-wrap gap-1.5">{guide.appliesTo.map(a => (<span key={a} className="px-2 py-1 rounded-full bg-white/5 border border-white/10 text-[11px] text-white/60">{a}</span>))}</div></div>
+                )}
                 <div className="flex items-center justify-between p-3 rounded-xl bg-[#080A10] border border-[#1F2228]"><span className="text-white/40">Source</span><span className="font-medium text-emerald-400 text-xs">FAQ + Terms ✓</span></div>
               </div>
             </div>
