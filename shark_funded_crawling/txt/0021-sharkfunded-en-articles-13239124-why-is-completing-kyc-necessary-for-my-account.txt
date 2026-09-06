@@ -1,0 +1,15 @@
+TITLE: Why Is Completing KYC Necessary for My Account? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239124-why-is-completing-kyc-necessary-for-my-account
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Completing the Know Your Customer (KYC) process is a mandatory step to maintain a secure, fair, and compliant trading environment at Shark Funded.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239124-why-is-completing-kyc-necessary-for-my-account
+HEADINGS:
+- Why Is Completing KYC Necessary for My Account?
+- Why KYC Is Required
+- 1. Legal & Regulatory Compliance
+- 2. Account Security & Protection
+- 3. Fair Trading Environment
+- 4. Payout Eligibility
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsKYC (Know Your Customer)Why Is Completing KYC Necessary for My Account?Why Is Completing KYC Necessary for My Account?Completing the Know Your Customer (KYC) process is a mandatory step to maintain a secure, fair, and compliant trading environment at Shark Funded.Written by Shark Funded December 26, 2025Table of contentsWhy KYC Is Required1. Legal & Regulatory ComplianceKYC allows Shark Funded to comply with international laws and regulations designed to prevent:FraudMoney launderingIdentity misuseFinancial crimeBy verifying identities, we ensure all accounts belong to legitimate individuals. 2. Account Security & ProtectionKYC adds an extra layer of protection to your account by linking it to verified personal credentials.This helps prevent:Unauthorized accessIdentity theftAccount misuseIf any security issue occurs, verified information allows faster and safer resolution. 3. Fair Trading EnvironmentVerifying all traders ensures that:One person does not operate multiple accountsFraudulent or duplicate accounts are preventedAll traders are evaluated under equal conditionsThis protects honest traders and keeps evaluations fair. 4. Payout EligibilityKYC verification is required before any payout can be processed.This ensures:Profits are paid to the rightful account ownerPayouts are processed securelyDelays and disputes are minimizedWithout completed KYC, withdrawals cannot be approved.Did this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

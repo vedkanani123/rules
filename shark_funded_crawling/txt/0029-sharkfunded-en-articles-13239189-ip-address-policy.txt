@@ -1,0 +1,16 @@
+TITLE: IP Address Policy | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239189-ip-address-policy
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: To protect accounts from unauthorized access and ensure fair usage, Shark Funded monitors IP address consistency across all stages.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239189-ip-address-policy
+HEADINGS:
+- IP Address Policy
+- IP Address – Evaluation Stage
+- What This Means
+- IP Address – Funded (Shark) Account
+- Monitoring & Verification
+- Traveling or Changing Location?
+- Important Notes
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsAccount Security & Access RulesIP Address PolicyIP Address PolicyTo protect accounts from unauthorized access and ensure fair usage, Shark Funded monitors IP address consistency across all stages.Written by Shark Funded December 26, 2025Table of contentsIP Address – Evaluation StageThe region of the IP address used to purchase an evaluation on sharkfunded.com must match the IP region used to log in and trade during the evaluation stage.What This MeansThe country/region used at purchase must align with the trading login locationSignificant IP region mismatches may trigger a security reviewThis rule helps prevent account sharing and unauthorized access IP Address – Funded (Shark) AccountThe IP address region used to access the funded account must remain consistent.Monitoring & VerificationIf our Risk Management Team detects a regional IP change, we may:Contact you for verificationRequest proof of location, such as:Travel ticketPassport stampLive video verification from your locationThis process is strictly for account security.  Traveling or Changing Location?If you plan to travel or trade from a different region:Inform the support team in advanceFailure to notify may result in:Temporary account restrictionVerification delayTrading interruption Important NotesVPNs, proxies, or location-masking tools may trigger IP flagsRepeated unexplained IP changes may lead to account review or restrictionAccount sharing is strictly prohibitedDid this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

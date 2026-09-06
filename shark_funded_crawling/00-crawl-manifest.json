@@ -1,0 +1,3463 @@
+{
+  "seedUrl": "https://intercom.help/sharkfunded/en/",
+  "host": "intercom.help",
+  "status": "completed",
+  "generatedAt": "2026-09-06T16:45:24.822Z",
+  "exportOptions": {
+    "readableText": true,
+    "originalHtml": false,
+    "sameSiteAssets": false
+  },
+  "limits": {
+    "maxPageBytes": 5242880,
+    "maxAssetBytes": 15728640,
+    "maxTotalAssetBytes": 262144000,
+    "maxAssetsPerPage": 250
+  },
+  "pages": [
+    {
+      "url": "https://intercom.help/sharkfunded/en/",
+      "title": "Home | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0001-sharkfunded-en.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/3497-a406f6acf685113a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-0f1b8e93b38420a1.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en",
+      "title": "Home | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0002-sharkfunded-en.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/3497-a406f6acf685113a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-0f1b8e93b38420a1.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17509567-about-sharkfunded",
+      "title": "About SharkFunded | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0003-sharkfunded-en-collections-17509567-about-sharkfunded.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17624268-weekend-trading",
+      "title": "Weekend Trading | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0004-sharkfunded-en-collections-17624268-weekend-trading.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17510255-trading-rules-and-guidelines",
+      "title": "Trading Rules and Guidelines | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0005-sharkfunded-en-collections-17510255-trading-rules-and-guidelines.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17542609-kyc-know-your-customer",
+      "title": "KYC (Know Your Customer) | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0006-sharkfunded-en-collections-17542609-kyc-know-your-customer.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17542883-withdrawals",
+      "title": "Withdrawals | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0007-sharkfunded-en-collections-17542883-withdrawals.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17542994-account-security-access-rules",
+      "title": "Account Security & Access Rules | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0008-sharkfunded-en-collections-17542994-account-security-access-rules.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/collections/17543054-scaling-plan-refunds",
+      "title": "Scaling Plan & Refunds | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0009-sharkfunded-en-collections-17543054-scaling-plan-refunds.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/sharkfunded/assets/svg/icon:folder/FFF",
+          "file": null,
+          "error": null
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13231917-what-is-shark-funded",
+      "title": "What is Shark Funded ? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0010-sharkfunded-en-articles-13231917-what-is-shark-funded.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13231948-how-do-i-get-started-with-shark-funded",
+      "title": "How do I get started with Shark Funded ? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0011-sharkfunded-en-articles-13231948-how-do-i-get-started-with-shark-funded.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13232007-who-can-join-shark-funded",
+      "title": "Who can join Shark Funded? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0012-sharkfunded-en-articles-13232007-who-can-join-shark-funded.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13259502-is-weekend-holding-allowed",
+      "title": "Is Weekend Holding Allowed? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0013-sharkfunded-en-articles-13259502-is-weekend-holding-allowed.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/16828692-shark-funded-strike-1-step-daily-payout",
+      "title": "Shark Funded Strike - 1 Step (Daily Payout) | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0014-sharkfunded-en-articles-16828692-shark-funded-strike-1-step-daily-payout.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13232096-shark-funded-instant-bolt-account-daily-payout",
+      "title": "Shark Funded – Instant Bolt Account (Daily Payout) | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0015-sharkfunded-en-articles-13232096-shark-funded-instant-bolt-account-daily-payout.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13234083-shark-funded-prime-2-step-model",
+      "title": "Shark Funded Prime 2 Step Model | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0016-sharkfunded-en-articles-13234083-shark-funded-prime-2-step-model.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13238922-shark-funded-prime-instant-account",
+      "title": "Shark Funded Prime Instant Account | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0017-sharkfunded-en-articles-13238922-shark-funded-prime-instant-account.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239005-sharkfunded-lite-instant-account",
+      "title": "SharkFunded Lite Instant Account | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0018-sharkfunded-en-articles-13239005-sharkfunded-lite-instant-account.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239028-sharkfunded-lite-1-step",
+      "title": "SharkFunded Lite – 1 Step | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0019-sharkfunded-en-articles-13239028-sharkfunded-lite-1-step.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239063-shark-funded-lite-2-step",
+      "title": "Shark Funded Lite – 2 Step | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0020-sharkfunded-en-articles-13239063-shark-funded-lite-2-step.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239124-why-is-completing-kyc-necessary-for-my-account",
+      "title": "Why Is Completing KYC Necessary for My Account? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0021-sharkfunded-en-articles-13239124-why-is-completing-kyc-necessary-for-my-account.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239132-what-documents-are-required-for-kyc-verification",
+      "title": "What Documents Are Required for KYC Verification? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0022-sharkfunded-en-articles-13239132-what-documents-are-required-for-kyc-verificatio.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239146-how-long-does-kyc-verification-take",
+      "title": "How Long Does KYC Verification Take? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0023-sharkfunded-en-articles-13239146-how-long-does-kyc-verification-take.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239152-what-happens-if-my-kyc-application-is-rejected",
+      "title": "What Happens If My KYC Application Is Rejected? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0024-sharkfunded-en-articles-13239152-what-happens-if-my-kyc-application-is-rejected.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239167-what-is-the-minimum-amount-required-for-a-withdrawal",
+      "title": "What Is the Minimum Amount Required for a Withdrawal? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0025-sharkfunded-en-articles-13239167-what-is-the-minimum-amount-required-for-a-withd.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239172-withdrawal-methods",
+      "title": "Withdrawal Methods | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0026-sharkfunded-en-articles-13239172-withdrawal-methods.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239173-requirements-before-withdrawing",
+      "title": "Requirements Before Withdrawing | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0027-sharkfunded-en-articles-13239173-requirements-before-withdrawing.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239179-how-long-does-it-take-to-receive-a-withdrawal",
+      "title": "How Long Does It Take to Receive a Withdrawal? | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0028-sharkfunded-en-articles-13239179-how-long-does-it-take-to-receive-a-withdrawal.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239189-ip-address-policy",
+      "title": "IP Address Policy | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0029-sharkfunded-en-articles-13239189-ip-address-policy.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239193-inactivity-policy",
+      "title": "Inactivity Policy | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0030-sharkfunded-en-articles-13239193-inactivity-policy.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239202-scaling-plan",
+      "title": "Scaling Plan | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0031-sharkfunded-en-articles-13239202-scaling-plan.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://intercom.help/sharkfunded/en/articles/13239204-refund-policy",
+      "title": "Refund Policy | SharkFunded Help Center",
+      "status": 200,
+      "textFile": "txt/0032-sharkfunded-en-articles-13239204-refund-policy.txt",
+      "htmlFile": null,
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/hb4dqmpg/830137/90de5f8a1ffc0122e5fadb20b881/2dad2af4c08c2ac5c4f098fd28d6f5d7",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-467fc3942e55abae.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-e20b5db78f715526.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-0d84a535f96100df.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-bae793399f669b00.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/obtVBGUptJFlqjATpjaRo/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    }
+  ],
+  "assets": []
+}

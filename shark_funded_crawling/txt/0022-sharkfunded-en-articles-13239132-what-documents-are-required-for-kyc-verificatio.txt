@@ -1,0 +1,13 @@
+TITLE: What Documents Are Required for KYC Verification? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239132-what-documents-are-required-for-kyc-verification
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: To complete KYC verification, traders must submit valid documents that confirm their identity and residential address.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239132-what-documents-are-required-for-kyc-verification
+HEADINGS:
+- What Documents Are Required for KYC Verification?
+- 1. Personal Identification (Required)
+- Accepted Documents
+- Important Requirements
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsKYC (Know Your Customer)What Documents Are Required for KYC Verification?What Documents Are Required for KYC Verification?To complete KYC verification, traders must submit valid documents that confirm their identity and residential address.Written by Shark Funded December 26, 2025Table of contents1. Personal Identification (Required)You must submit one valid government-issued photo ID.Accepted DocumentsPassport (preferred)Driver’s LicenseNational ID CardImportant RequirementsDocument must be valid and not expiredPhoto and details must be clear and readableThe name on the ID must match your Shark Funded account name. Did this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

@@ -1,0 +1,11 @@
+TITLE: Is Weekend Holding Allowed? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13259502-is-weekend-holding-allowed
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13259502-is-weekend-holding-allowed
+HEADINGS:
+- Is Weekend Holding Allowed?
+- Yes — Weekend Holding Is Allowed
+- Important Things to Keep in Mind
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsWeekend TradingIs Weekend Holding Allowed?Is Weekend Holding Allowed?Written by Shark Funded January 1, 2026Table of contentsYes — Weekend Holding Is AllowedTraders are permitted to hold positions over the weekend in challenge phase.Not allowed in funded phase .You may keep trades open beyond the market close on Friday and continue managing them when the market reopens. Important Things to Keep in MindWhile weekend holding is allowed, please note:Markets may open with price gaps after the weekendSlippage or increased volatility can occur at market openAll standard risk rules (Daily Drawdown, Maximum Loss, etc.) still applyWe strongly recommend managing risk carefully when holding positions over the weekend.Did this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

@@ -1,0 +1,16 @@
+TITLE: How Long Does KYC Verification Take? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239146-how-long-does-kyc-verification-take
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: KYC verification is required to unlock full account access, including payouts.
+Shark Funded aims to complete verification as quickly as possible while maintaining security and compliance standards.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239146-how-long-does-kyc-verification-take
+HEADINGS:
+- How Long Does KYC Verification Take?
+- KYC Verification Timeframe
+- What Can Affect Verification Time?
+- How Will I Know When KYC Is Completed?
+- If Verification Takes Longer Than Expected
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsKYC (Know Your Customer)How Long Does KYC Verification Take?How Long Does KYC Verification Take?KYC verification is required to unlock full account access, including payouts.
+Shark Funded aims to complete verification as quickly as possible while maintaining security and compliance standards.Written by Shark Funded December 26, 2025Table of contentsKYC Verification TimeframeInstant Verification:In some cases, KYC may be approved instantly when documents are clear, valid, and meet all requirements.Standard Verification:Most KYC checks are completed within 1–2 business days after document submission.  What Can Affect Verification Time?Verification may take longer if:Documents are blurry or croppedInformation does not match account detailsDocuments are expired or incompleteAdditional checks or clarification are requiredSubmitting clear and accurate documents helps avoid delays.   How Will I Know When KYC Is Completed?You will receive an email confirmationYour account status will update in your profile dashboardFull features, including payout access, will be unlocked  If Verification Takes Longer Than ExpectedIf your KYC is taking longer than 2 business days:Check your email for follow-up requestsEnsure all requested documents have been submittedContact support for an update if neededDid this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

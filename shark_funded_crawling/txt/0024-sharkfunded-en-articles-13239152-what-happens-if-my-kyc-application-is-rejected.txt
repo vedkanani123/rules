@@ -1,0 +1,19 @@
+TITLE: What Happens If My KYC Application Is Rejected? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239152-what-happens-if-my-kyc-application-is-rejected
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: If your KYC application is rejected, it does not mean you are permanently disqualified.
+A rejection usually occurs due to missing, unclear, or mismatched information and can often be resolved quickly.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239152-what-happens-if-my-kyc-application-is-rejected
+HEADINGS:
+- What Happens If My KYC Application Is Rejected?
+- Common Reasons for KYC Rejection
+- What Happens After a Rejection?
+- 1. Rejection Notification
+- 2. Resubmission Opportunity
+- How Long Does Re-Verification Take?
+- What If the Issue Cannot Be Resolved?
+- How to Avoid KYC Rejection
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsKYC (Know Your Customer)What Happens If My KYC Application Is Rejected?What Happens If My KYC Application Is Rejected?If your KYC application is rejected, it does not mean you are permanently disqualified.
+A rejection usually occurs due to missing, unclear, or mismatched information and can often be resolved quickly.Written by Shark Funded December 26, 2025Table of contents Common Reasons for KYC RejectionYour KYC application may be rejected if:Documents are blurry, cropped, or low qualityDocuments are expiredName or address does not match your account detailsRequired documents were missing or incompleteSuspected fraudulent or altered documents are detected What Happens After a Rejection?1. Rejection NotificationYou will receive an email explaining the reason(s) for rejection.The email will include instructions on what needs to be corrected. 2. Resubmission OpportunityIn most cases, you will be allowed to resubmit corrected documents.Follow the instructions carefullyUpload clear, valid, and updated documentsEnsure all details match your account informationOnce resubmitted, the review process restarts.  How Long Does Re-Verification Take?Re-verification typically takes 1–2 business daysSome cases may be approved faster if corrections are clear What If the Issue Cannot Be Resolved?If required documents cannot be provided:Contact support to explore alternative documentsUntil KYC is completed, the account may remain limitedPayouts and certain features will remain restricted How to Avoid KYC RejectionUpload high-quality, clear imagesEnsure documents are valid and not expiredDouble-check that names and addresses match exactlySubmit complete documents with all corners visible Did this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

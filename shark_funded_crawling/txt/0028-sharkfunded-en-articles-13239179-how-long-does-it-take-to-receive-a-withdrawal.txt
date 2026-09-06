@@ -1,0 +1,13 @@
+TITLE: How Long Does It Take to Receive a Withdrawal? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239179-how-long-does-it-take-to-receive-a-withdrawal
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Shark Funded processes withdrawal requests as quickly as possible while ensuring all compliance and security checks are completed.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239179-how-long-does-it-take-to-receive-a-withdrawal
+HEADINGS:
+- How Long Does It Take to Receive a Withdrawal?
+- Withdrawal Processing Time
+- Possible Delays
+- When Does the Processing Time Start?
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsWithdrawalsHow Long Does It Take to Receive a Withdrawal?How Long Does It Take to Receive a Withdrawal?Shark Funded processes withdrawal requests as quickly as possible while ensuring all compliance and security checks are completed.Written by Shark Funded December 26, 2025Table of contentsWithdrawal Processing TimeStandard Processing Time: 24–48 hoursMost withdrawals are processed within this timeframe once approvedPossible DelaysIn some cases, withdrawals may take longer due to:WeekendsPublic holidaysBanking hours and payment provider schedulesAdditional compliance or security reviewsThese delays are normal and outside of Shark Funded’s direct control.When Does the Processing Time Start?The processing time begins after:Your withdrawal request is submittedKYC verification is fully approvedYour account passes all rule and compliance checksDid this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

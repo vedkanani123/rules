@@ -1,0 +1,10 @@
+TITLE: Home | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: SharkFunded Help Center
+CANONICAL: https://intercom.help/sharkfunded/en
+HEADINGS:
+- Hi there, what do you need help with today?
+CONTENT:
+Skip to main contentHi there, what do you need help with today?Search for articles...About SharkFundedShark FundedBy Shark1 author3 articlesWeekend TradingWeekend TradingBy Shark1 author1 articleTrading Rules and GuidelinesRulesBy Shark1 author7 articlesKYC (Know Your Customer)KYCBy Shark1 author4 articlesWithdrawalsWithdrawalsBy Shark1 author4 articlesAccount Security & Access RulesSome Important RulesBy Shark1 author2 articlesScaling Plan & RefundsScaling,RefundsBy Shark1 author2 articlesSharkFunded Help CenterWe run on Fin

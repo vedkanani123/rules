@@ -1,0 +1,13 @@
+TITLE: What Is the Minimum Amount Required for a Withdrawal? | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239167-what-is-the-minimum-amount-required-for-a-withdrawal
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: To ensure efficient processing and reduce transaction costs, Shark Funded applies a minimum withdrawal amount.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239167-what-is-the-minimum-amount-required-for-a-withdrawal
+HEADINGS:
+- What Is the Minimum Amount Required for a Withdrawal?
+- Minimum Withdrawal Amount
+- Giveaway accounts have a withdrawal limit of 2 percent only .
+- Why Is There a Minimum Withdrawal Amount?
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsWithdrawalsWhat Is the Minimum Amount Required for a Withdrawal?What Is the Minimum Amount Required for a Withdrawal?To ensure efficient processing and reduce transaction costs, Shark Funded applies a minimum withdrawal amount.Written by Shark Funded March 13, 2026Table of contentsMinimum Withdrawal AmountMinimum Withdrawal: $10Withdrawal requests below this amount cannot be processedProfits and eligible balances may be combined to meet the minimum.Giveaway accounts have a withdrawal limit of 2 percent only .⚠️ Important Note:The payout amount must always be less than the Daily Drawdown limit.If the requested payout exceeds the Daily Drawdown limit, the withdrawal request will not be approved. Why Is There a Minimum Withdrawal Amount?The minimum withdrawal exists to:Reduce administrative and processing overheadMinimize transaction and network feesEnsure a smoother payout experience for all tradersLarger, less frequent withdrawals help keep payout operations fast and efficient.  Did this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin

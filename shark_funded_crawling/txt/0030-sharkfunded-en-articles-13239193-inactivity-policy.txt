@@ -1,0 +1,13 @@
+TITLE: Inactivity Policy | SharkFunded Help Center
+URL: https://intercom.help/sharkfunded/en/articles/13239193-inactivity-policy
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: To ensure active participation and fair system usage, Shark Funded enforces an inactivity policy across all accounts.
+CANONICAL: https://intercom.help/sharkfunded/en/articles/13239193-inactivity-policy
+HEADINGS:
+- Inactivity Policy
+- Inactivity Rule
+- What Counts as Inactivity?
+- How to Avoid Inactivity Suspension
+CONTENT:
+Skip to main contentSearch for articles...All CollectionsAccount Security & Access RulesInactivity PolicyInactivity PolicyTo ensure active participation and fair system usage, Shark Funded enforces an inactivity policy across all accounts.Written by Shark Funded December 26, 2025Table of contentsInactivity RuleAny trading account that remains inactive for 14 consecutive days will be automatically suspended. What Counts as Inactivity?An account is considered inactive if:No trades are placedNo trading activity occursThe account remains idle for 14 continuous days How to Avoid Inactivity SuspensionPlace at least one trade within every 14-day periodMaintain regular trading activityContact support if you expect to be inactive (e.g., travel, illness)Did this answer your question?😞😐😃Table of contentsSharkFunded Help CenterWe run on Fin
