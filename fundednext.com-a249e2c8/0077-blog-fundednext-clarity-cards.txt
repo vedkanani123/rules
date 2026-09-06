@@ -1,0 +1,203 @@
+TITLE: FundedNext Clarity Cards: See Your Risk Before It Costs You
+URL: https://fundednext.com/blog/fundednext-clarity-cards
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Explore FundedNext Clarity Cards and learn how to spot trading risks early, improve decision-making, and protect your capital.
+CANONICAL: https://fundednext.com/blog/fundednext-clarity-cards
+HEADINGS:
+- FundedNext Clarity Cards: See Your Risk Before It Costs You
+- Table of Contents
+- How Clarity Cards Work
+- Notifications and Email Updates
+- The 4 Clarity Cards
+- Risk Limit
+- Quick Strike
+- News Trading
+- Micro-Scalping
+- Who Has Access to Clarity Cards?
+- Why FundedNext Built This
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogFundedNext Clarity Cards: See Your Risk Before It Costs YouFundedNext Clarity Cards: See Your Risk Before It Costs You2 months agoJuly 02, 2026ShareTable of ContentsHow Clarity Cards WorkNotifications and Email UpdatesThe 4 Clarity CardsRisk LimitQuick StrikeNews TradingMicro-ScalpingWho Has Access to Clarity Cards?Why FundedNext Built ThisIn a FundedNext sign-up survey, 405,000 traders reported reading the rules carefully before trading. Reading the rules and seeing them enforced in real time are two different things.
+The gap shows up at payout. You hit your profit target, grow your account, and request a withdrawal. Then comes the email. A rule is cited. Not which trades triggered it, not the calculation, not the threshold at the moment it applied. The payout is adjusted or denied.
+You check the FAQ. The rule is there. The data behind it is not. You contact support. They restate the rule. They cannot show you the trades. The decision is final.
+This has been the industry standard for years. Rules are documented clearly. Enforcement visible only at the point of denial. No way to course-correct because the data that determined the outcome was never in your dashboard while it still mattered.
+FundedNext’s rules have always been published. Enforcement has always been documented with evidence. What was missing was real-time visibility: the numbers in our system, available in your dashboard, before they affected your payout.
+Clarity Cards close that gap.
+Every rule that can adjust your payout, also known as Performance Reward: risk limits, duration checks, and news-window calculations now sits in your Account Overview, next to your Trading Objective. You see where you stand on each rule before you trade, after every trade closes, through your evaluation, and before you withdraw.
+There are four cards. They are live now.
+How Clarity Cards Work
+Clarity Cards live inside your Account Overview, next to your Trading Objective. The layout is consistent across all cards:
+
+Rule Definition: clearly stated, with tooltips for deeper detail
+Current Status: your live position against the threshold
+Trade-Level Data: the specific trades contributing to your status
+Consequence Preview: the exact payout impact if the rule is breached
+
+Cards update after each trade closes, not while a trade is active. This keeps the data accurate. A position in motion is not a finalized outcome. Clarity Cards only show you what is confirmed.
+Which cards you see depends on your account type.
+CFD accounts have three cards: 3% Risk Limit, Quick Strike, and News Trading.
+Futures accounts have one: Micro-Scalping.
+Some cards apply across both Challenge and FundedNext Accounts. Others activate only once you are funded. Each card specifies exactly when it applies.
+What has not changed:
+
+The rules
+The thresholds
+The specific parameters that define a violation
+
+What has changed:
+The scope. Every account is now tracked in full, consistently, from today.
+Notifications and Email Updates
+Clarity Cards are always visible in your dashboard and refresh after every completed trade, giving you continuous access to your current rule status.
+In addition to this live view, system-level updates are sent automatically at the end of each trading day. You do not need to be actively monitoring your account for updates to reach you.
+Each day, two forms of communication are issued:
+
+A dashboard notification summarizes any rule activity or violations recorded during the day, including a direct link to the relevant account section.
+An email containing the same information, outlining the rule involved, the trades that contributed to it, and the resulting impact on your FundedNext Account.
+
+The purpose of email updates has shifted.
+Previously, emails were often the first indication of a payout adjustment or violation.
+Now, they serve as confirmation of information that is already visible inside your Clarity Cards.
+By the time you receive the email, the full context is already available in your dashboard, including the rule status, contributing trades, calculation details, and current outcome.
+Nothing in the email is unexpected, and no additional clarification is required to understand the result.
+Important:
+Notifications and emails are sent once per day at market close and are not triggered in real time during active trading.
+For live status during trading sessions, the Clarity Cards remain the primary source of truth, updating after each trade is closed.
+The 4 Clarity Cards
+The cards cover different rules, but they all do the same job: show you where you stand before it costs you.
+Each card below includes a conversational explanation of what it is for, a full spec table with every number and its consequences, and the reasoning behind the rule.
+Risk Limit
+This card watches one thing: how much of your account you are risking at a time. It sounds simple, but it is the rule that most often catches traders off guard.
+Usually, because a position was opened without a stop-loss, the system treated the full account balance as exposed, without the trader realising it. The card makes that visible the moment the trade closes.
+
+Section
+Details
+
+What It Tracks
+The maximum potential loss on any trade (s) is determined by the stop-loss placement.
+
+Threshold
+Default: 3%. Reduced: 1% (applied after a 2nd violation). The card always displays your account’s current limit.
+
+Challenge Account
+No penalties, full visibility into risk exposure per trade(s)
+
+FundedNext Account Consequences
+• 1st breach: 100% of violation-period profits deducted at payout. No deduction if loss.
+• 2nd breach: 100% of violation profits deducted + risk limit reduced to 1% at any given time.
+
+FundedNext Account: Further violations
+100% of the violation profit is deducted from each violating trade. The account is not terminated. Trading continues under the reduced 1% risk limit.
+
+Key Policy Updates
+• Violations are tracked per account, not per trader. Each new account starts fresh.
+• DTP is no longer triggered automatically on the third violation.
+
+Applies To
+CFD: Challenge and FundedNext Account
+
+Update Frequency
+After each trade closes
+
+Why did it change? Previously, a second violation applied reduced limits across all accounts, and a third triggered automatic DTP enrollment. Now, violations are tracked per account, each starting fresh. DTP is no longer automatic; three breaches lead to deductions, not forced enrollment.
+The 30% margin cap that used to accompany a second Risk Limit breach has been removed. A second breach now reduces your risk limit to 1% per trade, and nothing else. The only accounts that continue to operate under both a 1% risk limit and a 30% margin cap are those on the Disciplined Trader Program (DTP), since DTP reflects a pattern across multiple violations, not a single Risk Limit breach.
+Quick Strike
+Quick Strike does not penalise short trades. It measures how dependent your overall profitability is on them. If more than 30% of your total profit is coming from trades held under 30 seconds, that is the flag.
+Unlike every other card, a breach in the FundedNext account does not result in a deduction. It results in termination.
+
+Section
+Details
+
+What It Tracks
+The percentage of total profit generated by trades held under 30 seconds. Losses on Quick Strike trades are not included in the calculation: only profit contribution is measured.
+
+Threshold
+Maximum: 30% of total profit. Evaluated at the end of each trading cycle
+
+Challenge Account
+If your Quick Strike share reaches 30% or higher, the Challenge continues even if you meet the Profit Target. It will not send you to the next stage until the share drops below 30%.
+
+FundedNext Account Consequence
+When a cycle ends with a Quick Strike share at 30% or higher: Quick Strike profit is forfeited, and the account is terminated.
+
+Important
+This is the only Clarity Card where a violation in the FundedNext Account results in account termination.
+
+Applies To
+CFD: Challenge and FundedNext account.
+
+Update Frequency
+Continuously through the trading cycle. Threshold evaluated at cycle end. In the meantime, if the percentage approaches the threshold, the client will receive a notification and email warning so they can adjust their trading before the cycle ends.
+
+Why does it exist? Trades held under 30 seconds typically reflect pricing-latency exploitation rather than market direction. That is not a strategy FundedNext can support. Losses on these trades are not counted in the calculation. If a fast trade loses money, it should not count against you.
+The rule exists because this kind of trading strategy doesn’t sustain long-term, as it is built entirely on execution speed rather than market analysis.
+News Trading
+News trading is permitted. This card determines how much of your Performance Reward can be earned from it. High-impact news events introduce slippage, execution gaps, and volatility spikes that fall outside the standard trading model.
+Most prop firms in the industry allow zero profit from news trading in a FundedNext account. Some terminate on the spot. FundedNext counts 40% of the news-window profit toward your payout.
+
+Section
+Details
+
+What It Tracks
+Profits generated from trades opened or closed within a 10-minute window around high-impact news events: 5 minutes before and 5 minutes after the release on a correlated symbol.
+
+Rule
+40% of profits from trades within the news window count toward payout. Losses inside the window are fully counted.
+
+Challenge Account
+Not tracked or adjusted. The rule activates only after funding.
+
+FundedNext Account Consequence
+40% of news-window profits count toward payout. 60% is forfeited. Losses remain fully your responsibility.
+
+What You Can Now See
+Which trades fell inside a news window, the specific event that triggered the rule, the symbols affected, and the adjusted profit attribution: 40% of news-window profit counts toward your Performance Reward, before your Performance Reward is reviewed, not after.
+
+Applies To
+CFD: FundedNext Account only
+
+Update Frequency
+After each trade closes
+
+Why does it matter? The 40% news-window split has been in place for some time. What is new is the visibility. Before Clarity Cards, the adjustment only appeared at payout review.
+Now the card shows you the affected trades, the event, and the adjusted attribution before you ever submit a withdrawal request. The rule has not changed. When you can see it has.
+Micro-Scalping
+Scalping is allowed on Futures accounts. The card is not there to stop it. It is there to ensure your Challenge or FundedNext accounts are not built almost entirely on trades that close in under 10 seconds. The calculation runs continuously through your trading cycle. The threshold is evaluated at the end of the trading cycle.
+
+Section
+Details
+
+What It Tracks
+The percentage of total profit generated by Futures trades closed within 10 seconds. Losses on Micro-Scalping trades are not included in the calculation: only profit contribution is measured.
+
+Threshold
+Maximum: 40% of total profit. Evaluated at the end of each trading cycle
+
+Challenge Account
+If your Micro-Scalping share reaches 40% or higher, the Challenge continues even if you meet the Profit Target. It will not send you to the next stage until the share drops below 40%.
+The Account does not end on a violation; Once the Micro-Scalping profit drops below the threshold, your account will be moved to the next stage automatically.
+
+FundedNext Account Consequence
+When a cycle ends with a Micro-Scalping share at 40% or higher, the Micro-Scalping profit is forfeited. The account is not terminated. The forfeited amount is calculated and shown on the card before you submit a payout request.
+
+Applies To
+Futures: Challenge and FundedNext Accounts
+
+Update Frequency
+Continuously through the trading cycle. Threshold evaluated at cycle end.
+
+Why does it exist? The 40% Micro-Scalping rule has been in place since Futures launched. What is new is the visibility. Futures traders want the room to scalp.
+The card does not remove that. It shows your share, the trades contributing to it, and the amount forfeited before you request a payout. The rule keeps the model sustainable. The card makes the rule visible.
+Four cards for CFD accounts. One for Futures. Every card that applies to your account is visible before it affects your Performance Reward.
+Who Has Access to Clarity Cards?
+Clarity Cards are available to every FundedNext trader, across both Challenge and FundedNext Accounts, on CFD and Futures accounts.
+Each card clearly shows where it applies, what it tracks, and what happens if you exceed the threshold.
+Why FundedNext Built This
+Most prop firms have rules like ours. Some have stricter ones. The difference between firms is not usually the rules themselves. It is when those rules become visible to the trader.
+The industry standard has been enforced after the fact. Rules surface clearly at the point of denial. The calculation exists in the firm’s system.
+The trader sees the outcome, not the data that produced it. That gap between what is being measured and what the trader can see is where most payout disputes originate.
+Clarity Cards change that process. The rule is in your dashboard. The calculation updates after every trade closes.  The consequence is visible before you submit a withdrawal request. You see the same data FundedNext uses to evaluate your account, available before any decision is made.
+Clarity Cards are live in every Account Overview for CFDs and Futures, and in Challenge and FundedNext accounts.
+You always know where you stand. That is the point. That is the only point.
+Log in and open Account Overview to view your Clarity Cards from here fundednext.com
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

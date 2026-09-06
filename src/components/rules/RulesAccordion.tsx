@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { Rule, SourceEvidence } from '../../types/schema.ts';
+import { ruleAppliesToProgram } from '../../core/pipeline/parameterRules.ts';
 import {
   ChevronDown,
   AlertTriangle,
@@ -22,6 +23,7 @@ interface RulesAccordionProps {
   rules: Rule[];
   selectedCapital: number;
   programType: string;
+  programSlug?: string;
   highlightedRuleId?: string | null;
   onOpenSource?: (evidence: SourceEvidence, ruleTitle: string) => void;
 }
@@ -66,10 +68,28 @@ const CATEGORY_TAB_CONFIG: Record<string, { label: string; icon: any }> = {
 
 const fmt = (n: number) => `$${n.toLocaleString()}`;
 
+const prettyScope = (scope: string): string => {
+  const map: Record<string, string> = {
+    'goat-1-step': 'GOAT 1-Step',
+    '1-step-evaluation': '1-Step Eval',
+    'instant-funding': 'Instant',
+    'stellar-2step': 'Stellar 2-Step',
+    'stellar-1step': 'Stellar 1-Step',
+    'stellar-lite': 'Stellar Lite',
+    'stellar-instant': 'Stellar Instant',
+    'futures-flex': 'Flex',
+    'futures-legacy': 'Legacy',
+    'futures-rapid-pro': 'Rapid Pro',
+    'futures-rapid-daily': 'Rapid Daily',
+  };
+  return map[scope.toLowerCase()] || scope;
+};
+
 export const RulesAccordion: React.FC<RulesAccordionProps> = ({
   rules,
   selectedCapital,
   programType,
+  programSlug,
   highlightedRuleId,
   onOpenSource,
 }) => {
@@ -102,18 +122,8 @@ export const RulesAccordion: React.FC<RulesAccordionProps> = ({
   }, [rules]);
 
   const filteredByProgram = useMemo(() => {
-    return rules.filter((rule) => {
-      if (rule.accountModelScope && rule.accountModelScope.length > 0) {
-        const progTypeLower = programType.toLowerCase().replace('-', '-');
-        const matches = rule.accountModelScope.some((scope) =>
-          progTypeLower.includes(scope.toLowerCase()) ||
-          scope.toLowerCase().includes(programType.toLowerCase())
-        );
-        if (!matches) return false;
-      }
-      return true;
-    });
-  }, [rules, programType]);
+    return rules.filter((rule) => ruleAppliesToProgram(rule, programType, programSlug));
+  }, [rules, programType, programSlug]);
 
   const hiddenRulesList = useMemo(() => filteredByProgram.filter((r) => r.isEasyToMiss), [filteredByProgram]);
   const publicRulesList = useMemo(() => filteredByProgram.filter((r) => !r.isEasyToMiss), [filteredByProgram]);
@@ -298,6 +308,7 @@ export const RulesAccordion: React.FC<RulesAccordionProps> = ({
                       <span className="text-[11px] text-[#6B7280]">·</span>
                       <span className="text-[11px] font-mono text-[#9CA3AF]">{rule.headlineValue}</span>
                       {isHidden && <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-full bg-amber-500/10 border border-amber-500/20 text-[10px] font-bold text-amber-400"><Eye className="w-3 h-3" /> Hidden</span>}
+                      {rule.accountModelScope && rule.accountModelScope.length > 0 && <span className="inline-flex items-center px-2 py-0.5 rounded-full bg-sky-500/10 border border-sky-500/20 text-[10px] font-mono font-medium text-sky-300">{rule.accountModelScope.map(prettyScope).join(' · ')}</span>}
                     </div>
                     <h3 className="text-sm font-semibold text-white leading-tight pr-2">{rule.name}</h3>
                     <p className="text-xs leading-relaxed text-[#9CA3AF] line-clamp-2">{rule.plainEnglish}</p>

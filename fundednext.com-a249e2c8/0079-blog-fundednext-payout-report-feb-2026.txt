@@ -1,0 +1,137 @@
+TITLE: FundedNext Payout Report - February 2026
+URL: https://fundednext.com/blog/fundednext-payout-report-feb-2026
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: FundedNext Payout Report February 2026: See total trader payouts, top earners, and key payout statistics from FundedNext this month.
+CANONICAL: https://fundednext.com/blog/fundednext-payout-report-feb-2026
+HEADINGS:
+- FundedNext Payout Report – February 2026
+- Table of Contents
+- February by the Numbers
+- Processing Speed
+- Payout Size Distribution
+- Payout Frequency: Account Level
+- Payout Frequency: Trader Level
+- Account Age and Progression
+- How Payout Recipients Traded
+- Trading Frequency
+- Win Rates and Profit Quality
+- Instrument Diversity
+- Drawdown and Recovery
+- Time to First Payout
+- February’s Highest Single Payouts
+- CFD — Top 10, February 2026
+- Futures — Top 10, February 2026
+- All-Time Highest Cumulative Payouts
+- CFD — All-Time Top 10
+- Futures — All-Time Top 10
+- What Comes Next
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogFundedNext Payout Report – February 2026FundedNext Payout Report – February 20265 months agoMarch 11, 2026ShareTable of ContentsFebruary by the NumbersProcessing SpeedPayout Size DistributionPayout Frequency: Account LevelPayout Frequency: Trader LevelAccount Age and ProgressionHow Payout Recipients TradedTrading FrequencyWin Rates and Profit QualityInstrument DiversityDrawdown and RecoveryTime to First PayoutFebruary’s Highest Single PayoutsCFD — Top 10, February 2026Futures — Top 10, February 2026All-Time Highest Cumulative PayoutsCFD — All-Time Top 10Futures — All-Time Top 10What Comes NextEvery month, FundedNext processes thousands of payout transactions across its global trader base. For the first time, we are publishing the complete picture of what that looks like, not a highlight reel, but the full dataset: transaction volume, processing times, payout sizes, trader tenure, and the actual trading behavior behind the withdrawals.
+February 2026: $15.19M paid to 8,340 traders. Here is how it broke down.
+This report will be published monthly, on the same schedule, in the same format. The goal is a consistent, verifiable record, one that lets traders track how the platform performs over time, not just in any given month.
+
+February by the Numbers
+13,712 individual payout transactions were processed across 10,346 funded accounts held by 8,340 unique traders.
+The distinction between account count and trader count matters. Some traders hold multiple funded accounts simultaneously, which is why funded accounts outnumber traders. The transaction count reflects system throughput; the trader count reflects how many people were paid.
+Since inception, FundedNext has processed 205,380 payout transactions totaling $271.4M+ in net disbursements.
+February summary:
+
+Total paid
+$15.19M
+
+Unique traders paid
+8,340
+
+Funded accounts
+10,346
+
+Total transactions
+13,712
+
+Processing Speed
+Median payout processing time in February: 4 hours 44 minutes. The mean was 5 hours 8 minutes, a small number of reviews requiring additional checks pulls the average slightly above the median.
+
+At the 90th percentile, payouts cleared in under 13 hours. 99.98% were processed within 24 hours. One transaction exceeded the 24-hour mark.
+The distribution is more informative than any single average. Over a third of February’s payouts, 35.4% were completed in under 5 minutes. The largest concentration of transactions sits in the 6-to-12-hour window, which reflects standard overnight processing batches.
+
+Payout Size Distribution
+More than half of February’s payout volume, which is 54.4%, fell in the $1,000 to $5,000 range. That is the center of gravity for the month.
+
+The median payout was $567. The mean was $1,119. The gap between the two reflects a smaller number of larger payouts pulling the average upward.
+$623K went to payouts of $25,000 and above. The single largest payout in February was $60,580.
+Payout Frequency: Account Level
+Half of February’s payouts came from funded accounts receiving their first withdrawal. The other half came from accounts collecting a second, third, fourth, or fifth-and-beyond payout.
+
+The 5th-and-beyond bucket recorded 1,609 transactions, more than the fourth-payout bucket. A distinct cohort of traders has built a sustained payout track record on the platform, not just completing a single cycle.
+
+Payout Frequency: Trader Level
+Looking at the traders behind the accounts: February’s payout recipients grouped by total lifetime payouts from FundedNext show a clear distribution across all experience levels.
+
+The largest group consists of traders early in their funded journey, collecting their first through third payouts. But the data does not stop there.
+
+Traders with 31–40 lifetime payouts
+72
+
+Traders with 41–60 lifetime payouts
+62
+
+Traders with 60+ lifetime payouts
+55
+
+Revenue from 60+ payout group in February
+$486,054
+
+Traders with 25+ lifetime payouts
+284
+
+Revenue from 25+ payout group in February
+$2.37M (15.8% of total)
+
+284 traders with 25 or more lifetime payouts collected $2.37M in February; 15.8% of the month’s total volume. These traders have been active with FundedNext long enough to build a significant payout history. That is not a one-cycle relationship.
+Account Age and Progression
+50.1% of accounts that received a payout in February had been paid at least once before.
+60% of paid accounts were funded within the last 30 days. 26% were funded 1 to 3 months prior. 14% have been funded for more than 90 days , including 415 accounts that have been active for over 6 months and are still generating payouts.
+550 traders were scaled to higher account tiers in February through FundedNext’s performance-based progression. $846K in funded balance became $3.68M across those accounts.
+How Payout Recipients Traded
+This section covers trading behavior data from funded traders who received payouts in February. CFD and Futures figures are presented separately; the two products are structurally different, and combined averages would obscure rather than inform.
+Trading Frequency
+The median CFDs payout recipient placed 1.5 trades per day. Futures: 3.2.
+83.6% of paid CFD accounts traded at low frequency; 1 to 2 trades per day. Futures accounts showed a wider spread: 47.5% traded 1–2 per day, 34.7% traded 3–9, and 17.8% placed 10 or more trades daily.
+
+Win Rates and Profit Quality
+Median win rate for CFD payout recipients: 50.0%. Futures: 63.0%.
+41% of paid CFD accounts had a win rate below 50%, meaning they closed more losing trades than winning ones and still received a payout. The offset was favorable risk-to-reward ratios: the median for CFD was 1.49:1. Reaching payout does not require winning the majority of trades. It requires wins to be large enough relative to losses.
+Median profit factor (gross profit divided by gross loss): 1.47 for CFD, 1.66 for Futures.
+
+Instrument Diversity
+The median CFD payout recipient traded 2 instruments. Futures: 1. 60.5% of paid Futures accounts traded a single instrument. CFD accounts were more evenly split, roughly a third traded one instrument, a third traded two to three, and a third traded four or more.
+Top asset class by volume: currency pairs for CFD, equity indices for Futures. Top by trade count: metals for CFD, equity indices again for Futures.
+
+Drawdown and Recovery
+Median max consecutive losing trades: 5 for CFD, 4 for Futures. Median recovery time from the deepest drawdown: 3 trading days for CFD, 2 for Futures.
+82.1% of CFD traders and 67.4% of Futures traders who received a payout had at least one losing week during their funded period. Receiving a payout does not require a clean run. It requires managing losses when they come.
+5.8% of paid CFD accounts hit more than 70% of their daily loss limit at some point during their funded period. For Futures, that figure is 35.9% (Bolt Challenge only), a structural difference in how the daily loss limit interacts with Futures contract sizing and tick values.
+
+Time to First Payout
+Median days from account funding to first payout request: 28 for CFD, 9 for Futures.
+64.5% of Futures payout recipients submitted their first withdrawal within 14 days of funding. 20.3% of CFD recipients did the same. 18.3% of CFD traders took 90 or more days, compared to 2.4% on the Futures side.
+The gap reflects how the two products work. Futures traders tend to take frequent, smaller payouts. CFD traders tend to build positions over longer cycles before withdrawing.
+
+February’s Highest Single Payouts
+The top 10 payout recipients for February 2026 are listed separately for CFD and Futures. The tables are included in the full report linked below.
+CFD — Top 10, February 2026
+
+Futures — Top 10, February 2026
+
+All-Time Highest Cumulative Payouts
+These are FundedNext’s highest-paid traders across the full history of the platform, through February 2026, listed separately for CFD and Futures.
+CFD — All-Time Top 10
+
+Futures — All-Time Top 10
+
+What Comes Next
+$271.4M+ paid to traders since inception. 205,380 transactions processed.
+February 2026 was one month of that record. March data will be published next month.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

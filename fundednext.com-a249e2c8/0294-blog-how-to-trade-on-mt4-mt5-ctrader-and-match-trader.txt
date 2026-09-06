@@ -1,0 +1,431 @@
+TITLE: How to Trade on MT4, MT5, cTrader, and Match-Trader with FundedNext?
+URL: https://fundednext.com/blog/how-to-trade-on-mt4-mt5-ctrader-and-match-trader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Trade on MT4, MT5, cTrader, and Match-Trader with FundedNext. Follow easy steps to set up your platform, place trades, and start your funded journey.
+CANONICAL: https://fundednext.com/blog/how-to-trade-on-mt4-mt5-ctrader-and-match-trader
+HEADINGS:
+- How to Trade on MT4, MT5, cTrader, and Match-Trader with FundedNext?
+- Table of Contents
+- Trading Platforms Available at FundedNext
+- How to Download Any Trading Application for Any Device from FundedNext
+- How to Login with FundedNext on MT4
+- Account Setup for MT4 (Mobile)
+- Account Setup for MT4 (PC)
+- Placing and Managing Orders in MT4
+- Tips for Optimizing MT4 with FundedNext
+- How to Login with FundedNext on MT5
+- Account Setup for MT5 (Mobile)
+- Account Setup for MT5 (PC)
+- Placing and Managing Orders in MT5
+- Tips for Optimizing MT5 with FundedNext
+- How to Choose Your Server
+- How to Login with FundedNext on cTrader
+- Account Setup for cTrader (PC/Web)
+- Placing and Managing Orders in cTrader
+- Tips for Optimizing cTrader with FundedNext
+- How to Login with FundedNext on Match-Trader
+- Account Setup for Match-Trader (Web)
+- Placing and Managing Orders in Match-Trader
+- Adjusting SL and TP Levels
+- Reviewing Performance
+- Tips for Optimizing Match-Trader with FundedNext
+- Switching Platforms in FundedNext
+- Connecting Your FundedNext Account to Myfxbook
+- For MT4 and MT5 Users
+- For cTrader Users
+- Common Issues and Troubleshooting with Platforms
+- Platform Access by Account Type
+- Which Platform Should You Choose?
+- Final Thoughts
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogHow to Trade on MT4, MT5, cTrader, and Match-Trader with FundedNext?How to Trade on MT4, MT5, cTrader, and Match-Trader with FundedNext?11 months agoSeptember 24, 2025ShareTable of ContentsTrading Platforms Available at FundedNextHow to Download Any Trading Application for Any Device from FundedNextHow to Login with FundedNext on MT4Account Setup for MT4 (Mobile)Account Setup for MT4 (PC)Placing and Managing Orders in MT4Tips for Optimizing MT4 with FundedNextHow to Login with FundedNext on MT5Account Setup for MT5 (Mobile)Account Setup for MT5 (PC)Placing and Managing Orders in MT5Tips for Optimizing MT5 with FundedNextHow to Choose Your ServerHow to Login with FundedNext on cTraderAccount Setup for cTrader (PC/Web)Placing and Managing Orders in cTraderTips for Optimizing cTrader with FundedNextHow to Login with FundedNext on Match-TraderAccount Setup for Match-Trader (Web)Placing and Managing Orders in Match-TraderAdjusting SL and TP LevelsReviewing PerformanceTips for Optimizing Match-Trader with FundedNextSwitching Platforms in FundedNextConnecting Your FundedNext Account to MyfxbookFor MT4 and MT5 UsersFor cTrader UsersCommon Issues and Troubleshooting with PlatformsPlatform Access by Account TypeWhich Platform Should You Choose?Final ThoughtsChoosing the right trading platform is one of the most important decisions a trader makes. It directly impacts execution speed, charting precision, user experience, and ultimately, trading performance.
+At FundedNext, we understand that every trader has unique preferences, which is why we offer seamless access to four of the industry’s most trusted platforms: MetaTrader 4 (MT4), MetaTrader 5 (MT5), cTrader, and Match-Trader. Each platform offers unique tools, interfaces, and trading experiences suited to different trader preferences.
+Whether you’re trading on mobile or desktop, this guide walks you through the complete login process for each platform. From downloading and installing the terminals to selecting the correct FundedNext server and entering your credentials, every step is clearly explained. This is your all-in-one reference to confidently access and operate your FundedNext CFDs challenge regardless of which platform you choose.
+TL;DR – Quick Summary
+
+FundedNext supports four major platforms: MT4, MT5, cTrader, and Match-Trader.
+You can choose MT4 or MT5 for all paid Challenges.
+You can trade free trial and competition accounts on MT5 only.
+Getting started is simple; download your platform from the Dashboard, select the right server, enter your login details, and you’re set.
+MT4, MT5, and cTrader can be linked to Myfxbook for performance tracking.
+
+Trading Platforms Available at FundedNext
+FundedNext currently supports the following trading platforms:
+
+MetaTrader 4 (MT4)
+MetaTrader 5 (MT5)
+cTrader
+Match-Trader
+
+Choose the platform that best fits your trading style. Each offers robust tools, real-time data, and deep analytical features.
+
+Platform
+Best For
+Charting Tools
+Devices Supported
+Key Benefit
+
+MT4
+Simplicity & wide support
+Basic
+Windows, Mac, Mobile, Web
+Simple, stable, and trusted worldwide
+
+MT5
+Advanced tools & analysis
+Advanced
+Windows, Mac, Mobile, Web
+More order types, timeframes, and built-in tools
+
+cTrader
+Fast execution & clean UI
+Advanced
+Windows, Web, Mac, Mobile
+Modern design, versatile order functionalities
+
+Match-Trader
+Web/mobile-first convenience
+Moderate
+Web, Mobile
+Friendly UI, account dashboard, and great reporting
+
+Note: $100,000 and $200,000 accounts cannot be purchased, reset, modified, or topped up on the cTrader or Match-Trader platforms.
+Key things to note
+
+FundedNext is one of the very few prop firms that offer both MT4 and MT5 at the same time. Most companies provide only one, but we give traders the freedom to choose between both platforms, which creates a real edge in trading.
+FundedNext proudly holds main-level licenses for both MT4 and MT5. This highlights the stability and scalability of our operations. Very few prop firms own main-level licenses, which puts FundedNext a step ahead in terms of reliability.
+Beyond the popular choices, FundedNext also provides cTrader and Match-Trader to meet the needs of traders seeking advanced charting, tools, and dashboard analytics with a sleek design. The variety of platforms we offer is unmatched.
+FundedNext offers diverse platform options, and traders recognize it. In this blog, we want to show the percentage distribution of users:
+
+Platform Type
+Percentage (%)
+
+cTrader
+9.19%
+
+Match-Trader
+6.87%
+
+MT4
+19.01%
+
+MT5
+64.93%
+
+This distribution highlights an important reality: while MT4 and MT5 remain the most popular choices, there is also a large and growing group of traders who actively use the advanced capabilities of cTrader and Match-Trader. This shows that demand goes far beyond just MT4 and MT5.
+
+How to Download Any Trading Application for Any Device from FundedNext
+Before you install and log in, you need to download the correct platform (MT4, MT5, cTrader, or Match-Trader) from your FundedNext Dashboard. Follow these steps:
+
+Log in to your FundedNext Dashboard: Go to app.fundednext.com/accounts and sign in with your FundedNext credentials.
+Select Your Account: From the “Accounts” section, click on the trading account you want to access.
+Check Platform Details: You’ll see your account type, Login ID, Password, and Server information listed clearly (as also sent to your email).
+Download the Platform:
+
+For MT4
+From your FundedNext Dashboard, go to Help & Support → Resources → Files, and download the MT4 app for Windows/macOS or the mobile app for Android/iOS.
+For MT5
+From your FundedNext Dashboard, go to Help & Support → Resources → Files, and download the MT5 app for Windows/macOS or the mobile app for Android/iOS.
+For cTrader
+From your FundedNext Dashboard, go to Help & Support → Resources → Files, and download the cTrader app for Windows/macOS. You can also access the web version or download the mobile app via the provided links.
+For Match-Trader
+From your FundedNext Dashboard, go to Help & Support → Resources → Files, and open the Match-Trader Web version directly in your browser, or install the mobile app using the provided Android/iOS links.
+
+Install or Launch the Platform: Run the downloaded file (for desktop apps) or open the app on your phone. For the Match-Trader web, you can start instantly in your browser.
+Log in with Credentials: Use the Login ID, Password, and Server provided in your FundedNext Dashboard or welcome email to access your trading account.
+
+Tip: Always download the trading apps from the FundedNext Dashboard or the official app stores to avoid fake or outdated versions.
+How to Login with FundedNext on MT4
+Setting up MT4 takes just a few minutes, whether on mobile or on PC. If you’ve chosen MT4 as your FundedNext platform, here’s how you can log in and get your account ready for trading.
+Account Setup for MT4 (Mobile)
+
+Open MT4 App: Launch the MetaTrader 4 app on your mobile device. Tap ACCEPT to agree to the terms and conditions.
+Landing Page: After agreeing to the terms and conditions, you will be directed to the landing page where you’ll see an option to choose the account type.
+Search for FundedNext: Go to New Account → Login to an Existing Account. In the search bar, type FundedNext and select FundedNext-Demo from the results.
+Enter Login Credentials: Enter your Login ID (e.g., 22229781) and your Password. Optionally, enable Save Password.
+Sign In: Tap Sign In to access your account.
+Access Your Trading Dashboard: After signing in, you’ll land on the Trade tab, where you can view your balance, equity, margin, and free margin.
+
+To learn more about the MT4 mobile setup, explore our step-by-step guide here.
+Account Setup for MT4 (PC)
+
+Install FundedNext MT4: Download the MT4 terminal setup from your FundedNext Dashboard. Open the .exe file, click Next, accept the End-User License Agreement, and click Next to install. Wait for the installation to complete.
+Select Server: After installation, launch MT4. When the server selection pop-up appears, choose FundedNext-Demo.
+Log in to Your Account: Select Connect with an Existing Trade Account, then enter your Login ID and Password.
+Finish Login: Click Finish to log in. The MT4 trading interface will open, showing live quotes and account details.
+
+Want the full MT4 desktop setup guide? Click here to view the complete walkthrough.
+Placing and Managing Orders in MT4
+Once you’re logged in, MT4 makes it easy to open, schedule, and control your trades with just a few clicks.
+
+Market Orders: Execute instantly at the current price.
+Pending Orders: Place Buy Limit, Sell Limit, Buy Stop, or Sell Stop orders for future execution.
+Stop-Loss (SL) & Take-Profit (TP): Manage your risk and lock in gains automatically.
+
+Tips for Optimizing MT4 with FundedNext
+While MT4 is known to be the easiest platform to use, a few simple tweaks can make your experience smoother and more efficient.
+
+Enable One-Click Trading for faster execution.
+Save chart templates for quicker market analysis (available only on PC or Mac, not on mobile or web).
+Use the built-in tools from your FundedNext Dashboard, such as:
+
+News and Equity Manager: to track equity and news events directly.
+Session Bar Indicator: to easily view market sessions on your charts.
+
+How to Login with FundedNext on MT5
+Choosing MT5 gives you access to additional tools like more timeframes, extra order types, and built-in market depth, but the setup process is just as straightforward. Here’s how to log in and get started.
+Account Setup for MT5 (Mobile)
+
+Install MT5 App: From your FundedNext Dashboard (Help & Support → Resources → Files), download the MT5 Mobile app for Android or iOS. You can also install it directly from Google Play or the App Store, depending on your device.
+Open the App: Launch it and tap ACCEPT on the welcome screen.
+Landing Page: After accepting, you will be directed to the landing page. Select Login to an Existing Account.
+Search for FundedNext: Enter FundedNext and select FundedNext Ltd from the results.
+Fill in Account Details: Under Use Existing Account, select the correct Server based on your account type, and enter your Login ID and Password. Optionally, enable Save Password.
+Sign In: Tap Sign In. Your dashboard will load, showing your balance, equity, and free margin.
+Need Help Logging In?
+
+Ensure the server, Login ID, and password are correct (case-sensitive).
+Try switching between Wi-Fi and mobile data or re-add the account if connection issues arise.
+
+For a detailed walkthrough of MT5 mobile setup, explore our step-by-step guide here.
+Account Setup for MT5 (PC)
+
+Install MT5: From your FundedNext Dashboard (Help & Support → Resources → Files), download the MT5 setup file for Windows or macOS. Run the installer, click Next, accept the License Agreement, and proceed with the installation. You can also find mobile app download options in the same Dashboard section if needed.
+Open FundedNext MT5: Launch the FundedNext MT5 Terminal Setup (.exe) file. When prompted (as shown in the installation window), you can change the installation path and settings, or simply tap Next to continue. A loading screen will appear—wait until the installation is complete.
+Launch MT5: After installation finishes, open the MT5 application.
+Open an Account: Go to File → Open an Account in the top menu.
+Search FundedNext: In the pop-up, type FundedNext and select the matching broker, then click Next.
+Connect to Your Account
+
+Choose Connect with an Existing Trade Account.
+Enter your Login ID and Password.
+From the server dropdown, select the correct server based on your account type.
+
+Finish Login: Click Finish to access your MT5 workspace with full trading functionality.
+
+Explore our full step-by-step guide for setting up MT5 on your PC here.
+Placing and Managing Orders in MT5
+With MT5, placing and managing orders is straightforward and more flexible than ever. You’ll find all the tools you need right at your fingertips:
+
+Order Types: You can use all the same order types from MT4, plus two extra ones: Buy Stop Limit and Sell Stop Limit. These let you set up more flexible pending trades that trigger only when the price reaches your chosen level.
+Economic Calendar: MT5 integrates access to an economic calendar, but it works as a separate app. It lists important news and events that could move the markets, so you don’t need to leave your setup to stay updated.
+
+Tips for Optimizing MT5 with FundedNext
+MT5 has a wide range of tools, and a few simple tweaks can make your trading experience smoother and more efficient.
+
+Enable One-Click Trading for faster execution.
+Save Chart Profiles for quicker market analysis (available only on PC or Mac, not on mobile or web).
+Use the built-in tools from your FundedNext Dashboard, such as:
+
+News and Equity Manager: to track equity and news events directly.
+Session Bar Indicator: to easily view market sessions on your charts.
+
+Split Screen on Mobile: MT5 allows you to view two different symbols’ charts side by side, making it easier to compare and monitor markets on your phone.
+Drag-and-Drop Orders: In MT5, you can set Stop-Loss (SL) and Take-Profit (TP) by simply dragging the order lines on the chart instead of manually entering the price.
+
+How to Choose Your Server
+Not sure which server to pick? Use this quick guide to match your account type with the correct server:
+
+Platform
+Account Type
+Server to Select
+
+MT4
+Paid Account (Challenge)
+FundedNext-Demo
+
+MT4
+Paid Account (FundedNext Account)
+FundedNext-Real
+
+MT5
+Paid Account
+FundedNext-Server Or, FundedNext-Server 2
+
+MT5
+Free Monthly Competition
+FundedNext-Server 3
+
+MT5
+Free Trial Account
+FundedNext-Server 3
+
+Note: Always follow the details in your credential email after purchase, or when joining a competition or free trial, to ensure you select the correct server.
+How to Login with FundedNext on cTrader
+If you prefer a sleek interface with fast execution, cTrader is a solid choice. Setting it up is quick and can be done on desktop, web, or mobile.
+Account Setup for cTrader (PC/Web)
+Getting started with cTrader is quick and simple. Follow these steps to set up your account on PC or Web:
+
+Step 1: Download cTrader
+From your FundedNext Dashboard → Help & Support → Resources → Files, download the cTrader PC app for Windows or macOS, depending on your device.
+Step 2: Open FundedNext cTrader
+Open the cTrader app on your PC. Accept the End-User License Agreement and click Acknowledge and Continue.
+Step 3: Login
+In the top-right corner, click the green Login button.
+Step 4: Log in to Your Account
+Enter your Login ID and Password.
+If you don’t already have one, click Create cTrader ID when prompted.
+Step 5: Launch cTrader
+After logging in, your cTrader trading interface will open, showing account details and tools.
+
+For in-depth instructions on cTrader setup, view our guide here.
+Placing and Managing Orders in cTrader
+From quick execution to drag-and-drop charts, cTrader keeps it easy. Here’s how you can manage orders effortlessly:
+
+Market, Limit & Stop Orders: Place instantly or set future entries with full SL/TP options.
+Drag-and-Drop on Charts: Place pending orders by dragging Buy/Sell from QuickTrade onto the chart, or adjust existing entry, Stop-Loss, and Take-Profit lines directly by moving them on the chart.
+
+This way, you always see and manage your orders right where the price action is.
+Tips for Optimizing cTrader with FundedNext
+Make cTrader work for your style, not the other way around. These tricks will help you stay sharp and efficient:
+
+Set hotkeys for faster order execution (available on cTrader Desktop only).
+Save chart layouts so you can quickly switch between strategies.
+
+How to Login with FundedNext on Match-Trader
+Match-Trader is a web and mobile-first platform, meaning you can trade without any installation. Just follow these simple steps to set it up.
+Account Setup for Match-Trader (Web)
+
+Login from Email: After account creation, you’ll receive an email with your trading account credentials and a link to the Match-Trader platform. Clicking the link will open the Match-Trader Web Portal.
+Launch Platform: Open the link to the platform in your browser from PC, Mac, Android, or iOS.
+Enter Login Credentials: Input the Login ID and Password provided in your email. Make sure you enter them exactly as shown to avoid login errors.
+Sign In: Click Sign In to access your Match-Trader workspace.
+Verify Account Details: Once logged in, review your balance, equity, and free margin from the account panel.
+
+Placing and Managing Orders in Match-Trader
+From opening a new order to tracking positions, Match-Trader keeps it simple. Follow these steps to stay in full control of your trades:
+
+Open a New Order directly from the left-hand Symbol Panel or by clicking the New Order button next to the instrument you want to trade.
+Now, select Market Orders or Pending Orders, set your volume, and confirm the trade.
+View and manage all active trades under the Open Positions tab, and check your Pending Orders separately.
+Monitor Spread, Daily Change, and Price for each instrument in the left-hand symbol list.
+
+Adjusting SL and TP Levels
+Stay in control of every position. With these steps, you can quickly set or edit your Stop-Loss and Take-Profit
+
+Modify Stop-Loss (SL) and Take-Profit (TP) levels after opening a trade by editing it from the positions list. You can also use the drag-and-drop feature in Match-Trader to adjust SL and TP directly on the chart.
+SL and TP price levels are reflected directly on the chart once set.
+
+Reviewing Performance
+Staying on top of performance helps you grow faster. Use these tools in the platform to measure and analyze performance:
+
+Use the Closed Positions tab to review past trades.
+Track account metrics (Balance, Equity, Free Funds, Margin Level, Profit) from the top bar in real time.
+
+Tips for Optimizing Match-Trader with FundedNext
+Match-Trader has plenty of shortcuts to make your workflow smoother. Try these tips to keep your setup sharp and efficient:
+
+Add frequently traded instruments to your Favorites for quicker access.
+Switch between different timeframes (M1, M5, M15, etc.) for better chart analysis.
+Use the Top Movers panel to spot symbols with the biggest price changes of the day.
+
+Switching Platforms in FundedNext
+Thinking about moving to a different platform? Here’s what you should know before making the switch:
+
+You can switch platforms after purchase by contacting FundedNext Support, but only before placing any trades.
+You’ll receive new login credentials for the chosen platform.
+Consider strategy compatibility before switching.
+Choosing cTrader will incur an additional $25 platform fee.
+Switching is not allowed once trades have been placed, in later phases, or on reset accounts with trade history. It’s only available for new Challenge Accounts with no trading activity.
+
+Connecting Your FundedNext Account to Myfxbook
+Tracking your performance externally on Myfxbook can help you review results, analyze patterns, and refine your strategy. FundedNext supports account linking on MT4, MT5, and cTrader, with setup steps differing slightly between each platform.
+For MT4 and MT5 Users
+For MT4 and MT5, you can connect your account in two ways:
+
+Investor Password Login:
+
+In your FundedNext Dashboard, find your account credentials.
+Use the investor (read-only) password to add the account in Myfxbook.
+
+Myfxbook EA Installation:
+
+One way to connect your account is by using the EA method:
+
+Download the Myfxbook EA from the Myfxbook website.
+Install it in your MT4 or MT5 terminal under the Experts folder.
+Attach the EA to any open chart to start sending your account data to Myfxbook.
+
+Web-Based Login –
+Alternatively, you can connect your account directly through Myfxbook’s web interface without installing an EA. This method only requires your investor (read-only) password and account details.
+For step-by-step guidance on both methods, check this FAQ.
+For cTrader Users
+Use API linking from Myfxbook’s cTrader integration page. You’ll log in with your cTrader ID and approve the connection.
+Common Issues and Troubleshooting with Platforms
+Even the best platforms can give you trouble. Here’s how to troubleshoot the most common issues quickly:
+
+Login Errors
+
+Double-check your Login ID, password, and selected server.
+Make sure you’ve chosen the correct platform (MT4, MT5, cTrader, or Match-Trader) when logging in.
+If you’ve recently changed your password, update it in your platform settings before attempting to reconnect.
+
+Execution Delays
+
+Test your internet speed to ensure a stable connection.
+Close unnecessary applications that may be consuming bandwidth.
+Check platform settings, such as one-click trading and chart refresh intervals, for potential slowdowns.
+
+Password Changes
+
+You can change your MT4/MT5 password directly from your FundedNext Dashboard.
+After updating, log out of your platform and log back in with the new password to avoid connection issues.
+
+Platform Access by Account Type
+As you already know, we provide four main trading platforms for CFDs. But availability depends on your account type and stage:
+
+All CFDs account types have access to MT4 and MT5.
+cTrader and Match‑Trader are supported, but not for Stellar Instant, and accounts with $100,000 and $200,000 balances.
+For the Free Trial and Competition, traders are allowed to use only MT5.
+
+Platform Access at a Glance:
+
+Account Type / Size
+MT4
+MT5
+cTrader
+Match-Trader
+
+Stellar Lite /Stellar  1‑Step /Stellar  2‑Step (up to $50K)
+Yes
+Yes
+Yes
+Yes
+
+Large accounts ($100K, $200K)
+Yes
+Yes
+No
+No
+
+Stellar Instant
+Yes
+Yes
+No
+No
+
+Free Trial
+No
+Yes
+No
+No
+
+Competition
+No
+Yes
+No
+No
+
+Which Platform Should You Choose?
+The platform you pick can shape how smoothly you analyze, plan, and execute your trades. Here’s a quick breakdown to help you find the one that matches your style:
+
+MT4: Best if you want something simple, stable, and widely supported.
+MT5: Ideal if you’re looking for advanced tools and charting with more order types and timeframes.
+cTrader: Great choice if you value speed, sleek design, and versatile order functionalities.
+Match-Trader: Perfect if you prefer web and mobile convenience, with a friendly UI, account dashboard, and detailed reporting.
+
+Final Thoughts
+At FundedNext, you always have more options. MT4, MT5, cTrader, and Match-Trader are all on the table, each built for a different style of trading. Whether you want deep analysis, lightning-fast execution, or the freedom to trade on the go, the choice is yours. Pick your setup, log in, and make it work for you.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

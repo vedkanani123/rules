@@ -1,0 +1,10 @@
+TITLE: FundedNext
+URL: https://fundednext.com/affiliate-onboarding/check-email
+STATUS: 404
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: The World's Best Prop Trading Firm
+CANONICAL: https://fundednext.com/affiliate-onboarding/check-email
+ERROR: The website returned HTTP 404 Not Found.
+
+CONTENT:
+[No readable text content found]

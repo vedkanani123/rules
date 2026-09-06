@@ -1,0 +1,81 @@
+TITLE: Margin and Leverage in Trading: Key Facts to Know
+URL: https://fundednext.com/blog/margin-and-leverage-in-trading-what-every-trader-needs-to-know
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Understand margin and leverage in trading. Learn how they work, their risks, and how traders can use them wisely to maximize opportunities.
+CANONICAL: https://fundednext.com/blog/margin-and-leverage-in-trading-what-every-trader-needs-to-know
+HEADINGS:
+- Margin and Leverage in Trading: What Every Trader Needs To Know
+- Table of Contents
+- What is Margin & Leverage?
+- Margin Requirement:
+- Calculation of Margin
+- Used and Free Margin:
+- Margin Level:
+- Calculation of Margin Level
+- Margin Call
+- Stop Out
+- FundedNext Margin Calculator
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogMargin and Leverage in Trading: What Every Trader Needs To KnowMargin and Leverage in Trading: What Every Trader Needs To Know1 year agoAugust 20, 2025ShareTable of ContentsWhat is Margin & Leverage?Margin Requirement:Calculation of MarginUsed and Free Margin:Margin Level:Calculation of Margin LevelMargin CallStop OutFundedNext Margin CalculatorEvery trader looking to trade in the financial markets—whether forex, indices, commodities, or others—must understand margin and leverage.
+These concepts are essential, especially in forex, where large trading volumes make it difficult for the average investor to participate without them. Margin and leverage make these markets accessible to almost everyone. This blog will focus on how they operate within proprietary trading firms like FundedNext, where they empower traders to maximize their opportunities.
+What is Margin & Leverage?
+Margin is a deposit that the firm holds from traders’ accounts to let them open trading positions. It’s not a fee but a part of our account balance that gets locked when they start a new trade. The rest of the money traders see is the Free Margin in their Trading Platform.
+The method of using only a part of the money is called leveraged trading. It allows traders to trade much larger amounts than they could normally afford. This can lead to big profits even with small market movements, but it also means that losses can be just as big. Therefore, it’s very important to take money management and risk management precautions when trading with leverage.
+Margin Requirement:
+The amount of funds locked depends on the instrument/symbol which varies. The required (or initial) margin is expressed as an amount needed to open that position.
+In cTrader if you see the required margin for a position while you put the position size from OneClick trade button.
+
+Calculation of Margin
+Using the margin formula:
+Margin =(Entry Price Contract Size Lot Size) Leverage
+
+If you assume the entry price of EURUSD is 1.08255 (as 1 lot size typically represents 100,000 units in Forex), the contract size is 100,000 and the leverage is 1:100
+Margin = (1.08255 100,000 1) 100
+= $1,082.55
+If you assume the entry price of XAUUSD is 2462.44 (as 1 lot size typically represents 100 units in Commodities and 5000 units for XAGUSD), the contract size is 100 and the leverage is 1:40
+Margin = (2462.44 100 1) 40
+= $6,156.1
+If you assume the entry price of US30 is 40100.72 (as 1 lot size typically represents 10 units in Indices), the contract size is 10 and the leverage is 1:20
+Margin = (40100.72 10 1) 20
+= $20,050.36
+If you assume the entry price of BTCUSD is 59411.13 (as 1 lot size typically represents 1 unit for BTCUSD), the contract size is 1 and the leverage is 1:2
+Margin = (59411.13 1 1) 2
+= $29,705.57
+
+Used and Free Margin:
+When a trader opens additional positions, each new trade blocks additional funds in our account. The total of these funds are called the used or total margin. The remaining funds available are called available or free margin. It is the equity (balance adjusted by the profit or loss on currently open positions) of the account minus the used margin.
+Not Enough Fund
+If someone tries to place an order that exceeds the margin level, a “No Money” message will appear.
+Which means, if the trader wants to open a trade in EURUSD of 10 lots. The amount needed is $10834.60. If the account size is 15K and while the 10 lots trade is running already.
+Margin Level:
+In the trading platform, you often see a percentage called the margin level. This represents the ratio between the equity and the used margin. For instance, if you have $55,000 in equity and the used margin is $2,500, the margin level is 2200%.
+In forex trading, a margin level above 100% is considered safe, indicating that the account’s equity exceeds the funds used for trades. This level is critical as it usually marks the margin call level.
+Calculation of Margin Level
+Using the margin level formula:
+Margin Level = (EquityUsed Margin) 100
+Let’s say, you have taken a trade on EURUSD with 10 Lots and the account balance is 100,000.
+Here the used margin amount for the 10 Lots is $10922.10.
+Margin Level = (10000010922.10) 100
+= 915.57 %
+Let’s say, you have taken a trade on XAUUSD with 10 Lots and the account balance is 100,000.
+Here the used margin amount for the 10 Lots is $24,250.40.
+Margin Level = (10000024,250.40) 100
+= 412.36 %
+Let’s say, you have taken a trade on US30 with 10 Lots and the account balance is 100,000.
+Here the used margin amount for the 10 Lots is 39,474.60
+Margin Level = (100,00039,474.60) 100
+= 253.38 %
+These calculations demonstrate how margin and leverage work together to determine the funds required to open a position along with the safety level of a trading account.
+Margin Call
+If a trader opens too many large positions or their trades incur significant losses, the margin level can drop sharply. Upon reaching a certain level, the trader receives a margin call, meaning their equity has fallen below the used margin, and the account funds are insufficient relative to the required margin. At this point, the trader cannot open new positions and should start closing open positions or get more funds in his account.
+Stop Out
+If the trader continues to perform poorly and the margin level keeps falling due to adverse market movements, they might reach a stop-out level. This level varies from firm to firm. For example, if the stop-out level is set at 50%, when the margin level hits 50%, the firm will start closing open positions, starting with those incurring the largest losses.
+In FundedNext the Stop Out Level is at 30%.
+Trading with leverage and using margin can lead to quick gains but also quick losses. To avoid margin calls and stop-outs, it is essential to follow money management and risk management principles. Using Stop Losses, opening reasonably sized positions, or limiting trading during significant news announcements can help prevent encountering margin calls and stop-outs.
+FundedNext Margin Calculator
+At FundedNext, we not only provide leverage but also let traders open large accounts with a small fee.
+To improve services for FundedNext Traders, we added a new Margin Calculator to our Dashboard. This tool eliminates the need for manual margin calculations.
+Since manual margin calculations can be a hassle, we believe this tool will be very helpful for our traders. Understanding and calculating margin doesn’t have to be complicated with this new feature.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

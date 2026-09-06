@@ -1,0 +1,243 @@
+TITLE: FNL:001: The First Release from FundedNext Labs
+URL: https://fundednext.com/blog/introducing-fundednext-labs-fnl-001
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Explore FNL:001, the first release from FundedNext Labs, built to deliver innovative technology and new possibilities for traders worldwide.
+CANONICAL: https://fundednext.com/blog/introducing-fundednext-labs-fnl-001
+HEADINGS:
+- Introducing FNL:001, The First Release from FundedNext Labs
+- Table of Contents
+- What Is the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?
+- Where FNL:001 Comes From: Inside FundedNext Labs
+- “FNL:001 NO DLL 1-Step CFD 50K Challenge” Rules
+- How the 40% Consistency Rule Works in the Challenge
+- How the EOD Trailing Maximum Loss Limit Works
+- FundedNext Account Rules: What Happens After You Pass
+- What Are Benchmark Days?
+- Payout Eligibility: The Full Checklist
+- How the MLL Locks After Your First Payout
+- What You Get for $99.99
+- Why Traders Compare “FNL:001 NO DLL 1-Step CFD 50K Challenge” to Futures Challenges
+- Who Is “FNL:001 NO DLL 1-Step CFD 50K Challenge” For?
+- Final Thoughts
+- Frequently Asked Questions
+- Is there a daily loss limit on the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?
+- What is the profit target for the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?
+- How fast are payouts processed?
+- Can I hold trades over the weekend?
+- Can I reset or add funds to my “FNL:001 NO DLL 1-Step CFD 50K Challenge” account?
+- What happens after 5 payouts?
+- Is the “FNL:001 NO DLL 1-Step CFD 50K Challenge” a real funded account?
+- How long will this package be available?
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogIntroducing FNL:001, The First Release from FundedNext LabsIntroducing FNL:001, The First Release from FundedNext Labs1 month agoJuly 22, 2026ShareTable of ContentsWhat Is the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?Where FNL:001 Comes From: Inside FundedNext Labs“FNL:001 NO DLL 1-Step CFD 50K Challenge” RulesHow the 40% Consistency Rule Works in the ChallengeHow the EOD Trailing Maximum Loss Limit WorksFundedNext Account Rules: What Happens After You PassWhat Are Benchmark Days?Payout Eligibility: The Full ChecklistHow the MLL Locks After Your First PayoutWhat You Get for $99.99Why Traders Compare “FNL:001 NO DLL 1-Step CFD 50K Challenge” to Futures ChallengesWho Is “FNL:001 NO DLL 1-Step CFD 50K Challenge” For?Final ThoughtsFrequently Asked QuestionsIs there a daily loss limit on the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?What is the profit target for the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?How fast are payouts processed?Can I hold trades over the weekend?Can I reset or add funds to my “FNL:001 NO DLL 1-Step CFD 50K Challenge” account?What happens after 5 payouts?Is the “FNL:001 NO DLL 1-Step CFD 50K Challenge” a real funded account?How long will this package be available?The “FNL:001 NO DLL 1-Step CFD 50K Challenge” is a new $50,000 CFDs challenge available exclusively through FundedNext Labs, priced at $99.99. It brings challenge conditions long associated with the Futures prop market into a CFDs plan: no daily loss limit, no risk rule, and no margin rule.
+This guide explains every rule of this new model, from the 40% consistency rule to the EOD trailing maximum loss limit, so you know exactly how the challenge and the FundedNext Account work before you start.
+TL;DR
+
+$99.99 for a $50K account, making the “FNL:001 NO DLL 1-Step CFD 50K Challenge” the most affordable $50K CFDs challenge in the industry, with a 6% profit target ($3,000), the lowest for a 1-step plan across the market.
+No daily loss limit, no risk rule, no margin rule, and no interview. The account is protected instead by a single $2,000 EOD trailing Maximum Loss Limit (MLL).
+Payouts with an 80% profit share. Withdraw whenever you meet the criteria: at least $500 profit in the cycle and 5 Benchmark Days of $200 or more.
+Weekend holding, overnight holding, and news trading are all allowed in both the challenge and the funded stage.
+The account concludes after 5 payouts, with each maximum withdrawal capped at 50% of profit up to $2,000.
+
+What Is the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?
+The “FNL:001 NO DLL 1-Step CFD 50K Challenge” is a 1-step CFDs challenge from FundedNext, a prop trading firm that has paid out more than $325.9M in verified payouts. You purchase the challenge for $99.99, trade a $50,000 simulated account, and reach a $3,000 profit target while staying above the Maximum Loss Limit. Pass, and you receive a FundedNext Account with an 80% profit share during withdrawals.
+This plan brings Futures-style challenge conditions to CFDs. One trailing loss limit instead of layered daily rules, no daily loss limit, a consistency requirement in the challenge phase only, and payouts you request rather than wait out. The entry price and profit target are also the lowest in the CFD industry, and the trading freedoms most firms restrict stay open in both the challenge and the funded stage. The breakdown below covers what that means in practice.
+Where FNL:001 Comes From: Inside FundedNext Labs
+FNL:001 is the first plan released through FundedNext Labs, a dedicated destination at fundednext.com/labs for beta plans, experimental features, and early-access products. Labs is not a discount or clearance channel. It is a controlled environment where new plan structures are tested in live conditions, backed by FundedNext’s full track record and infrastructure. FNL:001 is available through Labs for a limited time.
+“FNL:001 NO DLL 1-Step CFD 50K Challenge” Rules
+The challenge phase uses a compact rule set. Here is the complete specification:
+
+Metric
+Challenge Account Rule
+
+Account Size
+$50,000
+
+Price
+$99.99
+
+Profit Target
+$3,000 (6%)
+
+Maximum Loss Limit (MLL)
+$2,000
+
+Drawdown Type
+EOD Trailing
+
+Daily Loss Limit
+None
+
+Consistency Rule
+40%
+
+News Trading
+Allowed
+
+Weekend Holding
+Allowed
+
+Overnight Holding
+Allowed
+
+Max Lot at a Time
+FX: 5 lots; Commodities/Indices: 2 lots; Crypto: not allowed
+
+Commission
+FX & Oil: $5 per lot; Metals: 0.0016%
+
+Leverage
+Forex: 1:30; Indices: 1:25; Commodities: 1:25
+
+Two administrative notes apply. Add-Ons and Resets are not available for this challenge, and KYC follows the same process as other FundedNext CFDs models.
+How the 40% Consistency Rule Works in the Challenge
+The consistency rule ensures that no single trading day accounts for more than 40% of your total profit target. For the $50K account, the profit target is $3,000, so the single-day threshold is $1,200 ($3,000 × 40%).
+Here is how it plays out in practice:
+
+A day’s profit is $1,200 or less: Your target stays at $3,000.
+A day’s profit exceeds $1,200, for example $1,400: the profit target adjusts so that day fits within 40% of the total. The new required profit becomes $1,400 ÷ 40% = $3,500.
+A later day exceeds the previous best, for example $1,450: the target adjusts again to $1,450 ÷ 40% = $3,625.
+
+There is no breach state here. The consistency rule cannot fail your account, close it, or void your attempt. The only consequence is a higher profit target. At $3,625, you need $625 more than the original $3,000 before you pass, traded on the same account under the same $2,000 MLL. The target stops moving as soon as your best day stops growing. The rule exists so a passing result reflects repeatable performance rather than one outsized session. It applies during the challenge only. The FundedNext Account has no consistency rule.
+How the EOD Trailing Maximum Loss Limit Works
+The Maximum Loss Limit is the total amount your account can lose before it is restricted from further trading. On FNL:001 the MLL is $2,000 and it trails on an end-of-day basis. It recalculates once per day from your closing balance, not tick by tick during the session.
+Your starting floor: $48,000
+A $50,000 account with a $2,000 MLL opens with a minimum allowed balance of $48,000. That is the only number in play until you close a day in profit.
+How the floor moves, day by day
+Day 1, a profitable day. You close $1,000 up at $51,000.
+Calculation: $51,000 − $2,000 = $49,000
+Result: your floor moves up to $49,000.
+Day 2, the floor reaches its lock point. Another $1,100 takes the balance to $52,100.
+Calculation: $52,100 − $2,000 = $50,100
+Result: $50,100 is your starting balance plus $100, so the MLL locks here permanently. It will not trail higher regardless of how far the account grows.
+Day 3, a losing day. The balance falls $600 to $51,500.
+Result: the floor does not follow. It stays at $50,100.
+Day 4, a strong day. The balance climbs $3,500 to $55,000.
+Result: the floor is still $50,100. Your drawdown room is now $4,900, more than double what you started with, because the floor stopped trailing while the balance kept rising.
+The number to remember is $52,100. Once your balance closes there or higher, trailing stops for the life of the account and your floor sits at $50,100, just above where you started. Every dollar earned after that widens your buffer instead of moving the limit.
+FundedNext Account Rules: What Happens After You Pass
+Passing the challenge moves you into the FundedNext Account, where the reward structure takes over. Here is the full specification:
+
+Metric
+Challenge Account Rule
+
+Account Size
+$50,000
+
+Maximum Loss Limit (MLL)
+$2,000
+
+Drawdown Type
+EOD Trailing
+
+Daily Loss Limit
+None
+
+Minimum Benchmark Days
+5 days ($200 per day)
+
+Minimum Profit Per Cycle
+$500
+
+Maximum Withdrawal Per Payout
+Up to 50% of profit, capped at $2,000
+
+Minimum Withdrawal
+$250
+
+Max Payouts Per Account
+5 (account concludes after the 5th payout)
+
+Consistency Rule
+None
+
+MLL Lock After First Payout
+$50,100
+
+Profit Share
+80%
+
+News Trading
+Allowed
+
+Weekend Holding
+Allowed
+
+Overnight Holding
+Allowed
+
+Max Lot at a Time
+FX: 5 lots; Commodities/Indices: 2 lots; Crypto: not allowed
+
+Commission
+FX & Oil: $5 per lot; Metals: 0.0016%
+
+Leverage
+Forex: 1:30; Indices 1:25, and Commodities: 1:25
+
+What Are Benchmark Days?
+Benchmark Days are trading days where you meet the minimum required profit for your account size. For the $50K FundedNext Account, a Benchmark Day requires a minimum profit of $200.
+There are no Benchmark Day requirements during the challenge. In the FundedNext Account, you must complete at least 5 Benchmark Days before you become eligible for a withdrawal.
+Payout Eligibility: The Full Checklist
+Before requesting a payout, confirm you meet every criterion:
+
+Minimum $500 profit in the current cycle
+Minimum 5 Benchmark Days of $200 or more each
+Minimum withdrawal amount of $250
+Maximum withdrawal of 50% of profit, capped at $2,000 per payout
+80% profit share applied to your withdrawal
+The account concludes after 5 payouts
+
+Unlike other FundedNext CFDs models, there is no fixed payout cycle here. The cycle is defined by you, based on when you initiate the withdrawal. FundedNext’s published 24-hour payout commitment applies, with eligible delays triggering up to $1,000 in compensation.
+How the MLL Locks After Your First Payout
+The first payout brings its own safeguard. If your MLL is still below $50,100 at the time of your first withdrawal, the payout locks it at $50,100 (starting balance plus $100). From that point forward, your account’s risk floor sits just above its starting balance for the remainder of its life.
+What You Get for $99.99
+Every rule in this plan trades a constraint for a decision. Here is what that buys you.
+The lowest cost of entry for a $50K CFD account. At $99.99, the barrier to starting is low and so is the barrier to starting again. There is no reset fee structure on this plan because there is nothing to reset. If an account closes, a second attempt is a new challenge at the same $99.99. That matters more than it sounds. When the cost of a fresh attempt is small, you are not carrying pressure from the fee into your position sizing.
+A $3,000 profit target, the lowest for a 1-step plan. Six percent is roughly half what most 1-step CFD challenges ask for. Combined with no time limit, the target is reachable on a conservative risk model rather than requiring a concentrated run.
+No daily loss limit. This is the rule that ends most CFD challenges, and it ends them on days when the market moves, not on days when the trader is wrong. Without it, a single volatile session cannot close your account. Your only exposure is the cumulative $2,000 EOD trailing MLL, which you can see and plan against at any point.
+No risk rule, no margin rule, no interview. Position sizing, exposure, and stop placement stay with you. There is no hidden threshold that flags a trade after the fact.
+News trading, weekend holding, and overnight holding, all allowed in both phases. Most CFD plans restrict at least one of these. Here the same conditions apply in the challenge and the FundedNext Account, so the strategy that passes the challenge is the strategy you keep trading.
+No consistency rule in the FundedNext Account. The 40% rule applies during the challenge only. Once funded, a single strong day carries its full weight toward your payout instead of extending a target.
+Payouts at an 80% profit share. There is no fixed cycle to wait out. Once you have $500 in cycle profit and 5 Benchmark Days of $200 or more, you decide when the cycle ends by requesting the withdrawal.
+Why Traders Compare “FNL:001 NO DLL 1-Step CFD 50K Challenge” to Futures Challenges
+The rule set of the “FNL:001 NO DLL 1-Step CFD 50K Challenge” will feel familiar to anyone who has traded with a Futures prop firm. Futures challenges typically run on a single trailing drawdown with no daily loss limit, consistency requirements, and flexible payout structures. The “FNL:001 NO DLL 1-Step CFD 50K
+Challenge” brings that structure to CFDs:
+
+EOD trailing MLL in place of layered daily and overall limits
+No daily loss limit, so one volatile session does not end the challenge
+A consistency rule in the challenge phase, mirroring standard Futures challenge design
+Payouts, with eligibility defined by Benchmark Days rather than calendar cycles
+
+For CFD traders who have been curious about Futures-style conditions but do not want to switch instruments or platforms, this plan offers those conditions on the markets they already trade: FX, commodities, indices, and metals, on MT5 or Match-Trader (USA only).
+Who Is “FNL:001 NO DLL 1-Step CFD 50K Challenge” For?
+The plan is built around three trader profiles:
+
+Swing and multi-day traders. Weekend and overnight holding are both allowed in the challenge and the funded stage, so strategies that hold through sessions and weekends are viable from day one.
+Traders who find rule-heavy challenges restrictive. With no daily loss limit, no risk rule, and no margin rule, position sizing and daily risk become trading decisions rather than challenge constraints, managed against a single MLL.
+Cost-conscious traders. At $99.99 for a $50K account with a 6% profit target, the financial barrier to entry and to retrying after a failed attempt is the lowest in the CFD industry.
+CFD traders curious about Futures-style conditions. The rules here mirror a Futures challenge, but nothing else about your setup changes. You trade FX, indices, commodities, and metals on MT5 or Match-Trader(USA only), the same platforms used across FundedNext’s CFD line. There are no contract specifications to learn, no tick values to convert, and no platform migration before you can start.
+
+Final Thoughts
+The “FNL:001 NO DLL 1-Step CFD 50K Challenge” condenses the CFD challenge into its simplest workable form: one price, one loss limit, one profit target, and a payout schedule you control. At $99.99 for a $50K account with a 6% target, no daily loss limit, and 80% profit share, it is the most accessible entry point in FundedNext’s CFD lineup, and the closest a CFD plan has come to Futures-style trading conditions.
+The challenge is available now, for a limited time, exclusively through FundedNext Labs. Review the full rules on the Labs page, and when you are ready, start your challenge. For more detail on any rule covered here, the FundedNext Help Center has the complete documentation.
+Frequently Asked Questions
+Is there a daily loss limit on the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?
+No. The “FNL:001 NO DLL 1-Step CFD 50K Challenge” has no daily loss limit in either the challenge or the FundedNext Account. The account is protected by a $2,000 EOD trailing Maximum Loss Limit instead.
+What is the profit target for the “FNL:001 NO DLL 1-Step CFD 50K Challenge”?
+The profit target is $3,000, which is 6% of the $50,000 account. This is the lowest profit target for a 1-step plan in the CFD industry. The target can adjust upward if a single day’s profit exceeds 40% of it, as explained in the consistency rule section above.
+How fast are payouts processed?
+FundedNext operates a published 24-hour payout commitment. Eligible delays may trigger up to $1,000 in compensation. Read more in our guide to how FundedNext payouts work.
+Can I hold trades over the weekend?
+Yes. Weekend holding and overnight holding are allowed in both the challenge and the funded stage.
+Can I reset or add funds to my “FNL:001 NO DLL 1-Step CFD 50K Challenge” account?
+No. Add-Ons and Resets are not applicable to this challenge. If your account is closed, a new challenge can be purchased at the standard $99.99 price.
+What happens after 5 payouts?
+The account concludes after the 5th payout. Across those payouts, each withdrawal can be up to 50% of cycle profit, capped at $2,000, at an 80% profit share.
+Is the “FNL:001 NO DLL 1-Step CFD 50K Challenge” a real funded account?
+Like all FundedNext challenges, this is a simulated funded account. Your payouts are real and backed by FundedNext’s $257M+ verified payout track record.
+How long will this package be available?
+FNL:001 is a Labs release, so it runs for a limited period rather than joining the permanent CFD lineup. Your account is not affected by that window. Any challenge or FundedNext Account opened while the plan is on sale continues under the rules described here for its full life, including all five payouts, even after the plan closes to new purchases. Check FundedNext Labs for current availability.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

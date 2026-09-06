@@ -1,0 +1,108 @@
+TITLE: BID vs ASK Explained: A Trader’s Essential Handbook
+URL: https://fundednext.com/blog/bid-ask-and-everything-in-between
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Learn the basics of BID, ASK, and spreads in trading. This handbook helps traders understand pricing, execution, and smarter trading decisions.
+CANONICAL: https://fundednext.com/blog/bid-ask-and-everything-in-between
+HEADINGS:
+- BID, ASK and Everything in Between: A Trader’s Handbook
+- Table of Contents
+- What is the BID Price?
+- What is the ASK Price?
+- BID-ASK: Spread
+- When Your Limit Order Fails to Trigger Despite Reaching the Price
+- Importance of Spread
+- Widen Spreads During News Events
+- Factors Affecting the BID-ASK Spread
+- Minimizing the Impact of Spreads
+- Conclusion
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogBID, ASK and Everything in Between: A Trader’s HandbookBID, ASK and Everything in Between: A Trader’s Handbook1 year agoAugust 20, 2025ShareTable of ContentsWhat is the BID Price?What is the ASK Price?BID-ASK: SpreadWhen Your Limit Order Fails to Trigger Despite Reaching the PriceImportance of SpreadWiden Spreads During News EventsFactors Affecting the BID-ASK SpreadMinimizing the Impact of SpreadsConclusionWhat is the BID Price?
+The BID price is the highest price a Buyer is willing to pay for an asset at any given moment. In trading, this represents the price at which you, as a trader, can SELL the asset. The market candle is printed based on the BID prices.
+What is the ASK Price?
+The ASK price, also known as the offer price, is the lowest price a seller is willing to accept for an asset. This is the price at which you can BUY the asset from the market.
+BID-ASK: Spread
+The spread is the difference between the BID price and the ASK price. This spread often serves as a transaction cost for traders. For example:
+
+XAUUSD BID: 2646.35
+XAUUSD ASK: 2646.55
+Spread: 2 pips
+
+How Do BID and ASK Prices Work in Forex?
+In forex trading:
+
+BUY Orders: Opens at the current ASK price and closes at the BID price.
+SELL Orders: Opens at the current BID price, and closes at the ASK price.
+
+Limit Orders: A limit order is placed at a specific price in the market and will only execute when the relevant price side—ASK for a BUY Limit order and BID for a SELL Limit order—reaches the specified level. It ensures execution only if the market hits that designated price point. Often, we see that the market price hits our BUY Limit order price, but the order hasn’t executed yet. Cause the ask price didn’t reach the BUY Limit Order Price.
+When Your Limit Order Fails to Trigger Despite Reaching the Price
+BUY Limit
+The reason your BUY Limit Order was not executed lies in the spread—the difference between the BID price. When you place a BUY Limit Order, it triggers when the ASK price reaches your specified limit price.
+For example, you placed a BUY Limit order at 2434.34, and the candle moved beyond this price level. However, the order was not executed because the ASK price did not reach your specified limit price, even though the BID price dropped 1 pips below the set limit.
+
+Stop Loss
+Sometimes, you might notice that the price level displayed on the candle did not reach your desired level, yet the Stop Loss is triggered. This occurs because the BID price (commonly shown on charts) did not reach the specified level, but the ASK price did. The reason your Stop Loss was triggered lies in the spread—the gap between the BID and ASK prices.
+For a SELL order, the Stop Loss is designed to trigger when the ASK price reaches the specified Stop Loss level, not the BID price. This discrepancy is due to the spread, which can vary depending on market conditions.
+Take Profit
+Sometimes, you might notice that the price level displayed on the candle reached your desired level, yet the Take Profit did not trigger. This occurs because the BID price (commonly shown on charts) reached the specified level, but the ASK price did not. The reason your Take Profit was triggered lies in the spread—the gap between the BID and ASK prices.
+For a SELL order, the Take Profit order is designed to trigger when the ASK price reaches the specified Stop Loss level, not the BID price. However, the order Take profit could not be triggered because the ASK price did not reach your specified limit price, even though the BID price dropped 1.4 pips below the specific price level.
+Importance of Spread
+The spread represents the cost of trading. A narrow spread (small difference) is more favorable for traders as it reduces costs, while a wide spread (large difference) increases the cost of entering and exiting trades. Spreads can indicate market liquidity:
+
+Narrow spreads = High liquidity.
+Wide spreads = Low liquidity or high volatility.
+
+Widen Spreads During News Events
+During major news releases, markets experience heightened volatility and uncertainty. This often leads to:
+
+Widen Spread
+Sudden Spike
+Rapid Price Movement
+
+Factors Affecting the BID-ASK Spread
+Several factors influence the BID-ASK spread:
+
+Liquidity: Highly liquid assets (e.g., major forex pairs) have tighter spreads, while less liquid assets (e.g., exotic currency pairs) have wider spreads. BID and ASK prices constantly fluctuate based on market activity.
+Specifically, when the liquidity of symbols drops due to various variable spreads, it can get wider even for usual liquid pairs. Factors such as changes in supply and demand, news events, and economic data releases can cause these prices to move rapidly.
+Market Volatility: During periods of high volatility, spreads tend to widen due to uncertainty in the market.
+Market Hours: Spreads can vary depending on the time of day, especially outside regular trading hours or during midnight and market overlaps.
+
+Minimizing the Impact of Spreads
+
+Trade highly liquid assets with narrow spreads.
+Avoid trading during periods of high volatility or low liquidity.
+Use a reliable firm that offers competitive spreads or raw spreads with transparent commission fees.
+
+A short overview of BID and ASK:
+
+Aspect
+BID Price
+ASK Price
+
+Definition
+The highest price a Buyer is willing to pay for a SELL trade of an asset.
+The lowest price a seller is willing to accept for a BUY trade of an asset.
+
+Role in Trading
+Known as the sellers’ rate because it represents the price traders receive when selling.
+Known as the buyers’ rate because it represents the price traders pay when buying.
+
+Execution Priority
+SELL order executes at the BID price.
+BUY order executes at the ASK price.
+
+Stop Loss/Take Profit
+Stop Loss/Take Profit
+of a BUY trade triggers at BID price.
+Stop Loss/Take Profit
+of a SELL trade triggers at ASK price.
+
+Limit Order
+SELL Limit executes at the BID price.
+BUY Limit order executes at the ASK price.
+
+Conclusion
+Understanding BID and ASK prices is essential for navigating financial markets effectively. Being informed about BID-ASK spreads, market volatility, and liquidity helps traders make smarter decisions and minimize costs.
+At FundedNext, we provide some of the lowest spreads in the industry. We offer an optimized trading environment with minimal spreads, ensuring our clients can focus on their strategies without excessive transaction costs. Whether trading during regular hours or high-volatility events, FundedNext gives traders a distinct advantage with competitive pricing.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

@@ -1,0 +1,62 @@
+TITLE: Smart Money Concepts and Terms | FundedNext
+URL: https://fundednext.com/blog/smart-money-concepts-incorporated-into-forex-trading
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: “The smart money” is a common phrase used in many contexts. What does it mean in trading specifically? Learn about smart money concepts in trading.
+CANONICAL: https://fundednext.com/blog/smart-money-concepts-incorporated-into-forex-trading
+HEADINGS:
+- What are Smart Money Concepts in Trading?
+- Table of Contents
+- The Basics of Smart Money and How it Relates to Smart Money Concepts
+- How Do Smart Money Concepts Work?
+- Order Blocks
+- Breaker Blocks
+- Break of Structure
+- Change of Character
+- Fair Value Gaps
+- Putting Smart Money Concepts to Work
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogWhat are Smart Money Concepts in Trading?What are Smart Money Concepts in Trading?1 year agoAugust 27, 2025ShareTable of ContentsThe Basics of Smart Money and How it Relates to Smart Money ConceptsHow Do Smart Money Concepts Work?Order BlocksBreaker BlocksBreak of StructureChange of CharacterFair Value GapsPutting Smart Money Concepts to WorkSummary:
+Smart Money Concepts involve understanding the actions of large market players (market makers) in trading. These concepts include tools like order blocks, break of structure, and fair value gaps, which help traders anticipate market moves. Learning and applying these strategies can improve trading decisions, though risks remain.
+Main Points:
+
+Smart Money Concepts are strategies focusing on the actions of large market players.
+Key tools: Order Blocks, Breaker Blocks, Break of Structure, Change of Character, Fair Value Gaps.
+These tools help predict market movements and trends.
+Following smart money can inform trading decisions, but it’s not risk-free.
+
+You may have heard the term “smart money” before, whether in investing, trading, or a totally different context.
+Going a step further, Smart Money Concepts refers to a specific trading strategy. Key points include order blocks, break of structure, and fair value gaps.
+Some traders believe Smart Money Concepts are more like a theory than a strategy, as How To Trade points out. Either way, learning about this idea can help you choose whether you want to add it to your own concept of trading and the strategies you use to make trades.
+The Basics of Smart Money and How it Relates to Smart Money Concepts
+Investopedia takes a deeper look at the general idea of smart money in trading.
+They explain that: “Smart money refers to investments made by experienced investors, such as institutional investors, hedge funds, or private equity firms, with a proven track record of success in the financial markets.” The central banks of countries are also sometimes seen as part of this group. These large investors are also called market makers.
+These large investors have extremely large amounts of capital behind them. So, when they make moves in their chosen markets, they can influence and cause major changes in those markets.
+In other words, market makers have a lot of influence, and their actions can lead to shifts in sentiment among other traders and in trading activity across a given market.
+It’s important to note that, so far, we’ve discussed “smart money,” not “Smart Money Concepts.”
+By itself, smart money is an idea about how certain factors, and especially very large investors, influence trading markets as a whole. Smart Money Concepts is a more specific theory, as well as tools, or ways of seeing trading information and trends, that help traders tap into the actions of large or institutional traders and investors.
+There’s one more piece to the theory of Smart Money Concepts that’s worth noting before we start looking at the tools used to track and anticipate the movements of large investors.
+Some traders believe that large investors don’t only drive large changes in markets due to the scale of their activities. These traders also believe that market makers take actions that end up hurting everyday traders.
+The idea is that market makers have the capital needed to manipulate the market in their favor, which often hurts smaller (also called retail) traders. Other traders believe market makers don’t actively manipulate markets — instead, their influence is largely due to their large amounts of capital and activity.
+Whether or not you buy into this part of the theory, there’s no doubt that market makers can and do influence the markets in which they’re active. So, tracking recent moves of market makers and predicting future trades and activity may provide valuable insight that can support trades with more positive returns for single traders.
+With that said, let’s look at some of the specific tools used in Smart Money Concepts.
+How Do Smart Money Concepts Work?
+Smart Money Concepts in forex and other types of trading can help you make trading decisions by understanding what the market makers are doing, or what it looks like they plan to do. It’s up to you to decide whether you want to use Smart Money Concepts.
+Here are the basics on a few key tools and indicators used as part of this theory. Look here to see visual examples of many of the following Smart Money Concepts.
+Order Blocks
+Order blocks help to identify supply and demand in a given market. More specifically, order blocks appear on candlestick and bar charts when market makers make several large orders to buy or sell an asset in a relatively short period of time.
+Traders who follow the Smart Money Concepts theory believe order blocks often predict large market moves that follow the block’s direction.
+Breaker Blocks
+Breaker blocks are closely related to support and resistance. They can be seen as an unsuccessful order block, where prices move above or below a given level. They can show that market makers have changed their direction.
+Break of Structure
+Breaks of structure, or BOS, occur when an asset’s price crosses above a significant high or below a significant low. They can signal a new direction in the broader trend of a market, as the velocity of a trend begins to slow and a reversal is possible.
+Change of Character
+Change of character, or “Choch,” refers to a major change in market activity. It is often seen in a drastic change in price direction, price volatility, or order volume. It can signal the beginnings of a trend reversal.
+Fair Value Gaps
+Fair value gaps represent very quick changes in price in a relatively short period of time. They indicate a potential lack of balance between supply and demand. That makes them attractive to traders large and small as they attempt to exploit the imbalance and find positive returns.
+Putting Smart Money Concepts to Work
+For individual traders, looking at the actions of smart money investors can help to reveal their likely motives and impact on the market.
+Remember that following the smart money does not always mean success. There is always risk in trading no matter the strategy. Yet, following smart money activity can offer more context to better inform choices. It can help you predict the impact of large traders on markets.
+Start our Stellar Challenge at FundedNext. Trade with no time limits and earn up to 95% profit split. Sign up now!
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

@@ -1,0 +1,200 @@
+TITLE: FNL:002 2-Step CFDs 25K Challenge - 12% MLL & 3-Day Payout
+URL: https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Trade the FNL:002 2-Step CFDs 25K challenge with a 12% max loss limit and qualify for payouts in just 3 days. See rules, targets, and how to get funded.
+CANONICAL: https://fundednext.com/blog/fnl-002-2-step-cfds-25k-challenge
+HEADINGS:
+- FNL:002: Three Profitable Days Close the Cycle
+- Table of Contents
+- What Is the FNL:002 12% MLL, 3-Day Payout 2-Step CFDs 25K Challenge?
+- FNL:002 Challenge Rules: Phase 1 and Phase 2
+- How the 12% Static Maximum Loss Limit Works
+- What Counts as a Minimum Profitable Day
+- FundedNext Account Rules: How the 3-Day Payout Cycle Works
+- How FNL:002 Differs From Other FundedNext CFD Models
+- Who FNL:002 Is Built For
+- Start FNL:002 Challenge
+- Frequently Asked Questions
+- What is the Maximum Loss Limit on FNL:002?
+- How many profitable days do I need for a payout?
+- Which platforms are available for FNL:002?
+- Can I reset my FNL:002 account or buy an Add-On?
+- Is news trading allowed on FNL:002?
+- Is there a risk rule on FNL:002?
+- How long is FNL:002 available?
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogFNL:002: Three Profitable Days Close the CycleFNL:002: Three Profitable Days Close the Cycle1 month agoAugust 04, 2026ShareTable of ContentsWhat Is the FNL:002 12% MLL, 3-Day Payout 2-Step CFDs 25K Challenge?FNL:002 Challenge Rules: Phase 1 and Phase 2How the 12% Static Maximum Loss Limit WorksWhat Counts as a Minimum Profitable DayFundedNext Account Rules: How the 3-Day Payout Cycle WorksHow FNL:002 Differs From Other FundedNext CFD ModelsWho FNL:002 Is Built ForStart FNL:002 ChallengeFrequently Asked QuestionsWhat is the Maximum Loss Limit on FNL:002?How many profitable days do I need for a payout?Which platforms are available for FNL:002?Can I reset my FNL:002 account or buy an Add-On?Is news trading allowed on FNL:002?Is there a risk rule on FNL:002?How long is FNL:002 available?A 12% Maximum Loss Limit, a payout cycle counted in 3 profitable days, and an 85% reward share. Those are the three numbers behind the “FNL:002 12% MLL, 3-Day Payout 2-Step CFDs 25K Challenge”, the second release from FundedNext Labs.
+It is a two-phase CFD challenge on a $25,000 account, priced at $149.99. Every rule sits in the tables below.
+TL;DR
+
+$149.99 for a $25,000 account. Phase 1 target is 8%, Phase 2 is 6%.
+12% Maximum Loss Limit, static drawdown. The same 12% applies in both challenge phases and in the FundedNext Account.
+3 profitable days close a payout cycle, at an 85% reward share. A profitable day is $250, which is 1% of the account.
+4% Daily Loss Limit, and no risk rule in the challenge. In the FundedNext Account, a maximum of 3% at a time applies.
+News trading is not allowed. Weekend and overnight holding are allowed. MT5 and Match-Trader are the two available platforms.
+
+What Is the FNL:002 12% MLL, 3-Day Payout 2-Step CFDs 25K Challenge?
+FNL:002 is a two-phase CFD challenge for a $25,000 account, priced at $149.99. Clear an 8% target in Phase 1 and a 6% target in Phase 2, and you receive a FundedNext Account with an 85% reward share.
+The plan is a FundedNext Labs release, so it is a challenge structure being tested rather than part of the permanent lineup. Compared with other FundedNext CFD models, FNL:002 has no refund, no 15% performance reward from the challenge phase, and no Scale-Up.
+FNL:002 Challenge Rules: Phase 1 and Phase 2
+
+Metric
+Phase 1
+Phase 2
+
+Account Size
+$25,000
+
+Price
+$149.99
+
+Profit Target
+8%
+6%
+
+Daily Loss Limit (DLL)
+4%
+
+Maximum Loss Limit (MLL)
+12%
+
+Drawdown Type
+Static
+
+Minimum Profitable Days
+2 days (1% Profit/$250 per day)
+
+Risk Rule
+None
+
+News Trading
+Not allowed
+
+Weekend Holding
+Allowed
+
+Overnight Holding
+Allowed
+
+Commission
+FX and Energy $5 per lot, Metals 0.0016%, Indices 0
+
+Leverage
+FX 1:100, Metals, Energy and Indices 1:25
+
+Add-Ons and Resets are not applicable to this challenge. KYC follows the same process as other FundedNext CFDs models, and a single user can purchase a maximum of 5 accounts.
+How the 12% Static Maximum Loss Limit Works
+The Maximum Loss Limit on FNL:002 is 12%, and the drawdown type is static. FundedNext applies the same static MLL and DLL structure here as on its other CFD challenges.
+At 12% of a $25,000 account, the limit is $3,000, placing the floor at $22,000. The Daily Loss Limit is 4%, or $1,000, so three consecutive days at the full daily limit would reach the maximum loss limit exactly.
+What Counts as a Minimum Profitable Day
+For a $25,000 account, a profitable day requires $250 in profit, which is 1% of the account. Profit is attributed to the day the trade closes, regardless of when it was opened.
+
+Day
+Daily Profit
+Qualifies as a Profitable Day?
+
+Day 1
+$270
+Yes. $270 exceeds the $250 (1%) minimum.
+
+Day 2
+$150
+No. $150 is below the $250 (1%) minimum.
+
+Day 3
+$300
+Yes. $300 exceeds the $250 (1%) minimum.
+
+Each challenge phase requires 2 profitable days. The FundedNext Account payout cycle requires 3.
+FundedNext Account Rules: How the 3-Day Payout Cycle Works
+
+Metric
+FundedNext Account Rule
+
+Account Size
+$25,000
+
+Reward Share
+85%
+
+Payout Cycle
+3 minimum profitable days ($250 per day)
+
+Daily Loss Limit
+4%
+
+Maximum Loss Limit
+12%
+
+Drawdown Type
+Static
+
+Risk Rule
+Maximum of 3% at a time
+
+News Trading
+Not allowed
+
+Weekend Holding
+Allowed
+
+Overnight Holding
+Allowed
+
+Commission
+FX and Energy $5 per lot, Metals 0.0016%, Indices 0
+
+Leverage
+FX 1:100, Metals, Energy and Indices 1:25
+
+Platforms
+MT5 and Match-Trader
+
+The risk rule is the one addition at the funded stage. During both challenge phases there is no risk rule. In the FundedNext Account, a maximum of 3% at a time applies, the same risk rule currently used across FundedNext CFD challenges.
+How FNL:002 Differs From Other FundedNext CFD Models
+What FNL:002 does not include:
+
+No refund
+No 15% performance reward from the challenge phase
+No Scale-Up
+News trading is not allowed
+No margin rule
+No interview
+No striking system
+
+What FNL:002 does include:
+
+A 12% Maximum Loss Limit
+A payout cycle of 3 profitable days
+An 85% reward share
+Weekend holding and overnight holding
+No striking system, no interview, and no margin rule
+
+Who FNL:002 Is Built For
+
+Traders who want more overall drawdown room. The MLL is 12% and static, against a 4% daily limit.
+Swing and multi-day traders. Weekend and overnight holding are allowed in both challenge phases and in the FundedNext Account.
+Traders who want payouts tied to performance. Three profitable days of $250 closes a cycle at an 85% reward share.
+Traders who trade outside news windows. News trading is not allowed on this plan in either phase.
+
+Start FNL:002 Challenge
+FNL:002 gives a $25,000 account a 12% static Maximum Loss Limit, a 4% Daily Loss Limit, a payout cycle of 3 profitable days, and an 85% reward share, for $149.99. It runs on MT5 and Match-Trader.
+Review the full specification on FundedNext Labs and start your challenge when the numbers fit your plan. To track your position against each rule while you trade, see how Clarity Cards work.
+Frequently Asked Questions
+What is the Maximum Loss Limit on FNL:002?
+The MLL is 12%, and the drawdown type is static. It is 12% in Phase 1, in Phase 2, and in the FundedNext Account, on a $25,000 account that is $3,000, placing the floor at $22,000.
+How many profitable days do I need for a payout?
+Three, each with a minimum of $250 in profit. Profit counts toward the day the trade closes. Each challenge phase requires 2 profitable days rather than 3.
+Which platforms are available for FNL:002?
+Only MT5 and Match-Trader are available for FNL:002.
+Can I reset my FNL:002 account or buy an Add-On?
+No. Add-Ons and Resets are not applicable to this challenge. A user can purchase a maximum of 5 accounts.
+Is news trading allowed on FNL:002?
+No. News trading is not allowed on FNL:002. Weekend holding and overnight holding are both allowed.
+Is there a risk rule on FNL:002?
+Not during the challenge. In the FundedNext Account, a maximum of 3% at a time applies.
+How long is FNL:002 available?
+Like FNL:001, the new FNL:002 is a FundedNext Labs release and is available for a limited time period rather than as part of the permanent CFD lineup. Check FundedNext Labs for current availability.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

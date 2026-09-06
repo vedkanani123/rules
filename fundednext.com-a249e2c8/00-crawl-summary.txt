@@ -1,0 +1,10 @@
+SITE CRAWLER EXPORT
+
+Seed URL: https://fundednext.com/
+Host: fundednext.com
+Status: completed
+Pages crawled: 299
+Pages succeeded: 284
+Pages failed: 15
+Pages skipped: 0
+Exported: 2026-09-06T08:03:31.811Z

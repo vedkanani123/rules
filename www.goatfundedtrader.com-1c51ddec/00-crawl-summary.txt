@@ -1,0 +1,10 @@
+SITE CRAWLER EXPORT
+
+Seed URL: https://www.goatfundedtrader.com/
+Host: www.goatfundedtrader.com
+Status: completed
+Pages crawled: 521
+Pages succeeded: 517
+Pages failed: 4
+Pages skipped: 0
+Exported: 2026-09-06T09:11:27.889Z

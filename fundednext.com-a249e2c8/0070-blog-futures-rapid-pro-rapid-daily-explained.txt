@@ -1,0 +1,139 @@
+TITLE: FundedNext Futures Rapid Pro and Rapid Daily Explained
+URL: https://fundednext.com/blog/futures-rapid-pro-rapid-daily-explained
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Everything you need to know about FundedNext Futures Rapid Pro and Daily Challenge, featuring a 1-Day Pass, up to 90% reward share, and trader benefits.
+CANONICAL: https://fundednext.com/blog/futures-rapid-pro-rapid-daily-explained
+HEADINGS:
+- FundedNext Futures Rapid Pro and Rapid Daily: 1-Day Pass, 90% Reward Share Explained
+- Table of Contents
+- What are FundedNext Futures Rapid Pro & Rapid Daily Challenges?
+- FundedNext Futures Rapid rules at a glance
+- How the Futures Rapid Challenge works: the fastest path to a FundedNext Account
+- One phase, one target
+- What “pass in one day” requires in practice
+- After the pass
+- Futures Rapid Pro vs. Rapid Daily: which one should you choose?
+- How the 90% Reward Share works
+- EOD trailing drawdown, explained with numbers
+- Futures Rapid pricing by account size
+- Final Thoughts
+- Frequently Asked Questions
+- What is the FundedNext Futures Rapid Challenge?
+- What is the difference between Futures Rapid Pro and Rapid Daily?
+- Can I switch from Rapid Daily to Rapid Pro after purchasing?
+- Can I really pass in one day?
+- How does the daily loss limit work on Futures Rapid Daily?
+- Is there a daily loss limit on Futures Rapid Pro?
+- Is there a consistency rule during the Rapid challenge?
+- What happens if I pass but breach the drawdown before requesting a reward?
+- What platform is used for FundedNext Futures Rapid Challenge?
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogFundedNext Futures Rapid Pro and Rapid Daily: 1-Day Pass, 90% Reward Share ExplainedFundedNext Futures Rapid Pro and Rapid Daily: 1-Day Pass, 90% Reward Share Explained1 month agoJuly 24, 2026ShareTable of ContentsWhat are FundedNext Futures Rapid Pro & Rapid Daily Challenges?FundedNext Futures Rapid rules at a glanceHow the Futures Rapid Challenge works: the fastest path to a FundedNext AccountOne phase, one targetWhat “pass in one day” requires in practiceAfter the passFutures Rapid Pro vs. Rapid Daily: which one should you choose?How the 90% Reward Share worksEOD trailing drawdown, explained with numbersFutures Rapid pricing by account sizeFinal ThoughtsFrequently Asked QuestionsWhat is the FundedNext Futures Rapid Challenge?What is the difference between Futures Rapid Pro and Rapid Daily?Can I switch from Rapid Daily to Rapid Pro after purchasing?Can I really pass in one day?How does the daily loss limit work on Futures Rapid Daily?Is there a daily loss limit on Futures Rapid Pro?Is there a consistency rule during the Rapid challenge?What happens if I pass but breach the drawdown before requesting a reward?What platform is used for FundedNext Futures Rapid Challenge?FundedNext Futures Rapid is a single-phase futures challenge built for speed: you can pass in as little as one trading day and earn a 90% Reward Share on a FundedNext Account. It comes in two trader-selected paths, Rapid Pro and Rapid Daily, chosen at purchase. This guide breaks down the rules, the differences between the two paths, and how rewards actually work.
+TL;DR
+
+One-phase challenge, 1-day pass. Hit the profit target while respecting the loss limits, and you move straight to a FundedNext Account. No activation fee.
+Two paths, locked at purchase. Rapid Pro (rewards every 3 days, no daily loss limit by default, 40% consistency rule in the funded stage) or Rapid Daily (daily rewards, daily loss limit, buffer rule, no consistency rule).
+90% Reward Share on both paths, with withdrawals from $250 up to $2500 per cycle
+Three account sizes: 25K, 50K, and 100K, with a one-time fee and no platform or data costs.
+
+What are FundedNext Futures Rapid Pro & Rapid Daily Challenges?
+FundedNext Futures Rapid is a one-time-fee, 1-step evaluation on the FundedNext Futures platform. Both paths (Pro and Daily) share the same core structure: a fixed profit target, an End-of-Day (EOD) trailing drawdown, a 1-day pass possibility, and a 90% Reward Share. Where they differ is how you get paid and how daily risk is controlled. You select Rapid Pro or Rapid Daily at checkout, and the path cannot be changed afterward.
+FundedNext Futures Rapid rules at a glance
+
+Rule
+Rapid Pro
+Rapid Daily
+
+Days to pass
+as low as 1 day
+
+Profit target
+$1,500 / $3,000 / $5,000 (25K/50K/100K)
+
+Maximum loss limit (EOD trailing)
+$1,000 / $2,000 / $2,500
+$1,000 / $2,000 / $2,500
+
+Daily loss limit
+None (optional add-on: $500 / $1,000 / $1,250)
+$500 / $1,000 / $1,250
+
+Reward cadence
+Every 3 days
+Daily
+
+Consistency rule
+40% (FundedNext Account only)
+None
+
+Buffer rule
+No
+Yes
+
+Reward Share
+90%
+
+Contract limits
+2/4/6 Mini or 20/40/60 Micro
+
+There is no consistency rule during the challenge phase on either path, so the profit target can be reached in a single day or multiple.
+How the Futures Rapid Challenge works: the fastest path to a FundedNext Account
+The structure is deliberately simple: one evaluation phase, one profit target, and a direct route to the FundedNext Account once both are met.
+One phase, one target
+Futures Rapid is a single-phase evaluation. There is no other step: reach the profit target for your account size while staying above the EOD trailing drawdown floor, and the challenge is complete. There are no minimum trading days and no Benchmark Days.
+What “pass in one day” requires in practice
+On a 50K account, a 1-day pass means closing the session $3,000 up without your balance or equity touching the $48,000 floor. On Rapid Daily, the $1,000 daily loss limit also applies on a 50K account, so the same target must be hit with tighter intraday risk. There are no daily loss limit in the Rapid Pro accounts, maintaining the maximum loss limit will suffice. Restricted strategies remain prohibited throughout.
+After the pass
+Your account transitions to a FundedNext Account with no activation fee, where the path you chose at purchase defines the reward cadence and rules that follow.
+Futures Rapid Pro vs. Rapid Daily: which one should you choose?
+Choose Futures Rapid Pro if you want maximum intraday flexibility. There is no daily loss limit by default, and rewards can be withdrawn every 3 days. The trade-off is a 40% consistency rule in the FundedNext Account: your best single day cannot exceed 40% of total profit before a reward becomes eligible. There is an optional add-on for a daily loss limit, which will make the fee cheaper.
+Choose Futures Rapid Daily if you want the fastest reward cycle and simpler rules. You can request rewards daily with no consistency rule at any stage. The trade-offs are a daily loss limit throughout the journey and a buffer rule: your EOD balance must reach starting balance + maximum loss limit + $100 ($52,100 on a 50K account) before profits above that level become withdrawable.
+How the 90% Reward Share works
+Both paths pay 90% of each approved Performance Reward. Eligibility requires at least $500 profit in the current cycle, with withdrawals between $250 and a size-based cap of $800 (25K), $1,200 (50K), or $2,500 (100K) per cycle. There are no minimum trading days. The FundedNext Account concludes after the 5th Performance Reward.
+Example 1 (50K Rapid Daily): you finish the day at $53,000, which is $900 above the $52,100 buffer. That $900 is withdrawable, and at a 90% share you keep $810.
+Example 2 (50K Rapid Pro): over a 3-day reward window you close at $51,000, which is $1,000 of profit for the cycle. There is no buffer rule on Pro, so that profit sits above your $50,000 starting balance. Your best single day was $350, which is 35% of the total and under the 40% consistency cap. The $1,000 is withdrawable up to the $1,200 cap, and at a 90% share you keep $900.
+EOD trailing drawdown, explained with numbers
+The maximum loss limit trails your highest end-of-day balance, not intraday highs. It updates once per day, moves up with profits, and never moves down with losses. On a 50K account, your initial floor is $48,000. Close day one at $51,000 and the floor rises to $49,000; close a later day at $52,000 and the floor reaches $50,000, where it locks. The trailing never exceeds your initial balance, so from that point your worst case is breakeven on the account. If equity touches the floor at any time, the account is breached, which is why intraday risk still matters even though the floor only moves at EOD. Full mechanics are in the Maximum Loss Limit help article.
+Futures Rapid pricing by account size
+
+Account Size
+Price (currently on 50% discount)
+Reset Fee
+
+25K
+$79.99
+$87.99
+
+50K
+$149.99
+$157.99
+
+100K
+$249.99
+$257.99
+
+Pricing is identical for Rapid Pro and Rapid Daily. The Daily Loss Limit Add-On, exclusive to Rapid Pro and selected at purchase, lowers both the challenge fee and the reset fee. Resets are available only during the challenge phase.
+Final Thoughts
+Futures Rapid is FundedNext’s fastest route to a simulated funded futures account: one phase, a possible 1-day pass, and a 90% Reward Share on both paths. If that fits your trading style, start your Futures Rapid Challenge or explore the FundedNext Futures Help Center for the full rulebook.
+Frequently Asked Questions
+What is the FundedNext Futures Rapid Challenge?
+FundedNext Futures Rapid is a single-phase futures evaluation offered in two paths, Rapid Pro and Rapid Daily, selected at checkout and locked. It comes in 25K, 50K, and 100K sizes with a one-time fee. Reach the profit target without breaching the EOD trailing maximum loss limit, and you move to a FundedNext Account with a 90% Reward Share.
+What is the difference between Futures Rapid Pro and Rapid Daily?
+Both pass in one day with a 90% Reward Share. Rapid Pro pays rewards every 3 days with no daily loss limit but a 40% consistency rule in the FundedNext Account; Rapid Daily pays daily with no consistency rule, but adds a daily loss limit and a buffer rule.
+Can I switch from Rapid Daily to Rapid Pro after purchasing?
+No. The path is locked at purchase and cannot be changed.
+Can I really pass in one day?
+Yes. With no consistency rule in the challenge, reaching the target in a single session is allowed.
+How does the daily loss limit work on Futures Rapid Daily?
+It caps how much you can lose in a single trading day: $500 (25K), $1,000 (50K), or $1,250 (100K), and applies from the challenge through the FundedNext Account. Hitting it is not a hard breach: trading is paused for the rest of the session and resumes the next trading day, with the account intact. Only the maximum loss limit ends the account.
+Is there a daily loss limit on Futures Rapid Pro?
+Not by default. Rapid Pro gives you full intraday flexibility, with only the maximum EOD trailing drawdown controlling risk. If you want a daily guardrail, the optional Daily Loss Limit Add-On applies a limit of $500 (25K), $1,000 (50K), or $1,250 (100K) and reduces the challenge fee. The choice is locked at checkout and cannot be added or removed later. If the limit is hit, it is not a hard breach: trading pauses for the rest of the session and resumes the next trading day, with the account intact.
+Is there a consistency rule during the Rapid challenge?
+No, on either path. The 40% consistency rule applies only in the Rapid Pro FundedNext Account; Rapid Daily has none at any stage.
+What happens if I pass but breach the drawdown before requesting a reward?
+The maximum loss limit applies through the entire account journey, so a breach after passing ends the account the same way it would during the challenge. Since a breach means your balance has already fallen back to the trailing floor, the practical takeaway is simple: once you’re reward-eligible, requesting it promptly locks in what you’ve earned.
+What platform is used for FundedNext Futures Rapid Challenge?
+Futures Rapid runs on Tradovate, NinjaTrader, or TradingView. Platform access and market data are included, with no extra fees.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter

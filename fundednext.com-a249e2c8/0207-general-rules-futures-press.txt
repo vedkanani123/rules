@@ -1,0 +1,10 @@
+TITLE: Page not found | FundedNext
+URL: https://fundednext.com/general-rules/futures/press
+STATUS: 404
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: The World's Best Prop Trading Firm
+CANONICAL: https://fundednext.com/general-rules/futures/press
+ERROR: The website returned HTTP 404 Not Found.
+
+CONTENT:
+[No readable text content found]

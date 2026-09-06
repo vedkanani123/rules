@@ -1,0 +1,320 @@
+TITLE: Goat Funded Trader vs FTMO Review
+URL: https://www.goatfundedtrader.com/blog/goat-funded-trader-vs-ftmo
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Goat Funded Trader vs FTMO: evaluation routes, drawdown rules, profit splits, payout speed and account reset compared side by side.
+CANONICAL: https://www.goatfundedtrader.com/blog/goat-funded-trader-vs-ftmo
+HEADINGS:
+- Goat Funded Trader vs FTMO Review
+- Key Takeaways
+- Goat Funded Trader vs FTMO: The Quick Verdict
+- Evaluation Routes Compared
+- FTMO
+- Goat Funded Trader
+- Instant Funding: Where the Gap Opens
+- Account Sizes and Scaling Ceilings
+- Profit Splits and Add-Ons
+- Drawdown Rules Compared
+- Consistency Rules Compared
+- Markets and Platforms
+- Payouts Compared
+- Account Resets: Offered by One Firm Only
+- Country Access
+- Pricing and Discounts
+- Which Firm Suits Which Trader
+- Start Where Your Experience Sits
+- Frequently Asked Questions (FAQs)
+- Can an account be held at both firms at the same time?
+- Is prior trading history at one firm recognised by the other?
+- What happens to a funded account during a platform outage?
+- Are expert advisors permitted at both firms?
+- Be Great and get the App
+- Level up. Join our Community.
+- Exclusive Discounts & Giveaways
+CONTENT:
+ForexFutures
+
+    EN
+
+      EN
+
+      ES
+
+      DE
+
+      FR
+
+      IN
+
+      IT
+
+Limited Time40% OFF + BOGOCODE: BOGO4050% OFF for New CustomersCODE: FIRSTGFTTradingHow It WorksRewardsModelReviewsAffiliateFree Trading CompetitionCompanyAboutContact UsFAQTradingHow It WorksRewardsAffiliateFree Trading CompetitionCompanyAboutContact UsFAQLog InGet FundedLog InGet FundedTrading TipsGoat Funded Trader vs FTMO ReviewGoat Funded Trader vs FTMO: evaluation routes, drawdown rules, profit splits, payout speed and account reset compared side by side.Text LinkTwo names frequently come up when traders compare funded account providers: FTMO and Goat Funded Trader. Goat Funded Trader takes a modern approach to prop trading, built around the speed, flexibility, and trading freedom today’s traders increasingly expect. FTMO, by comparison, is one of the industry’s most established institutions with a more traditional approach to funded trading.
+Differences become clearer across their offerings. Instant funded accounts are available through Goat Funded Trader but not FTMO, while account resets and payout guarantees create further distinctions. Profit splits, account sizes, drawdown rules, scaling limits, and evaluation requirements also vary between the two firms.
+This Goat Funded Trader vs FTMO review compares the key differences across evaluation routes, instant funding, account sizes, scaling, drawdown rules, consistency requirements, markets, platforms, payouts, country availability, and pricing. The comparison also covers what each firm offers new and experienced traders.
+Key Takeaways
+
+The clearest structural gap in any Goat Funded Trader vs FTMO comparison is instant funding, which is offered across three tiers at one firm and not offered in any form at the other.
+
+Starting allocation reaches $400,000 at Goat Funded Trader against $200,000 at FTMO, so compounding begins against a base twice the size before either scaling programme is applied.
+
+Profit splits are capped at 100% at Goat Funded Trader and 90% at FTMO, a ten-point difference worth $24,000 annually on a $500,000 allocation returning 4% monthly.
+
+A prop firm account reset is available before and after a breach at Goat Funded Trader, while a breached FTMO account is closed permanently and a fresh evaluation must be purchased.
+
+Payout accountability differs sharply, with a 2-business-day guarantee backed by $1,000 in compensation applied at one firm and no comparable published guarantee at the other.
+
+FTMO restricts India, Indonesia, and numerous other territories entirely, which makes Goat Funded Trader the only available option for traders based in those regions and a practical FTMO alternative elsewhere.
+
+Goat Funded Trader vs FTMO: The Quick Verdict
+Below is an overview of Goat Funded Trader vs FTMO major offerings:
+
+Comparison Point
+Goat Funded Trader
+FTMO
+
+Evaluation routes
+1-Step, 2-Step
+1-Step, 2-Step
+
+Instant funding
+Yes, three tiers (HERO, GOAT, PREMIUM)
+Not offered
+
+Starting allocation
+Up to $400,000
+Up to $200,000
+
+Scaling ceiling
+$2,000,000
+$2,000,000
+
+Profit split
+80%, climbing to 100%
+80%, climbing to 90%
+
+Platforms
+MT5, cTrader, MatchTrader, TradeLocker
+MT4, MT5, cTrader
+
+Markets
+Forex, crypto, indices, metals, commodities, stocks
+Forex, crypto, indices, metals, commodities, stocks
+
+Payout cycle
+Bi-weekly or on-demand
+After 14 days minimum, then per cycle
+
+Payout guarantee
+2 business days or $1,000 compensation
+None published
+
+Account reset
+Available before and after a breach
+Not offered
+
+Operating record
+2023, $25,000,000 paid to date
+From 2015, $500,000,000+ reported
+
+Evaluation Routes Compared
+Evaluation structure is where a Goat Funded Trader vs FTMO comparison usually begins. Both firms are structured around a two-phase model, with a single-phase option added at each.
+FTMO
+The 2-Step Challenge is split into a Challenge phase set at a 10% profit target and a Verification phase set at 5%. A 5% maximum daily loss and a 10% maximum loss are applied across both phases. Four minimum trading days are required per phase, and time limits were removed, so a trader is allowed to work at a chosen pace.
+A 1-Step Challenge was launched in February 2026, compressing the process into a single 10% target. However, tighter parameters were attached: a 3% maximum daily loss alongside a 10% maximum loss trailing on the end-of-day balance.
+Goat Funded Trader
+The 1-Step and 2-Step Challenges are offered on comparable terms.
+
+1-Step offers a GOAT model that comes with a 10% phase 1 profit target, 3% maximum daily loss, and 6% maximum loss.
+
+2-Step offers GOAT and Standard models. GOAT comes with an 8% and 6% profit target for phase 1 and 2, respectively, alongside maximum daily loss and maximum loss of 4% and 10%. Standard offers 10% and 5% profit targets for phase 1 and 2, respectively. Maximum daily loss and maximum loss are at 5% and 10%.
+
+One difference is applied consistently across both: no consistency rule is enforced at any stage. A strong single session is counted in full toward the profit target and toward a later reward request.
+The distinction becomes concrete on FTMO's 1-Step route. A Best Day Rule is applied there, requiring your best day to represent no more than 50% of total positive-day profit. A trader clearing a large portion of the target in one clean session is therefore required to add further trading days before a reward can be requested.
+
+Evaluation Detail
+Goat Funded Trader 1-Step
+Goat Funded Trader 2-Step
+FTMO 2-Step
+FTMO 1-Step
+
+Phases
+1
+2
+2
+1
+
+Profit target
+10%
+Phase 1: 8%; Phase 2: 6% (GOAT)
+
+Phase 1: 10%
+
+Phase 2: 5% (standard)
+10% then 5%
+10%
+
+Maximum daily loss
+4 (3% for accounts purchased from 1st August 2026)
+4% Goat and 5% Standard
+5%
+3%
+
+Maximum loss
+6 static
+10% static
+10% static
+10% trailing EOD
+
+Consistency rule
+None
+None
+None
+Best Day Rule, 50% cap
+
+Time limit
+None
+None
+None
+None
+
+Instant Funding: Where the Gap Opens
+
+The largest structural difference in the Goat Funded Trader vs FTMO matchup is found in instant funding offerings. Also, traders searching for an FTMO alternative usually arrive at this point first.
+Instant funded accounts are not offered by FTMO in any form. Both available routes require an evaluation to be cleared first, and a trader arriving with a documented multi-year record is asked to prove the identical edge again before capital is released.
+At Goat Funded Trader, an instant funding prop firm structure is offered across three separate tiers. Each was built around a different priority.
+
+HERO is positioned as the lowest-cost entry point, suited to a trader testing the model with limited outlay.
+
+GOAT holds the widest maximum loss allowance among the three, suited to a trader running larger position sizes.
+
+PREMIUM was released specifically to remove the consistency rule, so profits concentrated into a handful of high-conviction sessions are counted in full.
+
+For an experienced trader, the practical impact is measured in weeks. Time spent clearing an evaluation is time during which compounding has not started. Instant funding routes remove the delay outright, and three tiers allow the funding style to be matched to the strategy.
+For anyone comparing a prop firm for beginners, the structured 1-Step and 2-Step routes remain available at both firms. The instant funding prop firm option should be seen as an addition to the lineup.
+Account Sizes and Scaling Ceilings
+FTMO account sizes are offered at $10,000, $25,000, $50,000, $100,000, and $200,000. Scaling is applied through a plan increasing balance by 25% alongside an improved 90% split, with a maximum initial balance of $2,000,000 reachable over time.
+At Goat Funded Trader, starting allocation reaches $400,000, double FTMO's ceiling at the entry stage. The scaling ceiling is at $2,000,000 through sustained performance. Nothing is required to be repurchased at any tier along the way.
+Both firms therefore arrive at a comparable $2,000,000 ceiling. The route differs considerably. A trader beginning at $400,000 is compounding against a base twice the size of the first funded session, which shortens the ladder.
+Profit Splits and Add-Ons
+A prop firm profit split can be a major decider on a long-term trading relationship.
+At FTMO, 80% is applied as standard, with 90% unlocked through the scaling plan. The 1-Step route is set at a flat 90% from day one. 90% is the ceiling across both.
+Goat Funded Trader applies 80% at the opening stage, with progression carried toward 100%. The difference between 90% and 100% appears modest as a percentage and compounds substantially in dollars.
+Here is a quick example: Consider a $500,000 allocation returning 4% monthly, producing $20,000 in gross profit.
+
+Profit split
+Monthly Share
+Annual Total
+
+80%
+$16,000
+$192,000
+
+90%
+$18,000
+$216,000
+
+100% (GFT ceiling)
+$20,000
+$240,000
+
+The prop firm profit split gap between the two ceilings is $24,000 over a year on identical performance and identical risk.
+Drawdown Rules Compared
+Drawdown mechanics determine how much room a strategy has before an account breaches its loss limits, and the three models use different approaches.
+FTMO's 2-Step applies a static maximum loss of 10% of the initial account balance. On a $100,000 account, the floor remains at $90,000 regardless of how high the account balance rises. The limit therefore provides a fixed amount of overall drawdown throughout the evaluation.
+FTMO's 1-Step applies an end-of-day trailing maximum loss. The limit is recalculated from the highest end-of-day balance and can move higher as the account grows, while intraday balance increases do not immediately move the floor. The limit resets to 90% of the initial simulated capital when a new FTMO Account is provided after a reward withdrawal.
+Goat Funded Trader uses static maximum-loss limits on its evaluations. Its 1-Step has a 6% maximum loss, while the 2-Step Standard has a 10% maximum loss. These are fixed floors based on the starting account balance, rather than trailing upward as profits accumulate. All instant routes: Instant GOAT, HERO, and PREMIUM use trailing drawdown.
+Consistency Rules Compared
+Consistency requirements block more payouts across this industry over drawdown breaches, so the comparison deserves attention.
+FTMO's 2-Step applies none, on either phase or the funded account. FTMO's 1-Step applies the Best Day Rule at a 50% cap.
+With Goat Funded Trader, no consistency rule is applied on the 1-Step Challenge, the 2-Step Challenge, or Instant PREMIUM. Consistency requirements are applied on the remaining instant tiers.
+If your profit arrives in concentrated bursts, you will be given a consistency-free route at both firms through the two-phase model. However, only Goat Funded Trader extends the same freedom to an instant funded account.
+Markets and Platforms
+Market coverage is broadly similar between FTMO and Goat Funded Trader. Both offer access to forex, indices, commodities, metals, stocks, and cryptocurrencies. So, as a trader, you have access to trade across major currency, equity, commodity, and digital-asset markets. FTMO makes these instruments available through its trading platforms
+GFT lists FX pairs, CFD indices, metals, commodities, stocks, and cryptocurrencies among its available markets. The main difference is platform choice.
+
+FTMO supports MetaTrader 4, MetaTrader 5, and cTrader.
+
+GFT offers a wider selection, with MT5, cTrader, MatchTrader, and TradeLocker currently available.
+
+This gives GFT an advantage for traders who already prefer newer alternatives to the MetaTrader ecosystem. You can choose from several interfaces rather than being limited to MT4, MT5, or cTrader, while both firms still provide access to the major markets most retail and prop traders expect.
+Payouts Compared
+Similar to profit split and drawdown rules, payout terms are where the practical difference is felt monthly.
+FTMO’s reward can be requested after a minimum of 14 days from the first day of trading on the funded account. Bank wire, crypto, Skrill, and PayPal are supported. Bank transfers require at least $20 in closed profit, and crypto withdrawals require $50 to cover transaction costs. Processing times of three to seven business days have been reported by traders.
+Goat Funded Trader’s payouts are settled bi-weekly as standard, with on-demand withdrawal available. Rise, crypto, Skrill, and bank transfer are all supported. A 2-business-day guarantee is applied, and $1,000 in compensation is paid should the window be missed.
+
+Payout Detail
+Goat Funded Trader
+FTMO
+
+First payout eligibility
+Per model requirements
+14 days from first trading day
+
+Cycle
+Bi-weekly or on-demand
+Per cycle after eligibility
+
+Methods
+Rise, crypto, Skrill, bank transfer
+Bank wire, crypto, Skrill, PayPal
+
+Processing guarantee
+2 business days or $1,000 paid
+None published
+
+Minimum withdrawal
+Per model
+$20 bank, $50 crypto
+
+A guarantee backed by compensation is uncommon across this industry. Accountability is placed on the firm, not the trader, which is a big difference to consider.
+Account Resets: Offered by One Firm Only
+A prop firm account reset is uncommon across this industry. A rule breach ends an account at the majority of firms, and the cost of starting again is absorbed entirely by the trader.
+Account resets are not offered by FTMO. A breached account is closed, and a fresh evaluation must be purchased at full price.
+At Goat Funded Trader, a prop firm account reset is available in both directions. A breached account is restored without a full-price repurchase. A reset applied proactively, while equity is drifting toward a limit and before anything breaks, restores the original parameters and allows trading to continue.
+
+For anyone on the market for the best prop firm for beginners, this function is a great safety net in evaluation stages, where mistakes are almost certain.
+
+For an experienced trader running a multi-month progression toward a higher tier, it protects work already banked.
+
+Country Access
+An extensive restricted list is maintained by FTMO. Afghanistan, Bhutan, Iran, Iraq, India, Indonesia, Myanmar, North Korea, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan appear on it. This is followed by Cuba, several Caribbean nations, the Russian Federation, parts of Ukraine, and numerous Pacific island states.
+India and Indonesia are the entries with the widest impact. Both represent substantial trading populations excluded from FTMO's programmes entirely.
+Goat Funded Trader operates as an FTMO alternative without comparable restrictions across the large majority of countries. For example, Indian traders collected payouts worth $523,978.59 in July 2026.
+
+It ranks as the highest figure of any nation on the leaderboard across the month, on a platform where FTMO participation is closed to them.
+Pricing and Discounts
+Entry cost is weighted heavily by beginners and treated as secondary by experienced traders, hence why both angles deserve coverage.
+FTMO refunds 100% of the original evaluation fee alongside the first payout, which returns the entry cost in full once profitability is reached. Discounts appear periodically.
+Goat Funded Trader runs discounts on evaluation and instant accounts, with the current offers shown at checkout. They are not restricted by account size.
+The structures reward different things. A full refund is earned by clearing an evaluation and reaching profitability. A discount is applied immediately at checkout, lowering the barrier before any performance is required.
+Additionally, GFT’s account offerings are competitively priced compared with FTMO’s. The range of options caters to traders with different experience levels, strategies, and capital requirements.
+Which Firm Suits Which Trader
+
+Priorities shift as experience grows, and the correct answer in a Goat Funded Trader vs FTMO decision shifts alongside them. If you are keen on choosing a prop firm for beginners, you would be served well by structured evaluation at either firm.
+The deciding factors become entry cost, the consequence of a first mistake, and how quickly a first payout can be reached.
+
+Account resets and discounted entry both tilt this comparison toward Goat Funded Trader.
+
+The fee refund tilts a portion of it back toward FTMO for a trader confident of passing the first time.
+
+An experienced trader is served differently. Weeks spent re-proving a known edge represent compounding foregone, so instant funding access becomes decisive.
+
+Starting allocation, split ceiling, and payout speed compound across months in a way an entry fee does not. Each of those four points resolves toward Goat Funded Trader.
+
+A trader based in India, Indonesia, or another restricted territory is left with a single option, as FTMO participation is closed to them entirely.
+
+Start Where Your Experience Sits
+Do you want to skip the queue or prove the edge first? Both are offered at Goat Funded Trader (GFT).
+An instant funded account is available immediately through HERO, GOAT, or PREMIUM, with PREMIUM applying no consistency rule at all. A structured route through the 1-Step or 2-Step Challenge is available for a record to be built at a chosen pace, with no consistency rule applied at either stage.
+Starting allocation reaches $400,000, double what FTMO offers at entry, scaling toward $2,000,000 with nothing repurchased along the way. Splits open at 80% and climb to 100%, ten points above FTMO's ceiling.
+Payouts settle bi-weekly or on demand under a 2-business-day guarantee backed by $1,000. Account reset protects against a breach before or after it happens. Current discounts are shown at checkout.
+Your edge is proven; what is needed is an account to match it. Click here to access our funding models for several markets and start seamless trading!
+Frequently Asked Questions (FAQs)
+Can an account be held at both firms at the same time?
+Accounts are permitted at multiple prop firms concurrently, and operational risk is spread across providers this way by many traders. Identical positions should not be mirrored across accounts at the same firm, though separate strategies run at two different firms breach no rules at either.
+Is prior trading history at one firm recognised by the other?
+Track records are assessed independently at every firm, so performance at FTMO holds no weight during a Goat Funded Trader evaluation and the reverse applies equally. Each evaluation is assessed purely on results produced inside the firm's own rules and parameters.
+What happens to a funded account during a platform outage?
+Rule breaches caused by verified technical failures on a firm's own infrastructure are generally voided, though outages at the trader's end remain the trader's responsibility. Documentation with timestamps and screenshots should be submitted through support immediately for any outage-related breach to be reviewed.
+Are expert advisors permitted at both firms?
+Automated strategies are supported at both, with restrictions applied to specific categories. Execution-speed arbitrage and latency exploitation are prohibited across the industry. Confirmation of the current automation policy should be sought before deployment, as terms differ between evaluation stages and funded accounts at each firm.Be Great and get the AppLevel up. Join our Community.DiscordExclusive Discounts & GiveawaysSendThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Link to home©2026GoatFundedTrader. All rights reserved.TradingHomeHow It WorksRewardsTrading CompetitonModelBlogFAQCompanyAboutAffiliateContactReviewsSocialsInstagramDiscordXYouTubeLinkedInPolicyFunded Account DisclaimerRefund PolicyComplaints PolicyTerms & ConditionsPrivacy PolicyTradingHomeHow It WorksRewardsTrading CompetitonModelFAQCompanyAboutAffiliateContactSocialsInstagramDiscordXYouTubeLinkedInPolicyFunded Account DisclaimerRefund PolicyComplaints PolicyTerms & ConditionsPrivacy PolicyDisclaimer:  ‍Goat Funded Trader, a trade name of Wishes Tower International Limited, a company registered in Hong Kong (Company Number 76428795), with registered office at M 1205, 12/F, Beverly Hse, 93-107 Lockhart Rd, Wan Chai, Hong Kong, publish and distribute content that should be regarded as general information only. None of the information provided by the Company or contained herein is intended as investment advice, an offer or solicitation of an offer to buy or sell securities, or a recommendation, endorsement, or sponsorship of any security, company, or fund. The information contained on the Company's websites is provided for informational purposes only and is not intended to be relied upon for making investment decisions. Any use of the information contained on the Company's websites is at your own risk, and the Company assumes no responsibility or liability for any use or misuse of such information. Nothing contained herein constitutes a solicitation or an offer to buy or sell futures, options, or forex. Please note that past performance is not necessarily indicative of future results, and any investment involves risks, including the possibility of total loss of the invested amount. You should always seek professional advice before making any investment decisions. The Company is not a financial broker, financial advisor, or financial representative, and does not accept client deposits. Goat Funded Trader does not offer or provide trading or investment recommendations, and any trading or investment decisions you make are entirely your responsibility and at your own risk. The results of these services are directly related to each individual's professional skill level and their capacity to follow the program guidelines and objectives detailed for each service.Disclosure on Hypothetical Performance: The accounts utilized for our services are demo accounts. Hypothetical performance results come with inherent limitations, among which include the fact that they do not reflect actual trading. No claim is made that any account will achieve or is likely to achieve profits or losses comparable to those discussed; in reality, actual results can significantly differ from those predicted by hypothetical performance. Hypothetical performance often benefits from hindsight, does not account for financial risk, and cannot consider the financial risk in actual trading. For instance, the capacity to endure losses or to stick to a trading plan despite losses are crucial factors that can negatively impact real trading results. Many other market factors or aspects of implementing a specific trading program not accounted for in hypothetical performance preparation can also adversely affect actual trading results.  Goat Funded LTD - Ground Floor, The Sotheby Building, Rodney Bay, Gros-Islet, PO Box 838, Castries, Saint Lucia, with company number 2025-00240 - , provides the simulated trading services advertised on www.goatfundedtrader.com. For more information on simulated trading services provided by Goat Funded please contact support@goatfundedtrader.com. Metatrader 5 "MT5" services and information on this site are not intended for U.S. citizens/residents and should not be used in jurisdictions where such use would violate applicable laws or regulations.Funded Account DisclaimerRefund PolicyComplaints PolicyTerms & ConditionsPrivacy Policy©2025GoatFundedTrader. All rights reserved.

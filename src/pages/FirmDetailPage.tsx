@@ -3,8 +3,8 @@ import { PropFirm, SourceEvidence, AccountTier, ProgramModel } from '../types/sc
 import { ReviewCard } from '../components/reviews/ReviewCard.tsx';
 import { RiskSimulator } from '../components/simulator/RiskSimulator.tsx';
 import { RulesAccordion } from '../components/rules/RulesAccordion.tsx';
+import { buildParameterRules } from '../core/pipeline/parameterRules.ts';
 import {
-  Shield,
   ExternalLink,
   Building,
   CheckCircle2,
@@ -146,6 +146,17 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
     };
   }, [currentProgram, selectedCapital, firm, isInstant, is1Step, is2Step]);
 
+  // Display rules: clause-level dossier when available, otherwise honest
+  // parameter-derived rules (INFERENCE evidence) — no firm page renders empty.
+  const displayRules = useMemo(() => {
+    if (firm.rules && firm.rules.length > 0) return firm.rules;
+    try {
+      return buildParameterRules(firm);
+    } catch {
+      return firm.rules;
+    }
+  }, [firm]);
+
   const [copiedPromo, setCopiedPromo] = useState<boolean>(false);
   const rulesTableRef = useRef<HTMLDivElement>(null);
   const [highlightedRule, setHighlightedRule] = useState<string | null>(null);
@@ -157,7 +168,8 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
   };
 
   const scrollToRule = (slug: string) => {
-    const matchingRule = firm.rules?.find(r => 
+    const rulesForLookup = firm.rules && firm.rules.length > 0 ? firm.rules : buildParameterRules(firm);
+    const matchingRule = rulesForLookup?.find(r => 
       r.slug === slug || 
       r.slug.startsWith(slug) || 
       slug.startsWith(r.slug) ||
@@ -860,7 +872,7 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
                 )}
               </div>
               <div className="space-y-2">
-                {tableColumns.map(col => {
+                {columnConfig.map(col => {
                   const cell = (row as any)[col.key];
                   if (!cell) return null;
                   return (
@@ -877,7 +889,7 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
       </section>
 
       {/* ══ 4. ALL RULES — ACCORDION WITH FILTERS & HIDDEN RULES ══ */}
-      {firm.rules && firm.rules.length > 0 ? (
+      {displayRules.length > 0 && (
         <section id="rules-section" className="space-y-6">
           <div className="border-b border-white/[0.06] pb-4 space-y-1">
             <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-white/10 text-white text-xs font-semibold border border-white/[0.06]">
@@ -887,6 +899,11 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
             <h2 className="text-2xl font-semibold text-white tracking-tight">
               All Rules with Examples & Dollar Math
             </h2>
+            {displayRules[0]?.sources[0]?.sourceType === 'INFERENCE' && (
+              <p className="text-[11px] font-mono text-amber-300/80 bg-amber-500/[0.06] border border-amber-500/20 rounded-lg px-3 py-2">
+                Parameter-derived dossier — every figure below is computed from {firm.name}'s published account parameters. Clause-level citations pending human verification.
+              </p>
+            )}
             <p className="text-xs text-white/50">
               Every rule for <strong className="text-white">{currentProgram?.name}</strong> on your <strong className="text-white">{fmt(selectedCapital)}</strong> account.
               Filter by category, risk level, or reveal hidden rules buried in the Terms &amp; Conditions. Click any rule to expand the full explanation with formula and official citation.
@@ -894,27 +911,13 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
           </div>
 
           <RulesAccordion
-            rules={firm.rules}
+            rules={displayRules}
             selectedCapital={selectedCapital}
             programType={currentProgram?.programType || '2-Step'}
+            programSlug={currentProgram?.slug}
             highlightedRuleId={highlightedRule}
             onOpenSource={onOpenSource}
           />
-        </section>
-      ) : (
-        <section id="rules-section" className="p-8 rounded-2xl bg-[#111318] border border-[#1F2228] text-center space-y-3">
-          <div className="w-12 h-12 rounded-xl bg-white/[0.04] border border-white/[0.08] flex items-center justify-center mx-auto text-white/40">
-            <Shield className="w-6 h-6" />
-          </div>
-          <h3 className="text-lg font-semibold text-white">Rule Dossier Extraction In Progress</h3>
-          <p className="text-sm text-white/60 max-w-lg mx-auto">
-            {firm.name}'s parameters, platforms, and legal entity are confirmed above. Our quantitative team is currently ingesting clause citations for this firm.
-          </p>
-          <div className="pt-2">
-            <button onClick={() => onNavigate('/prop-firms')} className="px-5 py-2.5 rounded-full bg-[#2563eb] text-white text-xs font-semibold hover:bg-[#1d4ed8] transition-colors">
-              Compare Other Verified Firms
-            </button>
-          </div>
         </section>
       )}
 
@@ -991,17 +994,27 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
               #3 Daily Loss at 00:00 Rollover
             </span>
             <h3 className="text-sm font-bold text-white">
-              {isInstant
-                ? 'Trailing Drawdown Locks at Peak Equity'
-                : 'Spread Widening at Daily Server Rollover (00:00)'}
+              {currentAccount.dailyLossLimit === 0
+                ? (currentAccount.drawdownType === 'end_of_day'
+                  ? 'No Daily Cap — EOD Floor Steps Up on Closes'
+                  : 'No Daily Cap — Trailing Max Is the Only Tripwire')
+                : isInstant
+                  ? 'Trailing Drawdown Locks at Peak Equity'
+                  : 'Spread Widening at Daily Server Rollover (00:00)'}
             </h3>
             <p className="text-xs text-white/70 leading-relaxed">
-              {isInstant
-                ? 'The trailing drawdown floor moves up with every high-water mark. Once equity reaches a peak, the floor stays locked. Overnight spreads can touch the floor.'
-                : 'Daily loss calculates against midnight start balance. Holding floating drawdowns into 00:00 server reset can cause widening spreads to breach the daily floor.'}
+              {currentAccount.dailyLossLimit === 0
+                ? (currentAccount.drawdownType === 'end_of_day'
+                  ? 'No intraday tripwire exists. Only the daily close moves the maximum-loss floor — intraday peaks bank nothing, but every closing high permanently tightens your room.'
+                  : 'No intraday tripwire exists. Early profits ratchet the trailing floor up, and a normal pullback from the new high can tag it.')
+                : isInstant
+                  ? 'The trailing drawdown floor moves up with every high-water mark. Once equity reaches a peak, the floor stays locked. Overnight spreads can touch the floor.'
+                  : 'Daily loss calculates against midnight start balance. Holding floating drawdowns into 00:00 server reset can cause widening spreads to breach the daily floor.'}
             </p>
             <div className="p-2.5 rounded-lg glass-card text-[11px] text-white/50 font-mono">
-              <strong>Limit on {fmt(selectedCapital)}:</strong> Max loss in 24hr cycle: {fmt((selectedCapital * currentAccount.dailyLossLimit) / 100)}.
+              <strong>Limit on {fmt(selectedCapital)}:</strong> {currentAccount.dailyLossLimit === 0
+                ? `Lifetime floor starts at ${fmt(selectedCapital * (1 - currentAccount.maxTotalLoss / 100))} and only tightens — no daily early warning.`
+                : `Max loss in 24hr cycle: ${fmt((selectedCapital * currentAccount.dailyLossLimit) / 100)}.`}
             </div>
           </div>
 
@@ -1010,9 +1023,9 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
             <span className="px-2 py-0.5 text-[10px] font-bold uppercase rounded bg-amber-500/20 text-amber-400 border border-amber-500/40 flex items-center gap-1 w-fit">
               #4 Inactivity Forfeiture
             </span>
-            <h3 className="text-sm font-bold text-white">30-Day Consecutive Idle Lockout</h3>
+            <h3 className="text-sm font-bold text-white">{currentAccount.inactivityLimitDays}-Day Consecutive Idle Lockout</h3>
             <p className="text-xs text-white/70 leading-relaxed">
-              If 30 consecutive calendar days elapse without placing a trade, credentials are automatically deactivated and challenge progress is forfeited.
+              If {currentAccount.inactivityLimitDays} consecutive calendar days elapse without placing a trade, credentials are automatically deactivated and challenge progress is forfeited.
             </p>
             <div className="p-2.5 rounded-lg glass-card text-[11px] text-white/50">
               <strong>Fix:</strong> Place a 0.01 lot micro trade before taking any long break or holiday.
@@ -1024,12 +1037,25 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
             <span className="px-2 py-0.5 text-[10px] font-bold uppercase rounded bg-amber-500/20 text-amber-400 border border-amber-500/40 flex items-center gap-1 w-fit">
               #5 News Execution Buffer
             </span>
-            <h3 className="text-sm font-bold text-white">
-              2-Minute Window Around Red Folder News
-            </h3>
-            <p className="text-xs text-white/70 leading-relaxed">
-              While marketing says "News Trading Allowed", opening or closing trades within 2 minutes before or after high-impact events on funded stages invalidates profits.
-            </p>
+            {firm.slug === 'goat-funded-trader' ? (
+              <>
+                <h3 className="text-sm font-bold text-white">
+                  2-Minute Window Around Red Folder News
+                </h3>
+                <p className="text-xs text-white/70 leading-relaxed">
+                  While marketing says "News Trading Allowed", opening or closing trades within 2 minutes before or after high-impact events on funded stages invalidates profits.
+                </p>
+              </>
+            ) : (
+              <>
+                <h3 className="text-sm font-bold text-white">
+                  News Trading: {currentAccount.newsTradingRule}
+                </h3>
+                <p className="text-xs text-white/70 leading-relaxed">
+                  {currentAccount.newsTradingDetail}
+                </p>
+              </>
+            )}
           </div>
 
           {/* Risk 6: Open Orders During Payout */}

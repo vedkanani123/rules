@@ -1,0 +1,209 @@
+TITLE: Static Drawdown Prop Firm Rules Explained
+URL: https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Static drawdown prop firm rules explained by Goat Funded Trader — how the fixed floor works, how it compares to trailing drawdown, and which model protects your account.
+CANONICAL: https://www.goatfundedtrader.com/blog/static-drawdown-prop-firm-rules
+HEADINGS:
+- Static Drawdown Prop Firm Rules Explained
+- Key Takeaways
+- What Static Drawdown Means
+- How Static Drawdown Works: The Maths
+- Static vs Trailing Drawdown: Side by Side
+- Daily Limits and Maximum Limits Do Different Jobs
+- So, Which Model Should You Trade Under?
+- Trade Where Your Floor Locks and Your Capital Climbs
+- Frequently Asked Questions (FAQs)
+- Does Goat Funded Trader use static or trailing drawdown?
+- Does GFT's drawdown update during the trading session?
+- What happens to my floor once it locks at the starting balance?
+- Can I hedge positions across two GFT accounts?
+- Be Great and get the App
+- Level up. Join our Community.
+- Exclusive Discounts & Giveaways
+CONTENT:
+ForexFutures
+
+    EN
+
+      EN
+
+      ES
+
+      DE
+
+      FR
+
+      IN
+
+      IT
+
+Limited Time40% OFF + BOGOCODE: BOGO4050% OFF for New CustomersCODE: FIRSTGFTTradingHow It WorksRewardsModelReviewsAffiliateFree Trading CompetitionCompanyAboutContact UsFAQTradingHow It WorksRewardsAffiliateFree Trading CompetitionCompanyAboutContact UsFAQLog InGet FundedLog InGet FundedStatic Drawdown Prop Firm Rules ExplainedStatic drawdown prop firm rules explained by Goat Funded Trader — how the fixed floor works, how it compares to trailing drawdown, and which model protects your account.Text LinkDo you know that one number decides more funded accounts than any strategy ever will? Traders spend months refining entries, backtesting setups, and studying market structure. Then an account closes on a Tuesday afternoon because of a rule they barely glanced at before buying the challenge.
+Drawdown is the maximum loss a prop firm allows before an account is breached. While every firm uses it to control risk, the way they calculate it can produce completely different outcomes. Two traders can place the same trades, in the same order, on the same day, yet only one keeps their account. The difference comes down to how the drawdown floor was calculated.
+Below, we explain exactly how static drawdown works, how firms calculate it, where it differs from trailing drawdown, and which model best suits different trading styles. This guide also touches down on how to manage your risk across forex, crypto, indices, metals, commodities, and stocks.
+Key Takeaways
+
+Static drawdown rules tend to fix your loss floor at a set distance below your starting balance, and the floor never moves. A $100,000 account carrying a 6% limit holds a permanent floor at $94,000 whether equity reaches $130,000 or falls back toward the start.
+
+Under a fixed floor, profitable trading permanently widens your margin for error. Three strong weeks can grow headroom from $6,000 to $14,000. This means a subsequent losing week barely registers where it might otherwise end an account.
+
+Trailing drawdown lifts your floor as equity climbs, protecting banked gains structurally.
+
+Four calculation types exist. Static never moves, end-of-day trailing updates only at the close, intraday trailing responds to every new high during the session, and locking trailing rises to a defined point and then fixes permanently.
+
+Daily limits and maximum limits do separate jobs and apply at once. Daily limits suspend a session; maximum limits close the account permanently. Reset timing varies across firms and decides which session a loss counts against.
+
+Goat Funded Trader runs a locking trailing model. Your floor trails your end-of-day closing balance, ignores intraday movement completely, and locks permanently once it reaches your starting capital, behaving as a fixed floor from that point onward.
+
+The model sits inside a structure built for growth: six markets across five platforms, $400,000 starting allocation scaling toward $2,000,000 with no repurchase at any tier. Splits start at 80% to 100%, bi-weekly payouts under a 2-business-day guarantee, and account reset working before or after a breach.
+
+What Static Drawdown Means
+Static drawdown rules set your maximum loss floor at a fixed distance below your starting balance, and that floor never moves.
+
+Start a $100,000 account that carries a 6% maximum static drawdown, and your floor sits at $94,000.
+
+Grow the account to $130,000, and the floor remains $94,000. Give back $20,000, and the floor is still $94,000. Nothing your equity does changes where the line sits.
+
+Three terms appear interchangeably across the industry: static, fixed, and absolute drawdown. All three describe the same mechanic.
+
+The practical effect is straightforward. Your buffer begins at a known dollar figure. Every dollar you earn increases the distance between your current equity and the fixed drawdown floor.
+How Static Drawdown Works: The Maths
+This is the maths concept that static drawdown works:
+Take a $100,000 account with a 6% maximum static drawdown and a 4% daily loss limit.
+
+Your permanent floor: $100,000 − $6,000 = $94,000
+
+Your daily floor on day one: $100,000 − $4,000 = $96,000
+
+Now trade it across a month.
+
+Point in Time
+Account Equity
+Distance to Static Floor
+Buffer Change
+
+Opening balance
+$100,000
+$6,000
+Baseline
+
+After week 1 (+$4,000)
+$104,000
+$10,000
+Buffer grew 67%
+
+After week 2 (−$2,000)
+$102,000
+$8,000
+Still above baseline
+
+After week 3 (+$6,000)
+$108,000
+$14,000
+Buffer more doubled
+
+After week 4 (−$5,000)
+$103,000
+$9,000
+Comfortably safe
+
+Notice what happened in week four. A $5,000 losing week barely registered, as three weeks of profit had already built $14,000 of headroom. This is the defining property of static drawdown rules: profitable trading permanently increases your margin for error.
+Static vs Trailing Drawdown: Side by Side
+Unlike static drawdown, which remains fixed throughout the life of the account, a trailing drawdown moves higher as your account reaches new equity highs. In other words, the drawdown floor follows your progress, helping firms manage risk while still giving traders room to grow. How far it trails and whether it eventually stops moving depends on the firm's specific rules.
+The static vs trailing drawdown distinction produces the largest gap in outcomes across prop trading. So, running both against identical trades makes the mechanics obvious.
+Same $100,000 account, 6% maximum drawdown, and sequence.
+
+Event
+Equity
+Static Floor
+Pure Trailing Floor
+
+Start
+$100,000
+$94,000
+$94,000
+
+Run to peak
+$115,000
+$94,000
+$108,100
+
+Pullback to $107,000
+$107,000
+$94,000 — safe
+$108,100 — breached
+
+In this example, the static drawdown never changes, so the trader still has a comfortable buffer after the pullback.
+Under a pure trailing drawdown, however, the floor rises as the account reaches new highs.
+By the time equity peaks at $115,000, the drawdown limit has also moved higher. A normal retracement to $107,000 is enough to breach the account, even though the trader remains well above the starting balance.
+This doesn't mean trailing drawdown is inherently more restrictive. Many prop firms use end-of-day trailing, capped trailing, or evaluation-only trailing models that stop moving after a certain point or behave differently once an account is funded. The exact calculation matters far more than the label itself.
+Three main drawdown models exist, and understanding how each one works is essential before choosing a prop firm.
+
+Type
+How the Floor Behaves
+What It Means for Traders
+
+Static
+Fixed at the starting balance minus the maximum drawdown. It never moves.
+Your available buffer increases as your profits grow, giving you more room to manage future trades.
+
+End-of-Day Trailing
+Updates using the account's closing equity at the end of each trading day.
+Intraday gains and pullbacks don't affect the floor. Only profits you carry into the close move the drawdown limit higher.
+
+Intraday Trailing
+Adjusts whenever the account reaches a new equity high during the trading session.
+The drawdown floor responds immediately to new highs, encouraging tighter risk management throughout the day.
+
+Locking Trailing
+Moves higher with your equity until it reaches a predefined level, then becomes fixed.
+Combines the early protection of a trailing drawdown with the predictability of a static floor once the lock level is reached.
+
+Daily Limits and Maximum Limits Do Different Jobs
+Two limits govern every funded account, and conflating them causes avoidable breaches.
+The daily loss limit caps what you can lose in a single session. Breach it and trading typically suspends for the day and resets at the firm's cutoff. Timing factors in more than traders expect, as firms use 5 pm EST, midnight UTC, or broker server time. This difference decides which session your losses land in.
+The maximum drawdown caps cumulative loss across the account's entire life. Breach it, and the account closes permanently.
+Both apply at once. Staying inside your daily limit while breaching your maximum still ends the account.
+So, Which Model Should You Trade Under?
+By this point, the trade-off should be clear. A static floor never moves and hands you a buffer growing with every profitable week, while a trailing floor protects the gains you bank, though it can close an account still sitting in profit.
+Goat Funded Trader resolves the trade-off by running the fourth model in the table above.
+Our drawdown is trailing, and the threshold trails your end-of-day closing balance. Intraday movement never touches it. For instance, a gold position spiking through London and settling back before the close leaves your floor exactly where it was, so the harshest trap in trailing structures is removed outright.
+The part worth understanding properly is what happens next. Your floor rises with your closing balance only until it reaches your starting balance. Then it locks, permanently.
+Read that against the static section above and the overlap becomes obvious. Once locked, your floor behaves exactly as a fixed floor does: unmoving, predictable, and widening your margin for error with every dollar you earn beyond it.
+How static drawdown works after the lock point and how our model works after the lock point are the same thing.
+What you gain during the phase before the lock is protection a static drawdown prop firm structure never offers. While you build toward breakeven, the trailing period secures your early progress. Clear your starting balance and the protection converts into permanence.
+
+Phase
+Floor Behavior
+What You Get
+
+Building toward starting balance
+Trails your EOD closing balance upward
+Early gains protected as you bank them
+
+Starting balance reached
+Floor locks permanently
+Fixed floor from this point forward
+
+Every dollar afterward
+Floor stays locked
+Buffer widens with each profitable close
+
+Trade Where Your Floor Locks and Your Capital Climbs
+Understanding static drawdown rules is worth little without a firm applying rules you can actually trade under.
+At Goat Funded Trader, we built our model around a simple principle: your floor should protect your early progress, then stop interfering.
+The drawdown trails your end-of-day closing balance and locks permanently once it reaches your starting capital. Nothing intraday moves it. From the lock point onward, every dollar you earn becomes a buffer you keep, which works precisely as a maximum static drawdown does while having secured your gains on the way up.
+Around that model sits the structure making it worth trading long-term.
+Six markets live inside a single account, covering forex, crypto, indices, metals, commodities, and stocks. Five platforms carry them, including MT5, cTrader, MatchTrader, TradeLocker, and Volumetrica FX with over 500 crypto pairs. Rotation between markets costs nothing and needs no second account, so a flat week in the majors becomes an opportunity in gold or crypto.
+Starting allocation reaches $400,000. Sustained profitability carries it toward $2,000,000 through our scaling ceiling, with nothing to repurchase at any tier along the way. Splits open at 80% and climbs toward 100%, so your capital and your share grow together.
+Four routes reach the account. Instant Funding places proven traders on live capital from the first order. The 1-Step, 2-Step, and 3-Step Challenges each set a different pace for traders building a record first. News trading, weekend positions, and overnight holds stay permitted throughout, so strategies built around volatility survive intact.
+Your progress deserves a floor protecting it, then leaving you alone. Compare our models today and find out what your strategy does with room to breathe.
+Frequently Asked Questions (FAQs)
+Does Goat Funded Trader use static or trailing drawdown?
+GFT uses trailing drawdown, never static. Our threshold trails your end-of-day closing balance and locks permanently once it reaches your starting balance. Third-party listings describing GFT as offering static drawdown or both models are inaccurate and should be disregarded.
+Does GFT's drawdown update during the trading session?
+Your floor recalculates against your closing balance at the daily reset, never tick by tick. Intraday equity spikes leave it untouched, so a position running in your favour and retracing before the close costs you no permanent buffer at any point.
+What happens to my floor once it locks at the starting balance?
+Locking is permanent. The threshold stops moving entirely, and every dollar earned beyond that point widens your buffer for good. Subsequent losses reduce your equity without ever lifting the floor higher again.
+Can I hedge positions across two GFT accounts?
+Hedging inside a single account is permitted. Opening opposing positions across two accounts to guarantee a pass breaches our rules, and detection systems flag correlated trades between accounts. The penalty is permanent closure with forfeited profit.Be Great and get the AppLevel up. Join our Community.DiscordExclusive Discounts & GiveawaysSendThank you! Your submission has been received!Oops! Something went wrong while submitting the form.Link to home©2026GoatFundedTrader. All rights reserved.TradingHomeHow It WorksRewardsTrading CompetitonModelBlogFAQCompanyAboutAffiliateContactReviewsSocialsInstagramDiscordXYouTubeLinkedInPolicyFunded Account DisclaimerRefund PolicyComplaints PolicyTerms & ConditionsPrivacy PolicyTradingHomeHow It WorksRewardsTrading CompetitonModelFAQCompanyAboutAffiliateContactSocialsInstagramDiscordXYouTubeLinkedInPolicyFunded Account DisclaimerRefund PolicyComplaints PolicyTerms & ConditionsPrivacy PolicyDisclaimer:  ‍Goat Funded Trader, a trade name of Wishes Tower International Limited, a company registered in Hong Kong (Company Number 76428795), with registered office at M 1205, 12/F, Beverly Hse, 93-107 Lockhart Rd, Wan Chai, Hong Kong, publish and distribute content that should be regarded as general information only. None of the information provided by the Company or contained herein is intended as investment advice, an offer or solicitation of an offer to buy or sell securities, or a recommendation, endorsement, or sponsorship of any security, company, or fund. The information contained on the Company's websites is provided for informational purposes only and is not intended to be relied upon for making investment decisions. Any use of the information contained on the Company's websites is at your own risk, and the Company assumes no responsibility or liability for any use or misuse of such information. Nothing contained herein constitutes a solicitation or an offer to buy or sell futures, options, or forex. Please note that past performance is not necessarily indicative of future results, and any investment involves risks, including the possibility of total loss of the invested amount. You should always seek professional advice before making any investment decisions. The Company is not a financial broker, financial advisor, or financial representative, and does not accept client deposits. Goat Funded Trader does not offer or provide trading or investment recommendations, and any trading or investment decisions you make are entirely your responsibility and at your own risk. The results of these services are directly related to each individual's professional skill level and their capacity to follow the program guidelines and objectives detailed for each service.Disclosure on Hypothetical Performance: The accounts utilized for our services are demo accounts. Hypothetical performance results come with inherent limitations, among which include the fact that they do not reflect actual trading. No claim is made that any account will achieve or is likely to achieve profits or losses comparable to those discussed; in reality, actual results can significantly differ from those predicted by hypothetical performance. Hypothetical performance often benefits from hindsight, does not account for financial risk, and cannot consider the financial risk in actual trading. For instance, the capacity to endure losses or to stick to a trading plan despite losses are crucial factors that can negatively impact real trading results. Many other market factors or aspects of implementing a specific trading program not accounted for in hypothetical performance preparation can also adversely affect actual trading results.  Goat Funded LTD - Ground Floor, The Sotheby Building, Rodney Bay, Gros-Islet, PO Box 838, Castries, Saint Lucia, with company number 2025-00240 - , provides the simulated trading services advertised on www.goatfundedtrader.com. For more information on simulated trading services provided by Goat Funded please contact support@goatfundedtrader.com. Metatrader 5 "MT5" services and information on this site are not intended for U.S. citizens/residents and should not be used in jurisdictions where such use would violate applicable laws or regulations.Funded Account DisclaimerRefund PolicyComplaints PolicyTerms & ConditionsPrivacy Policy©2025GoatFundedTrader. All rights reserved.

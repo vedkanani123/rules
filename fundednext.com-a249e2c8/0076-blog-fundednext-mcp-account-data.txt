@@ -1,0 +1,144 @@
+TITLE: FundedNext MCP: Account Data Without the Dashboard
+URL: https://fundednext.com/blog/fundednext-mcp-account-data
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: FundedNext MCP lets you query your account data, rules, and payout status through Claude AI — no login, no clicking, just answers.
+CANONICAL: https://fundednext.com/blog/fundednext-mcp-account-data
+HEADINGS:
+- FundedNext MCP: Your Account Data, Without Opening the Dashboard
+- Table of Contents
+- What Is the FundedNext MCP?
+- How to Connect FundedNext to Claude
+- What Can You Ask? Capabilities by User Segment
+- Public Users (No Account Yet)
+- Signed-Up Users (No Active Challenge)
+- Free Trial Users
+- Paid Challenge Users (Phase 1 / Phase 2)
+- Funded Traders
+- Competition Users
+- Futures Program Users
+- What Is Disabled During the Beta?
+- What Is Coming Next?
+- Exact Numbers, Not Estimates
+- Scope and Limitations
+- Final Thoughts
+- Frequently Asked Questions
+- Can Claude place trades or move money through the FundedNext MCP?
+- Do I need a FundedNext account to use the MCP?
+- Does the MCP work with AI assistants other than Claude?
+- Get the Latest News and Deals
+CONTENT:
+CFDsFuturesLabsRewardsMoreENLoginFundedNextBlogFundedNext MCP: Your Account Data, Without Opening the DashboardFundedNext MCP: Your Account Data, Without Opening the Dashboard1 month agoJuly 14, 2026ShareTable of ContentsWhat Is the FundedNext MCP?How to Connect FundedNext to ClaudeWhat Can You Ask? Capabilities by User SegmentPublic Users (No Account Yet)Signed-Up Users (No Active Challenge)Free Trial UsersPaid Challenge Users (Phase 1 / Phase 2)Funded TradersCompetition UsersFutures Program UsersWhat Is Disabled During the Beta?What Is Coming Next?Exact Numbers, Not EstimatesScope and LimitationsFinal ThoughtsFrequently Asked QuestionsCan Claude place trades or move money through the FundedNext MCP?Do I need a FundedNext account to use the MCP?Does the MCP work with AI assistants other than Claude?Checking your drawdown room, payout status, or challenge progress usually means logging in and clicking through the dashboard. The FundedNext MCP (Model Context Protocol) removes that step. It gives AI assistants, starting with Claude, a direct connection to FundedNext’s platform data and knowledge base, so you can ask natural-language questions about your accounts, rules, payouts, and challenge progress and get live, exact answers. This guide covers everything the MCP can do, how to connect it, what each user segment gets access to, and what is temporarily restricted during the beta.
+TL;DR
+
+The FundedNext MCP gives Claude a live, authenticated connection to your FundedNext account data and the full rules knowledge base.
+During the current beta, all read features are available. Actions that change your account, such as updating passwords or editing stop losses, are temporarily disabled while additional safety checks are under review.
+Every type of user gets access to features relevant to them, from exploring plans and pricing to checking payouts, W-9 information, and competition leaderboards.
+Claude always quotes exact figures, never approximations. If the required information isn’t available, Claude says so instead of making assumptions.
+Setup takes four simple steps in Claude Desktop, and no coding or technical knowledge is required.
+
+What Is the FundedNext MCP?
+MCP is an open standard that lets AI assistants securely access external platforms. The FundedNext MCP applies it to prop trading: instead of logging in to check your daily drawdown or payout status, you ask Claude and it pulls the answer from live platform data.
+The MCP uses two trusted sources:
+
+Your live dashboard data for account-specific information like balances, drawdown, payouts, and trading history.
+The official FundedNext knowledge base for trading rules, platform policies, and challenge information.
+
+Each question is answered from the source built for it. If the two ever conflict, the knowledge base is authoritative on policy and your dashboard is authoritative on your actual numbers.
+How to Connect FundedNext to Claude
+
+Open Claude Desktop, then go to Settings, Integrations (or MCP Servers).
+Click Add MCP Server and paste the FundedNext MCP link from your dashboard, under the new Connect to AI section.
+Authenticate with your FundedNext login credentials or an API token, depending on rollout.
+Claude confirms the integration. Start asking questions immediately.
+
+What Can You Ask? Capabilities by User Segment
+Access scales with your relationship to the platform. Each tier includes everything from the tiers before it.
+Public Users (No Account Yet)
+You can use the MCP in explore mode without signing up. Ask about any challenge plan, account size, or price. Get answers on trading rules, profit targets, drawdown limits, and challenge phases. Compare the CFD and Futures programs. You can even create a Free Trial account, or a new account with a coupon code, all through a simple conversation with Claude.
+Sample questions:
+
+“What is the maximum drawdown on the $100K Stellar 1-Step plan?“
+“What are the rules for the $50K Stellar 2-Step challenge?“
+“Can I trade news events on FundedNext?”
+“Start a free trial account for me.”
+
+Signed-Up Users (No Active Challenge)
+Registered users add profile and KYC status, plan and add-on browsing, and coupon validation before purchase. All calculators become available: margin, swap, pip values, live symbol prices, and the challenge price calculator. You can also generate a referral code, view your referral dashboard, browse competition leaderboards, and update newsletter and news alert preferences.
+Free Trial Users
+Trial users get real-time insight into their own performance. Ask for your account overview and balance, trading history, and rule breach history. You can view and set the investor password for your trial account, and every calculator now works with your live account data in context.
+Sample questions:
+
+“How close am I to hitting my profit target on my free trial?”
+“Did I breach any rules in the last 7 days?”
+“What do I need to do to pass and get a funded account?”
+
+Paid Challenge Users (Phase 1 / Phase 2)
+This is the deepest tier for account intelligence. Paid users get full trading overview and history across all challenge accounts, the risk card with current drawdown exposure, journal trades and performance metrics, and rule breach history with context pulled from the knowledge base. You can create trade targets, check reset eligibility, and calculate the exact reset cost. The Infinity program is also accessible: view tasks, badges, and your Infinity wallet, or enroll directly.
+Sample questions:
+
+“Show me my trading performance summary for this month.”
+“What is my current daily drawdown and how much room do I have?”
+“Create a trade target to cap my daily loss at $300.”
+“Am I eligible to reset my account? How much would it cost?”
+
+Funded Traders
+Funded traders add the full finance layer: payout history, current status, and complete breakdowns, payout wallet balance, withdrawal history, and individual gateway transaction details. Account certificates are available in download-ready form. US traders can view W-9 / 1099 information and request a W-9 form through the conversation.
+Sample questions:
+
+“What is my pending payout amount and when was it requested?”
+“How much is in my payout wallet right now?”
+“I need my W-9 form. Can you send it?”
+
+Competition Users
+Competition participants can check the competition overview, rules, and prize structure, view their trading analytics and growth curve, see the leaderboard and past winners, pull competition certificates, and register for a competition directly.
+Sample questions:
+
+“What is my current rank in the competition?”
+“Who are the top 5 traders on the leaderboard?”
+
+Futures Program Users
+FundedNext Futures traders get futures-specific data: certificates, trade history, payout information, and the futures trade symbols reference, alongside all standard calculator and knowledge base capabilities.
+What Is Disabled During the Beta?
+The beta ships with every read capability active and a deliberate hold on writes that alter account state. Visible in the schema but currently blocked:
+
+Set or change investor password. Secure credential mutation, held for an additional auth layer review.
+Stop loss create, update, or delete. Financial safety mutation, needs a controlled rollout.
+Trade notes update. Low risk, queued for the next release.
+Update profile preferences and save notification preferences. Held while the broader preferences API is reviewed.
+Submit Infinity task. Needs a deduplication guard.
+Update or delete trade target. Creating a target is live; edits and deletions are held for consistency review.
+
+Each of these is a one-line configuration change once guardrails are approved, so re-enablement will not require a platform update.
+What Is Coming Next?
+The FundedNext MCP will continue to expand with more capabilities over time.
+Near term, the roadmap includes:
+
+Updating trade notes
+Saving notification preferences
+Submitting Infinity tasks, with a duplicate-submission guard in place
+Updating and deleting trade targets
+
+Medium-term planned features include:
+
+Changing your investor password, protected by an enhanced authentication layer
+Managing stop losses, following a financial safety review
+Updating profile preferences
+Broader write access, including competition registration and account actions.
+
+Exact Numbers, Not Estimates
+The MCP is configured to quote numbers, dates, amounts, IDs, and status values verbatim from live responses. If your payout wallet holds $9,847.23, that is the figure you get, not “about $10K.” When the data needed to answer is missing, Claude states “I don’t have that data” rather than guessing. Traders make real financial decisions based on these answers, so approximation is not permitted anywhere in the system.
+Scope and Limitations
+The MCP is scoped to FundedNext platform data. It does not provide general market analysis, trade signals, or investment advice. It does not read third-party platform data, such as MT4/MT5 accounts outside FundedNext. And it will not perform any of the disabled write actions listed above. When a question falls outside scope, Claude says so clearly and offers to connect you with human support.
+Final Thoughts
+The next time you wonder how much drawdown room you have left, you have two options. Log in, open the dashboard, find the risk card, and read the number. Or ask Claude and get the exact figure in seconds.
+That is the whole pitch. Find your MCP link in the FundedNext dashboard, connect it in under a minute, and start with something simple: “Did I breach any rules this week?” If the answer surprises you, the MCP has already paid for the sixty seconds it took to set up.
+Not trading with FundedNext yet? You do not need an account to try it. Ask about any plan, compare challenge models, or start a free trial directly through the conversation.
+Frequently Asked Questions
+Can Claude place trades or move money through the FundedNext MCP?
+No. The MCP has no trade execution capability at any tier, and every write that alters account state, including stop losses and passwords, is disabled during the beta. Claude can read your data and answer questions; it cannot act on your account.
+Do I need a FundedNext account to use the MCP?
+No. Public users can ask about plans, pricing, rules, and drawdown limits without signing up, and can create a free trial account directly through the conversation. Account-specific data requires authentication.
+Does the MCP work with AI assistants other than Claude?
+Claude is the first supported assistant. MCP is an open standard, so support can extend to other AI tools as the rollout continues.
+‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌Follow UsGet the Latest News  and DealsNew Blog Post AlertHome Individual Page and Blog List  SubscribeProduct and OfferingsFundedNext CFDsFundedNext FuturesFNmarketsGeneral RulesHelp Centre (FAQ)PartnersResourcesHow Prop Trading WorksCalculatorBlogCFDs GlossaryTrading PlatformsEconomic CalendarSymbolsMarket OverviewCompanyCompanyNews & MediaAchievements & AwardsEventsContactPublic AnnouncementsPrivacy & PolicyTerms of ServiceCFDs Challenge TermsFutures Challenge TermsInstant Account TermsPrivacy PolicyCookie PolicyAML PolicyRisk DisclosurePartners T&CTrading activities on this platform are executed solely by FundedNext Ltd. using virtual funds in a simulated environment and do not involve real financial risk or trading with real financial instruments. FundedNext Ltd is a company registered in accordance with the laws of Comoros Islands, with registration number HY01023052, and has its registered office at Bonovo Road, Fomboni, Island of Moheli, Comoros Union. Our Hong Kong Office, FundedNext Limited is based in 8/F China Hong Kong Tower 8-12, Hennessy Road, Wan Chai, Hong Kong. The website fundednext.com is operated by FundedNext Limited.Other Operational Entity Information: GrowthNext F.Z.E. registered at Executive Office No. 7, Al Robotics Hub, C1 Building AFZ, Ajman, UAE, with Company registration number: 28831. FundedNext™ © 2026 is a registered trademark and brand name owned by GrowthNext F.Z.E.. Our Cyprus offices, Incenteco Trading LTD., located at 26 Pittaou Str. 3118, Agia Fyla, Limassol, Cyprus & Abutor Investments LTD., located at Foti Kolakidi, 16, 1st floor, Agia Zoni, 3031, Limassol, Cyprus to facilitate payment operations related activities for the business.Legal Disclosure: FundedNext Ltd., provides access to simulated trading programs designed solely for the evaluation of trading proficiency and risk-management skills. All trading occurs in a demo environment using virtual capital.No Client Funds / No Live Trading: FundedNext is not a broker, dealer, exchange, or investment advisor, and does not accept or manage client deposits. Participants do not trade real assets or place live market orders. Any rewards are performance-based and derived from evaluation results only.Evaluation Use Only: All content, tools and services are provided for evaluation and assessment purposes only and shall not be construed as investment advice, solicitation, or an offer to buy or sell any financial product, cryptocurrency, or derivative. Participants are encouraged to consult independent financial, legal, or tax advisors before engaging in any trading activity outside of this program.Hypothetical Performance Disclosure – CFTC Rule 4.41: Simulated or hypothetical trading results have inherent limitations. Unlike actual performance records, they do not represent real trading activity and may be designed with the benefit of hindsight. No representation is being made that any account will, or is likely to, achieve profits or losses similar to those shown or implied.Jurisdictional Restrictions: FundedNext Ltd. does not offer services to residents of the following jurisdictions: North Korea (DPRK), Myanmar, Belarus, Iran, and Russia.Risk Warning: Trading in Futures, derivatives, and digital assets markets involves substantial risk of loss. Past performance is not indicative of future results.Payments & Refunds: All subscription fees paid are strictly for Evaluation purposes and for access to our evaluation services.Not a Deposit | Not FDIC Insured | May Lose ValueFundedNext-Copyright © 2026Trust and Security|Subscribe to newsletter
