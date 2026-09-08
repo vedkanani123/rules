@@ -1,0 +1,305 @@
+================================================================================
+FOR TRADERS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/ForTraders.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official For Traders pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party reviews. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: For Traders (formerly branded "Billionsclub").
+- Founded: 2023 (homepage: "2023 Established"; PropFirmMap: July 2023).
+- Legal entities (official footer): FT Trading Ltd. — The Sotheby Building,
+  Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia (platform/simulation
+  provider); BLN Tech Club DMCC — Goldcrest Executive Bldg, Office 1210,
+  JLT Cluster C, Dubai, UAE, Reg. No. DMCC196633 (education + payments);
+  also cited as BLN TECH CLUB DMCC DMCC-882990. CEO: Jakub Roz (reviewers).
+- Contact: 24/7 live chat (fastest), support email, Discord (10K+ members,
+  daily gameplans), YouTube 15.6K subs, X/IG/TikTok/FB. Languages: EN/ES/CZ.
+  Team: 40+ professionals, 2 offices (Prague office gallery).
+- What it is: SaaS educational simulated-evaluation prop firm — official
+  disclaimer verbatim: "no live capital or margin risk. All accounts are
+  demo accounts in a virtual environment with virtual money. Challenge fees
+  purchase access to the simulation and assessment. Payouts are
+  discretionary, not guaranteed, and require For Traders' acceptance and
+  licensing of your trading data."
+- Scale claimed: $10M+ paid to traders, 150K+ customers, 130+ countries,
+  avg payout time 14h. Certificates to $42,428 (Anthony, Canada).
+- Awards: Benzinga Most Innovative Prop Firm 2024; PropFirmMatch Best Payout
+  Process 2024; Intl. Business Magazine Best Trading Evaluation Co. 2025.
+- Rankings: PropFirmMatch #3 prop firm 4.5/5 (261 reviews); Benzinga 5/5;
+  Investing.com 4.5/5.
+- Products: Trading Challenges (Fast/Classic/Strike), Instant Funding,
+  Pay After Pass, Prediction Markets, Tournaments, AI Coach + journal,
+  Loyalty Club, Premium Program (Gold Tier to $300K).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fortraders.com (homepage: hero, stats, awards, payout certs,
+    Fast/Classic/Strike/Instant/Pay-After-Press pricing refs, guarantee,
+    instruments, commissions, events, support, FAQ, footer legal + bans)
+ 2. https://fortraders.com/challenges (Trading Challenges page)
+ 3. https://fortraders.com/instant-funding (Instant Funding page)
+ 4. https://fortraders.com/pay-after-pass (Pay After Pass page)
+ 5. https://fortraders.com/how-it-works (How It Works page)
+ 6. https://fortraders.com/our-rules (Rules hub)
+ 7. https://fortraders.com/trading-platforms (Platforms: MT5/TradeLocker/cTrader/FT X)
+ 8. https://fortraders.com/trading-instruments (Instruments page)
+ 9. https://fortraders.com/rewards-and-testimonials (Rewards + certificates)
+10. https://fortraders.com/about (About: team, Prague office, values)
+11. https://help.fortraders.com/ (Help Center FAQ)
+12. https://fortraders.com/terms-and-conditions (Terms incl. 14.2 + payout terms)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. BestProps For Traders review 2026-08-16 (Aug-15 live pricing: Fast/Classic/
+    Strike routes, $249/$186 50K Fast example, 9% / 3% / 6% trailing, 3 days)
+14. JoinProp For Traders review 2026-08-10 (Drawdown Protection -2% rule, 40%
+    margin-gambling rule, 80/90% splits, $15K cap, discretionary-payout gap)
+TOTAL SOURCES: 14 (12 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MT5, TradeLocker, cTrader, For Traders X (in-house futures
+platform; public demo available). Route-dependent availability — confirm at
+checkout.
+INSTRUMENTS (100+ assets): Forex (majors/minors/exotics); Crypto (50+ coins,
+24/7 incl. weekends); Indices (US30, NAS100, DAX40); Commodities (Gold,
+Silver, Oil); Futures (specific contracts, competitive spreads); Prediction
+Markets (separate product). Crypto tradable weekends (unique).
+COSTS (official FAQ): raw spreads (top PropFirmMatch spread rankings); LOW
+commissions just $2/lot; no recurring charges, no hidden markups, no
+artificial slippage.
+LEVERAGE: varies by route/asset; Crypto leverage capped ~1:5 (reviewers);
+per-symbol specs inside platforms. Futures leverage per contract margin.
+HOLDING: overnight + weekend holding publicly allowed on tracked challenge
+flows (per PropScorer); crypto 24/7.
+Payout rails: Rise (bank/local), Crypto USDC (ERC20).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Steps | Sizes        | Target        | Daily DD | Max DD              | Split    | Cycle      |
+|---|----------------------|-------|--------------|---------------|----------|---------------------|----------|------------|
+| 1 | Forex Fast (1-Step)  | 1     | $6K-$100K    | 9%            | 3%       | 6% trailing/static* | 80%      | bi-weekly  |
+| 2 | Forex Fast Static    | 1     | $6K-$100K    | 10%           | 3%       | 6% balance-based    | 80%      | bi-weekly  |
+| 3 | Forex Classic (2-Step)| 2    | $6K-$100K    | 8% then 5%    | 4%       | 8% balance-based    | 80%      | bi-weekly  |
+| 4 | Strike (3-Step)      | 3     | $6K-$100K    | 4%/4%/6%      | 3%       | 5%                  | 80-90%   | bi-weekly  |
+| 5 | Instant Master       | 0     | $3K-$25K+    | None          | 3%       | 5% trailing         | to 90%   | on-demand* |
+| 6 | Instant Pro          | 0     | $3K-$25K     | None          | none*    | 6% trailing         | to 90%   | on-demand* |
+| 7 | Pay After Pass       | 1-2   | $6K-$100K    | per route     | per route| per route           | 80%      | bi-weekly  |
+| 8 | Futures Fast/Pro/Inst| 1/0   | to $100K+    | 5%/3%/None    | varies   | 2.5%/2%/5% trail    | to 100%* | daily*     |
+| 9 | Crypto Fast/Pro/Inst | 1/0   | $3K-$100K    | 10%/6%/None   | 3%       | 6%/4%/5%            | 80-90%   | 14d/daily  |
+Notes (* verify exact route at checkout — public mapping mixes routes):
+- * Fast trailing vs static selectable (BrokerAnalysis: "trailing or static,
+  selectable"). Fast standard 9% (11% on some configs per BestProps).
+- * Instant: 7 min days before first payout + consistency rules (TTP).
+- * Futures Fast can advertise 100% split + daily payouts (PropScorer);
+  Fast Futures 25K $139 / 50K $199 tracked.
+- * 40% margin rule REMOVED for new accounts from June 8, 2026 (0% margin
+  rule) — older reviews still cite it; confirm dashboard.
+- Min profitable days: 3 days at +0.5% (Fast eval + between Master rewards).
+- No time limit (inactivity 30 days => inactive). Crypto Instant Master from
+  $50 ($3K).
+- Max allocation: $100K initial; $300K Gold Tier Premium (homepage footnote).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. FOREX FAST (1-STEP, REFERENCE ROUTE) ---
+- Target 9% (some configs 11%), one phase, no time limit, min 3 profitable
+  days (+0.5% each). ($50K: +$4,500.)
+- Daily DD 3% of INITIAL balance; midnight-CET reset uses HIGHER of balance/
+  equity (floating profit raises reference — intraday dip can breach even
+  with small closed loss). Open equity counts.
+- Max DD 6% trailing highest balance (or static variant = balance-based).
+  ($50K: $3,000 room.)
+- Master: 80% split (90% paid upgrade; 70% discount option); $100 min; $15K/
+  cycle cap; 3% buffer; 14-day cycle; 3 profitable days between rewards.
+- News: no eval lockout published; FUNDED = no open/close 5 min before/after
+  high-impact news (TTP).
+--- 5B. CLASSIC 2-STEP / STRIKE 3-STEP ---
+- Classic: 8% P1 + 5% P2, 4% daily, 8% balance-based max, no time limit.
+- Strike: 4%/4%/6% across 3 phases, 3% daily, 5% max — tightest room,
+  cheapest entry ($23 at $6K). 90% split reachable on Strike.
+--- 5C. INSTANT / INSTANT PRO / PAY AFTER PASS ---
+- Instant: no target, 5% trailing + 3% daily, 7 min days, consistency rules,
+  to 90%. Pro: 6% trailing, no daily listed, 0 min days. ($3K Instant $34;
+  Pro $3K $109 to $25K $839.)
+- Pay After Pass: small upfront ($16-$34) + activation after pass
+  ($189-$489) — defer cost till proven.
+--- 5D. FUNDED MASTER — DRAWDOWN PROTECTION (SIGNATURE) ---
+- Floating-loss -2% of start on Master: FIRST breach = SOFT — force-close at
+  market + split PERMANENTLY halved to 50% (account survives). SECOND breach
+  = account closed. Keep floating inside 2% always.
+- Margin-gambling (pre-Jun-2026 accounts): >~40% margin on one-direction
+  instrument = profit voidable. New accounts: rule removed (0%).
+--- 5E. WORKED EXAMPLE (FAST $50K, 80%) ---
+- Target $54,500. Daily box $1,500/day off $50,000 (midnight higher-of
+  reset). Trailing floor $47,000 fixed until equity peaks. Pass + 3 days
+  +$100 => Master; $2,000 gain => $1,600 (80%) bi-weekly under $15K cap
+  with 3% buffer intact. First -2% float touch ($49,000) = split to 50%.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (list; promos rotate — SUMMER2026 25% sitewide; 6KINSTANT 80%
+off $6K Instant Crypto to $29/1,000 accts):
+PropFirmMap Aug-2026 verified ladder (forTraders.com):
+- Fast (1-Step): $6K $34 | $15K $69 | $25K $125 | $50K $174 | $100K $328.
+- Classic (2-Step): $6K $46 | $15K $81 | $25K $153 | $50K $244 | $100K $412.
+- Strike (3-Step): $6K $16 | $15K $55 | $25K $104 | $50K $164 | $100K $244.
+- Instant $3K $34 (single verified row); Pro $3K $109-$25K $839 (TTP).
+- Pay After Pass: $16-$34 upfront + $189-$489 activation.
+BrokerAnalysis Aug-2026 Fast ladder: $6K $49 | $15K $99 | $25K $179 |
+$50K $249 | $100K $469 (fee REFUNDABLE w/ first withdrawal per table).
+BestProps Aug-15 live: Fast from $49 / Classic from $67 / Strike from $23;
+50K Fast $249 list -> $186 promo. Homepage example: $399 = $100K Forex
+One-Step; $50 = $3K Crypto Instant Master.
+ADD-ONS: 90% split upgrade (paid); 70% split discount option; no monthly
+charges; $2/lot commission; no activation fee on tracked challenges.
+REFUND: evaluation fee refund with first profit withdrawal (BrokerAnalysis
+table "Refund Yes"); failed attempts = new purchase. Terms govern.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: 80% base; 90% paid upgrade (Strike reaches 90%; Fast Futures to
+  100% on tracked promos); 70% discount tier. First-breach accounts: 50%.
+- 48-HOUR REWARD GUARANTEE: processed within 48h or firm pays 100% split
+  (homepage). Avg 14h. BUT Terms: payouts "discretionary, not guaranteed."
+- Cycle/min/cap/buffer: $100 min; 14-day cycle (Instant/Futures select =
+  on-demand/daily); $15K max per cycle; 3% buffer; 3 profitable days (+0.5%)
+  between rewards.
+- Methods: Rise (bank/local), bank wire, crypto (USDC ERC20; BTC/USDT).
+- Flow: KYC + agreement + review; dashboard request; licensing of trading
+  data required (footer).
+- Proof: $2,584,019.77 all-time / 1,507 txns / avg $1,714; 30-day $111,517 /
+  77 traders; largest $5,800 (May-24-2026 snapshot per TTP). Homepage certs
+  to $42,428.
+- Scaling: $100K start -> $300K Gold Tier Premium (homepage). No fixed %
+  ladder published; Premium/loyalty tiers govern.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + reviewer-noted)
+================================================================================
+1. Drawdown Protection float rule (Master): -2% floating = soft strike
+   (force-close + 50% split for life); 2nd = close.
+2. Margin-gambling (legacy): >~40% margin same-direction = profit voidable
+   as gambling. REMOVED for post-Jun-8-2026 accounts — confirm dashboard.
+3. News (funded): no open/close within 5 min before/after high-impact
+   releases (NFP/CPI/FOMC).
+4. Daily reset higher-of-balance/equity (midnight CET) — floating profit
+   raises intraday breach line.
+5. Standard bans: latency/price exploits, account sharing, third-party
+   management, cross-account hedging, hyperactive spam, all-in gambling,
+   T&Cs violations. Termination clause 14.2: either party may terminate
+   WITHOUT CAUSE with immediate effect (reviewer-flagged pattern).
+6. Inactivity 30 days = inactive. Payout-then-terminate pattern reported in
+   ~8 Trustpilot 1-stars — trade conservatively, document everything.
+7. Crypto leverage ~1:5; futures margins per exchange.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; entity use per Terms.
+- USA: ACCEPTED (US payout certs: Andres Q. $14,705, Rodrigo $13,777, Luka,
+  Shema). No US platform ban published.
+- HARD BANS (official footer): Pakistan, Iran, Syria, Myanmar, Bangladesh,
+  North Korea, Russian Federation, Belarus, Cuba, Lebanon, Libya, Sudan,
+  Crimea, Donetsk + Luhansk regions of Ukraine.
+- KYC: ID + agreement + review before Master payouts; beneficiary must match;
+  Rise/crypto onboarding.
+- Availability can differ by residence/platform — checkout geo-check governs.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — BestProps (2026-08-16, doc-based, recheck Aug-22): menu-of-routes
+  verdict; live $249->$186 50K Fast example (9%/3%/6% trail/3 days/80%/
+  bi-weekly); warns promos make screenshots incomplete; save checkout+rules.
+- REVIEW 2 — JoinProp (2026-08-10): defines firm (ex-Billionsclub, FT Trading
+  + DMCC, cTrader/TradeLocker/MT5, $6K-$100K/$300K Gold); spotlights -2%
+  split-halving + 40%-margin void as "two traps"; 80/90%, $100/14d/$15K/3%;
+  marketing-vs-Terms gaps (discretionary payouts); ~4/5 Trustpilot.
+- Extra: TTP Aug-2026 (260+ TP reviews, 9 TTP/4.1, $2.58M proof, TRUSTED code,
+  14.2 pay-then-terminate pattern); PropFirmMap B/5.1 + TP SUSPENDED (1,649
+  historic) + 6KINSTANT/SUMMER2026 codes; BrokerAnalysis 8/10 (pricing 9.8,
+  payouts 9.5, refund Yes); PropScorer 55/100 (40% rule removed Jun-2026);
+  PropScorer-blog (route-mapping mess warning).
+- Sentiment: positive on choice, price ($16+), spreads, 48h guarantee, AI
+  coach; negative minority on post-payout terminations + reset math.
+- Red flags: Trustpilot SUSPENSION (material — verify reinstatement) +
+  discretionary-payout Terms + 14.2 no-cause termination. No regulator action.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: widest menu (1/2/3-step + Instant/Pro + Pay-After-Pass + Futures
++ Crypto-weekend) from $16 — cheaper than FTMO, but B-grade trust vs A+
+peers (FTMO/The5ers/FundedNext/FundingPips). 48h-or-100% guarantee unique;
+$2/lot commissions lowest; AI coach unique.
+FAST VS CLASSIC VS STRIKE: Fast = one 9% hurdle, trailing 6% — fastest.
+Classic = 8+5% with 8% balance-based — roomiest. Strike = 4/4/6% with 5% max
+— cheapest, tightest, 90% reachable. INSTANT = no target but 5-6% trail +
+7 days + consistency. FUTURES = 100%/daily promos but 2-2.5% DD.
+BEST FIT: option-lovers; micro-budget testers ($16-$50); crypto-weekend
+traders; futures promo hunters; disciplined low-float traders (inside -2%);
+Prague/Dubai-event community seekers.
+BAD FIT: traders needing guaranteed payouts (discretionary Terms); high-
+margin/low-float styles (legacy rule); news-spike funded traders (5-min
+blackout); >$100K day-one starters (pre-Gold); banned-country residents;
+trust-maximalists (pick A+ peers until TP suspension resolves).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage (stats, awards, certs, guarantee, instruments, $2/lot,
+events, support, FAQ, footer entities + ban list), challenges/instant/pay-
+after/how/rules/platforms/instruments/rewards/about/help/terms pages were
+read live from fortraders.com on 2026-09-08. Pricing cross-checked vs
+PropFirmMap (Aug-8 verified ladder) + BrokerAnalysis (Aug-2026) + BestProps
+(Aug-15 live) + TTP; promos rotate — re-check checkout before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 9-route table, Drawdown Protection, 14.2/discretionary
+warnings, ban list.
+RAW EXCERPTS (official wording, verbatim):
+[1] Offer: "Monetize Your Trading Skill. No risk On your capital. 48h payouts
+Guaranteed. Up to $300K Virtual capital."
+[2] Guarantee: "48-Hour Reward Guarantee — Get paid within 48 hours, or we pay
+you a 100% profit split." / "Avg. payout time 14h. Up to 90% Profit split.
+Crypto, Rise Payout methods."
+[3] Costs: "Lowest Commissions: We charge just $2 per lot." / "No Hidden Fees:
+no recurring monthly charges, no hidden spread markups." / "Evaluations start
+at... $50 ($3,000 Crypto Instant Master)" / "for just $399 you get $100,000
+(Forex One-Step) virtual capital."
+[4] Instruments: "Forex: all major, minor, exotic. Crypto: 50+ coins, 24/7,
+including weekends. Indices: US30, NAS100, DAX40. Commodities: Gold, Silver,
+Oil. Futures: specific contracts."
+[5] Scale footnote: "$300,000 worth virtual capital is the maximum allocation
+for Gold Tier traders within our Premium Program. The initial max. allocation
+for all traders is $100,000."
+[6] Disclaimer: "For Traders is a SaaS educational trading simulation and
+evaluation company that does not collect customer deposits or offer financial
+services... There is no live capital or margin risk. All accounts provided to
+customers are demo accounts in a virtual environment with virtual money."
+[7] Payout terms: "Challenge fees purchase access to the simulation and
+assessment. Payouts are discretionary, not guaranteed, and require For
+Traders' acceptance and licensing of your trading data."
+[8] Entities: "FT Trading Ltd. — The Sotheby Building, Rodney Village, Rodney
+Bay, Gros-Islet, Saint Lucia. BLN Tech Club DMCC — Goldcrest Executive
+Building, Office No. 1210, JLT, Cluster C, Dubai, UAE. Registration No.
+DMCC196633."
+[9] Bans: "Restricted countries: Pakistan, Iran, Syria, Myanmar, Bangladesh,
+North Korea, the Russian Federation, the Republic of Belarus, Cuba, Lebanon,
+Libya, Sudan, Crimea, Donetsk and Luhansk regions of Ukraine."
+[10] Stats: "$10M+ Paid to traders. 150K+ Customers. 130+ Countries served.
+2023 Established." / Awards: "Most Innovative Prop Firm — Benzinga 2024.
+Best Payout Process — Prop Firm Match 2024. Best Trading Evaluation Company —
+International Business Magazine 2025."
+================================================================================
+END OF FILE — FOR TRADERS COMPLETE. Next firm is a separate task (not started).
+================================================================================

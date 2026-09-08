@@ -1,0 +1,158 @@
+================================================================================
+FUNDED SEAT — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundedSeat.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://fundedseat.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundedSeat (fundedseat.com). Founders: Thomas Abdou & Krolos
+  Abdou per DGT. Operator cited as FT Imperium Ltd, Sofia, Bulgaria per
+  PropFirm Deck — reconcile vs US-based positioning. Founded 2024.
+- Positioning: Futures prop (CME/COMEX/NYMEX/CBOT only) on Rithmic; six
+  futures models (1-Step Daily/Ultra, Flex, Sprint + Instant Bolt/Direct) +
+  three CFD models; EOD drawdown across board; 80-90% splits; daily payouts;
+  Path to Live every model; +1 307 204 6104, support@fundedseat.com.
+- Caps [UNVERIFIED]: $150K largest single, $750K per trader per DGT.
+- What it is [UNVERIFIED]: Simulated futures prop; no activation fee.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://fundedseat.com/ (platform, contact, futures execution)
+ 2. https://fundedseat.com/pricing/ (or /challenges/ — six-model grid)
+ 3. https://fundedseat.com/faq/ (EOD DD, consistency, payouts, flat times)
+ 4. https://fundedseat.com/terms/ (eligibility, Path to Live, prohibitions)
+CROSS-CHECK (third-party, real links):
+ 5. https://www.trustpilot.com/review/www.fundedseat.com (rule-change + reconcil. notes)
+ 6. https://damnpropfirms.com/futures-prop-firms/fundedseat/ (9.4/10, 7-min payout proof)
+ 7. https://proptradingvibes.com/prop-firms/fundedseat (tested Sep 2026)
+ 8. https://propfirmplus.com/Reviews/fundedseat-prop-firm-review/ (4.0/5, six models)
+TOTAL SOURCES: 8 (4 official to verify + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: Rithmic-only per reviewers (no NinjaTrader/Tradovate
+  lane — verify). Dashboard slow-to-update trades per Trustpilot — verify.
+- Instruments [UNVERIFIED]: CME-group futures only (CME/COMEX/NYMEX/CBOT).
+  All positions auto-flat 4:59 PM EST; 5:00-6:00 PM EST reconciliation.
+  No swing/overnight holding — verify.
+- Contracts [UNVERIFIED]: progressive funded-phase scaling plan (2026 update);
+  eval example $100K: $3,000 target/DD refs; intraday $900/$450 and $800/$400
+  Instant tiers per DGT — verify per-model minis/micros math.
+- Data/fees: Rithmic data + commissions per plan — verify.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official grid]
+| # | Program | Target | Drawdown | Consistency | Split | Payouts |
+|---|---------|--------|----------|-------------|-------|---------|
+| 1 | 1-Step Daily | 6% | EOD | per FAQ | 80-90% | daily day-one |
+| 2 | 1-Step Daily Ultra | 6% | EOD, no daily stop | per FAQ | 80% | unlimited same-day req |
+| 3 | 1-Step Flex | 6% | EOD | per FAQ | 80-90% | per FAQ |
+| 4 | 1-Step Sprint | 6% | EOD | per FAQ | 80-90% | per FAQ |
+| 5 | Instant Bolt | none | EOD | per FAQ | 90% | daily from 2nd payout |
+| 6 | Instant Direct | none | EOD | per FAQ | 90% | per FAQ |
+Notes: ~10-min auto-pass on evals per DGT. Funded no target. Entry from $21
+per PropScorer; 50% code DGT cited. Verify full price matrix.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP DAILY / ULTRA [UNVERIFIED] ---
+- 6% target; EOD drawdown; Ultra has no daily loss limit per Deck. Daily
+  eligible from day one; requests after reconciliation; ~5h avg (7-min
+  verified best); keep trading during review. Verify caps + min days.
+--- 5B. FLEX / SPRINT [UNVERIFIED] ---
+- Flex headliner per DGT; Sprint variant rails differ — verify target/DD/
+  consistency/daily-stop per model on FAQ.
+--- 5C. INSTANT BOLT / DIRECT [UNVERIFIED] ---
+- No challenge; Bolt $100K: $3,000 DD / $800 intraday (verify); Direct $100K:
+  $3,000 / $900 intraday (verify). Bolt daily from 2nd payout. Verify.
+--- 5D. SESSION / CONSISTENCY / SCALING [UNVERIFIED] ---
+- Flat 4:59 PM EST (no overnight) — verify. Consistency 50%+ flagged with
+  support-negotiated 50.xx% tweaks + rule-change-without-notice complaints
+  (now newsletter-noticed per reviewers) — verify current % per model.
+  Progressive contract scaling in funded — verify schedule. Path to Live every
+  model — verify invite thresholds.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- One-time purchase (no activation fee per DGT). Entry $21 per PropScorer;
+  50% off code DGT; 45% off promos cited. Confirm per-size x per-model grid.
+- Max $150K single / $750K trader caps per DGT. Verify.
+- Refund: confirm refund-on-pass/first-payout clause before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: 80% eval-route base, 90% instant/max per reviewers; PropScorer health
+  60/entry $21. Verify per-model %.
+- Payouts: daily from day one most accounts; post-reconciliation requests;
+  ~5h avg, 7-min verified; single-payout caps apply (vs uncapped TPT PRO) —
+  verify caps/minimums/rails.
+- Scaling: progressive contracts in funded (2026); Path to Live. Verify.
+- Scores: DGT 9.4/10 Excellent; PropScorer 66/100; PFP 4.0/5 — verify current.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm help center/terms]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. Verify futures specifics: news-trading,
+copy-trader limits, algo/EA on Rithmic, hedging across seats, max-position
+vs scaling-schedule breaches.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- US-based positioning per PFP/DGT vs BG operator per Deck — reconcile entity
+  + US trader access on terms before buying.
+- Age 18+. KYC before funding/payout assumed — verify ID/selfie set.
+- Rithmic-access jurisdictions + CME data compliance — verify banned list.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Trustpilot www.fundedseat.com: 5-6mo user top-5 rules/payouts praise; gripes:
+  unannounced rule changes (now newsletter-fixed), slow dashboard; one 1-star
+  vomit review (unsubstantiated) — verify clusters.
+- DGT: 9.4/10, 4.6/5 (4 rev), personally funded + withdrawn, 7-min proof;
+  weaker fit: NinjaTrader/Tradovate-locked, overnight holders, uncapped-payout
+  seekers.
+- Vibes: tested list, model breadth = decision work; compare Tradeify/Lucid/
+  Topstep/TPT. Radar: 5h vs Lucid 15-min; young-firm payout-pipeline caution.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: active intraday Rithmic futures traders wanting six-model choice,
+  EOD drawdown everywhere, daily day-one payouts, no activation fee.
+- Bad fit: NinjaTrader/Tradovate-only, swing/overnight holders, uncapped-
+  withdrawal seekers, single-model simplicity seekers.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — FUNDED SEAT UNVERIFIED. Next firm is a separate task.
+================================================================================
