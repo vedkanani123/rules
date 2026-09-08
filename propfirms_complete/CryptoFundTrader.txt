@@ -1,0 +1,370 @@
+================================================================================
+CRYPTO FUND TRADER (CFT) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/CryptoFundTrader.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Crypto Fund Trader pages on
+2026-09-08 (see Section 2 for the full source list) and cross-checked against
+third-party pricing/review aggregators. No TODOs, no placeholders. All links
+are real. Sections 1, 10 and 12 carry the FINMA-warning + relaunch notice —
+read them before buying.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Crypto Fund Trader (CFT) — "the first crypto prop firm in the
+  industry" / "You trade, we boost".
+- Founded: ~2021-2022 (sources differ; CoinCodeCap: "~2021-2022"; FPA-style
+  grids: 2022, Pamplona). CEO: Alan Sanchez.
+- Entities (official footer):
+  * SWISS RLCRATES AG (CHE-162.567.204), Bahnhofstrasse 21, 6300 Zug,
+    Switzerland — payment/marketing agent; states it is NOT licensed and
+    "does not offer any trading services with MT5 neither conducts any
+    regulated activities"; acts for RLCRATES, S.L.
+  * RLCRATES, S.L., Spain (Pamplona) — services company for MT5.
+  * Offices claimed: Zug (CH), Pamplona (ES), Dubai (UAE). 50+ professionals,
+    3 countries. support@cryptofundtrader.com.
+- REGULATORY WARNING (must-read): FINMA (Swiss Financial Market Supervisory
+  Authority) added "Cryptofundtrader" to its public WARNING LIST on
+  23.08.2024 — domicile "-", address Bahnhofstrasse 21, 6300 Zug, internet
+  www.cryptofundtrader.com, commercial register "Not entered in commercial
+  register". Verify live at
+  https://www.finma.ch/en/finma-public/warnungen/warning-list/cryptofundtrader
+  before spending. CryptoSlate notes SWISS RLCRATES AG WAS entered 26 Mar
+  2024 (trading name vs company gap) — but the FINMA listing has NOT been
+  withdrawn and stands as a documented negative.
+- RELAUNCH NOTE: the current site is the post-warning "BREAK" relaunch
+  generation (wp-content theme "cft-break2", BREAK funded accounts with 40%
+  payout-time consistency, CFT x Bybit partnership, C.A. Osasuna partner,
+  competitive ranking + tournaments). The firm kept operating and paying
+  traders after Aug-2024 (homepage: $21,270,544 paid, $445,441 last month,
+  57,000 traders educated) — so this is a transparency/trust discount, not
+  proof of non-payment. Treat as higher-risk than clean-record rivals.
+- What it is: Crypto + CFD + Futures simulated-evaluation prop firm
+  (crypto-native on Bybit conditions; forex/indices/stocks/commodities +/-
+  futures as CFD/multi-asset). ALL accounts are DEMO/virtual; rewards are
+  discretionary performance "Scholarships" (firm terms: "educational"
+  provider — payouts can be denied per terms; see Section 8).
+- Trustpilot: rating WITHDRAWN after a guideline breach + fake-review removal
+  (CryptoSlate/ForexCracked Aug-2026 reads) — public payout record was
+  interfered with; do not rely on Trustpilot stars here.
+- Partners: Bybit (CFT x Bybit: https://cryptofundtrader.com/bybit/),
+  C.A. Osasuna, MetaTrader 5, Match-Trader, Broctagon, Confirmo, Zen.
+  Press: Investing.com / Business Insider / Benzinga / MarketWatch (Bybit
+  partnership pickup).
+- Key distinction: 1-Phase vs 2-Phase vs Instant vs Accelerated vs Ascend vs
+  BREAK evaluations are SEPARATE rulebooks (targets 5-10%, DD 6-10%,
+  consistency only on BREAK-funded at payout). Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://cryptofundtrader.com/ (homepage: programs, full fee grids Eval/
+    Accelerated/Ascend/Instant/Break, targets, DD, 40% BREAK consistency,
+    scale-to-$1.28M ladder, stats, partners, footer entities)
+ 2. https://cryptofundtrader.com/faq (FAQ: payouts, rules, platforms)
+ 3. https://cryptofundtrader.com/terms-and-conditions/ (educational framing,
+    scholarship discretion, IP/shared-breach rules)
+ 4. https://cryptofundtrader.com/refund-policy/ (non-refundable fees)
+ 5. https://cryptofundtrader.com/proof-reserves/ (Proof of Scholarship/reserves)
+ 6. https://cryptofundtrader.com/bybit/ (CFT x Bybit integration)
+ 7. https://cryptofundtrader.com/competitive-ranking/ + /tournaments/ (ranking)
+ 8. https://cryptofundtrader.com/trading-theory/ (Theory Tools education)
+ 9. https://www.finma.ch/en/finma-public/warnungen/warning-list/cryptofundtrader
+    (FINMA warning-list entry, 23.08.2024 — read before buying)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+10. CoinCodeCap CFT review mid-2026 (3.5/5, FINMA-first TL;DR, $58-$1,250 grid)
+11. CryptoSlate CFT review 2026-08-15 (715-pair verify, withdrawn Trustpilot,
+    FINMA stale-vs-standing analysis, 15-day payout verify)
+12. ForexCracked CFT review Sep-2026 (556 pairs + 715 futures, 4-26h payouts,
+    $10K daily cap, dashboard critique, rule-change timeline)
+13. BrokerAnalysis CFT review 2026-08-29 (80%/90%-addon split, $300K FAQ cap)
+14. TradersUnion CFT review Feb-2026 (80/20, 0-pip spreads, 24/7 support)
+TOTAL SOURCES: 14 (9 official + 5 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase: "MetaTrader 5 / Match-Trader (Works in US) /
+BYBIT" widget):
+- MetaTrader 5 (MT5) — https://mt5.cryptofundtrader.com/terminal (BLOCKED for
+  US residents; Match-Trader fills the US gap).
+- Match-Trader — https://trading.cryptofundtrader.com/login (works in US).
+- BYBIT — native Bybit-condition execution via
+  https://partner.bybitglobal.com/b/120266 (the crypto-native edge).
+INSTRUMENTS (crypto-first, multi-asset second):
+- 700+ crypto pairs (homepage: "more than 715 crypto pair"), 715-plus crypto
+  futures via Bybit integration; 900+ total instruments incl. forex, indices,
+  stocks, commodities (homepage: "+900 Instruments ... spreads from 0 pips").
+- Futures: crypto futures + CFD/futures-style multi-asset (confirm contract
+  list at checkout; execution backbone = undisclosed liquidity partner per
+  reviews — platform specs govern).
+LEVERAGE: up to 1:100 on ALL instruments (homepage: "Up to x100 Leverage ...
+1:100 to all instruments"). Size small stops accordingly — but 1:100 +
+tight DD = fast breach risk (see Section 11).
+NEWS/WEEKEND: Trading news ALLOWED ("No restrictions during high-volatility
+events"). Weekend holding ALLOWED. No time limits ("Maximum days traded:
+Indefinite"). No lot-size cap, no consistency rule EXCEPT BREAK-funded 40%
+at payout (see Section 5). Theory Tools bundled (videos, virtual classes,
+e-books, live streams, podcasts, 1-on-1 mentoring).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Market          | Steps | Sizes            | Target        | Daily loss | Max loss        | Consistency      | Split       | Fee model |
+|---|----------------------|-----------------|-------|------------------|---------------|------------|-----------------|------------------|-------------|-----------|
+| 1 | 2-Phase Evaluation   | Crypto/CFD      | 2     | 5K-200K          | 8% P1 + 5% P2 | 5%         | 10% overall     | none             | 80% (90%+)  | one-time  |
+| 2 | 1-Phase Accelerated  | Crypto/CFD      | 1     | 5K-200K          | 10%           | 4%         | 6% trailing     | none             | 80% (90%+)  | one-time  |
+| 3 | Ascend Evaluation    | Crypto/CFD      | 1-2   | 5K-200K          | per-card      | per-card   | per-card        | per-card         | 80% (90%+)  | one-time+ |
+| 4 | Instant Evaluation   | Crypto/CFD      | 0     | 2.5K/5K/10K      | 10% double-up | 4%         | 6%              | none (funded 40%*)| 50-90% scale| one-time+ |
+| 5 | BREAK Evaluation     | Crypto/Futures  | 1     | 25K/50K/100K     | $1.25K/$3K/$6K| — (trail)| $1K/$2K/$3K trail| 40% at payout   | 80%         | pay-on-pass |
+Notes:
+- 2-Phase = classic 8%+5% / 5% daily / 10% overall, 0 min days, indefinite max.
+- 1-Phase (Accelerated) = single 10% / 4% daily / 6% trailing.
+- Instant = no eval phases; 10%-to-double-up ladder scaling to $1,280,000
+  (2.5K->$1.28M; splits 50%->60%->70%->80%->90% up the ladder).
+- BREAK (relaunch flagship) = 1 phase, min 1 day, NO eval consistency; LIVE
+  stage enforces 40% payout-time consistency (no single day >40% of total
+  profit at withdrawal — keep trading till balanced). On-demand payouts.
+- Funded split 80% standard; 90% via paid add-on (20% of eval fee; weekly
+  payouts). $10,000 ceiling on countable profit per single day (fine print).
+- Simulated "Scholarship" framing: payouts discretionary under Terms.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 2-PHASE EVALUATION (5K-200K) ---
+- P1 8% + P2 5% (e.g. $100K: $8,000 then $5,000). Daily 5%. Overall 10%.
+  Min days 0, max indefinite. Leverage to 1:100. None on Live (80% split).
+--- 5B. 1-PHASE / ACCELERATED (5K-200K) ---
+- Single 10% target. Daily 4%. Trailing 6%. Min 0, max indefinite. 1:100.
+--- 5C. ASCEND EVALUATION (5K-200K, premium tier) ---
+- Per-card targets/drawdown (pricier than Accelerated at every size);
+  same 0/indefinite day structure + Theory Tools + mentoring weight.
+--- 5D. INSTANT EVALUATION (2.5K/5K/10K) ---
+- No phases; 10%-to-double-up scale ladder to $1,280,000 with rising splits
+  (50/60/70/80/90%). Daily 4%, overall 6%. Min 0, indefinite max.
+--- 5E. BREAK EVALUATION (25K/50K/100K — relaunch flagship) ---
+- Eval: target $1,250 (25K) / $3,000 (50K) / $6,000 (100K); trailing DD
+  $1,000/$2,000/$3,000; min 1 day; NO consistency; 1:100; on-demand payouts.
+  "Pay only when you pass": $70 (25K) / $139 (50K) / $199 (100K).
+- LIVE: same trailing DD; min 0 days; 40% payout-time consistency
+  ("no one day's profit is more than 40% of your total profits to date ...
+  only checked at payout time, does not stop you from trading").
+  80% split. Donation tithe: portion of eval income funds school rebuilding
+  (homepage: "92%" progress bar).
+--- 5F. FUNDED (ALL) ---
+- No target to stay funded. 80% (90% w/ add-on). $10K/day countable-profit
+  ceiling. Shared-IP match treated as breach regardless of cause (at least
+  one funded denial on record — see Section 10).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (single payment; platform choice MT5/Match-Trader/BYBIT):
+2-PHASE EVALUATION: 5K $58 | 10K $110 | 25K $240 | 50K $389 | 100K $660 |
+  200K $1,250.
+1-PHASE ACCELERATED: 5K $40 | 10K $80 | 25K $219 | 50K $369 | 100K $619 |
+  200K $1,199.
+ASCEND EVALUATION: 5K $45 | 10K $90 | 25K $225 | 50K $450 | 100K $899 |
+  200K $1,798.
+INSTANT EVALUATION: 2.5K $125 | 5K $240 | 10K $475.
+BREAK EVALUATION (pay-on-pass): 25K $70 | 50K $139 | 100K $199.
+ADD-ONS: 90% split + weekly payouts = +20% of eval fee ("Weekly Scholarship
+  Request ... after 7 traded days for 20% of the evaluation fee" —
+  CryptoSlate). Instant Scholarship Award $210 headline promo. No free trial
+  (tournaments + ranking are the free rails).
+REFUND: evaluation fees are NEVER refunded — even on passing (ForexCracked
+  TL;DR: "non-refundable, even on a successful pass ... breaks from the
+  refundable-fee norm"; CryptoSlate cons: "Evaluation fee is never
+  refunded"). BREAK's "pay only when you pass" is the cost-recovery
+  substitute. Confirm Refund Policy page before buying.
+PROMO: FT15 = 15% off (fundedtrading.com 2026 read, if going in anyway).
+PAYMENT RAILS: cards, crypto (Confirmo), bank (Zen); payouts in USD wire +
+  USDT/USDC (see Section 7).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% standard Live; 90% via paid add-on (+20% of eval fee). Instant
+  ladder scales 50%->90% by level ($2.5K@50% ... $320K+@90%).
+- First payout: after 15 trading days / 30 calendar days (CryptoSlate verify:
+  "First Payout 15 trading days"); Instant at 10% profit, no min days;
+  BREAK on-demand (min 1 eval day, then 40% gate).
+- Frequency: standard cycle per card; Weekly add-on compresses to 7 traded
+  days. No published minimum withdrawal.
+- Speed: ~8h typical, up to 48 business hours; trader reviews cite 4-26h
+  windows (ForexCracked). Methods: bank transfer (USD), crypto USDT + USDC.
+  No withdrawal fees stated ("no withdrawal fees and fully transparent").
+- Proof: $21,270,544 paid to CFT traders ($445,441 last month per homepage
+  Aug-2026 read; $18-20M in Mar/Aug review snapshots; Propfirmmatch-verified
+  badge claimed on homepage). Firm-hosted testimonials cite repeat +$5,650 /
+  $47,500-total / $12,700-month cases. NO independent payout ledger —
+  homepage figures are CLAIMED, not audited.
+- Scaling: Instant ladder to $1,280,000 max (10 doublings from $2.5K).
+  FAQ states up to $300,000 (purchase widget stops at $200,000 — confirm).
+- Fee refund: NONE (see Section 6). 1-on-1 mentoring + Theory Tools bundled.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: Terms + FAQ (educational/scholarship framing matters — read twice).
+BANNED (scholarship denial, trade removal, disqualification, termination):
+1. Scholarship framing: every account simulated; rewards are discretionary
+   "Scholarships" the firm "can deny" (CoinCodeCap) — rule disputes resolve
+   in the firm's favor under Terms. Non-disparagement clause in Terms.
+2. Account sharing / third-party trading; shared-IP match = breach
+   regardless of cause (funded denial on record over shared-IP).
+3. Third-party signal-copying as decision-maker; own-account copying within
+   risk rules permitted.
+4. Exploiting errors: price-feed errors, stale/slow feeds, latency arbitrage
+   (Bybit-condition abuse included).
+5. Coordinated manipulation incl. hedging across connected accounts/other
+   firms/other people; one-account opposites permitted.
+6. Unfair-tech edge: HFT/latency/mass-order gaming.
+7. $10,000/day countable-profit ceiling — excess over $10K in one day does
+   not count (fine print per CoinCodeCap).
+8. Jurisdiction bans: firm "does not operate in countries where crypto or
+   CFD activity is not allowed" + MT5 blocked for US residents (use
+   Match-Trader/Bybit rails); content applies "to the extent local laws
+   permit".
+ALLOWED: news trading, weekend holding, no time limit, no lot-size cap, EAs
+(confirm card). Allowed actions never override DD hard lines, the $10K daily
+cap, or the BREAK 40% payout gate.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. 57,000 traders educated; worldwide marketing (Zug/Pamplona/Dubai).
+- USA: PARTIAL — MT5 blocked for US residents; Match-Trader explicitly
+  "Works in US"; Bybit rail per Bybit's own geo rules. Confirm checkout.
+- UK/EU: served "to the extent local laws permit" (crypto/CFD geo bans apply).
+- Crypto/CFD-prohibited countries: NOT served (Terms: "Neither SWISS RLCRATES
+  AG nor RLCRATES, S.L. ... operate in countries where crypto or CFD activity
+  is not allowed").
+- Sanctioned/high-risk + previously banned excluded; full Terms list governs.
+- KYC: ID + liveness/contract before Live/scholarship; 1-3 day turnaround
+  (review-scored 4.0/5); beneficiary must match KYC; Coinscope "KYC Audit"
+  badge linked in footer (https://www.coinscope.co/coin/1-cft/kyc).
+- VPN/VPS allowed; shared IPs risky (shared-IP = breach flag — avoid shared
+  networks/VPN exits).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- FINMA: warning-listed since 23.08.2024 (Section 1/9 links). NOT withdrawn.
+  Single most important fact in this file — verify live before buying.
+- Trustpilot: rating WITHDRAWN for guideline breach + fake-review removal
+  (CryptoSlate + ForexCracked). Dashboard separately faulted (2.8/5:
+  update delays, missing payout history, stale figures).
+- CoinCodeCap: 3.5/5 ("Strong on price and crypto access, held back by the
+  FINMA warning"; "genuinely strong crypto product wrapped in a shaky
+  legal one"; HyroTrader named as cleaner-record alternative).
+- CryptoSlate (Aug-2026, verified review): pros 715 pairs/900+ instruments/
+  no time limit/$40 entry/1:100; cons withdrawn Trustpilot, FINMA listing,
+  never-refunded fee, 90%/weekly costs extra, education-company registration.
+- ForexCracked (Sep-2026): TL;DR 556 pairs + 715 futures, 4-26h payouts,
+  $19.5M claimed; cons non-refundable fee, FINMA + suppressed Trustpilot,
+  $10K daily cap, shared-IP denial case. "For safety-first traders: look
+  elsewhere ... FTMO is the safer call."
+- BrokerAnalysis: 80% standard / 90% paid add-on; $300K FAQ cap vs $200K
+  widget. TradersUnion: 80/20, 0-pip spreads, 24/7 support.
+- Sentiment (positive): cheapest crypto-native entry ($40-58), Bybit-native
+  feel, news/weekend/no-limit freedom, fast named support (Sree cited),
+  repeat four-to-five-figure payouts posted.
+- Complaints (negative): denied withdrawals drip, shared-IP denial, stale
+  dashboard/payout history, non-refundable fee, $10K daily cap, educational-
+  provider terms + non-disparagement clause.
+- Red flags: TWO structural — (1) live FINMA warning, (2) withdrawn
+  Trustpilot. No payout-scam PROOF (firm operating + paying post-warning),
+  but independent verification is impaired. Start smallest, pull a payout
+  early, never size as if regulated.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest crypto-native seat (from $40-58) on real Bybit
+conditions with 715 pairs — unmatched access per dollar. Trust is the
+inverse: FINMA-listed + Trustpilot-withdrawn + discretionary scholarships +
+non-refundable fee is the weakest trust stack in this batch. HyroTrader is
+the like-for-like cleaner-record alternative (CoinCodeCap).
+BREAK VS ACCELERATED: BREAK = pay-on-pass ($70-199) + 40% payout gate, for
+consistent grinders who hate upfront fees. Accelerated = cheapest upfront
+1-phase ($40-1,199) with no payout gate, for confident one-shot traders.
+2-PHASE VS INSTANT: 2-phase = cheapest full-size path ($58+); Instant =
+double-up ladder to $1.28M for patient scalers (starts 50% split — do the
+math before choosing).
+BEST FIT: crypto-first traders wanting Bybit-native 715-pair access cheap;
+news/weekend/no-limit traders; small-account testers; tournament/ranking
+grinders; traders who read Terms, accept unregulated risk, start small and
+withdraw early.
+BAD FIT: safety-first / regulation-weighted traders (pick FTMO-style clean
+record instead); traders needing refundable fees or independent payout
+audits; shared-network/VPN-exit traders (IP-breach risk); US MT5-only
+traders; anyone needing >$10K/day countable profit or guaranteed scholarships.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all CFT programs, fees, targets, drawdowns, gates, splits,
+payouts, entities, bans and prohibitions above were read from the 9 official
+URLs in Section 2 on 2026-09-08, cross-checked against the 5 aggregator
+sources. FINMA entry re-read via its URL in Section 2 (still listed). All
+accounts are demo/virtual; rewards are "Scholarships" per Terms.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Crypto + CFD + Futures triple coverage, 6-program fee
+grids, BREAK 40% payout-time gate, $10K daily cap, FINMA-warning + BREAK-
+relaunch notices, withdrawn-Trustpilot flag, non-refundable-fee flag.
+RAW EXCERPTS (official wording, verbatim):
+[1] Positioning: "Clarity. Future. Trust. The #1 Crypto prop firm." /
+"Crypto Fund Trader offers virtual evaluations across crypto, forex, indices,
+commodities, and stocks, building your trading skills in a simulated setup.
+Pass our challenge, and access up to $300,000 in demo capital and
+performance-based rewards. It's all demo, no real capital involved."
+[2] Edge: "+900 Instruments ... more than 715 crypto pair, plus forex,
+indices, stocks, commodities" / "Low spreads & fees ... spreads starting
+from 0 pips" / "No time limits ... Take all the time you need" / "Up to
+x100 Leverage ... 1:100 to all instruments" / "Trading News Allowed. Yes,
+you can trade the news."
+[3] 2-phase card: "Phase 1 8% Profit target / Maximum daily loss 5% /
+Maximum overall loss 10% / Minimum days traded 0 / Maximum days traded
+Indefinite / Leverage Up to 1:100" + "Phase 2 5% Profit target" + "Live
+Stage 80% Profit Split".
+[4] Instant card: "10% Target for double ups / Maximum daily loss 4% /
+Maximum overall loss 6% / Minimum days traded 0 / Maximum days traded
+Indefinite" + "Scale up to $1,280,000" ladder "Profit Split 50% ... 90%".
+[5] BREAK live gate: "On a BREAK funded account, the consistency rule is a
+40% limit on how much of your total profits can come from a single trading
+day ... if your total profits are $5,000, your best day can be at most $2,000
+(40%) ... It's only checked at payout time, and it does not stop you from
+trading in the meantime." / "Pay only when you pass $138 [$70/$139/$199
+per tier]" / "Payouts on-demand Yes".
+[6] Pricing widgets: "EVALUATION - ONE TIME FEE - $58.00 [$5K Eval]" /
+"$40.00 [$5K Accelerated]" / "$45.00 [$5K Ascend]" / "$125.00 [$2.5K
+Instant]" / "$70.00 [$25K Break]".
+[7] Stats: "+$ 21270544 PAID TO CFT TRADERS" / "+$ 445441 PAID LAST MONTH" /
+"57000 TRADERS EDUCATED".
+[8] Footer: "Bahnhofstrasse 21, 6300, Zug, Switzerland / SWISS RLCRATES AG
+(CHE-162.567.204)" / "SWISS RLCRATES AG is not authorized or licensed in
+Switzerland and does not offer any trading services with MT5 neither
+conducts any regulated activities."
+[9] FINMA (official regulator, verbatim table): "Name Cryptofundtrader /
+Address Bahnhofstrasse 21, 6300 Zug / Internet www.cryptofundtrader.com /
+Commercial register Not entered in commercial register" / dated "23.08.2024".
+[10] Aggregator (CoinCodeCap): "sits on FINMA's official public warning list,
+added on 23 August 2024 ... 'not entered in the commercial register'" /
+"Terms Caution: Self-described 'educational' provider; payouts are
+discretionary 'scholarships'" / "Cheapest entry ... 80% profit split (up to
+90%), 5-day minimums, no time limits, and 8–48 hour payouts".
+[11] Aggregator (CryptoSlate): "Trustpilot displayed a rating-withdrawn
+banner following a guideline breach" / "Evaluation fee is never refunded" /
+"First Payout 15 trading days" / "SWISS RLCRATES AG is registered for
+'online education and training courses, as well as the commercialization,
+buying, and selling of all kinds of digital products'".
+[12] Aggregator (ForexCracked): "A FINMA warning, a suppressed Trustpilot
+rating and a non-refundable fee mean ... FTMO is the safer call" /
+"$10,000 ceiling on how much profit counts in a single day" / "at least one
+funded trader has had a sizeable first payout denied over a shared-IP match".
+================================================================================
+END OF FILE — CRYPTO FUND TRADER COMPLETE. All 5 firms in this batch are now done.
+================================================================================

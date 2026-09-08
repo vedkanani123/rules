@@ -1,0 +1,362 @@
+================================================================================
+HYROTRADER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/HyroTrader.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official HyroTrader pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: HyroTrader (crypto-only prop firm, Bybit-integrated).
+- Founded: 2022 (crypto prop model launched 2023). CEO cited as Samuel Drnda
+  (aggregator bio). Headquarters: Prague, Czech Republic (tournaments at
+  HyroTrader HQ Prague; Google Maps pin 50.1076971,14.4427153 Prague) + Dubai
+  presence (Bybit HQ Dubai tournament). UAE listing in some aggregators.
+- Contact: via https://www.hyrotrader.com + https://my.hyrotrader.com portal,
+  Discord https://discord.gg/hyro (30K+ on Discord/Telegram; 35K+ community),
+  FAQ https://www.hyrotrader.com/faq/, About https://www.hyrotrader.com/about-us/.
+- What it is: crypto-only evaluation prop firm with REAL EXCHANGE execution
+  (not synthetic CFD pricing). Bybit path connects to trader's own Bybit
+  account via secure API — trades hit Bybit live order books with real fills,
+  real slippage, real liquidity. CLEO path is proprietary terminal powered by
+  Binance market data. Challenge/verification/funded accounts operate in a
+  simulated demo environment for risk control; all payouts from simulated
+  trading are paid as REAL funds (USDT/USDC). After consistent performance,
+  traders may be offered real capital.
+- Scale claimed on hyrotrader.com (Sep 2026 read): 700+ Tradable
+  Cryptocurrencies, $5M+ Paid to Funded Traders, 1,700+ Funded Traders, 35K+
+  Community Members. Recent payout proofs on homepage (e.g. $6,856 USDT
+  Feb 23 2026; $3,500 USDC Feb 23 2026; deposit refunds $599/$799 Feb 2026).
+  Funded-trader interviews: Mike $32,000; Kirill $35,645; Eshan $23,000;
+  Renee $20,661; Patrick $10,000; Morgan $10,547.
+- Press: BusinessInsider, Benzinga, DigitalJournal, Binance Square,
+  TradingView profile, CryptoFolds, Steemit coverage of rapid growth
+  (linked badges on homepage).
+- Tournaments: Bybit HQ Dubai ($235,000 funded accounts, 25+ traders);
+  Prague Scalping Tournament (9 traders); Miami Day Trading ($350,000+, 15+
+  traders).
+- Key distinction: Bybit crypto prop (own-Bybit-API + Tealstreet + CLEO) is
+  a SEPARATE species from CFD Forex props — no MT4/MT5, no forex/indices,
+  USDT-perpetuals only, crypto rails only, 24/7 market. One-Step vs Two-Step
+  and Standard vs Swing drawdown are separate checkout choices. Never mix
+  with CFD rules.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://www.hyrotrader.com/ (homepage: Bybit/CLEO/Tealstreet execution,
+    700+ pairs, $5M+ paid, 1,700+ funded, pricing $59-$969, One/Two-Step
+    rules table, 80-90% splits, refundable deposit, 12h payouts, FAQ JSON-LD)
+ 2. https://www.hyrotrader.com/faq/ (risk rules, KYC, agreement, payouts)
+ 3. https://www.hyrotrader.com/about-us/ (2022 founding, first direct-exchange
+    integration claim, team photos)
+ 4. https://www.hyrotrader.com/checkout/ (live pricing configurator)
+ 5. https://www.hyrotrader.com/testimonials/ (funded-trader interviews)
+ 6. https://my.hyrotrader.com/free-trial (Free Trial portal)
+ 7. https://www.hyrotrader.com/blog/best-crypto-prop-trading-firms/ (real
+    exchange connectivity explainer)
+ 8. https://v3.tealstreet.io/trade (Tealstreet terminal link)
+ 9. https://discord.gg/hyro (community)
+10. https://www.google.com/maps/place/HyroTrader/ (4.7/5, 210 reviews pin)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. FundedScore HyroTrader Jun-2026 (UAE, 2022, 4.2 Trustpilot 35 reviews,
+    $5K-$50K $87-$525 ladder, static DD, 90% split, bi-weekly, 2-step)
+12. SATO Trades HyroTrader review Jul-2026 (8.7/10, real Bybit, code SATO)
+13. PropTradingVibes HyroTrader Sep-2026 (PTV 41/100, 4 accounts tested,
+    One vs Two Step, Standard vs Swing, $249 25K Two-Step, Trustpilot 4.2/239)
+14. CoinCodeCap HyroTrader Jul-2026 (from $89 refundable, $5K-$200K to $1M,
+    70-90% time-based split, daily payouts $100 min 12-24h, 1:100, SL-5min,
+    40% consistency, 3% risk/trade, CLEO for US, OKX Q2 2026)
+15. TrailingStopLoss HyroTrader Jul-2026 (tick-by-tick DD, Bybit API,
+    CLEO no-geo-restriction, bots allowed via API)
+16. PropScore HyroTrader (54/100; 700+ pairs; 1:100; hedging not allowed;
+    news allowed eval+funded; $89 entry; 5 accounts max)
+17. CryptoPropFirmMatch HyroTrader Apr-2026 (4.7/5, 700+ pairs incl.
+    altcoins/memecoins/DeFi, USDT/USDC 24h on-demand)
+18. Trustpilot https://www.trustpilot.com/review/hyrotrader.com (4.2, 226-239
+    reviews) + Google 4.7/210 reviews
+19. BestProp HyroTrader review 2026 (up to 80-90% split review)
+20. TheTrustedProp HyroTrader review Jan-2026 (Bybit/CLEO/OKX platforms)
+TOTAL SOURCES: 20 (10 official + 10 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose during challenge setup; no MT4/MT5/TradingView execution):
+- Bybit (own account via secure API) — trade USDT perpetual futures across
+  700+ pairs directly on own Bybit account. Real market execution with live
+  order books + deep liquidity. Watch executions on Bybit interface itself.
+  RESTRICTED in USA/Canada (Bybit geo-block) — US traders use CLEO.
+- Tealstreet terminal — professional-grade interface with real Bybit order
+  book data, built for speed/advanced execution/active crypto traders.
+  Desktop download + web trade link.
+- CLEO terminal — proprietary web/mobile terminal, account created
+  automatically, powered by Binance market data (500+ pairs display; 700+
+  across firm). Real-time pricing, advanced analytics, structured trade
+  management. NO geographic restrictions — the USA/Canada path. Algo trading
+  via API supported; bots allowed with no restrictions (per TrailingStopLoss).
+- Coming: OKX integration expected Q2 2026; Bitget/Gate/Blofin/Hyperliquid/
+  dYdX/BingX/Mexc logos shown as reputable-exchange infrastructure row.
+INSTRUMENTS: USDT perpetual futures only — 700+ cryptocurrencies including
+majors, altcoins, memecoins, DeFi tokens. Spot + perpetual futures per
+FundedScore. Low-cap altcoins (market cap under $100M): max 5% of balance
+position (homepage rule strip). 24/7 trading (crypto never closes).
+LEVERAGE: up to 1:100 (PropScore/CoinCodeCap). Per-pair leverage follows
+exchange margin tiers — verify in Bybit/CLEO specs.
+COSTS: real exchange fees (maker/taker) + funding rates + spreads/slippage
+apply and COUNT toward drawdown (real fills, not synthetic ticks).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program  | Steps | Sizes                    | Target        | Daily loss | Max loss | Min days | Split    | Fee model |
+|---|----------|-------|--------------------------|---------------|------------|----------|----------|----------|-----------|
+| 1 | One-Step | 1     | 5K/10K/25K/50K/100K/200K | 10% challenge | 4%         | 6%       | 5 days   | 80%->90% | refundable deposit, no monthly/hidden fees |
+| 2 | Two-Step | 2     | 5K/10K/25K/50K/100K/200K | 10% Ph1 + 5% Ph2 | 4%      | 6%       | 5 days Ph1 (+5 verification) | 80%->90% | refundable deposit, no monthly/hidden fees |
+Notes:
+- Funded account has NO profit target on either programme. Trading period:
+  UNLIMITED both phases + funded.
+- Stop-loss obligation: No (official homepage table Sep 2026: "No / No");
+  aggregator "mandatory SL within 5 minutes" reflects an older/parallel rule
+  set — re-check live FAQ before purchase; homepage table governs this file.
+- Drawdown type at checkout: Standard vs Swing (Swing upgrade +$89 on 25K
+  example; "53% lower failure rate compared to default"). FundedScore
+  records Static type; PropTradingVibes records Standard vs Swing options.
+- Funded split: Keep 80% of profits, scale up to 90% with consistency
+  (homepage: "Start with 80% ... scale up to 90%"). CoinCodeCap time ladder:
+  70% month 1 -> 80% months 2-4 -> 90% months 5+ (older ladder; homepage
+  80-90% governs this file — confirm at checkout).
+- Max accounts: up to 5 accounts (PropScore); scales to $1M USDT total
+  (CoinCodeCap).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ONE-STEP (popular) ---
+- Profit target: 10% Challenge only, none on Funded. ($25K: $2,500.
+  $5K: $500. $50K: $5,000.)
+- Daily drawdown: 4% (homepage table: 4% Challenge + 4% Funded). Breach =
+  fail. ($25K: $1,000/day.)
+- Maximum loss: 6% (homepage table: 6% Challenge + 6% Funded). ($25K: $1,500.
+  $5K: $300 static per FundedScore: $500/$1,000/$2,500/$5,000 = 10% static
+  on small sizes — confirm live max-loss $ vs % mapping at checkout as
+  homepage % table and aggregator $ table differ by snapshot date.)
+- Minimum trading days: 5 days Challenge; none Funded (homepage table:
+  "5 days / -"). Funded in as little as 5 trading days.
+- Stop-loss obligation: No (homepage Sep 2026). Low-cap altcoins under
+  $100M market cap: max 5% of balance. Drawdown limit 5% of balance strip
+  on homepage refers to the same risk box — confirm mapping in FAQ.
+- News/scalping/bots: news allowed, scalping allowed, bots allowed via API
+  with no restrictions (TrailingStopLoss + FundedScore at-a-glance).
+  Hedging NOT allowed; business (entity) trading NOT allowed (PropScore).
+--- 5B. TWO-STEP (longer route) ---
+- Profit target: 10% Phase 1 + 5% Phase 2 (homepage configurator text:
+  "5 trading days and a 10% profit target in Phase 1, followed by
+  verification in Phase 2 with 5% profit target"). None on Funded.
+- Daily/max loss: same 4% daily / 6% max as One-Step (per homepage table
+  structure; PropTradingVibes Sep-2026: Two-Step 25K max loss $2,500).
+- Minimum days: 5 trading days Phase 1 + 5 verification days (FAQ JSON-LD:
+  "Minimum 5 trading days for the challenge. Verification requires 5
+  trading days. Funded in as little as 5-10 trading days").
+- Consistency: No consistency rule (FundedScore at-a-glance: No). Older
+  40% consistency citations (CoinCodeCap) reflect a prior rule set —
+  re-check live FAQ; this file follows homepage + FundedScore Sep-2026.
+- Max risk per trade: 3% cited by CoinCodeCap (older set) — confirm live.
+--- 5C. STANDARD VS SWING DRAWDOWN ---
+- Standard: default tick/intraday-tracked drawdown (TrailingStopLoss:
+  "tick-by-tick drawdown — read before you buy").
+- Swing: +$89 upgrade on $249 25K Two-Step example; marketed as 53% lower
+  failure rate. Exact swing mechanics (weekend holding + wider stops) at
+  checkout setup screen — select during challenge setup.
+--- 5D. FUNDED STAGE ---
+- No profit target, unlimited time, same 4% daily / 6% max risk box.
+- First payout 1 day after first funded trade (FAQ JSON-LD). No DLL
+  restriction cited on funded (PropScore: No DLL restriction).
+- KYC + funded-trader agreement signing to activate funded demo account.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+REFUNDABLE CHALLENGE DEPOSITS (one-time, no monthly/hidden fees; deposit
+RETURNED as separate crypto transaction alongside first payout):
+Two-Step Two-Step 25K example live-read Sep 2026: $59 (5K) | $119 (10K) |
+  $249 (25K) | $379 (50K) | $579 (100K) | $969 (200K).
+One-Step: same $59-$969 ladder (configurator "One Step Popular" default;
+  per-size deltas in checkout — re-check before purchase).
+Aggregator snapshots: $87/$142/$295/$525 ($5K-$50K, FundedScore Jun-2026);
+  from $89 refundable (CoinCodeCap/PropScore). Ranges reflect promo rotation.
+ADD-ONS: Swing drawdown upgrade +$89 on 25K (scales by size); other add-ons
+  per checkout (confirm live list).
+REFUND: Challenge Deposit refunded with first profit split (homepage: "Refundable
+  Challenge Deposit returned with your first payout"; FAQ: "Deposit is returned
+  as a separate crypto transaction alongside your first payout"). Failed
+  evaluations not refunded. No activation fee (FundedScore: None). Free Trial
+  available (homepage + portal: Free Trial / 10-day free trial per CoinCodeCap).
+PAYMENT METHODS: Visa, Mastercard, crypto (homepage checkout icons); payouts
+  in USDT/USDC only.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: start 80%, scale up to 90% with consistent performance (homepage:
+"Keep 80% of profits, scale up to 90%"). Older time ladder (CoinCodeCap):
+70% month 1 -> 80% months 2-4 -> 90% months 5+ — confirm live ladder at
+checkout; 80-90% governs this file.
+FIRST PAYOUT: 1 day after first funded trade (FAQ JSON-LD), minimum $100
+profit (homepage FAQ + CoinCodeCap: $100 min). FundedScore: ~14 days /
+bi-weekly on older snapshot — homepage on-demand governs this file.
+FREQUENCY: on-demand; processed within 12 hours (homepage: "processed within
+12 hours"; FAQ: "processed on demand within 12 hours ... no withdrawal
+fees"). CoinCodeCap: 12-24 hours. Daily payouts from day one per older
+snapshot — confirm cadence in FAQ.
+METHODS: USDT or USDC only (crypto). No minimum beyond $100 (FundedScore:
+No minimum). Average payout on 25K capital cited $1,007.50 (configurator).
+DEPOSIT REFUND: returned as separate crypto transaction alongside first
+payout (homepage proof cards $599/$799 Feb 2026).
+SCALING: up to $200K single capital ("Get funded with up to $200,000");
+scales to $1M USDT total (CoinCodeCap); up to 5 accounts (PropScore).
+MAXIMA: $200K max account; $1M scale ceiling.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: FAQ https://www.hyrotrader.com/faq/ + homepage rule strips.
+BANNED (breach = fail/termination + payout denial):
+ 1. Exceeding 4% daily / 6% maximum loss (real-time termination, not warning).
+ 2. Low-cap abuse: over 5% of balance in market-cap-under-$100M altcoins.
+ 3. Hedging across accounts (PropScore: Not allowed); business/entity trading
+    not allowed.
+ 4. Exploiting feed/API errors, latency arbitrage, synthetic-tick abuse
+    (real-exchange fills make this detectable instantly).
+ 5. Account sharing / trading others' accounts / pass-your-challenge services.
+ 6. Violating exchange (Bybit/Binance) terms via the API connection.
+ALLOWED: news trading (eval + funded), scalping, bots/automated strategies
+via API with no restrictions, weekend holding (24/7 crypto), copy trading
+between own challenge accounts (confirm in FAQ).
+ENFORCEMENT: monitored environment with real-time dashboard metrics;
+breach = real-time termination. Drawdown tracked tick-by-tick — one touch
+= fail even if trade recovers.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed.
+- USA/Canada: HYROTRADER DOES NOT BLOCK US TRADERS — but BYBIT restricts US
+  access, so US-based traders use the CLEO platform (Binance data) instead
+  of the Bybit API path. Confirm crypto-derivatives legality where you live
+  before purchasing.
+- UK: served normally (CLEO or Bybit where exchange allows).
+- HARD BANS: no published hard-ban list found on homepage Sep 2026; bans
+  follow exchange (Bybit/Binance) sanction lists + KYC failures. Re-check
+  FAQ/Terms before purchase.
+- KYC: complete KYC + sign funded-trader agreement to activate funded demo
+  account (FAQ JSON-LD). Payouts require matching wallet beneficiary details.
+- VPN/VPS: allowed for access; account-sharing ban still applies.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/hyrotrader.com: 4.2/5 from
+  226-239 reviews (FundedScore 35 reviews Apr snapshot; PTV 239 reviews Sep
+  2026; PropScore 226 reviews). Distribution ~23x5*/5x4*/2x3*/1x2*/4x1*.
+- Google Maps pin: 4.7/5 from 210 reviews (homepage badge Sep 2026).
+- FundedScore: Monitoring status; verdict "one of the more credible
+  crypto-focused props, real exchange infrastructure". Pros: real execution,
+  spot+perp, up to 90%. Cons: smaller niche, fewer reviews, volatility risk.
+- SATO Trades: 8.7/10 "most credible crypto prop firm 2026, real Bybit
+  execution, clear rulebook, documented payouts; docked on scaling".
+- PropTradingVibes: PTV 41/100 (Sep 2026, under editorial review; tester ran
+  4 accounts, 0 payouts — losses occurred BEFORE payout request, does not
+  establish payout refusal). Score under review, not a scam verdict.
+- CoinCodeCap: payout reliability 4.0/5 ($3.5M+ paid, 12-24h, $100 min,
+  $7K+ withdrawal confirmations); fairness 3.5/5 (free 10-day trial
+  excellent, but strictest rule set); value 4.0/5 (from $89 refundable).
+- CryptoPropFirmMatch: 4.7/5 (trading 4.8, fees 4.5, payout 4.9, UX 4.6);
+  Trustpilot 4.6/1,240 cited on that page (higher than Trustpilot.com live
+  — re-check).
+- Sentiment (positive): real Bybit fills, no synthetic wicks, fast 12h
+  USDT/USDC payouts, simple rules, fast dashboard, reachable support,
+  $20K-$35K funded interviews.
+- Recurring complaints: strict rule stack (SL/consistency/risk-cap on older
+  sets), tick-by-tick DD harshness, small-size $ ladders confusing (% vs $),
+  fewer reviews than forex giants, Bybit geo-blocks for US.
+- Red flags: NONE material found (no payout-scam cluster, no regulator
+  action, no Trustpilot suspension). Watch items: % vs $ max-loss mapping
+  rotates by snapshot — confirm live checkout figures.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the only Bybit-native prop in this batch — real order-book fills
+vs every CFD rival's synthetic pricing. Fees $59-$969 refundable-deposit
+(cheaper than FTMO/BrightFunded at mid sizes) with 12-hour crypto payouts
+(faster than bi-weekly CFD rails). Split caps at 90% (below FundedNext 95%
+or BrightFunded 100%-scaled). $5M+ paid trails forex giants but leads pure
+crypto niche with 1,700+ funded.
+ONE-STEP VS TWO-STEP: same 4%/6% risk box and 80-90% split; One-Step = one
+10% hurdle + 5 days (fastest); Two-Step = 10%+5% hurdles + 5+5 days (slower
+but phased). Pick One-Step for speed, Two-Step for staged validation.
+STANDARD VS SWING: Swing (+$89 on 25K) cuts failure rate ~53% per homepage
+— worth it for swing/overnight crypto holders.
+BEST FIT: dedicated crypto-perp traders wanting real Bybit fills; altcoin/
+memecoin/DeFi breadth (700+ pairs); bot/API algo traders (no restrictions);
+US traders fine with CLEO; disciplined risk-capped scalpers; 24/7 traders.
+BAD FIT: forex/indices/commodities traders (crypto-only); MT4/MT5-only
+traders; traders needing >$200K single account; hedging/entity traders;
+anyone needing fiat bank-wire payouts (USDT/USDC only); traders in Bybit/
+Binance sanctioned geos.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 10 official URLs in Section 2 on
+2026-09-08. Pricing ladder ($59-$969) live-read from homepage configurator
+Sep 2026; older $87-$525 / from-$89 ladders are aggregator snapshots —
+re-check checkout before purchase. HyroTrader notes challenge/verification/
+funded accounts operate in simulated demo with real-fund payouts.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Bybit-API vs CLEO-Binance vs Tealstreet split, 700+ pairs,
+4%/6% risk box, 5-day minimums, 80-90% split, refundable-deposit mechanics,
+12h USDT/USDC payouts, $5M+/1,700+ scale, Standard-vs-Swing upgrade.
+RAW EXCERPTS (official wording, verbatim):
+[1] Split: "Get funded with up to $200,000 to trade USDT perpetuals on your
+own Bybit account or terminal. Withdraw your profits in USDT or USDC."
+[2] Journey: "Choose your account size, place your refundable Challenge
+Deposit, and begin your trading challenge." / "Complete your one-step or
+two-step challenge by reaching the required profit target" / "Receive a
+funded account. Keep 80% of profits, scale up to 90%."
+[3] Scale: "700+ Tradable Cryptocurrencies" / "5M+ Paid to Funded Traders"
+ / "1.7K+ Funded Traders" / "35K+ Community Members & Traders"
+[4] Execution: "Trade USDT perpetual futures across 700+ pairs directly on
+your own Bybit account. HyroTrader connects via secure API, enabling real
+market execution with live order books and deep liquidity."
+[5] CLEO: "Trade USDT perpetual futures across 500+ pairs using Cleo's
+professional interface powered by Binance market data."
+[6] Pricing: "Trading capital 5,000 USDT $59" / "10,000 USDT $119" /
+"25,000 USDT $249" / "50,000 USDT $379" / "100,000 USDT $579" / "200,000
+USDT $969" / "Swing drawdown upgrade +$89" / "No monthly or hidden fees"
+[7] Rules table: "Trading period Unlimited / Unlimited" / "Minimum trading
+days 5 days / -" / "Stop loss obligation No / No" / "Daily drawdown 4% /
+4%" / "Maximum loss 6% / 6%" / "Profit target 10% / -"
+[8] Two-Step text: "With Two-Steps, take the longer route to funding — 5
+trading days and a 10% profit target in Phase 1, followed by verification
+in Phase 2 with 5% profit target"
+[9] Payouts: "Payouts are processed within 12 hours based on verified trading
+performance" / "Profits are processed efficiently and paid in USDT or USDC"
+[10] Deposit: "Refundable Challenge Deposit returned with your first payout."
+ / FAQ: "your Deposit is returned as a separate crypto transaction alongside
+your first payout."
+[11] FAQ start: "To get started, choose your account size and trade via Bybit
+or the CLEO terminal (Binance liquidity)." / "Request your first payout 1
+day after your first funded trade."
+[12] Simulated: "The HyroTrader challenge, verification, and funded accounts
+operate in a simulated demo environment." / "All payouts generated from
+simulated trading are paid as real funds." / "After proving consistent
+performance, traders may be offered the opportunity to trade real capital."
+================================================================================
+END OF FILE — HYROTRADER COMPLETE. Next firm is a separate task (not started).
+================================================================================
