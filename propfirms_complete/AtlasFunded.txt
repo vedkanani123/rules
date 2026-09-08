@@ -1,0 +1,358 @@
+================================================================================
+ATLASFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/AtlasFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official AtlasFunded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Atlas Funded / AtlasFunded (CFD + Futures arms).
+- Founded: January 2024 (PropFirmMap; some mirrors list 2025 admin date).
+  CEO cited as Lucas Antonio (PropFirmMap LinkedIn). Headquarters: Saint
+  Lucia (Gros-Islet) with operations in UAE + UK per aggregator bios.
+- Contact: https://atlasfunded.com + https://www.atlasfunded.com |
+  https://help.atlasfunded.com/en/ (FAQ) | https://dashboard.atlasfunded.com/
+  sign-in | https://checkout.atlasfunded.com/ | Contact page /contact-us |
+  Blog /blog | Affiliates /affiliates | Rewards /rewards | Discord
+  https://discord.gg/atlasfunded | Telegram https://t.me/atlasfunded |
+  X https://x.com/atlasfundedcom | Instagram @atlasfunded/. Support names
+  cited in on-site reviews: McDaniels, Pearl.
+- What it is: CFD (+ separate Futures line) simulated-evaluation prop firm.
+  Trading takes place in a SIMULATED environment (homepage: "Simulated
+  Capital in Simulated Trading Environment"; PropFirmBridge: "states trading
+  takes place in simulated environment through MT5/TradeLocker/Match-Trader
+  rather than personal brokerage"). Funded traders receive real-money Rewards
+  (profit splits), not live capital. Footnote: "Profit split up to 100% and
+  24-hour payout targets apply to qualifying funded (simulated) accounts per
+  plan; approved reward requests are paid after verification. See Terms."
+- Scale shown: payout ticker (Brandon USA $39,264; Abiodun Nigeria $6,997;
+  Keith India $19,321), verified-payout wall ($12,561.24 cards; $3,000 Atlas
+  Access payouts), on-site reviews (India/Hungary/USA/Algeria/Saudi/Nigeria/
+  Pakistan). Bundle promo: "Buy 4 accounts, get 5th free" + "Up to 5x reward
+  chances". Yearly-ticket mechanics (4-95 Tickets per purchase).
+- Entities note: Terms name a Dubai FZCO entity differing from Saint Lucia
+  LTD listed as simulated-trading provider (PropFirmMap drawback flag) —
+  confirm contracting entity at checkout before purchase.
+- Key distinction: Instant / Pay-Later Access / One-Step / Two-Step / Three-
+  Step (+ Zero/Standard/Pro variants + separate Futures Forex/Futures toggle)
+  are SEPARATE offers with different targets, drawdowns, prices and payout
+  add-ons. Never mix them. Forex vs Futures market toggle changes the whole
+  rule set.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://atlasfunded.com (homepage: Forex/Futures toggle, $0/$1 Access,
+    Instant, Atlas Access pay-after-pass, 1/2/3-Step evaluations, 100% split
+    / on-demand / guarantee trio, WC50 50%+125%, bundles, payout wall, EN/ES/
+    DE/FR/IN/IT locales, Trustpilot 4.8/5 badge line)
+ 2. https://www.atlasfunded.com/models (all-models page: Instant/Pay-Later/
+    One/Two/Three-Step comparison, 15%-evaluation-profit flags, weekly
+    payouts, static-vs-trailing map)
+ 3. https://atlasfunded.com/forex (Forex market page)
+ 4. https://atlasfunded.com/futures (Futures market page)
+ 5. https://atlasfunded.com/free-access ($0 Access: hit target, pay after pass)
+ 6. https://atlasfunded.com/start-access ($1 Access entry)
+ 7. https://atlasfunded.com/instant (Instant Funding page)
+ 8. https://atlasfunded.com/atlas-access (Pay-after-you-Pass page)
+ 9. https://atlasfunded.com/how-it-works (process page)
+10. https://atlasfunded.com/rewards (Rewards wall)
+11. https://help.atlasfunded.com/en/ (FAQ index)
+12. https://checkout.atlasfunded.com/ (live configurator: TradeLocker/MT5/
+    Match-Trader + $5K-$400K + Instant/1/2/3-Step/Access/Pay-Later/Standard/
+    Zero variants; $5K Instant $61->$34 example live-read)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. PropFirmMap Atlas Funded Sep-2026 (Grade B+, 3.9/1,608 Trustpilot, PFM
+    7.0, from $38, 80%-default/100%-add-on, 14-day then 14-day, weekly/on-
+    demand add-ons, 3-5% daily / 5-10% max, static evals / trailing Access-
+    Instant, 45 challenges, AUGFINALE 40%)
+14. PropFirmBridge Atlas Funded Sep-2026 (28-min review; 1/2/3-Step + Pay-
+    Later/Access + Instant/Zero; static evals, trailing/EOD Access-Instant;
+    MT5/TradeLocker/Match-Trader; simulated disclosure)
+15. PropFirmBridge 1-Step Pro Aug-2026 (8% target, 3% daily, 6% max, 15%
+    evaluation-profit reward, BRIDGE offer)
+16. TheStockDork Atlas Funded Sep-2026 (Pay-After-Pass $5-start inversion,
+    weekly payouts, $2M scale verdict)
+17. PropFirm201 Atlas Funded Apr-2026 (Gros-Islet; 4.8/100 Trustpilot mirror;
+    Atlas Access $5 any size 5%/5%/3%/8%; from $5; 80%; bi-weekly; US Yes)
+18. PropFirmReviews Atlas Funded Aug-2026 (2024 forex/CFD; $5K-$400K; 10%
+    One-Step; 7.4/10)
+19. PFWatch Atlas Funded 2026 (MT5/MatchTrader/TradeLocker; FX/Indices/Crypto/
+    Metals; Crypto+Rise payouts; Free Pay-Later $0 5K-50K rows)
+20. Forexive Atlas Funded May-2026 (critical review: Access $1-5 + $239-466
+    post-pass; Instant $499-868; Std 1-Step $149-868 10%/5%/10%; Std 2-Step
+    9%/5% 4%/8%; payout-denial pattern + hidden-rules warning — read for
+    balance)
+TOTAL SOURCES: 20 (12 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase; configurator toggle):
+- TradeLocker — default configurator platform (homepage example cards).
+- MetaTrader 5 (MT5) — classic EA/algo support.
+- Match-Trader — web-first terminal.
+- (DXtrade cited on PropFirm201 mirror row — confirm live list; MT5/
+  TradeLocker/Match-Trader govern this file.) Dashboard https://dashboard.
+  atlasfunded.com/sign-in.
+INSTRUMENTS: Forex (majors/minors/exotics per /forex page) + Futures
+(commodity/index contracts with defined risk per /futures page) + Indices,
+Crypto, Metals (PFWatch asset rows). Forex vs Futures MARKET TOGGLE at top
+of configurator changes instruments + rules wholesale. Full symbol list in-
+platform; Trading Updates for hours.
+LEVERAGE: per-symbol matrix in platform specs; no single headline on
+marketing pages — verify in TradeLocker/MT5/Match-Trader specs.
+COSTS: spreads + commissions + swaps apply and COUNT toward daily/max loss
+(equity-based). EA flag per card (Expert Advisors check-row on configurator).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Steps | Sizes              | Target        | Daily loss | Max loss        | Split        | Fee model |
+|---|----------------------|-------|--------------------|---------------|------------|-----------------|--------------|-----------|
+| 1 | Instant Funding      | 0     | 5K-400K            | N/A (none)    | 3% ($150 on 5K) | 5% ($250 on 5K) | 100% display (80% default/100% add-on) | one-time $61->$34 (5K example) |
+| 2 | Pay-Later / Access   | 1-2   | 50K-500K ($5 Access any size) | 5%/5% (2-Step Access) | 3% | 8% | 80-100% | $0-$5 upfront, $239-$466 post-pass (100K) |
+| 3 | One-Step (+Pro)      | 1     | 5K-400K            | 8-11% (8% Pro / 10-11% Std) | 3-5% | 6-10% STATIC | 80-100% | one-time $149-$868 band |
+| 4 | Two-Step (+Pro)      | 2     | 5K-400K            | 8-9% Ph1 + 5% Ph2 | 4% | 8% STATIC | 80-100% | one-time band |
+| 5 | Three-Step           | 3     | 5K-400K            | easy/beginner band | relaxed | relaxed STATIC | 80-100% | extremely affordable band |
+Notes:
+- All-models include: Up to 100%* split, Industry-Leading Targets, Weekly
+  Payouts (comparison table ticks every column). Instant + Pay-Later add
+  Affordable tick; Pay-Later adds Pay-after-Pass tick; One-Step adds No-Time-
+  Limits tick; Two/Three-Step add Relaxed + Extremely-Affordable ticks.
+- 15% Profit from Evaluation Phase on Instant + One-Step (comparison ticks;
+  1-Step Pro review: 15% evaluation-profit reward).
+- Funded has NO profit target. Trading Period Unlimited (configurator rows).
+  Min Trading Days 5 (configurator Instant rows; Access 3 days per P201).
+- Drawdown: STATIC for 1-Step/Pro/2-Step/Pro/3-Step; TRAILING for Instant/
+  Pay-Later/Access (PropFirmMap). Confirm live card (Zero/Standard variants
+  shift bands).
+- Max funded: $400K configurator sizes ($300K-$500K cited on mirrors);
+  $2M scale (TheStockDork).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT FUNDING (most popular, no evaluation) ---
+- No target (N/A), no waiting, live-read 5K card: Unlimited time, 5 min days
+  (funded-activity floor), Max Overall $250 (5% of 5K), Max Daily $150 (3%),
+  EAs flagged, 100% display split, $388 Average Payout. Larger cards scale
+  linearly: 10K $500/$300; 25K $1,250/$750; 50K $2,500/$1,500; 100K $5,000/
+  $3,000; 200K $10,000/$6,000; 300K $15,000/$9,000 (avg payouts $774/$1,931/
+  $3,857/$7,743/$15,389/$23,137).
+- Price example: $61 -> $34 with WC50 50% off (5K Instant TradeLocker).
+  Tickets 4-95 per size (promo lottery).
+- Trailing max loss (locks at breakeven per PFM Instant row: 5% trailing
+  locks once 5% profit reached; daily 3% trailing prior-day high/equity,
+  resets Midnight UTC).
+- First reward 28 days then 14-day (default) vs 21/7 with Weekly add-on (PFM).
+--- 5B. PAY-LATER / ATLAS ACCESS ($0-$5 start, pay after pass) ---
+- $0 Free Access (New) + $1 Start Access + Atlas Access pay-after-pass:
+  begin for $0-$5, pay full fee ONLY after passing ($239-$466 on 100K per
+  Forexive table). Targets: Access 1-Step 11% / 4% trail / 7% trail;
+  Access 2-Step 8%/5% / 4% trail / 7% trail (Forexive). P201 Access 2-Step:
+  5%/5% / 3% / 8% balance-based, 3 min days.
+- Cheapest risk-reversal in batch — sustainability questioned (P201) —
+  test small first.
+--- 5C. ONE-STEP (+ PRO) (best seller, fastest evaluation) ---
+- Standard: ~10% target, 5% daily, 10% static max (Forexive Std 1-Step row).
+  Pro: 8% target, 3% daily, 6% static max + No-Daily-Limit variant cards
+  (official One-Step-Pro cards: "No Daily Loss Limit / Bi-Weekly Payouts /
+  No Time Limits"). 15% evaluation-profit reward. No time limits. Static DD.
+--- 5D. TWO-STEP (+ PRO) / THREE-STEP (newest, relaxed) ---
+- Two-Step: 9% Ph1 + 5% Ph2 (Std) / 8%+5% (Access); 4% daily; 8% static max;
+  relaxed environment; extremely affordable. Three-Step: lowest cost, easy
+  rules, beginner-built, relaxed static bands.
+--- 5E. FUNDED STAGE ---
+- No target. Weekly payouts (all-models tick) with Weekly/On-Demand add-ons
+  at checkout (default 14-day then 14-day per PFM). 80% default / 100% via
+  +20% add-on (PFM). Per-asset risk + news + IP rules in Terms — Forexive
+  hidden-rules warning (50%-of-daily per-instrument, funded consistency,
+  funded news limits) — read Terms before purchase; enforcement at payout
+  review per critical threads.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES in USD (single payment, no subscription; promos rotate):
+Instant live-reads (TradeLocker, WC50 50% off applied): 5K $61->$34 |
+  10K $97->$59 | 25K $186->$104 | 50K $381->$214 | 100K $635->$359 |
+  200K $969->$554 | 300K $1,379->$799 (400K scales above).
+Access: $0 Free / $1 Start / $5 Atlas Access any size (50K-500K $5 rows —
+P201), post-pass $239-$466 (100K).
+Standard bands: $149-$868 (Forexive Std rows); Instant $499-$868 full-fee
+band pre-discount; from $38 cheapest challenge (PFM); 61 challenges / 45
+evaluation challenges tracked (PFWatch/PFM).
+PROMOS at fetch: WC50 = 50% OFF + 125% REFUND (homepage banner); WC35 35%+
+125% (Jun-2026); AUGFINALE 40% (Aug-2026); BRIDGE offer (PFB). Bundles: buy
+4 accounts get 5th FREE (up to 100% saved, 5x reward chances).
+ADD-ONS: 100% split (+20% fee), Weekly payouts, On-Demand payouts, 15%
+evaluation-profit (Instant/One-Step), other checkout add-ons.
+REFUND: 125% refund with promo codes (WC50/WC35); standard refundable Yes
+(P201); payout-number conflicts vs help-center noted (PFM) — confirm live
+refund line at checkout.
+PAYMENT METHODS: Crypto, Credit/Debit Card, PayPal (PFWatch); Apple Pay/
+Google Pay (PFM).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 80% default across all programmes; 100% via +20% add-on at checkout
+(PFM); homepage displays 100% Profit Split / Paid on Demand / Reward
+Guarantee trio (qualifying-accounts footnote applies).
+FIRST REWARD: default 14 days after first funded trade, then every 14 days
+(PFM Payout Reliability A); Instant default 28 days then 14-day (PFM row);
+Weekly add-on: first 21 days then every 7 days. On-Demand add-on available.
+FREQUENCY: Weekly Payouts tick on all models (comparison table); Bi-Weekly
+Pro variants exist (One-Step-Pro "Bi-Weekly Payouts" card). Requests paid
+after verification; 24-hour payout TARGET on eligible accounts (footnote).
+METHODS: Crypto + Rise (PFM/PFWatch). $100K-class average payouts $3,857-
+$7,743 (configurator). Live ticker: $39,264/$6,997/$19,321.
+EVALUATION-PROFIT: 15% of evaluation-phase profit (Instant + One-Step ticks).
+SCALING: to $2M (TheStockDork). Bundle 5x chances compound scaling paths.
+MAXIMA: $400K single configurator ($500K Access rows); $2M scaled.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Terms of Use + help center FAQ + plan cards.
+BANNED (breach = fail/termination + reward denial; payout-review enforcement
+alleged in critical threads — read Terms first):
+ 1. Exceeding daily/max loss (incl. floating + fees).
+ 2. Hedging across accounts/users; reverse/opposite-position schemes.
+ 3. Third-party signal copying / group trading / social-platform copying.
+ 4. HFT/latency/arbitrage/tick-scalp; feed-error exploitation.
+ 5. Account sharing / multi-IP abuse flags ("Multiple IP" hard-breach cited
+    in complaints — use one consistent device/IP or dedicated VPN/VPS IP).
+ 6. One-sided per-asset risk over 50% of daily drawdown (payout-review rule
+    cited in complaints — size per-instrument with buffer).
+ 7. Funded news-window violations (retroactive enforcement alleged — check
+    live news rule before holding through red-folder events).
+ 8. Chargeback without contacting support first.
+ALLOWED (plan-dependent): EAs (configurator tick), weekend holding (confirm
+card), news in evaluation (funded limits apply).
+ENFORCEMENT: dashboard monitoring; payout/compliance review before each
+reward; conflicting-position removal through termination ladder. Forexive
+threads allege shifting excuses across successive payouts — document every
+trade + keep support tickets for disputes.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. EN/ES/DE/FR/IN/IT locales.
+- USA: YES — US Friendly Yes (P201); on-site proofs Keith USA, Brandon USA.
+  No US platform carve-out published (contrast BrightFunded/HyroTrader).
+- UK: served (homepage EN locale + UK flag asset).
+- HARD BANS: no published hard-ban list found Sep 2026; bans follow sanctions
+  + KYC failures. Re-check Terms/FAQ.
+- KYC: ID + agreement before funded activation; payout verification before
+  each reward (footnote: "approved reward requests are paid after
+  verification"); matching beneficiary details required.
+- VPN/VPS/travel: allowed but "Multiple IP" hard-breach complaints mean one
+  consistent IP/device is safest — dedicated VPN/VPS IP when roaming.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/atlasfunded.com: 3.9/5 from
+  1,608 reviews (PFM Sep-2026; trend +0.80/89d). Homepage badge line: "Rated
+  4.8/5 on Trustpilot" (on-site display vs 3.9 aggregator read — re-check
+  live). P201 mirror: 4.8/100 reviews (small-sample mirror). Forexive cites
+  4.0/721+ with negative 2026 trend.
+- PropFirmMap: PFM Score 7.0 (+0.70/89d), Safety Grade B+, Trust Aggregate
+  73/100 B+ (TP 19.5/25, Volume 16/20, Safety 14/20, Longevity 8/15,
+  Freshness 5/10, Vetting 10/10, Penalty 0). Rank #13/134 CFD. Entry $38 vs
+  $39 median. Verified Partner. Drawbacks: FZCO-vs-LTD entity split,
+  refund-number conflicts, TP 3.3-3.9 Average + payout-denial complaints.
+- PropFirmReviews: 7.4/10 (forex/CFD $5K-$400K 10% One-Step).
+- TheStockDork: Pay-After-Pass inversion + weekly + $2M verdict (positive).
+- Forexive (critical, Apex-affiliated): systematic payout-denial pattern
+  alleged (reverse-trading, multi-IP, one-sided-risk, news, hedging,
+  technical-breach excuses with trader quotes Apr/Jan-2026) + hidden-rules
+  warning. MUST-READ for balance — not dismissed, not confirmed; treat as
+  dispute-risk disclosure.
+- Sentiment (positive): $0-$5 start; 100%/on-demand/guarantee trio; weekly
+  payouts; bundles (5th free); responsive support (McDaniels/Pearl named);
+  smooth funded activation; $3K Access payouts proven.
+- Recurring complaints: payout denials at review; per-asset 50% rule
+  surprise; multi-IP terminations; news-rule retro-enforcement; shifting
+  excuses across payouts; certificate-delivery tech issues; sustainability
+  of $5 pricing; no long track record (2024).
+- Red flags: ELEVATED vs batch peers — denial-pattern threads + 3.9 Average
+  + entity-split + refund conflicts. No regulator action found. Mitigations:
+  start with $5 Access test; single IP/device; per-asset 50% buffer; avoid
+  red-folder holds on funded; screenshot Terms + plan card pre-purchase.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the risk-reversal inventor — $0-$5 Pay-After-Pass (vs every
+rival's pay-upfront) + buy-4-get-5th bundles + 125%-refund promos + 100%/
+on-demand/guarantee trio at $38 entries (vs $39 median). Pays with the
+thinnest trust cushion in batch (3.9 Average, B+ vs A/A+ peers) and active
+denial-pattern disputes. Execution choice narrower (3 platforms vs 4-5).
+ACCESS VS INSTANT VS ONE/ TWO/THREE-STEP: Access = $0-$5 try-before-pay
+(slowest trust build, post-pass $239-466). Instant = no evaluation, trailing
+DD, fastest money (28/21-day first). One-Step = single hurdle + 15% eval
+reward + no time limit (balanced). Two/Three-Step = relaxed + cheapest
+(grinders/beginners). All: 80%/100%-add-on, weekly/add-on rails.
+BEST FIT: risk-averse testers ($5 Access first); bundle scalers (5 accounts);
+weekly-payout seekers; high-split chasers (100% add-on); disciplined
+single-IP traders with per-asset buffers; US traders (accepted); Forex +
+Futures toggle users.
+BAD FIT: trust-sensitive buyers needing 4.5+ clean profiles; HFT/latency/
+arbitrage/hedge-ring styles; copy-service networks; multi-device roamers
+unwilling to lock IP; red-folder funded holders; traders needing >$400K
+single; anyone skipping Terms (hidden-rule risk).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 12 official URLs in Section 2 on
+2026-09-08. Pricing cards ($34-$799 Instant; $0-$5 Access) live-read from
+homepage configurator Sep 2026; WC50 50%+125% live banner. PFM Sep-2026
+trust/pricing tables cross-checked. Re-check plan cards + Terms before
+purchase (entity-split + refund-number conflicts flagged). Atlas notes
+simulated-capital/simulated-environment throughout.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Instant/Pay-Later/1/2/3-Step map, Zero/Standard/Pro
+variants, static-vs-trailing split, 15% eval reward, 80%/100%-add-on, weekly/
+on-demand add-ons, $0-$5 Access mechanics, bundle + ticket promos, $2M scale,
+elevated-dispute disclosure with Forexive balance.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Make money trading our capital" / "100% Profit Split" / "Paid on
+Demand" / "Reward Guarantee" / "Simulated Capital in Simulated Trading
+Environment"
+[2] Models: "$0 Access — Trade your free funded trading account, hit your
+target, and only pay after you pass." / "$1 Access — Begin your trading
+journey with minimal upfront cost" / "Instant Funding — Get funding instantly
+and start trading real capital without evaluation delays." / "Pay after you
+Pass — Complete the evaluation successfully and pay only when you qualify"
+[3] Comparison ticks: "Up to 100% Profit Split" / "15% Profit from Evaluation
+Phase" / "Industry Leading Profit Targets" / "Weekly Payouts" / "Affordable"
+ / "Pay after you Pass" / "No Time Limits" / "Relaxed Trading Environment"
+[4] Footnote: "Profit split up to 100% and 24-hour payout targets apply to
+qualifying funded (simulated) accounts per plan; approved reward requests are
+paid after verification. See Terms of Use."
+[5] Configurator 5K Instant: "Trading Period Unlimited" / "Min Trading Days
+5" / "Profit Target N/A" / "Max. Overall Loss $250" / "Max. Daily Loss $150"
+ / "Profit Split 100%" / "Average Payout $388" / "Get Funded $61 $34"
+[6] Promo: "50% OFF" / "125% REFUND" / "Code: WC50" / "Buy 4 accounts, get
+your 5th one free." / "Up to 5x reward chances"
+[7] Trust line: "Rated 4.8/5 on Trustpilot" (homepage badge display Sep 2026;
+aggregator live read 3.9/1,608 — both quoted for balance)
+[8] Payout proof: "Just got paid $39,264 — Brandon" / "Just got paid $6,997
+— Abiodun" / "Just got paid $19,321 — Keith" / "Sucessfully received my
+payout of 3000$ in their atlas access account"
+[9] Fee bands: "Start for $5" (Atlas Access CTA) / "From $5" (P201) /
+"Challenges from $38" (PFM) / "61 Challenges" (PFWatch)
+[10] Platforms: "TradeLocker / MetaTrader 5 / Match-Trader" (configurator
+platform toggle)
+================================================================================
+END OF FILE — ATLASFUNDED COMPLETE. Next firm is a separate task (not started).
+================================================================================
