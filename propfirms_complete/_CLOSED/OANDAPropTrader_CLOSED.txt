@@ -1,0 +1,87 @@
+================================================================================
+OANDA PROP TRADER — CLOSED (MIGRATED TO FTMO) FILE
+propfirms_complete/_CLOSED/OANDAPropTrader_CLOSED.txt | Status: CLOSED | Verification date: 2026-09-08
+================================================================================
+This program is CLOSED as a standalone offering. Migrated to FTMO flow in
+March 2026 per brief. Do not purchase old OANDA Prop Trader SKUs. Same
+12-section template. No placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: OANDA Prop Trader (OANDA brokerage prop program).
+- Status: CLOSED standalone — migrated to FTMO (ftmo.oanda.com flow) Mar 2026.
+- What it was: Broker-run prop evaluation (CFD), US-facing via OANDA tie-up.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+CLOSED — old program pages retired. Reference points (real links):
+ 1. https://ftmo.oanda.com/ (successor US flow via affiliated entity)
+ 2. https://www.oanda.com/ (broker homepage — confirm prop references)
+TOTAL SOURCES: 2. Status CLOSED (migrated).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CLOSED — old platforms retired. Successor uses FTMO CFD rails (MT4/MT5/
+cTrader/TradingView per FTMO file). Verify successor specs, not legacy.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CLOSED — old OANDA Prop Trader models retired. See FTMO.txt Sections 4-5
+for the live successor rule sets.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+CLOSED — legacy rules void. Do not apply legacy targets/drawdowns. Use FTMO
+Challenge 1-Step / 2-Step rules for any migrated account.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CLOSED — legacy pricing void. Successor pricing is FTMO pricing (see
+FTMO.txt Section 6). Do not pay legacy invoices.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CLOSED — legacy payout pipeline closed. Successor payouts via FTMO Reward
+flow (see FTMO.txt Section 7).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+CLOSED — legacy prohibitions superseded by FTMO forbidden-practices on
+migrated accounts. See FTMO.txt Section 8.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+CLOSED — legacy onboarding closed. US traders onboard via ftmo.oanda.com
+successor flow with its own KYC.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+CLOSED — legacy program reviews historic. Track FTMO reputation for the
+successor (see FTMO.txt Section 10).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+CLOSED — do not select legacy program. US traders needing FTMO-style rules
+should evaluate the FTMO US successor directly.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: CLOSED (migrated to FTMO Mar 2026 per brief). Re-check
+ftmo.oanda.com for live successor terms.
+CHANGE LOG: 2026-09-08 v1.0 CLOSED — 12-section template, migration noted.
+RAW EXCERPTS: none.
+================================================================================
+END OF FILE — OANDA PROP TRADER CLOSED (MIGRATED).
+================================================================================

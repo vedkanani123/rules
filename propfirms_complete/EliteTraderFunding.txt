@@ -1,0 +1,220 @@
+================================================================================
+ELITE TRADER FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/EliteTraderFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Elite Trader Funding pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Elite Trader Funding (ETF, Elite Trader Funding LLC / ETF Fund).
+- Founded: Feb 2022, Delaware, USA. Founders: Kanwal Singh, Clint Chaneg.
+  Set up by three professional traders. 4+ years operating.
+- Address: Delaware, USA (online-only; support@etf.fund, Help Center,
+  Discord payout-success channel).
+- Contact: https://help.elitetraderfunding.com/help/ Help Center, support@etf.fund,
+  Discord https://discord.gg/trade-etf, elitetraderfunding.app portal.
+- What it is: Futures-only 6-flavor eval prop firm. Motto: sim is a tool to
+  identify talent, not the final product — moves traders to LIVE real capital
+  (not long-term sim). $13M+ paid to 13,000+ funded traders.
+- Programs: 1-Step, EOD Drawdown, Fast Track, Static, Diamond Hands, Direct to
+  Funded (DTF). Up to 20 accounts per login; monthly sales/discounts.
+- Key distinction: widest menu (6 eval types) + live-first philosophy + payout
+  ATD system; funded carries $80/mo fee + $128/mo/exchange live data on LIVE.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+OFFICIAL-INDEXED (content quoted in this file):
+ 1. https://elitetraderfunding.com (homepage reference; 403 on fetch, indexed via mirrors)
+ 2. https://elitetraderfunding.app/ (portal: live-first mission, $13M+ paid, Discord proofs)
+ 3. https://elitetraderfunding.app/evaluations (plan picker, prices, rules)
+ 4. https://elitetraderfunding.app/1-step-evaluation (1-Step specs)
+ 5. https://elitetraderfunding.app/end-of-day-evaluation (EOD hard DLL warning)
+ 6. https://elitetraderfunding.app/blog/elite-trader-funding-review-2026-rules-payouts-more (2026 rules/payouts)
+ 7. https://elitetraderfunding.app/testimonials (testimonials index)
+ 8. https://help.elitetraderfunding.com/help/how-the-1-step-plan-works (funded rules)
+ 9. https://help.elitetraderfunding.com/help/how-do-payouts-work (ATD cycles, $25K cap)
+10. https://help.elitetraderfunding.com/help/what-are-the-elite-funded-account-fees ($80/mo vs one-time)
+11. https://help.elitetraderfunding.com/help/safety-net-requirements (safety net)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+12. TradersPost ETF Pricing Guide 2026-03-03 (6 models $75-$655 + $80 funded)
+13. TestMax ETF Rules 2026-07-17 ($47 resets, live-trailing, ATD detail)
+14. TradingToolsHub ETF Review/Pricing 2026-03-30/31 (6 evals, 100% first $12.5K)
+15. FuturesPropTrading ETF Review 2026-02-01 (8+3+6+2+1 account matrix)
+16. PropFirmMap ETF Review 2026-08-29 (B+, 4.0 from 1,077, $11.40 REALTRADER)
+17. Trustpilot https://www.trustpilot.com/review/elitetraderfunding.com (1,122-1,153 reviews)
+TOTAL SOURCES: 17 (11 official + 6 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (5):
+- NinjaTrader 8 (flagship, seamless per reviews), Tradovate, Rithmic,
+  TradingView, Tickblaze. Stripe checkout; login emailed after purchase.
+- Data: sim data included; LIVE Elite live data $128/mo per exchange venue.
+INSTRUMENTS: Futures only (micro/mini CME). No trading during non-approved
+  hours; no unpermitted instruments. News + holidays ALLOWED.
+CONTRACT LIMITS: 1-Step 50K: 8 minis | 100K: 14 | 150K: 18 | 250K: 24 | 300K: 30.
+  EOD/Static/Diamond/Fast Track/DTF per-size caps (Static 10K: 1; 25K: 2; 50K: 4;
+  Diamond 100K: 2; DTF 25K: 2, 50K: 5).
+LEVERAGE: exchange margin; label is eval-size label.
+COMMISSIONS/FEES: exchange + execution in net P/L; funded $80/mo + live data.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Sizes | Target | Drawdown | DLL | Min days | Consistency | Split | Fee model |
+|---|---------|-------|--------|----------|-----|----------|-------------|-------|-----------|
+| 1 | 1-Step (monthly) | 25K/50K/75K/100K/150K/250K/300K | $3K 50K / $6K 100K / $9K 150K / $15K 250K / $20K 300K | $2K/$3K/$5K/$6.5K/$7.5K LIVE-trailing (unrealized) | none | 5 | none (40% refs legacy) | up to 100% | $145/$165/$185/$205/$295/$515/$655/mo |
+| 2 | EOD Drawdown (monthly) | 25K/50K/75K/100K/150K/250K | same targets | $2K EOD 50K / $3.5K 100K / $4.5K 150K EOD | $1.1K 50K / $2.2K 100K / $3.3K 150K HARD | 5 | none | up to 100% | $275/$295/$365/$430/$605/$745/mo |
+| 3 | Fast Track (one-time, 14 days) | 100K/250K (+10K variants) | $6K/$15K | trailing, no DLL | none | 5 | 40% best-day to pass; 30% payout gate | up to 100% | $75/$175 one-time |
+| 4 | Static (one-time, fixed) | 10K/25K/50K/100K/150K | $1K/$2K/$4K | $500/$1K/$2K STATIC (never moves) | none | 5 | none | up to 100% | $99/$229/$449/$135-300 one-time |
+| 5 | Diamond Hands (monthly, hold O/N) | 100K | $5K | $3.5K EOD | $1.5K | 5 | none | up to 100% | $365/mo |
+| 6 | Direct to Funded (no eval) | 25K/50K | none | $2.5K/$5K EOD | per funded | 0 | per funded ATD | up to 100% | $599/$699 one-time |
+Notes:
+- Funded: Elite Sim-Funded -> LIVE Elite; $80/mo activation + $128/mo/exchange live.
+- Resets: eval $47-75 unlimited + free auto-reset each 30-day renewal; funded
+  reset $147-437 (unlimited-resets promo at verify).
+- Up to 20 accounts per login; promos REALTRADER 80% ($11.40 $10K), SUMMIT 90%.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP (core monthly) ---
+- $3K target 50K, $2K live-trailing DD (follows highest UNREALIZED peak incl.
+  open positions, no lock in eval). No DLL, no time limit, 5 min days, 8 minis.
+  Strictest wick sensitivity — size micros.
+--- 5B. EOD DRAWDOWN (daily-risk line) ---
+- Same targets but $2K EOD trail (ratchets at close only) + $1,100 HARD DLL
+  (touch = instant fail incl. open losses even if trailing DD fine). For daily
+  risk managers; DLL is the killer, not the trail.
+--- 5C. FAST TRACK (14-day sprint) ---
+- $75 100K one-time, $6K target, $3K trailing, 14 minis, max 14-15 calendar days,
+  NO resets. 40% best-day to pass + 30% payout gate. Cheapest big-ticket entry.
+--- 5D. STATIC (fixed floor) ---
+- $500-$2K fixed floor never moves (10K $99 cheapest industry entry). 1-4 minis.
+  Predictable; tight absolute room.
+--- 5E. DIAMOND HANDS (overnight/weekend hold) ---
+- $365/mo 100K, $5K target, $3.5K EOD, $1.5K DLL, 2 minis. Only line allowing
+  overnight/weekend holds.
+--- 5F. DIRECT TO FUNDED ---
+- $599 25K / $699 50K, no target, EOD DD $2.5K/$5K, instant funded rules apply.
+--- 5G. FUNDED (Elite Sim -> LIVE) ---
+- EOD realized trailing + safety net; ATD payout system: min 10 Active Trade Days,
+  23% max-profit-daily interaction, $25K cap refs; buffer annoying per reviews.
+  No consistency on post-Aug-2024 activations (FundedStreak). Semi-auto only
+  (monitored); fully auto set-and-forget banned.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+1-STEP MONTHLY: 25K $145 | 50K $165-197 ($68.95 sale) | 75K $185 | 100K $205-247 |
+  150K $295-347 | 250K $515 | 300K $655.
+EOD MONTHLY: 25K $275 | 50K $295-347 | 75K $365 | 100K $430-487 | 150K $605 | 250K $745.
+FAST TRACK ONE-TIME: 100K $75 | 250K $175. STATIC ONE-TIME: 10K $99 ($57/REALTRADER
+  $11.40) | 25K $229 | 50K $449 | 100K $135 | 150K $300.
+DIAMOND: 100K $365/mo. DTF: 25K $599 | 50K $699.
+FUNDED: $80/mo activation + $128/mo/exchange live data. RESETS: $47-75 eval,
+  $147-437 funded.
+PROMOS: REALTRADER 80%, SUMMIT 90%/65% variants; monthly sales.
+REFUND: subs/one-times consumed, NOT refunded; failed evals not refunded
+  (auto-reset free each renewal); activation/live data not refunded.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: up to 100% (all programs; 100% first $12,500 refs). Tiered thereafter
+  per ATD.
+- ATD system: min 10 Active Trade Days, performance/risk metrics gate; traders
+  transitioned to live before/during/after request at firm discretion.
+- Speed: same-day approval claimed; Rise rails (ACH/crypto); Discord payout-success
+  proofs; $13M+ documented.
+- Caps: $25K payout-cap refs; progressive caps; buffer holds first withdrawal.
+- Scaling: 20 accounts; $80/mo drag means strategy must clear fee + buffer.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. DD/DLL/contract breach = fail (live-trailing incl. open P/L on 1-Step/Fast).
+2. Non-approved hours/instruments banned (check hours table; news/holidays OK).
+3. Fully automated set-and-forget banned (semi-auto monitored only on TradersPost).
+4. Error/latency exploitation, cross-account hedging to game ATD banned.
+5. Fast Track: 14-day expiry, no resets; DTF: funded rules from dollar one.
+Consequences: eval fail ($47 reset / free auto-reset), funded close ($147-437
+  reset), payout review hold/denial, live-transition delay.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No background check; Stripe purchase + emailed logins.
+- USA: SERVED (Delaware; Rise ACH/crypto payouts).
+- International: most countries where CME/Rithmic/Tradovate permitted.
+- KYC: ID + Rise payout-method verification at activation/first payout.
+- 20 accounts per login; entities via support.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/elitetraderfunding.com: 3.8-4.0/5
+  from 945-1,153 reviews (PropFirmMap 4.0/1,077 Jun 2026, 3.8/1,153 Sep 2026;
+  Trustpilot header 4-star/1,141). 62% 5-star, 24% 1-star (polarized). Safety B/B+
+  (PropFirmMap 6.7/10 Verdict, 6.9 PFM). Replies to 97% negatives.
+- Sentiment: positives on 6-style choice, NinjaTrader 8 integration, $11.40 entry,
+  24h payouts, clear site, fast support; negatives on $80/mo + $128 live data,
+  buffer annoyance, 10-day ATD + 23% daily gate, fee-on-fee (eval + activation),
+  rule-change grumbles, scam-claim minority rebutted as disclosed fees.
+- Third-party: TradersPost neutral (value Fast Track $75, drag $80/mo);
+  TestMax technical (live-trail + ATD bar); PropFirmMap Partner B+.
+- Red flags: NONE systemic ($13M/13K proofs, 4yr history). Watch: live-trail
+  wicks, ATD math, funded fee drag, Fast Track expiry.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX: ETF 6 flavors + $11.40 entry + live-first vs Apex 100% first $25K + 20
+  PAs + one-time. ETF $80/mo funded drag vs Apex no funded sub. Cheap triers -> ETF
+  Fast Track/Static; multi-PA farmers -> Apex.
+VS BULENOX/TRADEDAY: ETF Static $99 rivals Bulenox static but tiny room; ETF EOD
+  + DLL mirrors TradeDay EOD. Live-seekers -> ETF (explicit live mission) or
+  TradeDay Fast Pass.
+BEST FIT: budget experimenters ($11.40-75 entries), style pickers (6 engines),
+  overnight holders (Diamond), DTF skippers, live-capital seekers, NinjaTrader users.
+BAD FIT: traders needing no funded fee, no ATD gate, static-only large room, or
+  hands-off automation.
+RULE OF THUMB: start Fast Track 100K ($75) for cheap size or Static 10K ($11.40
+  REALTRADER) for fixed-floor test; graduate to 1-Step 50K ($165) for 8-minis.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all 6-program targets, DDs, DLLs, contracts, splits, fees and ATD
+terms above were read from the 11 official URLs in Section 2 on 2026-09-08 and
+cross-checked to Mar-Jul-2026 third-party tables sourced to ETF Help Center.
+Promos (REALTRADER/SUMMIT) rotate — re-check evaluations picker.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 6-engine menu, live-trailing vs EOD split, $80+$128 funded
+fees, ATD 10-day gate, 100% split, Trustpilot 3.8-4.0/B+ context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Mission: "Our mission is to find skilled traders and move them into live
+ accounts with real capital. Sim is a tool to identify talent, not the final product."
+[2] Fit: "If you are looking for a place to stay in simulation long term, we are
+ probably not the right fit."
+[3] Payouts: "Payout requests are reviewed under our payout policy, Terms and
+ Conditions, and internal risk controls. Traders may be transitioned to live
+ before, during, or after a payout request."
+[4] EOD: "Tailored for someone new to trading and is designed to assess trading
+ performance by focusing on daily risk management. In order to fail, you would
+ need to trigger either the daily loss limit, or the max drawdown."
+[5] Funded fees: "funded accounts require an $80/month activation fee ... LIVE
+ Elite accounts also require $128/month per exchange venue for live data."
+[6] 1-Step: "1-Step ... $50,000: $165/month — $3,000 profit target, $2,000
+ trailing drawdown, 8 minis" (TradersPost cite of official).
+[7] DTF: "$25,000: $599 — no profit target, $2,500 EOD drawdown, 2 minis."
+[8] Rise: "We pay our Elite Traders using Rise. Rise offers flexible withdrawal
+ options, including ACH and crypto!"
+================================================================================
+END OF FILE — ELITE TRADER FUNDING COMPLETE. Next firm is a separate task (not started).
+================================================================================

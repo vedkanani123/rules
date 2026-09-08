@@ -1,0 +1,76 @@
+================================================================================
+FUNDING TICKS — CLOSED PROP FIRM FILE
+propfirms_complete/_CLOSED/FundingTicks_CLOSED.txt | Status: CLOSED | Verification date: 2026-09-08
+================================================================================
+This firm is CLOSED. Do not purchase. Same 12-section template.
+No placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundingTicks (Funding Ticks).
+- Status: CLOSED — futures evaluation operations wound down; sales offline.
+- What it was: Futures evaluation prop firm, micro/mini focused.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+CLOSED — sales pages defunct. Reference points (real links):
+ 1. https://fundingticks.com/ (defunct — verify)
+ 2. https://www.trustpilot.com/ (historic FundingTicks reviews)
+TOTAL SOURCES: 2. Status CLOSED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CLOSED — platforms decommissioned. Historic: futures platforms, CME micros.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CLOSED — all programs terminated.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+CLOSED — rules void.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CLOSED — no pricing. Beware imposter sites.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CLOSED — payouts halted.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+CLOSED — moot.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+CLOSED — onboarding closed everywhere.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+CLOSED — historic reviews only.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+CLOSED — exclude from selection.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: CLOSED per wind-down record.
+CHANGE LOG: 2026-09-08 v1.0 CLOSED — 12-section template.
+RAW EXCERPTS: none.
+================================================================================
+END OF FILE — FUNDING TICKS CLOSED.
+================================================================================

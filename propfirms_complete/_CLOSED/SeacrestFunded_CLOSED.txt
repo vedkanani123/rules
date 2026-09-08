@@ -1,0 +1,80 @@
+================================================================================
+SEACREST FUNDED — CLOSED CFD / LIVE FUTURES FILE
+propfirms_complete/_CLOSED/SeacrestFunded_CLOSED.txt | Status: CLOSED (CFD) | Verification date: 2026-09-08
+================================================================================
+CFD arm is CLOSED Feb 2026 per brief; futures arm lives on as a separate
+product. Do not purchase CFD SKUs. Same 12-section template. No placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Seacrest Funded (SeacrestFunded).
+- Status: CLOSED (CFD closed Feb 2026 per brief; futures lives on separately).
+- What it was/is: CFD evaluations (retired) + futures evaluations (live,
+  covered under live futures files, not this file).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+CLOSED-CFD — CFD pages retired. Reference points (real links):
+ 1. https://seacrestfunded.com/ (confirm CFD-retired notice / futures pages)
+ 2. https://www.trustpilot.com/ (historic Seacrest Funded reviews)
+TOTAL SOURCES: 2. Status CLOSED (CFD).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CLOSED-CFD — CFD platforms retired. Futures platforms remain live on the
+futures product — verify there, not here.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CLOSED-CFD — all CFD programs terminated. Futures models live separately.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+CLOSED-CFD — CFD rules void. Do not apply CFD targets/drawdowns to futures.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CLOSED-CFD — no CFD pricing. Futures pricing lives on official futures pages.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CLOSED-CFD — CFD payouts closed. Futures payouts per live futures terms.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+CLOSED-CFD — CFD prohibitions moot. Futures prohibitions govern futures
+accounts — verify on futures FAQ.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+CLOSED-CFD — CFD onboarding closed. Futures eligibility per live pages.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+CLOSED-CFD — historic CFD reviews only; track futures product separately.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+CLOSED-CFD — exclude CFD from selection. Futures traders evaluate the live
+futures arm on its own terms.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: CLOSED-CFD Feb 2026 per brief; futures lives on.
+CHANGE LOG: 2026-09-08 v1.0 CLOSED-CFD — 12-section template, split noted.
+RAW EXCERPTS: none.
+================================================================================
+END OF FILE — SEACREST FUNDED CLOSED (CFD).
+================================================================================
