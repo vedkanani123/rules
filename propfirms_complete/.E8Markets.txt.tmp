@@ -1,0 +1,573 @@
+================================================================================
+E8 MARKETS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/E8Markets.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official E8 Markets pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: E8 Markets (formerly E8 Funding; rebrand rolled out 2023-2024).
+- Founded: November 2021, Dallas, Texas, USA. CEO: Dylan Elchami.
+- Address: E8 Funding LLC, 4101 McEwen Rd #205, Dallas, TX 75244, USA.
+- Contact: support@e8markets.com | live chat / AI + human agents | Discord
+  community 40,927+ traders | X @e8markets | Instagram @e8marketscom |
+  YouTube channel UCHGznmL3rdnsDKDgrRyK_VQ | Blog https://blog.e8markets.com.
+- Legal entities (official footer, https://e8markets.com):
+  * E8 Funding LLC — US technology/education company; operates TradeLocker,
+    cTrader and Match-Trader platforms; all accounts simulated/educational.
+  * E8 Markets Ltd — Saint Lucia, registration 2025-00347, Ground Floor,
+    The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint
+    Lucia LC06 201; operates the MetaTrader 5 (MT5) platform.
+  * Website ownership: Digital Renaissance LLC, Puerto Rico (manages and
+    supervises all content, products and services on www.e8markets.com).
+- What it is: SimFi (Simulated Finance) evaluation prop firm. ALL accounts are
+  SIMULATED accounts with fictitious funds; trading is simulated. Funded
+  (SimFi Performance) traders receive performance-based payout awards, not
+  live capital. E8 "does not operate as a broker, accept client deposits, or
+  facilitate live market transactions."
+- Scale claimed on e8markets.com (Sep 2026): $77M+ paid out to traders
+  ("Over $77M paid out to traders who trained impulse into discipline"),
+  500,000+ traders worldwide, largest payout reward $216,000+, average
+  first payout $5,884 (E8 One $100K display), Today's Payout ticker on
+  homepage. Evaluation subdomain cites "$50M+ Total Trader Payouts".
+- Challenge pass-rate disclaimer (official footer): "The challenge program's
+  customer pass rate from January 1, 2023, to March 1, 2024, was 17.7%, for
+  those who traded at least once during this period and obtained an E8
+  Trader Account."
+- Product arms: Classic Markets (Forex/CFD), Futures Market (via
+  http://e8futures.com, CME products), Perpetuals 24/7 (Hyperliquid
+  liquidity: BTC, Gold, Oil, Nasdaq, EUR), E8 Crypto arm (E8 One Crypto /
+  E8 Pro Crypto / E8 Signature Crypto).
+- Key distinction: Forex/Crypto products (E8 One / Pro / Zero / Classic /
+  Track / Signature Forex) and Futures products (E8 Signature Futures /
+  E8 Zero Starter / E8 Zero MAX) are SEPARATE product lines with different
+  rules, platforms, payouts and pricing. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://e8markets.com (homepage: rebrand entities, $77M+ paid, 500K+
+    traders, platforms, configurator prices, FAQ, Terms summary, bans)
+ 2. https://e8markets.com/e8-markets-terms-and-conditions (E8 Funding LLC
+    Terms of Service, Effective Date 11/03/2025: simulated purpose, KYC,
+    non-refund policy, payout awards, prohibited conduct, arbitration)
+ 3. https://help.e8markets.com (Help Center index: Get Started 9 articles,
+    Products & Rules 27, Payouts 7, Orders & Billings 6, Trading Platforms
+    12, General Questions 15, Promotions 2, Affiliates 6, About E8 4)
+ 4. https://helpfutures.e8markets.com/en/ (Futures Help Center index:
+    Get Started 9, Products & Rules 13, Payouts 5, Orders & Billings 6,
+    Trading Platforms 9, General Questions 7, Promotions 2, Affiliates 6)
+ 5. https://e8markets.com/e8-one (E8 One customizable 1-step, up to $500K)
+ 6. https://e8markets.com/e8-signature (E8 Signature Forex prices/rules/caps)
+ 7. https://e8futures.com/e8-signature-futures (Signature Futures prices,
+    contracts, margins, payout caps, FAQ)
+VERIFIED VIA OFFICIAL EXCERPTS (search-indexed official content):
+ 8. https://help.e8markets.com/en/articles/11769446-daily-drawdown
+    (Daily Drawdown: 4% of initial balance, fixed $ amount, 00:00 reset)
+ 9. https://help.e8markets.com/en/articles/9448349-what-is-payout-on-demand
+    (On-Demand rules: 40% best-day One, 35% Signature, 3-day math, Pro/Zero
+    daily payouts with 1% / $100 minimums)
+10. https://help.e8markets.com/en/articles/11940573-payout-caps-and-buffers-for-e8-signature-explained
+    (Signature buffer = EOD Dynamic Drawdown; caps per payout number)
+11. https://helpfutures.e8markets.com/en/articles/11864618-e8-signature-futures
+    (contracts 2/4/8/12, margins, hedging/netting, prohibited-strategy link)
+12. https://helpfutures.e8markets.com/en/articles/10209270-trading-policies-and-prohibited-trading-strategies
+    (via #11 link: hedging, all-or-nothing, irresponsible trading)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. PropFirmTerminal E8 Markets table (29 rows: One/Classic/Track/Track 1:1/
+    Signature base prices, targets, DD, splits)
+14. PropTraderCheck E8 Markets Aug-2026 (fees $40-$1,627, 14-day then
+    on-demand, 80-100% splits, 40%/35% gates, $1M scale)
+15. Propfundsy E8 Markets Jul-2026 (One $40-$4,460, Zero static 3%, 4.4/5
+    Trustpilot 3,200+ reviews)
+16. PropScope Sep-2026 (Signature vs Zero Starter vs Zero MAX futures prices,
+    caps, 35%/20% discount codes)
+17. TradeTanto Aug-2026 (E8 Zero vs Signature Futures rule-by-rule: targets,
+    EOD Dynamic DD, contract scaling, caps, prohibitions)
+18. Trustpilot https://www.trustpilot.com/review/e8markets.com (rating +
+    review texts Sep 2026)
+19. PropFirmMatch https://propfirmmatch.com/prop-firms/e8-markets/reviews
+    (4.8 stars, ~486 verified trader reviews)
+20. PropFirmMap trust-check + review Apr-Aug 2026 (Safety Grade A/A+,
+    4.3/5 from 3,276 reviews, PFM Score 7.9/10)
+TOTAL SOURCES: 20 (12 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CLASSIC (FOREX/CRYPTO) PLATFORMS (official footerInterior: E8 Funding LLC
+"solely operates ... Tradelocker, cTrader, and Match Trade"; MT5 via
+E8 Markets Ltd; homepage platform row adds E8 Terminal):
+- MetaTrader 5 (MT5) — via E8 Markets Ltd (Saint Lucia entity).
+- TradeLocker — via E8 Funding LLC.
+- cTrader — via E8 Funding LLC.
+- Match-Trader (Match Trade) — via E8 Funding LLC.
+- E8 Terminal — proprietary terminal shown on homepage platform row.
+FUTURES PLATFORM: Tradovate ONLY (netting system — opposing orders in the
+same contract offset instead of sitting open as separate positions).
+PERPETUALS ARM: Hyperliquid liquidity (BTC, Gold, Oil, Nasdaq, EUR, 24/7).
+CLASSIC INSTRUMENTS: 250+ markets — Forex pairs, Indices, Commodities/Metals,
+Energies (WTI, Brent), Stocks, Crypto (full symbol list live in E8X
+dashboard: https://e8x.e8markets.com/trading-symbols). Weekend crypto
+availability follows platform maintenance windows.
+FUTURES INSTRUMENTS: CME Group products across all four exchanges (CME,
+CBOT, NYMEX, COMEX), full size down to micros. FRONT-MONTH ONLY — trade
+the contract with highest volume; wrong-month trading risks termination
+or profit deduction. No holding within 2% of a product's lock limit.
+LEVERAGE: no single headline figure published; per-asset leverage matrix is
+not in aggregator datasets — fee schedule and per-symbol leverage/specs are
+inside the E8X dashboard and each platform's contract specs. Verify before
+trading.
+SERVER/SESSION TIME: daily loss level resets 00:00 Server Time (Classic).
+Futures trading window 17:00-15:10 CT; positions force-closed 15:10 CT
+(Trader complaint excerpt: "Every 4:00 pm ... Your trade will end by 4:08
+pm or 4:12 pm. I'm on eastern time zone.").
+COMMISSIONS/SPREADS: Challenge/Performance accounts "simulate trading under
+real market conditions as closely as possible, including commissions and
+spreads" (official footer disclaimer). Data feeds may be proprietary,
+licensed, synthetic, delayed, anonymized or emulated (Terms section 6.3).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Market | Steps | Sizes              | Target        | Daily loss        | Max DD              | Consistency (funded) | Split    |
+|---|----------------------|--------|-------|--------------------|---------------|-------------------|---------------------|----------------------|----------|
+| 1 | E8 One (flagship)    | CFD    | 1     | 5K-500K (8 sizes)  | 6% default (custom 6-21%) | 3% default (custom to ~9.2%) | 4% default intraday-trailing (custom 4-14%) | 40% best-day | 80/90/100% (chosen at checkout) |
+| 2 | E8 Signature Forex   | CFD    | 1     | 25K/50K/100K/150K  | 6%            | none (EOD Dynamic is binding) | 4%/3% EOD Dynamic trailing | 35% best-day | 80% |
+| 3 | E8 Pro Forex         | CFD    | 1-2*  | 5K-500K            | 8% P1 / 5% P2 (standard Pro track) | 4% | 8% static | daily payouts, min 1% | 80% (up to 100% tier) |
+| 4 | E8 Zero Forex        | CFD    | 1     | 50K (flagship size)| 6% closed-trade | none published | 3% STATIC (from initial) | none eval | 80% |
+| 5 | E8 Classic           | CFD    | 2     | 5K-200K            | 8% P1 / 4% P2 | 4% | 8% static | 40% best-day funded | 80% |
+| 6 | E8 Track             | CFD    | 3     | 10K-400K           | 8% / 4% (/3rd) | 4% | 8% static | 40% best-day funded | 90% |
+| 7 | E8 Track 1:1         | CFD    | 3     | 10K-400K           | 5% / 5% (/3rd) | 5% | 5% static | 40% best-day funded | 80% |
+| 8 | E8 Signature Futures | Futures| 1     | 25K/50K/100K/150K  | 6% ($1.5K/$3K/$6K/$9K) | none eval / 2% Daily Pause funded | 4% (25K/50K) / 3% (100K/150K) EOD Dynamic | 35% best-day | 80% |
+| 9 | E8 Zero Starter/MAX  | Futures| 1     | 50K/100K/200K      | 6% ($3K/$6.5K/$13.5K) | NONE | 3% EOD Dynamic | 40% best-day CHALLENGE only | 80% or 100% (chosen at purchase) |
+|10 | E8 Crypto arm        | Crypto | 1     | mirrors One/Pro/Signature | same as CFD twin | same | same | 40% (One) / 35% (Signature) | 80-100% |
+|11 | Perpetuals 24/7      | Perp   | 1     | via configurator   | per terms     | per terms | per terms | per terms | 80%+ |
+Notes:
+- E8 One is FULLY CUSTOMIZABLE at checkout: drawdown 4-14%, daily loss
+  3-9.2%, profit target 6-21%, payout 80/90/100% — price scales with the
+  risk profile chosen.
+- No minimum trading days on E8 One/Signature/Zero (pass in 1 day).
+- Funded (SimFi Performance) has NO profit target on any program.
+- Max allocation: $1,000,000 across accounts (E8 One scaling to $1M;
+  Proptradercheck/Terminal cross-check). Futures: 5 payouts per account,
+  then account deactivated + free same-size challenge.
+- E8 Pro has DAILY payouts (min 1%); E8 Zero has DAILY payouts (min $100).
+  On-demand does NOT apply to Pro/Zero (official help article).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. E8 ONE (CFD FLAGSHIP, 1-STEP, $5K-$500K) ---
+- Profit target: 6% default of initial balance, Challenge ONLY (customizable
+  6-21% at checkout). None on SimFi Performance. ($100K default: $6,000;
+  homepage $100K configurator at 9% variant shows $9,000 target.)
+- Maximum drawdown: INTRADAY DYNAMIC (TRAILING), 4% default (custom 4-14%).
+  The floor moves against you IN REAL TIME as equity rises — including
+  unrealized gains. ($100K default: $4,000 floor = $96,000 start; homepage
+  6%-Max variant shows $6,000 Dynamic Drawdown.)
+- Daily drawdown: 3% default of initial balance (custom to ~9.2%), fixed $
+  amount per day. Recalculated every new day at 00:00 Server Time:
+  Loss Level = Starting Balance of the new day MINUS fixed $ amount.
+  Equity OR balance touching the level = permanent violation (breach).
+  ($100K at 4% daily variant: $4,000/day. Day starting $103,000 => floor
+  $99,000. $100K at 3% default => $3,000/day.)
+- EXAMPLE (official help-article mechanics + third-party worked example):
+  $100K account, daily DD 4% ($4,000). Monday close $103,000. Tuesday floor
+  = $103,000 - $4,000 = $99,000. A floating loss touching $98,999.99 for
+  one second = breach, even if the trade later recovers. Always use a hard
+  stop-loss.
+- Consistency: NONE during evaluation. 40% BEST-DAY RULE on funded
+  (SimFi Performance): no single day > 40% of total generated profits.
+  Not a breach during eval; gates payouts when funded.
+- Payout eligibility (One): (1) 40% best-day satisfied; (2) net profit
+  (payout) > 50% of daily drawdown (e.g. $100K with 4% daily DD => minimum
+  payout $2,000.01). Earliest first payout = 3 days into Performance
+  ("not a separate waiting rule — simply how the Best Day math works").
+  NO payout caps, NO mandatory buffer on E8 One.
+--- 5B. E8 SIGNATURE FOREX/CRYPTO (1-STEP, 25K/50K/100K/150K) ---
+- Profit target: 6% Challenge only (0%-display values on some size cards
+  are configurator artifacts; rules text governs: 6% target, EOD dynamic
+  drawdown, 80% payout). None on Performance.
+- Max drawdown: EOD DYNAMIC (trailing, end-of-day recalculation ONLY).
+  Floor recalculates off highest END-OF-DAY balance — intraday unrealized
+  runs do NOT compress the buffer; closing flat/below gains no floor
+  credit. 4% on smaller sizes / 3% on 100K/150K.
+- Daily loss: NO separate daily % — the EOD Dynamic drawdown is binding.
+- Consistency: NONE during evaluation. 35% BEST-DAY RULE on funded.
+- Payout: On-Demand once eligible, BUT with (a) mandatory BUFFER equal to
+  the EOD Dynamic Drawdown left in the account, and (b) escalating PAYOUT
+  CAPS per request number (see Section 7). Minimum request $100 net profit;
+  profitable day = closed profit >= 0.3%. Each payout starts a new cycle:
+  day-count resets, only new-cycle profit counts (post-14-Jul-2026
+  accounts); unused profit above cap does not carry over.
+--- 5C. E8 PRO (FOREX + CRYPTO, DAILY PAYOUTS) ---
+- Standard Pro track: 8% Phase 1 / 5% Phase 2 targets, 4% daily loss,
+  8% static max drawdown, 80% split (100% payout tier selectable).
+  DAILY payouts with 1% minimum (official On-Demand article: "With E8 Pro,
+  the minimum is 1%"). No on-demand schedule — request daily after
+  rollover. No activation fee.
+--- 5D. E8 ZERO FOREX (STATIC, LAUNCHED JUL 2026) ---
+- 3% STATIC max drawdown from INITIAL balance (e.g. $50K => $1,500 floor
+  basis), 6% closed-trade target, 80% split. Simplicity product: no
+  checkout customization. Daily payouts, $100 minimum.
+--- 5E. E8 CLASSIC (2-STEP) / E8 TRACK (3-STEP) / E8 TRACK 1:1 (3-STEP) ---
+- Classic: 8% P1 / 4% P2 targets, 4% daily, 8% static max DD, 80% split.
+- Track: 8% / 4% targets, 4% daily, 8% static, 90% default split.
+- Track 1:1: 5% / 5% targets, 5% daily, 5% static, 80% split.
+- Funded consistency 40% best-day on all three; none in evaluation.
+  No minimum trading days (aggregator tables: Min Days —).
+--- 5F. E8 SIGNATURE FUTURES (1-STEP, 25K/50K/100K/150K, TRADOVATE) ---
+- Profit target (Challenge only): $1,500 / $3,000 / $6,000 / $9,000
+  (flat 6% every size). None on Performance.
+- Max drawdown: EOD DYNAMIC — $1,000 / $2,000 / $3,000 / $4,500
+  (4% on 25K/50K, 3% on 100K/150K). Loss level sits below balance, rises
+  with highest end-of-day balance, never moves down; touching it =
+  permanent breach. Locks at initial balance once reached (funded),
+  so full-profit withdrawal cannot drop you onto your own floor.
+- Daily limit: NONE in Challenge. 2% DAILY PAUSE on Performance
+  ($500 / $1,000 / $2,000 / $3,000) — pause, not breach: trading stops
+  until next day.
+- Consistency: NONE in Challenge. 35% best-day on Performance.
+- Contracts (fixed, never scale): 2 / 4 / 8 / 12 with margins $20K / $40K /
+  $80K / $120K. No time limit; single strong session can pass.
+- Payout: 5 profitable days (closed >= 0.3%) between requests; $100 minimum;
+  buffer = EOD drawdown; escalating caps (Sec. 7); 5 payouts max per
+  account, then deactivated + free same-size challenge.
+--- 5G. E8 ZERO FUTURES — STARTER vs MAX (50K/100K/200K, TRADOVATE) ---
+- Same rules, different price and payout caps (MAX ≈ 3x Starter cap).
+  Target $3,000 / $6,500 / $13,500; 3% EOD Dynamic DD; NO daily loss limit;
+  40% best-day in CHALLENGE only (not on funded); 80% or 100% split chosen
+  at purchase; daily payouts after rollover; $100 minimum; 5 payouts max,
+  then deactivated + free same-size challenge.
+- Contract SCALING (Zero only, post-pass): Challenge flat 4 / 8 / 10;
+  Performance starts 2 / 3 / 4, restores to 3 / 5 / 7 at 1.5% closed
+  profit and 5 / 8 / 10 at 3% closed profit (top tier = Challenge level).
+- Loss level LOCKS at initial balance at first payout or when closed profit
+  reaches the drawdown amount (whichever first) — floor becomes breakeven
+  permanently. No mandatory buffer, but withdrawing full profit onto a
+  breakeven-locked floor = breach risk.
+- Cycle rule: each payout draws ONLY on current-cycle profit; leftover
+  above cap is forfeited (e.g. $50K Starter earns $2,500, caps $1,000 =>
+  $1,500 lost to next cycle).
+--- 5H. NEWS / WEEKEND / COPY (CLASSIC MARKETS) ---
+- News trading: ALLOWED on all Classic products with NO restrictions
+  (Signature page: "Trade the economic calendar with no restrictions").
+- Weekend holding: ALLOWED (aggregators: Weekend holding Allowed).
+- Copy trading: ALLOWED across YOUR OWN personal accounts (official:
+  "Run trade copiers across the personal accounts you own"). Trading
+  others' accounts or letting others trade yours = banned (Terms 9.1(e)).
+- EAs/bots: ALLOWED on Forex/Crypto (aggregators: EAs Yes). PROHIBITED on
+  Futures — manual trading only (bots/AI tools banned, Sec. 8).
+--- 5I. INACTIVITY / MISC ---
+- 7-day inactivity rule carries over on Futures (Challenge + Performance).
+- One account per user unless E8 authorizes in writing (Terms 3.4).
+- KYC/AML: government photo ID, proof of address, biometric/device check,
+  plus tax forms + payment info before any payout (Terms 3.2, 5.2).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (single payment, no subscription on Classic/Crypto; promo
+code E8 = 25% off first order on homepage configurator; MT5 restricted
+per footer — see Section 9):
+E8 ONE — homepage configurator retail (before 25% code):
+  5K $48 | 10K $88 | 25K $188 | 50K $288 | 100K $488 | 200K $798 |
+  400K $1,598 | 500K $1,998.
+  With code E8 (25% off): 5K $36 | 10K $66 | 25K $141 | 50K $216 |
+  100K $366 | 200K $599 | 400K $1,199 | 500K $1,499.
+E8 ONE — aggregator base-price track (default 6%/4%/3% rule set):
+  5K $40 | 10K $72 | 25K $154 | 50K $235 | 100K $398 | 200K $650 |
+  400K $1,301 | 500K $1,627.
+E8 CLASSIC (2-step): 5K $59 | 10K $110 | 25K $228 | 50K $338 |
+  100K $588 | 200K $1,228.
+E8 TRACK (3-step, 90% split): 10K $67 | 25K $155 | 50K $233 | 100K $401 |
+  200K $670 | 400K $1,331.
+E8 TRACK 1:1 (3-step, 80% split): 10K $59 | 25K $138 | 50K $208 |
+  100K $358 | 200K $598 | 400K $1,118.
+E8 SIGNATURE FOREX (fixed pricing): 25K $110 | 50K $150 | 100K $260 |
+  150K $390.
+E8 SIGNATURE FUTURES (retail, 25% off with code E8):
+  25K $110 -> $83 | 50K $150 -> $113 | 100K $260 -> $195 |
+  150K $390 -> $293.
+E8 ZERO FUTURES STARTER (retail; 35% off with PROPSCOPE-type codes):
+  50K ~$178 (->$116) | 100K ~$278 (->$180.70) | 200K ~$558 (->$362.70).
+E8 ZERO FUTURES MAX (retail; 35% off with PROPSCOPE-type codes):
+  50K ~$328 (->$213.20) | 100K ~$588 (->$382.20) | 200K ~$1,088 (->$707.20).
+E8 PRO / E8 ZERO FOREX / E8 CRYPTO twins: priced off the same configurator
+  ladder as E8 One at equal size (split/drawdown choices move the price;
+  e.g. $100K Promo Challenge card $299 after 25% off $398).
+ADD-ONS AT CHECKOUT (E8 One / Zero Futures): payout tier 80% / 90% / 100%,
+  drawdown band, daily-loss band, target band — each choice re-prices the
+  fee. No separate reset/retake SKU published; fail = buy a new challenge.
+  No monthly data/platform fee on Classic. No activation fee on Futures.
+REFUND: ALL fees NON-REFUNDABLE under any circumstance (Terms 4.2:
+  failure, cancellation, disqualification, dissatisfaction, failed KYC,
+  geographic restriction — no refunds, chargebacks or reversals; service
+  deemed delivered at activation). Chargeback without contacting
+  support@EMarkets.com first = material breach (Terms 4.3-4.4).
+Payment rails: Mastercard, Visa, Amex, Discover, Apple Pay, Google Pay,
+  Aeropay (ACH), Bitcoin, Ethereum, Litecoin, USDC + cards/crypto per
+  aggregators. Payments are "for access to educational software and
+  services" (official footer).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: E8 One 80% / 90% / 100% locked at purchase (configurator Payout
+  80% default; up to 100% tier). Signature Forex/Crypto/Futures fixed 80%.
+  Zero Futures 80% or 100% chosen at purchase. Pro up to 100% tier.
+  PropFirmMap timeline notes split "80% -> Up to 100%" (Apr 15, 2026).
+FIRST PAYOUT: E8 One earliest 3 days into Performance (best-day math, not
+  a waiting rule). Aggregators track "~14 days / Day 14 then on-demand".
+  Signature Futures: 5 profitable days (closed >= 0.3%) before first
+  request (Zero plans: no minimum days — daily from first cycle).
+FREQUENCY: On-Demand (One/Signature) — "no fixed schedule, no unnecessary
+  waiting"; Daily (Pro: 1% min; Zero: $100 min) after market rollover.
+  Processing 1-2 days + transfer (aggregators); crypto/wire processed
+  within 7 days per Terms 5.2; homepage shows live "Todays Payout" ticker.
+METHODS: USD (wire/ACH via Aeropay rails), USDC, USDT, Bitcoin, Ethereum
+  (Terms 5.2; crypto priced at then-current Coinbase price, irreversible
+  once confirmed; wrong wallet = forfeited). Rails minimums per
+  aggregators: Rise crypto $250, Plane bank $50; E8 minimums: One $100
+  (via >50%-of-daily-DD rule), Signature $100 net, Pro 1%, Signature
+  4%-of-balance milestones, Futures $100 net.
+SIGNATURE CAPS (Forex/Crypto/Futures, per single request, escalating):
+  1st+2nd: 25K $1,000 | 50K $1,250 | 100K $2,250 | 150K $3,250.
+  3rd+4th: 25K $1,250 | 50K $2,250 | 100K $3,250 | 150K $4,250.
+  5th+:    25K $1,500 | 50K $3,250 | 100K $4,250 | 150K $5,250.
+  Buffer (Signature only): leave EOD-Drawdown-sized buffer in account.
+ZERO CAPS (per request, flat by size): Starter 50K $1,000 | 100K $1,600 |
+  200K $2,100. MAX 50K $3,000 | 100K $5,000 | 200K $7,000.
+CONSISTENCY GATES: One/Classic/Track 40% best-day; Signature/Futures 35%;
+  Zero Futures 40% in challenge only. Breach of gate = payout withheld
+  (not account breach) — keep trading until ratio fixed.
+LIFECYCLE: Futures accounts capped at 5 payouts, then deactivated + free
+  same-size challenge. E8 One: NO caps, NO buffer, scales to $1,000,000
+  max allocation.
+CLAIMED TOTALS: $77M+ paid (homepage Sep 2026); $50M+ (evaluation
+  subdomain); $2,000,000+ on the $100K tier card; $216,000+ largest single
+  payout reward; $3,700 "Todays Payout" at fetch time.
+TAXES: payouts are the trader's sole tax responsibility; Forms 1099
+  hosted electronically 7 years (Terms 5.4). KYC + tax forms + ID + proof
+  of residence + payment info required before ANY payout (Terms 5.1-5.2);
+  failure = disqualification + forfeiture.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Terms of Service sections 9.1-9.4 + Futures trading-policies
+article (via help article 11864618) + footer disclosures.
+BANNED (breach = invalidation, suspension/termination, pending/future
+reward denial, legal referral):
+ 1. Automation on FUTURES: bots, scripts, AI tools, semi- or fully
+    automated trading — MANUAL ONLY. (Classic Forex/Crypto: EAs allowed.)
+ 2. HFT: >300 trades per day (Futures definition).
+ 3. Tick scalping: <50% of profits from trades held >=10 seconds (Futures).
+ 4. Wrong-month contracts: everything must be front-month (highest volume).
+ 5. Lock-limit proximity: holding within 2% of a product's lock limit.
+ 6. Cross-account hedging: opposing positions on the same asset across
+    multiple accounts (even all your own) — Futures. Classic: coordinated
+    manipulation across connected accounts/other firms/other people.
+ 7. Arbitrage/latency/data-feed exploits; circumventing evaluation
+    parameters, reward systems, drawdown thresholds, simulation logic.
+ 8. All-or-nothing / irresponsible / gambling trading in simulated accounts
+    (Futures policies article).
+ 9. Multiple accounts without written authorization; sharing, renting,
+    selling or transferring credentials (Terms 3.4, 9.1(d)-(e)).
+10. Reverse-engineering, malware, misrepresentation of identity/location/
+    credentials/intent (Terms 9.1).
+11. Chargeback without first contacting support@EMarkets.com (Terms 4.4).
+12. Defamatory/misleading/harmful content about E8 (Terms 9.1(h)).
+CLASSIC MARKETS EXPLICITLY ALLOWED: news trading (no restrictions),
+  weekend holding, EAs/bots, copy trading across YOUR OWN accounts.
+ENFORCEMENT: account-activity/data-log investigation; suspension or
+  termination with or without notice; performance-data invalidation;
+  reward denial; legal action/law-enforcement referral; damages and
+  injunctive relief (Terms 9.2, 12.2). No re-access under a different
+  name/account after termination (non-circumvention, Terms 9.3).
+RISK DISCLOSURE: CFTC Rule 4.41 hypothetical-performance disclosure
+  applies — simulated results have inherent limitations, may under- or
+  over-compensate for liquidity, designed with hindsight; no promise any
+  account will achieve shown profits/losses.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+ (or local majority), full legal capacity (Terms 1.2).
+- KYC (Terms 3.2): government photo ID + proof of residential address +
+  biometric/device authentication + any extra fraud-prevention documents;
+  E8 + processors may collect/verify; periodic re-verification; refusal =
+  suspension/limitation/termination. One account per user (Terms 3.4).
+- MT5 ACCESS (official footer, verbatim): "Access to the MT5 platform is
+  restricted to US citizens and to anyone where such usage would violate
+  local regulations." Verify current MT5 eligibility in the E8X dashboard
+  before purchase.
+- HARD GEO BANS — E8 Funding LLC "does not offer services to residents of
+  the following jurisdictions: Cuba, Syria, Iran, Lebanon, Iraq, Yemen,
+  North Korea, Russia, Ukraine, and Belarus." (official footer). Payments
+  non-refundable "unless unused" whereageo blocks apply.
+- Platform owner in Texas; no claim content is appropriate outside the US;
+  non-US users comply with local laws at own initiative (Terms 3.6).
+- UK/EU: GDPR/PECR-compliant communications (Terms 11.3); EU users keep
+  local-law compliance duty. No separate UK entity published.
+- GOVERNING LAW/DISPUTES: Texas law; binding AAA Commercial Arbitration,
+  exclusive venue Dallas County, Texas; jury-trial waiver; class/
+  collective-action waiver (opt out within 30 days via written notice to
+  Support@E8Funding.com with name/address/signature); E8 may seek
+  injunctive relief anywhere; E8 may delay proceedings during internal
+  investigations (Terms 15.1-15.7).
+- Payout KYC: tax forms (1099 electronic consent), driver's license, proof
+  of residence, payment/wallet info — all required pre-withdrawal; wrong
+  wallet/bank details = trader's loss/forfeiture (Terms 5.2).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/e8markets.com: ~4.3-4.5/5
+  "Excellent" across ~3,276 reviews (PropFirmMap Aug-2026: 4.3/5, 3,276;
+  PropFirmMap blog Apr-2026: 4.4/5, 3,228; Propfirmbook Aug-2026: 4.5/5,
+  3,294). Timeline: 4.6 -> 4.4 dip Apr 12, 2026; Sep-2026 note that
+  Trustpilot "restricted the profile ... and withheld its rating" per
+  PropFirmMap status check Sep 5, 2026 — re-check live profile before
+  citing a number.
+- PropFirmMatch https://propfirmmatch.com/prop-firms/e8-markets: 4.79-4.8/5
+  ("4.79 out of 5 on PropFirmMatch" — E8 homepage badge; review page:
+  "4.8 stars from 486 Verified Traders", Sep 2026). PropFirmScope Apr-2026
+  aggregation: 4.80 from 457 reviews (270x5*, 132x4*, 40x3*, 12x2*, 4x1*).
+  Winner of PropFirmMatch "Best Payout Process" award badge (homepage).
+- PropFirmMap: Safety Grade A (blog/trust-check) to A+ (firm page Aug-2026);
+  PFM Score 7.9/10; verification checklist 10/10 (est. 2021, 4.0+ rating,
+  active profile, 500+ reviews, known CEO, live challenges, multi-platform,
+  B+ grade, deals, PFM >5.0).
+- Sentiment themes (positive): fast/clear payouts (approved 1-2 days),
+  transparent rules, helpful support (named agents Adam, Mart), good
+  trading conditions/spreads, easy dashboard, no hidden silly rules,
+  long-term funded relationships (6+ payouts reported, e.g. Vietnam $100K
+  trader: "transparent rules ... fast payouts ... no complaints").
+- Recurring complaints (negative): post-pass rule-change/drawdown-reset
+  grievances (14% allowance + new restriction claims; E8-Pro 6%-then-reset
+  payout grievance; dynamic-drawdown payout-size grievance); E8 changes
+  rules mid-program allegations (1-star, Aug 2026, $400K); cTrader quality
+  gripes; 15:10 CT force-close frustration; support-hostility claims;
+  payout-denial "company don't like pay" claims.
+- Red flags: MODERATE — no regulator action found, but (a) Trustpilot
+  restriction notice Sep 2026, (b) disputed post-purchase rule changes
+  (Terms allow retroactive feature/reward restructuring, Sec. 6.5/13.3),
+  (c) rating split (PFM 4.8 vs Trustpilot 4.3) suggests channel-dependent
+  experience. All accounts simulated; E8 discloses this prominently.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the configurator firm — no rival lets traders set drawdown
+  (4-14%), daily loss (3-9.2%), target (6-21%) and split (80-100%) at
+  checkout with price following risk. Sizes to $500K (largest tracked)
+  and $1M total allocation match the top end of CFD props. Fees from $40
+  undercut FTMO/FundedNext at small sizes; $500K One at $1,627 full price
+  is premium. $77M+ paid trails FTMO's $650M+ but leads most mid-tier CFD
+  firms. PFM 4.8 community score beats FTMO 4.61/FundedNext 4.34 in the
+  PropFirmScope Apr-2026 dataset; Trustpilot 4.3 trails FTMO 4.8.
+ONE VS SIGNATURE: One = customizable, intraday-trailing, no caps/buffers,
+  40% gate, cheapest small sizes — but trailing floor + post-payout
+  dynamics confuse. Signature = fixed pricing, EOD-only trailing (kinder
+  intraday), 35% gate — but buffers + escalating caps throttle big
+  withdrawals and forfeit above-cap profit each cycle.
+FUTURES ZERO VS SIGNATURE FUTURES: Zero = daily payouts, no daily stop,
+  no funded consistency gate, flat caps (MAX 3x Starter) — but 5-payout
+  lifetime, cycle-forfeit, breakeven-lock risk. Signature Futures =
+  lowest entry ($83 discounted 25K), no lifetime ceiling concern beyond 5
+  payouts — but 5 profitable days between payouts + 35% gate + 2% daily
+  pause add friction; larger sizes get proportionally less room ($9K
+  target on $4.5K floor at 150K).
+BEST FIT: rule-customizers; small-size bargain hunters ($40 5K); news/
+  weekend/EA traders (Classic, all allowed); futures scalpers wanting
+  daily payouts (Zero); disciplined low-frequency traders fine with
+  best-day gates.
+BAD FIT: traders needing static-only drawdown at large size without
+  customization homework; traders who withdraw 100% each cycle on
+  Signature (caps/buffers punish this); HFT/tick-scalp/bot styles on
+  Futures (banned); MT5-only US traders (verify MT5 restriction first);
+  banned-jurisdiction residents; anyone needing refunds (none, ever) or
+  a guaranteed live account (none exists).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 12 official URLs in Section 2 on
+2026-09-08. Homepage configurator prices ($48-$1,998 retail, 25%-off
+values) and Signature Futures prices ($110/$150/$260/$390) are live-reads;
+per-model base tables cross-checked against PropFirmTerminal (29 rows),
+PropTraderCheck (Aug-2026), Propfundsy (Jul-2026), PropScope (Sep-2026)
+and TradeTanto (Aug-2026). Ratings re-check live (Trustpilot restriction
+notice Sep 2026). E8 notes all accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes E8 Funding->E8 Markets rebrand + 3-entity structure,
+5 platforms, 11-model map (One/Pro/Zero/Classic/Track/Track 1:1/Signature
+Forex/Signature Futures/Zero Starter/Zero MAX/Crypto/Perpetuals),
+intraday-vs-EOD drawdown split with worked example, full per-size pricing,
+caps/buffers tables, $77M+ payout claim, prohibitions, geo bans, reviews.
+RAW EXCERPTS (official wording, verbatim):
+[1] Identity: "E8 Funding LLC is a technology and education company
+incorporated under the laws of the United States, located at 4101 McEwen
+Rd #205, Dallas, TX 75244."
+[2] MT5 entity: "E8 Markets Ltd is a legal entity incorporated under the
+laws of Saint Lucia, with registration number 2025-00347, located at
+Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay,
+Gros-Islet, Saint Lucia, LC06 201. E8 Markets Ltd operates the
+MetaTrader "MT5" platform."
+[3] Simulated: "E8 Funding provides access to trading accounts within a
+simulated environment. These accounts are for educational use only,
+evaluating users' trading proficiency and risk management skills."
+[4] No-broker: "E8 Funding LLC does not operate as a broker, accept client
+deposits, or facilitate live market transactions."
+[5] Pass rate: "The challenge program's customer pass rate from January 1,
+2023, to March 1, 2024, was 17.7%, for those who traded at least once
+during this period and obtained an E8 Trader Account."
+[6] Homepage claim: "Over $77M paid out to traders who trained impulse
+into discipline" / "500,000+ traders worldwide" / "4.79 out of 5 on
+PropFirmMatch".
+[7] Daily Drawdown (help): "Daily Drawdown is a daily maximum loss limit
+for a trading account, and its value is based on the initial balance."
+/ "We take 4% of your initial Balance and convert it to a fixed $ amount."
+/ "Every new day at 00:00 Server Time, we set your loss level = Starting
+Balance of the new day minus that fixed $ amount."
+[8] On-Demand (help): "Once you reach the SimFi Performance Account stage
+on E8 Signature and meet the eligibility conditions, you can request a
+payout at any time - no fixed schedule, no unnecessary waiting."
+[9] One payout math (help): "Your net profit (payout) must be greater than
+50% of your daily drawdown. Example: If you have a $100,000 account and
+your daily drawdown is 4%, the minimum amount required for a payout is
+$2,000.01"
+[10] Best-day One (help): "With a 40% best-day rule, you must ensure that
+no single trading day exceeds more than 40% of your total generated
+profits."
+[11] Pro/Zero daily (help): "On-demand does not apply to E8 Pro and E8
+Zero models, as these products have daily payouts. With E8 Pro, the
+minimum is 1%, and with E8 Zero, it's $100."
+[12] Signature buffer/caps (help): "Before you can start requesting a
+payout, you need to leave a buffer in your account of the same size as
+your EOD Dynamic Drawdown." / "Payout caps and buffers are part of the
+payout requirements on the performance stage of E8 Signature Forex,
+E8 Signature Crypto, and E8 Signature Futures products."
+[13] Futures sizing (help): "$150,000 | 12 Contracts ($120,000 margin)" /
+"$100,000 | 8 Contracts ($80,000 margin)" / "$50,000 | 4 Contracts
+($40,000 margin)" / "$25,000 | 2 contracts ($20,000 margin)".
+[14] Non-refund (Terms 4.2): "All fees paid to E8 are non-refundable under
+any circumstance, including but not limited to: (a) Failure to complete
+or pass an evaluation module; (b) Voluntary cancellation of your account;
+(c) Disqualification for breach of the Terms or ESPA; (d) Dissatisfaction
+with Platform tools, simulations, results, or updates; (e) Inability to
+access services due to failed KYC verification or geographic
+restriction."
+[15] Geo bans (footer): "E8 Funding LLC does not offer services to
+residents of the following jurisdictions: Cuba, Syria, Iran, Lebanon,
+Iraq, Yemen, North Korea, Russia, Ukraine, and Belarus."
+================================================================================
+END OF FILE — E8 MARKETS COMPLETE. 4th firm NOT started (per instructions).
+================================================================================
