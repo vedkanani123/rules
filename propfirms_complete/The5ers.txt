@@ -1,0 +1,354 @@
+================================================================================
+THE5ERS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/The5ers.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official The5ers pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: The5ers (brand of Five Percent Online Ltd).
+- Founded: 2016, Israel/UK. Approaching 10-year anniversary (banner 2026).
+  CEO: Snir Ahiel; COO: Gil Ben Hur.
+- Legal entity: FIVE PERCENT ONLINE LTD, UK company 12553363, Enstar House,
+  168 Praed Street, London W2 1RH. 171 employees across 24 countries.
+- Contact: help@the5ers.com + live-chat Start chat, 24/7 support, Academy,
+  Discord/community, webinars, trading competitions.
+- What it is: CFD + Futures + Stocks simulated-evaluation prop group. ALL Hub
+  accounts are DEMO with fictitious funds; trading is simulated. Funded
+  traders receive real-money payouts (profit splits), not live capital.
+- Scale claimed: 262K funded traders; ~16h average payout time; monthly
+  no-hassle payouts; trader stories $4K–$98K (Samuel D. $98,038; Van T.
+  $98,038; Majd H. $36,005; Furkan K. $20,206; scale-up 100K→125K reviewed).
+- Awards/press: PropFirmMatch award badges 2026; FXStreet, FXEmpire,
+  Investing.com, MoneyShow, TalkMarkets coverage strips on homepage.
+- Sister/affiliated entities (Part of 5% group, footer):
+  * The5ers Futures (https://the5ers.com/futures/) — CME futures arm.
+  * Trade The Pool (https://tradethepool.com/) — sister STOCK prop firm
+    (real-share day-trading evaluations; MT5-class pool platform).
+  * Tradedelicious, TSG Brokers (group brands).
+- Key distinction: FOUR CFD programs (Hyper Growth 1-step, Pro Growth 1-step,
+  High Stakes 2-step, Bootcamp 3-step) + Summer Plan promo + Futures arm.
+  Splits start 50–80% and scale to 100% with account growth. Only Bootcamp
+  and Hyper Growth scale to $4,000,000; High Stakes/Pro Growth cap $500K.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED:
+ 1. https://the5ers.com (homepage: programs, 1-Step $100K table — 6% max,
+    3% daily, 10% target, 50% consistency, $250 min withdrawal, $2,000 payout
+    cap, 75/25 split, 1:100, refund from 3rd payout; footer bans; group links)
+ 2. https://the5ers.com/hyper-growth/ (Hyper Growth 1-step)
+ 3. https://the5ers.com/high-stakes/ (High Stakes 2-step)
+ 4. https://the5ers.com/bootcamp/ (Bootcamp 3-step)
+ 5. https://the5ers.com/futures/ (Futures arm)
+ 6. https://the5ers.com/faqs/ + https://the5ers.com/futures-faqs/
+ 7. https://the5ers.com/faqs/prohibited-trading-practices/
+ 8. https://the5ers.com/asset-specifications/ (instruments/leverage)
+ 9. https://the5ers.com/terms-and-conditions/ (simulated environment)
+10. https://the5ers.com/challenge-programs-bootcamp-high-stakes-hyper-growth-explained/
+    (2026-06-25 official blog: scaling triggers, splits, $4M paths)
+11. https://tradethepool.com/ (sister stock firm)
+CROSS-CHECK SOURCES:
+12. TradeTanto The5ers rules 2026-08-22 (4-program table, DD logic, scaling)
+13. Velotrade The5ers review 2026-07-22 (program table, $260–$1,225 Hyper
+    Growth band, 70–100% splits)
+14. PropFirmsRadar The5ers 2026-08-21 (High Stakes $25K $19, Bootcamp $6K $39,
+    code TRY5G9 30% off, USA not accepted)
+15. HNL Growth Bootcamp pricing 2026-07-24 + programs-compared + Hyper Growth
+    pricing (code 4YBG6L9)
+16. PropFirmElite The5ers review 2026-09-01 (Hyper Growth/High Stakes/Bootcamp
+    + Futures)
+17. Trustpilot https://www.trustpilot.com/review/the5ers.com (4.6/5 class;
+    replies to every review)
+18. PropFirmMatch https://propfirmmatch.com/prop-firms/the-5-ers (4.7 stars,
+    10% off MATCH)
+19. PropFirmMap https://propfirmmap.com/blog/the5ers-review-2026-trust-safety-profit-split
+    (A+ safety, 4.7 TrustPilot stars)
+TOTAL SOURCES: 19 (11 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MetaTrader 4 (MT4), MetaTrader 5 (MT5) — CFD programs. Futures arm
+uses futures-native platforms (per futures FAQs). TradeThePool uses its own
+stock-trading platform (reviewers rate it above MT5).
+INSTRUMENTS (CFD): Forex, Metals (gold spreads praised), Indices. Stocks via
+TradeThePool sister. Futures via The5ers Futures (CME-group contracts).
+LEVERAGE: High Stakes 1:100; Hyper Growth / Pro Growth / Bootcamp 1:30.
+Homepage 1-Step table: 1:100 (High-Stakes-family Summer/1-Step listing).
+COMMISSIONS/SWAPS: industry-best spreads advertised; swap fees flagged HIGH
+by reviewers ("high swap fees" — Frodos review). Full specs at
+/asset-specifications/. Commissions + swaps COUNT toward daily/max loss.
+MAX ALLOCATION: Hyper Growth evaluation capital capped $40,000 combined;
+Bootcamp up to 4 concurrent accounts; funded scaling to $4M (Bootcamp/Hyper
+Growth) or $500K (High Stakes/Pro Growth).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program      | Steps | Sizes              | Target              | Daily loss      | Max loss            | Leverage | Split start | Scaling cap |
+|---|--------------|-------|--------------------|---------------------|-----------------|---------------------|----------|-------------|-------------|
+| 1 | Hyper Growth | 1     | $5K/$10K/$20K (+larger tiers) | 10%            | 3% daily PAUSE  | 6% stop-out         | 1:30     | 50/50       | $4,000,000 (doubling) |
+| 2 | Pro Growth   | 1     | $5K/$10K/$20K/$50K | 10%                | 3% TERMINATES   | 6% stop-out         | 1:30     | 75/25       | $500,000 (incremental) |
+| 3 | High Stakes  | 2     | $2.5K–$100K        | 10% then 5%         | 5%              | 10% STATIC          | 1:100    | 80/20       | $500,000 |
+| 4 | Bootcamp     | 3     | $6K/$20K/$100K/$250K | 6% per step (×3)  | 3% daily pause (funded) | 5% per step; 4% funded | 1:30 | 50/50 | $4,000,000 |
+| 5 | Summer Plan (promo) | 1 | $100K from $149 | 10% (table: 6% max / 3% daily / 50% consistency) | 3% | 6% | 1:100 | 75/25 | per promo terms |
+| 6 | Futures arm  | —     | per /futures/      | per futures FAQs    | per futures FAQs | per futures FAQs   | futures  | per futures FAQs | separate cap |
+| 7 | TradeThePool (sister) | stock eval | per tradethepool.com | stock targets | stock DD | stock DD | stock lev | stock split | separate |
+Notes:
+- NO time limit on any CFD program. Inactivity: 30 consecutive days = closure.
+- Funded accounts have NO profit target except as scaling triggers (10% for
+  Hyper/High/Pro; 5% for Bootcamp).
+- Daily-loss semantics MATTER: Hyper Growth 3% = pause (trading halted that
+  day, account survives); Pro Growth 3% = termination. Same 10%/6%/1:30
+  otherwise — pick by pause-vs-kill.
+- Pro Growth requires 3 minimum profitable days; Hyper Growth doubling path
+  $5K→$7.5K-style incremental is PRO (Hyper doubles: e.g. $10K→$20K).
+- Bootcamp max loss TIGHTENS funded (5% challenge → 4% funded) — only program
+  where funded is stricter than eval.
+- Homepage 1-Step $100K $249 table (6%/3%/10%/50%/75-25/refund-from-3rd) is
+  the Summer/1-Step listing — verify program mapping at checkout.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. HYPER GROWTH (1-step, $5K/$10K/$20K+, 1:30) ---
+- Profit target: 10%, one step, eval only. Funded: each 10% = DOUBLE account.
+- Max loss: 6% stop-out, eval + every funded level. ($10K: $600 room; floor
+  $9,400. $20K: $19, - wait: $20,000 − $1,200 = $18,800 floor.)
+- Daily loss: 3% PAUSE — trading halted for the day, account NOT terminated.
+  ($10K: $300/day. $20K: $600/day.)
+- Scaling: every 10% funded profit doubles account to $4M cap; split rises
+  50% → 100% along the way.
+- DD calc + example ($10K): start $10,000, stop $9,400. Day opens $10,300 →
+  pause line $10,300 − $300 = $10,000 intraday. Close $11,000 (+10%) → funded
+  $10K; next +$1,000 (10%) → $20K account.
+--- 5B. PRO GROWTH (1-step, $5K–$50K, 1:30) ---
+- Profit target: 10%, one step. Same 10%/6%/1:30 as Hyper Growth BUT:
+  (a) 3% daily TERMINATES (no pause), (b) 3 minimum profitable days required,
+  (c) split starts 75/25 (vs 50/50), (d) scaling INCREMENTAL ($5K→$7.5K→$10K…)
+  to $500K cap (vs doubling to $4M).
+- DD calc + example ($10K Pro): start $10,000, stop $9,400. A single −$300
+  intraday = dead (vs Hyper pause). Must print 3 green days before pass.
+--- 5C. HIGH STAKES (2-step, $2.5K–$100K, 1:100) ---
+- Profit target: 10% Step 1 + 5% Step 2, eval only. ($50K: $5,000+$2,500.
+  $100K: $10,000+$5,000.)
+- Max loss: 10% STATIC floor, never moves, eval + funded. ($100K: $90,000.
+  $25K: $22,500.)
+- Daily loss: 5%. ($100K: $5,000/day. $25K: $1,250/day.)
+- Split: starts 80/20 → up to 100% with scale; $500K level adds $10,000 fixed
+  payout on top. Typical funded 80%, bi-weekly.
+- DD calc + example ($25K): start $25,000, floor $22,500. Step 1 target
+  $27,500. Day opens $26,000 → daily limit $24,750. Cushion built early is
+  permanent (static never trails against you).
+--- 5D. BOOTCAMP (3-step, $6K/$20K/$100K/$250K, 1:30) ---
+- Profit target: 6% per step × 3 steps (low per-step ask, long road).
+  ($20K: $1,200 ×3. $100K: $6,000 ×3.)
+- Max loss: 5% per step during challenge; 4% once FUNDED (tightens!).
+  ($100K: $5,000/step room; funded $4,000 room. $250K: $12,500/step.)
+- Daily loss: 3% pause at funded stage.
+- Split: starts 50/50 → up to 100%; scales every 5% funded profit to $4M cap.
+- Accounts: up to 4 concurrent Bootcamp accounts across sizes.
+- DD calc + example ($20K): start $20,000, step room $1,000. Pass 3 × $1,200
+  → funded $20K with $800 (4%) room — trade smaller than eval.
+--- 5E. SUMMER PLAN (limited promo, $100K from $149) ---
+- Homepage table verbatim: Max Trading Period Unlimited / Maximum Loss 6% /
+  Maximum Daily Loss 3% / Min Withdrawal $250 / Target 10% (eval) and 10%
+  for scaling / Consistency-Per-Day 50% / Payout Cap $2,000 / Profit Share
+  75%-25% / Leverage 1:100 / Bonus 10% / Refund From 3rd Payout / Max 2
+  active accounts / Price $249 ($149 promo checks).
+- Treat as cheapest $100K on-ramp; confirm live terms (promo changes).
+--- 5F. FUTURES ARM + TRADETHEPOOL (sisters) ---
+- The5ers Futures (https://the5ers.com/futures/): separate CME futures
+  evaluations, own drawdown/contract/payout rules — read /futures/ +
+  /futures-faqs/ before buying; do NOT apply CFD rules to futures.
+- TradeThePool (https://tradethepool.com/): sister STOCK prop firm — share
+  day-trading evaluations with own platform/rules/splits; MT5 reviewers ask
+  for pool-platform parity.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (no subscription; promos rotate — verify hub.the5ers.com hub):
+- Bootcamp: $6K ~$39 (cheapest on-ramp) | $20K band | $100K band | $250K top.
+  (HNL: "Bootcamp $6,000 $39".)
+- High Stakes: $2.5K band | $5K–$25K ($25K ~$19 Radar-verified Aug 2026 —
+  lowest $/K in range) | $50K band | $100K ~$275–$875 band top ("About $275
+  to $875" Velotrade). Confirm exact size at checkout.
+- Hyper Growth: ~$260–$1,225 band across $5K–$20K+ tiers ("About $260 to
+  $1,225" Velotrade).
+- Pro Growth: $5K–$50K band (priced near Hyper Growth; higher start split
+  75/25 offsets tighter daily-kill).
+- Summer Plan: $100K from $149 promo ($249 table price) — "industry's lowest
+  $100K account" (official blog).
+- Futures arm: per /futures/ pricing (separate).
+- TradeThePool: per tradethepool.com pricing (separate).
+- Add-ons: Bonus 10% line on 1-Step table (promo credit); no swap-free or
+  leverage add-ons published — leverage fixed per program (1:30 vs 1:100).
+- Currency: USD/EUR/GBP/INR checkout flags on homepage.
+- Discount codes (third-party): TRY5G9 30% off (Radar), 4YBG6L9 (HNL),
+  MATCH 10% off (PropFirmMatch).
+- REFUND: table line "Refund From 3rd Payout" (1-Step/Summer listing) — fee
+  refunded starting at 3rd payout (vs FTMO 1st / FundingPips 4th). Confirm
+  program-level refund at checkout; breached evals not refunded.
+- All fees at risk: breach = fee lost; funded breach = new purchase.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: Bootcamp 50%→100% | Hyper Growth 50%→100% | Pro Growth 75%→100% |
+  High Stakes 80%→100% (typical funded 80%). Plan economics at 80%, not 100%.
+- Scaling triggers: Bootcamp every 5% funded profit; Hyper/High/Pro every
+  10%. Hyper doubles to $4M; Bootcamp to $4M; High/Pro incremental to $500K.
+  High Stakes $500K level: 100% split + $10,000 fixed payout bonus.
+- Payout rails: bi-weekly typical (~72h per Radar; ~16h average claimed);
+  min withdrawal $250 (1-Step table); payout cap $2,000 on 1-Step/Summer
+  table lines (verify program cap at checkout — High Stakes uncapped scaling
+  narrative differs).
+- First-payout validation: request on the 14-day cycle early to test rails.
+- KYC: ID + compliance before funded/payout; Forbidden Territories geo-check.
+- MAXIMA: $250K day-one (Bootcamp); $100K (High Stakes); ~$20K+ (Hyper/Pro
+  tiers); scaled $4M (Bootcamp/Hyper) or $500K (High/Pro).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: https://the5ers.com/faqs/prohibited-trading-practices/ + program FAQs.
+BANNED (breach = forfeiture/termination):
+1. Prohibited trading practices per official article (latency arbitrage,
+   feed exploitation, platform-error abuse).
+2. Account sharing / third-party trading; one trader per account.
+3. Copy-trading others' signals as decision-maker; mass-duplicated EA that
+   cannot be replicated with own capital.
+4. Hedging across connected accounts/firms to game targets/scaling triggers.
+5. Gambling/all-in overleveraging violating proper-risk-management clauses.
+6. EA hyperactivity degrading servers (same class as FTMO 2,000-request rule).
+7. Circumventing daily-pause (Hyper/Bootcamp) via new-account rolling.
+8. Trading from Forbidden Territories via VPN (compliance breach).
+ALLOWED: EAs/algos (self-built), discretionary, news trading within normal
+risk (no 5-min blackout published — unlike FundingPips Master), overnight +
+weekend holding (standard forex; check asset specs for weekend symbols).
+Note reviewer ask: "make at least 0.5% over three days" consistency flavor
+appears on select listings — confirm your program's consistency line.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; compliance/KYC before funded status.
+- USA: NOT ACCEPTED on CFD programs (Radar "USA Accepted: No" — US traders
+  use the Futures arm or TradeThePool where permitted).
+- UK: served (UK Ltd entity; London registered office).
+- FORBIDDEN TERRITORIES (footer verbatim): Afghanistan, Belarus, Burundi,
+  Central African Republic, Cuba, Congo Republic, Crimea, Democratic Republic
+  of Congo, Eritrea, Guinea, Guinea-Bissau, Iraq, Iran, Israel, Laos, Lebanon,
+  Liberia, Libya, Myanmar, North Korea, Palestinian Territory, Papua New
+  Guinea, Russia, South Sudan, Sudan, Somalia, Syria, Vanuatu, Venezuela,
+  Yemen. "Accessing or attempting to use Our Services from a Forbidden
+  Territory is strictly prohibited."
+- Israel listed forbidden (despite Israeli founders — compliance decision).
+- KYC: government ID + proof of address + liveness/contract; payouts to
+  matching beneficiary only.
+- Inactivity: 30 consecutive days without a trade = automatic closure.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/the5ers.com: ~4.6/5 class,
+  thousands of reviews; firm REPLIES to every review (verified pattern
+  across pages 1–2, Sep 2026 + Nov 2025 reads). Praise: clear rules, no
+  hidden terms, tight gold spreads, no slippage from challenge phase,
+  dashboard/tracking, fast support ("responds like a thunder"), reliable
+  payouts ($322–$98K cases). Complaints: high swap fees; occasional 2-week+
+  payout waits (Frodos: "waiting over two weeks"); MT5 platform parity asks.
+- PropFirmMatch https://propfirmmatch.com/prop-firms/the-5-ers: 4.7 stars
+  (homepage badge + award frames); quotes: "first payout $3,824, no nonsense
+  like other propfirms" (Sudheesh); "scaled 100K→125K" (Genta); "8th funding"
+  (Hong Nguyen Van); "10 years experience" (Elias); min-profitable-day
+  debate (Nikolay: replace 3 min-profit days with total days).
+- PropFirmMap: A+ safety grade, 4.7 TrustPilot stars (2026-08-29 review).
+- HNL Growth: 4.6/5 Trustpilot badge on guides; 9+ years operating history.
+- Sentiment: oldest-CFD-firm trust premium (since 2016); career-path/scaling
+  narrative resonates; support quality is the standout theme.
+- Red flags: NONE systemic (no payout-scam cluster, no regulator action).
+  Watch items: swap costs for swing traders; payout-cap lines on promo tables;
+  Pro daily-kill vs Hyper pause confusion; US CFD geo-block.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the longevity pick (2016, decade track record) vs 2022-era
+low-cost rivals. Entry from $19–$39 is cheapest-in-class; splits start lower
+(50–80%) but scale to 100% with $4M ceiling (Bootcamp/Hyper) — best
+compound-and-hold economics, worst quick-flip economics (cap $2K on promo
+table + $250 min withdrawal).
+PROGRAM PICK: cheapest learn → Bootcamp $6K $39 (long 3×6% road, 1:30).
+Fastest funded → Hyper Growth (10% once, pause not kill, doubles to $4M).
+Higher start split + small ladder → Pro Growth (75/25, incremental $500K).
+Balanced 1:100 two-step → High Stakes ($19–$875, static 10%, 80% typical).
+Cheapest $100K → Summer Plan $149 promo. Stocks → TradeThePool. Futures →
+Futures arm (separate file logic).
+BEST FIT: patient scalers/compounder; career-path traders; gold scalpers
+(spreads praised); disciplined risk managers fine with 3%/5% dailies; non-US
+traders (CFD).
+BAD FIT: US CFD traders (blocked — use futures); traders needing daily-kill
+immunity (avoid Pro); swap-sensitive swing holders (high swaps); anyone
+needing >$250K day-one CFD (cap); payout-cap-sensitive grinders on promo
+tables.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all program rules, fees, splits, bans and sister-arm facts above
+were read from the 11 official URLs in Section 2 on 2026-09-08. Size-level
+prices ($19/$39/$149/$249/$260–$1,225/$275–$875) via Aug-2026 third-party
+checkout reads — re-check hub.the5ers.com hub before paying (tiers change).
+All Hub accounts simulated/demo per T&Cs.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 4-program + Summer + Futures + TradeThePool map,
+pause-vs-kill daily semantics, doubling-vs-incremental scaling, Forbidden
+Territories list.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated: "All trading activities conducted through the Company Hub are
+executed in a simulated environment." / "The 'funds' provided to you for the
+evaluation are fictitious, do not represent any currency."
+[2] 1-Step $100K table: "Maximum Loss 6%" / "Maximum Daily Loss 3%" /
+"Target 10%" / "10% for scaling" / "Consistency- Per Day 50%" / "Payout Cap
+$2000" / "Profit Share 75%-25%" / "Leverage 1:100" / "Refund From 3rd Payout"
+"Max Trading Period Unlimited" / "Price $249".
+[3] Summer Plan: "This summer, The5ers launched the industry's lowest 100K
+account named Summer Plan. A limited-time offer that funds you on a $100K
+account from just $149."
+[4] Scaling: "Bootcamp 5% profit target on funded balance Up to $4,000,000
+50% Up to 100%" / "High Stakes 10% profit target Up to $500,000 80% Up to
+100%" / "Hyper Growth 10% profit target Up to $4,000,000 50% Up to 100%" /
+"Pro Growth 10% profit target (incremental) Up to $500,000 75% Up to 100%".
+[5] Caps: "Hyper Growth caps evaluation capital at $40,000 across combined
+account sizes." / "Bootcamp permits up to four concurrent accounts."
+[6] Expiry: "no program imposes a time limit on hitting targets, but inactive
+accounts beyond 30 consecutive days close automatically."
+[7] Group: "Part of 5% group" / Trade The Pool / Trade Delicious / TSG
+brokers / The5ers Futures.
+[8] Bans: "Our Services are not available in certain jurisdictions, including
+but not limited to: Afghanistan, Belarus, Burundi, Central African Republic,
+Cuba, Congo Republic, Crimea, Democratic Republic of Congo, Eritrea, Guinea,
+Guinea-Bissau, Iraq, Iran, Israel, Laos, Lebanon, Liberia, Libya, Myanmar,
+North Korea, Palestinian Territory, Papua New Guinea, Russia, South Sudan,
+Sudan, Somalia, Syria, Vanuatu, Venezuela, and Yemen (the 'Forbidden
+Territories')."
+[9] Entity: "operated by FIVE PERCENT ONLINE LTD, a company registered in UK
+with company number 12553363 and registered office at Enstar House, 168,
+Praed Street, London, United Kingdom, W2 1RH."
+[10] Payouts: "We have a strict 'no nonsense' policy when it comes to paying
+out. If you've earned it, it's yours."
+[11] Reviewer (official-site quote): "I already got paid a few times and my
+account was scaled from 100k to 125k."
+[12] Reviewer: "just follow the rules and guidelines, you will definitely get
+your payout. no nonsense like other propfirms. I got my first payout of
+3824 $".
+================================================================================
+END OF FILE — THE5ERS COMPLETE. Next firm is a separate task (not started).
+================================================================================

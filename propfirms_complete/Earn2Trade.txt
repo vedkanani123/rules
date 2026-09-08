@@ -1,0 +1,222 @@
+================================================================================
+EARN2TRADE — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Earn2Trade.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Earn2Trade pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Earn2Trade LLC (E2T).
+- Founded: 2016-2017 (9-10 years operating; second-oldest active futures prop
+  after Topstep). HQ: 30 N Gould St STE 4000, Sheridan, WY 82801, USA.
+- Contact: https://help.earn2trade.com/en/ Help Center, Discord (members badge),
+  WhatsApp +1-337-606-6535, email-obfuscated support, live support team
+  (named agents: Rahul, Lakshay, Marlene, Ouijdane, Javier, Felipe).
+- What it is: Futures-only education + evaluation prop firm. Trader Career
+  Path (TCP, scale-up ladder) + Gauntlet Mini (direct-size) evaluations are
+  SIMULATED; funded via partner prop firms Helios Trading Partners and Appius
+  Trading Limited as LiveSim or Live accounts.
+- Scale: Trusted by 10,000+ traders; PropFirmMatch 3,086 likes; published pass
+  rate 8.89% in 2025 (subscriptions passed vs new); 5.23% of passers reached
+  Live (94.77% LiveSim); 18.04% of Live and 18.20% of LiveSim had at least one
+  withdrawal in 2025.
+- Programs: Trader Career Path ($25K/$50K/$100K start, scale to $400K) and
+  Gauntlet Mini ($50K-$200K direct size). Both 1-step.
+- Key distinction: TCP scales a small start upward through milestones; Mini
+  gives target size immediately. Both convert EOD eval drawdown to live-trailing
+  when funded — the catch to plan for.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://earn2trade.com (homepage: TCP/Gauntlet Mini, platforms, withdrawals,
+    LiveSim/Live stats, pass-rate disclaimer, instruments)
+ 2. https://earn2trade.com/trader-career-path (TCP details reference)
+ 3. https://earn2trade.com/gauntlet-mini (Gauntlet Mini details reference)
+ 4. https://help.earn2trade.com/en/ (Help Center index)
+ 5. https://help.earn2trade.com/en/articles/3224507-what-is-the-maximum-drawdown-on-the-trader-career-path-and-the-gauntlet-mini-challenges (max DD tables)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. PropFirmMap Earn2Trade Review 2026-04-08 (9 years, 13 platforms, EOD->live catch)
+ 7. DamnPropFirms Earn2Trade Review 2026-08-29 (DGT 7.5, TCP vs Mini)
+ 8. DamnPropFirms Gauntlet Mini $50K/$100K/$200K plan pages (targets, DLL, 30% consistency)
+ 9. ResponsibleTrading Earn2Trade Review 2026-05-11 (8.3/10, 4.7 Trustpilot, 8.89% pass)
+10. BrokerAnalysis Earn2Trade Review 2026-08-29 (tiered split, $400K scale)
+11. Trustpilot https://www.trustpilot.com/review/www.earn2trade.com (4,892-4,969 reviews)
+TOTAL SOURCES: 11 (5 official + 6 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (13, best-in-class breadth):
+- Tradovate, NinjaTrader, TradingView, Rithmic (RTrader Pro), BlackArrow,
+  Finamark, plus Quantower, Sierra Chart and others via Rithmic/CQG.
+- Journalytix journaling license included; 60-lesson Beginner Crash Course +
+  live webinars included with TCP.
+- Data: CME-approved feeds via Tradovate/NinjaTrader/Rithmic; dashboard tracks
+  progress; connection-issue restorations documented in reviews.
+INSTRUMENTS: Futures only on CME, COMEX, NYMEX, CBOT. NO stocks/options/forex/
+  crypto/CFDs.
+CONTRACT LIMITS: size-tiered with strict scaling rule (breach = fail even 1 lot
+  over; no safeguard — must self-enforce). Exact caps per Account Types chart;
+  micros share pool with minis.
+LEVERAGE: exchange margin; label is virtual-size label.
+COMMISSIONS/FEES: exchange + execution counted in net P/L.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Sizes | Target | Max DD | DLL | Min days | Consistency | Split | Fee model |
+|---|---------|-------|--------|--------|-----|----------|-------------|-------|-----------|
+| 1 | Gauntlet Mini | 50K/100K/150K/200K (+25K variants) | $3K/$6K/$9K/$12K | $2K/$3K/$4.5K/$6K EOD->live | $1.1K/$2.2K/$3.3K/$4.4K | 10 days | 30% eval + funded | 80% (tiered TCP: 50% below tier e.g. $3K on TCP100, 80% above) | monthly sub $170/$300/$350/$550 (from $150 TCP25) |
+| 2 | Trader Career Path | 25K/50K/100K start -> scale $400K | $1,750 (25K) / $3K (50K) / $6K (100K) | $1.5K/$2K/$3K EOD->live | $0.55K-1.1K class | 10 days | 30% eval + funded | same 80% ladder | monthly sub $150/$190-200/$350 class |
+Notes:
+- Both 1-step; pass one eval = funded. No minimum withdrawal performance target
+  beyond consistency + buffer.
+- Activation $139 on all accounts (deducted from profits on first withdrawal,
+  not upfront — no upfront activation fee).
+- Monthly sub + auto-reset each renewal; no subscription once funded.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. GAUNTLET MINI (direct-size, flagship) ---
+- Targets: $3K (50K) / $6K (100K) / $9K (150K) / $12K (200K); DD $2K/$3K/$4.5K/$6K.
+- Drawdown: EOD-TRAILING in eval (intraday peaks ignored if close lower);
+  converts to LIVE-TRAILING when funded (every tick trails). Core catch:
+  eval breathing room disappears on funded — adapt sizing before passing.
+- DLL: $1,100 (50K) / $2,200 (100K) / ~$3,300 (150K) / $4,400 (200K); breach = fail.
+- Min days: 10 trading days (must log 10 even if target hit day 1).
+- Consistency: 30% — no single day above 30% of total profit (eval AND funded).
+  Tightest cap in space; plan 4+ balanced days.
+- Contracts: strict scaling caps; 1 lot over = breach, no platform block.
+- News: allowed, can trade through majors (official Why-Choose + DGT: News Allowed).
+--- 5B. TRADER CAREER PATH (scale-up ladder + education) ---
+- Start $25K ($1,750 target, $1,500 DD) / $50K ($3K/$2K) / $100K ($6K/$3K);
+  hit milestones + withdrawals to upgrade toward $400K fixed-drawdown top.
+- Same EOD->live conversion, 10 days, 30% consistency, DLL, contract scaling.
+- Includes 60 lessons + webinars + Journalytix; cheaper $50K ($114-190/mo) than
+  Mini $50K ($136-170/mo) but structured curriculum.
+- Best for newer traders valuing learning + largest $400K ladder.
+--- 5C. FUNDED (LiveSim / Live via Helios/Appius) ---
+- LiveSim (94.77% of funded): sim with real payouts; Live (5.23%): direct
+  exchange experience. Both withdrawable; LiveSim is normal, not a demotion.
+- No recurring sub once funded; $139 activation netted from first withdrawal.
+- Weekly withdrawals from $100+, uncapped, no extra performance target.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+GAUNTLET MINI MONTHLY (list; promos 50-60% off common):
+- 50K: $170/mo ($136 variant) + $139 activation = $275-309 true first-month.
+  DGT code 50% off -> $85; locked60 60% off -> ~$54-68.
+- 100K: $300-315/mo + $139 = ~$391 true first-month; DGT -> $150.
+- 150K: $350/mo + $139 = $419; 200K: $550/mo + $139 = $579; DGT 200K -> $275.
+TCP MONTHLY: 25K $150 ($120 promo) / 50K $190-200 ($114 promo) / 100K $350
+  ($280 promo), each + $139 activation netted from profits.
+CURRENCY: USD; cards/PayPal/BitPay in; Rise out.
+ADD-ONS: education + Journalytix included; auto-reset included each renewal;
+  no platform fee beyond sub + $139.
+REFUND: subs consumed monthly, NOT refunded; failed evals not refunded;
+  $139 netted only if you reach withdrawal (no upfront loss if never funded).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% standard; TCP tiered: 50% below tier threshold (e.g. $3K on TCP100),
+  80% above. No 90-100% tier (fixed 80% = con vs 90%+ peers).
+- Cadence: weekly from $100+, no extra target; monthly headline on some tables
+  = slowest tier — verify dashboard (weekly vs monthly varies by account vintage).
+- Methods: Rise (official payouts-via). Processing days; reliable when rules met.
+- Caps: uncapped per DGT plan pages.
+- Scaling: TCP ladder to $400K fixed-drawdown (largest single-firm ladder);
+  Mini holds size bought; multiple accounts permitted per support.
+- Live path: LiveSim default, Live possible (5.23%); both withdrawable.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. DD/DLL/contract breach = fail (strict scaling, no safeguard).
+2. 30% consistency enforced eval + funded (payout hold if breached).
+3. Copy/bot exploitation, HFT/latency abuse, error exploitation banned.
+4. Must respect platform vs dashboard sync (dashboard lag does not excuse breach).
+5. News allowed; no blackout — but reckless gambling vs discipline reviewed.
+Consequences: eval fail (auto-reset next cycle), funded breach (account loss),
+  payout denial if consistency/contracts violated.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Futures experience recommended (8.89% pass rate; not for beginners
+  without course work).
+- USA: SERVED (Wyoming LLC; US payouts via Rise).
+- International: most countries; 25 restricted (check-by-country page);
+  Dubai franchise services internationals per help center.
+- KYC: ID + payout-method verification at funded activation/first withdrawal.
+- Education accounts are personal; sharing banned.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/www.earn2trade.com: 4.6-4.7/5
+  from 4,693-4,969 reviews (ResponsibleTrading 4.7 May 2026; PropFirmMap 4.6;
+  DGT 4.6; BrokerAnalysis 4.7 from 4,400+). Among highest in futures.
+  Replies to reviews; fast-support praise (Rahul/Lakshay/Marlene named).
+- Sentiment: positives on clear rules, structured education, new dashboard,
+  responsive support, reliable payouts; negatives on unforgiving strictness
+  (1-lot-over breach, slippage into DLL, scaling-rule surprise), dashboard-lag
+  confusion, monthly (slow) payouts, fixed 80% split.
+- Third-party: ResponsibleTrading 8.3/10; BrokerAnalysis 8.5/10; PropFirmMap
+  7.2/10 Verdict, Safety A+, PFM 3.2; DGT 6.3-7.5 plan scores.
+- Red flags: NONE systemic (9-10yr operation, partner-firm funded, published
+  pass rates). Watch: EOD->live conversion, 30% consistency, $139 fee math.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX/TOPSTEP: E2T education + $400K ladder + news-freedom vs Apex 100%
+  first-$25K + 20 accounts vs Topstep 90% + instant. E2T 80% fixed + slower
+  payouts trail peers; E2T EOD eval is kinder than Apex intraday.
+VS TPT: both EOD-eval/live-funded shift; TPT day-one vs E2T weekly/monthly.
+BEST FIT: newer-to-intermediate futures traders wanting courses + journaling +
+  structured ladder to $400K, news traders, 13-platform choice.
+BAD FIT: traders needing 90%+, daily instant payouts, no-consistency, or
+  static drawdown.
+RULE OF THUMB: start TCP $50K promo ($114) for learning or Mini $50K ($85 DGT)
+  for direct size; trade 10+ balanced days under 30% each.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all TCP/Mini targets, DDs, DLLs, consistency, splits, fees and
+payout rails above were read from the 5 official URLs in Section 2 on 2026-09-08
+and cross-checked to Apr-Aug-2026 third-party tables sourced to E2T Help Center.
+Promos (60% locked60, 50% DGT, RESPONSIBLE) rotate — re-check checkout.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes TCP vs Mini split, EOD->live catch, 30% consistency,
+$139 profit-netted activation, $400K ladder, Trustpilot 4.6-4.7 context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Paths: "Choose your starting level: $25K, $50K or $100K virtual account ...
+ Scale up to $400K with a fixed drawdown" (TCP) / "Choose your evaluation:
+ $50K-$200K virtual account ... matches your selected evaluation size" (Mini).
+[2] Withdrawals: "Withdraw weekly from $100+. No additional performance targets
+ required to withdraw." / "No Upfront Activation Fees ... deducted from
+ profits — not your funds — only on your first withdrawal."
+[3] Days: "No Minimum Trading Days ... as soon as you hit the profit target and
+ 30% consistency rate" (homepage) vs 10-day plan tables — dashboard governs.
+[4] News: "Can Trade News ... with no restrictions."
+[5] Live: "You may transition directly to a live account after passing the
+ evaluation" / "Of candidates who passed ... 5.23% traded a Live account, and
+ 94.77% traded a LiveSim account."
+[6] Pass rate: "In 2025, 8.89% of candidates passed the Trader Career Path /
+ Gauntlet Mini examinations."
+[7] Instruments: "permitted to trade Futures products only, listed on ... CME,
+ COMEX, NYMEX & CBOT."
+[8] Platforms: "Trade on Leading Platforms" — Tradovate, NinjaTrader, BlackArrow,
+ TradingView, Finamark, Rithmic.
+================================================================================
+END OF FILE — EARN2TRADE COMPLETE. Next firm is a separate task (not started).
+================================================================================

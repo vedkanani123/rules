@@ -1,0 +1,341 @@
+================================================================================
+FUNDERPRO — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FunderPro.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FunderPro pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FunderPro (operator: FunderPro Ltd, Malta C 104558; Saint Lucia
+  vehicle FunderPro Saint Lucia Ltd; owner cited as Red Acre Family Office).
+- Founded/CEO: launched 2023 under CEO Gary Mullen; CEO Tim Plummer took over
+  June 2026 (FundedTrading read).
+- Contact: 24/7 live chat; support centre https://support.funderpro.com;
+  Discord community; affiliate programme (up to 20% revenue share).
+- What it is: CFD + FUTURES simulated-evaluation prop firm. ALL accounts are
+  DEMO accounts with fictitious funds; trading is simulated. Funded traders
+  receive real-money Rewards (profit splits), not live capital. Homepage
+  repeats: "All trading activity takes place in a simulated trading
+  environment. Funds allocated are fictitious."
+- Scale claimed: $22,000,000+ paid to traders + $15M+ to affiliates;
+  WhatProp-verified reward certificates (e.g. Warren J. $3,881.18, David S.
+  $6,651.32); firm-published challenge pass rate 7.35%.
+- Trust signals displayed: "Rated excellent on Google and Myfxbook" badge.
+- Broker sibling: NextTrade (FSC Mauritius 223260 / GB25204563) CFD broker —
+  separate product, TradeLocker/MT5, no EU/UK/US/CA/AU clients.
+- Futures home: https://funderprofutures.com (Beginner / Mid-Level /
+  Professional vertical; PropScore 65/100).
+- Key distinction: CFD sells THREE evaluation flavours (One-Phase 1-Step,
+  Classic 2-Phase, Pro 2-Phase) + Instant — STATIC (non-trailing) drawdown is
+  the headline edge ("No Trailing Drawdown"), but weekend holding is a PAID
+  add-on and Pro fees are NOT refunded. Futures is a separate MONTHLY-
+  subscription vertical with EOD-trailing + Daily Pause. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://funderpro.com (homepage: $22M+ claim, MT5/cTrader/TradeLocker
+    rails, product table Classic $100K $539 / 10%+5% / 5%+10%, leverage
+    ladder, Instant from $79/$100-first-reward, daily-rewards pitch,
+    certificates, FAQ index, NextTrade disclosure)
+ 2. https://funderpro.com/rewards/ (daily-rewards explainer: 1%-profit
+    anytime requests, 1-working-day processing)
+ 3. https://support.funderpro.com (official FAQ centre: 5% Pro/Classic daily,
+    3% One-Phase daily, 5pm-EST balance-based day, overall-drawdown,
+    reward-frequency, news/weekend, EA, hidden-fee, banned-country answers)
+ 4. https://funderpro.com/checkout/ (challenge + Instant checkout flows)
+ 5. https://funderprofutures.com/how-it-works (futures mechanics page)
+ 6. support.funderprofutures.com Beginner / Mid-Level / Professional guides
+    (post-15-Jun-2026 rulebooks: 6% target, EOD-trailing, Daily Pause,
+    40%/50% consistency, reward ladders)
+ 7. https://funderpro.com/become-a-funderpro-affiliate/ (affiliate terms)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 8. PropFirmMap FunderPro Futures review 2026-08-11 (11-plan Beginner/Mid/
+    Professional tables $79-$339/mo, activation $0/$129/$119, EOD-lock,
+    40%/50% consistency, request windows, competitor ladder)
+ 9. FundedWiki FunderPro Futures review 2026-06-05 (pre-Jun-2026 legacy:
+    60→70→80% ladder, 45% target-inflating consistency, 5x$200 gate,
+    no-weekend-hold, Quantower/ATAS/DeepCharts)
+10. PropScorer FunderPro Futures review (PropScore 65/100, Health 50/100,
+    rank #34, ~8h processing claim, young-arm caution)
+11. TradingFinder FunderPro Futures review 2025-05-13 (4-size $79-$299/mo
+    table, $129 activation, VolSys/VolBook, RISE rails, 4.0 parent Trustpilot)
+12. BrokerAnalysis FunderPro pricing 2026-08-29 (7-size $69-$989 Classic
+    table, 80%/90% splits, MT5/cTrader, bi-weekly vs on-demand map)
+13. FundedTrading FunderPro review 2026-07-01 (8.3/8.4 scores, 3.9/1,600+
+    Trustpilot, Jan-2026 warning label, CEO handover, pass rate 7.35%,
+    leverage matrix, add-on trap analysis)
+14. PropifyCompare FunderPro review 2026-05-18 (Propify 67/100, $989/$1,319
+    $100K math, $9.89-$13.19 per $1K, Malta entity, weekend add-on flag)
+15. TheTrustedProp FunderPro review 2026-01-01 (TTP 60/100, 1,502 reviews /
+    3.0 with 447 one-star, scaling-to-$5M criteria, small-first advice)
+TOTAL SOURCES: 15 (7 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CFD PLATFORMS: MetaTrader 5 (MT5 — NOT available for US clients),
+cTrader, TradeLocker (web/mobile/desktop). Choose at purchase.
+FUTURES PLATFORMS: Quantower, ATAS, DeepCharts (+ DeepMap; legacy VolSys/
+VolBook reads). CME Level 1 data free; other exchanges/Level-2 paid monthly
+add-ons expiring month-end.
+CFD INSTRUMENTS: FX, indices, metals, oil/commodities, crypto, stocks
+(70+ on NextTrade sibling; prop side per contract specs).
+FUTURES INSTRUMENTS: CME, COMEX, NYMEX, CBOT, EUREX (53 assets).
+CFD LEVERAGE (homepage table): One-Phase — Forex 1:50; metals/oil/indices
+1:10; crypto 1:2. Classic/Pro — Forex 1:100; metals/oil/indices 1:30;
+crypto 1:2. Funded leverage steps down on some tracks (Classic 1:100 eval /
+1:50 funded per FundedTrading). Plan panel governs.
+FUTURES CONTRACTS: 5/50 ($50K) → 10/100 → 15/150 → 20/200 ($200K); funded
+starts lower (2/20 at $50K) and unlocks with profit (+$5K = full).
+COSTS: standard spread/commission; swaps on overnight holds; no monthly CFD
+data fee; futures exchange data add-ons as above.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CFD (one-time fee, unlimited duration, STATIC drawdown):
+| Program      | Phases | Target        | Daily DD | Max DD   | Consistency | Split        | Rewards      |
+|--------------|--------|---------------|----------|----------|-------------|--------------|--------------|
+| One-Phase    | 1      | 10%           | 3%       | 6% static| 40% funded  | 80% (90% add-on) | bi-weekly |
+| Classic 2-Ph | 2      | 10% + 5%      | 5%       | 10% static | NONE      | 80% (90% add-on) | bi-weekly |
+| Pro 2-Phase  | 2      | 10% + 8%      | 5%       | 10% static | plan rule  | 90% (weekly free) / 80% daily | DAILY or weekly |
+| Instant      | 0      | none          | plan panel | plan panel | plan rule | 80-90% class | from $100, ~1 day |
+FUTURES (monthly subscription, EOD-trailing, 6% target):
+| Type         | Sizes          | Sub/mo        | Activation | Trail DD | Daily (funded) | Split | Cadence |
+|--------------|----------------|---------------|------------|----------|----------------|-------|---------|
+| Beginner     | 50/100/150K    | $79/$149/$219 | $0         | 4%/3%/3% | none eval / 2% funded (pause) | 80% flat | 5x$100+ days, 0.5-2%/req |
+| Mid-Level    | 50/100/150/200K| $89/$149/$229/$339 | $129   | 4%/3%/3%/3% | 2% pause    | 80→85→90% | 5x$200+ days, $200+, 3-7%/req |
+| Professional | 50/100/150/200K| $219+         | $119       | 4%/3%/3%/3% | 2%→25% pause | 80% flat | 14-day, 3% buffer, to $10K/req |
+Notes:
+- Pre-15-Jun-2026 futures accounts stay on legacy terms (45% consistency,
+  60/70/80% ladder) — no migration.
+- No minimum eval days anywhere (CFD + futures); 30-day funded inactivity
+  rule (CFD) / 30-day funded termination (futures); CFD challenge has no
+  deadline, futures rebills every 30 days until pass/cancel.
+- CFD max $200K/account ($100K Instant), scaling to $5,000,000 (10%/cycle,
+  2+ payouts/stage, 2x-5x growth every 3 months). Futures max 5 funded
+  accounts, to $200K/size.
+- Weekend holding: CFD paid ADD-ON (not in base fee); futures NO weekend
+  holding at all (force-flat Fri 15:45 CT).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CFD ONE-PHASE ---
+- 10% single target; 3% daily (balance-based, 5pm EST day start); 6% STATIC
+  overall; completable in 3 days; cheapest base price; 40% funded consistency;
+  80% split (90% add-on); bi-weekly rewards; fee refunded with 1st reward.
+--- 5B. CFD CLASSIC 2-PHASE (beginner pick) ---
+- 10% Phase 1 + 5% Phase 2 (some reads cite 8% P2 — panel governs); 5% daily;
+  10% STATIC; 4 min days/phase ($100K card); unlimited duration; NO
+  consistency rule; news trading YES; weekend YES with add-on; 80% split
+  (90% add-on); bi-weekly; fee refunded with 1st reward. ($100K: $10K then
+  5% targets; $5K/$5K daily; $10K static floor.)
+--- 5C. CFD PRO 2-PHASE (intraday pick) ---
+- 10% + 8%; 5% daily; 10% static; higher leverage; fewer restrictions; weekly
+  option = 90% split FREE; daily option = anytime requests at ≥1% profit
+  (even multiple/day) at 80%; fee NOT refunded ($1,319 at $100K).
+--- 5D. CFD INSTANT ---
+- Skip eval to $100K; news allowed; overnight + weekends holdable; first
+  reward after $100; ~1-working-day processing; split/fee per panel.
+--- 5E. FUTURES BEGINNER ---
+- 6% target ($3K/$6K/$9K); EOD-trailing 4%/3%/3% locking at start (permanent
+  after 1st reward); NO daily pause in eval; 2% pause funded; 40% eval / 50%
+  funded consistency; news open in eval, 2-min blackout funded; 80% flat;
+  5x$100+ days; 0.5-2% per request; no activation fee.
+--- 5F. FUTURES MID-LEVEL ---
+- Same target/trailing; 2% pause funded; 80→85→90% ladder; 5x$200+ days;
+  $200 min; 3-7% max/request scaling with payout count; $129 activation.
+--- 5G. FUTURES PROFESSIONAL ---
+- Same target/trailing; 2%→25% expanding pause with buffer; 80% flat; 14-day
+  cycle; 3% buffer before 1st reward; to $10,000/request; $119 activation.
+--- 5H. NEWS / WEEKEND / EAs (CFD) ---
+- News trading ALLOWED (homepage badge); weekend holding YES with add-on;
+  overnight permitted (swaps apply); scalping permitted; EAs/bots ALLOWED
+  ("Your EAs Allowed"); Swing option on all challenges.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CFD ONE-TIME (Classic anchor, BrokerAnalysis; One-Phase same tier):
+5K $69 | 10K $109 | 25K $219 | 50K $319 | 100K $539 | 150K $799 | 200K $989.
+Pro 2-Phase anchor: $100K $1,319 (non-refundable). Swing variant ≈ +$10 over
+base at small sizes. Instant: from $79.00 (to $100K max).
+ADD-ONS (paid, non-refundable): weekend-holding; 90% split upgrade (One-Phase/
+Classic); leverage/news/region variants per checkout. No reset upsell
+published on CFD.
+REFUND: Classic + One-Phase fees 100% refunded WITH FIRST funded payout
+("Price (will be processed with 1st reward)" on product cards). Pro NEVER
+refunded. Add-ons never refunded. Failed evals not refunded.
+FUTURES MONTHLY (recurring to pass/cancel; resets $60-$289): Beginner
+50K $79 / 100K $149 / 150K $219; Mid-Level 50K $89 / 100K $149 / 150K $229 /
+200K $339; Professional from $219 ($50K; $119 activation). Activation:
+Beginner $0, Mid-Level $129, Professional $119. Legacy pre-Jun-2026 split
+ladder excluded from new purchases.
+PAYMENT METHODS: cards (Visa/Mastercard/Amex), crypto, bank/wire for
+challenges; RISE for futures payouts (fiat + USDC/USDT).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CFD SPLIT: 80% One-Phase/Classic (90% add-on); Pro 90% weekly-free / 80%
+daily; Instant 80-90% class. First-payout fee refund (Classic/One-Phase).
+FREQUENCY: Pro daily (anytime ≥1% profit, multiple/day) or weekly; One-Phase/
+Classic BI-WEEKLY ($100 minimum, first after ~7 days). Instant from $100 in
+~1 working day. Processing aim: 1 working day from approval; marketing
+average 8 hours; "Daily Rewards" = request any qualifying day on Pro-daily.
+GATES: KYC (government ID + proof of address <6 months); no open-breach
+state; 30-day funded inactivity rule; 40% funded consistency (One-Phase).
+METHODS: cards/crypto/bank-wire (CFD); RISE (futures). Up-to-5M scaling:
+10%/3-month cycles, 2+ payouts/stage, 2x-5x steps from $25K base.
+FUTURES GATES: Beginner 5x$100+ days (0.5-2%/req, 80% flat); Mid-Level
+5x$200+ days ($200+, 3-7% cap, 80→85→90%); Professional 3% buffer + 14-day
+cycle to $10K/req (80% flat). Same-day processing claimed; $100 floor post-
+3rd reward; daily requests after 3rd (legacy) / per-type cadence (current).
+Drawdown LOCKS at start after 1st reward — downside capped permanently.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + verified)
+================================================================================
+BANNED (review-fail, reward denial, termination):
+1. Breaching balance-based daily (5pm-EST-reset) or static overall limits.
+2. 40-50% consistency breach at reward (keep trading, no auto-fail — except
+   legacy futures eval target-inflation: excess over 45% ADDED to target).
+3. Gap/overnight-exploit holding "solely to exploit gaps" (futures); weekend
+   holding without add-on (CFD) / any weekend hold (futures — force-flat).
+4. Third-party / multi-profile account management; shared-IP/VPN overlap
+   patterns (top 2026 denial template — see Section 10).
+5. Lot-size inconsistency flags at payout review (second denial template).
+6. Chargebacks/disputes (standard ban).
+ALLOWED (explicit): news trading; EAs/bots; scalping; overnight (swaps);
+swing on all CFD challenges (add-on for weekend); copy-trader across up-to-5
+futures accounts (Trade Copier feature).
+CONSEQUENCES: eval fail (rebuy) → reward denial → account closure; futures
+Daily Pause is explicitly NON-fatal (freeze to next 16:05 CT session).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- 18+. No qualifications. One-trader-one-beneficiary; card ownership rules.
+- USA: MT5 NOT available for US clients (Propify); US otherwise served on
+  TradeLocker/cTrader rails. NextTrade sibling EXCLUDES EU/UK/US/CA/AU —
+  do not confuse the two brands.
+- Banned-country list exists ("Are there countries I cannot trade from?"
+  FAQ) but is not enumerated on fetched pages — re-check support centre
+  before purchase from sanctioned/high-risk regions.
+- KYC: government ID + proof of address (<6 months) before rewards; futures
+  KYC before first reward; beneficiary match required.
+- VPN/VPS/shared networks: highest-risk behaviour at this firm in 2026 —
+  use a single clean residential IP, no shared connections (Section 10).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot (CFD parent): 3.0/5 from 1,502 (TTP Jan-2026: 56% five-star,
+  30% one-star, 447 one-star) → 3.9/5 from 1,600+ (FundedTrading Jun-2026) /
+  754 comments 78% positive 4.0 (TradingFinder). Futures has NO standalone
+  profile (PropScorer: Trustpilot n/a). TTP Trust Score 60/100; Propify
+  67/100; PropScorer futures 65/100 (Health 50/100).
+- January 2026 consumer-warning label: Trustpilot detected BOTH fake one-star
+  waves (no matching trader records) AND bot-like five-star runs; firm
+  cooperating with Content Integrity Team (FundedTrading). One-star count
+  still climbed 424→447 Apr-May 2026 (rival tracker).
+- Recurring complaint template (2026): payout denied over IP-overlap or
+  lot-size inconsistency with undisclosed detection triggers; problems
+  surface at 2nd/3rd request after a clean 1st payout (TTP advice: start
+  small, test the full payout ladder before sizing).
+- Positive themes: 8-hour average processing; static (non-trailing) CFD math;
+  daily Pro rewards; responsive support; WhatProp certificate trail.
+- Red flags: MODERATE — warning label + denial-template cluster + CEO
+  handover + below-sector 3.9 vs 4.5+ peers. No regulator action, no mass-
+  termination proof; mechanics (not trust) still rate well.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the static-drawdown daily-payer — rare no-trail CFD math +
+Pro-daily cash rhythm at 80-90%, vs FTMO trailing/BlueGuardian Shield peers.
+Price is top-quartile upfront ($989/$1,319 per $100K) but Classic/One-Phase
+net to $0 on first payout for passers; futures Beginner ($79, $0 activation,
+no eval daily-stop) is the value end of its own ladder.
+MODEL PICK: Classic = no-consistency beginner rail. One-Phase = fastest
+funded (3 days) with 40% leash. Pro-weekly = free 90% for patient withdrawers;
+Pro-daily = cash-flow for ≥1%-a-day traders (forfeit refund). Instant =
+skip-eval shortcut. Futures Beginner = cheapest funded ticket; Mid-Level =
+climb to 90%; Professional = $10K-ticket size.
+BEST FIT: static-DD purists; EA/bot traders (explicitly allowed); daily-
+income Pro traders; patient scalers eyeing $5M; clean-IP single-machine
+traders who spread targets across days.
+BAD FIT: VPN/shared-network traders; single-big-day styles (40-50% caps +
+  legacy target-inflation); weekend-hold futures traders; Pro buyers needing
+  refunds; traders needing >$200K day-one CFD; anyone rattled by a 3.0-3.9
+  Trustpilot with an active integrity investigation.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, payouts and prohibitions above were read from
+the 7 official URLs in Section 2 on 2026-09-08. Futures pre/post-Jun-2026
+rulebooks run side-by-side with no migration — confirm purchase-date terms.
+Promo pricing rotates — re-check checkout anchors before purchase. All
+accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes CFD One-Phase/Classic/Pro/Instant + futures Beginner/
+Mid-Level/Professional tables, static-vs-EOD-trailing split, refund map,
+and Jan-2026 warning-label record.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated: "All trading activity takes place in a simulated trading
+environment. Funds allocated are fictitious."
+[2] Edge badges: "Up to 90% Performance Reward. Your EAs Allowed. Up to
+$200,000. No Trailing Drawdown. News Trading Allowed."
+[3] Classic card: "Price (will be processed with 1st reward) $539. Profit
+Target $10k (10%). Profit Split -. Max Daily Drawdown $5k (5%). Max Overall
+Drawdown $10k (10%). Minimum Trading Days 4. Challenge Duration Unlimited.
+Reward Frequency -. Challenge Leverage up to 1:100."
+[4] Leverage: "One Phase: Forex 1:50; Metals, Oil, Indices 1:10; Crypto 1:2.
+Classic: Forex 1:100; Metals, Oil, Indices 1:30; Crypto 1:2. Pro: Forex
+1:100; Metals, Oil, Indices 1:30; Crypto 1:2."
+[5] Daily DD: "Max Daily Drawdown is 5% on all Pro and Classic Challenges
+and Funded Accounts. It is 3% on the One Phase Challenge and Funded
+Accounts. The Daily Drawdown is balance based for all accounts and is
+calculated at the start of the day (5:00 p.m. EST)."
+[6] Daily rewards: "With a FunderPro Pro Funded Account you can request a
+reward any time you are at least 1% above your initial account balance."
+/ "We aim to process all Funded Account rewards within 1 working day from
+approval."
+[7] Instant: "Starts from $79.00. First Reward after only $100. Rewards
+processed after 1 working day. Hold Trades Overnight & Weekends."
+[8] Scale: "Scale up to $5 million." / "Swing Option for all Challenges."
+[9] Futures lineup: "In June 2026 the firm replaced its single evaluation
+product with three separate challenge types: Beginner, Mid-Level and
+Professional. Each type shares the same 6% profit target and end-of-day
+trailing drawdown."
+[10] Futures pricing: "The Beginner type is the entry point at $79 per month
+for a $50,000 account, and it carries no activation fee... Mid-Level starts
+at $89 per month and adds a $129 activation fee... Professional starts at
+$219 per month with a $119 activation fee."
+[11] Futures DD: "The maximum drawdown is calculated end of day rather than
+intraday. It trails upward as the account grows and stops trailing once it
+reaches the starting balance... After a trader's first reward the drawdown
+locks at the starting balance permanently."
+[12] Futures consistency: "A consistency rule applies to every type: no
+single trading day may account for more than 40% of total profit during the
+challenge, relaxing to 50% on the funded account."
+[13] Futures pause: "Hitting the limit pauses trading for the remainder of
+the day and does not fail the account." / "Beginner has no daily pause at
+all during the evaluation and a 2% daily pause once funded."
+[14] Futures rewards: "Beginner pays a flat 80%... after five profitable
+trading days of $100 or more each. Mid-Level pays 80% on the first reward,
+85% on the second and 90% from the third onward... Professional pays a flat
+80% but allows up to $10,000 per request on a fixed 14-day cycle, after the
+trader builds a 3% buffer."
+[15] Scale claim: "$22,000,000+ paid to traders." / Challenge pass rate
+"7.35% (firm's own figure)."
+================================================================================
+END OF FILE — FUNDERPRO COMPLETE.
+================================================================================

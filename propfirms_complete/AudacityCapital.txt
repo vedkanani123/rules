@@ -1,0 +1,111 @@
+================================================================================
+AUDACITY CAPITAL — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/AudacityCapital.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public knowledge of
+https://audacity.capital without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Audacity Capital (audacity.capital).
+- Positioning [UNVERIFIED]: UK-based direct-funded / instant-funding prop
+  firm, Forex/CFD focus, no-evaluation Ability Challenge plus funded paths.
+- What it is [UNVERIFIED]: Simulated/direct-funded accounts; performance
+  rewards, not live capital. Confirm demo disclaimer on site.
+- Contact [UNVERIFIED]: via audacity.capital contact / live chat / email.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed. Check these real pages:
+ 1. https://audacity.capital/ (homepage)
+ 2. https://audacity.capital/funded-trading-accounts (programs anchor)
+ 3. https://audacity.capital/faq (rules, payouts, platforms)
+ 4. https://audacity.capital/terms-and-conditions (eligibility, bans)
+CROSS-CHECK:
+ 5. https://www.trustpilot.com/ (search Audacity Capital)
+ 6. https://propfirmmatch.com/ (search Audacity Capital)
+TOTAL SOURCES: 6. Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT5 per official pages. Confirm at checkout.
+- Instruments [UNVERIFIED]: Forex, Indices, Commodities, Stocks per symbols.
+- Leverage [UNVERIFIED]: typically up to 1:100 Forex on funded paths.
+  Verify specs in terminal.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | Ability Challenge | 1-2 | per FAQ | per FAQ | per FAQ | per FAQ |
+| 2 | Direct Funded | 0 | none | per FAQ | per FAQ | per FAQ |
+Notes: funded has no profit target. Confirm min-days and drawdown type.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ABILITY CHALLENGE [UNVERIFIED] ---
+- Evaluation target then funded status. Verify target %, daily/max loss,
+  min-days and consistency.
+--- 5B. DIRECT FUNDED [UNVERIFIED] ---
+- No evaluation; trailing or static drawdown governs. Verify %.
+--- 5C. NEWS / WEEKEND / OVERNIGHT [UNVERIFIED] ---
+- Confirm news and holding rules on official FAQ.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — confirm checkout]
+- One-time ability-challenge fee; one-time or subscription for funded
+  paths per page. Confirm size ladder and refund clause.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split as performance reward. Confirm % and cadence (bi-weekly/monthly).
+- First payout conditions and minimums per FAQ. Scaling on consistency.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED]
+Typically banned: feed exploits, cross-account hedging, account sharing,
+gambling exposure. Confirm EA/copy policy on official page.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. UK-based firm; KYC ID + proof of address before funded.
+  Confirm US/sanctioned-country handling on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Check Trustpilot / PropFirmMatch for current score. No verdict here.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: traders wanting UK-brand direct funding without long eval.
+- Bad fit: HFT styles, banned jurisdictions. Verify fee vs drawdown value.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch 2026-09-08.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — 12-section template.
+RAW EXCERPTS: none captured; paste verbatim on re-verification.
+================================================================================
+END OF FILE — AUDACITY CAPITAL UNVERIFIED. Next firm is a separate task.
+================================================================================

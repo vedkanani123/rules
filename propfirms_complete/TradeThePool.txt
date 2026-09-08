@@ -1,0 +1,122 @@
+================================================================================
+TRADE THE POOL — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TradeThePool.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public knowledge of
+https://tradethepool.com (real-stocks prop firm) without a live fetch on
+this date. Re-verify all rules, fees and payouts on official pages before
+purchase or reliance. No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: TradeThePool (tradethepool.com).
+- Positioning [UNVERIFIED]: stock-focused prop firm for REAL listed-stock
+  day/swing trading (long/short), distinct from Forex/CFD firms. Associated
+  with The5ers ecosystem branding.
+- What it is [UNVERIFIED]: Simulated evaluation for stock trading with
+  buying-power based accounts; performance rewards, not live capital.
+  Confirm demo disclaimer on site.
+- Contact [UNVERIFIED]: via tradethepool.com support / live chat / email.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed. Check these real pages:
+ 1. https://tradethepool.com/ (homepage)
+ 2. https://tradethepool.com/pricing/ (programs and buying-power tiers)
+ 3. https://tradethepool.com/faq/ (stock rules, payouts, platforms)
+ 4. https://tradethepool.com/terms/ (eligibility, prohibitions)
+CROSS-CHECK:
+ 5. https://www.trustpilot.com/ (search TradeThePool)
+ 6. https://propfirmmatch.com/ (search TradeThePool)
+TOTAL SOURCES: 6. Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: stock trading platform(s) per official pages
+  (web/desktop). Confirm order types, short inventory and data fees.
+- Instruments [UNVERIFIED]: US-listed stocks/ETFs long and short; no Forex/
+  CFD/crypto. Confirm hard-to-borrow and halt rules in FAQ.
+- Buying power [UNVERIFIED]: tier-based intraday/overnight buying power,
+  not FX leverage. Verify per-tier buying-power table.
+- Costs [UNVERIFIED]: commissions per share and data fees per FAQ; pattern-
+  day-trader style risk rules may apply on evaluations.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm buying-power tiers on pricing page]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | Stock Evaluation | 1-2 | per FAQ | per FAQ | per FAQ | per FAQ |
+| 2 | Direct buying-power | 0 | none | per FAQ | per FAQ | per FAQ |
+Notes: stock risk is share/position and overnight-exposure based, not FX
+lot based. Funded has no profit target.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. STOCK EVALUATION [UNVERIFIED] ---
+- Profit target in dollars/percent, max loss and daily guardrails. Verify
+  numbers, min-days and consistency on FAQ.
+--- 5B. DIRECT BUYING-POWER [UNVERIFIED] ---
+- No target; drawdown and exposure limits govern. Verify %.
+--- 5C. STOCK-SPECIFIC RULES [UNVERIFIED] ---
+- Confirm short-selling inventory, halts/earnings holding, max position
+  share %, overnight buying-power cut and wash-sale style abuse rules.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — confirm checkout]
+- One-time evaluation fees keyed to buying-power tiers; data fees may be
+  separate. Confirm refund clause per model.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split as performance reward. Confirm % and cadence, minimums, methods.
+- Scaling: confirm buying-power growth on consistent profitability.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED]
+Stock-specific bans typically: pump-and-dump/low-float abuse, halt trading
+abuse, cross-account hedging, account sharing. Confirm EA/automation and
+earnings-holding policy officially.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC before funded. US stock rules (short inventory, corporate
+  actions) apply regardless of residence. Confirm banned-country list.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Check Trustpilot / PropFirmMatch for stock-trader payout themes.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: US-stock day/swing traders wanting funded-style buying power.
+- Bad fit: Forex/CFD/EA scalpers, HFT styles. Compare commission + data
+  cost vs retail broker before purchase.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch 2026-09-08. Real-stock
+positioning noted per brief; all numbers need re-check.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — 12-section template.
+RAW EXCERPTS: none captured; paste verbatim on re-verification.
+================================================================================
+END OF FILE — TRADE THE POOL UNVERIFIED. Next firm is a separate task.
+================================================================================

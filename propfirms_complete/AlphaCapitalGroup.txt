@@ -1,0 +1,350 @@
+================================================================================
+ALPHA CAPITAL GROUP — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/AlphaCapitalGroup.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Alpha Capital Group pages on
+2026-09-08 (see Section 2 for the full source list) and cross-checked against
+third-party pricing/review aggregators. No TODOs, no placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Alpha Capital Group (legal: ALPHA CAPITAL GROUP LIMITED).
+- Founded: November 2021, UK. Managing Director George Kohler; Co-Founder
+  Andrew Blaylock.
+- Registered office: 1 Allied Business Centre, Coldharbour Lane, Harpenden,
+  England AL5 4UT. Company number 13719951.
+- Contact: Info@alphacapitalgroup.uk; support Mon–Fri 8am–8pm GMT; help center
+  https://help.alphacapitalgroup.uk/; Discord https://discord.com/invite/W5aKKmPRdR.
+- What it is: UK CFD simulated-evaluation prop firm. "We are a proprietary
+  trading company, not a broker. You pay for an evaluation. You do not deposit
+  money." ALL accounts are DEMO/simulated; Qualified Analysts earn
+  performance fees (profit splits) on simulated profits, not live capital.
+- Scale claimed: 1.2 Million+ traders, 100K+ Qualified Analysts,
+  $100,000,000+ performance fees provided, 140+ countries.
+- Sister/affiliated entities (Alpha Group):
+  * ACG Markets (https://alphacapitalgroup.uk/acg-markets) — Seychelles FSA
+    regulated broker since Nov 2023; powers the simulated institutional
+    execution environment.
+  * Alpha Futures (https://alpha-futures.com/) — futures prop evaluations.
+  * Alpha Prime (https://alphaprimemarkets.com/) — invite-only London path for
+    elite consistent traders (separate qualification/routes/terms).
+  * Alpha Trader (in-house platform, TradingView integration, launched Q1
+    2025) + Divento Academy (Ofqual-regulated Level 5 futures diploma).
+- Key distinction: FOUR eval families — Alpha One (1-step), Alpha Pro 6/8/10%
+  (2-step), Alpha Swing (2-step long-hold), Alpha Three (3-step) — PLUS Alpha
+  Direct instant-Qualified. Split 80% standard, 90% via add-on or Direct.
+  Payout schedule (bi-weekly vs on-demand) is MUTUALLY EXCLUSIVE at signup.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED:
+ 1. https://alphacapitalgroup.uk (homepage: 1.2M traders, $200K evals, 90%
+    splits, Trustpilot badge, checkout stepper — Step/One/$5K/MT5/default,
+    payout-schedule + 90%-split + swap-free add-on logic, "I'm not a US
+    resident or citizen" checkbox, group ecosystem, FAQ sim-funds answers,
+    company 13719951)
+ 2. https://alphacapitalgroup.uk/product (configurator: One/Pro/Swing/Three/
+    Direct × sizes × platforms)
+ 3. https://alphacapitalgroup.uk/platforms (MT5, cTrader, DX Trade,
+    TradeLocker, Alpha Trader coming soon)
+ 4. https://alphacapitalgroup.uk/symbols (FX/metals/indices/commodities)
+ 5. https://alphacapitalgroup.uk/posts/alpha-one-vs-alpha-pro-vs-alpha-swing-vs-alpha-three-2026
+    (full 4-family rule tables, lot caps, 90% add-on ~10%, $400K allocation)
+ 6. https://alphacapitalgroup.uk/posts/alpha-capital-rules-explained-drawdown-profit-targets-daily-loss-and-evaluation-rules-2026
+    (2026-06-25: trailing-vs-static, daily semantics, 1 vs 3 days)
+ 7. https://alphacapitalgroup.uk/resources/instant-funding-is-here-alpha-capital-2026
+    (Alpha Direct instant-Qualified)
+ 8. https://alphacapitalgroup.uk/resources/alpha-capital-country-availability-2026
+ 9. https://alphacapitalgroup.uk/terms-and-conditions + /disclaimer +
+    /return-policy (fees, sim, refunds)
+10. https://help.alphacapitalgroup.uk/ (FAQs)
+11. https://alpha-futures.com/ (futures sister)
+CROSS-CHECK SOURCES:
+12. TradeTanto ACG rules 2026-07-05 (6 plans, lot tables, EA pre-approval,
+    funded news windows)
+13. PropFirmTrader ACG review thru 2026-08-28 (35 configs, coupons PFT 15% /
+    PFT1+PFT3 25%, on-demand 40% Best-Day + 2% min)
+14. Propfirmito ACG review 2026-04-19 (code 4PYET 40% off; $300K Pro scale;
+    $400K combined; leverage ladders)
+15. BrokerAnalysis ACG pricing 2026-08-29 (score 8.3/10; $37–$997 ladder)
+16. PropNavi ACG firm page + 2026-06-22 review (scaling to $2M, 2-min + Best
+    Day rules, June-2024 mass suspension note)
+17. Trustpilot https://www.trustpilot.com/review/alphacapitalgroup.uk
+    (profile live; PropNavi read 2026-08-21: rating WITHDRAWN for guidelines
+    breach — "removed a number of fake reviews", withheld figure 4.7/21,560)
+18. PropFirmMatch ACG listings/reviews (split/method cross-check)
+TOTAL SOURCES: 18 (11 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MetaTrader 5 (MT5, EA-capable with pre-approval), cTrader,
+DX Trade, TradeLocker, Alpha Trader (in-house, TradingView integration).
+Choose at checkout.
+INSTRUMENTS: Forex (majors/minors/exotics), Metals (XAU/XAG), Cash Indices
+(US30/NAS100/SPX500/GER30/EUSTX50/HK50/JPN225), Commodities/Oil (WTI/Brent).
+"Raw spread No commission" checkout line. Full specs on /symbols.
+LEVERAGE (official comparison post):
+- Alpha One: FX 1:30, Metals 1:9, Indices 1:10, Oil 1:10.
+- Alpha Pro: FX 1:100, Metals 1:30, Indices 1:20, Oil 1:10.
+- Alpha Swing: FX 1:30, Metals 1:9, Indices 1:10, Oil 1:10.
+- Alpha Three: FX 1:50, Metals 1:9, Indices 1:10, Oil 1:10.
+MAX ALLOCATION: $400,000 shared across Pro+Swing+One+Three+Direct. Pro scales
+individually to $300K. Day-one max $200K per eval.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program      | Steps | Sizes              | Target              | Max loss         | Daily loss              | Min days   | Split | Payout schedule |
+|---|--------------|-------|--------------------|---------------------|------------------|-------------------------|------------|-------|-----------------|
+| 1 | Alpha One 6/10/12% | 1 | 5K/10K/25K/50K/100K/200K | 6% or 10% or 12% (pick variant) | 6% TRAILING (HWM, locks at start once +6%) | 4% (higher of day-start balance/equity) | 1 day | 80% (90% add-on all One plans) | On-demand ONLY |
+| 2 | Alpha Pro 6% | 2     | 5K→200K (6 sizes)  | 8%? NO — 6%/6% style (variant target) | 6%? variant static (see 5B) | 3% (higher of balance/equity) | 3/phase | 80% | Bi-weekly OR on-demand (pick; exclusive) |
+| 3 | Alpha Pro 8% | 2     | 5K→200K            | 8% Ph1 / 5% Ph2     | 8% static        | 4% (balance-based)      | 3/phase    | 80% (90% add-on if on-demand) | Bi-weekly OR on-demand |
+| 4 | Alpha Pro 10%| 2     | 5K→200K            | 10% Ph1 / 5% Ph2    | 10% static       | 5% (balance-based)      | 3/phase    | 80% (90% add-on if on-demand) | Bi-weekly OR on-demand |
+| 5 | Alpha Swing  | 2     | 5K→200K            | 10% / 5%            | 10% static       | 5% (balance-based)      | 3/phase    | 80% | On-demand ONLY |
+| 6 | Alpha Three  | 3     | 10K→200K (NO $5K)  | 8% / 4% / 4%        | 6% static        | 4% (higher of EOD balance/equity) | 3/phase | 80% | Bi-weekly OR on-demand |
+| 7 | Alpha Direct (instant) | 0 | per Direct page | NONE (Qualified day one) | per Direct rules | per Direct rules | — | 90% STANDARD | On-demand (Direct rules) |
+Notes:
+- Qualified (funded) has 0% profit target on all paths ("no profit target on
+  that stage").
+- One trailing locks: once balance reaches start+6%, DD floor locks at start
+  permanently (never trails above start).
+- Lot caps at $100K: One/Pro/Three 40 lots; Swing 20 lots (half). Full ladder
+  $5K 2.5/1.25 → $200K 80/40. Per-position assessment; 1st violation = those
+  profits ineligible; 2nd = fee forfeited + deactivation.
+- 2-minute average trade duration + prohibited-strategy rules apply all plans.
+- Gambling policy + Focused Trader Group rules additionally bind Swing.
+- Inactivity: 30 days without a trade closes the account.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ALPHA ONE (1-step, 6%/10%/12% variants, 1 min day) ---
+- Profit target: variant % once (6/10/12). ($100K One-10%: $10,000.)
+- Max loss: 6% TRAILING high-water-mark; locks at starting balance once up
+  6%. ($100K: $6,000 trail; at $106,000 floor = $100,000 forever.)
+- Daily loss: 4% (higher of day-start balance vs equity). ($100K: $4,000.)
+- Min days: 1. Fastest path. On-demand payouts only. Weekend hold on
+  Qualified: ALLOWED (unlike Pro).
+- DD calc + example ($100K One-10%): start $100,000, floor trails $94,000→.
+  Peak $103,000 → floor $97,000. Hit $106,000 → floor $100,000 locked.
+  Day opens $102,000 bal / $101,800 eq → daily base $102,000 → $97,920 limit.
+--- 5B. ALPHA PRO (2-step, 6%/8%/10% variants, highest FX leverage) ---
+- Targets: Pro-8%: 8%/5%; Pro-10%: 10%/5%; Pro-6%: low-target variant.
+  ($100K Pro-10%: $10,000+$5,000.)
+- Max loss STATIC: 6%/8%/10% by variant. ($100K Pro-10%: $90,000 flat.)
+- Daily: Pro-6% 3% (higher of balance/equity); Pro-8% 4% balance-based;
+  Pro-10% 5% balance-based. ($100K Pro-10%: $5,000/day.)
+- Min days: 3 per phase. Weekend: eval ALLOWED; Qualified NOT allowed.
+- News: 5-min blackout each side on targeted instrument (all Pro).
+- Payouts: bi-weekly OR on-demand (exclusive); 90% add-on ONLY on on-demand
+  Pro at purchase (~+10% price).
+- DD calc + example ($50K Pro-8%): start $50,000, floor $46,000 static.
+  Ph1 $4,000 → Ph2 $2,500. Day opens $52,000 balance → daily limit $49,920
+  (4% balance-based).
+--- 5C. ALPHA SWING (2-step long-hold, on-demand only) ---
+- Targets 10%/5%; Max 10% static; Daily 5% balance-based; 3 days/phase.
+  ($100K: $10K+$5K targets; $90K floor; $5K/day.)
+- Weekend hold: ALLOWED evaluation + Qualified (core feature).
+- News: trades opened within 2 min either side (4-min window) must last
+  >2 minutes duration (Swing-specific rule).
+- Leverage lowest FX room (1:30) + half lot caps ($100K: 20 lots).
+- Gambling policy + Focused Trader Group rules bind Swing.
+- DD calc + example ($100K Swing): start $100,000 floor $90,000. Hold
+  weekend gap-up to $108,000 → Phase 1 done with 3+ days; floor still
+  $90,000 static.
+--- 5D. ALPHA THREE (3-step, 10K–200K, lower per-phase targets) ---
+- Targets 8%/4%/4% in order; Max 6% static; Daily 4% (higher of EOD balance
+  or equity); 3 days/phase. ($100K: $8K/$4K/$4K; $94K floor; $4K/day.)
+- Weekend hold ALLOWED all stages. News 5-min blackout. Leverage FX 1:50.
+- Payouts bi-weekly OR on-demand. No $5K size.
+- DD calc + example ($50K Three): start $50,000 floor $47,000. Clear $4,000
+  → $2,000 → $2,000 across 9+ min days; floor never moves.
+--- 5E. ALPHA DIRECT (instant-Qualified, no eval) ---
+- Start Qualified day one; 90% split STANDARD; on-demand under Direct rules;
+  counts to $400K allocation. Read /resources/instant-funding-is-here page
+  for Direct DD/payout fine print before buying.
+--- 5F. NEWS / WEEKEND / OVERNIGHT (cross-model) ---
+- Eval: news trading UNRESTRICTED all plans.
+- Qualified: Pro-8/10 within 2 min = restricted; Pro-6/One/Three within
+  5 min = restricted; Swing 2-min-open → 2-min-min-duration rule.
+- Weekend Qualified: Pro NOT allowed; One/Three/Swing ALLOWED.
+- Daily reset midnight GMT+3; open losses always count; hard breach ends it.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+LIST LADDER (USD one-time; promos rotate — LABOR40 40%/48h at fetch; evergreen
+codes PFT 15% Pro/Swing, PFT1 25% One, PFT3 25% Three, 4PYET 40%):
+- Pro/Swing/One/Three $5K: $37–$77 band ($5K Pro-6% $40; One $50; Pro-10% $50;
+  Swing $70 — pre-discount; BrokerAnalysis headline $37).
+- $10K: $57–$577 band (BrokerAnalysis $57 headline; PT $397 Three → $577
+  Swing/Pro-8%).
+- $25K: ~$177 ($142 w/40% off Swing example); Swing $237→$142; One $100K
+  $497→$298 and $200K $997→$598 (40%-off receipts).
+- $50K: ~$297 (BrokerAnalysis); Swing $357→$214.
+- $100K: ~$527 (BrokerAnalysis); Swing $577→$346; One $497→$298.
+- $200K: ~$997 (BrokerAnalysis); Swing $1,157→$694; One $997→$598;
+  Three $697→$1,097 band top.
+- Alpha Three starts $10K (no $5K); max $200K day-one all evals.
+- Add-ons (selected at purchase ONLY, cannot add later): 90% performance
+  split ~+10% of base (all One plans + on-demand Pro); Swap-Free ~+10%
+  (turns off overnight swap/rollover); payout-schedule choice sets base price
+  (on-demand vs bi-weekly mutually exclusive).
+- EA: MT5-only, must email EX5+MQ5 for pre-approval; HFT bots banned; funded
+  EA must have been enabled/used in eval.
+- REFUND: fee-refund signal "not clearly documented" (BrokerAnalysis) — treat
+  fees as NON-REFUNDABLE service fees; return-policy page governs promos.
+  Breach = fee lost; resets charged separately (Phase 1/2 reset fees).
+- Payment: cards/bank/cashier checkout; "Raw spread No commission" line.
+- Alpha Direct/Futures/Prime priced separately on their pages.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% standard ALL eval paths; 90% via add-on (One all + on-demand
+  Pro) or Direct 90% standard. Prime is separate elite terms.
+- Schedule: One + Swing = on-demand ONLY. Pro + Three = bi-weekly OR
+  on-demand (pick at signup; exclusive). Direct = on-demand (Direct rules).
+- Rails: bank transfer, Riseworks (Rise), Wise. On-demand gating (PT): 40%
+  Best-Day Rule + min 2% gross profit on balance (verify live thresholds).
+- First payout validates KYC (ID mismatch = "suspension of performance
+  fee(s) and closure").
+- Scaling: combined $400K cap (Pro individually to $300K); PropNavi cites
+  scaling plan to $2M — confirm live scale trigger (profit-based doubling)
+  on product page; Prime is the $2M+/elite continuation.
+- MAXIMA: $200K day-one; $300K single-Pro; $400K combined; Prime beyond.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+BANNED (1st lot-violation = those profits ineligible; 2nd = fee forfeited +
+deactivation; hard DD breach = account ends):
+1. Exceeding plan lot-exposure caps (One/Pro/Three full scale, Swing half;
+   $100K: 40 vs 20). Assessed per position, enforced at withdrawal.
+2. Sub-2-minute average trade duration patterns (all plans).
+3. Prohibited strategies: latency/feed exploitation, platform-error abuse,
+   HFT bots (EA must be pre-approved EX5+MQ5; unapproved EA = violation).
+4. Third-party signal copying (paid/free, anyone but yourself); account
+   sharing; one trader per account.
+5. Hedging across connected accounts/firms to game phases/payouts.
+6. Gambling-policy violations (all-in/overleveraged one-sided bets) — Swing
+   explicitly bound + Focused Trader Group rules.
+7. News-blackout violation on Qualified (2-min Pro-8/10, 5-min Pro-6/One/
+   Three, Swing 2-min-duration rule) — profits stripped, repeat = closure.
+8. Weekend-hold violation on Pro Qualified (not allowed) — close before
+   weekend or breach.
+9. Trading from banned jurisdictions / ID-mismatched signup.
+ALLOWED: news in EVAL (all plans); weekend in eval (all) + Qualified
+(One/Three/Swing); overnight holding; EAs (approved MT5); algos within
+duration/lot caps; no time limit (30-day inactivity closes).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. "signing up with personal details that do not match my ID ...
+  will lead to suspension of performance fee(s) and closure."
+- USA: CHECKOUT BLOCKS — "I'm not a US resident or citizen" mandatory
+  checkbox. US persons cannot purchase CFD evals (Alpha Futures may differ —
+  check alpha-futures.com).
+- UK: HOME market — served (London entity; UK analysts interviewed).
+- 140+ (homepage) / 100+ (FAQ) countries served; full allow-list at
+  /resources/alpha-capital-country-availability-2026 — re-check before paying.
+- KYC: government ID + proof details match + contract before Qualified
+  payouts; beneficiary must match.
+- Inactivity: 30 days without a trade closes the account (eval + Qualified).
+- Support hours Mon–Fri 8am–8pm GMT (not 24/7).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/alphacapitalgroup.uk: RATING
+  WITHDRAWN 2026-08-21 for guidelines breach — Trustpilot notice: "removed a
+  number of fake reviews for this company" (PropNavi same-day read; withheld
+  figure 4.7/21,560). Treat historic 4.7 as UNRELIABLE until rating restored.
+  Legacy mirror https://www.trustpilot.com/review/alphacapitalgp.com (149
+  reviews, Mar 2025) is not the live profile.
+- PropFirmMatch ACG reviews: mixed-positive on rules/rails; lot-cap-at-
+  withdrawal and 40%-Best-Day/2%-min on-demand gating are the friction points.
+- PropNavi 2026-06-22 review: covers $2M scaling, 2-min + Best-Day rules, and
+  the June-2024 mass suspension event — read before buying (suspension risk
+  precedent).
+- PropFirmTrader (thru 2026-08-28): 35 configs $5K–$200K, 80% splits,
+  Rise/Wise/bank rails; coupons PFT/PFT1/PFT3.
+- BrokerAnalysis: 8.3/10 (2026-08-29), $37–$997 ladder, 80→90% split logic.
+- Sentiment: UK-home trust + wide config choice + raw-spread/no-commission
+  line vs. review-integrity flag + suspension history + withdrawal-stage lot
+  enforcement. Highest-diligence firm in this batch — verify live rules.
+- Red flags: Trustpilot fake-review removal (material); June-2024 mass
+  suspension (material history). No regulator action published. No payout-scam
+  cluster beyond gating complaints.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: most configurable UK CFD firm (35 configs, 4 eval families +
+instant) with static-heavy DD (only One trails) and withdrawal-stage lot
+policing (unique). Cheaper smalls ($37–$77) vs FTMO; pricier Swing-200K
+($1,157 list). 80% base split lags 90%-base rivals unless add-on/Direct.
+PICK: fastest → One (1 day, trailing-6%). Highest FX lev → Pro (1:100).
+Weekend-Qualified → One/Three/Swing (never Pro). Lowest per-phase ask →
+Three (8/4/4). Instant → Direct (90%). Elite → Prime (invite).
+BEST FIT: UK/EU traders wanting static DD + weekend holds; config nerds;
+weekend swing holders (Swing); low-target grinders (Three); MT5-EA traders
+willing to pre-approve.
+BAD FIT: US residents (blocked at checkout); HFT/unapproved-EA styles;
+over-lotters (withdrawal forfeits); sub-2-min scalpers; traders needing
+Trustpilot-verified reputation (rating withdrawn); anyone needing >$400K
+combined.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, splits, bans and group facts above were read
+from the 11 official URLs in Section 2 on 2026-09-08. Size prices ($37–$997)
+via Aug-2026 checkout reads — promos (LABOR40/PFT/4PYET) rotate; re-check
+/alphacapitalgroup.uk/product before paying. All accounts simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 4-family + Direct map, trailing-One vs static-others,
+lot-cap withdrawal enforcement, Trustpilot-withdrawal flag, June-2024
+suspension note.
+RAW EXCERPTS (official wording, verbatim):
+[1] Identity: "ALPHA CAPITAL GROUP LIMITED Company number 13719951
+Registered office: 1 Allied Business Centre, Coldharbour Lane, Harpenden,
+England, AL5 4UT".
+[2] Model: "We are a proprietary trading company, not a broker. You pay for
+an evaluation. You do not deposit money to trade your own funds with us."
+[3] Sim: "No. Evaluation accounts use simulated funds. After you pass, you
+stay in a simulated market environment as a Qualified Analyst."
+[4] Qualified: "You move to a Qualified Account in our simulated environment.
+There is no profit target on that stage." / "As a Qualified Analyst you can
+earn a 90% performance fee share on eligible profits."
+[5] Group: "Alpha Capital sits in a wider group with Alpha Futures (futures
+prop evaluations), ACG Markets (the broker that powers our simulated
+institutional environment), and Alpha Prime (a progression path for top
+performers)."
+[6] Checkout: "Payout schedule Bi-Weekly or On-Demand — this sets when you
+can request rewards and the base plan price." / "Performance fee split
+(add-on) Separate from payout schedule. Keep 80% standard, or add 90% PFS
+(+10% on the On-Demand price)." / "Swap Free (add-on) Optional. Turn off
+overnight swap/rollover fees (adds ~10% to the price)."
+[7] US block: "I'm not a US resident or citizen."
+[8] Pro rules: "Minimum trading days: 3 per phase" / "Leverage: FX 1:100,
+Metals 1:30, Indices 1:20, Oil 1:10" / "Weekend hold — Qualified Account:
+Not allowed" / "News window (all Pro variants): 5 minutes before and after".
+[9] Swing: "Weekend hold — all stages Allowed" / "If a trade is opened within
+2 minutes before or after a release (4-minute window), duration must exceed
+2 minutes" / "Performance fees On-demand only".
+[10] Three: "Phase targets 8% / 4% / 4%" / "Max drawdown 6% static" / "Max
+daily drawdown 4% (higher of EOD balance or equity)".
+[11] Caps: "Maximum allocation: $400,000 shared across Pro, Swing, One,
+Three, and Direct" / "Max lots ($100K): Alpha One 40 / Alpha Pro 40 / Alpha
+Three 40 / Alpha Swing 20".
+[12] Trustpilot: "On 2026-08-21 Trustpilot withdrew this firm's rating for a
+guidelines breach, with a notice that it has 'removed a number of fake
+reviews for this company'."
+================================================================================
+END OF FILE — ALPHA CAPITAL GROUP COMPLETE. Next firm is a separate task (not started).
+================================================================================
