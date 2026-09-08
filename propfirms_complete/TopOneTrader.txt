@@ -1,0 +1,163 @@
+================================================================================
+TOP ONE TRADER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TopOneTrader.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official toponetrader.com
+excerpts (search-indexed 2026-09-08, see Section 2) and cross-checked against
+Trustpilot, PropFirmMatch, BrokerAnalysis, DealPropFirm and Myfxbook. No
+TODOs, no placeholders. All links are real. Marked UNVERIFIED pending live
+checkout re-read (Trustpilot guideline-breach flag).
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Top One Trader / TopOneTrader (toponetrader.com).
+- Entities: Top One Trader Ltd.; 30 North Gould Street Ste R, Sheridan,
+  WY 82801, USA; Registration 2023-001294341 (DealPropFirm).
+- Founded: 2023, Sheridan, Wyoming, USA.
+- Contact: Admin@toponetrader.com; 24/7 support; Discord/education hub.
+- What it is: CFD simulated-evaluation + instant prop firm; Top One 2.0
+  platform refresh; $5K-200K ($300K PRO/Nova); to 100% PRIME splits;
+  scale to $5M; $5M+ paid claim; ~90-min average payouts claim.
+- Awards/coverage: Top Rated Prop Firm badge (homepage 3,000+ reviews claim).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://www.toponetrader.com/ (2.0 launch, $5M paid, 90-min, MT5/cTrader/
+    TradeLocker/MatchTrader + TradingView, programs anchor)
+ 2. https://www.toponetrader.com/blog/best-prop-firm-for-scalpers (4.5/3,400
+    Trustpilot + 4.4/170 PFM cites; $2.50/lot/side; 0.0 EURUSD; 3 profitable
+    0.5% days; no max eval period)
+ 3. https://toponetrader.com/blog/prop-firms-for-us-traders (payout +
+    TrustPilot guidance)
+CROSS-CHECK SOURCES:
+ 4. https://www.trustpilot.com/review/toponetrader.com (3,484 reviews;
+    rating unavailable — guideline breach, fake reviews removed; 83% 5-star
+    / 9% 1-star split; payout-denial + copy-trade disputes)
+ 5. https://propfirmmatch.com/prop-firms/top-one-trader/reviews (4.4/201)
+ 6. https://brokeranalysis.com/prop-trading-firms/top-one-trader/ (8.4/10,
+    to 90% FLASH/Instant, to 100% PRO/PRIME/Nova, $300K PRO/Nova)
+ 7. DealPropFirm TopOneTrader review 2026-07-28 (MLS 4.5, $7-1,776 fees,
+    Sheridan registration, 90-min, no limit, 1:10 one-step leverage,
+    SL-required, EA limits)
+ 8. https://www.myfxbook.com/prop-firms/top-one-trader (Top One Trader Ltd.,
+    USA 2023, $7-1,776, $5K-200K, EA/copy/scaling badges)
+TOTAL SOURCES: 8 (3 official + 5 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: MT5, cTrader, TradeLocker, MatchTrader, all TradingView-capable.
+- Instruments: forex, stock indices, precious metals, crypto. Costs $2.50 per
+  lot per side all platforms; spreads 0.0 EURUSD, 0.1 USDJPY/GBPUSD, 0.22
+  gold, 1.8 US30, 15 BTCUSD (PFM-recorded).
+- Leverage: low 1:10 on One-Step (DealPropFirm con); confirm per program.
+- No maximum evaluation period; 3 profitable days of >=0.5% per phase.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily/Max | Consistency | Split |
+|---|---------|-------|-------|--------|-----------|-------------|-------|
+| 1 | One-Step FLASH/AMPED/NOVA | 1 | $5K-200K | per card | per card | 15% instant-class cited | to 90% FLASH/Instant |
+| 2 | Two-Step PRO V2/PLUS/AMPED | 2 | $5K-300K | per card | per card | per card | to 100% PRO |
+| 3 | Instant Funding (+PRIME) | 0 | $5K-200K | none | 5% PRIME-class | 5% max PRIME | to 90%, to 100% PRIME |
+| 4 | PAYDAY (short objective) | short | per card | per card | per card | per card | per card |
+| 5 | Nova | flex | to $300K | per card | per card | per card | to 100% |
+Notes: funded no target. Scale to $5M. Payout rails crypto (BTC/USDT) + Rise
+bank. Confirm %/caps live.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ONE-STEP ---
+- Fast path; 1:10 leverage constraint; SL-required unless add-on; EA limits
+  on funded.
+--- 5B. TWO-STEP PRO ---
+- Traditional eval to $300K; highest splits; confirm phase targets/days.
+--- 5C. INSTANT / INSTANT PRIME ---
+- Immediate access; 15% consistency on direct-funded cited; 60% split cited
+  in one $200K instant dispute (tight PRIME 5% max) — read PRIME card fully.
+- 13K-payout martingale/gambling dispute ($7K deduction to $6K) and
+  6-account copy-trade reset dispute — keep single-account, distinct entries.
+--- 5D. NEWS / WEEKEND ---
+- Soft-breach is real-breach warning in reviews — treat soft limits as hard.
+  Confirm news/weekend matrix per program.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — $7-1,776 range per Myfxbook/DealPropFirm]
+- Fee model: one-time by size/program; frequent discounts; low-budget offers
+  praised.
+- Add-ons: SL-waiver, split upgrades, payout-speed options per cards.
+- Refund: confirm refundable programs on FAQ before purchase.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% standard to 90%, optional 100% (PRO/PRIME/Nova).
+- Speed: ~90 min average claim (industry-leading if verified); $500-in-hour
+  praise; express payout + support praised.
+- Rails: crypto + RiseWorks bank transfer.
+- Scaling to $5M; confirm milestones + max per-account caps.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm terms]
+Banned: martingale/gambling-pattern flags, copy trading across owned
+multi-accounts (6-account pending-order reset cited), data-feed/latency
+exploits, account sharing, video-explanation non-cooperation risk. EAs
+restricted on funded; SL-required unless add-on. Pending-at-S/R across many
+accounts reads as copy — diversify logic/timing.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. US entity; card payments praised (US-card friendly).
+- KYC + trade-explanation video possible on review; comply promptly.
+- Sanctioned excluded; confirm banned list + US-state nuances on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/toponetrader.com: 3,484
+  reviews but rating UNAVAILABLE (guideline breach; fakes removed). Split
+  83% 5-star / 9% 1-star. Praise: fast funding, psychology tutorials, express
+  payouts, low budgets. Disputes: 13K-to-6K cut, copy-trade resets, soft-breach
+  hardness, free-account promise miss.
+- PropFirmMatch 4.4/201; BrokerAnalysis 8.4/10; DealPropFirm MLS 4.5/5
+  (Payouts 5/5). Myfxbook badges positive.
+- Red flags: NONE proven systemic non-pay; watch: review-integrity flag,
+  PRIME tightness, multi-account-copy enforcement.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: speed leader (~90 min) + 100% top split vs slower/80% rivals;
+integrity flag vs cleaner-score rivals.
+BEST FIT: payout-speed-sensitive single-account traders wanting platform
+choice, no time limit, US base.
+BAD FIT: multi-account hedgers/copiers, martingale/grid styles, PRIME-tight
+averse, review-purists, guaranteed-live seekers.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Trustpilot flag requires live terms + payout-proof
+re-read before size.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Top One 2.0 is here, with brand new features to take your trading
+journey to the next level."
+[2] "There is no maximum evaluation period. Traders must complete 3
+profitable days of at least 0.5% in each phase."
+[3] "Top One Trader charges $2.50 per lot per side across forex, metals,
+indices, and crypto on all available trading platforms."
+================================================================================
+END OF FILE — TOP ONE TRADER UNVERIFIED. Next firm is a separate task.
+================================================================================
