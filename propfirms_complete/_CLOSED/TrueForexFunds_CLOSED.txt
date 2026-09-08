@@ -1,0 +1,76 @@
+================================================================================
+TRUE FOREX FUNDS — CLOSED PROP FIRM FILE
+propfirms_complete/_CLOSED/TrueForexFunds_CLOSED.txt | Status: CLOSED | Verification date: 2026-09-08
+================================================================================
+This firm is CLOSED. Do not purchase. Same 12-section template.
+No placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: True Forex Funds.
+- Status: CLOSED — operations suspended/terminated; sales offline.
+- What it was: Forex/CFD evaluation prop firm.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+CLOSED — sales pages defunct. Reference points (real links):
+ 1. https://trueforexfunds.com/ (defunct/parked — verify before trusting)
+ 2. https://www.trustpilot.com/ (historic True Forex Funds reviews)
+TOTAL SOURCES: 2. Status CLOSED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CLOSED — platforms decommissioned. Historic: MT4/MT5, Forex/CFD.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CLOSED — all programs terminated.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+CLOSED — rules void.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CLOSED — no pricing. Beware imposter revival sites.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CLOSED — payouts halted.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+CLOSED — moot.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+CLOSED — onboarding closed everywhere.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+CLOSED — historic reviews only; post-closure complaints about unpaid claims.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+CLOSED — exclude from selection.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: CLOSED per shutdown/suspension record.
+CHANGE LOG: 2026-09-08 v1.0 CLOSED — 12-section template.
+RAW EXCERPTS: none.
+================================================================================
+END OF FILE — TRUE FOREX FUNDS CLOSED.
+================================================================================

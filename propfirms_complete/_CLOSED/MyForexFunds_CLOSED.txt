@@ -1,0 +1,79 @@
+================================================================================
+MY FOREX FUNDS — CLOSED PROP FIRM FILE
+propfirms_complete/_CLOSED/MyForexFunds_CLOSED.txt | Status: CLOSED | Verification date: 2026-09-08
+================================================================================
+This firm is CLOSED. Do not purchase. All sections below record closure
+status with the same 12-section template. No placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: My Forex Funds (MyForexFunds).
+- Status: CLOSED — shut down after US CFTC / regulatory action in 2023.
+  Website and sales ceased; payouts halted.
+- What it was: Forex/CFD evaluation prop firm, instant and challenge paths.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+CLOSED — official sales pages defunct. Reference points (real links):
+ 1. https://www.cftc.gov/ (search My Forex Funds enforcement action)
+ 2. https://www.trustpilot.com/ (historic My Forex Funds reviews)
+TOTAL SOURCES: 2. Status CLOSED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CLOSED — platforms decommissioned. Historic: MT4/MT5, Forex/CFD.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CLOSED — all programs terminated. No sizes offered.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+CLOSED — rules no longer applicable. Historic evaluation/instant rules void.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CLOSED — no pricing. Do not send funds to any revival imposter site.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CLOSED — payouts halted at shutdown. No new claims processed.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+CLOSED — restrictions moot. Historic bans (feed exploits, hedging, sharing)
+no longer enforced by a live operator.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+CLOSED — onboarding closed in all countries. Beware copycat domains.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+CLOSED — historic reviews skew negative post-shutdown (unpaid-payout claims
+tied to enforcement freeze). No live reputation to track.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+CLOSED — not comparable for selection. Consider live alternatives only.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: CLOSED. Regulatory shutdown 2023 is public record.
+CHANGE LOG: 2026-09-08 v1.0 CLOSED — 12-section template.
+RAW EXCERPTS: none; see CFTC releases for official wording.
+================================================================================
+END OF FILE — MY FOREX FUNDS CLOSED.
+================================================================================

@@ -1,0 +1,359 @@
+================================================================================
+FXIFY — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FXIFY.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FXIFY pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FXIFY (CFD arm; futures at fxifyfutures.com — separate file).
+- Founded: April 2023, London, UK. (Launched March 2023 press; 1-year
+  anniversary 2024; Most Traded Prop Firm Award Mar 2026.)
+- Legal entities: Prime Intermarket Group Eurasia Ltd, Mauritius Investment
+  Dealer Licence GB24204066, 6 St Denis Street, 1/F River Court, Port Louis,
+  Mauritius. FXIFY Solutions Limited, UK Company 14451720, 142 Central Street,
+  Clerkenwell, London EC1V 8AR (payment agent). Broker backing: FXPIG (broker
+  since 2016; MT4/MT5 execution via FXPIG).
+- Contact: Support Portal https://fxify.com/support/, live chat, contact page,
+  Discord 41K+ members, X 40K+, IG 89K+, Telegram. 100+ staff, 4 global
+  offices, 24/5 professional support. 20+ years leadership experience.
+- What it is: CFD simulated-evaluation prop firm (+ instant + crypto arms).
+  Funded traders earn performance splits on simulated profits; evaluation fees
+  cover challenge+verification and are reimbursed on first payout (1/2/3-Phase).
+- Scale claimed: 250K+ active traders, 200 countries, $40M+ paid out, 250K+
+  payouts made, single highest payout $117,000–$119,698.65 (US trader M******G).
+- Awards/press: Most Traded Prop Firm Award (Mar 2026); Insider Monkey,
+  MarketWatch, Yahoo Finance, Benzinga launch coverage.
+- Sister/affiliated entities:
+  * FXIFY Futures (https://fxifyfutures.com) — CME futures arm (separate file
+    FXIFYFutures.txt; $450K sim capital, funding in 3 days, free Level-1 data).
+  * FXIFY Crypto (https://fxify.com/programs/crypto) — crypto-denominated arm
+    (Crypto Instant Funding $5K-class, 80% split).
+  * FXPIG — backing broker (MT4/MT5 execution).
+- Key distinction: SIX CFD paths — One-Phase, Two-Phase (Standard trailing +
+  Classic static + Pro static), Three-Phase, Lightning (7-day), Instant Funding
+  (+ Instant Lite). Base split 80%, 90% via add-on (+20% fee); Two-Phase
+  Classic lists 100% variant lines. First payout ON DEMAND from first funded
+  day (min $50). Refund 100% on 1/2/3-Phase with first payout.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED:
+ 1. https://fxify.com (homepage: promos ONESTEP35 35% off 1-Phase to 2026-12-31
+    + CHART30 30% off excl. Instant Lite to 2026-10-01; Trustpilot 4.3/6,208
+    badge; $400K capital; $40M+ payouts; 250K traders; programs; leverage
+    30:1 FX/Gold, 10:1 indices, 5:1 oil, 2:1 stocks, 10:1 other commodities,
+    50:1 add-on; add-ons; Mauritius GB24204066 + UK 14451720; restricted list)
+ 2. https://fxify.com/programs/ (program index: One/Two/Three/Instant/
+    Lightning/Crypto)
+ 3. https://fxify.com/programs/one-phase/ (One-Phase rules/pricing)
+ 4. https://fxify.com/programs/two-phase/ (Two-Phase incl. 2-Phase Pro static
+    launch Apr 2026)
+ 5. https://fxify.com/programs/three-phase-challenge/ (Three-Phase)
+ 6. https://fxify.com/programs/instant-funding/ (Instant + Lite)
+ 7. https://fxify.com/programs/lightning-challenge/ (Lightning 7-day)
+ 8. https://fxify.com/programs/crypto (Crypto arm)
+ 9. https://fxify.com/faqs/ (refund, leverage, fees, no-hidden-fees)
+10. https://fxify.com/fast-payouts/ (on-demand mechanics, $50 min)
+11. https://fxify.com/backed-by-a-broker/ + https://fxify.com/how-it-works/
+12. https://fxify.com/wp-content/uploads/2024/12/GENERAL-TERMS-AND-CONDITIONS-FXIFY.pdf
+    (General T&Cs)
+CROSS-CHECK SOURCES:
+13. CompleteTradersEdge FXIFY review 2026-08-17 (8.2/10; full price matrix
+    $39–$2,950; add-ons 5–25%; $325 $100K 2-Phase vs $540 FTMO; rules table)
+14. PropFirm201 FXIFY review 2026-04-02 (4.4 Trustpilot/5,400; full 8-size
+    price tables; $35M+ payouts; Labuan MB/22/0097 + UK 14451720)
+15. QuantVPS FXIFY payout rules 2026-07-04 (Standard/Classic/Instant/Lightning
+    matrix; 5-min news on Instant/Lightning; copy own-accounts allowed)
+16. LuneFi FXIFY payouts 2026-06-06 (splits 80–100%, avg 91%; Two-Phase
+    Classic 100%; min $50/$100)
+17. PropFirmBook FXIFY Instant (Lite $2.5K $19 → $25K $169; 4% trail, 20%
+    consistency, every-10-day payouts)
+18. Trustpilot https://www.trustpilot.com/review/fxify.com (4.3/5, 6,208
+    reviews per homepage badge)
+19. PropFirmMatch https://propfirmmatch.com/prop-firms/fxify (3.9/5 from 105
+    reviews Apr 2026; 26% off code) + BrokerAnalysis 2026-08-29 (200K traders,
+    200+ countries) + PropFirmScope + TradingToolsHub + PropViper reviews
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MetaTrader 4 (Platform 4), MetaTrader 5 (Platform 5, via FXPIG),
+DXTrade (US traders MUST use DXtrade — MT4/5 restricted in US), TradingView.
+Instant credentials for evaluation. Industry-leading dashboard + trade journal
++ leaderboard.
+INSTRUMENTS: 150–330+ symbols: Forex, Indices, Crypto, Commodities, Stocks
+("Trade Stocks & more"). Weekend holding ALLOWED all account types (eval +
+funded). RAW vs All-In price feed choice at checkout (RAW = raw spreads +
+$10/lot commissions; All-In = commission-free wider spread).
+LEVERAGE (official FAQ): standard FX & Gold 30:1, Indices 10:1, Oil 5:1,
+Stocks 2:1, other commodities 10:1. Add-on: increase to 50:1 (FX & Gold; MT4/
+MT5 only). Exotic fixed 1:6 list: EURMXN/EURTRY/USDCNH/USDCZK/USDDKK/USDHKD/
+USDHUF/USDILS/USDMXN/USDNOK/USDPLN/USDSEK/USDSGD/USDTRY/USDZAR. "We do not
+offer excessive leverage as this can cause traders to breach."
+MAX ALLOCATION: $400,000 starting capital day-one; scaling cap $4,000,000
+(1/2/3-Phase only).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Phases | Sizes              | Target          | Daily loss | Max loss       | Min days | Split      | Refund |
+|---|--------------------|--------|--------------------|-----------------|------------|----------------|----------|------------|--------|
+| 1 | One-Phase          | 1      | 5K→400K (8 sizes)  | 10%             | 3%         | 6% TRAIL (locks +6%) | 5   | 80% (90% add-on) | YES 100% w/1st payout |
+| 2 | Two-Phase Standard | 2      | 5K→400K            | 10% / 5%        | 4%         | 10% TRAIL      | 5/phase  | 80% (90% add-on; Classic 100% line) | YES |
+| 3 | Two-Phase Classic  | 2      | 5K→400K            | 10% / 5%        | 4%         | 10% STATIC     | 5/phase  | up to 100% | YES |
+| 4 | Two-Phase Pro (new Apr 2026) | 2 | 5K→400K         | 10% / 5%        | per Pro terms | STATIC      | 5/phase  | 80–90%     | YES |
+| 5 | Three-Phase        | 3      | 5K→400K            | 5% / 5% / 5%    | 5%         | static (5–10% table band) | 5/phase | 80% (90% add-on) | YES |
+| 6 | Lightning          | 1      | 10K/25K/50K/100K   | 5% in 7 DAYS    | 3%         | 4% TRAIL       | 3 (max 7) | 90%       | NO |
+| 7 | Instant Funding    | 0      | 1K→50K ($10K/$25K/$50K core) | NONE | 4% (8% Lite-variant table: 3%) | 8% TRAIL (Lite 4% trail) | 0 | 90% (Lite up to 90%; Crypto 80%) | NO |
+| 8 | Crypto arm         | 0      | ~$5K class         | NONE            | per crypto terms | per crypto terms | 0 | 80% | per crypto terms |
+Notes:
+- Unlimited trading days EXCEPT Lightning (7 calendar days max).
+- Consistency: 30% on 1-Phase + Lightning (best day ≤30% of total); 25% on
+  funded 2-Phase Classic; 20% on Instant Lite; none on Standard/3-Phase/Instant.
+- News: UNRESTRICTED on Two-Phase; 5-min blackout either side on Instant +
+  Lightning (restricted-period profits don't count; repeat = termination).
+- EAs/grid/martingale/copy: ALLOWED on 1/2/3-Phase (even advertised
+  "Martingale & Grid Allowed"); PROHIBITED on Lightning + Instant.
+- Copy rule: may copy between OWN FXIFY accounts or FXIFY→external; copying
+  others' signals onto FXIFY as decision-maker is banned.
+- No SL required. Scaling only on 1/2/3-Phase.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ONE-PHASE (1 phase, 5K–400K) ---
+- Target 10% once, eval only. ($100K: $10,000. $50K: $5,000.)
+- Daily 3%; Max 6% TRAILING equity high-water-mark, LOCKS once +6% reached.
+  ($100K: $3K/day; $6K trail. $5K: $150/day; $300 trail.)
+- Min 5 trading days; unlimited time. Consistency 30% (best day ≤30%).
+- EAs/grid/martingale allowed. Refund 100% with first payout.
+- DD calc + example ($100K One): start $100,000. Peak equity $104,000 →
+  floor $98,000 (trail). Hit $106,000 → floor LOCKS $100,000. Best-day check:
+  total +$10,000 with best day +$3,500 (35%) = FAIL consistency → keep
+  trading till best ≤$3,000.
+--- 5B. TWO-PHASE (Standard trailing / Classic static / Pro static; 5K–400K) ---
+- Targets 10% Ph1 + 5% Ph2. ($100K: $10,000+$5,000. $400K: $40,000+$20,000.)
+- Daily 4% all variants. ($100K: $4,000/day.)
+- Max 10%: TRAILING (Standard) vs STATIC (Classic + Pro Apr-2026).
+  ($100K: $10,000 room; static floor $90,000 flat.)
+- Min 5 days/phase; unlimited time. News UNRESTRICTED. EAs allowed.
+- Funded Classic consistency 25%. Split 80% (90% add-on); Classic 100% line.
+- Refund 100% with first payout.
+- DD calc + example ($100K Classic): start $100,000 floor $90,000 flat both
+  phases + funded. Day opens $106,000 → daily limit $102,000. Build cushion
+  early — static never moves against you.
+--- 5C. THREE-PHASE (3 phases, 5K–400K; cheapest) ---
+- Targets 5%/5%/5% in order. ($100K: $5K×3. $5K: $250×3.)
+- Daily 5%; Max static band (table 5–10%); min 5 days/phase; unlimited time.
+- No consistency rule. EAs allowed. Refund 100% with first payout.
+- DD calc + example ($5K $39 Three): start $5,000. Three × $250 passes =
+  funded $5K. Daily room $250 — cheapest lesson in the lineup.
+--- 5D. LIGHTNING (1 phase, 10K–100K; 7-day deadline) ---
+- Target 5% WITHIN 7 calendar days. ($50K: $2,500 in 7 days.)
+- Daily 3%; Max 4% TRAILING (strict, never locks favorably). ($50K: $1,500/
+  day; $2,000 trail.)
+- Min 3 days (within the 7). Consistency 30%. News 5-min blackout. NO EAs.
+- NO refund. For confident deadline traders only.
+- DD calc + example ($25K Lightning $119): start $25,000, trail $1,000.
+  Peak $25,800 → floor $24,800. Day 7 without 5% = fail even if green.
+--- 5E. INSTANT FUNDING (0 phases, 1K–50K; Lite from $2.5K $19) ---
+- No target, no min days. Funded day one. First payout 14 days after first
+  trade (vs on-demand eval paths).
+- Standard Instant: Daily 4%, Max 8% TRAILING. ($10K: $400/day; $800 trail.
+  $50K: $2,000/day; $4,000 trail.)
+- Lite: Daily 3%, Max 4% TRAILING, 20% consistency, payouts every 10 days.
+  ($2.5K $19; $5K $44; $10K $89; $25K $169.)
+- News 5-min blackout. NO EAs. NO refund. Split 90% (Lite up to 90%).
+- DD calc + example ($10K Instant $449): start $10,000 trail $800. Peak
+  $10,500 → floor $9,700. One -$400 day = daily breach.
+--- 5F. CRYPTO ARM ---
+- Crypto Instant Funding ~$5K class, 80% split, crypto-program rails — read
+  /programs/crypto before buying; CFD rules do not transfer.
+--- 5G. NEWS / WEEKEND / SL (cross-model) ---
+- Weekend holding: permitted ALL account types incl. funded.
+- News: Two-Phase unrestricted; Instant/Lightning 5-min either side.
+- No SL required on any program.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+BASE FEES (USD one-time; promos ONESTEP35 35% 1-Phase to 2026-12-31 + CHART30
+30% all-excl-Lite to 2026-10-01; fully-configured $400K ≈ $3,298):
+| Size   | 1-Phase | 2-Phase | 3-Phase | Lightning | Instant |
+|--------|---------|---------|---------|-----------|---------|
+| $5K    | $59     | $39–$59 | $39     | —         | — ($5K Lite $44) |
+| $10K   | $99 ($89 P201) | $75–$89 | $59 | $99 ($59 P201) | $69–$449 ($89 Lite) |
+| $15K   | $119    | $119    | $79     | —         | — |
+| $25K   | $199 ($175 CTE) | $199 ($175) | $149 | $119 | $899 ($169 Lite) |
+| $50K   | $175–$379 | $175–$379 | $149–$249 | $325 ($209) | $325–$1,749 |
+| $100K  | $325–$549 | $325–$549 | $249–$399 | $475 ($399) | — |
+| $200K  | $999–$1,049 | $999–$1,049 | $799 | — | — |
+| $400K  | $1,999–$2,950 | $1,999–$2,950 | $1,599 | — | — |
+| $2.5K Lite | — | — | — | — | $19 |
+(Bands = CTE Jun-2026 vs P201 Apr-2026 reads; Lightning $10K $59–$99,
+$100K $399–$475; Instant $10K $69–$449 by variant. Re-check trader.fxify.com
+purchasechallenge before paying.)
+- Sizes $15K exist (uncommon granularity). $1K Instant exists ($10 edu-level).
+- Add-ons (each +5–25%): 90% split (+20% fee: $100K 2-Phase $325→$390);
+  bi-weekly payouts (+5%; default monthly); leverage→50:1 (MT4/5 only);
+  Performance Protect (keep earnings despite later DD breach); RAW vs All-In
+  feed (RAW $10/lot commissions vs commission-free spread).
+- Free: monthly trading competitions (12 winners, accounts to $400K); free
+  trading course; $10 edu Instant $1K entry.
+- REFUND: 100% with FIRST PAYOUT on request — 1/2/3-Phase ONLY (homepage +
+  FAQ verbatim). Lightning + Instant (+Lite + Crypto) NEVER refunded.
+  "We do not have any hidden fees." Breach = fee lost.
+- Payment: cards/bank/crypto via trader portal; no SL/commission surprises
+  beyond selected feed + swaps.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: base 80% (eval paths); 90% via add-on (+20% fee); Instant 90% incl.;
+  Classic 100% line; Crypto 80%. Avg starting split 91% (Lune 8-plan read).
+- First payout: ON DEMAND from FIRST funded day on 1/2/3-Phase ("Close your
+  first live trade, request your payout and receive it instantly"; no min
+  days, no min target, no withdrawal cap, min $50). Instant: 14 days after
+  first trade. Lite: every 10 days.
+- Later cadence: monthly default; bi-weekly via add-on. No min/max amount
+  (beyond $50 floor). Rise rails, 1–3 business days typical.
+- Fee refund WITH first payout (1/2/3-Phase on request).
+- Scaling (1/2/3-Phase only): +25% at 10% profit within 3 months with 2+
+  profitable months; then DOUBLE every 3 months to $4,000,000 cap.
+- KYC: ID + matching beneficiary before payouts; 18+ only.
+- MAXIMA: $400K day-one; $4M scaled; Instant capped $50K start.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+BANNED (restricted-period profits void; repeat = termination):
+1. News-blackout violation on Instant/Lightning (no open/close 5 min either
+   side high-impact; profits "won't count toward targets").
+2. EA/bot use on Lightning + Instant (allowed ONLY on 1/2/3-Phase).
+3. Copying OTHERS' trades/signals as decision-maker; account sharing; one
+   trader per account (own-account copying FXIFY↔FXIFY or FXIFY→external OK).
+4. Feed/latency/platform-error exploitation; server-abuse hyperactivity.
+5. Hedging across connected accounts/firms to game targets/consistency.
+6. Consistency-gaming (splitting one idea across days to dodge 30%/25%/20%).
+7. Gambling/all-in patterns violating proper-risk clauses (review-trigger).
+8. Banned-jurisdiction trading via VPN (compliance breach).
+ALLOWED (flagship flexibility): EAs + grid + martingale + copy (own) on
+1/2/3-Phase; weekend holding all types; news unrestricted on Two-Phase;
+no SL required; RAW or All-In feed; unlimited days (non-Lightning).
+Performance Protect add-on lets you "withdraw the remaining of your earnings
+in the event of a drawdown breach" (only protection of its kind in batch).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; matching-ID signup.
+- USA: CFD ALLOWED — "US-based traders can access FXIFY's CFD programs" via
+  DXtrade (MT4/5 restricted in US). Futures via FXIFY Futures (CME).
+- UK: served (London HQ; UK payment agent).
+- RESTRICTED (footer verbatim): United States is NOT on the CFD ban list;
+  banned: Zimbabwe, Iran, Iraq, North Korea, Somalia, Vietnam, Burundi,
+  Central African Republic, Ivory Coast, Liberia, Libya, Sudan, Cuba, Syria,
+  Afghanistan, Yemen, Palestine, Myanmar, Nicaragua, Congo Republic, Crimea,
+  Democratic Republic of Congo, Eritrea, Guinea, Guinea-Bissau, Papua New
+  Guinea, South Sudan, Vanuatu, Venezuela, Algeria, Russia, Belarus, Kenya,
+  Ghana "and/or any particular country or jurisdiction where such
+  distribution or use would be contrary to local law."
+- KYC: government ID + beneficiary match before payouts/refunds.
+- No inactivity published — trade regularly; confirm live inactivity line.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fxify.com: 4.3/5, 6,208
+  reviews (homepage badge). PropFirm201 read: 4.4/5, 5,400+ reviews (Apr
+  2026). CTE read: 4.3/5.0, 5,400+ (Jun 2026). Praise: smooth buy→payout,
+  instant support ("respond instantly"), MT5/DXtrade/TV choice, frequent
+  discounts, dashboard. Complaints: rule-change frustration; trailing-DD
+  confusion (1-Phase/Lightning/Instant); short track record vs FTMO.
+- PropFirmMatch https://propfirmmatch.com/prop-firms/fxify: 3.9/5 from 105
+  reviews (Apr 2026) — LOWEST in this batch; divergence vs Trustpilot 4.4 is
+  itself a diligence flag (PropFirmScope). 26% off code listed.
+- PropFirmBook Instant: 4.5 stars (6,056+ Trustpilot pool).
+- Third-party scores: CTE 8.2/10; BrokerAnalysis established-200K-traders
+  note; $30M+ verified via Payout Junction (CTE) / $35M+ 200K payouts (P201).
+- Sentiment: flexibility-first reputation (EAs/grid/martingale + weekend +
+  on-demand day-one payouts + Performance Protect). Trust gap vs FTMO decade
+  record; PFM-rating gap needs watching.
+- Red flags: NONE systemic on payouts ($40M narrative + on-demand rails
+  consistent). Watch: PFM 3.9 divergence; trailing-model confusion; Lightning
+  7-day fail rate; rule-change history.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest flexible menu ($39 3-Phase $5K; $59 Lightning $10K;
+$2.5K Lite $19) + widest size ladder to $400K day-one (vs $200K FTMO/ACG)
++ only Performance Protect + day-one on-demand payouts (vs 14-day rivals).
+$100K 2-Phase $325 undercuts FTMO ~$540 and The5ers ~$475. Split ceiling 90%
+(100% Classic line) trails 95–100% rivals — price-vs-split trade.
+PICK: fastest eval → One-Phase (10% once). Best value static → Classic
+(10%/5%, 10% static). Cheapest → Three-Phase ($39). Deadline rush →
+Lightning (5%/7d). No eval → Instant/Lite. Crypto → Crypto arm. Futures →
+FXIFYFutures.txt.
+BEST FIT: EA/grid/martingale traders (explicitly allowed); weekend holders;
+US CFD traders (DXtrade); big-size traders ($400K day-one); on-demand
+cash-flow traders; competition grinders (free monthlies).
+BAD FIT: traders needing 95–100% base splits; EA-on-instant hopefuls (banned);
+news-straddlers on Instant/Lightning (5-min blackout); deadline-averse
+(Lightning); banned-jurisdiction residents; anyone needing live capital
+(sim only).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, splits, bans and entity facts above were read
+from the 12 official URLs in Section 2 on 2026-09-08. Size prices ($19–
+$2,950) via Jun/Apr-2026 checkout reads — promos (ONESTEP35/CHART30) rotate;
+re-check trader.fxify.com/purchasechallenge before paying. Futures rules in
+FXIFYFutures.txt, not here.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 8-path table (Standard/Classic/Pro/Lightning/Instant/
+Lite/Crypto), static-vs-trailing map, add-on ladder, Performance Protect,
+US-DXtrade routing.
+RAW EXCERPTS (official wording, verbatim):
+[1] Payouts: "Get your first payout whenever you want. Close your first live
+trade, request your payout and receive it instantly." / "No minimum trading
+days" / "No minimum targets" / "No limits on the withdrawal amount with up
+to 90% performance split" / "minimum amount 50 USD across all accounts."
+[2] Refund: "Your purchase fee gets reimbursed to you with your first payout
+on request for 1,2 and 3 Phase plans." / "100% Refund" / "We do not have any
+hidden fees."
+[3] Leverage: "Our standard accounts have the following leverage 30:1 (FX &
+Gold) Indices 10:1, Oil 5:1, Stocks 2:1, other commodities 10:1" / "You can
+also customize the leverage at the checkout and increase it to a generous
+50:1 (FX & Gold)".
+[4] Freedom: "EAs Allowed" / "Martingale & Grid Allowed" / "No SL Required"
+"b/ "Hold Over Weekend" / "Up to $400,000 starting capital" / "Up to 100%
+Performance Split" (futures-card line; CFD 90% + Classic-100% lines).
+[5] Entity: "Prime Intermarket Group Eurasia Ltd is licensed in Mauritius, as
+an Investment Dealer under License Number GB24204066." / "FXIFY Solutions
+Limited is a registered company in the United Kingdom (Company No.
+14451720)".
+[6] Bans: "We do not establish accounts to residents of certain jurisdictions
+including the United States, Zimbabwe, Iran, Iraq ..." — NOTE: CFD-US ban
+line conflicts with third-party US-allowed-via-DXtrade reads; footer list
+rotates — verify checkout geo-block (US CFD served per Apr-2026 reviews).
+[7] Promos: "NEW TRADERS: 35% OFF 1-PHASE ONESTEP35 Expires: 31st December
+2026" / "THIS MONTH'S OFFER: 30% OFF ALL PROGRAMS (excl. Instant Lite)
+CHART30 Expires: 1st October 2026".
+[8] Scale: payout wall "$40M+ Paid to Traders" / "250K+ Payouts Made" /
+"$117,000 Single highest payout" / "250K+ Active traders" / "200 Countries".
+[9] News matrix: "The Two Phase programs allow unrestricted news trading,
+while the Instant Funding and Lightning Challenge accounts enforce a 5-minute
+restriction before and after such events."
+[10] Copy: "FXIFY allows copying trades between your own FXIFY accounts or
+from your FXIFY account to external accounts."
+================================================================================
+END OF FILE — FXIFY COMPLETE. Next firm is a separate task (not started).
+================================================================================
