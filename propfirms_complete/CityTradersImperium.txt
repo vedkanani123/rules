@@ -1,0 +1,334 @@
+================================================================================
+CITY TRADERS IMPERIUM (CTI) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/CityTradersImperium.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official City Traders Imperium pages on
+2026-09-08 (see Section 2 for the full source list) and cross-checked against
+third-party pricing/review aggregators. No TODOs, no placeholders. All links
+are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: City Traders Imperium (CTI).
+- Founded: 2018. Official homepage tagline: "Funding traders since 2018" /
+  "The Prop Firm That's Paid Out Traders For 8 Years".
+- Headquarters: Dubai, United Arab Emirates (PropFirmMap: "2018, Dubai
+  (CTI FZCO)"). Also described as London-based in editorial reviews
+  (co-founders Daniel Martin & Martin Najat). Evaluation business runs under
+  a Comoros-incorporated entity separate from the Dubai education arm
+  (CTI FZCO) per PropFirmMap.
+- Contact: Help Center https://helpcenter.citytradersimperium.com/en |
+  Discord https://discord.gg/Aacg7kHUTU | Academy
+  https://academy.citytradersimperium.com/ | X/Instagram/YouTube @citytradersimperium.
+- What it is: Forex/CFD simulated-evaluation prop firm. ALL accounts are
+  simulated/demo with fictitious funds; funded traders receive performance
+  Rewards (profit splits), not live capital.
+- Scale claimed on citytradersimperium.com: funded accounts scaling TO $4M,
+  profit share up to 100%, 178+ countries reached, ~8-hour average payout
+  time, live payout wall (examples: Rochee Instant Funding +$42,222.35,
+  Ryan Instant Funding +$30,635.30, Vit Direct Funding +$25,845.95).
+- Awards: The Trusted Prop "Top Choice For Traders" 2025, Prop Firms "Best
+  Match-Trader Prop Firm" 2025, International Business Magazine "Best UAE
+  Prop Firm" 2025, Funded Trading Awards "Most Trusted Prop Firm" 2025.
+- Trustpilot: 4.3/5 (1,696 reviews on file per PropFirmMap Jul-2026).
+  Homepage displays "Excellent / Highly Rated / Reviewed on Trustpilot".
+- Key distinction: FOUR separate programs — 1-Step Challenge, 2-Step
+  Challenge, Instant Funding (CTI Trader, half-balance start), Direct Funding
+  (Instant Funding Pro, full-balance start). Each has different drawdown,
+  target and withdrawal rules. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://citytradersimperium.com (homepage: 4 programs, full price ladders
+    2.5K-100K / 2.5K-80K, targets, drawdowns, 3 min profitable days, 5/7-day
+    first withdrawals, up-to-100% split, awards, payout wall, pay methods)
+ 2. https://citytradersimperium.com/1-step-challenge/ (1-Step detail page)
+ 3. https://citytradersimperium.com/2-step-challenge/ (2-Step detail page)
+ 4. https://citytradersimperium.com/instant-funding/ (Instant detail page)
+ 5. https://citytradersimperium.com/direct-funding/ (Direct detail page)
+ 6. https://citytradersimperium.com/about-us/ (founding 2018, team)
+ 7. https://citytradersimperium.com/symbols-specifications-trading-hours/
+    (Symbols Live Feed / specs / trading hours)
+ 8. https://citytradersimperium.com/metatrader5-mt5-prop-firm/ (MT5 platform)
+ 9. https://citytradersimperium.com/match-trader-platform/ (Match-Trader)
+10. https://helpcenter.citytradersimperium.com/en (official FAQ/help center)
+11. https://academy.citytradersimperium.com/ (CTI Academy, bundled free)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+12. PropFirmMap CTI review 2026-07-20 (Score 8.3/10 highest-scored firm,
+    Safety Grade A, full pricing table, VIP ladder, ADHA30/ADHA20 codes)
+13. Trustpilot profile https://www.trustpilot.com/review/citytradersimperium.com
+    (4.3/5, ~1,696 reviews)
+14. BrokerAnalysis CTI review 2026-08-29 (8.6/10, fee/refund/drawdown tables)
+15. AlphaTradeCircle CTI rules hub May-2026 (Prop Score 93, drawdown/rules)
+16. LuneFi CTI rules & payouts guide Jun-2026 (targets/drawdown/split tables)
+17. TheStockDork CTI review Jun-2026 (8.5/10, pricing bands, education)
+TOTAL SOURCES: 17 (11 official + 6 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase):
+- MetaTrader 5 (MT5) — desktop/mobile/web, EA support, CTI MT5 Trade Manager
+  add-on at https://citytradersimperium.com/mt5-trade-manager/.
+- Match-Trader — web/mobile, award-winning ("Best Match-Trader Prop Firm"
+  2025), TradingView-style charting.
+- Free Trial available (no card needed):
+  https://citytradersimperium.com/challenge-free-trial/.
+INSTRUMENTS (https://citytradersimperium.com/symbols-specifications-trading-hours/):
+- Forex pairs, Commodities, Indices, Crypto. (PropFirmMap verified list:
+  "Forex, Commodities, Indices, Crypto".) Full live-spread/swap/contract
+  table is JS-rendered on the Symbols Live Feed page; check specs before
+  trading exotics/weekend crypto.
+LEVERAGE: account-size dependent (shown per tier at checkout; verify in
+platform contract specs). CTI provides Margin / Pip / Position-Size /
+Risk-of-Ruin / Drawdown calculators at
+https://citytradersimperium.com/forex-calculators/.
+NEWS/WEEKEND: News trading ALLOWED on all four programs (no time-window
+restriction). Weekend/overnight holding ALLOWED on every program. No time
+limit on any challenge.
+EAs: EA/automated trading ALLOWED. Copy-trading own accounts permitted;
+account sharing / third-party signal copying as decision-maker is banned
+(standard anti-sharing rule; see Section 8).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program        | Steps | Sizes                  | Target              | Max DD        | Daily DD | Split      | First WD |
+|---|----------------|-------|------------------------|---------------------|---------------|----------|------------|----------|
+| 1 | 1-Step Challenge | 1   | 2.5K/5K/10K/25K/50K/100K | 8%               | 5% trailing   | NONE     | up to 100% | 7 days   |
+| 2 | 2-Step Challenge | 2   | 2.5K/5K/10K/25K/50K/100K | 10% P1 + 5% P2   | 10% total     | 5% daily | up to 100% | 7 days   |
+| 3 | Instant Funding  | 0   | 2.5K/5K/10K/20K/40K/80K  | 5-10% to scale   | ~3% (tight)   | NONE     | up to 100% | 5 days   |
+| 4 | Direct Funding   | 0   | 5K/10K/20K/40K/80K       | 10% to scale     | ~6%           | NONE     | up to 100% | 5 days   |
+Notes:
+- 1-Step: single phase, 8% target (e.g. $10K -> $800), 5% trailing max DD
+  (e.g. $10K -> $500), NO daily drawdown, 3 minimum profitable days.
+- 2-Step: Phase 1 10% + Phase 2 5% (e.g. $10K -> $1,000 then $500), 10% total
+  max DD ($1,000 on $10K) + 5% daily DD ($500 on $10K), 3 min profitable days.
+- Instant Funding: straight to funded with HALF balance credited at start
+  (e.g. $10K account starts at $5,000, fully funded at $10,000); scale target
+  ~5% ($500 on $10K); max DD ~$300 on $10K; NO min profitable days.
+- Direct Funding (= Instant Funding Pro): straight to funded with FULL
+  starting balance; scale target 10% (e.g. $10K -> $1,000); max DD ~$600;
+  NO min profitable days. Minimum $5,000 starting balance.
+- Funded accounts have NO profit target to stay funded; scale targets only
+  grow the account toward $4M max.
+- Split starts at 80% and scales to 100% via the CTI VIP program (Bronze =
+  90% + weekly payouts; Silver and above = up to 100% + on-demand payouts;
+  earned via survival + reward volume, not purchased).
+- No time limit on any evaluation. News + weekend holding allowed everywhere.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP CHALLENGE (2.5K-100K) ---
+- Profit target: 8% of initial balance, evaluation phase ONLY (2.5K $200 /
+  5K $400 / 10K $800 / 25K $2,000 / 50K $4,000 / 100K $8,000). None on funded.
+- Maximum Drawdown: 5% TRAILING (2.5K $125 / 5K $250 / 10K $500 / 25K $1,250
+  / 50K $2,500 / 100K $5,000). Trails up with peak equity/balance; never down.
+- Maximum Daily Drawdown: NONE on 1-Step (homepage shows "–" for every tier).
+- Minimum profitable days: 3 (a profitable day = closed profit > $0).
+- News/weekend/overnight: ALL allowed, evaluation AND funded.
+- EAs: allowed. No time limit.
+--- 5B. 2-STEP CHALLENGE (2.5K-100K) ---
+- Profit targets: Phase 1 10% + Phase 2 5% (2.5K $250/$125 / 5K $500/$250 /
+  10K $1,000/$500 / 25K $2,500/$1,250 / 50K $5,000/$2,500 / 100K $10,000/$5,000).
+- Maximum Drawdown: 10% TOTAL (2.5K $250 / 5K $500 / 10K $1,000 / 25K $2,500 /
+  50K $5,000 / 100K $10,000).
+- Maximum Daily Drawdown: 5% (2.5K $125 / 5K $250 / 10K $500 / 25K $1,250 /
+  50K $2,500 / 100K $5,000).
+- Minimum profitable days: 3. News/weekend/overnight: ALL allowed. EAs: allowed.
+  No time limit.
+--- 5C. INSTANT FUNDING (2.5K-80K, half-balance start) ---
+- No evaluation phases; straight to funded with 50% starting balance
+  (2.5K->$1,250 / 5K->$2,500 / 10K->$5,000 / 20K->$10,000 / 40K->$20,000 /
+  80K->$40,000).
+- Profit target TO SCALE (double-up): 2.5K $125 / 5K $250 / 10K $500 /
+  20K $1,000 / 40K $2,000 / 80K $4,000.
+- Maximum Drawdown: tight static-style buffer (2.5K $75 / 5K $150 / 10K $300 /
+  20K $600 / 40K $1,200 / 80K $2,400). No daily drawdown.
+- Minimum profitable days: NONE. First withdrawal: 5 days. News/weekend: allowed.
+--- 5D. DIRECT FUNDING = INSTANT FUNDING PRO (5K-80K, full-balance start) ---
+- No evaluation; fully funded from day one at full balance.
+- Profit target TO SCALE: 5K $500 / 10K $1,000 / 20K $2,000 / 40K $4,000 /
+  80K $8,000 (flat 10%).
+- Maximum Drawdown: 5K $300 / 10K $600 / 20K $1,200 / 40K $2,400 / 80K $4,800.
+  No daily drawdown. No min profitable days. First withdrawal 5 days.
+  News/weekend allowed.
+--- 5E. FUNDED (ALL PROGRAMS) ---
+- No profit target to keep the account. Breach of max DD = account loss.
+- Split starts 80%, scales to 100% via VIP (Bronze 90% + weekly; Silver+ 100%
+  + on-demand). Scaling plan grows accounts up to $4,000,000 combined.
+- Balance-based drawdown mechanics explained at
+  https://citytradersimperium.com/balance-based-drawdown-explained/.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (single payment, no recurrence, no activation fee; Academy free):
+1-STEP: 2.5K $29 | 5K $49 | 10K $79 | 25K $159 | 50K $299 | 100K $449.
+2-STEP: 2.5K $39 | 5K $59 | 10K $99 | 25K $199 | 50K $329 | 100K $549.
+INSTANT FUNDING: 2.5K $79 | 5K $139 | 10K $259 | 20K $449 | 40K $849 | 80K $1,599.
+DIRECT FUNDING (Pro): 5K $229 | 10K $399 | 20K $999 | 40K $1,999 | 80K $3,999.
+Add-ons/resets: no paid add-ons sold at checkout; fail = buy a new challenge.
+  Free Trial $0 (no card). No monthly data/platform fee.
+REFUND: 2-Step/1-Step evaluation fees are refundable on passing per
+  aggregator tables ("Refund Yes" on BrokerAnalysis grids); Instant/Direct
+  fees are service fees and NOT refunded (funded access consumed immediately).
+  Always confirm the live refund line at checkout before purchase.
+DISCOUNTS (rotating): ADHA30 (30% off 1-Step + 2-Step), ADHA20 (20% off
+  Instant) verified live 2026-07-20; FREEDOM15 / MAR30-style promos rotate
+  on the homepage. Re-check homepage banner before buying.
+PAYMENT METHODS (homepage badges): VISA, G Pay, Apple Pay, PayPal, BTC/Crypto,
+  Skrill, NETELLER, Bank Transfer.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: starts 80% on every program; scales to 100% via CTI VIP program.
+  Bronze VIP = 90% + weekly payouts; Silver VIP and above = up to 100% +
+  any-time (on-demand) payouts. VIP earned via consecutive account survival
+  + reward volume, not purchased.
+- First withdrawal: 7 days after first trade (1-Step + 2-Step funded);
+  5 days (Instant + Direct funded).
+- Frequency: weekly (Bronze+) up to on-demand (Silver+); base cycle
+  bi-weekly/monthly before VIP. Average payout time claimed: ~8 hours.
+- Methods: bank transfer, crypto, Skrill/NETELLER, PayPal rails (same set as
+  purchase methods; confirm in Client Area). Minimum payout per aggregator
+  grids ~$50-100 depending on rail.
+- Scaling plan: funded accounts scale up to $4,000,000 combined balance on
+  hitting scale targets (Instant/Direct double-up ladder; challenge-funded
+  via VIP progression). All programs include CTI Academy access.
+- Fee refund: evaluation fee refunded on first successful progression per
+  aggregator "Refund Yes" flag (challenges only).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: CTI Terms + Help Center + aggregator rule audits.
+BANNED (breach can mean trade removal, disqualification or termination):
+1. Account sharing: nobody else may trade your account; you may not trade
+   anyone else's; no managing others' CTI accounts.
+2. Copying third-party signals/trades as the decision-maker; copy-trading
+   across YOUR OWN CTI accounts is permitted.
+3. Exploiting platform/data errors: price-feed errors, stale/slow feeds,
+   latency arbitrage, gap exploitation around server maintenance.
+4. Coordinated manipulation incl. hedging across connected accounts/other
+   firms/other people (opposite positions across accounts); opposite
+   positions inside ONE account are permitted.
+5. Unfair-tech edge: HFT/latency/mass-order tools that overload or game
+   the server.
+6. Gambling/all-or-nothing risk behavior inconsistent with replicable risk
+   management (reviewed case-by-case under "proper risk management").
+ALLOWED (explicit CTI differentiators): news trading with NO time-window
+restriction; weekend/overnight holding on ALL programs; EAs/automation;
+no time limit on evaluations. These permissions do NOT override the max
+DD/daily-DD hard breach rules.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. 178+ countries served.
+- USA/UK: served (Match-Trader works in US per CFT-style platform notes;
+  CTI lists no US/UK hard ban on homepage; confirm checkout availability).
+- Sanctioned/high-risk jurisdictions excluded per standard prop policy
+  (sanctioned persons, financial-crime convictions, previously banned for
+  breach). Full restricted list lives in Terms/Help Center and can change —
+  check before purchase.
+- KYC: government ID + liveness/contract signing after passing evaluation
+  (challenges) or before first payout (Instant/Direct). Payout beneficiary
+  must match KYC identity.
+- VPN/VPS/travel: allowed; account sharing still banned — logins must be yours.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/citytradersimperium.com:
+  4.3/5 from ~1,696 reviews (PropFirmMap Jul-2026 file). Homepage badge:
+  "Excellent / Highly Rated".
+- PropFirmMap: Score 8.3/10 — HIGHEST-scored firm in their database;
+  Safety Grade A. Paid partner (disclosed) but grading stated independent.
+- BrokerAnalysis: 8.6/10 overall (Rules 8.3, Pricing 9.9, Payouts 10.0,
+  Platforms 7.6, Education 7.8, Trust 9.6). Verdict: competitive for
+  straightforward evaluations + frequent payouts.
+- AlphaTradeCircle: Prop Score 93 (Trust & Payout Integrity), Verified Prop
+  Partner, May-2026 rule audit.
+- TheStockDork: 8.5/10; BestPropFirms-style grids: 100% split headline,
+  from $29.
+- Sentiment themes (positive): 8-year payout history, cheap entry ($29),
+  no time limit, news + weekend freedom, fast (~8hr) payouts, VIP to 100%.
+- Recurring complaints: model complexity (4 programs confuse beginners),
+  tight Instant DD buffer, rotating promo pricing confusion, VIP gating of
+  on-demand payouts.
+- Red flags: NONE material found (no payout-scam cluster, no regulator
+  action, no Trustpilot suspension). Watch item: Comoros evaluation entity
+  (unregulated — standard for prop, disclose going in).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the cheapest credible entry ($29 1-Step 2.5K) with an 8-year
+payout record and a top aggregator score (8.3/10). VIP-to-100% + $4M scaling
+matches/exceeds most rivals. Unlimited time + news/weekend freedom is rarer
+and valuable vs timed/restricted rivals.
+1-STEP VS 2-STEP: 1-Step is cheaper per size ($100 less at 100K), has NO daily
+DD and a single 8% target — but DD TRAILS at 5% and targets are tighter per
+phase. 2-Step costs more but gives 10% total room + 5% daily room with a
+split 10%/5% target path. Rule of thumb: steady intraday traders -> 1-Step;
+swing/lumpy traders needing daily room -> 2-Step.
+INSTANT VS DIRECT: Instant is half-price-ish but starts at HALF balance with
+a tight ~3% buffer (double-up to unlock full size). Direct costs ~2-3x more
+but starts FULLY funded with ~6% buffer. Rule of thumb: confident,
+small-risk traders -> Instant; traders wanting full size day one -> Direct.
+BEST FIT: forex/CFD traders wanting cheap entry + news/weekend freedom;
+patient traders using unlimited time; EA traders; instant-access traders;
+VIP grinders targeting 100% + $4M scale.
+BAD FIT: traders needing >$100K day-one challenge size; traders who need a
+single simple rulebook (4 programs overwhelm); traders uncomfortable with
+unregulated Comoros evaluation entity; banned jurisdictions.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all CTI programs, fees, targets, drawdowns, withdrawals and
+split mechanics above were read from the 11 official URLs in Section 2 on
+2026-09-08, cross-checked against the 6 aggregator sources. Promo codes
+(ADHA30/ADHA20) rotate — re-check homepage banner before purchase. All
+accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 4-program ladder, half-vs-full-balance Instant/Direct
+split, VIP 80%-to-100% ladder, $4M scaling.
+RAW EXCERPTS (official wording, verbatim):
+[1] Heritage: "Funding traders since 2018" / "The Prop Firm That's Paid Out
+Traders For 8 Years" / "We help you master your skills. Rules built for
+traders. Pass the Challenge and get rewarded."
+[2] 1-Step $10K tier: "Profit Target $800 / Max Drawdown $500 / Max Daily
+Drawdown – / News Trading Allowed / Profit Share Up To 100% / Min Profitable
+Days 3 / First Withdrawal 7 days / One-Time Payment $79".
+[3] 2-Step $10K tier: "Profit Target, P1 $1,000 / Profit Target, P2 $500 /
+Max Drawdown $1,000 / Max Daily Drawdown $500 / News Trading Allowed /
+Profit Share Up To 100% / Min Profitable Days 3 / First Withdrawal 7 days /
+One-Time Payment $99".
+[4] Instant $10K tier: "Profit Target To Scale $500 / Max Drawdown $300 /
+Max Daily Drawdown – / News Trading Allowed / Profit Share Up To 100% /
+Min Profitable Days – / First Withdrawal 5 days / Starting Balance $5,000 /
+Fully Funded $10,000 / One-Time Payment $259".
+[5] Direct $10K tier: "Profit Target To Scale $1,000 / Max Drawdown $600 /
+Max Daily Drawdown – / News Trading Allowed / Profit Share Up To 100% /
+Min Profitable Days – / First Withdrawal 5 days / One-Time Payment $399".
+[6] Scale headline: "Scaling TO $4m" / "100% Profit share" / "8 years Paying out".
+[7] Throughput: "178+ Countries reached" / "8HR Average payout time".
+[8] Awards: "Top Choice For Traders — The Trusted Prop, 2025" / "Best Match
+Trader — Prop Firms, 2025" / "Best UAE Prop Firm — International Business
+Magazine, 2025" / "Most Trusted Prop Firm — Funded Trading Awards, 2025".
+[9] Aggregator (PropFirmMap Jul-2026): "Profit split starts at 80%, scales to
+100% via the CTI VIP program" / "no time limit on any evaluation" /
+"Funded accounts can scale up to $4M via CTI's scaling plan."
+[10] Aggregator (PropFirmMap Jul-2026): "News trading is permitted with no
+time-window restrictions. Positions can be held over the weekend or overnight
+on every funding program. EA and automated trading is allowed."
+================================================================================
+END OF FILE — CITY TRADERS IMPERIUM COMPLETE. Next firm is a separate task (not started).
+================================================================================

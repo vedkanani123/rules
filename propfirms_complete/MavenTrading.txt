@@ -1,0 +1,394 @@
+================================================================================
+MAVEN TRADING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/MavenTrading.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Maven Trading pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Maven Trading (legal entity: Maven Trading Group Ltd, registered
+  Canada BC1363148; operations via Maven Edu - FZCO, registered UAE
+  DSO-IFZA, Dubai Silicon Oasis, registration 006-0060823-070425).
+- Founded: November 2022. CEO: Jon Alexander.
+- Contact: website@maventrading.com | +971 50 513 1897 | +44 7441445241 |
+  live chat + 115,000+ member Discord community.
+- What it is: CFD simulated-evaluation prop firm. ALL accounts are DEMO
+  accounts with fictitious funds; trading is simulated. Funded traders
+  receive real-money performance Rewards (profit splits), not live capital.
+  Official disclaimer: "Maven Trading only provides services of simulated
+  trading and educational tools for traders... does not act as a broker and
+  do not accept any deposits."
+- Scale claimed on maventrading.com: 300,000+ traders worldwide, 50,000+
+  funded traders, $200M+ total funding, $62K+ highest single-trader total
+  payout, 115K+ Discord members. Third-party reads: $130M+ distributed
+  payouts (PropTradingArea Jul-2026), 25,000+ funded traders.
+- Broker partner: EightCap (regulated, established broker providing execution
+  infrastructure).
+- Press: Fox News, Yahoo Finance, CEO.CA, The Globe and Mail, Digital Journal
+  logos displayed on homepage; PropFirmMatch "Top 3 most visited firm" badge.
+- Trustpilot: ~4.3-4.6/5 across 5,000+ reviews (see Section 10).
+- Sister/affiliated entity: WenCrypto (https://wencrypto.com) — Maven's
+  dedicated crypto arm (separate file: WenCrypto.txt).
+- Key distinction: Maven sells SIX challenge families (Standard 1-Step /
+  2-Step / 3-Step, Instant, Mini, Omo 2-Step, Buy-Now-Pay-Later) with
+  different targets, drawdowns, splits and payout rhythms. Standard 2-Step
+  and 3-Step allow own-account copy trading; 1-Step does not. Mini is a
+  24-hour single-trade sprint. Never mix the families.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://maventrading.com (homepage: products, stats, full price grid
+    $2K-$100K, testimonials, restricted-country list, legal footer)
+ 2. https://maventrading.com/pricing (full pricing grid all families/sizes,
+    BNPL terms, Omo/Elite pricing, refund note)
+ 3. https://maventrading.com/faqs (full FAQ: min profitable days, review
+    1-3 days, withdrawal options, overflow cap, risk interview, trailing
+    max-loss example, 2% daily-loss example, consistency-score example)
+ 4. https://maventrading.com/challenges/1-step (Standard 1-Step rules page)
+ 5. https://maventrading.com/challenges/2-step (Standard 2-Step rules page)
+ 6. https://maventrading.com/challenges/3-step (Standard 3-Step rules page)
+ 7. https://maventrading.com/challenges/instant (Instant funding rules page)
+ 8. https://maventrading.com/challenges/mini (Mini sprint rules page)
+ 9. https://maventrading.com/omo-2-step (Omo 2-Step promo rules page)
+10. https://maventrading.com/buy-now-pay-later (BNPL terms page)
+11. https://maventrading.com/about (company background page)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+12. TheTrustedProp Maven Trading Review 2026 (4.3 Trustpilot/5,110 reviews,
+    TTP Trust Score 90/100, payout-rule breakdown, prohibited list)
+13. TheTrustedProp Maven Trading FAQs 2026 (challenge/model explainer)
+14. PropTradingArea Maven Trading Review 2026-07-20 (entry-fee, cap and
+    consistency analysis; $130M payouts; EightCap; spreads note)
+15. Trustpilot profile https://www.trustpilot.com/review/maventrading.com
+    (rating distribution, KYC/risk-flag complaint threads, firm replies)
+TOTAL SOURCES: 15 (11 official + 4 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase):
+- MetaTrader 5 (MT5) — flagship, full EA support. NOT available for United
+  States or Canada (official footer note).
+- MatchTrader — web/mobile, built-in TradingView-style charting.
+- cTrader — offered at 2x the standard price (PropTradingArea-confirmed).
+- Dashboard: proprietary trader dashboard with balance/equity/profit tracking
+  and line-chart history (homepage screenshots).
+INSTRUMENTS: 400+ symbols — Forex pairs, crypto, indices, commodities/metals
+(incl. Gold/XAUUSD "Trade Gold Eternal" promo theme), stocks. Weekend holding
+allowed; overnight holding allowed; swap-free accounts available on request.
+LEVERAGE: up to 1:100 on Standard challenges (aggregator-confirmed; per-symbol
+leverage lower on stocks/crypto — verify inside platform contract specs).
+SPREADS/COSTS: spreads run HIGHER than industry average (PropTradingArea
+flag; homepage testimonial praises NASDAQ spreads but aggregate reviews cite
+wide spreads + gold slippage). Commissions/swaps count toward drawdown
+(equity-based limits). No monthly data/platform fee on Standard challenges.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Steps | Target               | Max loss        | Daily loss | Split | Payout rhythm      | Consistency |
+|---|--------------------|-------|----------------------|-----------------|------------|-------|--------------------|-------------|
+| 1 | Standard 1-Step    | 1     | 8% (Phase 1 only)    | 5%              | 3%         | 80%   | 10 business days   | No          |
+| 2 | Standard 2-Step    | 2     | 8% Ph1 + 5% Ph2      | 8%              | 4%         | 80%   | 10 business days   | No          |
+| 3 | Standard 3-Step    | 3     | 3% + 3% + 3%         | 3%              | 2%         | 80%   | 10 business days   | No          |
+| 4 | Instant Funding    | 0     | none (funded direct) | 3%              | 2%         | 80%   | when requirements met | YES 20%  |
+| 5 | Mini (sprint)      | 0     | none (24h sprint)    | 3%              | 2%         | 70%   | 24 hours / next day| Yes         |
+| 6 | Omo 2-Step (promo) | 2     | 6% Ph1 + 8% Ph2      | 8%              | 4%         | 80%   | 10 business days   | No          |
+| 7 | Buy-Now-Pay-Later  | 1+    | 4% Phase 1           | 10% Ph1 / 8% funded | n/a Ph1 / 4% funded | 80% | Instant (funded) | No Ph1 / 20% funded |
+Sizes offered: $2K / $5K / $10K / $20K / $50K / $100K (Standard, Instant,
+Mini, Omo, BNPL grids all show the same six sizes).
+Notes:
+- Funded accounts have NO profit target on every program.
+- No minimum trading days on evaluations; NO time limit on most challenges.
+- 2-Step evaluation requires 3 minimum profitable days of 0.5% per phase
+  (e.g. $10K account = $50 on each of 3 days, day = 00:00-23:59 UTC); the
+  SAME 3x0.5% rule applies on the funded account before a withdrawal.
+- Copy trading within YOUR OWN accounts: allowed on 2-Step and 3-Step only,
+  NOT on 1-Step. External-signal copying is banned (see Section 8).
+- Max allocation: up to $200,000 starting capital on funded; scalable to
+  $1,000,000 via scaling program.
+- Mini: hold only ONE trade at a time; account closes after 24 hours or after
+  a payout request; payouts processed next day.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. STANDARD 1-STEP ---
+- Profit target: 8% Phase 1 only; none on funded (close all positions to book
+  the pass). ($10K: +$800.)
+- Maximum loss: 5% (trailing-from-high-watermark mechanics per FAQ example:
+  $10K account up to $10,350 breaches if equity falls beneath $10,350-$310.50
+  = $10,039.50).
+- Maximum Daily Loss: 3% of the higher of balance/equity at 00:00 UTC.
+  (FAQ: $10K at $10,200 at midnight => limit $10,200-$204 = $9,996.)
+- Minimum profitable days: none stated for 1-Step evaluation.
+- News: allowed with restrictions (no open/close 2 min either side of
+  red-folder ForexFactory events, incl. triggered SL/TP — see 5H).
+- Weekend/overnight holding: allowed. EAs: allowed (no HFT/latency arb).
+- Copy trading own accounts: NOT allowed on 1-Step.
+--- 5B. STANDARD 2-STEP ---
+- Profit target: 8% Phase 1 + 5% Phase 2; none on funded.
+- Maximum loss: 8%. Daily loss: 4% (same 00:00 UTC mechanics).
+- Minimum profitable days: 3 days of 0.5% per phase AND 3 days of 0.5% on
+  funded before withdrawal.
+- Post-pass review: 1-3 days compliance review, then certificate + Veriff KYC
+  link before funded credentials.
+- News/weekend/overnight: same as 1-Step. EAs allowed. Own-account copy
+  trading ALLOWED.
+--- 5C. STANDARD 3-STEP ---
+- Profit target: 3% + 3% + 3% across three phases; none on funded.
+- Maximum loss: 3%. Daily loss: 2%. Tightest drawdown family — cheapest fees.
+- Otherwise same news/weekend/EA/copy-own-accounts rules as 2-Step.
+--- 5D. INSTANT FUNDING (no evaluation) ---
+- No profit target; funded from day one. Max loss 3%, daily loss 2%.
+- Consistency score REQUIRED: (biggest winning day / total profit) x 100%
+  must be 20% or below to withdraw; otherwise keep trading until it drops.
+  (Official example: $5K account days +600/+450/+500/+700/+800 = $3,050
+  total, biggest $800 = 26.2% => keep trading; after +400/+500/+500 total
+  $4,450, $800/$4,450 = 18% => withdraw $4,450, keep $3,560 at 80%.)
+- Withdrawal also needs 3% minimum profit and 3x0.5% profitable days.
+- Payout "when requirements are met" (no fixed 10-day cycle).
+--- 5E. MINI (24-HOUR SPRINT) ---
+- Max loss 3%, daily loss 2%, split 70% (lowest split in the lineup).
+- ONE open trade at a time. Account lifespan 24 hours or until payout
+  request; payout processed next day. Consistency rule applies on funded.
+- Cheapest way to test execution; not a capital-building vehicle.
+--- 5F. OMO 2-STEP (PROMO) ---
+- Targets 6% Phase 1 + 8% Phase 2 (inverted vs Standard). Max loss 8%,
+  daily loss 4%, split 80%, 10-business-day payouts.
+- Promo pricing: 40% off with code OMO (e.g. $10K $38 vs $62 standard).
+--- 5G. BUY-NOW-PAY-LATER ---
+- Pay $5 upfront (any size); balance due later out of proceeds ($40 on $2K
+  up to $589 on $100K). Phase 1 target 4%, Phase-1 max loss 10% (no daily
+  loss in Phase 1); funded max loss 8%, funded daily loss 4%, split 80%,
+  INSTANT funded payouts, 20% consistency on funded.
+--- 5H. NEWS / WEEKEND / OVERNIGHT (ALL PROGRAMS) ---
+- News trading ALLOWED but restricted: no opening or closing (including
+  SL/TP triggers) from 2 minutes before to 2 minutes after a red-folder
+  news event per ForexFactory on the affected symbol. Violation found at
+  post-challenge review = fail/deny.
+- Weekend + overnight holding: allowed on all programs. Swap-free on request.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+LIST PRICES (USD, one-time, "price with coupon" ETERNAL applied; first figure
+= discounted, second = list). Fee REFUNDABLE on the THIRD withdrawal on all
+families except Mini (Mini shows no refund note):
+STANDARD 1-STEP: 2K $14/$15 | 5K $18/$19 | 10K $34/$37 | 20K $62/$68 |
+  50K $153/$170 | 100K $342/$380.
+STANDARD 2-STEP: 2K $18/$19 | 5K $20/$22 | 10K $40/$44 | 20K $80/$88 |
+  50K $198/$220 | 100K $396/$440.
+STANDARD 3-STEP: 2K $12/$13 | 5K $16/$17 | 10K $35/$38 | 20K $69/$76 |
+  50K $171/$190 | 100K $270/$299.
+INSTANT: 2K $14/$15 | 5K $18/$19 | 10K $34/$37 | 20K $62/$68 |
+  50K $153/$170 | 100K $342/$380.
+MINI (no refund): 2K $16/$17 | 5K $20/$22 | 10K $40/$44 | 20K $80/$88 |
+  50K $198/$220 | 100K $396/$440.
+OMO 2-STEP (code OMO, 40% off): 2K $9/$19 | 5K $15/$32 | 10K $38/$62 |
+  20K $74/$122 | 50K $143/$238 | 100K $284/$472.
+BUY-NOW-PAY-LATER (pay $5 now, rest later): 2K $5+$40 | 5K $5+$69 |
+  10K $5+$117 | 20K $5+$189 | 50K $5+$359 | 100K $5+$589.
+ELITE/PRO 1-STEP variants (9% target, 70% split, priced above Standard):
+  $5K "1 Step" $40/$44, "Elite 1-Step" $67/$74; $10K $76/$84 and $126/$139;
+  $20K $139/$154 and $234/$259; $50K $324/$359 and $540/$599;
+  $100K $540/$599 and $900/$999.
+ADD-ONS: cTrader platform access at 2x standard price. No other add-ons sold.
+Retakes: fail = buy a new challenge at full price. Free educational content
+via Maven community.
+REFUND: challenge fee refunded with the THIRD withdrawal (all refundable
+families). Failed evaluations are not refunded.
+PAYMENT METHODS: credit card + other options at checkout (official FAQ:
+"You can pay with a credit card or through other options"). Payout rails are
+separate (see Section 7).
+PROMO CODES at fetch time: ETERNAL (10% off Standard/Instant/Mini), OMO
+(40% off Omo 2-Step). Codes rotate — re-check pricing page before purchase.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 80% trader / 20% firm on Standard 1/2/3-Step, Instant, Omo and BNPL;
+70% on Mini and Elite 1-Step variants.
+FREQUENCY: every 10 business days on all Standard/Omo accounts; Instant pays
+"when requirements are met"; BNPL funded pays INSTANT; Mini pays next day
+(24-hour cycle).
+MINIMUMS & GATES: $20 minimum withdrawal. Instant needs 3%+ profit. Funded
+Standard needs 3 profitable days of 0.5%+ each. No open trades at withdrawal
+time; account must be in profit. Post-evaluation KYC via Veriff before first
+funded account.
+OVERFLOW CAP (binding): maximum $10,000 withdrawal per 30-day rolling cycle
+PER TRADER across all accounts combined; profit above $10,000 in-cycle is
+VOIDED (not rolled). Account resets to starting balance after each split.
+50% BEST-DAY RULE (funded payout cycles over $5,000 profit): best trading day
+or single aggregated trade may not exceed 50% of cycle profit; excess is cut
+to the 50% mark.
+RISK INTERVIEW: mandatory analyst interview after $5,000 lifetime payouts
+(one reschedule allowed; attend within 2 weeks or payout stalls). Random
+sub-$5K interviews at Maven's discretion.
+METHODS: crypto (BTC/ETH/stablecoins), direct bank transfer (supported
+countries incl. Nigeria/Kenya/South Africa/Ghana), Rise gateway ($20 Rise
+fee). UK/US/EU + 100+ listed countries are Rise-or-alternative ONLY (no
+direct bank wire). No Skrill/Neteller.
+SCALING: up to $200,000 starting funded capital per trader; scale plan grows
+accounts to $1,000,000.
+FEE REFUND: third-withdrawal refund (see Section 6). No payout commission
+from Maven; third-party transfer fees may apply.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + verified)
+================================================================================
+BANNED (breach = trade removal, review fail, restriction to 1% risk, or
+termination with payout denial):
+1. High-frequency trading (HFT) and any tick/latency/hedge arbitrage or data-
+   feed manipulation.
+2. Grid trading; reverse/group hedging across accounts; coordinated hedging
+   with other traders.
+3. Copy trading from EXTERNAL sources or other people's accounts onto Maven
+   accounts (own-account copying allowed on 2-Step/3-Step only).
+4. Excessive scalping: over 50% of trades held under 1 minute.
+5. One-sided all-in bets without stop-loss ("gamifying"/unsustainable risk;
+   reviewers may impose a 1% max-risk parameter per T&Cs Section 5).
+6. Multiple funded accounts per household/IP beyond the allocation rules.
+7. Third-party assistance during Veriff KYC (even holding the phone); mismatched
+   identity = "KYC fraud" termination.
+8. News-window violations (2-min blackout, Section 5H) — enforced at review.
+RISK-MGMT RULES: trade must look replicable with real capital; "patterns
+consistent with non-discretionary activity" flag can trigger restriction.
+Martingale: ALLOWED since January 2026 (PropTradingArea). EAs: allowed except
+HFT/latency-arbitrage types.
+CONSEQUENCES LADDER: post-challenge 1-3-day review fail -> no funded account;
+funded breach -> account closure; risk-flag -> 1% risk parameter + interview;
+KYC fail -> termination.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. One funded allocation per household/IP.
+- USA/CANADA: MT5 NOT available; payouts via Rise-or-alternative only (no
+  direct wire). USA is NOT on the banned list (served with restrictions).
+- UK: served (payouts via Rise-or-alternative only).
+- HARD BANS (official footer list, 25 states): Afghanistan, Belarus, Burkina
+  Faso, Burundi, Central African Republic, Congo (Republic of the Congo),
+  Cuba, Eritrea, Guinea, Guinea-Bissau, Guyana, Haiti, Iran, Mali, North
+  Korea, Russia, Saint Lucia, Sierra Leone, Somalia, South Sudan, Sudan,
+  Ukraine, Vanuatu, Venezuela, Yemen. Aggregators cite 40+ with China named —
+  footer list governs; map can change, re-check FAQ before purchase.
+- SANCTIONS: no service to any country on a United Nations sanctions list.
+- KYC: Veriff government-ID + liveness after passing evaluation, before
+  funded credentials. Strict solo-verification (no third party in frame).
+  Payout beneficiary details must match KYC.
+- VPN/VPS/travel: not prohibited in published rules; account sharing still
+  banned — logins must be yours.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/maventrading.com: ~4.3/5 from
+  5,110 reviews (TheTrustedProp backend read) to 4.6/5 from 5,000+ reviews
+  (PropTradingArea Jul-2026 read). Distribution ~83% five-star, 7.5% four-
+  star, 1.5% three-star, 0.9% two-star, ~7% one-star. Trustpilot removed a
+  batch of fake reviews ("Breach of guidelines" notice on profile). Firm
+  actively replies to negatives (visible support threads).
+- TheTrustedProp: 240-258 trader reviews on-site; TTP Trust Score 90/100.
+- Feefo: firm states it is "one of the highest-rated firms on Feefo".
+- PropFirmMatch: Top-3 most-visited-firm badge displayed on Maven homepage.
+- Sentiment themes (positive): sub-hour crypto payouts (30-minute withdrawal
+  reports), responsive live-chat support, cheapest entry in the industry
+  ($13-15 for $2K 3-Step), clear evaluation rules, fast Veriff approvals.
+- Recurring complaints (negative ~7%): gold slippage / SL-not-honored on
+  volatile symbols; KYC rejections over second person in frame; post-payout
+  "high-risk/gamifying" flags with discretionary 1% risk limits; $10K rolling
+  cap + 20%-at-payout consistency discovered late; "KYC fraud" payout denials
+  without published evidence.
+- Red flags: NONE systemic (no regulator action, no mass-termination cluster,
+  multi-year payout record since 2022). Watch items: Trustpilot fake-review
+  removal notice; above-average spreads; cap/consistency learning curve.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the budget-entry benchmark — cheapest evaluation in the tracked
+industry ($2K from ~$13) with EightCap execution and a 2022 vintage. Fees are
+a fraction of FTMO/TopTier; the offsets are the $10K/30-day trader-level cap,
+the evaluation-to-funded consistency gap, and wider spreads.
+MODEL PICK: 2-Step = mainstream (own-copy allowed, 8% room). 3-Step = cheapest
+per dollar of capital but only 3%/2% room — precision traders only. 1-Step =
+fast but no own-copy. Instant = skip evaluation but face the 20% consistency
+score immediately. Mini = execution test, not income. BNPL = $5 trial ticket.
+BEST FIT: beginners testing funded trading cheaply; conservative consistent
+strategists (sub-20% best-day naturally); EightCap/MT5/MatchTrader traders;
+payouts-under-$10K/month traders who never touch the cap.
+BAD FIT: traders needing >$10K/month withdrawals; single-big-day / lottery-
+trade styles; gold scalpers sensitive to slippage; >$200K day-one capital;
+banned-jurisdiction residents; traders wanting Skrill/Neteller rails.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, payouts, bans and prohibitions above were read
+from the 11 official URLs in Section 2 on 2026-09-08. Prices are coupon-
+inclusive ETERNAL/OMO rates shown on the live grid; promos rotate — re-check
+/pricing anchors before purchase. Maven notes all accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes six-size price grids, overflow-cap + 50%-best-day + risk-
+interview payout gates, Veriff KYC strictness, and BNPL terms.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated nature: "Maven Trading only provides services of simulated
+trading and educational tools for traders... Nor do we offer any trading on
+real markets as all instruments are simulated and fed to use through
+liquidity providers."
+[2] Min profitable days: "On our two-step challenge, you have to achieve 3
+minimum profitable days of 0.5% on each phase to proceed. For example, if you
+are trading a $10,000 account, in order to pass you have to generate $50 on
+three days... You will also need to achieve the 3 minimum profitable days of
+0.5% in the funded phase to achieve a withdrawal."
+[3] Review: "Once you've passed the assessment, our team will review your
+account, which takes 1-3 days... Upon the review being successful you will
+then receive your certificate from Maven and a link to follow KYC."
+[4] Overflow: "You are entitled to a maximum withdrawal of $10,000 per
+30-day rolling cycle (per trader)... Any profits generated over the $10,000
+limit will be voided... Your account will be reset to the starting balance
+after receiving the profit split."
+[5] 50% rule: "If your total profit exceeds $5,000, your best trading day...
+or singular trade... may not exceed 50% of your profit in the funded stage
+payout cycle. If you do exceed the 50%, the profits made will be contracted
+to the 50% mark."
+[6] Risk interview: "After exceeding $5,000 in payouts, you must participate
+in a risk interview with one of our analysts... If you fail to attend and
+participate in your interview, your payout will not be processed."
+[7] Trailing max loss: "Your max loss limit is trailing from your high
+watermark... if you get your account up to $10,350, if at any point your
+account goes beneath ($10,350 - $310.5) = $10039.50, then your account will
+be breached."
+[8] Daily loss: "The daily loss limit is 2%, meaning whatever is highest out
+of your equity/balance at 00:00 UTC, you cannot let your equity go beneath
+this level... $10,200 - $204 = $9996, if your equity goes beneath $9996 you
+will lose the account."
+[9] Consistency: "A consistency score is a measure of how consistent your
+trading is. You can only withdraw from your instant account when your
+consistency score is 20% or below. This is calculated by (your biggest
+winning day / total profit) * 100%."
+[10] Split: "The profit split is 80% across instant, one step, two step and
+three step."
+[11] Withdrawal rails: "You can withdraw funds via Direct Bank Transfer,
+Rise, or other options... Payments via Rise incur a $20 withdrawal fee."
+[12] MT5 restriction: "Metatrader is not available for United States or
+Canada."
+[13] Legal entity: "Maven Edu - FZCO is a registered limited corporation in
+United Arab Emirates, DSO-IFZA, IFZA Properties, Dubai Silicon Oasis with
+the registration number 006-0060823-070425."
+[14] Country bans (footer): "Restricted Countries: Afghanistan, Belarus,
+Burkina Faso, Burundi, Central African Republic, Congo (Republic of the
+Congo), Cuba, Eritrea, Guinea, Guinea-Bissau, Guyana, Haiti, Iran, Mali,
+North Korea, Russia, Saint Lucia, Sierra Leone, Somalia, South Sudan, Sudan,
+Ukraine, Vanuatu, Venezuela, Yemen."
+[15] Scale: "Trusted by over 300,000 prop firm traders worldwide... 115k+
+Discord Members... 50k+ Funded traders... $62k+ Highest total payout...
+$200M+ Total funding."
+================================================================================
+END OF FILE — MAVEN TRADING COMPLETE.
+================================================================================

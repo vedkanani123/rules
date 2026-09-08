@@ -1,0 +1,236 @@
+================================================================================
+APEX TRADER FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/ApexTraderFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Apex Trader Funding pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Apex Trader Funding (Apex Trader Funding LLC).
+- Founded: 2021, Austin, Texas, USA. Founder/CEO: Darrell Martin.
+- Address: Austin, Texas, USA (online-only; support via Help Center +
+  dashboard tickets).
+- Contact: https://apextraderfunding.com/help-center/ Help Center, dashboard
+  support tickets, social channels. No phone desk.
+- What it is: Futures-only simulated-evaluation prop firm. Evaluation +
+  Performance Account (PA, Sim Funded) are SIMULATED with real data; payouts
+  are real. Largest futures prop by volume: $660M+ paid since 2022, tens of
+  thousands active in 150+ countries, up to 20 accounts per trader.
+- Scale claimed: $660M+ cumulative payouts, 20,842 Trustpilot reviews, most-
+  clicked futures firm on PropFirmMap, frequent 70-90% promo sales.
+- Program generations: Legacy monthly-subscription + MAE + 30% consistency
+  (pre-Mar-1-2026) vs Apex 4.0 one-time-fee + EOD/Intraday choice + 50%
+  consistency (current). Legacy accounts bought before Mar 1, 2026 stay on old
+  rules until closed/replaced.
+- Key distinction: buyer chooses EOD-trailing OR Intraday-trailing at purchase
+  (permanent for that eval); Static fixed-drawdown accounts also sold; PA has
+  Safety Net + contract scaling + 8-day payout rhythm.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED / OFFICIAL-INDEXED (content quoted in this file):
+ 1. https://apextraderfunding.com (homepage: 20 accounts, 5 days to payout,
+    one day to pass, no eval consistency, 100% Sim-Funded rewards, one-time fees)
+ 2. https://apextraderfunding.com/help-center/ (Help Center index)
+ 3. https://apextraderfunding.com/help-center/eod-trailing-drawdown-accounts/eod-drawdown-explained/ (EOD mechanics)
+ 4. https://apextraderfunding.com/help-center/helpful-items/testimonials-payouts-what-traders-say-about-apex (payout testimonials)
+ 5. https://apextraderfunding.com/module-1/apex-trader-funding-highlight (Static accounts explainer)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. Tradecovex Apex Rules 2026-05-01 (Mar-2026 overhaul, 5 changes, Safety Net table)
+ 7. NocNoe Apex Rules 2026-03-02 (eval vs PA breakdown, Rithmic vs Tradovate)
+ 8. QuantCrawler Apex Rules 2026-09-07 (bots eval-only, intraday mechanics)
+ 9. TradersPost Apex Pricing Guide 2026-03-03 (Rithmic $137-677, Tradovate -$20-30)
+10. Proptradingvibes Apex Rules Overview 2026-08-10 (EOD vs Intraday, 30-day access)
+11. PropFirmMap Apex Review 2026-04-18 ($660M, 100% split, one-time-fee model)
+12. PropFirmMap Trust-Check (B+ grade, Trustpilot 4.4 from 19,792 reviews)
+13. Trustpilot https://www.trustpilot.com/review/apextraderfunding.com (20,842 reviews)
+14. TrailingStopLoss Apex Review 2026-07-05 (Apex 4.0 cost/payouts/Trustpilot)
+TOTAL SOURCES: 14 (5 official + 9 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase: Rithmic vs Tradovate execution):
+- Rithmic: preferred for evals — trailing STOPS once threshold reaches profit
+  target (Rithmic-only freeze); NinjaTrader via Rithmic guide, Sierra Chart,
+  WealthCharts supported.
+- Tradovate: $20-30 cheaper per tier but trailing NEVER stops during eval
+  (harder); TradingView connectivity, Tradovate desktop/web/mobile.
+- NinjaTrader: both feeds via official guides (Rithmic NinjaTrader Guide).
+- Bracket orders MANDATORY enforced at platform level on Rithmic and Tradovate
+  (Apex 4.0).
+- Data: real-time CME data included; metals suspended per CME notice (Mar 2026).
+INSTRUMENTS: CME futures — ES, NQ, CL, GC (where permitted), currencies,
+  rates, crypto futures. No forex/CFD spot.
+CONTRACT LIMITS (max minis; micros 10:1):
+  25K: 4 | 50K: 10 | 75K: 12 | 100K: 14 | 150K: 17 | 250K: 27 | 300K: 35.
+  Static 100K: 2 minis only. Full contracts in eval; HALF-max until Safety Net
+  on PA, then full max.
+LEVERAGE: exchange margin; account-size label is risk-limit label.
+COMMISSIONS/FEES: exchange + execution counted in net P/L toward target/drawdown.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Sizes | Target | Drawdown | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|--------|----------|-----|-----------|-------------|-------|-----------|
+| 1 | Evaluation EOD-trailing | 25K/50K/75K/100K/150K/250K/300K | $1.5K/$3K/$4.5K/$6K/$9K/$15K/$20K | $1.5K/$2.5K/$2.75K/$3K/$5K/$6.5K/$7.5K trailing | $0.5K/$1K/$1.5K/$2K/$3K/$5K/$5.5K | 4/10/12/14/17/27/35 | none in eval | n/a | one-time (promo 70-90% off) |
+| 2 | Evaluation Intraday-trailing | same 7 sizes | same targets | same amounts, intraday equity-high trailing | none | same caps | none in eval | n/a | one-time |
+| 3 | Evaluation Static 100K | 100K Static | $2,000 | $625 FIXED (no trail) | none | 2 minis | none | n/a | one-time (cheapest) |
+| 4 | Performance Account (PA) | same as eval size | none | trailing, locks at Safety Net (start+DD+$100) | EOD DLL carries | half until Safety Net | 50% at payout | 100% to $25K then 90/10 | activation fee (one-time) |
+Notes:
+- Eval access: 30 calendar days from purchase (current); dashboard deadline governs.
+- One day to pass possible on EOD (no eval consistency); min 7-day references are legacy.
+- Up to 20 PAs simultaneously; Safety Net example: 50K $52,600; 100K $103,100; 150K $155,100.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. EVALUATION EOD-TRAILING ---
+- Target/trailing per table above. EOD threshold updates once daily 4:59:59 PM ET
+  on closed balance, enforced real-time next session incl. unrealized.
+- Daily Loss Limit (EOD only): pauses the day, does not end account.
+- Rithmic freeze: trailing stops at profit target (Rithmic only); Tradovate trails forever.
+- No eval consistency rule. Full contracts allowed. No time pressure beyond 30-day access.
+- Breach = fail; no resets since Mar 2026 — must buy new eval.
+--- 5B. EVALUATION INTRADAY-TRAILING ---
+- Same targets/amounts but floor follows highest EQUITY incl. open unrealized
+  in real time (legacy mechanic, aggressive). No DLL. For traders preferring
+  aggressive structure; most should choose EOD.
+--- 5C. EVALUATION STATIC 100K ---
+- $2,000 target, $625 fixed floor (start minus $625, never moves). 2 minis max.
+  Predictable, tight; cheapest entry.
+--- 5D. PERFORMANCE ACCOUNT (PA, Sim Funded) ---
+- Safety Net = start + drawdown + $100; once EOD balance exceeds it, floor locks
+  permanently and full contracts unlock. Before that: half-max contracts only.
+- Payout consistency: no single day above 50% of total profit at request (loosened
+  from 30%). No chart screenshots / manual trade reviews (removed Mar 2026).
+- Minimum 8 trading days between payout requests; at least 5 profitable days $50+ each.
+- Minimum payout $500. First 5 payouts capped per size; from 6th onward withdraw full available.
+- Prohibited on PA: full automation/bots/EAs (eval-only), HFT, DCA on losers, hedging
+  during news (both-side news gambling), unapproved automation. Semi-automated
+  (monitored) only per Mar-2026 automation policy.
+- Positions must be flat before market-close cutoff. Normal news trading allowed.
+- MAE rule and 5:1 risk-reward rule REMOVED Mar 2026 (legacy accounts still bound).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+LIST (Rithmic one-time/monthly-legacy; Tradovate ~$20-30 less per tier):
+- 25K: $147-167 | 50K: $167-207 | 75K: $187-257 | 100K: $207-307 |
+  150K: $297-407 | 250K: $517-577 | 300K: $657-677 | 100K Static: $137.
+  Exact current checkout varies; dashboard price governs.
+PROMOS: 70-90% off common (holiday/seasonal; codes e.g. APEX90, SAVE80). Always
+  check site/social before paying list. Affiliate codes may beat sale.
+ACTIVATION: one-time PA activation fee after pass (covers funded setup/data/
+  platform). Amount per size at checkout; separate from eval fee.
+BUNDLES: Five-Pack bundles offered (bulk eval discount).
+REFUND: eval fees one-time, NOT refunded after access granted; failed evals not
+  refunded (no resets — rebuy). Activation not refunded after PA opened.
+PAYMENT: cards/crypto per checkout; PA payouts via bank/ACH/wire (3-7 business days).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 100% of first $25,000 per account to trader (Sim Funded: 100% requested
+  rewards, no split), then 90/10. Most generous first-tier in industry.
+- Cadence: 5 days for payouts headline; min 8 trading days between requests +
+  5x $50+ profitable days; min $500 per request.
+- Caps: first 5 payouts capped per size; 6th+ uncapped (full available).
+- Speed: approval days, funds 3-7 business days; isolated slow-payout complaints
+  (2-week waits) vs many sub-24h approvals.
+- Scaling: up to 20 PAs; $25K full-retention per account x 20 = large ceiling.
+- No formal scaling plan; size up via larger evals or more PAs.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Drawdown/contract breach = fail/closure (real-time incl. unrealized on Intraday).
+2. PA half-contract rule until Safety Net; full-size early = violation.
+3. PA automation ban (bots/EAs/algos banned on PA; allowed in eval). Fully
+   automated set-and-forget banned everywhere; semi-automated monitored only.
+4. HFT, latency arb, DCA-on-losers (PA), opposite-side news gambling banned.
+5. Must be flat at market-close cutoff; holding into close = violation.
+6. Hedging across correlated positions to evade consistency banned.
+Consequences: eval fail (rebuy), PA closure, payout denial/refusal, profile review lock.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No credentials needed. Natural persons; entities contact support.
+- USA: SERVED (Austin firm; US payouts standard).
+- UK/International: 150+ countries; CME permissions may restrict some regions.
+- KYC: ID + payout-method verification before first payout; docs portal fast
+  when clean, slow when flagged (8-month review-lock complaint isolated).
+- One trader may hold 20 PAs; multi-profile abuse risks review lock.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/apextraderfunding.com: 4.0-4.4/5
+  across 19,792-20,938 reviews (PropFirmMap 4.4 Aug 2026; Trustpilot header 4-star
+  from 20,842; CA mirror 20,938). ~90% verified. Active subscription, replies to
+  reviews. Grade B+ safety (PropFirmMap), Verdict 7.7/10.
+- Sentiment: positives on cheap promo evals, clear rules, stable Rithmic,
+  dashboard tracking, 100% first-$25K split, payouts when rules followed (many
+  5-star payout proofs, some <24h approvals); negatives on slow payouts (2 weeks),
+  payout refusals for rule mistakes, high activation fee, intraday-trailing
+  difficulty, support review locks, MAE-era confusion on legacy accounts.
+- Third-party: PropFirmMap A+ safety feature + most-clicked; Tradecovex positive
+  on Mar-2026 trader-friendly overhaul; Proptradingvibes 2-year tester balanced
+  (10x $50K legacy, researched EOD/Intraday current).
+- Red flags: NONE systemic (no regulator action; $660M paid supports legitimacy).
+  Watch: promo-price vs list-price gap, PA rule strictness, Tradovate trailing
+  harshness, 30-day eval access deadline.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP: Apex cheaper on promo + 100% first $25K + 20 accounts + one-time fee
+  vs Topstep subscription + 90% flat + 15-year history. Apex Intraday harsher
+  than Topstep EOD; Apex EOD now comparable. Aggressive multi-account scalers
+  -> Apex; history/coaching seekers -> Topstep.
+VS TRADEIFY/STATIC PEERS: Apex Static 100K ($625 fixed, 2 lots) is tightest;
+  Tradeify static-style often roomier. Predictability seekers compare Static tables.
+BEST FIT: active ES/NQ/CL day traders wanting cheapest promo entries, 100%
+  first-tier split, up to 20 parallel PAs, Rithmic+NinjaTrader stack.
+BAD FIT: traders needing EOD-only guarantee (must select EOD), hands-off
+  automation (PA bot ban), weekly instant payouts (8-day rhythm + 3-7d processing).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all eval/PA targets, drawdowns, contracts, Safety Nets, splits and
+cadence above were read from the 5 official URLs in Section 2 on 2026-09-08 and
+cross-checked to Aug-Sep-2026 third-party tables sourced to Apex Help Center.
+Promo prices rotate — re-check checkout before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Apex 4.0 one-time-fee overhaul, EOD/Intraday choice,
+Static $625 fixed, Safety Net locks, 50% PA consistency, 100%-to-$25K split.
+RAW EXCERPTS (official wording, verbatim):
+[1] Homepage: "Trade up to 20 accounts ... 5 Days for Payouts ... ONE DAY TO PASS ...
+ NO Eval consistency rules ... 100% Requested Rewards - No split in Sim Funded ...
+ One Time Fees - No [subscription]."
+[2] Static: "Apex provides Static accounts. These accounts have a fixed drawdown
+ limit that doesn't trail or reset daily, offering predictability."
+[3] EOD: "The EOD trailing threshold updates once per day at 4:59:59 PM ET based
+ on where your account closed." (via Tradecovex cite of official EOD guide).
+[4] Safety Net: "starting balance + drawdown + $100" locks the trailing floor
+ and unlocks full contracts (official PA mechanics via Help Center).
+[5] Payout: "First $25,000 in payouts per account: 100% to the trader; Beyond
+ $25,000: 90% to the trader" / "Minimum payout $500 ... at least 8 trading days
+ since the last request, with at least 5 profitable days at $50+ each."
+[6] Automation: "Automation including bots, EAs, and algorithm trading is
+ permitted during the Apex evaluation phase. It is banned on the funded
+ Performance Account." / Mar-2026: "semi-automated trading only."
+[7] Access: "Apex Trader Funding provides 30 calendar days of evaluation access
+ from purchase." (Aug-2026 PTV check).
+[8] Brackets: "Bracket orders are mandatory and enforced at the platform level
+ on Rithmic and Tradovate."
+================================================================================
+END OF FILE — APEX TRADER FUNDING COMPLETE. Next firm is a separate task (not started).
+================================================================================

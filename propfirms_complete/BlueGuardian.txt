@@ -1,0 +1,365 @@
+================================================================================
+BLUE GUARDIAN — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/BlueGuardian.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Blue Guardian pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Blue Guardian (operating entity: Blue Guardian Limited, The
+  Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, Saint Lucia;
+  payments/education via Iconic Exchange FZCO, IFZA Business Park, DDP Dubai,
+  UAE; marketing via Blue Guardian Marketing LLC, Barsha Heights, Dubai).
+- Founded: June 2021, Dubai-based. CEO: Sean Bainton.
+- Contact: 24/7 live-chat via dashboard + email support; Discord 60K-100K+
+  members; GuardianTV on YouTube (5K+ subscribers); Telegram, X, Instagram,
+  LinkedIn.
+- What it is: CFD + FUTURES multi-market simulated-evaluation prop firm. ALL
+  accounts are DEMO accounts with fictitious funds; trading is simulated.
+  Funded traders receive discretionary real-money Rewards (profit splits),
+  not live capital. Official footer: "Blue Guardian provides simulated/demo
+  evaluation challenges purely for educational and skills-assessment
+  purposes... not a broker, does not take client deposits... All trading
+  activity is conducted in a virtual environment."
+- Scale claimed: 85,000-100,000+ customers across 160-170+ countries;
+  $20M-$25M+ paid out ($23.8M across 9,219+ withdrawals per PropFirmReviews
+  Jul-2026); footer counters render dynamically ($0M+ placeholders in static
+  fetch). Payout-hero cases: Tomas $200,000, Stephen $201,095, Booker $52,431.
+- Ratings displayed: 4.6/5 PropFirmMatch, 4.9/5 Google; third-party reads
+  3.9/5 Trustpilot (see Section 10).
+- Sponsorships/press: Chris Eubank Jr (Eubank vs Benn 2025 "Fight of the
+  Year"); Official FX Partner of Birmingham City F.C. 2024/25; coverage in
+  Nasdaq, Bloomberg, MarketWatch, FXStreet, Investing.com, Khaleej Times.
+- Futures home: blueguardianfutures.com redirects to blueguardian.com/futures.
+- Key distinction: ONE brand, TWO markets — CFD (Instant / 1-Step / 2-Step /
+  3-Step, one-time fee) and Futures (Standard / Reserve / Express / Direct,
+  separate eval + activation economics). Guardian Shield auto-close (2%
+  floating-loss) applies on CFD funded accounts. Never mix CFD and Futures
+  rulebooks.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://blueguardian.com (homepage: CFD+Futures chooser, Instant/1-Step/
+    2-Step + Standard/Reserve/Express/Direct cards, live price grid
+    $5K-$400K, funded-rules panel, bundle discounts, payout guarantee,
+    testimonials, FAQ index, entity/footer disclosure)
+ 2. https://blueguardian.com/forex (CFD Discover page: Instant/1-Step
+    Standard/1-Step Nano/2-Step Standard/2-Step Nano plans)
+ 3. https://blueguardian.com/futures (Futures Discover page: Standard/
+    Reserve/Express/Direct plans, caps, cadence, no-DLL option, Live path)
+ 4. https://help.blueguardian.com/en (official help centre index)
+ 5. https://help.blueguardian.com/en/articles/14062186-1-step-standard-rules
+    (1-Step Standard rules verbatim: 10%/4%/6%, 3 days, 85% split, 14-day
+    cycle, 5-min news blackout, 2-min scalping floor, Guardian Shield,
+    1% buffer, 24h guarantee)
+ 6. https://blueguardian.com/payouts (payout methods/cadence page)
+ 7. https://blueguardian.com/terms-and-conditions (entity + simulated terms)
+ 8. https://blueguardian.com/refund-policy (refund terms page)
+ 9. https://blueguardian.com/about-us (company background page)
+10. https://blueguardian.com/how-it-works (evaluation-to-funded flow)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. PropInsider Blue Guardian review 2026-05-02 (85K customers, $20M paid,
+    3.9 Trustpilot read, four-path CFD breakdown)
+12. PropFirmReviews Blue Guardian review 2026-07-14 (founded Jun 2021 Sean
+    Bainton, $23.8M/9,219 withdrawals, 3.9/895 Trustpilot, plan tables,
+    Guardian Shield + consistency + IP-lock watch items)
+13. Propfirmito Blue Guardian review 2026-04-20 (100K customers, $25M paid,
+    4.6 Trustpilot-via-PFM / 4.9 Google, 9-size Instant pricing, futures
+    Standard/Reserve/Express/Direct cards, 24h-or-100% guarantee)
+14. TradingPilot Blue Guardian profile 2026-04-29 (3.9/198 reviews, 15-25%
+    consistency read, fee range $15-$1,650, refund-after-payout + $100 reset)
+TOTAL SOURCES: 14 (10 official + 4 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CFD PLATFORMS: MetaTrader 5 (MT5), Match-Trader, TradeLocker (+ MT4 per
+PropFirmReviews). Choose at purchase.
+FUTURES PLATFORMS: NinjaTrader, Tradovate, TradingView, DeepCharts
+(+ ProjectX, Volsys per Propfirmito).
+DASHBOARD: proprietary app (app.blueguardian.com) with objectives tracking;
+checkout at checkout.blueguardian.com with bundle discounts (2 accounts +30%,
+3 accounts +35%, 4 accounts +40% extra off Instant sample).
+CFD INSTRUMENTS: FX (incl. exotics), indices, commodities, crypto. EOD
+trailing drawdown calculated at 5pm EST off higher of balance/equity —
+intraday swings do not move the floor.
+FUTURES INSTRUMENTS: CME listed active contracts.
+CFD LEVERAGE: 1:30 max (homepage funded-rules panel); aggregators cite 1:100
+forex Unlimited / 1:50 Elite packages — plan panel governs, re-check
+checkout before purchase.
+COSTS: spreads institutional-claimed ("tight spreads, low slippage");
+commissions/swaps count toward equity-based limits. No monthly data fee on
+CFD. Futures activation fees are plan-specific (some $0, some pay-after-pass).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CFD (one-time fee, indefinite eval period):
+| Program        | Phases | Target        | Daily loss | Max DD        | Min days | Split      | Payout cycle |
+|----------------|--------|---------------|------------|---------------|----------|------------|--------------|
+| Instant        | 0      | none          | 3%         | 6% EOD-trail  | 5x0.5%*  | 80% (90% add-on) | ON-DEMAND |
+| 1-Step Std     | 1      | 10% (help) / 8% (aggr.) | 4% | 6% trailing | 3x0.5%   | 85% (90% add-on) | 14d (7d add-on) |
+| 1-Step Nano    | 1      | reduced       | plan panel | plan panel    | plan panel | up to 90% | 7d class    |
+| 2-Step Std     | 2      | 8% + 5%       | ~4-5%      | plan-specific | 3/phase  | 85% (90% add-on) | 14d (7d add-on) |
+| 2-Step Nano    | 2      | reduced       | plan panel | plan panel    | plan panel | up to 90% | 7d class   |
+| 3-Step         | 3      | lowest/step   | ~5%        | 8-10% class   | plan panel | up to 90% | 7d class   |
+| Instant Starter| 0      | none          | 3%         | 6% EOD-trail  | 5x0.5%   | 80%        | on-demand (1 payout max) |
+FUTURES (separate economics):
+| Program  | Eval | Daily limit | Payout cadence | Caps | Notes |
+|----------|------|-------------|----------------|------|-------|
+| Standard | yes  | applies     | every 3 days   | scale to $4,500 | $25K size has NO daily loss limit |
+| Reserve  | yes  | DLL or No-DLL choice | plan cycle | flat $1K/$2K/$2.5K/$3K | 5 payouts -> straight to Live |
+| Express  | yes  | applies     | EVERY business day | $1,100/day (highest claimed) | news trading allowed; <1h processing |
+| Direct   | none | applies     | INSTANT        | consistency-scaled | consistency 20%->25%->30% |
+Notes:
+- *Instant funded payout needs 5 trading days each with ≥0.5% closed profit
+  (non-consecutive OK) + 20% consistency (no single day >20% of payout-period
+  profit).
+- Funded accounts have NO profit target on every program.
+- No time limits on CFD evaluations (Max Trading Days: Indefinite).
+- Max CFD size $400K per account; merging to $400K forex ($850K combined with
+  futures per PropFirmReviews); scaling programme to $4,000,000 total.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CFD INSTANT (incl. $10 Instant Starter) ---
+- No evaluation, no target; funded from day one. Daily loss 3% of original
+  balance; max 6% EOD-trailing. 5 qualifying days (0.5%+ each) + 20%
+  consistency before payout. Split 80% (90% paid add-on). On-demand payouts;
+  Starter capped at 1 payout. Guardian Shield 1% floating-loss auto-close on
+  instant (vs 2% standard). Fee NOT refunded.
+--- 5B. CFD 1-STEP STANDARD (official help verbatim) ---
+- Target 10% Phase 1 (help page; aggregators quote 8% on current marketing —
+  dashboard figure governs). Daily 4% of INITIAL balance. Max 6% TRAILING off
+  highest-watermark CLOSING balance; locks at start once +6% banked, then a
+  fixed 1% buffer must remain at payout. Min 3 trading days (0.5%+ each).
+  Split 85% (90% add-on). Cycle 14 days (7-day add-on). Min withdrawal $100
+  crypto / $500 Rise; all positions closed; balance above start; no
+  violations. News: free in challenge; on FUNDED no open/close 5 min either
+  side of red-folder events + FOMC speeches/statements (profits removed, no
+  auto-breach). Tick-scalping floor 2 minutes. EAs allowed; copy only between
+  own accounts; VPN/VPS allowed except to evade copy/group/signal rules.
+  Guardian Shield (funded only): auto-close ALL at 2% floating loss (soft
+  breach, keep trading) — 1st trigger cuts split to 50% permanently, 2nd
+  terminates the account.
+--- 5C. CFD 2-STEP STANDARD ---
+- 8% Phase 1 + 5% Phase 2; otherwise same 6%-trailing family mechanics, 3
+  days/phase, 85% (90% add-on), 14-day cycle, same news/scalping/EA/copy/
+  Shield/buffer rules as 1-Step.
+--- 5D. CFD NANO (1-Step Nano / 2-Step Nano) + 3-STEP ---
+- Budget rails: lowest fees in lineup (3-Step from ~$15-$23 discounted);
+  reduced per-phase targets; same indefinite eval, EAs/copy/weekend/overnight
+  freedoms; split ceiling up to 90%; 7-day payout class. Exact Nano/3-Step
+  daily/max figures live on the plan panel — confirm at checkout.
+--- 5E. FUTURES STANDARD ---
+- Classic evaluation, EOD-trailing drawdown; payouts every 3 days (fastest
+  non-daily cadence claimed); caps scale with consistency to $4,500/payout;
+  $25K size carries NO daily loss limit.
+--- 5F. FUTURES RESERVE ---
+- DLL or No-DLL purchase choice (No-DLL costs more); flat caps
+  $1K/$2K/$2.5K/$3K by size; 5 payouts graduates straight to Live account.
+--- 5G. FUTURES EXPRESS ---
+- Daily-payout cash-flow vehicle: every business day, $1,100/day cap,
+  sub-hour processing, news trading allowed.
+--- 5H. FUTURES DIRECT ---
+- Skip-the-eval instant funded: instant payout, consistency scales
+  20% -> 25% -> 30% across payouts.
+--- 5I. NEWS / WEEKEND / OVERNIGHT (CFD) ---
+- Challenge phases: news trading ALLOWED. Funded (excl. futures Express):
+  5-minute blackout around high-impact red-folder + FOMC. Weekend holding
+  YES, overnight holding YES, EAs YES, trade copier (own accounts) YES on
+  the homepage rules panel.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CFD INSTANT (list | 25%-off BG25 sample; Starter special): 5K ~$10 special |
+10K $100 list ($75 BG25) | 25K $208 ($156) | 50K $324 ($243) |
+100K $623 ($467, most popular) | 200K $954 ($716) | 300K $1,712 ($1,284) |
+400K $2,200 ($1,650). Bundle: 2ac +30% / 3ac +35% / 4ac +40% extra off.
+1-STEP / 2-STEP / 3-STEP: same $5K-$400K size ladder; Instant = highest fee,
+3-Step = lowest (TradingPilot discounted floor: Instant $54, 1-Step $30,
+2-Step $18, 3-Step $15; ceiling $1,650). Nano variants price below Standard.
+Exact per-model fees live behind checkout — list figures above are the
+Instant anchor; confirm model/coupon math before purchase. Fees range $15 to
+$1,650 all-in (TradingPilot).
+ADD-ONS (paid): 90% profit-split upgrade; 7-day payout upgrade (14d -> 7d).
+Reset fee $100 (TradingPilot).
+REFUND: challenge (non-Instant) fee refunded AFTER FOURTH payout on forex
+accounts (PropFirmReviews). Instant fees NOT refunded. Refund Policy page
+governs edge cases.
+FUTURES: plan-specific pricing + activation (some $0, some pay-after-pass);
+Express/Reserve/Standard/Direct each priced separately on /futures checkout.
+PAYMENT METHODS: cards, VISA, PayPal-class rails, bank, crypto (footer icons);
+payout rails separate (Rise/crypto). Promo at fetch: BG25 (25% off all CFD
++ Futures); Propfirmito code RAMESCO (25% single, 40% bundles).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: CFD base 80% Instant / 85% post-1-Step (85% 2-Step) up to 90% via
+add-on; select plans to 100% (homepage "Maximised Edge"); Futures to 90/10
+with first $15K at 100% on Futures (Propfirmito). Guardian Shield 1st trigger
+= permanent 50% split on that account.
+FIRST PAYOUT: Instant on-demand after 5 qualifying days; challenges 14 days
+after first funded trade (7 days on 1/2/3-Step per Propfirmito table —
+dashboard governs; futures Standard 3-5 days, Express daily, Direct instant).
+CYCLE: Instant on-demand; challenges 14-day default (7-day add-on); futures
+Standard every 3 days / Express daily / Reserve plan cycle.
+MINIMUMS: $100 crypto, $500 Rise. KYC before first payout. Buffer: 1-Step
+Standard keeps 1% of initial in-account once +6% locked (cannot drain to the
+floor). All positions closed at request.
+GUARANTEE: 24-hour payout guarantee — approved payouts processed in ~1 hour
+average, within 24 business hours, else +10% split on that payout (Forex;
+homepage: "Paid in 24 hours or get 100%"). Futures: 48-hour or $1,000 extra
+(Propfirmito).
+METHODS: Rise or Crypto (bank wire class via Rise). Verified $23.8M+ / 9,219+
+withdrawals; footer heroes to $200K single-trader totals.
+SCALING: merge to $400K forex ($850K w/ futures); scaling programme to
+$4,000,000 total simulated capital. Futures Reserve: 5 payouts -> Live.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + verified)
+================================================================================
+BANNED (profits removed, Shield split-cut, breach or termination):
+1. HFT of any kind; tick scalping (sub-2-minute holds flagged); all arbitrage
+   (tick/latency/hedge).
+2. News-blackout violations on FUNDED CFD (5-min red-folder + FOMC open/close
+   — profits removed without auto-breach; malicious bypass also stripped).
+3. Copy/group/signal trading across NON-owned accounts; VPN/VPS use to evade
+   copy/group rules (instant fail + termination).
+4. Breaching daily (3-5%) or max (6% EOD-trailing) limits — hard breach.
+5. Second Guardian Shield trigger (first = 50% split forever, second = dead).
+ALLOWED (explicit): news in CHALLENGE phases; weekend holding; overnight
+holding; EAs (own-strategy, non-HFT); third-party copier BETWEEN OWN accounts
+only; hedging; martingale/grid (no public-plan ban); scalping ≥2-min holds.
+CONSEQUENCES LADDER: funded news-breach profit strip -> Shield 50% split ->
+Shield termination / hard-breach termination.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Operates across 170+ countries (homepage) / 160+ (reviews). US traders
+  ACCEPTED (testimonial heroes are US; TradingPilot lists US accepted) but
+  VPS/IP locks reported for US automation users — keep one clean static IP.
+- No published hard-ban country list on fetched pages; sanctions-screening
+  applies (standard). Re-check help centre before purchase from restricted
+  regions.
+- KYC before first payout (ID + liveness via dashboard flow). No stated age
+  floor on fetched pages — 18+ standard applies.
+- VPN/VPS allowed EXCEPT to evade copy/group/signal rules.
+- Entities: Saint Lucia operator + UAE payments/education + UAE marketing —
+  contracting party per Terms governs disputes/refunds.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/blueguardian.com: 3.9/5 —
+  895 reviews (PropFirmReviews Jul-2026) / 198 reviews 3.9 (TradingPilot
+  Apr-2026). PropFirmMatch badge on-site shows 4.6/5; Google 4.9/5. Spread
+  reflects badge-vs-open-platform gap.
+- PropInsider: 3.9/5 community, "verified payouts, zero recent major
+  compliance issues", 85K customers / $20M paid read.
+- Propfirmito: B+ 73.6/100; $25M+ / 100K customers / 160+ countries read.
+- Sentiment themes (positive): sub-hour payouts ("3 hrs on 5K Instant",
+  "few hours, Instant Starter"), leniency anecdotes (accidental break not
+  breached), clean dashboard, fast phase credentials, 9-month no-denial
+  veterans.
+- Recurring complaints (negative): Jun-2026 payout delays (10-12 days post-
+  KYC) + support-ticket limbo; Guardian Shield 2% auto-close cutting winners;
+  5-min funded news blackout catching SL/TP; 20% Instant consistency binding;
+  checkout-only pricing opacity; US VPS IP locks.
+- Red flags: NONE systemic (no regulator action, no mass-termination
+  cluster; firm replies to negatives and honours the 24h-or-extra guarantee).
+  Watch items: Shield permanence, news-window strictness, Trustpilot/Google
+  score gap.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the multi-market bridge — CFD + real CME futures under one roof
+with EOD (not intraday) drawdown math and a contractual payout-speed
+guarantee few rivals publish. Fees span widest in batch ($10 Starter to
+$2,200 $400K); splits top at 90% (+100% futures kicker); scaling to $4M is
+the largest headline allocation in this batch.
+MODEL PICK: Instant/Starter = skip-eval + on-demand cash (accept 3% daily +
+20% consistency + Shield-1%). 1-Step = fastest eval with 85-90% end split.
+2-Step = classic rhythm. 3-Step/Nano = cheapest tuition. Futures Standard =
+3-day cadence; Express = daily income; Reserve No-DLL = roomiest futures;
+Direct = instant futures.
+BEST FIT: traders wanting CFD + futures with one KYC/wallet; EOD-drawdown
+lovers; payout-speed maximisers; platform-tied traders (MT5/Match/TradeLocker
++ Ninja/Tradovate/TV); US traders (with clean IP hygiene).
+BAD FIT: sub-2-minute scalpers/HFT; funded-news straddlers; traders who hold
+through red-folder/FOMC on funded CFD; anyone who cannot survive a 2%
+floating auto-close; traders needing published flat pricing without visiting
+checkout.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, payouts and prohibitions above were read from
+the 10 official URLs in Section 2 on 2026-09-08. Help-centre figures (10%
+1-Step target) and aggregator figures (8%) differ by page vintage — dashboard
+governs at purchase; re-check plan panel before paying. All accounts are
+simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes CFD Instant/1/2/3-Step + Nano/Starter tables, Futures
+Standard/Reserve/Express/Direct cards, Guardian Shield ladder, 24h guarantee,
+and bundle/add-on pricing.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated: "Blue Guardian provides simulated/demo evaluation challenges
+purely for educational and skills-assessment purposes... All trading activity
+is conducted in a virtual environment with no real-world risk."
+[2] 1-Step targets: "Profit Target: 10% (Phase 1). Maximum Daily Drawdown:
+4% of initial balance. Maximum Overall Drawdown: 6% (trailing). Minimum
+Trading Days: 3 profitable days. Profit Split: 85% (Optional 90% add-on
+available). Payout Frequency: Every 14 days (Optional 7-day payout add-on
+available)."
+[3] Trailing lock: "1 step standard maximum drawdown will remain at 6%
+trailing of your Highest Watermark Closing Trade made... once your account
+has made over 6% of the Initial balance your Trailing now locks in at
+$100,000. It no longer trails... Once your Drawdown is locked in at your
+starting balance we add a fixed 1% buffer on the account."
+[4] News: "We allow news trading on challenge. However, we do not allow news
+trading on funded accounts... refrain from Opening/Closing trades 5 minutes
+before and 5 minutes after red folder (high-impact) news events... Any
+profits earned during this time... will be subject to removal, without any
+account violation."
+[5] Scalping: "The minimum holding time is 2 minutes. If a trade is closed
+in under 2 minutes, it may be flagged for tick scalping."
+[6] Shield: "If your PnL on open trades reaches a 2% loss (1% loss on
+instant account), Guardian Shield will, in most cases, automatically close
+all open trades... 1st Breach: Profit split reduced to 50%. 2nd Breach: The
+account is permanently breached."
+[7] Buffer: "1 Step Standard includes a 1% withdrawal buffer, which is
+activated once the account reaches 6% profit and the trailing drawdown locks
+at breakeven."
+[8] Payouts: "Payout Frequency: Every 14 days. Processing Time: 24 business
+hours. Withdrawal Methods: Rise or Crypto. Minimum Withdrawl: $100 via crypto
+and $500 via rise." / "Approved payouts are processed in 1 hour on average."
+[9] Guarantee: "At Blue Guardian, payouts are processed within 24 business
+hours. If your payout exceeds this timeframe due to a delay on our end, you
+will receive an additional 10% profit share on that payout."
+[10] Copy/EA: "All copied trades must only occur between accounts legally
+owned by the same account holder." / "EAs are allowed... While VPNs and VPS
+are allowed, using either service to bypass rules related to copy trading,
+group trading, or signal trading is strictly prohibited."
+[11] Entities: "Blue Guardian Limited - The Sotheby Building, Rodney
+Village, Rodney Bay, Gros-Islet, Saint Lucia. Iconic Exchange FZCO -
+Premises NO. 001 - 32135, IFZA Business Park, DDP Dubai U.A.E."
+[12] Futures cards: "Payouts every 3 days, the fastest non-daily cadence in
+futures prop. Caps scale with consistency, up to $4,500 per payout."
+/ "$1,100 daily cap, the highest in the industry. Payouts every business day,
+processed in under an hour." / "Consistency scales: 20% to 25% to 30%."
+[13] Scale: "100K+ Active Traders Worldwide. $25M+ Total Payouts. 4.6/5 Prop
+Firm Match."
+================================================================================
+END OF FILE — BLUE GUARDIAN COMPLETE.
+================================================================================

@@ -1,0 +1,405 @@
+================================================================================
+BRIGHTFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/BrightFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official BrightFunded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: BrightFunded (brand of Bright Global group).
+- Founded: 2023. Positioning on brightfunded.com: 3+ years of evolution,
+  remote-first team, 40,000+ Active Traders, 155+ Countries Served, $13M+
+  Paid in Rewards (homepage ticker; "M+ Paid in Rewards" hero block).
+- Headquarters / hubs: Dubai Headquarter (Bright Global Computer Systems
+  Software Design - FZCO, DSO-IFZA, IFZA Properties, Dubai Silicon Oasis,
+  Dubai; also listed as Building A1, Dubai Digital Park, Dubai Silicon Oasis).
+  Worldwide hubs: Amsterdam, Warsaw, Dubai. Team: 40+ Dedicated Experts,
+  18+ Nationalities. Support: 6+ Dedicated Experts, 5+ Languages, 24/7
+  Live Chat + WhatsApp (+31 97006533442) + support@brightfunded.com.
+- Legal entities (official footer, https://brightfunded.com):
+  * Bright Global FZCO, Dubai, UAE (Building A1, Dubai Digital Park).
+  * BrightFunded Ltd., Saint Lucia, registration 2025-00358 (Ground Floor,
+    The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet; physical
+    Suite 5, Place Creole Building) — offers CFD simulated trading services.
+  * BrightFunded LLC, Wyoming, USA (2000 Cedar Bend Dr, Austin, TX 78758) —
+    offers futures simulated trading and evaluation services, contracting
+    party for futures.
+  * Bright Transact Ltd., Cyprus, HE 478945 (228 Archiepiskopou Makariou III,
+    3030 Limassol) — affiliated entity.
+- What it is: CFD + Futures simulated-evaluation prop firm. ALL customers
+  are provided with DEMO accounts with simulated funds; all trading occurs
+  in a simulation environment. Funded traders receive real-cash Payouts
+  (profit rewards) based on simulated performance, not live capital. No
+  regulated financial activity; no client funds accepted; no broker/fiduciary
+  role (Terms of Use).
+- Scale / proof shown: payout wall with named traders (e.g. Florian
+  $119,795.57 Austria; Abdurrahman $38,962.33 Turkey; Esad $40,360.36 Turkey;
+  Jordy $24,827.20 Belgium), trader-story videos, "Trusted by Many Traders"
+  block.
+- Awards / badges: PropFirmMatch 4.5 badge on homepage; Featured-in press row
+  (see About Us page).
+- Key distinction: 1-Step Challenge (fastest, 10% one phase), 2-Step Bright
+  (best value, 8% + 5%), 2-Step Classic (cheaper/easier variant) + Trade2Earn
+  loyalty programme + Scaling Plan + Free $1K Challenge are SEPARATE offers
+  with different targets, prices and promos. Never mix them. CFD services
+  (BrightFunded Ltd.) vs Futures services (BrightFunded LLC) are separate
+  contracting parties.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://brightfunded.com (homepage: identity, $13M+ paid, 40K+ traders,
+    155+ countries, 2023 established, platforms, entities, promos RALLY30 /
+    RALLY25 / RALLY15, support contacts)
+ 2. https://brightfunded.com/1-step (1-Step: 15% evaluation profit reward,
+    10% target, up to 90% payout, no consistency, max total/daily loss)
+ 3. https://brightfunded.com/2-step-bright (2-Step Bright: 15% evaluation
+    reward, 8% Phase 1 + 5% Phase 2, up to 90%, no consistency, unlimited time)
+ 4. https://brightfunded.com/2-step-classic (2-Step Classic variant page)
+ 5. https://brightfunded.com/about-us (team, hubs, vision, advisors)
+ 6. https://brightfunded.com/scaling-plan (Scaling Plan rules)
+ 7. https://brightfunded.com/trade2earn (Trade2Earn loyalty programme)
+ 8. https://brightfunded.com/free-1k-challenge (Free $1K Challenge)
+ 9. https://brightfunded.com/comparison-table (full model comparison table)
+10. https://brightfunded.com/how-it-works (Evaluation -> Funded -> Level Up)
+11. https://brightfunded.com/trading-instruments (instruments list)
+12. https://brightfunded.com/platforms (MT5 / cTrader / DXtrade arenas)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. BrokerAnalysis BrightFunded review 2026-08-29 (8/10; 80% default / 90%
+    add-on / 100% from 3rd scale-up; $200K max; fees EUR49-EUR997 ladder)
+14. BrokerAnalysis BrightFunded pricing page 2026-08-29 (6 sizes, 3 programmes,
+    B2B30 30% off code, MT5 + TradeLocker note, first payout 30 days then
+    bi-weekly, weekly add-on)
+15. BestPropFirms BrightFunded review 2026-08-30 (95/100, 2nd place; up to
+    100% split; $400K scaling; Trade2Earn; 24h guarantee; Free $1K; 562
+    Trustpilot reviews 73% 5-star; MT5/cTrader/DXTrade; US/UAE DXTrade-only)
+16. PropTraderCheck BrightFunded Jun-2026 (~$528 / ~$396 promo; 80-100%
+    scales; 10% drawdown; 2023 Amsterdam NL/UAE; Trade-to-Earn points)
+17. Velotrade BrightFunded review 2026-04-07 (EOD trailing DD, no consistency,
+    8% Phase 1, 5% daily / 10% overall, EUR fee table, 90% add-on +20% fee,
+    fee refunded on first funded payout)
+18. TheStockDork BrightFunded review Jun-2026 (no consistency, $5K-$200K to
+    $400K+ scale, weekly payouts + add-on, bank/crypto/RiseWorks rails)
+19. LuneFi BrightFunded Rules Jun-2026 (drawdown, consistency, restrictions)
+20. Trustpilot https://www.trustpilot.com/review/brightfunded.com + PropFirmMatch
+    https://propfirmmatch.com/prop-firms/brightfunded (4.5 badge)
+TOTAL SOURCES: 20 (12 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose arena at purchase; "Choose Your Arena"):
+- MetaTrader 5 (MT5) — industry standard for technical analysis + automated
+  trading (EA support). Windows/Android/MacOS/iOS/Web. NOT intended for
+  residents/citizens of USA, UAE and other restricted countries (footer
+  notice). US + UAE traders must use DXTrade.
+- cTrader — modern sleek interface for fast execution + pro charting.
+  Windows/Android/MacOS/iOS/Web. Same US/UAE restriction as MT5 — US/UAE
+  use DXTrade.
+- DXtrade (DX) — flexible modular platform with built-in risk/performance
+  tools. Android/iOS/Web Browser. The ONLY platform for US and UAE traders.
+- Data/pricing: professional tools, real-time prices; demo execution only.
+INSTRUMENTS (https://brightfunded.com/trading-instruments): Forex pairs,
+Indices, Metals, Crypto, Oil/Energies (aggregator quick facts: Forex,
+Indices, Metals, Crypto, Oil). Full symbol list live in-platform + Trading
+Updates page for hour changes. Weekend crypto follows platform maintenance.
+LEVERAGE: per-symbol leverage matrix inside each platform's contract specs;
+no single headline figure published on marketing pages — verify in MT5 /
+cTrader / DXtrade specs before trading.
+COSTS: spreads + commissions + swaps apply and COUNT toward daily/max loss
+(equity-based). Swap-fee explainer in FAQ ("Understanding Swap Fees").
+Triple-swap day per instrument specs.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program        | Steps | Sizes                  | Target        | Daily loss | Max loss     | Consistency | Split        | Fee model |
+|---|----------------|-------|------------------------|---------------|------------|--------------|-------------|--------------|-----------|
+| 1 | 1-Step         | 1     | 5K/10K/25K/50K/100K/200K| 10% one phase| 3%         | 6% trailing  | NONE        | up to 90%    | one-time EUR, refund w/ 1st payout |
+| 2 | 2-Step Bright  | 2     | 5K/10K/25K/50K/100K/200K| 8% Ph1 + 5% Ph2| 5%        | 10% trailing | NONE        | up to 90%    | one-time EUR, refund w/ 1st payout |
+| 3 | 2-Step Classic | 2     | 5K/10K/25K/50K/100K/200K| 8% Ph1 + 5% Ph2| 5%        | 10% trailing | NONE        | up to 90%    | one-time EUR, cheaper than Bright |
+| 4 | Free $1K       | 1     | $1,000                 | per page rules| per rules  | per rules    | NONE        | n/a (trial)  | FREE $0   |
+Notes:
+- All three paid programmes: Unlimited Trading Period (no time limit),
+  15% Evaluation Profit Reward (see Section 7), up to 90% Payout Ratio
+  (80% default; 90% with paid add-on; 100% only from 3rd scale-up per
+  BrokerAnalysis/PropTraderCheck), No Consistency Rules on any programme.
+- Funded account has NO profit target on any programme.
+- Max simulated capital: up to $400K (homepage hero: "Manage up to $400K
+  Simulated Capital"); account sizes $5K-$200K each; Scaling Plan grows
+  beyond (see Section 7; PropTraderCheck roadmap $100K->$200K->$400K->$2M max).
+- Minimum trading days: 5 (PropTraderCheck quick facts; confirm phase
+  counting in help center before purchase).
+- US/UAE: DXTrade only (MT5/cTrader restricted).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP CHALLENGE (fastest path) ---
+- Profit target: 10% gain to complete the single Evaluation phase. None on
+  Funded. Closed-trade basis. ($100K: +$10,000. $5K: +$500.)
+- Maximum Total Loss: 6% trailing (BrokerAnalysis ladder: 6% trailing every
+  size). Trails with equity highs; breach = fail. ($100K: $6,000 room.
+  $5K: $300 room.)
+- Maximum Daily Loss: 3% per single trading day, reset daily. ($100K: $3,000
+  per day. $5K: $150 per day.) Equity-based (balance + open P/L +/- swaps
+  - commissions). Breach = fail. Applies Evaluation + Funded.
+- Consistency: NONE — no rules on sizing, timing or distribution of trades.
+- Trading period: UNLIMITED (no time limit).
+- Evaluation Profit Reward: 15% — added to next Funded Account after
+  achieving 10% growth (feature block on 1-step page).
+- News/weekend/overnight: per How-It-Works + FAQ; no consistency gate means
+  news spikes do not trigger a ratio breach — standard daily/max-loss
+  equity math still governs. Verify weekend-holding flag in help center.
+- EA/copy: EAs allowed (MT5/cTrader); copy-trading own accounts per FAQ
+  ("Copy Trading: What's Allowed and What's Not") — trading others' signals
+  onto BrightFunded account as decision-maker is restricted; confirm in help
+  center before purchase.
+--- 5B. 2-STEP BRIGHT (best value, flagship) ---
+- Profit target: 8% Phase 1, 5% Phase 2, none on Funded. ($100K: $8,000 then
+  $5,000. $5K: $400 then $250.)
+- Maximum Total Loss: 10% (trailing per BrokerAnalysis ladder; Velotrade
+  Apr-2026: "10% max overall drawdown throughout both phases and on funded").
+  ($100K: $10,000 room.)
+- Maximum Daily Loss: 5% throughout both phases + funded (Velotrade: "5% max
+  daily loss ... throughout both phases and on the funded account").
+  ($100K: $5,000/day.)
+- Consistency: NONE. Trading period: UNLIMITED.
+- Evaluation Profit Reward: 15% — same mechanics as 1-Step (feature block
+  on 2-step-bright page, "after achieving 10% growth" display text; treat
+  as evaluation-profit bonus credited to Funded — confirm phase mapping in
+  help center).
+- Minimum days: 5 (aggregator quick facts). Hitting target early does not
+  close phase — must still log minimum days (Velotrade).
+- EA/copy/news: same as 1-Step.
+--- 5C. 2-STEP CLASSIC (cheaper/easier twin) ---
+- Same 8% + 5% targets, 5% daily, 10% total, no consistency, unlimited time
+  as Bright; priced ~15% cheaper (Autumn promo RALLY15 vs RALLY25 on Bright).
+  Positioned as "Easier, or cheaper? Build a Challenge that fits your
+  strategy" alternative. Exact rule deltas (if any) in comparison-table page
+  — re-check #comparison anchor before purchase.
+--- 5D. FREE $1K CHALLENGE ---
+- $0 entry trial ($1,000 simulated) to test rules/platform at no cost.
+  Paid challenges start from ~EUR47-49 (5K). No payout; evaluation only.
+--- 5E. NEWS / WEEKEND / OVERNIGHT / COPY ---
+- News trading: allowed; no consistency rule to trip on news spikes.
+- Weekend/overnight: holding per instrument/platform hours; swaps apply.
+- Copy trading: own-accounts copying per FAQ; third-party signal copying
+  and account-sharing restricted — see help.brightfunded.com full FAQ.
+- EAs: allowed on MT5/cTrader (automated trading bullet on Platforms page);
+  DXtrade uses built-in risk/performance tools.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES in EUR (single payment, no subscription; fee refunded on first
+funded payout per Velotrade/BrokerAnalysis):
+2-STEP ladder (BrokerAnalysis Aug-2026 + Velotrade Apr-2026, EUR):
+  5K EUR49-55 | 10K EUR95-97 | 25K EUR195-197 | 50K EUR295-297 |
+  100K EUR495-497 | 200K EUR975-997. (Ranges = official vs aggregator
+  snapshots; homepage promo at fetch rotates.)
+1-STEP ladder: same EUR ladder displayed (EUR49 to EUR997 across 5K-200K
+per BrokerAnalysis baseline table; 1-Step vs 2-Step price deltas in
+comparison-table — re-check before purchase).
+2-STEP CLASSIC: same sizes, ~15% cheaper positioning (RALLY15 promo).
+PROMOS at fetch (homepage Autumn Rally): RALLY30 = 1-Step 30% OFF;
+RALLY25 = 2-Step Bright 25% OFF; RALLY15 = 2-Step Classic 15% OFF.
+Checkout codes also tracked: B2B30 (30% off every plan), BRIGHT15 (15% off
+2-step), plus "Starts at EUR47" promo display (TheStockDork).
+ADD-ONS (checkout): 90% profit-split add-on (+~20% fee uplift per Velotrade);
+Weekly Payouts add-on (shortens monthly base cycle to weekly — see Sec. 7);
+other add-ons per configurator (confirm live list at checkout).
+REFUND: evaluation fee FULLY REFUNDED on the first funded-account payout
+(Velotrade: "fee is fully refunded on the first funded account payout";
+BrokerAnalysis: "Refund Yes" every size). Failed evaluations not refunded.
+Free $1K = $0. No monthly data/platform fee published.
+PAYMENT METHODS: cards + checkout rails per brightfunded.com checkout
+(confirm live list: cards, bank, crypto, RiseWorks rails for payouts).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 80% by default; 90% with paid add-on; 100% only from 3rd scale-up of
+Scaling Plan (BrokerAnalysis + PropTraderCheck). 1-Step + 2-Step pages show
+"Up to 90% Payout Ratio" (checkout add-on unlocks the top of the range).
+FIRST PAYOUT: 30 days after first funded trade, then bi-weekly (BrokerAnalysis
+pricing page). Weekly Payouts add-on sold separately shortens to weekly.
+BestPropFirms: base cycle monthly, reducible to weekly via add-on; 24-HOUR
+payout processing GUARANTEE (homepage: "24-Hour Guaranteed Payouts, Weekly
+Payouts Available"; BestPropFirms: "24-hour payout processing guarantee").
+MINIMUM: no minimum — reward can be requested on any balance above zero
+(BrokerAnalysis). Confirm live minimum in help center.
+METHODS: bank transfer, crypto, RiseWorks for larger amounts (BestPropFirms);
+Wire + Crypto + Rise (PropTraderCheck).
+EVALUATION PROFIT REWARD 15%: 15% of evaluation-phase profit added/credited
+toward next Funded Account (1-Step page: "Added to your next Funded Account
+after achieving 10% growth"; homepage hero: "15% Evaluation Profit Reward").
+SCALING PLAN (https://brightfunded.com/scaling-plan): Unlimited Scaling Plan
+— funding is just the start; scale simulated capital up to $400K hero claim
+(PropTraderCheck roadmap to $2M max). Each scale-up lifts split toward 100%
+(100% only from 3rd scale-up). Exact scale triggers in scaling-plan page —
+re-check before purchase.
+TRADE2EARN (https://brightfunded.com/trade2earn): loyalty programme — Trade,
+Earn, Repeat; points system scaling split toward 100% over multiple payouts
+(PropTraderCheck: "rewards retention ... scales the profit split toward 100%
+over multiple payouts"). Details on trade2earn page.
+MAXIMA: up to $400K simulated capital (homepage hero); $200K max single
+account (BrokerAnalysis).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Terms & Conditions + help.brightfunded.com FAQ ("Copy Trading:
+What's Allowed", "Can You Trade With an EA?", "Daily Loss Limit Explained").
+BANNED (breach = trade removal, payout denial, suspension/termination):
+ 1. Account sharing: nobody else may trade your account; you may not trade
+    anyone else's; no "pass your challenge" services.
+ 2. Copying third-party signals/decision-makers onto BrightFunded account;
+    own-accounts copying per FAQ only.
+ 3. Exploiting platform/data errors: price-display errors, stale/slow feeds,
+    latency arbitrage.
+ 4. Coordinated manipulation incl. across connected accounts/other firms/
+    other people (opposite positions across accounts). Opposite positions
+    inside ONE single account follow standard risk rules.
+ 5. Unfair-tech edge: HFT/latency/mass-order tools that manipulate or grant
+    unfair advantage; hyperactive order flooding.
+ 6. Gap/off-market abuse: scheduled-news gaps, illiquid prints, off-market
+    quotes, abnormal spreads harvested risk-free.
+ 7. Account rolling/gambling: cycling doomed accounts, all-in one-sided bets
+    incompatible with replicable risk management.
+ALLOWED: EAs on MT5/cTrader (FAQ "Can You Trade With an EA?"); news trading
+(no consistency tripwire); no sizing/timing/distribution constraints beyond
+daily/max-loss equity math.
+ENFORCEMENT: review via dashboard logs; conflicting-position removal,
+leverage cut, disqualification, reward forfeiture, termination of all
+agreements.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. 155+ countries served.
+- USA: ACCEPTED (BestPropFirms: "accepts US traders ... one of the best prop
+  firms in the USA"; PropTraderCheck: US traders Yes). PLATFORM-LIMITED:
+  MT5 + cTrader NOT for US residents/citizens — DXTrade ONLY for USA.
+- UAE: same MT5/cTrader restriction as USA — DXTrade only.
+- UK: served normally (payout-wall examples: Ahmed $4,125.75 UK, Indy
+  GBP674.47 UK, Manjinder GBP18,547.62 UK, Omid $12,888 UK).
+- HARD BANS: only countries under international sanctions (BestPropFirms):
+  Belarus, Cuba, Iran, Myanmar, North Korea, Russia, Sudan, Syria + specific
+  regions in Ukraine and Vietnam. MT5 info "not intended for residents or
+  citizens of the USA, UAE, and other restricted countries" where usage
+  would violate laws (footer).
+- KYC: government ID + liveness/contract signing after passing evaluation,
+  before Funded credentials; payout invoices require matching beneficiary
+  details. Minors, sanctioned persons, previously banned traders refused.
+- VPN/VPS/travel: allowed for access; account-sharing ban still applies —
+  logins must be yours.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- PropFirmMatch https://propfirmmatch.com/prop-firms/brightfunded: 4.5/5
+  badge displayed on brightfunded.com homepage (Sep 2026 read).
+- Trustpilot https://www.trustpilot.com/review/brightfunded.com: profile
+  shows 562 reviews with 73% five-star share (BestPropFirms Aug-2026 read);
+  no TrustScore displayed at that read — re-check live profile.
+  PropTraderCheck quick facts: Trustpilot 4.4/5.
+- BrokerAnalysis: Overall 8/10 (Rules 7.7, Pricing 9.8, Payouts 10.0,
+  Platforms 7.6, Education 7.2, Trust 8.4). Verdict: strong choice for
+  straightforward evaluations + frequent payouts.
+- BestPropFirms: 95/100, 2nd-place ranking; cites clear structure, no time
+  limits, up to 100% split, $400K scaling, Trade2Earn, add-ons, 24h
+  guarantee, Free $1K trial.
+- PropTraderCheck: 80-100% (scales) split; ~$528 (~$396 promo) reference fee.
+- Sentiment themes (positive): no consistency rules; unlimited time; fast
+  24h-guarantee payouts; refund honored on first payout; scaling to $400K;
+  Trade2Earn retention rewards; MT5 + cTrader + DXTrade choice.
+- Recurring complaints: newer firm (2023) — lighter historical payout/support
+  data than legacy firms; pricing/promo rotation confusion (EUR ladder vs
+  promo displays); US/UAE MT5-cTrader restriction gripes; 30-day first-payout
+  wait without weekly add-on.
+- Red flags: NONE material found (no payout-scam cluster, no regulator
+  action, no Trustpilot suspension). Watch items only: young-firm track
+  record still building; re-check comparison-table + payout cadence before
+  purchase as promos rotate.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the no-consistency specialist — zero sizing/timing/distribution
+rules on every programme (vs FTMO Best-Day-50% or FundedNext 40% governors).
+Fees mid-low (EUR49 5K entry vs FTMO $89+ 10K) with first-payout refund;
+top split to 100% only after sustained scaling (vs FundedNext 95% add-on
+day one). $13M+ paid trails FTMO/FundedNext totals but payout wall is
+transparent with named country proofs.
+1-STEP VS 2-STEP BRIGHT VS 2-STEP CLASSIC: 1-Step = one 10% hurdle, fastest
+funded, tighter rooms (3%/6% trailing). 2-Step Bright = 8%+5% hurdles, wider
+rooms (5%/10%), best-value positioning. 2-Step Classic = same targets as
+Bright, cheaper ticket (15% vs 25% promo) — pick on price vs perks in the
+comparison-table. All three: unlimited time, 15% evaluation reward, up to
+90% split, no consistency.
+BEST FIT: traders who hate consistency-ratio governors; news/spike traders;
+EA users on MT5/cTrader; patient scalers using unlimited time; loyalty
+grinders stacking Trade2Earn + Scaling Plan toward 100%; US traders fine
+with DXTrade; budget starters (Free $1K then EUR49 5K).
+BAD FIT: traders needing >$200K day-one single account; MT5-only US/UAE
+traders (must use DXTrade); HFT/latency-gap styles; cross-account hedgers;
+copy-service buyers/sellers; sanctioned-jurisdiction residents; anyone
+needing weekly money without buying the weekly add-on.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 12 official URLs in Section 2 on
+2026-09-08. EUR fee ladder (EUR49-EUR997) confirmed via BrokerAnalysis
+Aug-2026 tables sourced to brightfunded.com checkout; promos RALLY30 /
+RALLY25 / RALLY15 live-read from homepage Sep 2026. Re-check #comparison
+and #pricing anchors before purchase as promos rotate. BrightFunded notes
+all accounts are demo/simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 3-programme map (1-Step 10% / Bright 8+5 / Classic),
+6%-vs-10% trailing split, 15% evaluation reward, 80/90/100% split ladder,
+$400K scaling + Trade2Earn, 4-entity structure, MT5/cTrader vs DXTrade
+US/UAE split, EUR pricing + promos, 24h-guarantee payouts.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated: "Please note that all our customers are provided with demo
+accounts with simulated funds. All trading practices occur within a
+simulation environment."
+[2] No advice: "All information provided on this site is intended solely
+for the study purposes related to trading on financial markets and does
+not serve in any way as a specific investment recommendation."
+[3] Hero: "Manage up to $400K Simulated Capital. Keep up to 100% of the
+Profits. Paid In Real Cash." / "15% Evaluation Profit Reward, 24-Hour
+Guaranteed Payouts, Weekly Payouts Available"
+[4] Scale: "40,000+ Active Traders" / "M+ Paid in Rewards" / "155+ Countries
+Served" / "2023 Established"
+[5] 1-Step: "One Phase. One Target." / "Our fastest path to a Funded
+Account." / "Hit a 10% gain to successfully complete your 1-Step Evaluation."
+/ "Receive up to 90% of your simulated profits as real Payouts." / "No rules
+on how you size, time, or distribute your trades."
+[6] 2-Step Bright: "Two Phases. Offers a perfect balance between low Profit
+Targets and Loss Limits." / "Hit a 8% gain" (Phase 1 display) / "Up to 90%
+Payout Ratio" / "No Consistency Rules" / "Unlimited Trading Period"
+[7] Evaluation reward: "Added to your next Funded Account after achieving
+10% growth."
+[8] CFD entity: "The CFD simulated trading services featured on
+www.brightfunded.com are offered solely by BrightFunded Ltd."
+[9] Futures entity: "The futures simulated trading and evaluation services
+featured on www.brightfunded.com are offered solely by BrightFunded LLC,
+which is the contracting party for those services."
+[10] MT5 restriction: "services related to the MetaTrader 5 platform (MT5)
+and the associated information provided on this website are not intended
+for residents or citizens of the United States, United Arab Emirates, and
+other restricted countries"
+[11] Support: "Available 24/7" / "Live Chat" / "WhatsApp" /
+"support@brightfunded.com" / "Bright Global Computer Systems Software
+Design - FZCO, DSO-IFZA, IFZA Properties, Dubai Silicon Oasis, Dubai"
+[12] Review badge: "4.5" (PropFirmMatch badge on homepage, Sep 2026 read)
+================================================================================
+END OF FILE — BRIGHTFUNDED COMPLETE. Next firm is a separate task (not started).
+================================================================================

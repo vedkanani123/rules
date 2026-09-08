@@ -1,0 +1,342 @@
+================================================================================
+WENCRYPTO — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/WenCrypto.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official WenCrypto pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: WenCrypto (legal entity: WEN LTD, registered Saint Lucia
+  2025-00872; stated HQ DSO-IFZA, IFZA Properties, Silicon Oasis, Dubai).
+- Launched: March 2026 (per PropFirmReviews; Saint Lucia registration 2025).
+  No named founders/team on site — "From the creators of Maven Trading".
+- What it is: Maven Trading's dedicated CRYPTO-ONLY arm. Crypto-only simulated-
+  evaluation prop firm. ALL accounts are DEMO accounts with simulated funds;
+  trading is simulated. Funded traders receive real-money Rewards (profit
+  splits), not live capital. Official FAQ: "The funded stage uses simulated
+  capital. Your payouts are real and based on your reward split." Terms open
+  with: "CRITICAL NOTICE: All accounts provided to our clients are demo
+  accounts with simulated funds." WenCrypto "is not an exchange, and we do
+  not hold client deposits."
+- Tagline: "WENCRYPTO IS WHERE THE LAMBO DREAMS BEGIN" / "WGMI core values".
+- Scale: new firm — no payout-volume claims on site; firm publishes its own
+  success statistic (see Section 10). Max funding $300,000 per trader.
+- Trustpilot: NO Trustpilot profile exists yet (PropFirmMap: "Not assessed");
+  homepage/about testimonials are recycled Maven Trading testimonials naming
+  "Maven" (see Section 10).
+- Sister entity: Maven Trading (https://maventrading.com) — parent/creator
+  (separate file: MavenTrading.txt).
+- Key distinction: crypto ONLY (top-100 CoinMarketCap coins, NO forex/indices/
+  commodities, stablecoins NOT tradeable). STATIC drawdown on flagship tracks,
+  news/weekend holding fully allowed, but EAs/bots and copy trading are BANNED
+  outright. Three purchasable tracks (Single Pass / Double Pass / Buy-Now-Pay-
+  Later) + Genesis ladder track (Coming Soon, not purchasable).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://wencrypto.com (homepage: branding, 100+ assets claim, full price
+    grid $5K-$100K Single/Double/BNPL/Genesis, leverage 5:1/2:1, split 80%,
+    Maven testimonial block, about/legal footer)
+ 2. https://wencrypto.com/faqs (full FAQ: simulated-capital notice, 18+
+    eligibility, allowed styles, max allocation, Single/Double/BNPL/Genesis
+    rule blocks, 10-business-day withdrawals, caps, Veriff KYC, refund-after-
+    three-withdrawals, withdraw-lock, win/loss-day ladder math)
+ 3. https://wencrypto.com/pricing (pricing page: same grids + BNPL pay-later
+    ladder $69-$589)
+ 4. https://wencrypto.com/terms-and-conditions (Last Amended 19/02/2026:
+    program definitions, 80% split, bank/crypto payments, non-refundable
+    purchases, chargeback = permanent ban, min-payout thresholds)
+ 5. https://wencrypto.com/about (Maven-creator statement, mission)
+ 6. https://wencrypto.com/buy-now-pay-later (BNPL terms page)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 7. PropFirmMap WenCrypto review (Grade D, PFM Score 5.2, High Risk; static-
+    drawdown confirmation, fee/swap disclosure, termination-for-criticism
+    clause flag, no-scaling note)
+ 8. JoinProp Wen Crypto review 2026-08-04 (Saint Lucia 2025 entity, 100% BNPL
+    funded split, <2.5% withdrawal-reach statistic, REFUNDABLE-badge vs Terms
+    contradiction, stablecoin contradiction, EA ban)
+ 9. PropFirmReviews WenCrypto review 2026-07-14 (Est. Mar 2026 Dover Delaware
+    read; score capped 7.0 for <12mo history; 9%/10%+6% tables; free-account-
+    on-payout reward; 20% consistency reference)
+TOTAL SOURCES: 9 (6 official + 3 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- WenCrypto Terminal — custom-built web + mobile app with advanced order
+  types, one-click trading, built-in risk management, visible order-book
+  depth, TradingView chart integrations.
+- Match Trader — listed as selectable platform at purchase (third-party reads).
+  No MT4/MT5, no cTrader.
+INSTRUMENTS: crypto ONLY — top 100 cryptocurrencies by CoinMarketCap listing
+(BTC, ETH, SOL, XRP, ADA, DOGE, LTC, AVAX, DOT, ENA, USDT logo shown but
+NOT tradeable). No forex, no indices, no commodities. STABLECOINS EXCLUDED:
+"Stablecoins (USDT, USDC, DAI, etc.) are not tradeable" (FAQ) — contradicts
+the homepage "from stable coins to altcoins" line.
+LEVERAGE: 5:1 on BTC/ETH, 2:1 on altcoins (low vs CFD forex norms — sized for
+crypto volatility).
+COSTS (published): 0.04% trade fee + 0.033% daily swap on positions open at
+00:00 UTC (PropFirmMap read of official terms). No monthly data/platform fee,
+no reset upsell, no paid split add-on.
+EXECUTION NOTES: centralized simulated environment, tight spreads claimed,
+real-time data. Weekend + overnight holding permitted on all account types.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Phases | Target             | Max DD           | Daily loss      | Min days | Leverage      | Split | Payout rhythm |
+|---|--------------------|--------|--------------------|------------------|-----------------|----------|---------------|-------|---------------|
+| 1 | Single Pass        | 1      | 9%                 | 5% STATIC        | 3% (eq/bal)     | 3 (>1%)  | 5:1 BTC/ETH, 2:1 alts | 80% | 10 biz days |
+| 2 | Double Pass        | 2      | 10% Ph1 + 6% Ph2   | 8% STATIC        | 5% (eq/bal)     | 3 (>1%)  | 5:1 / 2:1     | 80%   | 10 biz days   |
+| 3 | Buy-Now-Pay-Later  | 1+funded| 4% eval           | 8% static EOD eval / 5% TRAILING EOD funded | NONE eval / 3% EOD funded | none eval | 5:1 / 2:1 | 100% funded* | 10 biz days |
+| 4 | Genesis (SOON)     | ladder | winning-day ladder | 4% EOD-trailing  | n/a             | ladder   | 5:1 / 2:1     | 5%-109% ladder | any day, 1/day |
+Sizes: $5K / $10K / $20K / $50K / $100K on every track.
+Notes:
+- Funded Single/Double keep evaluation drawdown type (static). BNPL flips
+  static->trailing + gains a daily limit + 20% consistency ONLY at funding.
+- Minimum profitable days: 3 winning days (>1% of initial each) on Single and
+  Double Pass. BNPL evaluation: none.
+- Inactivity: ≥1 trade every 28 days (FAQ) / 30 calendar days (Terms) or
+  dormancy closure.
+- Max allocation: $100,000 combined per account type; $300,000 total funding
+  per trader. NO scaling programme.
+- *BNPL 100% split applies to the funded stage pre-standard-split reads
+  (JoinProp: "100% before moving to 80/20"; PropFirmMap: 100% BNPL funded).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. SINGLE PASS (1-STEP, crypto) ---
+- Profit target: 9% single phase; none on funded. ($10K: +$900.)
+- Maximum drawdown: 5% STATIC from starting balance (EOD-measured).
+  ($100K: breach if equity ever below $92,000 — official example.)
+- Daily loss: 3% (equity/balance type).
+- Min profitable days: 3 winning days (>1% of initial each).
+- News/event trading: FULLY permitted, no restrictions. Weekend/overnight:
+  allowed. Scalping + swing: allowed. EAs/bots: BANNED. Copy trading: BANNED
+  (both accounts breached).
+--- 5B. DOUBLE PASS (2-STEP, crypto) ---
+- Targets: 10% Phase 1 + 6% Phase 2; none on funded.
+- Maximum drawdown: 8% STATIC; daily loss 5%. Otherwise identical
+  permissions/prohibitions to Single Pass.
+--- 5C. BUY-NOW-PAY-LATER (deferred-fee crypto eval) ---
+- Evaluation: 4% target, 8% STATIC EOD max drawdown, NO daily limit, NO min
+  days, NO consistency, news/volatility trading fully permitted. Small
+  upfront fee ($5-$20 by size); pay the remainder ($69-$589) ONLY after
+  passing to activate funded.
+- Funded stage (rules tighten at activation): 3% daily EOD limit (00:00 UTC
+  reset); max drawdown switches to 5% TRAILING on highest EOD equity
+  (official: $10K funded starts at $9,500 breach level; EOD equity $11,000
+  => new level $10,450); 20% consistency score required before EACH
+  withdrawal (biggest day / total profit x 100 ≤ 20%); WITHDRAW LOCK —
+  generated profit raises the trailing floor (earn $1,000 => floor +$1,000;
+  withdraw $500 => floor stays +$500 above start).
+- Funded split 100% (per third-party reads of official pages).
+--- 5D. GENESIS (COMING SOON — not purchasable) ---
+- Withdraw-any-day ladder: request once per day whenever ahead.
+- Winning day = closed-day gain >1% of initial (00:00-23:59 UTC) => +1 level;
+  losing day (<-1%) => -1 level (floor level 1); neutral otherwise.
+- Split ladder 14 levels: 5/7/10/14/19/25/32/40/49/59/70/82/95/109%. Net
+  levels = winning days minus losing days. Withdraw resets to level 1 and
+  initial balance. Fee refunded on reaching level 10.
+- Drawdown: 4% EOD-trailing (official example: EOD equity $105,000 =>
+  breach $100,800).
+--- 5E. NEWS / WEEKEND / INACTIVITY (ALL TRACKS) ---
+- News: fully permitted, evaluation AND funded — no blackout windows.
+- Weekend/overnight: permitted on all account types.
+- Inactivity: trade ≥ once per 28 days (FAQ) / 30 days (Terms).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (USD, "price with coupon" homepage grid; REFUNDABLE badge on
+cards — see refund caveat below):
+SINGLE PASS (9% / 5% static / 3% daily / 80%): 5K $55 | 10K $99 | 20K $195 |
+  50K $479 | 100K $949.
+DOUBLE PASS (10%+6% / 8% static / 5% daily / 80%): 5K $44 | 10K $79 |
+  20K $156 | 50K $383 | 100K $759.
+BUY-NOW-PAY-LATER (pay now + pay-later-on-pass): 5K $5+$69 | 10K $7+$117 |
+  20K $10+$189 | 50K $15+$359 | 100K $20+$589.
+GENESIS: Coming Soon, price unlisted (joke "$200%" card on homepage grid).
+ADD-ONS: none sold (no split add-on, no reset upsell, no monthly fee).
+Retakes: fail = buy a new evaluation. Reach-a-payout reward: free account of
+the same size (PropFirmReviews).
+REFUND (three-layer contradiction — read carefully): (a) price cards badged
+"REFUNDABLE"; (b) FAQ: "You get a full refund of the challenge once you have
+successfully achieved three withdrawals" (Genesis: on reaching level 10);
+(c) binding Terms 19/02/2026: "All purchases are considered final and
+non-refundable... we do not offer refunds for evaluation programs."
+Practical value is small — firm publishes <2.5% of attempts reach even one
+withdrawal. PropFirmMap: "Eval fee refunded on 1st payout: No."
+PAYMENT METHODS (Terms): bank transfers + cryptocurrency. Card must belong
+to the trader; one email per person. Chargebacks = permanent ban.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 80% Single/Double Pass; 100% BNPL funded stage; Genesis 5%-109%
+ladder (max 109% at 14 net winning days).
+FREQUENCY: every 10 business days (Single/Double/BNPL). Genesis: any day,
+once per day (when launched).
+GATES: Veriff KYC approved BEFORE any withdrawal (passport/drivers licence/
+national ID/residence permit); must be in funded stage and within drawdown at
+request time; minimum-payout thresholds exist but are UNPUBLISHED (Terms
+mention them without figures); no open-breach state.
+CAPS (disclosed upfront): 1st withdrawal capped 6% of account, 2nd capped 8%,
+3rd and 4th unlimited.
+CONSISTENCY: 20% score (biggest day/total profit) required before each BNPL
+funded withdrawal; 20% score referenced on standard accounts (PropFirmReviews).
+METHODS: named nowhere on site ("supported payout methods" only). No published
+processing time. Crypto/bank rails per Terms.
+SCALING: NONE. Hard caps: $100K per account type, $300K total per trader.
+FEE REBATE: full challenge-fee rebate after THREE successful withdrawals
+(not first payout).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + verified)
+================================================================================
+BANNED (breach = account closure/failure, both accounts on copy):
+1. Expert Advisors, bots, automation "across all platforms under any
+   circumstances" — significant constraint in a 24/7 crypto market.
+2. Copy trading of any kind (both accounts breached).
+3. Cheating, reverse hedging, exploitation of errors/feeds.
+4. Breaching any drawdown limit (instant closure of challenge or funded).
+5. Using another person's account or payment methods; duplicate emails.
+6. Payment disputes/chargebacks (permanent ban).
+7. Criticising the firm on review sites — Terms reserve termination rights
+   (PropFirmMap flag; treat as reputational risk, not trading rule).
+ALLOWED (explicit): scalping, swing trading, news trading (unrestricted),
+weekend/overnight holding. Leverage discipline (5:1 / 2:1) is the hard edge.
+CONSEQUENCES: breach => closed account, no withdrawal from it; dormancy
+28/30 days => closure; KYC fail => no payouts.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Eligible regions only (no published ban list on WenCrypto pages;
+  Maven's 25-country UN-sanctions footer does not appear on WenCrypto).
+- One email per person; payment card must belong to the trader.
+- KYC: Veriff government-ID + approval BEFORE first withdrawal (not just
+  before funding). Accepted: passport, driver's license, national ID,
+  residence permit.
+- US angle: PropFirmReviews places the operating team in Dover, Delaware;
+  Saint Lucia entity WEN LTD is the contracting party. No MT5-restriction
+  notice (no MT5 offered at all).
+- VPN/VPS: not addressed in published rules; account-sharing ban still
+  applies — logins must be yours.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot: NO profile exists (PropFirmMap "Not assessed", 0.0/25). No
+  independent payout record to check. Homepage/about testimonials praise
+  MAVEN by name ("Thanks to Maven, I have developed better risk management";
+  "Maven is the one"; "Maven Trading is really impressive") — recycled
+  sister-firm social proof, flagged by both PropFirmMap and JoinProp.
+- PropFirmMap: PFM Score 5.2, Grade D, "High Risk" trust report. Payout
+  Reliability F (no documented processing time/methods, capped early payouts).
+- PropFirmReviews: score CAPPED at 7.0 (firm launched 2026, <12 months
+  verifiable payout history; cap lifts with history).
+- Firm-published statistic (Risk Disclosure, quoted by JoinProp): "the
+  likelihood of a participant successfully navigating the evaluation phases
+  to execute a withdrawal is less than 2.5% per transaction" — fewer than
+  1 in 40 attempts reaches payout. Rare transparency; also frames the
+  three-withdrawal rebate as near-unattainable for most buyers.
+- Sentiment: no organic WenCrypto trader-review corpus yet; Maven sentiment
+  does not transfer. Watch items dominate: REFUNDABLE-badge vs non-refundable
+  Terms; stablecoins-advertised vs not-tradeable FAQ; 28-day vs 30-day
+  inactivity; unnamed team; termination-for-criticism clause; unpublished
+  payout methods/minimums.
+- Red flags: MODERATE — brand-new entity, no independent payout record,
+  recycled testimonials, contract-vs-marketing refund contradiction. No
+  regulator action or mass-termination cluster (too young for either).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the only crypto-pure evaluation in this batch — static EOD
+drawdown, unrestricted news/weekend, published fees, no monthly bleed. Price
+per dollar is higher than Maven forex ($5K Single $55 vs $2K Standard $13)
+but the product is genuinely different (spot-crypto Terminal, alt leverage).
+BNPL's 100%-funded-split headline vs Maven's 80% is real but funded by the
+deferred fee and fenced by trailing-DD + daily-stop + consistency + lock.
+BEST FIT: discretionary manual crypto traders (spot/perp style) who hate
+trailing intraday stops; news/volatility event traders; traders wanting
+static, knowable EOD lines; small-ticket BNPL triallists ($5-$20 upfront).
+BAD FIT: bot/EA/algo traders (outright ban); copy-traders; stablecoin-basis
+traders (not tradeable); traders needing >$100K per account or >$300K total;
+anyone needing published payout rails/minimums before buying; traders wanting
+a proven payout record (none yet — start small, withdraw once, then size).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, payouts and prohibitions above were read from
+the 6 official URLs in Section 2 on 2026-09-08. Prices are live homepage-grid
+figures; Genesis is Coming Soon and unpriced. WenCrypto notes all accounts
+are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Single/Double/BNPL/Genesis tables, static-vs-trailing flip
+on BNPL funding, 6%/8% early-withdrawal caps, and refund-badge vs Terms
+contradiction.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated: "CRITICAL NOTICE: All accounts provided to our clients are
+demo accounts with simulated funds." / "The funded stage uses simulated
+capital. Your payouts are real and based on your reward split."
+[2] Not an exchange: "No. WenCrypto is not an exchange, and we do not hold
+client deposits."
+[3] Styles: "No. Trade how you trade, as long as you respect the drawdown
+and leverage rules. Allowed trading styles include: Scalping, Swing trading,
+News trading."
+[4] Requirements: "Follow drawdown limits; Use only your own account and
+payment methods; No cheating, reverse hedging, or exploitation; Complete KYC
+before requesting payouts; Stay within your drawdown limits, breaching any
+drawdown limits will result in account closure and failure of the challenge
+or funded account."
+[5] Allocation: "Each trader can hold a maximum combined allocation of
+$100,000 per account type. The maximum a trader can achieve in funding is
+$300,000."
+[6] Static example: "Daily drawdown: 5%. Max overall drawdown: 8% (static).
+Example: On a $100,000 account, if your equity ever drops below $92,000,
+you breach."
+[7] Inactivity: "There's no classic 'X days to pass' timer, but you must
+place at least one trade every 28 days to keep the account active."
+[8] Split: "Profit Split: Successful evaluations qualify for an 80% profit
+split based on simulated performance."
+[9] Withdrawals: "You can request a withdrawal every 10 business days."
+[10] Refund: "You get a full refund of the challenge once you have
+successfully achieved three withdrawals." vs Terms: "All purchases are
+considered final and non-refundable. Since our services are delivered
+instantly upon payment, we do not offer refunds for evaluation programs."
+[11] BNPL eval: "No daily drawdown limit... No minimum trading days... No
+consistency score requirement... Hit a 4% profit target while staying within
+an 8% maximum drawdown." / "News and event trading is fully permitted during
+the evaluation with no restrictions."
+[12] BNPL funded: "3% daily End-of-Day (EOD) drawdown limit, resetting at
+00:00 UTC each day. Maximum drawdown changes to 5% trailing (EOD)...
+20% consistency score required before each withdrawal. Withdraw lock applies."
+[13] Genesis ladder: "A winning trading day is when you gain more than 1% of
+the initial account balance... Your day tracker resets at 00:00 UTC." /
+"The maximum reward split is 109%, achieved after you reach 14 reward
+levels." / "You can withdraw once per day. Once you withdraw you restart
+from your initial balance (level 1) and ascend again."
+[14] Genesis DD: "The max drawdown is 4%, and it's End of Day trailing...
+If your account reaches $105,000 at 00:00 UTC, your breach level becomes
+$100,800."
+[15] Terms programs: "Wen Two Step: Phase One requires a 10% profit target;
+Phase Two requires a 6% profit target. It features an 8% maximum loss limit
+(static) and a 5% maximum daily loss limit. Wen One Step: A single-phase
+program with a 9% profit target. It features a 5% maximum loss limit and a
+3% maximum daily loss limit."
+[16] Success rate (Risk Disclosure via JoinProp): "statistics indicate that
+the likelihood of a participant successfully navigating the evaluation
+phases to execute a withdrawal is less than 2.5% per transaction."
+================================================================================
+END OF FILE — WENCRYPTO COMPLETE.
+================================================================================
