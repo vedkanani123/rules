@@ -1,0 +1,364 @@
+================================================================================
+QTFUNDED (Quant Tekel) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/QTFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official QTFunded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+reviews. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: QT Funded (brand of Quant Tekel group).
+- Founded: 2023 (prop arm of Quant Tekel; brokerage regulated since earlier).
+- Corporate structure (official footer, qtfunded.quanttekel.com):
+  * Quant Tekel LLC – 3984 LLC 2025 (St. Vincent and the Grenadines) — all
+    QTFunded prop services are provided by this offshore entity; customers
+    contract with Quant Tekel SVG.
+  * Quant Tekel (Pty) Ltd — regulated broker authorised by the Financial
+    Sector Conduct Authority (FSCA), FSP No. 53227, South Africa. Brokerage
+    only for permitted jurisdictions in Africa and Asia via quanttekel.com.
+  * Quant Tekel Ltd, Company No. 15923693 — UK group treasury / payment
+    processing entity. Registered office: 1 Canada Square, Level 39,
+    Canary Wharf, London E14 5AB, United Kingdom. Does NOT provide regulated
+    services.
+  * CEO reported by reviewers: Tanswell Sassman.
+- Contact: 24/7 trader support via live chat / support tickets
+  (support.qtfunded.com help centre); Discord community; X @qtfunded.
+- What it is: CFD simulated-evaluation prop firm. All accounts are DEMO
+  accounts with fictitious funds; trading is simulated. Funded traders
+  receive performance Rewards (profit splits), not live capital. Evaluation
+  entry fees are "subscription fees", not deposits.
+- Scale claimed on homepage: 125,000+ traders, $17M+ in rewards paid,
+  182+ countries served. Payout certificates displayed on homepage
+  (e.g. $10,153.80 Harry Arthur P.A., $7,584.00 Bhavin V.).
+- Trustpilot: 13,012 reviews linked from homepage (profile quanttekel.com);
+  on-site widget showed 3.9/5 at fetch time.
+- Sister products: QT Capital (QT Cap), QT Futures (listed "Coming soon"),
+  brokerage arm Quant Tekel (quanttekel.com).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://qtfunded.com (homepage: hero, stats, plan cards, full comparison
+    table QT ONE / QT TWO / QT INSTANT, FAQ, footer legal/jurisdictional text)
+ 2. https://qtfunded.quanttekel.com/evaluations/ (evaluations page: plan
+    cards, full rule comparison table, account sizes $5K-$200K)
+ 3. https://support.qtfunded.com/ (Help Centre / FAQs index)
+ 4. https://qtfunded.quanttekel.com/qt-capital/ (QT Capital product page)
+ 5. https://qtfunded.quanttekel.com/futures/ (QT Futures — "Coming soon")
+ 6. https://support.qtfunded.com/hc/en-gb/categories/5394121828639-Trading-Rules-Risk-Management (Trading Rules category)
+ 7. https://qtfunded.quanttekel.com/terms-of-service/ (Terms of Service)
+ 8. https://qtfunded.quanttekel.com/jurisdictional-notice/ (Jurisdictional Notice)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 9. FXEmpire QT Funded review 2026-06-20 (hands-on 2-Step $50K test; full
+    price tables Instant/1-Step/2-Step/2-Step Elite/QT Power; consistency,
+    news, leverage detail)
+10. FundedTrading.com QT Funded review 2026-07-15 (pricing approx table,
+    risk-interview payout-delay pattern, PropFirmMatch delisting note)
+11. TheTrustedProp QT Funded/Quant Tekel review Jun 2026 (4 plan price
+    tables, Capital Programme, Trustpilot-gap analysis, 8.3/10 from 10 reviews)
+TOTAL SOURCES: 11 (8 official + 3 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase; MT5, TradeLocker; cTrader per reviewers):
+- MetaTrader 5 (MT5) — desktop/mobile/web, EA support. NOTE: MetaQuotes-based
+  services (MT5) are NOT available to U.S. residents (official jurisdictional
+  notice). U.S. clients must use TradeLocker.
+- TradeLocker — modern web-based platform, alternative for U.S. traders.
+- cTrader — listed by FXEmpire/TradingPilot as supported.
+CFD INSTRUMENTS: Forex, Indices, Commodities/Metals, Crypto, (stocks per
+aggregators). ~70 instruments on QT Power per FXEmpire. Full symbol list is
+inside the platforms / dashboard.
+LEVERAGE (per FXEmpire hands-on test): standard accounts up to 1:50 on forex;
+QT Power up to 1:100 forex, 1:35 indices/metals. Per-symbol leverage inside
+platform contract specs.
+HOLDING: overnight + weekend holding allowed on all accounts EXCEPT crypto
+(prohibited over weekend per reviewers). News trading: allowed on QT ONE and
+QT Power; RESTRICTED on QT TWO funded (profit forfeited).
+PRICING MODELS: Raw Spread + Commission (tighter spreads, per-trade
+commission; best for scalpers/algos) vs Variable Spread, No Commission
+(wider spreads, no commission). Swap-free account option costs +10% of plan
+price (per TheTrustedProp).
+COMMISSIONS/SWAPS/SPREADS count toward daily/max loss (equity-based).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Steps | Sizes          | Target        | Daily DD      | Max DD       | Split     | Payout cycle |
+|---|----------------------|-------|----------------|---------------|---------------|--------------|-----------|--------------|
+| 1 | QT ONE (1-Step)      | 1     | $5K-$100K      | 6%            | 3% trailing   | 6% static    | 70%       | 4 days       |
+| 2 | QT TWO (2-Step)      | 2     | $10K-$200K     | 8% then 5%    | 4%            | 8%           | 80%       | 14 days      |
+| 3 | QT INSTANT (funded)  | 0     | $5K-$100K      | None          | 3% fixed      | 6% trailing  | 100%      | 4 days       |
+| 4 | QT POWER (2-Step)    | 2     | $5K-$100K      | 6% (+6% P2*)  | 4% (EOD*)     | 8% static    | 80%       | on-demand*   |
+| 5 | Buy Now Pay Later    | 1     | $5K-$100K      | 6%            | 3% trailing   | 6% static    | 80%       | 4 days       |
+Notes (* per third-party tables; confirm at checkout):
+- QT Power: 6% targets per phase (FXEmpire: "6%", TheTrustedProp: 6%/phase);
+  daily 4% EOD-based for accounts issued after 2025-04-09; on-demand payouts
+  at 80% with 35% consistency rule.
+- QT TWO Elite / 2-Step Elite / Prime variants cited by reviewers (6%/6%
+  targets, 10% static DD) — naming rotates with promos; current homepage
+  shows QT ONE / QT TWO / QT INSTANT + QT POWER + BNPL.
+- Funded-stage extras (homepage comparison table): stop-loss rule (place SL
+  within 60 seconds) on QT TWO + QT INSTANT funded; 1% max floating-loss /
+  risk-exposure rule on funded; min trading days when funded (4 days; QT TWO
+  4 at +0.5%, INSTANT 4 at +1%); consistency 30% on INSTANT; drawdown lock
+  +3% buffer on withdrawal (INSTANT); inactivity rule 7 days (QT ONE) /
+  14 days (INSTANT).
+- Max allocation: $300,000 total simulated capital (homepage: "up to $300K");
+  Instant funded capped at $100K within that total (per reviewers).
+- No minimum trading days on QT ONE evaluation (pass in a single day/trade).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. QT ONE (1-STEP) ---
+- Profit target: 6% of initial balance, evaluation only. No target on funded.
+  ($100K: +$6,000.) No minimum evaluation days — pass in one session/trade.
+- Daily drawdown: 3% TRAILING (homepage table). Breach = fail/termination.
+- Maximum drawdown: 6% STATIC (homepage table). Fixed off initial balance.
+  ($100K: $6,000 room; floor $94,000.)
+- Consistency: NONE on QT ONE (homepage table).
+- News rule: NONE — news trading allowed (homepage table).
+- Stop-loss rule: NONE on QT ONE (homepage table).
+- Funded-stage risk exposure: 1% max floating loss (homepage table).
+- Funded min days: 4 trading days before payout eligibility (homepage table).
+- Inactivity: 7 days (homepage table).
+- Profit split: 70%. Payout cycle: every 4 days. Crypto payouts; ~24h
+  processing target once approved.
+--- 5B. QT TWO (2-STEP) ---
+- Profit targets: 8% Phase 1, then 5% Phase 2 (homepage + evaluations page).
+  ($100K: $108,000 then $105,000.) None on funded.
+- Daily drawdown: 4% (homepage table). EOD-based per reviewers.
+- Maximum drawdown: 8% (homepage table; third-party tables cite 10% static
+  on Prime 2-Step variants — variant naming rotates; verify at checkout).
+- Consistency: NONE on QT TWO (homepage table).
+- News rule (funded): RESTRICTED — profit forfeited (homepage table).
+  Evaluation: no restriction.
+- Stop-loss rule (funded): SL must be placed within 60 seconds of opening
+  the position (homepage table).
+- Funded risk exposure: 1% max floating; 1st violation = soft breach,
+  2nd = hard breach (homepage table).
+- Funded min days: 4 trading days at +0.5% (homepage table).
+- Inactivity: none (homepage table).
+- Split 80%; payouts every 14 days. First two funded payout cycles capped
+  at 5% of balance or $5,000 (whichever higher) on 2-Step base (per
+  TheTrustedProp); cap removed from cycle 3; Elite uncapped.
+- Floating Loss Rule (per reviewers): total unrealised loss across all open
+  positions must not exceed 2% of balance at any time.
+--- 5C. QT INSTANT (NO EVALUATION) ---
+- Profit target: NONE — start on funded-style account immediately.
+- Daily drawdown: 3% FIXED off initial balance (homepage table).
+- Maximum drawdown: 6% TRAILING off highest balance/equity (homepage table).
+- Consistency: 30% (homepage table; reviewers cite 25% best-day wording on
+  older Instant terms — current homepage figure is 30%).
+- News rule: NONE (homepage table); reviewers note a 5-minute funded news
+  blackout on older Instant terms — verify current T&Cs.
+- Stop-loss rule (funded): within 60 seconds (homepage table).
+- Funded risk exposure: 1% max per symbol (homepage table).
+- Funded min days: 4 trading days at +1% (homepage table; reviewers cite 5
+  days + 5% min profit balance before first payout on older terms).
+- Drawdown lock on withdrawal: YES, +3% buffer (homepage table).
+- Inactivity: 14 days. Split 100%. Payouts every 4 days.
+--- 5D. QT POWER (LOW-COST 2-STEP) ---
+- Targets: 6% per phase (both phases). Max DD 8% static. Daily 4% EOD-based
+  (post-2025-04-09 accounts). No funded news restriction. Leverage up to
+  1:100 forex. Consistency 35% (challenge + funded). Payout on demand at 80%.
+  Sizes $5K-$100K only. Cheapest entry (from ~$28 at $5K per FXEmpire).
+--- 5E. BUY NOW PAY LATER (QT ONE VARIANT) ---
+- Same 6% target / 6% static / 4-day cycle as QT ONE but 80% split and a
+  $200 activation fee (homepage card). For traders wanting funding now.
+--- 5F. DRAW-DOWN WORKED EXAMPLE ---
+- QT ONE $100K: static 6% => floor $94,000 fixed. Target $106,000. Daily 3%
+  trailing: e.g. Day 1 start $100,000 => intraday floor $97,000; Day 2 after
+  closing $102,000 => floor trails to $99,000.
+- QT TWO $100K (8% max): floor $92,000 fixed. P1 target $108,000, P2 $105,000.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+LIST PRICES (USD one-time fee; homepage Sept-2026 promo: 50% OFF all accounts
++ free full-size account with code QT, ends Sep 15 — verify live):
+FXEmpire June-2026 price tables (pre-promo list, MT5):
+- Instant (6% max DD): $2.5K $41 | $5K $65 | $10K $106 | $25K $195 |
+  $50K $325 | $100K $650.
+- 1-Step/QT ONE (6% max DD): $5K $75 | $10K $135 | $25K $225 | $50K $385 |
+  $100K $525.
+- 2-Step/QT TWO (10% max DD variants): $5K $33 | $10K $49 | $25K $114 |
+  $50K $228 | $100K $447 | $200K $813.
+- 2-Step Elite: $5K $60 | $10K $122 | $25K $284 | $50K $455 | $100K $813 |
+  $200K $1,544.
+- QT Power (8% max DD): $5K $28 | $10K $50 | $25K $110 | $50K $200 |
+  $100K $400.
+TheTrustedProp June-2026 tables (Prime naming): Prime 2-Step $5K $60 /
+$10K $110 / $25K $230 / $50K $360 / $100K $680 / $200K $1,298; Prime 3-Step
+$5K $50 / $10K $91 / $25K $216 / $50K $366 / $100K $625 / $200K $1,166;
+Power $5K $26 / $10K $52 / $25K $105 / $50K $210 / $100K $400; Instant
+$10K $60 / $25K $144 / $50K $216 / $100K $420 / $200K $846.
+ADD-ONS: swap-free option +10% of plan price; weekly-payout add-on on
+2-Step/Instant (7-day cycle); QT Card payout method. BNPL: $200 activation.
+REFUND: evaluation fee refunded after a successful payout (per TradingPilot;
+terms at checkout govern). Failed evaluations are not refunded.
+PAYMENT: Visa, Mastercard, Amex, PayPal, Bitcoin/crypto, Paysagi, Tazapay,
+Paytiko, BoomFi, Confirmo (checkout icons).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: QT ONE 70% | QT TWO 80% | QT INSTANT 100% | QT POWER 80% |
+  BNPL 80%. Scale-up program can lift 2-Step/Instant toward 90% (add-on).
+- Cycles: QT ONE + QT INSTANT every 4 days; QT TWO every 14 days;
+  QT POWER on demand. Weekly (7-day) add-on available on 2-Step/Instant.
+- Minimums/methods: min withdrawal ~$110 (reviewers); crypto, bank wire,
+  QT Card. Transfer fees are the recipient's responsibility (official policy).
+- Process: dashboard "Request Payout" -> enter wallet details -> compliance/
+  risk review incl. mandatory Zoom "risk interview" before FIRST payout ->
+  approval target 24 business hours -> reset ~24h after payout. Account must
+  meet min funded days + consistency + profit-balance thresholds.
+- Caps: 2-Step base first two cycles capped at 5% of balance or $5,000 max
+  (higher of); removed from cycle 3; Elite uncapped (per TheTrustedProp).
+- Scaling: no fixed % ladder published; scale-up program + Capital Programme
+  (salaried track after 3 payout cycles on 2-Step/Elite: monthly salary up to
+  3% of balance, daily payouts, quarterly reviews, 50/50+ split, possible
+  office access). Max allocation $300K total.
+- Claims: $17M+ paid; homepage payout certificates displayed.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + reviewer-noted)
+================================================================================
+1. Risk-exposure / floating-loss rule (funded): 1% max floating loss (QT ONE);
+   1% max floating with soft-then-hard breach ladder (QT TWO); 1% max per
+   symbol (QT INSTANT); 2% total unrealised-loss cap (reviewer-cited).
+2. Stop-loss rule (funded QT TWO + INSTANT): SL within 60 seconds of entry.
+3. News rule (funded QT TWO): restricted — profits on restricted news trades
+   forfeited. (QT ONE / POWER / INSTANT: no news restriction per homepage.)
+4. Consistency rule (INSTANT 30%, POWER 35%): single-day profit share cap at
+   withdrawal; over-concentration blocks payout until balanced.
+5. Drawdown lock +3% buffer on INSTANT withdrawals.
+6. Weekend crypto prohibition (reviewer-cited): crypto cannot be held over
+   weekend; undocumented per one complaint — verify current T&Cs.
+7. Standard prop prohibitions (Terms): exploiting price-feed errors / latency
+   arbitrage; hedging across accounts; account sharing / third-party trading;
+   copy-trading others' signals as decision-maker; hyperactive order spam;
+   gambling / account rolling. Breach = trade removal, payout forfeiture,
+   or termination.
+8. Inactivity: QT ONE 7 days, INSTANT 14 days (homepage table).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; entity use per Terms.
+- USA: ACCEPTED, but MT5 NOT available to U.S. residents — U.S. clients must
+  use TradeLocker (official jurisdictional notice).
+- HARD EXCLUSIONS (no offer/solicitation): Cyprus, Iran, North Korea, Sudan,
+  Syria, Russia, "or any other jurisdiction where the offering would be
+  contrary to local laws" (official footer verbatim).
+- 180+ countries served; ~40% web traffic from India (reviewers).
+- KYC: dashboard identity check after passing evaluation; contract signature;
+  credentials released within ~24h-2 business days. Payout beneficiary must
+  match KYC.
+- VPN/VPS: not prohibited in published rules; account sharing still banned.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — FXEmpire (2026-06-20, hands-on $50K 2-Step MT5 test + payout):
+  praises low entry barrier (from $28), 3 platforms (MT5/cTrader/TradeLocker),
+  simple 2-Step path, ~24h payouts in test, 1:50-1:100 leverage, swap-free
+  option; flags 20-35% consistency rules, min funded days, 5% funded profit
+  cap on 1-Step, news restrictions, pre-withdrawal risk interview, and
+  scattered payout-issue reports. Capital-efficiency scores: 2-Step $23.15,
+  Power $19.28, 1-Step $8.47, Instant $8.35 per $1 (all beat benchmarks
+  except Elite).
+- REVIEW 2 — FundedTrading.com (2026-07-15, scores: Pricing 8.1 / Rules 6.6 /
+  Platform 7.1 / Payouts 6.4 / Features 6.0): verdict — cheap entry + solid
+  platforms, but documents late-2025/2026 pattern of payout delays, risk
+  interviews scheduled 30-60 days out, frozen accounts, Discord bans, and
+  PropFirmMatch DELISTING in 2026 ("exercise extra caution"). Notes 6-month
+  "risk tool outage" explanation since Jan 2026 with no public timeline.
+- Extra cross-checks: TheTrustedProp 8.3/10 (10 reviews) but Trustpilot-gap
+  warning (declining 2.5-2.9 stars on small sample, all 1-star payout-denial
+  complaints); TradingPilot 3.9/5 (621 reviews) with one detailed May-2026
+  retroactive-breach/FTC-report complaint; homepage widget 3.9/5 (13,012).
+- Sentiment: positive on price, platforms, simple rules; negative cluster on
+  payout-stage friction (interviews, delays, retroactive breaches).
+- Red flags: PropFirmMatch delisting (2026) — MATERIAL, verify resolution
+  before purchase. No regulator action found.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest 2-Step entry in class (from ~$28-$33 at $5K; $813 at
+$200K beats $14.39 benchmark at $23.15/funded-$). 100% Instant split and
+4-day cycles beat bi-weekly/monthly rivals. But payout-stage friction
+(interviews, caps, consistency) offsets price edge vs FTMO/E8 reliability.
+QT ONE VS QT TWO: ONE = faster (1-step, 6%, 4-day, no news rule) but 70%
+split + trailing daily + 1% floating cap. TWO = 80%, bigger sizes to $200K,
+but 2 phases (8%+5%), 14-day cycle, funded news forfeits + 60-sec SL rule.
+INSTANT: no eval, 100% split, 4-day — but 6% trailing DD, 30% consistency,
++3% lock buffer, per-symbol 1% cap. POWER: cheapest 2-step, 1:100 leverage,
+on-demand — but $100K max, 35% consistency.
+BEST FIT: budget-conscious forex/indices traders; TradeLocker users (incl.
+US); scalpers wanting raw-spread pricing; disciplined low-frequency traders
+comfortable with interviews/caps.
+BAD FIT: traders needing fast first payouts without interviews; news-spike
+traders (on QT TWO funded); crypto weekend holders; banned jurisdictions;
+traders wanting >$300K allocation or MT5 in the US.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + evaluations-page comparison tables, footer legal
+structure, jurisdictional exclusions, platform availability, plan cards and
+FAQ were read live from qtfunded.quanttekel.com on 2026-09-08. Pricing
+tables cross-checked against FXEmpire (Jun 2026), TheTrustedProp (Jun 2026),
+FundedTrading (Jul 2026) and TradingPilot; promo pricing rotates — re-check
+#pricing anchors before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes QT ONE/TWO/INSTANT/POWER/BNPL tables, funded-stage
+micro-rules, payout-interview/delist warning.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Trade our capital. Get paid every 4 days. One target. One plan.
+No hidden rules. 6% target, 6% static drawdown, no consistency rule, no news
+rule, no minimum trading days."
+[2] QT ONE card: "For traders who want funded fast with nothing in the way.
+Profit Target 6%. Profit split 70%. Payout cycle 4 days. Max drawdown 6%
+static. Account sizes $5K to $100K."
+[3] QT TWO card: "For traders who want size and a longer runway to earn it.
+Profit Target 8% then 5%. Profit split 80%. Payout cycle 14 days. Max
+drawdown 8%. Account sizes $10K to $200K."
+[4] QT INSTANT card: "For traders who are done proving it and want the whole
+upside. Profit Target None. Profit split 100%. Payout cycle 4 days. Max
+drawdown 6% trailing. Account sizes $5K to $100K."
+[5] INSTANT extras: "Consistency score 30%. Drawdown lock on withdrawal Yes,
++3% buffer. Stop loss rule Within 60 seconds. Risk exposure on funded stage
+1% max per symbol. Min trading days when funded 4 at +1%."
+[6] TWO extras: "News rule Restricted — profit forfeited. Risk exposure on
+funded stage 1% max floating. 1st violation is a soft breach, 2nd violation
+is a hard breach. Min trading days when funded 4 at +0.5%."
+[7] Jurisdictional: "QTFunded.com does not offer or solicit its services in
+jurisdictions where such activities would be unlawful... not available to
+residents of Cyprus, Iran, North Korea, Sudan, Syria, Russia... While we may
+onboard clients from the United States, MetaQuotes-based services (e.g. MT5)
+are not available to U.S. residents. U.S. clients may use alternative
+platforms such as TradeLocker."
+[8] Entity: "All QTFunded services are provided by Quant Tekel SVG (St.
+Vincent and the Grenadines)... Customer payments for QTFunded services are
+processed by Quant Tekel Ltd (Company Number: 15923693)... Quant Tekel
+(Pty) Ltd is a regulated broker authorised by the Financial Sector Conduct
+Authority (FSP No. 53227) in South Africa."
+[9] Simulated: "Quant Tekel LLC – 3984 LLC 2025 provides virtual proprietary
+trading programs through simulated environments... No real trading occurs,
+and funds paid to enter an evaluation are considered subscription fees."
+[10] Payouts FAQ: "you can request a withdrawal every 4 trading days with QT
+ONE, 7 days with Instant, while QT TWO allows withdrawals once every two
+weeks... We aim to approve payouts within 1 business day."
+[11] Scale: "125,000+ traders. $17m+ in rewards paid. 182+ Countries.
+Up to $300K Simulated Capital."
+[12] Promo: "September offer: 50% off + a free full-size account with code QT."
+================================================================================
+END OF FILE — QTFUNDED COMPLETE. Next firm is a separate task (not started).
+================================================================================

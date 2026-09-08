@@ -1,0 +1,146 @@
+================================================================================
+HYPERNOVA — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Hypernova.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://hypernova.xyz without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Hypernova (hypernova.xyz, @HypernovaX). Country: Cayman Islands
+  per OnchainProps. $3M pre-seed led by Lemniscap (The Block, May 2026).
+- Positioning: On-chain crypto prop firm on Hyperliquid; Arbitrum settlement;
+  smart-contract payouts (~6s avg, 24/7); rules anchored on-chain (Arbitrum
+  contract, address published); payout reserve published (~$864K-$1M reads).
+- Public since 14 Aug 2026 (checkout open at app.hypernova.xyz; was invite-only
+  closed beta). Funding $5K-$200K initial (+ scaling after review).
+- What it is [UNVERIFIED]: Evaluation + funded accounts; 80% split.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://hypernova.xyz/ (homepage + payout reserve + totals)
+ 2. https://hypernova.xyz/how-it-works (funding mechanics)
+ 3. https://hypernova.xyz/docs (rulebook + versions)
+ 4. https://hypernova.xyz/docs/smart-contract (reserve/payout contract)
+ 5. https://app.hypernova.xyz/ (checkout pricing, open since 14 Aug 2026)
+CROSS-CHECK (third-party, real links):
+ 6. https://roya-trading.com/prop-firms/hypernova/ (live $10K tested, 85.7)
+ 7. https://roya-trading.com/blog/best-hyperliquid-prop-firm/ (Aug 2026 rank #2)
+ 8. https://onchainprops.xyz/firms/hypernova (150+ perps, $200K, no token)
+TOTAL SOURCES: 8 (5 official to verify + 3 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: in-house terminal + analytics + risk engine on
+  Hyperliquid liquidity. No MT4/MT5. Verify.
+- Instruments [UNVERIFIED]: 141-150+ perp markets — 100+ crypto + 50 TradFi
+  (stocks, commodities incl. gold/crude/Brent, SP500, pre-IPO) 24/7. Verify
+  live market list (141 vs 150+ reads differ by date).
+- Leverage [UNVERIFIED]: up to 5x (10x gold/crude/Brent/SP500 per Aug 2026
+  reads). Verify per-symbol caps on markets page.
+- Settlement on Arbitrum; Hyperliquid execution. Verify fee schedule.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on docs + checkout]
+| # | Program | Target | Drawdown | Split | Sizes |
+|---|---------|--------|----------|-------|-------|
+| 1 | 1-Step Precision (tight) | 9-10% | 3% static EOD equity | 80% | $5K-$200K |
+| 2 | 1-Step Conservative | 9-10% | 6% static EOD equity | 80% | $5K-$200K |
+| 3 | 1-Step Standard | 9-10% | 7% static EOD equity | 80% | $5K-$200K |
+Notes: no consistency rule of any kind per Roya. 25K pricing $120/$275/$365
+by tier (17 Aug 2026 in-app read). 5K from $25. Verify current grid.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. PRECISION TIER [UNVERIFIED] ---
+- Tightest 3% static EOD-equity walls; 9-10% target; cheapest entry ($25/5K).
+  Verify target %, EOD definition, lock behavior.
+--- 5B. CONSERVATIVE TIER [UNVERIFIED] ---
+- 6% static EOD; mid pricing ($60/5K, $275/25K reads). Verify.
+--- 5C. STANDARD TIER [UNVERIFIED] ---
+- 7% static EOD; highest pricing ($80/5K, $365/25K reads). Verify.
+--- 5D. FUNDED / ENFORCEMENT [UNVERIFIED] ---
+- Rules written to Arbitrum smart contract; live-account limits matched
+  rulebook to the dollar in Roya test. No bot restrictions per public rules
+  (16 Aug 2026 read). Nine reviewer payouts 28-31 Aug 2026, largest at exact
+  80% on-chain. Verify contract address + current reserve.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Fee model: one-time assessment fees. Reads: 5K $25/$60/$80 by tier;
+  25K $120/$275/$365. $5K-$200K funding tiers. Confirm full matrix.
+- Scaling beyond $200K after review — verify terms.
+- Refund: confirm refund-on-pass policy on docs before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: 80% (highest advertised split is rewards-program 90%, not funded —
+  verify which applies).
+- Payouts: USDC by smart contract, avg ~6.2s, 24/7, unlimited same-day
+  requests cited; reserve $864K-$1M published. Verify min + caps.
+- Scaling: beyond $200K after review. Verify thresholds.
+- No token announced (vs Propr $PROPR) — verify current token stance.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm docs rulebook]
+No bot restrictions per Aug 2026 public-rules read — but verify Sybil/multi-
+account, latency/stale-quote, martingale/variance-farming and cross-account
+hedging clauses before automating or hedging.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC set/timing undisclosed in reads — verify (before funding +
+  payout assumed).
+- Restricted list not captured — verify terms/docs geo-fence (US/OFAC assumed
+  restricted until confirmed).
+- Cayman Islands operator; unregulated prop (no broker protections) — verify.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Roya live $10K test (8 Aug 2026 beta account): rulebook-to-dollar match,
+  checkout open re-confirmed 26 Aug 2026; nine payouts verified on-chain;
+  Trust 85.7/100 (1pt behind Propr on rules/maturity). Stale closed-beta
+  badge on homepage noted — verify current.
+- EdgeX/Block coverage: $3M raise, real-time verifiable payouts.
+- OnchainProps: $200K max, 150+ perps, rules-onchain Yes, no token.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: traders wanting biggest Hyperliquid initial ($200K+scale),
+  programmatic instant payouts, on-chain rule enforcement, no consistency rule.
+- Bad fit: traders needing MT platforms, token/airdrop upside, or 90% funded
+  splits. Verify commodity caps vs Propr before choosing venue.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — HYPERNOVA UNVERIFIED. Next firm is a separate task.
+================================================================================

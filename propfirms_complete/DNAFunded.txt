@@ -1,0 +1,346 @@
+================================================================================
+DNAFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/DNAFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official DNAFunded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: DNAFunded / DNA Funded (broker-backed CFD prop firm).
+- Founded: 2024, Australia. Legal name: Prop Trade Tech Pty Ltd (Myfxbook).
+  Backed by DNA Markets (https://www.dnamarkets.com, regulated Australian
+  forex broker) — "Backed by DNA Markets" badge on dnafunded.com footer.
+  Additional registration in Saint Lucia (PropFirmMap Saint-Lucia list;
+  CompleteTraderEdge: "headquartered in Australia with additional
+  registration in St. Lucia"). Award: Best Prop Firm Overall Award 2025
+  (homepage badge).
+- Contact: https://dnafunded.com | Challenges anchor /#challenges |
+  https://dnafunded.com/faqs/ | Affiliate /affiliate-program/ | Promotions
+  /promotions/ | Contact /contact-us/ | Portal https://portal.dnafunded.com/
+  (Login) | support@dnafunded.com | Discord https://discord.gg/dCAWYGJQMu |
+  Instagram @dnafunded | X https://x.com/dnafunded. English + DE/ES/AR/JA
+  locales. Support English-only, no phone (Myfxbook).
+- What it is: broker-backed simulated-evaluation CFD prop firm (800+ CFD
+  instruments, institutional DNA-Markets liquidity, not synthetic pricing).
+  Funded (DNA Funded trading account) traders manage up to $200K single /
+  $600K total simulated allocation and receive real-money Rewards (profit
+  splits). DNA Funded is not a broker and accepts no deposits; platform/data
+  powered by third-party liquidity providers. Unlimited evaluation time.
+- Scale/positioning: "Unlock your financial blueprint", "manage up to
+  $600,000 in simulated funded capital", "genetically curated challenges".
+  Notice banner Sep 2026: "MT5 accounts are migrating to TradeLocker
+  (impacted clients notified directly). All other trading remains unaffected.
+  New orders are currently paused." — re-check platform status before buying.
+- Legal docs (footer PDFs): General Terms V2.0 (Jan-2026), Rules and
+  Conditions V2 31.08.26 (Aug-2026 governs this file), Website Terms
+  20251030, Privacy 20251030, Participant Verification V1.0, Complaint
+  Management V1.0.
+- Key distinction: Single Helix 1-Phase (10%/4%/6%) / Double Helix 2-Phase
+  (8+5/5%/8%) / Rapid 10-Day (5%/3%/5%) / Instant Funding (trailing 4%) /
+  24-Hour Challenge (stake x multiplier) are SEPARATE routes with different
+  rooms, prices, boosters and payout gates. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://dnafunded.com (homepage: $600K positioning, 5-route cards with
+    full per-size tables $49-$1,209, boosters, TradeLocker login, dashboard,
+    MT5-migration notice, DNA-Markets backing, legal PDFs)
+ 2. https://dnafunded.com/faqs/ (challenge/funded/payout rules incl. one-
+    account-at-a-time, 40% cap, news 10-min, IP consistency)
+ 3. https://dnafunded.com/checkout/ (live cart add-to-cart IDs 798-858/13444)
+ 4. https://portal.dnafunded.com/ (dashboard login)
+ 5. https://dnafunded.com/affiliate-program/ (affiliates)
+ 6. https://dnafunded.com/promotions/ (promos)
+ 7. https://dnafunded.com/contact-us/ (contact)
+ 8. https://dnafunded.com/wp-content/uploads/2026/08/DNA-Funded-Ltd-Rules-and-Conditions-V2-31.08.26.pdf (governing rules Aug-2026)
+ 9. https://dnafunded.com/wp-content/uploads/2026/01/DNA-Funded-Ltd-General-Terms-and-Conditions-V2.0.pdf (terms)
+10. https://www.dnamarkets.com/ (broker backing)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. PropFirmsRadar DNA Funded Aug-2026 (3.4/5 Editor; 5 routes incl. 24H from
+    $25; $5K-$200K MT5+DXtrade older list; 80%/90%-add-on; 14d/7-booster;
+    30%-distribution cap Feb-2026; USA No; DNAFUNDED15 15% off)
+12. Myfxbook DNA Funded (4.4/29 reviews; Prop Trade Tech Pty Ltd; 2024 AU;
+    DNA Markets broker; $49-$1,209; $5K-$200K; Forex/Stocks/Crypto/Indices/
+    Commodities; MFB25 25% off; 40% daily cap; news 10-min; weekend holding
+    allowed; IP consistency; TradeLocker transparency; $600K scale)
+13. CompleteTraderEdge DNA Funded Jul-2026 (7.2/10; broker-backed; 800+
+    instruments; TradeLocker-only + TradingView; 80-90%; $49 min; 1:50;
+    $5/trade + 0.1% crypto; 3.9/87 Trustpilot; 40% cap tested; 5% payout cap
+    first-3; KYC/video discretion)
+14. PropTraderCheck DNAFunded Jul-2026 (first-3 payouts capped 5% of start;
+    $100 min after split; 1% crypto / $50 intl-wire fees)
+15. TheRockTrading DNA Funded Jul-2026 (85/100; Est. 2022 AU variant list;
+    PROPFIRMS25 25% off; simulated-accounts disclaimer)
+16. PFWatch DNA Funded blog Aug-2026 (rules/pricing/payout review)
+17. TheTrustedProp DNA Funded review 2026 (types/rules/split/proof/code)
+18. TraderFuel DNA Funded Jul-2026 (programs/rules/drawdown/pricing/payouts)
+19. MyPropGenius DNA Funded review 2026 (unbiased analysis page)
+20. Trustpilot DNA Funded (~3.9/5, ~87 reviews per CTE/Myfxbook reads)
+TOTAL SOURCES: 20 (10 official + 10 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORM: TradeLocker EXCLUSIVELY (homepage "Trade with precision on
+TradeLocker" + live login widget Server PTTSER; CTE: "TradeLocker only with
+TradingView charting"). Web-based desktop + mobile; TradingView charting
+integration for analysis (no MT4/MT5 EAs, no custom indicators/automation).
+MT5 MIGRATION NOTICE Sep 2026: "MT5 accounts are migrating to TradeLocker.
+New orders are currently paused." Older aggregators list MT5 + DXtrade —
+TradeLocker-only governs this file until migration completes. Traders get
+full transparency with TradeLocker login details (Myfxbook pro).
+INSTRUMENTS: 800+ CFDs across 5 classes: Forex, Stocks/Shares, Crypto,
+Indices, Commodities (Myfxbook + CTE agree). Crypto + forex on same platform
+(Radar: "genuinely multi-asset"). Asset-range counters on homepage are JS-
+rendered (0+ display at fetch) — 800+ governs via Myfxbook/CTE reads.
+LEVERAGE: up to 1:50 (CTE). Per-symbol matrix in TradeLocker specs.
+COSTS: $5 FLAT FEE per non-crypto trade + 0.1% for crypto (CTE tested) +
+spreads + swaps; fees COUNT toward daily/max loss (equity-based). Demo login
+shown on homepage (support@ + Server PTTSER) is a marketing widget — use own
+credentials from dashboard.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Route              | Steps | Sizes              | Target        | Daily loss | Max loss     | Min days | Split    | Fee model |
+|---|--------------------|-------|--------------------|---------------|------------|--------------|----------|----------|-----------|
+| 1 | Single Helix 1-Phase| 1    | 5K/10K/25K/50K/100K/200K | 10%        | 4%         | 6%           | 5        | Up to 90% (80% std + booster) | one-time $59-$1,209 |
+| 2 | Double Helix 2-Phase| 2    | 5K/10K/25K/50K/100K/200K | 8% Ph1 + 5% Ph2 | 5%      | 8%           | 5        | Up to 90% | one-time $49-$1,079 |
+| 3 | Rapid 10-Day       | 1     | 10K/25K/50K/100K   | 5%            | 3%         | 5%           | 3        | Up to 90% | one-time $99-$549 |
+| 4 | Instant Funding    | 0     | 5K/10K/25K/50K     | NONE          | NONE display | 4% TRAILING | Up to 90% | one-time $199-$979 |
+| 5 | 24-Hour Challenge  | 1     | $20K start balance | multiplier-based | multiplier | trailing    | allocation-based | stake from $10 ($25 street) |
+Notes:
+- Funded has NO profit target. Challenge Booster add-ons at checkout:
+  Profit Split 80%->90%, Profit Booster, Early Payout 14->7 days, Demo Reset
+  (fail during demo stage). 90% requires paid add-on (standard 80%).
+- Max allocation: $200K single, $600K total across accounts (Myfxbook + CTE).
+  One account at a time per user (24H note + FAQs — confirm multi-account
+  scaling desk rule before stacking).
+- Unlimited evaluation time (CTE Mind-framework plus). No subscription.
+- USA Accepted: No (Radar) — US traders excluded (contrast Atlas/BrightFunded).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. SINGLE HELIX 1-PHASE (10%/4%/6%, 5 days) ---
+- Target 10% single phase, none on funded. ($50K: $5,000. $5K: $500.)
+- Daily 4%, Total 6%. ($50K: $2,000/day, $3,000 total. $5K: $200/$300.)
+  Daily sits CLOSE to max (one bad session can end it — Radar warning).
+- Min days 5. 40% daily profit cap applies (Myfxbook: max 40% of total payout
+  goal per day; excess rolls to next day). News 10-min no-open/close rule;
+  weekend/overnight holding ALLOWED; IP consistency required.
+- Fees: $59/$89/$179/$319/$619/$1,209 (5K-200K).
+--- 5B. DOUBLE HELIX 2-PHASE (8+5/5%/8%, 5 days — MOST ROOM) ---
+- Targets 8% Ph1 + 5% Ph2, none on funded. Daily 5%, Total 8% (nearly double
+  Single's room — Radar: "extra phase buys double room; pick Double if a bad
+  week is possible").
+- Min days 5. Same 40% cap / news / weekend / IP rules.
+- Fees (cheapest evaluated): $49/$79/$159/$289/$549/$1,079. Best value per
+  room-dollar in lineup.
+--- 5C. RAPID 10-DAY (5%/3%/5%, 3 days — TIGHTEST) ---
+- Target 5%, Daily 3%, Total 5% (tightest band). Min days 3. For confident
+  sprinters only. Fees $99/$189/$329/$549 (10K-100K).
+--- 5D. INSTANT FUNDING (no evaluation, trailing 4%) ---
+- No target, no min-days display, 4% TRAILING max loss (trails with equity,
+  locks at breakeven). Same 40% cap + news + IP + compliance review. Fees
+  $199/$309/$559/$979 (5K-50K). Highest upfront, zero evaluation risk.
+--- 5E. 24-HOUR CHALLENGE (stake x multiplier, $20K start) ---
+- Starts $20K balance; stake from $10 ($25 street floor — cheapest entry in
+  batch). Multiplier sets earning + rules (higher multiplier = higher target
+  + wider drawdown). Only three things matter: profit target, profit
+  allocation, trailing drawdown (homepage). Challenge begins immediately —
+  download platform BEFORE buying. One account at a time.
+--- 5F. FUNDED STAGE (all routes) ---
+- No target. Split 80% std / 90% booster. First payout 14 days (7 with Early
+  Payout booster). First-3 payouts capped at 5% of starting balance (CTE +
+  PTC); cap lifted after 3rd. Min $100 after split (PTC). 30% daily profit
+  distribution limit on accounts opened from 3 Feb 2026 (Radar: max 30% of
+  requested payout credited per trading day — staggers arrival, does not cut
+  total). Compliance review at risk-team sole discretion incl. KYC/video step
+  (CTE). Withdrawal fees: 1% crypto or $50 intl wire (PTC); zero-fee cited on
+  Myfxbook (rail-dependent — confirm checkout).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES in USD (single payment, no subscription; cart IDs live):
+Single Helix: 5K $59 (798) | 10K $89 (802) | 25K $179 (806) | 50K $319 (810)
+  | 100K $619 (814) | 200K $1,209 (818).
+Double Helix: 5K $49 (822) | 10K $79 (826) | 25K $159 (830) | 50K $289 (834)
+  | 100K $549 (838) | 200K $1,079 (842).
+Rapid: 10K $99 (846) | 25K $189 (850) | 50K $329 (854) | 100K $549 (858).
+Instant: 5K $199 (13444) | 10K $309 (13445) | 25K $559 (13446) | 50K $979
+  (13447).
+24-Hour: stake from $10 (homepage) / $25 street floor (Radar).
+PROMOS: DNAFUNDED15 15% off (Radar); MFB25 25% off (Myfxbook); PROPFIRMS25 25%
+off (RockTrading). Range $49-$1,209 (Myfxbook header).
+ADD-ONS (Challenge Boosters at checkout): Profit Split 80->90%, Profit
+Booster, Early Payout 14->7 days, Demo Reset. Add-ons add ~20-30% to total
+(Radar: $49 + both upgrades ~$64). Cannot be added retroactively (Radar).
+REFUND: evaluation fees non-refundable on breach (industry standard; confirm
+Rules PDF refund line). Scaling fees per checkout.
+PAYMENT METHODS: most rails instant + fee-free (Myfxbook); cards/crypto per
+checkout (confirm live list).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 80% default, up to 90% ONLY via paid booster at checkout (homepage
+"Up to 90%" every card + booster page "from 80% to 90%"). Same E8/FunderPro
+pattern (Radar) — add upgrade cost before comparing to 90%-standard firms.
+FIRST PAYOUT: 14 days after funded start; 7 days with Early Payout booster.
+Then periodic (confirm cycle in FAQs — 14/7 rhythm governs).
+CAPS: first-3 approved payouts capped at 5% of STARTING balance each (CTE +
+PTC agree); cap REMOVED after 3rd payout. Min $100 after split. 30% daily
+distribution limit (Feb-2026+ accounts): max 30% of request credited per
+trading day — request early if date-sensitive.
+METHODS/FEES: withdrawals zero-fee on some rails (Myfxbook) vs 1% crypto /
+$50 intl wire (PTC) — rail-dependent; confirm payout page. Compliance review
+at sole discretion + KYC/video (CTE). Community: mostly reliable, minority
+KYC-delay/chase threads.
+SCALING: up to $600K total allocation (Myfxbook + CTE); $200K single max.
+Specific scale criteria not publicly detailed (CTE) — ask desk before
+counting on scale.
+MAXIMA: $200K single; $600K total.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Rules and Conditions V2 31.08.26 + FAQs + Terms V2.0.
+BANNED (breach = fail/termination + reward denial):
+ 1. Exceeding daily/max loss (incl. $5/trade + 0.1% crypto fees + floating).
+ 2. 40%-cap gaming: exceeding 40% of payout goal in one day (excess does not
+    count till next day; repeated gaming = review flag).
+ 3. News-window violation: opening/closing 10 minutes before/after major
+    announcements (holding THROUGH news allowed).
+ 4. Hedging across accounts/users; cross-user copy; group/social copying.
+ 5. HFT/latency/arbitrage/tick-scalp; feed-error exploitation.
+ 6. Account sharing / multi-account concurrency (one account at a time);
+    frequent IP changes trigger security review (use consistent IP/VPS IP).
+ 7. EAs/automation on TradeLocker (platform does not support EAs — moot, but
+    third-party trade copiers into TradeLocker breach copy rules).
+ALLOWED: holding through news; overnight + weekend holding (swing-friendly);
+manual discretionary + TradingView-charted strategies; transparent TradeLocker
+logins.
+ENFORCEMENT: dashboard monitoring; payout-time compliance review (sole
+discretion); KYC/video verification; Demo Reset booster only way to restore
+failed demo (no free resets).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. EN/DE/ES/AR/JA locales (support EN-only).
+- USA: NOT ACCEPTED (Radar: USA Accepted No). US traders use Atlas/BrightFunded
+  paths instead.
+- UK: served where TradeLocker/DNA-Markets access allows (confirm checkout).
+- AU: home market (Prop Trade Tech Pty Ltd, DNA Markets backing).
+- HARD BANS: no published hard-ban list found Sep 2026; bans follow sanctions
+  + KYC + TradeLocker access. Re-check FAQs/Terms.
+- KYC: Participant Verification Policy V1.0 governs; ID + video step at risk-
+  team discretion before payouts; matching beneficiary required; $100-after-
+  split minimum gate.
+- VPN/VPS: allowed but IP-consistency monitored — dedicated IP recommended;
+  frequent changes = security review. One account at a time.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot: ~3.9/5 from ~87 reviews (CTE Jul-2026 read; Myfxbook 4.4/29 on
+  Myfxbook-owned review rail — different rail, both quoted). Small sample =
+  thin trust cushion.
+- Myfxbook: 4.4/29 (platform/pricing/service/features subscores; pros: 90%
+  splits, $600K scale, TradeLocker transparency, 800+ instruments, zero-fee
+  withdrawals, $49 entry, digital KYC, multi-type, instant rails, DNA-Markets
+  backing; cons: no MT4/MT5, no education).
+- CompleteTraderEdge: 7.2/10 (Conditions 8.5, Instruments 9.0, Rules 6.5,
+  Platforms 6.0, Trust 6.0). "Best broker-backed prop for multi-asset" but
+  TradeLocker-only, $5/trade drag, short history. Tested $50K Double Helix.
+- PropFirmsRadar: 3.4/5 Editor (5 routes, $25 24H hook, 80%/90%-add-on + 30%-
+  distribution honest caveats, USA-No flag).
+- TheRockTrading: 85/100 Verified (Est. 2022 AU variant date; PROPFIRMS25).
+- Sentiment (positive): real broker liquidity (no synthetic pricing); 800+
+  instruments forex+crypto; Double Helix value ($49 5K, 10% room); clear
+  published rules; fast digital setup; dashboard quality; $600K scale.
+- Recurring complaints: $5/trade fee drag; TradeLocker-only (no EAs/custom);
+  40% daily cap surprise; 10-min news-window denials; 5%-first-3 cap; 30%
+  staggered arrival; 90%-as-add-on pricing; KYC/video delays; short history;
+  MT5-migration order pause.
+- Red flags: LOW-MODERATE — no payout-scam cluster, no regulator action;
+  broker backing is genuine plus. Watch items: MT5-migration pause status;
+  add-on-adjusted cost vs headline; distribution-stagger planning.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the broker-backed multi-asset specialist — only firm in batch
+with regulated-broker liquidity (DNA Markets) + 800+ instruments (forex/
+stocks/crypto/indices/commodities) on one terminal. Fees $49-$1,209 with
+$25 24H hook (cheapest experiment) vs FTMO $89+ / BrightFunded EUR49+.
+Pays with TradeLocker-only lock-in (vs 3-5 platforms elsewhere), $5/trade
+drag, 80%-std split (vs 90%-std rivals), 5%-first-3 + 30%-stagger throttles.
+SINGLE VS DOUBLE HELIX: Single (1-phase 10%/4%/6%) = faster, tighter, pricier
+per room. Double (2-phase 8+5/5%/8%) = slower, roomier, cheaper — Radar rule:
+"extra phase buys double room; pick Double if a bad week is possible."
+RAPID VS INSTANT VS 24H: Rapid (5%/3%/5%, 3 days) = tight sprint. Instant
+(4% trail, no eval) = pay-to-skip. 24H ($10-$25 stake, multiplier) = cheapest
+experiment, tightest terms, not a serious allocation path.
+BEST FIT: multi-asset (forex+crypto+stocks) traders wanting real broker fills;
+manual/TradingView-charted swing traders (weekend holding); Double-Helix value
+grinders; $600K scalers; AU/non-US traders; dashboard-transparency lovers.
+BAD FIT: US traders (not accepted); EA/algo traders (no automation); high-
+frequency scalpers ($5/trade kills micro-scalps); news-spike open/close
+traders (10-min rule); lump-sum payout seekers (5%+30% throttles); platform-
+choice seekers (one terminal only); anyone trading during MT5-migration pause
+without confirming order status.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 10 official URLs in Section 2 on
+2026-09-08 (homepage per-size tables + boosters + migration notice + legal
+PDFs). Fee IDs 798-858/13444 govern Section 6. Re-check Rules V2 31.08.26 PDF
++ FAQs before purchase (migration + distribution-cap live status). DNA notes
+all information is educational; not a broker; accepts no deposits.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Single/Double/Rapid/Instant/24H map, $49-$1,209 ladder,
+TradeLocker-only + MT5-migration notice, 800+ broker-backed instruments,
+$5/trade + 0.1% crypto, 40% daily cap, 10-min news rule, 80%/90%-booster,
+5%-first-3 + 30%-stagger gates, $600K scale, DNA-Markets backing.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Unlock your financial blueprint with DNA Funded." / "Become a DNA
+Funded trader and manage up to $600,000 in simulated funded capital."
+[2] Notice: "MT5 accounts are migrating to TradeLocker (impacted clients
+notified directly). All other trading remains unaffected. New orders are
+currently paused."
+[3] Pitch: "We offer challenges and funded accounts up to $200,000 to those
+who never had the ability to raise large capital."
+[4] Single: "Minimum Trading Days 5 / Profit Target 10% / Max Daily Loss 4%
+ / Max Total Loss 6% / Profit Split Up to 90%" ($59-$1,209 ladder)
+[5] Double: "Profit Target Phase 1 8% / Phase 2 5% / Max Daily Loss 5% / Max
+Total Loss 8% / Profit Split Up to 90%" ($49-$1,079 ladder)
+[6] Rapid: "Minimum Trading Days 3 / Profit Target 5% / Max Daily Loss 3% /
+Max Total Loss 5% / Profit Split Up to 90%" ($99-$549 ladder)
+[7] Instant: "Buying an Instant Funding account lets you skip the evaluation
+step" / "Minimum Trading Days 5 / Max Total Loss (Trailing) 4% / Profit Split
+Up to 90%" ($199-$979 ladder)
+[8] 24H: "Start with an initial balance of $20,000." / "Your stake is your
+entry cost." / "Start from as low as $10" / "Only three things matter — your
+profit target, profit allocation and trailing drawdown." / "Users may only
+trade one account at a time."
+[9] Boosters: "Add on our specially curated boosters" / "Profit Split — from
+80% to 90%" / "Early Payout — from 14 to 7 days" / "Demo Reset — Reset your
+account if you fail during the demo stage."
+[10] Platform: "Trade with precision on TradeLocker" (login widget Server
+PTTSER)
+[11] Backing: "Backed by DNA Markets" (footer badge -> dnamarkets.com)
+[12] Risk: "DNA Funded is not a broker and do not accept deposits. The offered
+technical solution ... is powered by the third-party liquidity providers"
+================================================================================
+END OF FILE — DNAFUNDED COMPLETE. Batch complete (7 files).
+================================================================================

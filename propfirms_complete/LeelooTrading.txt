@@ -1,0 +1,179 @@
+================================================================================
+LEELOTRADING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/LeelooTrading.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Leeloo Trading pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Leeloo Trading (LeelooTrading.com; Performance-Based Trading
+  and Contests).
+- Founded: 2019, Montana, USA. Founder/CEO: Chris Leeloo (Jigsaw-linked trader).
+- Address: Montana, USA (online-only; support KB + email + Discord/YouTube).
+- Contact: https://support.leelootrading.com Knowledgebase, support email,
+  mobile app traded-day tracking, RiseWorks payout onboarding.
+- What it is: Futures-only 1-step Practice eval -> Performance Account (PA)
+  contest payouts. One of the original futures prop firms; algo-friendly
+  (EAs allowed), copy trading banned.
+- Scale: max $300K per account, $300K allocation cross-account; PA fees $88/mo
+  or $250 one-time; biweekly payouts; RiseWorks + crypto rails.
+- Key distinction: intraday OPEN-EQUITY trailing (ALTV/LTMAB) — strictest
+  trailing variant; 10 active US days to qualify; 30% PA consistency + no-flip;
+  flat 15 min before close (3 micros max overnight with permission).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://www.leelootrading.com (homepage: plans, PA fees, qualification)
+ 2. https://www.leelootrading.com/welcome (ONE RULE: ALTV open-equity trailing)
+ 3. https://support.leelootrading.com (Knowledgebase index)
+ 4. https://support.leelootrading.com/kb/a44/rising-trailing-max-drawdown-explained.aspx (LTMAB/ALTV explainer)
+ 5. https://support.leelootrading.com/kb/a190/understanding-the-30-rule-for-performance-accounts.aspx (30% PA rule)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. PropFirmSwitch Leeloo Review 2026-03-05 (3.0/5, Foundation/Bundle tables)
+ 7. Vigil Leeloo Rules 2026-03-21 (EOD/intraday cross-check, fee ladder)
+TOTAL SOURCES: 7 (5 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- NinjaTrader, Rithmic (R|Trader dashboard ALTV tracking), Tradovate.
+- MotiveWave, MultiCharts, Jigsaw Daytradr, Trade Navigator, VolFix, Bookmap
+  X-Ray, Investor/RT, Sierra Charts, OptimusFLOW, Finamark.
+- Leeloo mobile app for traded-day counting.
+INSTRUMENTS: CME-group futures (ES/NQ/CL/GC + micros). No forex/CFD spot.
+CONTRACT SIZING (max minis; micros 10:1):
+  Aspire 25K: 3 | Launch 50K: 8 | Kickstart 75K: 10 | Climb 100K: 12 |
+  Cruise 150K: 15 | Burst 250K: 25 | Explode 300K: 30.
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: exchange + routing counted in net P/L; pro data where noted.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|----------|-----|-----------|-------------|-------|-----------|
+| 1 | Practice (Foundation monthly) | 1 | 25K/50K/100K/150K/250K/300K | $1.5K/$3K/$6K/$9K/$15K/$20K | $1.5K/$2.5K/$3K/$5K/$6.5K/$7.5K OPEN-EQUITY trail | $500/$1.1K/$2.2K/$3.3K/varies | 3/8/12/15/25/30 | n/a eval | n/a | $150/$180/$220/$305/$525/$675/mo |
+| 2 | Bundle (one-time) | 1 | same 6 | same targets | same ALTV | same | same caps | n/a | n/a | $250/$280/$320/$405/$625/$775 one-time |
+| 3 | Performance Account (PA) | funded | same | none | ALTV intraday trail | n/a | same caps | 30% + no-flip | 80% to 90% | $88/mo or $250 one-time per PA |
+Notes:
+- Kickstart 75K: $75/mo, $4,500 target, $2,750 DD, 10 minis. Express 100K:
+  $77/14 days non-recurring. Static 100K Max Loss: $3K fixed, $675/mo.
+- Min 10 active US traded days to qualify; one Rithmic ID per trader.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. PRACTICE (Evaluation) ---
+- ONE RULE: ALTV/LTMAB trails OPEN EQUITY intra-trade on unrealized highs.
+  Touch = auto-liquidate + restricted trading (admins-only popup on Rithmic;
+  Tradovate notifications). Resets do NOT revive without paid reset.
+- Example 8-contract: $2,500 DD trails every unrealized peak until stopped.
+- Expiration-date renewal does NOT restore balance/failed status; reset needed.
+- Failing does NOT auto-cancel subscription; cancel to avoid rebill (irreversible).
+--- 5B. PERFORMANCE ACCOUNT (PA) ---
+- 30% rule: daily profits must not exceed 30% of net profit from start.
+- No-flip: <5% of days may be flip/minimal-activity days; 12 trading days/month
+  required on $250 one-time PA plan (minimal-trade gaming banned).
+- Max DD same ALTV engine; hold max 3 micros past close without permission;
+  standard lots need admin approval + margin cover; flat 15 min before close.
+- Copy-trading another user / letting others trade = closure. SIM abuse banned.
+- Manual discretionary + indicators allowed; entry/exit bots per plan terms.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+FOUNDATION MONTHLY: 25K $150 | 50K $180 | 75K Kickstart $75 | 100K $220 |
+  150K $305 | 250K $525 | 300K $675 | Static 100K $675.
+BUNDLE ONE-TIME: 25K $250 | 50K $280 | 100K $320 | 150K $405 | 250K $625 |
+  300K $775. Express 100K $77/14 days.
+PA FEES: $88/mo per PA or $250 one-time per PA (12-day/month activity on
+  one-time plan).
+REFUND: subscriptions and bundles NOT refunded; cancel stops rebill only.
+PAYMENT: cards via site; RiseWorks onboarding for payouts.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% scaling to 90% on performance.
+- Cadence: biweekly; request by email in payout window; manual 1-3 BD review.
+- Methods: RiseWorks, crypto.
+- Eligibility: traded-day minimums + 30% consistency + no-flip + ALTV clean.
+- Scaling: to $300K per account / $300K allocation; multiple Practice + PA
+  simultaneously (one Rithmic ID).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. ALTV touch = liquidation/closure (open-equity trailing, strictest).
+2. Hold >3 micros past close without permission = closure.
+3. Copy-trade another user / account-sharing banned.
+4. SIM abuse, rule-circumvention strategies banned.
+5. Flipping/minimal-trade gaming on one-time PAs banned.
+6. Professional vs non-professional exchange-data choice binding.
+Consequences: Practice fail (paid reset), PA loss, payout denial.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED (Montana firm); worldwide where Rithmic permitted.
+- KYC: ID + RiseWorks verification before first payout.
+- One Rithmic ID; log in with Leeloo credentials for additional accounts.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- PropFirmSwitch 3.0/5 (fees/platform/deposit/withdrawal/service all 3.0).
+  Positives: original futures firm, algo-friendly, wide platform list, bundle
+  one-time option. Negatives: ALTV strictness surprise, PA $88/$250 drag,
+  email payout flow, 30% + no-flip friction, promo-chasing pricing.
+- Vigil: mid-range entry ($125/25K), biweekly 80-90%, no-overnight rule.
+- Red flags: NONE systemic. Watch: open-equity trailing harshness, PA activity
+  minimums, email-window payouts.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP/APEX/UPROFIT: Leeloo ALTV intraday-open-equity is harsher than their
+  EOD variants; bundles cheaper long-run than subscriptions for slow passers.
+BEST FIT: futures traders wanting algo tolerance, Rithmic/NinjaTrader stack,
+  one-time bundle pricing, $300K ceiling.
+BAD FIT: traders needing EOD/static forgiveness, daily payouts, or weekend holds.
+RULE OF THUMB: start Bundle Aspire 25K ($250); keep unrealized peaks tight —
+  ALTV trails wicks, not just closes.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Practice/PA targets, ALTV mechanics, fees, splits above were
+read from the 5 official URLs in Section 2 on 2026-09-08.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes ALTV open-equity trailing, bundle ladder, PA $88/$250,
+30% + no-flip rules.
+RAW EXCERPTS (official wording, verbatim):
+[1] ONE RULE: "The Max Trailing Drawdown (ALTV) trails throughout the ENTIRE
+ Evaluation from your OPEN EQUITY (not closed profit)."
+[2] Rithmic: "If the ALTV is met ... you will see a popup: 'Orders Can Be
+ Placed by Administrators Only'."
+[3] Renewal: "Monthly Renewal does NOT impact your balance or restore an
+ account in failed status."
+[4] Cancel: "Failing your Evaluation does NOT automatically cancel your
+ subscription."
+[5] PA fees: "The monthly subscription is $88 per month per Performance Account
+ ... The one-time fee is $250 per Performance Account."
+[6] Qualify: "Meet your Profit Target ... Trade for a minimum of 10 active U.S.
+ Traded days."
+[7] 30%: "Daily profits in a PA should not exceed 30% of the net profit from
+ the initial starting balance."
+[8] Flipping: "less than 5% of trading days should be 'flipping' days."
+[9] Close: "Don't hold more than 3 micros at the close ... Trades must be flat
+ 15 minutes before market close, unless admin permission is granted."
+[10] IDs: "Traders are only allowed one Rithmic ID."
+================================================================================
+END OF FILE — LEELOOTRADING COMPLETE. Next firm is a separate task (not started).
+================================================================================

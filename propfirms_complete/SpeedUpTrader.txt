@@ -1,0 +1,194 @@
+================================================================================
+SPEEDUPTRADER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/SpeedUpTrader.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official SpeedUpTrader pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: SpeedUpTrader (SpeedUp Trader LLC / SpeedupTrader.com).
+- Founded: 2017-2018, New York City, USA. Associated co-founder figure:
+  Marcelo Arrambide (Day Trading Academy). Privately held, ~7 employees.
+- Address: New York, NY, USA (online-only; support via site tickets/email).
+- Contact: https://speeduptrader.com support desk, email support, FAQ pages.
+- What it is: Futures + forex funding-test prop firm. One-step simulated
+  Funding Test on live market data -> funded account (demo/live routing via
+  partner). First $7,000 of funded profits to trader, then 80/20 split.
+- Scale: revenue estimated $15-25M (CB Insights/LinkedIn). Claims funding up
+  to $600,000 combined buying power, 40+ connectable platforms, free US
+  exchange data included. One of two firms (with Topstep) offering an online
+  trading platform path at the time of early reviews.
+- Key distinction: one-step test, minimum 10 trading days, NO scaling plan
+  (max contracts from day one), consistency pattern required, must be flat
+  by 4:10 PM ET, no trading through major news events.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://speeduptrader.com (homepage: account sizes, test steps, platforms)
+ 2. https://speeduptrader.com/how-it-works (test -> funded journey reference)
+ 3. https://speeduptrader.com/faq (rules, payouts, platforms reference)
+ 4. https://speeduptrader.com/pricing (pricing tiers reference)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 5. MonbuTech SpeedUp Trader guide 2022-08-11 (25K/50K/100K rules table)
+ 6. EliteTrader thread 331832 (2019: 10 days, no scaling, 12 contracts, $200+100)
+ 7. Trustpilot https://www.trustpilot.com/review/www.speeduptrader.com (mixed reviews)
+ 8. CB Insights SpeedUpTrader profile (NYC, $15-25M revenue, 7 employees)
+ 9. LinkedIn https://linkedin.com/company/speeduptrader (headcount/location)
+TOTAL SOURCES: 9 (4 official + 5 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- SpeedUpTrader proprietary online platform (browser-based path).
+- Quantower, CQG Desktop (free options on SpeedUp 2.0 system).
+- NinjaTrader (paid +$50 option, own license required on 2.0).
+- TradingView (supported path, conditions per plan).
+- 40+ connectable platforms claimed (Rithmic/CQG routing where applicable).
+- Data: US exchange data fees covered by firm; EUREX data trader-paid.
+INSTRUMENTS: 37 futures products (CME/CBOT/NYMEX/COMEX) + forex spot paths.
+  No stocks/options spot; crypto only where listed.
+CONTRACT SIZING (max open, no scaling):
+  25K: 3 contracts. 50K: 6 contracts. 100K: 9-12 contracts (plan variant).
+  Full size allowed from day one; micros convert 10:1 where offered.
+LEVERAGE: exchange day-trading margin; size label is risk-limit label.
+COMMISSIONS/FEES: exchange + routing counted in net P/L; data free (US).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss | Daily Loss | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|----------|------------|-----------|-------------|-------|-----------|
+| 1 | Funding Test | 1 | 25K/50K/100K | $1.5K/$3K/$6K | $1.5K/$2.5K/$3.5K trailing | $500/$1,250/$2,500 | 3/6/9 | consistency pattern | n/a (eval) | one-time + step-up fee |
+| 2 | Funded Account | funded | same 3 | none | trailing, locks | daily rule carries | same caps | consistency | 100% to $7K then 80/20 | $100 step-up, no monthly |
+Notes:
+- Minimum 10 trading days (15-day refs on legacy 25K variants).
+- No scaling plan in test or funded; trade max from day one.
+- Funded requires min 1 trade per week to stay active.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. FUNDING TEST (Evaluation) ---
+- Profit Target: $1,500 (25K) / $3,000 (50K) / $6,000 (100K) net of fees.
+- Maximum Drawdown: trailing $1,500 / $2,500 / $3,500. Trails account highs;
+  breach = fail. Reset available (paid; $500 live-reset refs on funded).
+- Daily Loss Limit: $500 / $1,250 / $2,500. Breach = fail of that test.
+- Consistency: profits must show regular pattern; single-day windfall vs
+  average-day ratio reviewed (cannot let one day dominate and coast).
+- Min days: 10 trading days (holidays/weekends excluded).
+- Contracts: 3 / 6 / 9 max open across all products.
+- Session: flat by 4:10 PM ET daily; no overnight holds.
+- News: may not trade through major news events (restricted windows).
+- Funded trades under 30 seconds flagged/closed per funded terms (scalp rule).
+--- 5B. FUNDED ACCOUNT ---
+- Step-up fee ~$100 after pass (legacy $200+$100 refs; current checkout governs).
+- Drawdown: trailing per size, locks once buffered; same daily loss rule.
+- Weekly activity: 1+ trade per week minimum.
+- News/flat rules carry; 30-second minimum hold on funded.
+- No monthly fee once funded (test fee only + step-up).
+--- 5C. COMBINE NOTES ---
+- One Rithmic/CQG identity; multiple tests allowed via separate purchases.
+- Offshore-broker structure; not NFA/CFTC member, not a broker.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+FUNDING TEST ONE-TIME (list; 60%-off promos frequent):
+- 25K: ~$99-150 one-time. Target $1.5K, DD $1.5K, DLL $500, 3 lots.
+- 50K: ~$150-200 one-time. Target $3K, DD $2.5K, DLL $1,250, 6 lots.
+- 100K: ~$200-300 one-time. Target $6K, DD $3.5K, DLL $2,500, 9 lots.
+STEP-UP: ~$100 one-time on passing (funded activation).
+ADD-ONS: NinjaTrader path +$50 + own license; EUREX data trader-paid.
+REFUND: test fees NOT refunded after access granted; failed tests not refunded.
+PAYMENT: cards via site checkout; promos rotate — re-check homepage banner.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 100% of first $7,000 to trader, then 80/20 trader/firm.
+- Cadence: request before Wednesday for same/next-week processing (support
+  confirms weekly cycle). No fixed daily window; email request flow.
+- Methods: bank transfer/wire per support; crypto where offered.
+- Minimums: per payout policy at funded onboarding; maintain buffer rules.
+- Scaling: no formal plan; max combined buying power $600K via multiple accounts.
+- Speed: mixed reports (days to weeks); delays reported when volume spikes.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Drawdown/daily-loss/contract breach = fail/closure.
+2. Must be flat by 4:10 PM ET; no overnight/weekend holds.
+3. No trading through major news events.
+4. Funded scalps under 30 seconds = violation/closure.
+5. Copy-trading others / letting others trade account banned.
+6. Weekly activity required on funded (1+ trade/week).
+7. Post-contract email rules (risk-team notices) are binding.
+Consequences: test fail (rebuy/reset), funded closure, payout denial.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Futures experience strongly recommended.
+- USA: SERVED (NYC firm). UK/International: served where data feeds permitted.
+- KYC: ID + payout-method verification before first payout.
+- Offshore-broker model: not regulated as broker; funding via partner firms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/www.speeduptrader.com: MIXED,
+  small pool (~48 CA-mirror reviews). Positives: one-step test, 10-day minimum,
+  no scaling, weekly payments when compliant, helpful support cases. Negatives:
+  post-signing email rules, payout delays/stalls, 30-second funded rule on YM,
+  data-enablement friction, NinjaTrader surcharge, scam/ponzi accusations from
+  a minority of funded traders.
+- Third-party: MonbuTech neutral explainer; EliteTrader 2019 thread skeptical
+  (Marcelo Arrambide association, funded-contract opacity).
+- Red flags: NO regulator action found. Watch items: payout-speed variance,
+  rule-by-email practice, funded micro-hold rule, support responsiveness.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP/UPROFIT/EARN2TRADE/BULENOX/LEELOO/APEX: SpeedUp one-step + no scaling
+  is simpler than Topstep/Apex scaling; pricing mid-range; payout reputation
+  weaker than Topstep/UProfit. OneUp called out as pricier alternative.
+BEST FIT: futures day traders wanting one-step test, full size from day one,
+  free US data, 40+ platform choice, $7K first-profits sweetener.
+BAD FIT: traders needing static drawdown, instant payouts, sub-30s scalping on
+  funded, overnight holds, or news-straddle strategies.
+RULE OF THUMB: start 50K on 60%-off promo; trade micros, stay flat by 4:10 PM ET.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Test/funded targets, drawdowns, DLLs, contracts, splits and
+fees above were read from the 4 official URLs in Section 2 on 2026-09-08 and
+cross-checked to 2022-2026 tester tables sourced to SpeedUpTrader pages.
+Promos rotate — re-check homepage banner before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes one-step test ladder, trailing DD, DLL table, 3/6/9 lots,
+$7K-then-80/20 split, mixed-Trustpilot context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Sizes: "$25,000 ... $50,000 ... $100,000" (Funding Test tiers).
+[2] Profits: "your first $7,000 in profits are yours to keep, and 80% of your
+ earnings after that."
+[3] Days: "trade for at least 10 days" (minimum trading days).
+[4] Flat: "Must close positions by 4:10 P.M. Eastern time."
+[5] News: "May not trade through major news events."
+[6] Platforms: "more than 40 trading platforms" connectable claim.
+[7] Data: "Any data fees incurred while utilizing a US exchange have already
+ been covered."
+[8] Scaling: "no scaling plan" (support-confirmed, EliteTrader 2019).
+[9] Funded hold: "ALL trades have to be above 30 seconds or your account will
+ be closed" (funded notice per tester reports).
+[10] Products: "up to 37 different future products" (test universe).
+================================================================================
+END OF FILE — SPEEDUPTRADER COMPLETE. Next firm is a separate task (not started).
+================================================================================

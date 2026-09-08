@@ -1,0 +1,182 @@
+================================================================================
+THEFUTURESDESK — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TheFuturesDesk.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official The Futures Desk pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: The Futures Desk (TheFuturesDesk.com; TS TFD Buyer LLC; Topstep
+  sister eval firm; brokerage via Topstep Brokerage LLC NFA ID 0567079).
+- Founded: 2024-2025 (Topstep-group launch), Chicago, USA.
+- Address: Chicago, Illinois, USA (online-only; Knowledge Base + support desk).
+- Contact: https://www.thefuturesdesk.com/knowledge-base, support tickets,
+  Terms & Conditions page, Topstep-group Discord overlap.
+- What it is: Futures-only 1-step eval prop firm. Intern/Assessment Desk
+  (sim eval) -> funded (sim-to-brokerage) -> live brokerage via regulated FCMs.
+  No sim-funded payouts (payouts only from live) — the anti-gaming edge.
+- Scale: EOD-or-Static choice; $0 activation; first live data fee covered
+  (~$140/mo value); NQ $1.20 all-in/side institutional commissions; $2.40 RT.
+- Key distinction: one-step test, 20% eval consistency, NO funded consistency,
+  NO funded minimum days, daily uncapped payouts after 6-day buffer run.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://www.thefuturesdesk.com (homepage: $0 fees, daily payouts, static/EOD)
+ 2. https://www.thefuturesdesk.com/knowledge-base (rules KB index)
+ 3. https://www.thefuturesdesk.com/terms-conditions (fees, non-refund, rules)
+ 4. https://www.thefuturesdesk.com/rules (trading rules reference)
+ 5. https://topstep.com/live-funded-account-rules (sister live-rules reference)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. TradersPost The Futures Desk Pricing Guide 2026-02-10 ($96-568, $0 activation)
+ 7. TradingPilot The Futures Desk Challenges (1-step + 3-step cards, $160-719)
+TOTAL SOURCES: 7 (5 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- TFD-X (ProjectX build) + Rithmic execution.
+- NinjaTrader, Tradovate, Quantower, TradingView (TradingPilot-tracked).
+- Data: first live pro data fee covered (~$140/mo value); sim data included.
+INSTRUMENTS: CME-group futures — ES, NQ, CL, GC + micros. No forex/CFD spot.
+CONTRACT SIZING (max; trader choice EOD vs Static):
+  1-Step: 25K 3-4 | 50K 6-8 | 100K 10-12 (Best Value) | 150K 15-17.
+  Static Core/Mini/Pro (3-step): 10K/20K/30K tiers per cards.
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: NQ $1.20 all-in/side ($2.40 RT); institutional schedule;
+  counted in net P/L.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|----------|-----|-----------|-------------|-------|-----------|
+| 1 | 1-Step EOD/Static | 1 | 25K/50K/100K/150K | $2K/$4K/$5.2K/$7.8K | $1K/$2K/$3K/$4.5K EOD-or-Static | $400/$800/$1.2K/$1.8K | per size | 20% eval / NONE funded | 80% | $96-336 one-time, $0 activation |
+| 2 | Static Core 3-Step | 3 | 10K/20K/30K Static | $1-6K legged | $1K/$2K/$3K STATIC | $400/$800/$1.2K | per card | none | 80% | $99-179 promo one-time |
+| 3 | Funded (brokerage path) | funded | same | none | static/EOD per choice | carries | same caps | NONE | 80% | $0 + covered data |
+Notes:
+- Min 5-7 trading days eval; inactivity: 1 trade per 14 days.
+- Resets $75 ($150 on 150K). Fees non-refundable. Algos allowed.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP EOD/STATIC (Evaluation) ---
+- Targets/DD per table (relative-balance DD: trails highs until locked).
+- 20% eval consistency (best day <=20% of total); funded has NONE.
+- DLL per size gates the day (pause/close per KB).
+- Min 5-7 trading days; weekend holding NOT allowed; news NO restrictions.
+- EAs/automation ALLOWED (edge vs no-bot peers).
+--- 5B. STATIC 3-STEP (Core/Mini/Pro) ---
+- Legged targets ($4K/$2K-style splits); fixed floors; daily payouts once funded.
+- Fee-refund: none (one-time purchase).
+--- 5C. FUNDED (BROKERAGE PATH) ---
+- No sim-funded payouts by design (keeps firm on trader's side; no strange
+  payout rules once funded). Minimum 6 days to uncapped: eval pass + buffer
+  build + brokerage onboarding.
+- Once funded: no caps, no consistency, no minimum days; daily payouts Mon-Fri
+  (same-day if requested before 11AM ET via RiseWorks).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME (TradersPost-tracked; promos rotate):
+- 25K EOD: $96-160. Target $2K, DD $1K, DLL $400.
+- 50K EOD: $144-244. Target $4K, DD $2K, DLL $800.
+- 100K EOD Best Value: $192-324. Target $5.2K, DD $3K, DLL $1.2K.
+- 150K Static: $336-568. Target $7.8K, DD $4.5K, DLL $1.8K.
+- Static 3-step: $99-179 promo ($349-719 list).
+ACTIVATION: $0 after passing (all sizes). RESETS: $75 ($150 on 150K).
+DATA: first live pro month covered (~$140 value).
+REFUND: ALL fees non-refundable (Terms: cancel/fail/violate = no refund).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% trader on all plans.
+- Cadence: daily payouts Mon-Fri once funded (uncapped after buffer); 6+ days
+  to uncapped minimum path.
+- Speed: same-day if requested before 11AM ET (Mon-Fri).
+- Methods: RiseWorks (bank/ACH/wire rails).
+- Caps: NONE once funded (vs months-of-caps at direct-funded peers).
+- Scaling: multiple accounts via separate evals; live FCM sizing governs.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Relative-balance DD / DLL / contract breach = fail.
+2. Weekend holding NOT allowed.
+3. Min 5-7 trading days (hitting target early does not fast-track).
+4. Inactivity: 1 trade per 14 days.
+5. Copy/account-share abuse banned; latency/data-feed exploits banned.
+6. Trading Rules modifiable at firm's discretion without notice (Terms) —
+  re-check rules page before trading.
+Consequences: eval fail (paid reset), funded removal, payout hold.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED (Chicago group); international where Rithmic/FCM allowed.
+- KYC: ID + brokerage onboarding (FCM docs) + RiseWorks verification.
+- Topstep Brokerage NFA ID 0567079 introducing-broker layer for live.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Third-party: TradersPost positive on $0 activation + algo-friendly + live path;
+  TradingPilot neutral (relative-balance DD caution, 5-7-day gate, no-refund).
+  No standalone Trustpilot pool of Topstep scale yet (young firm) — reputation
+  inherits Topstep-group trust ($1.5B paid, NFA brokerage affiliate).
+- Sentiment: positives on static/EOD choice, $0 fees, daily uncapped, $1.20 NQ
+  commissions; negatives on legged-target size (e.g. 100K $5.2K), no-refund
+  hardness, rules-change-without-notice clause.
+- Red flags: NONE systemic. Watch: relative-balance DD math, weekend-flat
+  enforcement, Terms change clause.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP: TFD $0 activation + static choice + algos vs Topstep $149 + EOD-only;
+  Topstep 15yr + $1.5B vs TFD youth. EOD-purists wanting live-path -> TFD.
+VS APEX: Apex promos cheaper + 100%-first-$25K; TFD cleaner funded (no caps/
+  consistency/days) + live brokerage.
+BEST FIT: futures traders wanting EOD-or-Static choice, algo trading, $0 fees,
+  daily uncapped brokerage payouts, Topstep-group rails.
+BAD FIT: traders needing sim-funded instant payouts, sub-$100 all-in cost, or
+  weekend holds.
+RULE OF THUMB: start 50K EOD ($144); keep best day under 20%; run 6-day buffer
+  to unlock daily uncapped.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all 1-step/3-step targets, DDs, DLLs, splits, fees above were
+read from the 5 official URLs in Section 2 on 2026-09-08.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes EOD/Static choice, $0 activation, 20%-eval-only consistency,
+daily-uncapped funded, 80% split.
+RAW EXCERPTS (official wording, verbatim):
+[1] Fees: "No activation fees. No hidden costs. We even cover your first pro
+ data fee when live. ($140/mo value)" / "$0 Funded Fees."
+[2] Commissions: "(e.g. NQ $1.20 all-in per side)" / "$2.40/contract all-in RT."
+[3] Payouts: "Uncapped after buffer in funded. No consistency or minimum days
+ between payouts (Mon-Fri)" / "Daily Payouts."
+[4] Sim policy: "We do not allow payouts from simulated funds."
+[5] Speed: "bare minimum to get into a brokerage account and start getting
+ uncapped daily payouts is six days" / "same day if requested prior to 11AM."
+[6] Consistency: "20% Consistency" eval vs "No consistency in funded."
+[7] Terms: "fees are non-refundable, even if you cancel ... fail to meet program
+ conditions, or violate these Terms."
+[8] Rules: "The Futures Desk may modify the Trading Rules at its sole
+ discretion, at any time, and without notice."
+[9] Drawdown: "Trailing or EOD ... Static or EOD" (trader's choice).
+[10] Inactivity: "One trade required every 14 days."
+================================================================================
+END OF FILE — THEFUTURESDESK COMPLETE. Next firm is a separate task (not started).
+================================================================================

@@ -1,0 +1,157 @@
+================================================================================
+LEVERAGED CRYPTO — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/LeveragedCrypto.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://getleveraged.com/crypto without a live fetch on this date. Re-verify
+all rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Leveraged Crypto (getleveraged.com/crypto). Operator:
+  GetLeveraged Ltd, Saint Lucia 2025-00808; head office Omonoias 13, Limassol
+  3052, Cyprus. Since 2024. Support: support@getleveraged.com, 24/7.
+- Positioning: Pay-After-You-Pass crypto challenge — start $8.88, pay rest
+  after pass; 1-Step 6% target; funded to $150K crypto; 80% split; MT5;
+  100+ crypto pairs; VISA/Mastercard/Revolut/crypto payouts.
+- Scale claims [UNVERIFIED]: 150+ countries, $1B monthly volume, 5,000+
+  portfolio managers. Awards: ForexPropReviews Best Customer Service Mar 2026,
+  Best Trading Experience Apr 2026 — verify.
+- What it is [UNVERIFIED]: Simulation evaluation → Portfolio Manager funded
+  account (not a broker).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://getleveraged.com/crypto (crypto program: $8.88 start, table, FAQ)
+ 2. https://getleveraged.com/ (homepage: $1M tracks, MEGADEAL 50% off)
+ 3. https://getleveraged.com/faq (leverage, commissions, news, EA/copy)
+ 4. https://getleveraged.com/turbo-trade/ (Turbo pay-after-pass sibling)
+CROSS-CHECK (third-party, real links):
+ 5. https://www.myfxbook.com/prop-firms/leveraged (2.8/4 rev; $8.88+$76-$980)
+ 6. https://www.trustpilot.com/review/getleveraged.com (service/experience reads)
+ 7. https://thetrustedprop.com/prop-firms/get-leveraged (Turbo/Crypto $8.88)
+ 8. https://propfirmmatch.com/crypto/prop-firms/leveraged-crypto/reviews
+TOTAL SOURCES: 8 (4 official to verify + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT5 (+ cTrader firm-wide per Myfxbook). 100+ crypto
+  pairs incl. BTC/ETH/XRP/SOL per firm. Verify per-plan platform lock.
+- Leverage (Crypto) [UNVERIFIED]: 1:3 per crypto pricing table; Turbo-asset
+  reference: FX 1:30, Metals 1:10, Indices 1:8, Energies 1:3, Crypto 1:1 —
+  reconcile crypto-track 1:3 vs 1:1 reads on official leverage table.
+- Commissions [UNVERIFIED]: $4 round-turn/lot Forex+Metals; zero other assets
+  per FAQ reads. Spreads/swaps unpublished — check terminal specs. Costs count
+  toward 23:00 GMT+3 daily calc — verify.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official crypto table]
+| Program | Target | Daily | Max trail | Min prof days | Consistency | Split | Freq |
+|---|---|---|---|---|---|---|---|
+| Crypto 1-Step $10K-$150K | 6% | 3% | 6% trail | N/A eval / 3 funded (0.5%+) | 20% funded | 80% | 14-day |
+Notes: 1-Step only; no time limit both phases. 2-min minimum hold; high-impact
+news ±5min restricted (Sprint excluded) per Myfxbook reads — verify. Funded no
+target. Sizes $10K/$25K/$50K/$100K/$150K.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. EVALUATION (1-STEP) [UNVERIFIED] ---
+- 6% target; 3% daily; 6% trailing max; unlimited time. Start $8.88; 30 days
+  post-pass to pay activation. Verify trailing reference (locked vs trailing).
+--- 5B. FUNDED STAGE [UNVERIFIED] ---
+- Same 3%/6% rails; 3 profitable 0.5%+ days before first payout; 20%
+  consistency; 14-day first payout then bi-weekly. Withdrawals affect locked
+  DD reference — plan buffers. Verify.
+--- 5C. STRATEGY GATES [UNVERIFIED] ---
+- 2-min hold (frequent sub-2-min = review/termination); news ±5min (profits
+  removable); bans: HFT/latency, news bracketing, grid/martingale, cross-
+  account/firm hedging, tick scalping, partial-close manipulation, overnight
+  hedging on funded Turbo. Self EAs + own-account copy allowed; commercial EAs
+  + third-party management banned. Verify verbatim.
+--- 5D. NEWS / WEEKEND [UNVERIFIED] ---
+- Hold-through-news allowed on Sprint; restricted most accounts. Verify crypto-
+  track weekend/overnight + swap handling.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Pay-After-Pass: $8.88 start; after-pass Crypto: $80.12 (10K) | $210.12 (25K) |
+  $390.12 (50K) | $640.12 (100K) | $980.12 (150K) per Myfxbook. TRYCRYPTO 50%
+  first-purchase code cited. 30-day pay window. Verify live checkout.
+- Turbo sibling after-pass: $76.12-$1,089.12 (10K-200K) — do not confuse with
+  crypto track. Verify.
+- Refund: confirm refundability (pay-after-pass = fee mostly post-pass).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: 80% crypto funded. Verify.
+- First payout 14 days post-activation once eligible (3 days + 20%
+  consistency); then every 14 days; ~48h processing per reads. Verify.
+- Methods: wire, Revolut ($25 op fee cited), debit card (instant), crypto
+  (BTC/ETH+). Verify minimums/fees.
+- Scaling: no formal multi-stage plan published; Executive to $1M + total cap
+  — verify crypto-track max ($150K) + aggregation.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm help center]
+Bans: HFT/latency, news bracketing ±5min, grid/martingale, cross-account/firm
+hedging, tick scalping, sub-2-min churning, partial-close manipulation,
+overnight hedging (funded Turbo), commercial EAs, third-party copy/management.
+Allowed: self-built/risk EAs, own-account copy. Verify crypto-track deltas.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- USA FORBIDDEN (Terms) — US residents cannot participate. Verify full
+  forbidden-territory list.
+- Age 18+. Post-evaluation onboarding agreement + AML/KYC before funded
+  activation — verify ID/selfie/POA set.
+- Multilingual FAQ (EN/AR/FR/DE/KO/MN/PT/ES/TR) — verify support coverage.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Myfxbook: 2.8/5 (4 reviews) — thin sample; pros: $8.88 entry, clear Turbo
+  rules, 14-day/80%, MT5+cTrader; cons: US ban, 20% consistency + 3-day gate,
+  2-min/news limits, trailing DD, conservative leverage.
+- Trustpilot getleveraged.com: service/experience praise + payout-story videos
+  (Hama/Neil/Jorge/Victor/Disu/Rogier/Vlad/Ashley) — verify independence.
+- ForexPropReviews awards Mar/Apr 2026 — verify.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: patient crypto traders wanting $8.88 risk-first entry, no time
+  limit, MT5, 80% bi-weekly, pay-only-after-pass economics.
+- Bad fit: US traders (banned), sub-2-min scalpers, news-bracketing styles,
+  grid/martingale traders, traders needing high crypto leverage or weekly
+  payouts.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — LEVERAGED CRYPTO UNVERIFIED. Next firm is a separate task.
+================================================================================

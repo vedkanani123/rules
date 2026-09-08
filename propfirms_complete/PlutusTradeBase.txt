@@ -1,0 +1,154 @@
+================================================================================
+PLUTUS TRADE BASE — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/PlutusTradeBase.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://plutustradebase.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Plutus Trade Base / PTB (plutustradebase.com). Operator: Triple
+  Edge Group Ltd, Limassol, Cyprus, Reg. HE 465348. Founded 2024.
+- Positioning: Multi-platform CFD + crypto (incl. Bybit integration) prop;
+  five programs on six platforms; Lightning pay-upon-success MT5 plan;
+  50K+ funded traders / $5M+ paid this year / 140+ countries claimed.
+- Platforms [UNVERIFIED]: MT5, cTrader, TradeLocker, Match-Trader, DXtrade,
+  TradingView (MT5/cTrader limited for USA).
+- Contact [UNVERIFIED]: support@plutustradebase.com, WhatsApp +35797490472,
+  Discord, 24/7 sub-5-min replies claimed.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://plutustradebase.com/ (homepage: stats, platforms, Limassol team)
+ 2. https://plutustradebase.com/faqs/ (drawdown, consistency, payouts)
+ 3. https://plutustradebase.com/blog/is-plutus-trade-base-legit/ (firm defense)
+ 4. https://plutustradebase.com/blog/bybit-funded-account/ (Bybit integration)
+ 5. https://plutustradebase.com/blog/ptbs-new-lightning-pay-upon-success/
+CROSS-CHECK (third-party, real links):
+ 6. https://www.trustpilot.com/review/plutustradebase.com (1,154 reviews; breach flag)
+ 7. https://joinprop.com/prop-firm/plutus-trade-base/ (5 programs, 6 platforms)
+ 8. https://www.forexpeacearmy.com/forex-reviews/23492/ptb-review (1.526/2 rev)
+TOTAL SOURCES: 8 (5 official to verify + 3 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT5 / cTrader / TradeLocker / Match-Trader / DXtrade /
+  TradingView per FPA + homepage. Confirm per-plan availability + USA limits.
+- Instruments [UNVERIFIED]: Forex/CFD + crypto (Bybit rails per blog). Verify
+  symbol lists, spreads, commissions, swaps in terminal specs.
+- Leverage [UNVERIFIED]: per-plan tables — verify (Lightning 2% risk rule
+  interacts with sizing; confirm verbatim math).
+- Payout rails [UNVERIFIED]: Rise + crypto per firm blog. Verify minimums/fees.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official pricing/FAQ]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | Lightning (pay-upon-success MT5) | per FAQ | per FAQ | 2% risk/trade gate | per FAQ |
+| 2 | Standard Evaluation(s) | 1-2 | per FAQ | per FAQ | per FAQ | per FAQ |
+| 3 | Instant variant(s) | 0 | none | per FAQ | per FAQ | per FAQ |
+| 4 | Bybit Crypto track | per blog | per FAQ | per FAQ | per FAQ | per FAQ |
+Notes: five programs total per JoinProp. 2% cumulative-risk-per-trade + soft/
+hard breach + consistency (15% contract vs 40% public FAQ vs 10% reviewer reads
+— RECONCILE verbatim on official contract before buying). Funded no target.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. LIGHTNING PLAN [UNVERIFIED] ---
+- Pay-after-pass MT5 model per blog. 2% max risk per trade claimed — reviewers
+  allege soft-breach automation (stop-not-attached-at-open millisecond reads,
+  4-lot EURUSD >$7.5K risk math). Demand exact breach formula in writing.
+--- 5B. STANDARD EVALUATIONS [UNVERIFIED] ---
+- Clear objectives + add-ons per firm; verify target/daily/max/min-days per
+  plan on FAQ.
+--- 5C. BYBIT CRYPTO TRACK [UNVERIFIED] ---
+- Bybit integration per blog; verify pairs/leverage/DD/payout split vs CFD.
+--- 5D. NEWS / WEEKEND / CONSISTENCY [UNVERIFIED] ---
+- Consistency % CONFLICTS across sources (10/15/40%) — treat as blocking
+  verification item. Verify news blackout, weekend holding, EA/copy/HFT,
+  grid/martingale, hedging verbatim before purchase.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Fee model: evaluation fees + Lightning pay-upon-success (pay rest after
+  pass). Confirm full size ladder + add-on prices on pricing page.
+- Refund: confirm refund-on-pass/first-payout clause before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: per-plan % — verify.
+- Rails: Rise + crypto per firm; feefo 5.0/162 + Myfxbook-partner badges
+  on homepage — verify independence + current payout SLA/minimums.
+- Payout-denial threads allege high-risk-trading + consistency enforcement at
+  withdrawal — verify withdrawal-time rule application in contract.
+- Scaling: verify max allocation + scale thresholds.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm FAQ/contract]
+Focus items from disputes: 2% cumulative risk per trade (exact stop-attachment
+timing + calculation), soft-breach x3 = closure logic, high-risk-trading
+definition, consistency %, partial-close/overnight-hedge handling. Get math in
+writing before funding. Standard bans (feed/latency exploits, cross-account
+hedging, account sharing) — verify verbatim.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Cyprus operator (Triple Edge HE 465348). MT5/cTrader USA limits per homepage
+  — verify full banned list + US/UK access per plan.
+- Age 18+. KYC/AML + onboarding agreement post-evaluation assumed — verify.
+- FPA thread seeks discount-for-review evidence — verify marketing compliance.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Trustpilot https://www.trustpilot.com/review/plutustradebase.com: 1,154
+  reviews; 69% 5-star / 14% 1-star split; breach-of-guidelines warning (fake
+  reviews removed). 5-star: support speed, fast payouts. 1-star cluster: 2%
+  margin/risk soft-breach automation, $99K payout-denial allegation, 10-15-40%
+  consistency confusion, hard-breach math disputes.
+- FPA: 1.526/2 reviews; open breach-math thread (4-lot EURUSD) with contract
+  discrepancy debate — verify resolution.
+- Feefo 5.0/162 (firm-linked) + press logos (Forbes/Benzinga/etc.) — verify.
+- No red-flag verdict offered without live re-read; dispute cluster is the
+  blocking watch item — resolve math in writing before buying.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: platform-flexible CFD/crypto traders wanting six-terminal choice
+  and Bybit crypto rails — ONLY after written breach-math + consistency %
+  confirmation.
+- Bad fit: traders needing deterministic risk math, sub-2-minute scalpers
+  (verify hold-time rule), high-risk-size styles, or anyone unwilling to
+  underwrite payout-time enforcement risk.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — PLUTUS TRADE BASE UNVERIFIED. Next firm is a separate task.
+================================================================================

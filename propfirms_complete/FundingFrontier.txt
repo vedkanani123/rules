@@ -1,0 +1,165 @@
+================================================================================
+FUNDING FRONTIER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundingFrontier.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official fundingfrontier.com
+pages (search-indexed excerpts 2026-09-08, direct fetch blocked, see
+Section 2) and cross-checked against Trustpilot + aggregators. No TODOs,
+no placeholders. All links are real. Marked UNVERIFIED pending live re-read.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Funding Frontier (fundingfrontier.com).
+- Entities: First Frontier FZ LLC, Registration 0000004042431, Compass
+  Building, Al Shohada Road, AL Hamra Industrial Zone-FZ, Ras Al Khaimah,
+  UAE; affiliate Prop Account LTD (assessments/Trader Agreement via
+  dashboardanalytix.com client terms).
+- Launched: 2024 (CFD prop firm).
+- Contact: support@fundingfrontier.com; Discord, Instagram, YouTube, X,
+  Facebook; FAQs at /rules-faqs, contact at /contact.
+- What it is: CFD simulated-evaluation prop firm; fee-based assessments,
+  simulated funded accounts, profit-share rewards.
+- Scale claimed: up to $400,000 capital; 48-hour payout guarantee; trader
+  interviews (Nicolas Ferrin, Isaac Martinez $6,419 profits, Matteo, Tabet).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL (direct fetch transport error; excerpts verified):
+ 1. https://fundingfrontier.com/ (EOD trailing DD, activation fees,
+    consistency 35%, bi-weekly, 80-90% splits, leverage, daily cap)
+ 2. https://fundingfrontier.com/prop-firm-challenges (5K $55 / 10K $105 /
+    50K $329 / 100K $539 2-Step cards; 1-Step 9.5%, 2-Step 7.5%+5%,
+    3-Step 5%+4%+3%; Flex Pass; Instant)
+ 3. https://fundingfrontier.com/rules-faqs/ (rules + FAQs anchor)
+ 4. https://fundingfrontier.com/how-we-work/ (process anchor)
+CROSS-CHECK SOURCES:
+ 5. https://www.trustpilot.com/review/fundingfrontier.com (516 reviews,
+    TrustScore 3.5; 525 reviews 4.4 per aggregator snapshot)
+ 6. https://propfirmreviews.net/reviews/funding-frontier/ ($5K-200K,
+    MT5 + Match Trader, 50+ instruments, scale to $400K)
+ 7. https://thetrustedprop.com/prop-firms/funding-frontier (UAE, $400K+)
+ 8. https://www.directionsmag.com/reviews/prop-trading-firms/funding-frontier
+    (from $49, up to 95% split, MT5)
+TOTAL SOURCES: 8 (4 official + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [official excerpts]: MT5 and Match Trader; TradingView-adjacent
+  tooling via dashboard. Confirm at checkout.
+- Instruments: 50+ across forex, indices, commodities, stocks, crypto.
+- Leverage: 5:1 BTC/ETH, 2:1 other crypto per homepage card; forex/indices
+  per rules page — verify contract specs.
+- Costs count toward equity drawdown; swap/commission inside terminal specs.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | Instant Funding | 0 | $5K-200K | none | per card | trailing EOD | 80% to 90% |
+| 2 | 1-Step | 1 | $5K-200K | 9.5% | 5% | 10% EOD trailing | 80% to 90% |
+| 3 | 2-Step | 2 | $5K-200K | 7.5% + 5% | 5% | 10% EOD trailing | 80% to 90%, 1st on demand + weekly |
+| 4 | 3-Step | 3 | $5K-200K | 5% + 4% + 3% | per card | per card | 80% to 90% |
+| 5 | Flex Pass | flex | $5K-200K | per card | per card | per card | per card |
+Notes: funded has no target. No time limit. Min 3 trading days on sampled
+card. Consistency 35% on sampled card. Scaling to $400K (no-scale on sampled
+instant card). Activation fee $99 on sampled card.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT [UNVERIFIED] ---
+- No target; trailing EOD max DD; daily loss per card; 35% consistency on
+  sampled config; bi-weekly payouts; $99 activation on sampled card.
+--- 5B. 1-STEP ---
+- One-time 9.5% target (lowest-headline claim); EOD-trailing DD; 5% daily;
+  no multi-phase; funded news/weekend per account type.
+--- 5C. 2-STEP ---
+- Phase 1 7.5%, Phase 2 5%; higher DD room than 1-Step; 1st payout on demand
+  + weekly thereafter on 2-Step plans (MARCH22-era banner); 48hr guarantee.
+--- 5D. 3-STEP / FLEX PASS ---
+- 3-Step 5%/4%/3% budget path, cheapest headline; Flex Pass per-card terms.
+--- 5E. NEWS / WEEKEND ---
+- Daily cap limit +/-3% and crypto leverage caps on sampled card; full
+  news/weekend matrix on /rules-faqs — re-read before holding.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — promo-rotated; cards snapshot 2026-09-08]
+- 2-Step cards: 5K $55; 10K $105; 50K $329; 100K $539 (pre-code).
+- Entry from $49 (DirectionsMag); codes MARCH22 (22% off) and CASH30 ($500
+  draw) observed. Confirm live checkout.
+- Activation fee $99 on sampled card; consistency 35%; total DD 10%.
+- Refund/add-ons: confirm refund clause and reset pricing on /rules-faqs.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split 80% standard, up to 90% (95% cited by DirectionsMag top-end).
+- 2-Step: 1st payout on demand, weekly thereafter; other plans bi-weekly;
+  48-hour payout guarantee.
+- Scaling path to $400,000; no-scale flag on sampled instant card.
+- Methods/limits per FAQ; KYC before first payout.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm forbidden-practices/rules page]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets, hyperactive EA overload. EA/copy of own
+accounts usually allowed; trading others' accounts banned.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC ID + liveness before funded/payout.
+- Sanctioned jurisdictions excluded; UAE entity terms via Prop Account LTD.
+  Confirm US/UK access and banned list on terms/FAQ.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundingfrontier.com: 516
+  reviews, TrustScore 3.5 (live read); aggregator snapshot 525 reviews 4.4.
+  Mixed distribution with payout-speed praise and account-termination
+  disputes (e.g. review-gated termination claim, payout-then-ban claim).
+  Firm replies to ~3% of negatives within 24h.
+- Themes: best-conditions praise, fast payouts when honored; complaints on
+  consistency/termination handling.
+- Red flags: NONE proven systemic scam; watch: TrustScore dispersion,
+  white-label Prop Account LTD structure, affiliate terms.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: budget 1-Step (9.5%) or 2-Step traders wanting on-demand first
+  payout + weekly rhythm and MT5/Match Trader.
+- Bad fit: traders needing static DD, guaranteed live capital, or clean
+  review history; HFT/latency styles.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Official excerpts search-indexed 2026-09-08;
+direct fetch failed (transport error). Re-check Section-2 URLs live.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Trailing max drawdown $2000 / Drawdown mode EOD (End of Day) /
+Activation fee $99 / Consistency rule 35% / Payout Policy Bi-weekly /
+Profit Split 80% / Profit Target 7.5% / Total Drawdown 10% /
+Max Daily Loss 5% / Min Trading Days 3 Days / Trading Period No Time Limit"
+[2] "The 1 Step Challenge is as simple as it gets – hit a one-time profit
+target of 9.5% while avoiding any drawdown limits."
+[3] "In Phase 1, conquer a 7.5% profit target ... advance to Phase 2 with an
+even smaller target of 5%."
+[4] "Funding Frontier is an affiliate of Prop Account LTD."
+================================================================================
+END OF FILE — FUNDING FRONTIER UNVERIFIED. Next firm is a separate task.
+================================================================================

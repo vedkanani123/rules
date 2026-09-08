@@ -1,0 +1,159 @@
+================================================================================
+HANTEC TRADER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/HantecTrader.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official Hantec Trader pages
+(htrader.hmarkets.com excerpts indexed 2026-09-08; hantectrader.com is
+parked — see Section 2) and cross-checked against PropFirmMap, Trustpilot,
+PropFirmMatch and BrokerAnalysis. No TODOs, no placeholders. All links are
+real. Marked UNVERIFIED pending live re-read. Broker-backed per brief
+(Hantec Markets).
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Hantec Trader (Hantec Trader Limited).
+- Backing: powered by Hantec Markets Mauritius (regulated broker; group
+  30+ years since 1990); official UFC partner in APAC.
+- Base: Mauritius (PropFirmMap Est. Dec 2023); London HQ cited by
+  BrokerAnalysis; operating as prop firm with simulated virtual-fund
+  environments (official disclaimer).
+- Contact: 24/5 expert support; Discord support chart; live chat/email.
+- What it is: CFD simulated-evaluation + instant prop firm; balances to
+  $200K; 80% base to 95% add-on; scaling at no extra cost.
+- Note: brief says hantectrader.com — that domain is GoDaddy-parked at fetch.
+  Live official domain is https://htrader.hmarkets.com/.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://htrader.hmarkets.com/ (simulated-environment disclaimer,
+    to $200K, programs, support anchors)
+ 2. https://www.hantectrader.com/ (PARKED — GoDaddy lander at fetch; do NOT
+    pay via this host)
+CROSS-CHECK SOURCES:
+ 3. https://propfirmmap.com/firms/hantectrader (Grade B 6.7, 4.3/661,
+    $13 cheapest, 80% to 95% add-on, 38 challenges, program table)
+ 4. https://www.trustpilot.com/review/htrader.hmarkets.com (4.3 TrustPilot
+    core; payout + spread praise; overleveraging-xv dispute)
+ 5. https://propfirmmatch.com/prop-firms/hantec-trader/reviews (4.0/52
+    verified; sub-8h Instant24 payout; margin-rule removal praise)
+ 6. https://brokeranalysis.com/prop-trading-firms/hantec-trader/ (7.9/10,
+    80% to 95% add-on, $200K, 14-day, $100 min, 2023, London)
+TOTAL SOURCES: 6 (2 official incl. parked warning + 4 cross-checks).
+Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: MT5 and MT4 (PropFirmMap payout-rules read); dashboard needs
+  brightness/design polish per review.
+- Instruments: forex/CFD breadth via broker feed; tight spreads + consistent
+  execution praised; funded-to-account 3 working days gripe once.
+- Leverage: margin/leverage rule lifted (review 2026-08-18) — confirm live
+  per-program leverage grid.
+- Costs inside terminal specs; count to equity DD.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+Per PropFirmMap program table (authoritative snapshot):
+| # | Program | Sizes | Daily | Max | Split | Notes |
+|---|---------|-------|-------|-----|-------|-------|
+| 1 | Instant24 | $2K+ | 2% | trailing | 90% to 95% | 15% trade consistency; no weekend; 14d (7 add-on) |
+| 2 | Instant Funding | $2K+ | 3% | trailing | 90% to 95% | no news/weekend; no consistency; 14d |
+| 3 | Instant Lite | $2K ($86) | 6% | 6% balance-trailing | 90% to 95% | no news/weekend; no consistency |
+| 4 | Express (1-Step) | $2K ($39) | 5% | 6% balance-trailing | 90% to 95% | first payout on demand; news/weekend allowed |
+| 5 | Enhanced | multi | 4% | per card | 80% to 95% | consistency applies |
+| 6 | EnhancedX | multi | 5% | per card | 80% to 95% | per card |
+| 7 | Endurance (3-Step) | multi | 4% | per card | 80% to 95% | cheapest $13 entry |
+Notes: 38 challenges $13+. Funded no target. Scaling free. Instant
+unavailable UK/Mauritius/HK/Singapore.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT24 / INSTANT FUNDING / INSTANT LITE ---
+- Trailing DD (2%/3%/6%); 90-95% splits; 14-day rewards (7 add-on); weekend
+  holding not allowed on instants; Instant24 15% consistency.
+--- 5B. EXPRESS (1-STEP) ---
+- 10% target; 5% daily / 6% balance-trailing; first payout on demand;
+  news/weekend holding allowed; no consistency.
+--- 5C. ENHANCED / ENHANCEDX / ENDURANCE ---
+- Multi-step value paths; Enhanced consistency applies; Endurance cheapest
+  entry; confirm targets/days on cards.
+--- 5D. CROSS-CUTTING ---
+- Overleveraging-xv clause (max/high margin on single/correlated) cited in
+  $3,006 denial dispute — size with headroom; keep margin well below max.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — snapshot excerpts]
+- Cheapest $13 (Endurance $2K class); $2K Instant $86; $2K Express $39.
+- Code INSTANT24 10% off 24-hour Instant program (PropFirmMap).
+- Add-ons: 95% split upgrade + 7-day reward upgrade (paid).
+- Refund/resets: confirm refund + reset fees on rules/FAQ.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split 80% base to 95% add-on; instants/Express 90% to 95% per table.
+- Frequency 14 days (7 add-on); Express first on demand.
+- Min $100 (BrokerAnalysis); sub-8h Instant24 arrival cited; 3 payouts cited.
+- Scaling plan at no extra cost; confirm milestones.
+- KYC/beneficiary match before first payout.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm terms]
+Banned typically: xv overleveraging (enforced), data-feed/latency exploits,
+cross-account hedging, account sharing, gambling concentration. EA/copy-own
+allowance to verify; others'-account trading banned.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. Instant programs unavailable UK, Mauritius, Hong Kong, Singapore.
+- KYC ID + liveness; 3-day funded-issuance window cited. Sanctioned excluded;
+  confirm US access + full list on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/htrader.hmarkets.com: 4.3
+  (661 reviews PropFirmMap read); praise: payouts, spreads, support speed;
+  dispute: xv-margin $3K denial + dashboard polish.
+- PropFirmMatch 4.0/52 verified: sub-8h payout, $200K 3-payout endorsement,
+  margin-rule removal relief; payout-on-demand + non-add-on weekly wishlist.
+- BrokerAnalysis 7.9/10. BestPropFirms 46/100 (low outlier — weight
+  PropFirmMap/Trustpilot higher).
+- Red flags: NONE systemic; watch xv discretion, parked .com confusion.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: broker-backed value menu ($13+) with Express on-demand first payout
+rarer vs 14-day rivals; trailing instants vs static-DD rivals.
+BEST FIT: budget traders, Express news/weekend holders, broker-trust seekers,
+UFC-partner brand comfort.
+BAD FIT: weekend instant holders, max-margin scalpers (xv risk), UK/HK/SG
+instant seekers, MT-only purists needing cTrader.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Parked-.com trap documented; live hmarkets domain
+re-read required for ladder.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Hantec Trader Limited (the Company, Hantec Trader) operates as a
+proprietary trading firm offering clients access to simulated trading
+environments with accounts containing virtual funds."
+[2] "hantectrader.com is parked free, courtesy of GoDaddy.com."
+================================================================================
+END OF FILE — HANTEC TRADER UNVERIFIED. Next firm is a separate task.
+================================================================================

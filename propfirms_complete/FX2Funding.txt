@@ -1,0 +1,153 @@
+================================================================================
+FX2FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FX2Funding.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official fx2funding.com excerpts
+(search-indexed 2026-09-08, see Section 2) and cross-checked against
+PropFirmMap, Trustpilot and firmfunded review. No TODOs, no placeholders.
+All links are real. Marked UNVERIFIED pending live checkout re-read.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FX2Funding / FX2 Funding (fx2funding.com).
+- Founded: 2022 (homepage trusted-since 2022; CEO David Dombrowsky,
+  co-founders Jacob Scott, Yoel Bender per PropFirmMap; Woodmere, NY, USA).
+- Contact: site live chat, WhatsApp support (cited in reviews), email via
+  funding-programs pages.
+- What it is: CFD simulated-evaluation + instant prop firm; simulated capital,
+  real-profit payouts; up to $400K management; up to 95% keep.
+- Claims: no missed payouts in history, 48-hour processing, raw spreads,
+  low commissions, all assets (FX, metals, indices, commodities, crypto).
+- Platforms badge: cTrader, DXTrade (TradingView integrated), Match Trader,
+  GooeyPro per PropFirmMap; MT5 + cTrader + DXTrade per firmfunded.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://fx2funding.com/ (since 2022, $400K, to 95%, platforms,
+    TrustPilot badge, 3-step how-it-works, AUGUST20/august40 codes)
+ 2. https://fx2funding.com/funding-programs/ (four programs anchor)
+CROSS-CHECK SOURCES:
+ 3. https://propfirmmap.com/firms/fx2funding (Grade B 6.6, 4.2/454,
+    $465 cheapest, 80% to 95% add-on, 14-day/5-day add-on)
+ 4. https://www.trustpilot.com/review/fx2funding.com (444 reviews, 4.5)
+ 5. FirmFunded FX2Funding review Dec 2024 (10%/10% targets, 4%/6% risk,
+    $4 metals/FX round-trip, leverage grid, no scaling)
+TOTAL SOURCES: 5 (2 official + 3 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: cTrader, DXTrade (TradingView integrated), Match Trader
+  (PropFirmMap); MT5 also cited by firmfunded. Confirm at checkout.
+- Instruments: FX majors/minors, commodities, spot metals, indices, crypto
+  (BTC + ETH only per firmfunded). No stocks.
+- Leverage (firmfunded): FX 1:100, metals 1:30, commodities 1:10,
+  indices 1:25, crypto 1:2.
+- Costs: $4/lot round-trip FX + metals (firmfunded); raw-spread claim;
+  wide-spread/markup complaint in one 5-star-ironic review — verify live
+  spreads. Costs count to equity DD.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | 2-Step Evaluation | 2 | $10K-100K | 10% (firmfunded avg) | 4% | 10% fixed | 80% (95% add-on) |
+| 2 | 1-Step Classic | 1 | $10K-200K | 10% | 4% | 6% trailing | 80% (95% add-on) |
+| 3 | 1-Step Pro | 1 | $10K-100K | 10% | 4% | 6% fixed | 80% (95% add-on) |
+| 4 | Instant Funding | 0 | $10K-100K | none | 4% | 6% trailing | 80% (95% add-on) |
+Notes: PropFirmMap confirms 2-Step 10% fixed, Classic 6% trailing, Pro 6%
+fixed, Instant 6% trailing. Funded no target. No scaling plan.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 2-STEP ---
+- Fixed 10% max DD (most room); daily 4%; targets per program page.
+--- 5B. 1-STEP CLASSIC ---
+- 6% trailing max; daily 4%; widest size ladder to $200K.
+--- 5C. 1-STEP PRO ---
+- 6% fixed max; daily 4%; steadier floor than Classic.
+--- 5D. INSTANT ---
+- 6% trailing; no target; straight to funded mechanics.
+--- 5E. NEWS / WEEKEND ---
+- News trading prohibited (firmfunded); overnight + weekend holding allowed.
+  Re-confirm on rules page before event holds.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — cheapest $465 per PropFirmMap; full ladder on programs page]
+- Fee model: one-time challenge fee; slightly higher than rivals (firmfunded).
+  No free trial, no free repeat.
+- Codes observed: AUGUST20 40% off 1-step classic; august40 20% off all
+  (to Aug 31 banner). Confirm live codes.
+- Add-ons: 95% split upgrade + 5-day payout upgrade (paid checkout add-ons).
+- Refund: confirm refund clause on FAQ before purchase.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% default, 95% via paid add-on.
+- Frequency: every 14 days from first trade (every 5 days add-on);
+  processed within 48 hours; $100 payout if late (guarantee claim).
+- Fees: $0 withdrawal fees; crypto rails.
+- Scaling: none offered (firmfunded + PropFirmMap consistent).
+- Max: $400K management claim.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rules page]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. EAs on cTrader/MT5 cited allowed;
+news-trade ban is house-specific — respect it. Wide-spread sensitivity means
+scalp-cost review.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. US firm (NY); confirm US-client acceptance at checkout.
+- KYC ID + liveness before payout. Sanctioned jurisdictions excluded;
+  confirm banned list on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fx2funding.com: 444 reviews,
+  4.5 (live read window); themes: 2-3 consecutive payouts, sub-48h first
+  payout, WhatsApp resolution; disputes: DD-breach payout denial (firm cites
+  core violation), spread/commission width, white-label Prop Account legality
+  debate. Firm replies actively.
+- PropFirmMap: 4.2/454, PFM 6.6 Grade B; CEO named; white-label tech flag.
+- FPA: listing, 0 reviews. No proven systemic non-pay; watch spreads/fees.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: fixed-DD 2-Step + Pro options stand out vs all-trailing rivals;
+no scaling and news ban are costs. 95% via add-on vs 90% base elsewhere.
+BEST FIT: rule-following intraday traders wanting fixed-DD choice, 48h
+payouts, cTrader/DXTrade.
+BAD FIT: news traders (banned), scaling seekers, cost-sensitive scalpers
+if wide-spread claim verifies, guaranteed-live seekers.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Excerpts search-indexed 2026-09-08; checkout
+ladder re-read required.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Prop Firm Funded Account Made Simple: Get Funded, Keep Profits."
+[2] "Trusted since 2022 / Manage up to $400k / Keep Profits up to 95%"
+[3] "No Missed Payouts in FX2 History – Built on Ethics and Unwavering
+Reliability!"
+[4] "Payouts Guaranteed — Processed within 48 Hours"
+================================================================================
+END OF FILE — FX2FUNDING UNVERIFIED. Next firm is a separate task.
+================================================================================

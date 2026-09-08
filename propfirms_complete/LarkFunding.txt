@@ -1,0 +1,318 @@
+================================================================================
+LARK FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/LarkFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Lark Funding pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party reviews. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Lark Funding.
+- Founded: July 2022 (founder/CEO Matt L. — "after 5 years of being a trader
+  Matt was tired of Time Limit Challenges and opened Lark Funding"; first
+  firm without time limits per official About timeline). Reviewers cite
+  2022-2023; Montreal base.
+- Address (reviewers): 3 Place Ville-Marie, Montreal, Quebec, Canada.
+- Legal (official footer): brand licensed by Lark Dashboards Inc., which
+  operates the website and provides all services; content by Lark Funding
+  Inc. "exclusive activity is Demo Trading Education... not required to be
+  authorized by regulatory authorities. All services, payments, and
+  operations are managed by Lark Dashboards Inc., under license."
+- Contact: support@larkfunding.com | Help Center helpdesk.larkfunding.com |
+  Discord (15K+ members) | YouTube @LarkFunding / @meetmattl | X @larkfunding.
+  24/7 in-house support, 20+ languages, 60+ support members.
+- What it is: CFD simulated-evaluation prop firm ("career" positioning).
+  ALL accounts are simulated DEMO accounts; trading is simulated. Funded
+  "Lark Traders" receive base rewards + performance splits (real money).
+- Scale claimed: 10,000+ traders; payout certificates on homepage (top shown
+  $12,890.35 Joseph G.); "approaching" paid-rewards counter; 4+ years of
+  on-time payouts claimed ("0 payout denials" first year).
+- Differentiators: Lark Base monthly base pay (earn even in drawdown/flat
+  months); Smart Reset Guarantee (free 1-Step reset / 75% off 3-Step);
+  zero consistency rules; no minimum trading days; static drawdowns;
+  September promo: daily payouts on every account + free $1,000 Instant
+  account with any purchase.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://larkfunding.com (homepage: hero, stats, payout certificates,
+    reward calculator, 3-step path, plan compare Instant/1-Step/3-Step,
+    Career Bundle, Smart Reset terms, About timeline, FAQ index, legal footer)
+ 2. https://larkfunding.com/trader-rewards (Earn In Drawdown / Lark Base page)
+ 3. https://larkfunding.com/results (Results / payout proof page)
+ 4. https://larkfunding.com/help (Help index)
+ 5. https://larkfunding.com/contact (Contact page)
+ 6. https://larkfunding.com/september (September promo: daily payouts offer)
+ 7. https://larkfunding.com/refund-policy (Refund Policy)
+ 8. https://larkfunding.com/terms-of-use (Terms of Use)
+ 9. https://larkfunding.com/aml-policy (AML Policy)
+10. https://helpdesk.larkfunding.com/en/ (Helpdesk FAQ base-reward/reset articles)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. TheTrustedProp Lark Funding review Sep 2026 (4-path breakdown, pricing,
+    All-or-Nothing rule, payout proof $528,165/431 txns, discount code)
+12. FundedWiki Lark Funding review 2026-06-05 (verdict, plan table, weekend
+    add-on, 5PM EST snapshot, $40 payout fee, stipend fine print)
+TOTAL SOURCES: 12 (10 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: cTrader, DXtrade, Match-Trader (reviewer-confirmed stack); MT5
+cited on older pages/aggregators with TradingView integration for MT5 users.
+NO MT4. No public API — bridge EAs to DXtrade/cTrader/Match-Trader at own risk.
+INSTRUMENTS: Forex, Metals, Indices, Other Commodities, Crypto, Stock CFDs
+(multi-asset incl. rare stock-CFD coverage). Per-asset leverage/hours inside
+platforms; stock CFDs may not be held through earnings/dividends.
+LEVERAGE: simulated leverage up to 30:1 shown on plan cards (e.g. $10K card:
+"Simulated Leverage 30:1"). Per-asset caps apply — verify dashboard.
+HOLDING: overnight holding allowed (swaps apply unless swap-free). Weekend
+holding NOT allowed by default — paid "Hold Over The Weekend" add-on (10% of
+challenge fee); without it all positions/pendings auto-close Friday 3:45 PM
+EST (per FundedWiki + TheTrustedProp).
+NEWS: no news restrictions — trade freely through high-impact news (official
+compare table: "None" vs competitors "Can't trade during news").
+COSTS: institutional-grade spreads; commissions vary by platform/account;
+spreads/swaps/commissions count toward drawdown (equity-based).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program                | Steps | Sizes          | Target            | Daily loss | Max loss     | Split    | Payouts    |
+|---|------------------------|-------|----------------|-------------------|------------|--------------|----------|------------|
+| 1 | 1-Step Career Eval     | 1     | $10K-$200K     | 10%               | 5%         | 7% static    | 80-90%   | bi-weekly  |
+| 2 | 3-Step Evaluation      | 3     | $10K-$200K*    | 5%->4%->3% (12%)  | NONE       | 5% static    | 80-90%   | bi-weekly  |
+| 3 | Instant Funding        | 0     | $10K-$200K*    | None              | 5%         | 8% trailing* | 90% fixed| on-demand  |
+Notes:
+- Old 2-Step program DISCONTINUED early 2026 (4-month grace for actives).
+- (* sizes/pricing per TheTrustedProp challenge pages; 1-Step $10K card on
+  homepage is the live reference: $200 one-time fee shown.)
+- $10K 1-Step reference card: Phase-1 fee $200; target $1,000 (10%); max DD
+  $700 (7%); daily $500 (5%); min days 0; unlimited period; leverage 30:1.
+  Funded phase: $50/month base (unlimited), no target, same 7%/5% risk box,
+  80% split, bi-weekly payouts.
+- No minimum trading days on ANY plan. No time limits on ANY plan.
+- Static DD on 1-Step (7%) and 3-Step (5%) — never trails up. Instant uses
+  trailing/locking DD (~8%; locks at starting balance after first payout).
+- 3-Step has NO daily loss limit (unique) but tighter 5% static max DD.
+- Max allocation: up to $200,000 virtual capital per homepage; reviewers
+  report $400K combined / $1M marketed scaling claims — verify dashboard.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP CAREER EVALUATION ---
+- Profit target: 10% single phase, unlimited time, 0 min days. ($10K: +$1,000.)
+- Max drawdown: 7% STATIC off initial balance, never trails. ($10K: $700 room,
+  floor $9,300 even after growing to $11K.)
+- Daily loss: 5% — snapshot at 5:00 PM EST off balance-or-equity-whichever-
+  higher; HARD breach. ($10K: $500/day.)
+- Consistency: NONE. News: NONE. EAs allowed (no HFT/arbitrage).
+- Smart Reset: FREE restart if (a) drawdown stayed under 5% and (b) no single
+  trade lost more than 1% — surrender in dashboard for 100% discount code.
+  Up to 3 free Smart Resets (= up to 4 attempts for price of 1).
+- Funded: same 7%/5% box; $50/month Lark Base (unlimited, conditions in 5D);
+  80% split (to 90%); bi-weekly payouts; 30:1 simulated leverage.
+--- 5B. 3-STEP EVALUATION ---
+- Targets: 5% P1 -> 4% P2 -> 3% P3 (12% total), unlimited time, 0 min days.
+- Max DD: 5% STATIC all phases. Daily loss: NONE (recover from a bad day
+  without auto-breach — rare).
+- Consistency: NONE. News: NONE. EAs allowed (no HFT/arbitrage).
+- Smart Reset: 75% OFF retry under same discipline criteria.
+- Funded: same box as 1-Step funded (base + 80-90% split + bi-weekly).
+--- 5C. INSTANT FUNDING ---
+- No evaluation — trade immediately. Split fixed 90%. Payouts ON DEMAND
+  (September promo: DAILY payouts on every account).
+- Max DD ~8% TRAILING — locks at starting balance once first payout is
+  requested; any drop below starting balance after lock = breach (most-
+  complained rule — confirm dashboard wording before confirming payout).
+- Daily loss 5% (5 PM EST snapshot, hard breach). Consistency: NONE for
+  pass/payout; stipend conditions separate. News allowed. EAs allowed.
+- Copy trading: funded/Instant accounts may copy across each other; eval
+  may copy from ONE external account to ONE eval account only.
+--- 5D. LARK BASE (MONTHLY BASE REWARD) ---
+- Earn up to $50-$1,000/month base + 80-90% performance split SIMULTANEOUSLY.
+- Base conditions (1-Step): pass eval, keep drawdown better than -3.5%, log
+  >=3 profitable days of +0.5% each per 30-day window. "Paid even in
+  drawdown / flat months" = the stipend, not the split.
+- Calculator example: $10K account at 0% monthly gain => $500 est. reward
+  display; avg. reward shown $340 on $10K card.
+--- 5E. WORKED EXAMPLE ($10K 1-STEP) ---
+- Start $10,000. Target $11,000. Static floor $9,300 always. Daily box:
+  5PM EST snapshot $10,000 => next-day hard floor $9,500 (balance/equity
+  higher-of). Breach either = fail; disciplined fail under 5% DD + 1%/trade
+  = free Smart Reset.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (no subscription; Career Bundle promos rotate):
+- 1-Step Career (live homepage card): $10K = $200 one-time (Career Bundle
+  total value $1,650 incl. unlimited base-fee access $50 + Smart Reset $200
+  FREE + AI Journal $300 FREE + Career Advisor $1,000 FREE).
+- 1-Step (TheTrustedProp Sep-2026 w/ 10% TRUSTED code): $10K $180 ($200) |
+  $25K $270 | $50K $450 | $100K $720 ($800) | $200K $1,350 ($1,500).
+- 3-Step (TheTrustedProp, 10% off): from $94.50 | $25K $157.50 ($175) |
+  $50K $252 ($280) | $100K $333 ($370) | $200K $675 ($750).
+- Instant (TheTrustedProp): $10K $180 | $25K $360 | higher tiers to ~$4,050
+  at top (verify live — Instant priced at premium).
+- BrokerAnalysis Apr-2026 2-step-era ladder (archived): $10K from $99 |
+  $25K from $199 | $50K from $299 | $100K from $499 (targets 8%/5%, 10% DD).
+ADD-ONS: weekend-hold 10% of fee; swap-free varies; September promo: daily-
+payouts upgrade + FREE $1,000 Instant account with ANY purchase.
+REFUND: no refunds for failed challenges by default (reviewers); Smart Reset
+(free / 75%-off) is the retry mechanism, not cash refund. Refund Policy page
+governs; verify before purchase.
+PAYMENT: credit card + crypto at checkout (PropFirmScope); payouts via
+Riseworks rail (ACH/wire/Wise/debit).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: eval-funded 80% scalable to 90%; Instant fixed 90%. Base + split
+  paid simultaneously when conditions met.
+- Cadence: bi-weekly standard; Instant on-demand; September promo DAILY
+  payouts on every account (limited-time). Avg payout time claimed 4-6 hours
+  (homepage "4-Hour Average"; "within 6 hours to Riseworks").
+- Minimum: ~$100 reported; $40 Riseworks processing fee PER payout (budget it).
+- Flow: pass eval -> KYC via Veriff -> funded credentials in 2-3 business
+  days -> trade -> dashboard payout request -> Riseworks (bank/crypto via
+  Riseworks rails). First payout unlocks ~14 days after starting live.
+- Proof: reviewers cite $528,165.36 all-time / 431 txns / largest $12,860 /
+  avg ~$1,225 (May-2026 snapshot); homepage certificates to $12,890.35.
+- Scaling: to $200K virtual capital (homepage); combined/scale reports to
+  $400K ($1M marketed) — verify dashboard. No fixed % ladder published.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + reviewer-noted)
+================================================================================
+1. All-or-Nothing / gambling rule: margin utilization consistently above ~20%
+   of account = flaggable "reckless" trading; can deny payouts / close
+   accounts (top complaint source — size positions conservatively).
+2. HFT, arbitrage, latency exploitation: banned (all plans, incl. EAs).
+3. Martingale/grid: banned per TheTrustedProp prohibited list (single-account
+   classic hedging reported permitted — confirm T&Cs).
+4. Hedging across multiple Lark accounts / group hedging: banned.
+5. Copy trading: eval = ONE external -> ONE eval only; funded may inter-copy.
+   Third-party management / signal-passing services: banned.
+6. Stock CFDs through earnings/dividend releases: banned.
+7. VPN spoofing / jurisdiction evasion: banned.
+8. Weekend hold without add-on: forced close Fri 3:45 PM EST (not a "ban"
+   but auto-liquidation).
+9. Inactivity: 30 days no trades = inactive/terminated.
+10. Smart-Reset discipline: single-trade loss >1% or DD >=5% voids free reset
+    (not an account breach by itself).
+Consequences ladder: payout denial, account closure, termination.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; demo-education service, no regulated activity.
+- USA: served (reviewer comparison tables list US availability; no US ban in
+  published terms — verify checkout geo-check).
+- No published hard-ban country list found on fetched pages; footer: "not
+  directed at residents in any country or jurisdiction where such
+  distribution or use would be contrary to local laws" — checkout enforces.
+- KYC: Veriff identity verification after passing; funded credentials 2-3
+  business days; payout beneficiary must match KYC; Riseworks onboarding.
+- VPN/VPS: VPN spoofing banned (see Section 8).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — TheTrustedProp (Sep 2026, full review + challenges pages):
+  no consistency/min-days/time limits; static DD; EAs+news allowed; 90%
+  Instant split; BUT flags premium pricing ($1,000 at $200K 1-Step), Instant
+  trailing-lock catch, aggressive 20%-margin All-or-Nothing enforcement
+  (incl. $8.7K-profit denial at 61% margin; $522 goodwill exception case),
+  no MT4/MT5, no failed-challenge refunds, $528K/431 payout proof. Code
+  TRUSTED 10% off.
+- REVIEW 2 — FundedWiki (2026-06-05): verdict "flexible sim-funder, static
+  DD, no consistency pass, EAs allowed, stipend on top" BUT catches:
+  weekend add-on, 5PM EST hard snapshot, stipend fine print, $40/payout fee.
+  Table: 1-Step 7%/5%/10%/0 days; 3-Step 5%/none/5-4-3%/0 days; Instant 8%
+  trailing/5%/none/0 days. 80% (90% max), Instant 90%, $10K-$200K, cTrader/
+  DXtrade/Match-Trader, bi-weekly.
+- Extra: PropFirmScope Apr-2026 (PFM 4.5/5 from 79 + Trustpilot 4.4/5;
+  trust 7.7/10; Riseworks-only rail complaint; no MT4/5 = hard pass for
+  MetaTrader traders); BrokerAnalysis 7.9/10 (pricing 9.5, payouts 9.5).
+- Sentiment: positive on static DD, no trap rules, base pay, fast payouts;
+  negative cluster on margin-utilization denials + Instant lock rule.
+- Red flags: NONE regulatory; watch items = All-or-Nothing enforcement +
+  Instant DD-lock comprehension + 2-Step discontinuation friction.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: only firm paying a monthly BASE in drawdown + free resets =
+unique career framing. Static 7%/5% DD is roomier than 5%-max rivals; but
+headline fees run premium ($200/$10K 1-Step vs sub-$100 rivals) offset by
+bundle value + promos. Riseworks-only payouts vs crypto-direct rivals.
+1-STEP VS 3-STEP: 1-Step = one 10% hurdle, 5% daily box, free reset. 3-Step =
+12% total across smaller 5/4/3% gates, NO daily limit, tighter 5% static,
+75%-off reset — better for steady builders who hate daily stops.
+INSTANT: fastest (90%, on-demand) but premium price + trailing lock — only
+for pros who understand the lock.
+BEST FIT: disciplined day/intraday traders wanting static DD + no consistency;
+EA users on cTrader/DXtrade/Match-Trader; traders valuing stipend + concierge
++ academy; non-MetaTrader traders.
+BAD FIT: MT4/MT5-locked traders; weekend swing holders unwilling to buy the
+add-on; high-margin index traders (20% utilization tripwire); crypto-direct
+payout demanders; bargain hunters at $200K tier.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage plan cards, compare tables, Smart Reset terms, Base
+conditions, About timeline, footer legal, September promo were read live from
+larkfunding.com on 2026-09-08. Pricing ladders cross-checked against
+TheTrustedProp (Sep 2026) + FundedWiki (Jun 2026) + BrokerAnalysis
+(2026-04-17); promos rotate — re-check pricing anchors before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Lark Base, Smart Reset, 3-plan tables, Riseworks/$40-fee
+and All-or-Nothing warnings.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Traders Here Are 87% More Likely To Get Paid. Most prop firms have
+garbage rules. We don't which results in our traders having an 87% higher net
+payout rate than traditional CFD benchmarks."
+[2] Pillars: "Zero Consistency Rules | No Minimum Trading Days | Static
+Drawdowns."
+[3] Path: "1. Pass Without the Trap Rules — Hit your target on static
+drawdowns with zero consistency rules holding you back. Your 1-Step includes
+up to 3 Free Smart Resets — giving you up to 4 evaluation attempts for the
+price of 1 (simply surrender your account before reaching 5% drawdown)."
+[4] Base: "2. Unlock Base Rewards (Get Paid Even in Drawdown) — Once you pass
+and become a Lark Trader, unlock up to $1,000/month in base rewards — even
+during flat months. Just maintain drawdown above -3.5% and log 3 positive
+trading days (+0.5% gain each)."
+[5] $10K card: "PHASE-1 $200. Monthly Base No. Gain Target $1000 (10%). Max
+Drawdown $700 (7%). Daily Loss $500 (5%). Min Trading Days 0. Trading Period
+Unlimited. Profit Share None. Bi-weekly Payouts No. Simulated Leverage 30:1."
+[6] Funded card: "FUNDED PHASE. Monthly Base $50/month (unlimited). Gain
+Target None. Max Drawdown $700 (7%). Daily Loss $500 (5%). Profit Share 80%.
+Bi-weekly Payouts Yes. Simulated Leverage 30:1."
+[7] Reset: "Keep Drawdown Under 5% — Maintain your account drawdown below 5%
+of your total account value. Max 1% Loss Per Trade — Don't lose more than 1%
+in any single trade. 100% Free Restart — Surrender your account in your
+dashboard and receive a 100% discount code to start fresh."
+[8] Compare: "Consistency Rules: None (Lark) vs 15% (others). News
+Restrictions: None vs Can't trade during news. Minimum Trading Days: None vs
+5-10 days. Max Drawdown 7% vs 5%. Daily Loss Limit 5% vs 2%."
+[9] Legal: "All content published and distributed under the Lark Funding brand
+is licensed by Lark Dashboards Inc.... Lark Funding Inc. itself does not carry
+out any regulated activities; our exclusive activity is Demo Trading Education
+... The accounts utilized for our services are exclusively simulated demo
+accounts."
+[10] Promo: "September Promo: Every account gets Daily Payouts — 14x faster,
+20% cheaper." + "Every purchase now includes a FREE $1,000 Instant Funding
+account — completely on us."
+[11] Support: "Our dedicated in-house customer support team is available 24/7.
+We provide assistance in 20 languages." / "60+ Customer support members."
+[12] Payouts claim: "Lightning-Fast Payouts — Enjoy the Industry's Fastest
+Payouts with a 4-Hour Average Payout Time!"
+================================================================================
+END OF FILE — LARK FUNDING COMPLETE. Next firm is a separate task (not started).
+================================================================================

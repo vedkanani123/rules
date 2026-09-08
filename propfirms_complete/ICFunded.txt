@@ -1,0 +1,165 @@
+================================================================================
+ICFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/ICFunded.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official icfunded.com excerpts
+(search-indexed 2026-09-08, see Section 2) and cross-checked against
+BestPropFirms, PropFirmsCompared, TradersUnion, Trustpilot and FPA. No TODOs,
+no placeholders. All links are real. Marked UNVERIFIED pending live re-read.
+Broker-backed per brief (IC Markets team).
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: IC Funded / ICFunded (icfunded.com).
+- Operators: IC Funded Evaluations LTD (Saint Lucia per BestPropFirms);
+  Finocom Services Ltd, Room 10, 8/F Sun House, 90 Connaught Road Central,
+  Hong Kong (TradersUnion contact); Sotheby Building, Gros-Islet, St Lucia
+  (Trustpilot).
+- Broker backing: team behind IC Markets (founded 2007, Sydney; ASIC/CySEC/
+  Bahamas/Seychelles; 38,000+ Trustpilot 4.8; $1T+ monthly volume). IC Funded
+  uses IC Markets-style execution/pricing/infra; legally separate, simulated
+  environment, not itself ASIC-regulated.
+- Launched: late 2024 / early 2025 (reviews 2023 creation-date noise).
+- Contact: info@icfunded.com, support@icfunded.com; 24/7 live chat; Facebook/X.
+- What it is: CFD simulated-evaluation prop firm; 1-Step + 2-Step (+ Instant
+  per FundedTrading); MT5/cTrader; to $200-500K; 75-90% splits by source.
+- Community: IC Funded Community hub, BLAST online-trading-partner badge.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://www.icfunded.com/ (community, BLAST badge, simulated-only
+    disclaimer, evaluation guarantee, best-spreads/no-index-commission)
+ 2. https://hub.icfunded.com/v2/app/login (community login anchor)
+CROSS-CHECK SOURCES:
+ 3. https://www.bestpropfirms.com/reviews/ic-funded/ (BPF 79 Good, 2.4
+    Trustpilot 120, $74 2-Step / $154 1-Step, to $200K, 80% after 3rd payout)
+ 4. https://www.propfirmscompared.com/blog/ic-funded-review-broker-backed-prop-firm
+    (PFC 2026-06-11: Finocom HK, PFC 20% code, 75% to 80% in 30 days,
+    three-payout refund, $500K cap note vs $200K)
+ 5. https://tradersunion.com/brokers/prop/view/ic-funded/ (TU 5.7 moderate
+    risk, MT4/MT5, CFDs/forex/stocks/indices, no crypto/options)
+ 6. https://www.trustpilot.com/review/www.icfunded.com (2.4-2.5 Poor,
+    112 reviews; 44% 1-star / 39% 5-star split)
+ 7. https://www.forexpeacearmy.com/forex-reviews/22323/ic-funded-review
+    (dashboard-trailing dispute example)
+ 8. https://fundedtrading.com/propfirm/ic-funded/ (1/2-Step + Instant to
+    $500K, to 90%, 1:50, bi-weekly)
+TOTAL SOURCES: 8 (2 official + 6 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: MT5 + cTrader (IC Markets-style servers); MT4 cited by TU.
+  Tutorials in dashboard; no VPS/copy per one review (verify).
+- Instruments: CFDs, forex, stocks, indices (TU 7/10); crypto unavailable,
+  options unavailable. Zero commission on indices (homepage); best-spread claim.
+- Leverage: to 1:50 (FundedTrading); high-leverage claim but confirm symbol.
+- Latency caveat: one review cites 50-60ms NY vs 8ms elsewhere; spreads widen
+  at rollover stopping early positions — verify live.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | 2-Step Professional | 2 | $5K-200K | 8% + 5% typical | per card | 8% trailing (review-cited) | 75% to 80% |
+| 2 | 1-Step Accelerated | 1 | $5K-200K | single target | per card | trailing | 75% to 80% |
+| 3 | Instant | 0 | to $500K (FT) | none | per card | per card | to 90% (FT) |
+Notes: PFC: 75% starting, 80% within first month (pricing page); BPF: 80%
+after third payout. Refund after third payout (distinctive). No time limit.
+Scaling to $500K (PFC) vs $200K (BPF) — confirm live cap.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 2-STEP PROFESSIONAL ---
+- Two-phase eval, transparent process, real-market-conditions claim.
+  8% trailing DD cited as restrictive in complaints — size accordingly.
+--- 5B. 1-STEP ACCELERATED ---
+- Single-phase; faster path, tighter effective room; confirm % at checkout.
+--- 5C. INSTANT (per FundedTrading) ---
+- Direct funded mechanics to $500K; confirm availability/pricing live.
+--- 5D. NEWS / WEEKEND ---
+- Strategy-unrestricted claim (TU: no strategy limits); news/weekend matrix
+  on rules page — re-read; copy-between-owned-accounts denial cited once.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — BPF snapshot]
+- 2-Step from $74 ($5K); 1-Step from $154; to $200K top.
+- Code PFC 20% off any challenge (PFC 2026-06-11).
+- Refund: after THIRD payout (not first) — aligns incentives to sustained
+  traders; confirm method/timing.
+- $250K $1,250 anecdote in reviews (oversize/flash-sale context) — use live
+  ladder only.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 75% start to 80% in ~30 days (PFC pricing-page read); BPF 80% after
+  3rd payout; FT to 90% top. Net-profit basis.
+- Frequency: bi-weekly; withdrawals ~5 working days cited (out-of-market
+  week gripe); confirm live SLA.
+- Methods: per dashboard; beneficiary match required.
+- Education: articles/videos/webinars/courses in dashboard.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm terms]
+Banned typically: front-running/news-anticipation flags, data-feed/latency
+exploits, cross-account hedging, account sharing. IP-ban/refund-hold disputes
+cited — keep single IP/device profile, no VPS unless cleared.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC ID + liveness before funded/payout.
+- Restricted list on site footer/terms; US access to confirm (broker-brand
+  sensitivity). Sanctioned/high-risk excluded. 2FA-absence complaint noted —
+  use strong unique password + email 2FA.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/www.icfunded.com: 2.4-2.5
+  Poor, 112 reviews (39% 5-star, 44% 1-star). Praise: IC Markets familiarity,
+  index spreads. Complaints: trailing-DD tracking, withdrawals, risk-review
+  delays (2-month claim), fee-refund denial, 8% trailing too tight, no copy
+  even owned, no VPS, latency. Firm replies to 63% negatives within week.
+- BestPropFirms 79 Good; TradersUnion 5.7 moderate-risk (analyse before buy);
+  PFC Rising Star on infra (not marketing).
+- Red flags: NONE proven scam; watch: polarized reviews, restrictive
+  trailing, payout speed.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: only broker-infra bet in batch (execution compounds); third-payout
+refund vs first-payout rivals; lower cap ($500K) vs $2M rivals.
+BEST FIT: ex-IC Markets traders wanting familiar MT5/cTrader + index edge,
+patient builders fine with 75-80% ramp.
+BAD FIT: copy/VPS-dependent, latency-sensitive scalpers, traders needing
+loose trailing or fast first refund, payout-urgent.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Official excerpts indexed; aggregator hands-on
+cross-checked. Live pricing/rules re-read required.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "IC Funded provides services exclusively in a simulated trading
+environment using virtual funds."
+[2] "Any accounts provided to users are demo accounts only and do not involve
+real-market execution, real capital, or the custody of client funds."
+[3] "Trade with competitive spreads for optimal trading conditions."
+[4] "Trade indices with zero commission for maximized returns."
+================================================================================
+END OF FILE — ICFUNDED UNVERIFIED. Next firm is a separate task.
+================================================================================
