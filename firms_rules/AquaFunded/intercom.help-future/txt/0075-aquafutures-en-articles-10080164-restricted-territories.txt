@@ -1,0 +1,5 @@
+TITLE: Skipped non-HTML resource
+URL: https://intercom.help/aquafutures/en/articles/10080164-restricted-territories
+STATUS: 404
+CONTENT-TYPE: text/plain; charset=utf-8
+ERROR: The website returned HTTP 404 Not Found.

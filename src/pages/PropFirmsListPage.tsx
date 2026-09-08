@@ -16,28 +16,28 @@ function getYears(foundedYear: number): number {
   return Math.max(0, new Date().getFullYear() - foundedYear);
 }
 
-function getMaxAllocation(firm: PropFirm): number {
+function getMaxAllocation(firm: any): number {
   let max = 0;
-  for (const prog of firm.programs) {
-    for (const acc of prog.accounts) {
+  for (const prog of firm.programs ?? []) {
+    for (const acc of prog.accounts ?? []) {
       if (acc.nominalSize > max) max = acc.nominalSize;
     }
   }
-  // Also consider market type allocation cap
-  if (max === 0) max = 100000;
-  // Scale by program count for display
-  return max * Math.max(1, Math.min(4, firm.programs.length));
+  if (max > 0) return max;
+  if (typeof firm.maxAllocation === 'number' && firm.maxAllocation > 0) return firm.maxAllocation;
+  return 0; // Unknown — never fabricate
 }
 
-function getMinPrice(firm: PropFirm): number {
+function getMinPrice(firm: any): number | null {
   let min = Infinity;
-  for (const prog of firm.programs) {
-    for (const acc of prog.accounts) {
+  for (const prog of firm.programs ?? []) {
+    for (const acc of prog.accounts ?? []) {
+      if (acc.priceUnknown) continue;
       const price = acc.discountedPrice ?? acc.price;
-      if (price < min) min = price;
+      if (typeof price === 'number' && price < min) min = price;
     }
   }
-  return min === Infinity ? 0 : min;
+  return min === Infinity ? null : min;
 }
 
 export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate }) => {
@@ -48,24 +48,12 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
   const [countryFilter, setCountryFilter] = useState<string>('All');
 
   // Real data extracted from propfirmmatch.com/all-prop-firms.html (20 firms, real logos, real ratings, real promos)
+  // Directory firms show ONLY third-party metadata. Never clone verified GFT accounts/rules onto unverified firms.
   const displayFirms: any[] = useMemo(() => {
     // Map REAL_FIRMS to display shape that table expects (compatible with PropFirm)
     const mapped = REAL_FIRMS.map((rf: any) => {
-      const base = PROP_FIRMS_DATA[0];
       const logoUrl = rf.logoUrl as string;
       const flagUrl = rf.countryFlag as string;
-      const progTypes: string[] = rf.programType || [];
-      const mappedPrograms = progTypes.slice(0, 3).map((pt: string, idx: number) => {
-        const normPt = pt.replace('2_Steps','2-Step').replace('3_Steps','3-Step');
-        return {
-          id: rf.slug + '-prog-' + idx,
-          firmId: rf.slug,
-          name: normPt,
-          slug: normPt.toLowerCase().replace(/\s+/g,'-'),
-          programType: normPt as any,
-          accounts: base.programs[0]?.accounts.slice(0, 2).map(a=> ({ ...a, id: rf.slug+'-acc-'+idx+'-'+a.nominalSize, programId: rf.slug+'-prog-'+idx, price: a.price, discountedPrice: a.discountedPrice })) || [],
-        };
-      });
       const displayFirm: any = {
         id: rf.id,
         name: rf.name,
@@ -78,23 +66,24 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
         headquarters: rf.country === 'US' ? 'USA' : rf.country === 'AE' ? 'UAE • Dubai' : rf.country === 'GB' ? 'UK • London' : rf.country === 'CZ' ? 'Czech' : rf.country,
         foundedYear: rf.foundedYear,
         marketType: rf.marketType,
-        tagline: rf.promoDesc ? rf.promoDesc.slice(0, 70) : rf.programType.join(' • ') + ' • ' + rf.platforms.slice(0,2).join(', '),
-        website: 'https://www.'+rf.slug+'.com',
-        supportUrl: 'https://www.'+rf.slug+'.com/contact',
-        helpCenterUrl: 'https://help.'+rf.slug+'.com',
+        tagline: rf.promoDesc ? rf.promoDesc.slice(0, 70) : (rf.programType || []).join(' • '),
+        website: 'Unknown — not yet verified',
+        supportUrl: 'Unknown',
+        helpCenterUrl: 'Unknown',
         platforms: rf.platforms,
         maxAllocation: rf.maxAllocation,
         trustScore: rf.trustScore,
-        scorecard: { overallScore: rf.trustScore, transparencyScore: rf.trustScore, riskScore: 75, payoutScore: 80, tradingFreedomScore: 82, ruleComplexityScore: 68, traderExperienceScore: 76, scoreExplanations: {} },
-        reviewsOverview: { averageRating: rf.reviewScore, totalReviews: rf.reviewsCount, sentimentDistribution: { positive: 75, neutral: 12, negative: 13 }, complaintThemeBreakdown: base.reviewsOverview.complaintThemeBreakdown, recentReviews: base.reviewsOverview.recentReviews },
-        programs: mappedPrograms.length ? mappedPrograms : base.programs.slice(0,1),
-        totalPayoutsReported: '$'+(rf.maxAllocation/100000).toFixed(1)+'M cap',
-        activeTradersReported: Math.round(rf.reviewsCount/10)+'k+',
+        scorecard: { overallScore: rf.trustScore, transparencyScore: rf.trustScore, riskScore: 0, payoutScore: 0, tradingFreedomScore: 0, ruleComplexityScore: 0, traderExperienceScore: 0, scoreExplanations: {} },
+        reviewsOverview: { averageRating: rf.reviewScore, totalReviews: rf.reviewsCount, sentimentDistribution: { positive: 0, neutral: 0, negative: 0 }, complaintThemeBreakdown: [], recentReviews: [] },
+        programs: [], // Unknown — rules under verification, do not fabricate tiers
+        totalPayoutsReported: 'Unknown',
+        activeTradersReported: 'Unknown',
         status: 'ACTIVE',
-        confidenceRating: rf.trustScore >= 94 ? 'A' : rf.trustScore >= 86 ? 'B' : 'C',
-        lastVerified: '2026-08-28',
+        confidenceRating: 'C',
+        verificationState: 'UNKNOWN',
+        verificationNote: 'Rules under verification. Do not rely on this data for a trading or purchase decision until the source has been reviewed.',
+        lastVerified: 'Unknown',
         isForex: rf.isForex, isFutures: rf.isFutures, isCrypto: rf.isCrypto,
-        preferredPromo: { promo: { code: rf.promoCode, description: rf.promoDesc, discounts: [{ amount: rf.discount }] } },
         activePromo: rf.discount ? { code: rf.promoCode || 'MATCH', discount: rf.discount+'% OFF', details: rf.promoDesc } : undefined,
         realAssets: rf.assets,
         realDiscount: rf.discount,
@@ -103,15 +92,36 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       return displayFirm;
     });
     const goatDetailed = PROP_FIRMS_DATA.find(f=>f.slug==='goat-funded-trader');
+    // Overlay EVERY canonical (verified/rule-backed) firm onto the directory list:
+    // match by normalized slug (so 'fundednext' merges into 'funded-next'),
+    // replace stubs, prepend the rest — verified first. Directory review
+    // counts are carried over when the canonical entry has none.
+    const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+    const verifiedFirst: any[] = [];
+    for (const cf of PROP_FIRMS_DATA) {
+      if (cf.slug === 'goat-funded-trader') continue; // handled below for legacy behavior
+      const existsIdx = mapped.findIndex((m:any)=> norm(m.slug)===norm(cf.slug));
+      const entry = { ...(cf as any), trustScore: (cf as any).scorecard?.overallScore ?? 0 } as any;
+      if (existsIdx >= 0) {
+        const stub = mapped[existsIdx];
+        if ((entry.reviewsOverview?.totalReviews ?? 0) === 0 && (stub.reviewsOverview?.totalReviews ?? 0) > 0) {
+          entry.reviewsOverview = stub.reviewsOverview;
+        }
+        if (!entry.logoUrl && stub.logoUrl) entry.logoUrl = stub.logoUrl;
+        mapped[existsIdx] = { ...stub, ...entry } as any;
+      }
+      else verifiedFirst.unshift(entry);
+    }
+    const withCanonical = [...verifiedFirst, ...mapped];
     if (goatDetailed) {
-      const existsIdx = mapped.findIndex((m:any)=>m.slug==='goat-funded-trader');
+      const existsIdx = withCanonical.findIndex((m:any)=>m.slug==='goat-funded-trader');
       if (existsIdx >=0) {
-        mapped[existsIdx] = { ...mapped[existsIdx], ...goatDetailed, logoUrl: (goatDetailed as any).logoUrl || mapped[existsIdx].logoUrl, trustScore: 81, scorecard: (goatDetailed as any).scorecard } as any;
+        withCanonical[existsIdx] = { ...withCanonical[existsIdx], ...goatDetailed, logoUrl: (goatDetailed as any).logoUrl || withCanonical[existsIdx].logoUrl, trustScore: 81, scorecard: (goatDetailed as any).scorecard } as any;
       } else {
-        mapped.unshift(goatDetailed as any);
+        withCanonical.unshift(goatDetailed as any);
       }
     }
-    return mapped;
+    return withCanonical;
   }, []);
 
   const countries = useMemo(() => ['All', ...Array.from(new Set(displayFirms.map(f=>f.country)))], [displayFirms]);
@@ -136,7 +146,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
     return list;
   }, [displayFirms, search, assetFilter, countryFilter, sortKey, sortAsc]);
 
-  const totalTiers = displayFirms.reduce((acc,f)=> acc + f.programs.reduce((a,p)=>a+p.accounts.length,0),0);
+  const totalTiers = displayFirms.reduce((acc:number,f:any)=> acc + (f.programs ?? []).reduce((a:number,p:any)=>(a+(p.accounts?.length ?? 0)),0),0);
   const verifiedCount = displayFirms.filter(f=>f.confidenceRating==='A').length;
 
   return (
@@ -270,22 +280,28 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                           <div className="min-w-0">
                             <div className="flex items-center gap-1.5 flex-wrap">
                               <span className="text-[13px] font-semibold text-white group-hover:text-[#3b82f6] transition-colors">{firm.name}</span>
-                              {isGoat && <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-emerald-500 text-white leading-none">VERIFIED</span>}
+                              {((firm.programs?.length ?? 0) > 0) && <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-emerald-500 text-white leading-none">VERIFIED</span>}
                               {firm.status==='CAUTION' && <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-amber-500/15 text-amber-400 border border-amber-500/20 leading-none">CAUTION</span>}
                             </div>
                             <p className="text-[11px] text-[#6B7280] truncate flex items-center gap-1.5 mt-0.5">
                               <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${firm.confidenceRating==='A'?'bg-emerald-500':firm.confidenceRating==='B'?'bg-sky-500':'bg-white/20'}`} />
-                              <span className="truncate">{firm.brandName} • {firm.programs.length} programs • {firm.platforms.slice(0,2).join(', ')}</span>
+                              <span className="truncate">{firm.brandName} • {(firm.programs?.length ?? 0) > 0 ? `${firm.programs.length} programs` : 'Rules under verification'} • {(firm.platforms ?? []).slice(0,2).join(', ') || 'Platforms unknown'}</span>
                             </p>
                           </div>
                         </div>
                       </td>
                       <td className="px-4 py-4">
                         <div className="flex items-center gap-2">
-                          <span className={`px-2 py-1 rounded-lg text-xs font-semibold border ${firm.reviewsOverview.averageRating>=4.5?'bg-emerald-500/10 text-emerald-400 border-emerald-500/20':firm.reviewsOverview.averageRating>=4.2?'bg-white text-[#080A10] border-white':'bg-[#1F2228] text-white border-[#1F2228]'}`}>
-                            {firm.reviewsOverview.averageRating.toFixed(1)} <Star className="w-3 h-3 inline -mt-0.5" />
-                          </span>
-                          <span className="text-xs text-[#8A8F98] font-mono">{firm.reviewsOverview.totalReviews.toLocaleString()}</span>
+                          {firm.reviewsOverview.totalReviews > 0 ? (
+                            <>
+                              <span className={`px-2 py-1 rounded-lg text-xs font-semibold border ${firm.reviewsOverview.averageRating>=4.5?'bg-emerald-500/10 text-emerald-400 border-emerald-500/20':firm.reviewsOverview.averageRating>=4.2?'bg-white text-[#080A10] border-white':'bg-[#1F2228] text-white border-[#1F2228]'}`}>
+                                {firm.reviewsOverview.averageRating.toFixed(1)} <Star className="w-3 h-3 inline -mt-0.5" />
+                              </span>
+                              <span className="text-xs text-[#8A8F98] font-mono">{firm.reviewsOverview.totalReviews.toLocaleString()}</span>
+                            </>
+                          ) : (
+                            <span className="px-2 py-1 rounded-lg text-xs font-medium border bg-white/[0.04] text-white/50 border-white/10">No verified reviews</span>
+                          )}
                         </div>
                         <div className="flex gap-0.5 mt-1.5">
                           {Array.from({length:5}).map((_,i)=>(
@@ -309,7 +325,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                           <span className={`px-2 py-1 rounded-full text-[11px] font-medium border ${firm.marketType==='Futures'?'bg-orange-500/10 text-orange-400 border-orange-500/20':firm.marketType==='Crypto'?'bg-sky-500/10 text-sky-400 border-sky-500/20':firm.marketType==='Forex'?'bg-emerald-500/10 text-emerald-400 border-emerald-500/20':'bg-white/[0.04] text-white/60 border-[#1F2228]'}`}>
                             {firm.marketType}
                           </span>
-                          {firm.programs.slice(0,2).map(p=>(
+                          {(firm.programs ?? []).slice(0,2).map((p:any)=>(
                             <span key={p.id} className="px-2 py-1 rounded-full text-[10px] font-medium bg-[#080A10] border border-[#1F2228] text-[#8A8F98]">{p.programType}</span>
                           ))}
                         </div>
@@ -317,15 +333,15 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                       </td>
                       <td className="px-4 py-4">
                         <div className="flex flex-wrap gap-1 max-w-[150px]">
-                          {firm.platforms.slice(0,3).map(pl=>(
+                          {(firm.platforms ?? []).slice(0,3).map((pl:string)=>(
                             <span key={pl} className="px-2 py-1 rounded-full text-[10px] font-medium bg-[#080A10] border border-[#1F2228] text-[#8A8F98]">{pl.replace('MetaTrader 5','MT5').replace('TradeLocker','TL')}</span>
                           ))}
-                          {firm.platforms.length>3 && <span className="inline-flex px-1.5 py-1 rounded text-[10px] text-[#6B7280]">+{firm.platforms.length-3}</span>}
+                          {(firm.platforms ?? []).length>3 && <span className="inline-flex px-1.5 py-1 rounded text-[10px] text-[#6B7280]">+{firm.platforms.length-3}</span>}
                         </div>
                       </td>
                       <td className="px-4 py-4">
-                        <span className="text-[13px] font-mono font-semibold text-white">${(allocation/1000).toFixed(0)}K</span>
-                        <p className="text-[11px] text-[#6B7280] mt-0.5">from ${minPrice}</p>
+                        <span className="text-[13px] font-mono font-semibold text-white">{allocation > 0 ? `$${(allocation/1000).toFixed(0)}K` : 'Unknown'}</span>
+                        <p className="text-[11px] text-[#6B7280] mt-0.5">{minPrice !== null ? `from $${minPrice}` : 'Price unknown'}</p>
                         {isTop && <span className="inline-flex items-center gap-1 text-[10px] font-medium text-amber-500 mt-1"><Crown className="w-3 h-3" />Top 3</span>}
                       </td>
                       <td className="px-4 py-4">
@@ -378,21 +394,27 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                     <div className="min-w-0">
                       <p className="text-sm font-semibold text-white truncate flex items-center gap-1.5">
                         {firm.name}
-                        {firm.slug==='goat-funded-trader' && <span className="px-1.5 py-0.5 rounded text-[10px] bg-emerald-500 text-white">VERIFIED</span>}
+                        {((firm.programs?.length ?? 0) > 0) && <span className="px-1.5 py-0.5 rounded text-[10px] bg-emerald-500 text-white">VERIFIED</span>}
                       </p>
                       <p className="text-xs text-[#8A8F98] truncate">{firm.brandName} • {firm.marketType} • {years}yrs • {firm.headquarters.split('•')[0]}</p>
                     </div>
                   </div>
                   <div className="text-right shrink-0">
-                    <span className={`px-2 py-1 rounded-lg text-xs font-semibold ${firm.reviewsOverview.averageRating>=4.5?'bg-emerald-500 text-white':'bg-white text-[#080A10]'}`}>{firm.reviewsOverview.averageRating.toFixed(1)}★</span>
-                    <p className="text-[11px] text-[#6B7280] mt-1">{firm.reviewsOverview.totalReviews.toLocaleString()} reviews</p>
+                    {firm.reviewsOverview.totalReviews > 0 ? (
+                      <>
+                        <span className={`px-2 py-1 rounded-lg text-xs font-semibold ${firm.reviewsOverview.averageRating>=4.5?'bg-emerald-500 text-white':'bg-white text-[#080A10]'}`}>{firm.reviewsOverview.averageRating.toFixed(1)}★</span>
+                        <p className="text-[11px] text-[#6B7280] mt-1">{firm.reviewsOverview.totalReviews.toLocaleString()} reviews</p>
+                      </>
+                    ) : (
+                      <span className="px-2 py-1 rounded-lg text-[11px] font-medium bg-white/[0.04] text-white/50 border border-white/10">No verified reviews</span>
+                    )}
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-1.5">
                   <span className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98]">{firm.marketType}</span>
-                  {firm.platforms.slice(0,3).map(pl=> <span key={pl} className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-[11px] text-[#8A8F98]">{pl}</span>)}
-                  <span className="px-2 py-1 rounded-full bg-white/5 border border-[#1F2228] text-xs font-mono text-white">${(allocation/1000).toFixed(0)}K max</span>
-                  <span className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98]">from ${minPrice}</span>
+                  {(firm.platforms ?? []).slice(0,3).map((pl:string)=> <span key={pl} className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-[11px] text-[#8A8F98]">{pl}</span>)}
+                  <span className="px-2 py-1 rounded-full bg-white/5 border border-[#1F2228] text-xs font-mono text-white">{allocation > 0 ? `$${(allocation/1000).toFixed(0)}K max` : 'Max unknown'}</span>
+                  <span className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98]">{minPrice !== null ? `from $${minPrice}` : 'Price unknown'}</span>
                 </div>
                 {firm.activePromo && (
                   <div className="flex items-center justify-between p-2.5 rounded-xl bg-gradient-to-r from-[#2563eb]/20 to-[#7c3aed]/20 border border-[#2563eb]/20">

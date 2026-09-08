@@ -1,0 +1,13 @@
+TITLE: Getting started with Deepcharts | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892642-getting-started-with-deepcharts
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892642-getting-started-with-deepcharts
+HEADINGS:
+- Getting started with Deepcharts
+- Connecting to the Data Feed:
+- How to Connect to the Feed:
+- Choosing an Asset to Trade:
+- Selecting Your Trading Timeframe:
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsDeepChartGetting started with DeepchartsGetting started with Deepcharts July 9, 2026Table of contentsAccessing the Deepcharts platform is simple. Begin by clicking on the "Login to Volumetrica" button from your dashboard. This will direct you to the web platform’s login page. Once there, enter your credentials, which were provided to you via email. Please ensure the password is entered correctly, as it is case-sensitive. Connecting to the Data Feed:After logging into Volumetrica, connect to the DXFeed data feed to begin trading. Without this connection, trading will not be enabled on the platform. How to Connect to the Feed:1. Select “Web Platform” from the left-hand menu.2. Click on the option to connect to the data feed.3. Once connected, the green dot will confirm that you are online and ready to trade, allowing you to view charts and available assets. Choosing an Asset to Trade:1. In the upper right corner near the timeframes, click to open the asset selection box.2. Type the first two letters of the asset you want to trade (e.g., "NQ" for NASDAQ, "CL" for Brent Crude Oil).3. Choose the continuous contract option, which will load the asset’s chart. Selecting Your Trading Timeframe:Once your chart is loaded, navigate to the top left where you enter the symbol. A menu will appear with timeframe options. Select the desired timeframe and click "Apply" to set it. For further help with connection status or selecting assets, please reach out to our support team for assistance.Related ArticlesAquaFutures' Platform OverviewHow to trade on DeepchartsDeepcharts FAQDeepcharts Login/Installation InstructionsHow to Use Charts in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

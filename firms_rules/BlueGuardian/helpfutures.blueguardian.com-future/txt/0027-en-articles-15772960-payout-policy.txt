@@ -1,0 +1,35 @@
+TITLE: Payout Policy | Blue Guardian | Futures
+URL: https://helpfutures.blueguardian.com/en/articles/15772960-payout-policy
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://helpfutures.blueguardian.com/en/articles/15772960-payout-policy
+HEADINGS:
+- Payout Policy
+- Futures Rewards & Payout Structure
+- How do payouts affect my drawdown?
+- Examples
+- Payout Comparison by Account Type
+- Standard Account
+- Payout Caps
+- Funded Buffer
+- Payout Requirements
+- Reserve Account
+- Payout Caps
+- Winning Day Requirement
+- Payout Requirements
+- Express Account
+- Max Daily Payout
+- Funded Buffer
+- Payout Requirements
+- Direct Account
+- Payout Caps
+- Profit Goals
+- Payout Requirements
+- Profit Split
+- Example:
+- Payout Schedule
+- 24-Hour Payout Guarantee
+- Exceptions
+- Payout Processing Fee
+CONTENT:
+Skip to main content< Go to websiteEnglishFrançaisDeutschΕλληνικάहिन्दीItalianoPortuguêsEspañolEnglish< Go to websiteEnglishFrançaisDeutschΕλληνικάहिन्दीItalianoPortuguêsEspañolEnglishSearch for articles...All CollectionsPayoutsPayout PolicyPayout Policy Updated this weekTable of contentsFutures Rewards & Payout StructureAt Blue Guardian Futures, our payout system is designed to balance flexibility, consistency, and long-term account growth. Each funded model has its own payout structure, caps, and requirements tailored to different trading styles.How do payouts affect my drawdown?After any approved payout or withdrawal, your drawdown floor will automatically lock at:Starting Balance + $100This ensures your account remains active and prevents withdrawals down to the exact breach level.ExamplesAccount SizeLocked Drawdown Floor$25,000$25,100$50,000$50,100$100,000$100,100$150,000$150,100Payout Comparison by Account TypeStandard AccountDesigned for traders who want structured growth with increasing payout flexibility.Payout CapsAccount Size1st Payout Cap2nd+ Payout Cap$25,000$1,500$2,000$50,000$2,500$3,000$100,000$3,000$3,500$150,000$4,000$4,500Funded BufferWithdrawals cannot be requested from the buffer amount. Only profits generated above the required buffer are eligible for withdrawal.Account SizeBuffer Required$25,000$1,600$50,000$2,100$100,000$3,600$150,000$5,100Payout RequirementsMust meet payout targetMust maintain funded bufferPayout available 3 days after first tradeReserve AccountBuilt for traders who want flexibility without buffer restrictions.Payout CapsAccount SizeCap Per Request$25,00050% of profit (up to $1,000)$50,00050% of profit (up to $2,000)$100,00050% of profit (up to $2,500)$150,00050% of profit (up to $3,000)Winning Day RequirementAccount SizeMinimum Winning Day$25,000$100$50,000$150$100,000$200$150,000$250Payout RequirementsMinimum 5 winning daysNo buffer requiredWinning days reset after payoutExpress AccountDesigned for traders seeking daily cash flow and fast access to profits.Max Daily PayoutAccount SizeDaily Payout Cap$25,000$550$50,000$1,100$100,000$2,200$150,000$3,300Funded BufferWithdrawals cannot be requested from the buffer amount. Only profits generated above the required buffer are eligible for withdrawal.Account SizeBuffer Required$25,000$1,600$50,000$2,100$100,000$3,600$150,000$5,100Payout RequirementsMust maintain funded bufferInstant payout once eligibleSubject to daily capDirect AccountBuilt for traders who want immediate access with no funded buffer requirement.Payout CapsAccount SizePayouts 1–3Payouts 4+$25,000$1,000$1,000$50,000$2,000$2,500$100,000$2,500$3,000$150,000$3,000$3,500Profit GoalsAccount Size1st Payout Goal2nd+ Goal$25,000$1,500$1,000$50,000$3,000$2,000$100,000$6,000$3,500$150,000$9,000$4,500Payout RequirementsMust meet payout targetNo funded buffer requiredSubject to consistency ruleProfit SplitAll funded traders receive a 90% profit split.Example:If a trader earns $2,000:Trader receives: $1,800Firm receives: $200Payout ScheduleRuleDetailsProcessing TimeWithin 24 business hoursWithdrawal MethodsRise or CryptoMinimum Withdrawal$500 Crypto / $500 Rise24-Hour Payout GuaranteeWe are committed to processing all payouts within 24 business hours. If we fail to meet this timeframe due to a delay on our end, you will receive an additional 10% profit share on that payout as part of our payout guarantee. ExceptionsThis guarantee does not apply in cases involving:Weekends or bank holidaysCompliance or risk reviewsDelays in Rise onboardingPending trader responsePayout Processing FeeAll payouts are subject to a 3% processing fee to cover payment processing and transaction costs. This means the final amount received may differ slightly from the amount displayed on your payout certificate.For any additional questions or assistance, please contact the Blue Guardian support team through live chat or via email at [email protected]. We’re always happy to help.Related ArticlesStandard Account RulesReserve Account RulesExpress Account RulesDirect Account RulesLegacy Account Models (Old account)Did this answer your question?😞😐😃Table of contentsTrade like a Guardian

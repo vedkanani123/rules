@@ -1,0 +1,36 @@
+TITLE: How to Check Why an Order Was Rejected in Tradovate | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892651-how-to-check-why-an-order-was-rejected-in-tradovate
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892651-how-to-check-why-an-order-was-rejected-in-tradovate
+HEADINGS:
+- How to Check Why an Order Was Rejected in Tradovate
+- Method 1: Check the Orders Module
+- Step 1: Open the Orders Module
+- Step 2: Locate the Rejected Order
+- Step 3: View Order Details
+- Step 4: Review the Rejection Message
+- Method 2: Check the Reports Module
+- Step 1: Open Reports
+- Step 2: Select Order Details
+- Step 3: Search for the Order
+- Step 4: View the Results
+- Common Order Rejection Reasons
+- Account in Liquidation Mode
+- Typical Message
+- What It Means
+- What to Do
+- Contract Limit Reached
+- Typical Message
+- What It Means
+- What to Do
+- Trading Outside Market Hours
+- What to Do
+- Market Holiday or Exchange Closure
+- What to Do
+- Connection or Data Issues
+- What to Do
+- Best Practice
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateHow to Check Why an Order Was Rejected in TradovateHow to Check Why an Order Was Rejected in Tradovate July 10, 2026Table of contentsIf one of your orders is rejected, Tradovate provides tools that allow you to quickly identify the reason.In most cases, the platform will display the exact rejection message, helping you understand what prevented the order from being executed.Method 1: Check the Orders ModuleThe easiest way to identify an order rejection is through the Orders Module.​Step 1: Open the Orders ModuleLog in to Tradovate and navigate to the Orders section.​Step 2: Locate the Rejected OrderFind the order that was rejected in your order history.​Step 3: View Order DetailsClick on the rejected order to open additional information.​Step 4: Review the Rejection MessageA details window will appear showing the specific reason why the order was rejected.This message will typically explain exactly what caused the issue, allowing you to take the necessary action.Method 2: Check the Reports ModuleYou can also review rejected orders through Tradovate’s reporting tools.Step 1: Open ReportsNavigate to the Reports section within Tradovate.​Step 2: Select Order DetailsFrom the available report options, choose Order Details.​Step 3: Search for the OrderEnter the Order Number associated with the rejected trade.​Step 4: View the ResultsClick Go to retrieve the order information and review the rejection details.This method is useful when reviewing older orders or investigating previous trading activity.Common Order Rejection ReasonsBelow are the most common reasons traders encounter order rejections.Account in Liquidation ModeTypical Message“Account is set to liquidation only.”​What It MeansThe account has been restricted from opening new positions due to a risk limit being reached.Possible causes include:Daily Loss Limit breachMaximum Loss Limit breachAccount liquidation eventWhat to DoCheck your AquaFutures Dashboard to review your account status and any active restrictions.Contract Limit ReachedTypical Message“Maximum order quantity has been reached.”​What It MeansYour account has reached its maximum allowable contract size.For example:You already have the maximum number of contracts open.The new order would exceed your account’s contract limit.What to DoReview your open positions.Reduce existing exposure if needed.Ensure your order size stays within the account’s contract limits.Trading Outside Market HoursOrders may also be rejected if the selected futures contract is not currently trading.​What to DoVerify that the instrument is within its trading session before submitting an order.Market Holiday or Exchange ClosureDuring exchange holidays or scheduled maintenance periods, order placement may be temporarily unavailable.​What to DoCheck:Exchange trading schedulesAquaFutures announcementsEmail notifications regarding market closuresConnection or Data IssuesTemporary connectivity issues can sometimes prevent orders from being processed correctly.​What to DoVerify your internet connection.Confirm Tradovate is connected.Restart the platform if necessary.Best PracticeWhenever an order is rejected, always read the rejection message first.Tradovate typically provides the exact reason for the rejection, making it much easier to identify and resolve the issue without guessing.Need Assistance?If you’re unable to determine why your order was rejected, please contact the AquaFutures Support Team and provide:Your account numberThe rejected instrumentThe rejection messageA screenshot of the order details (if available)Our team will help investigate the issue and provide further guidance.Related ArticlesHow to Place and Close Trades in TradovateHow to Trade Using the DOM and Chart in TradovateWhy Are My Trades Being Rejected?Understanding Risk Settings in TradovateHow to Place and Manage Limit Orders in TradovateDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

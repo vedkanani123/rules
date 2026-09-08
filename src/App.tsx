@@ -14,6 +14,8 @@ import { RulesHubPage } from './pages/RulesHubPage.tsx';
 import { ReviewsPage } from './pages/ReviewsPage.tsx';
 import { ChangesPage } from './pages/ChangesPage.tsx';
 import { AdminCrawlerPage } from './pages/AdminCrawlerPage.tsx';
+import { GoatRulesDemoPage } from './pages/GoatRulesDemoPage.tsx';
+import { GoatResearchTerminalV3Page } from './pages/GoatResearchTerminalV3Page.tsx';
 import { RiskSimulator } from './components/simulator/RiskSimulator.tsx';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from './data/propFirmsData.ts';
 import { REAL_FIRMS } from './data/propFirmMatchReal.ts';
@@ -32,6 +34,7 @@ const PageSkeleton: React.FC = () => (
 );
 
 export const App: React.FC = () => {
+  const getPath = () => window.location.pathname + window.location.search + window.location.hash;
   const [currentPath, setCurrentPath] = useState<string>(() => {
     return window.location.pathname || '/';
   });
@@ -89,6 +92,8 @@ export const App: React.FC = () => {
       '/changes': 'Rule Changes Changelog — Live Audit Trail | PropFirmRules.io',
       '/simulator': 'Risk Simulator — Test Drawdowns Before You Buy | PropFirmRules.io',
       '/rules': 'Rule Intelligence Guides — Master Every Prop Firm Rule | PropFirmRules.io',
+      '/demo-3': 'Goat Funded Trader Research Terminal v3 — Verified Rules & Risk Simulator | PropFirmRules.io',
+      '/demo': 'Goat Funded Trader Visual Rules Demo | PropFirmRules.io',
     };
     if (currentPath.startsWith('/prop-firms/')) {
       const slug = currentPath.split('/prop-firms/')[1]?.split('/')[0];
@@ -105,9 +110,17 @@ export const App: React.FC = () => {
 
   const navigate = (path: string) => {
     window.history.pushState({}, '', path);
-    setCurrentPath(path);
+    setCurrentPath(window.location.pathname || '/');
     const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+    // Scroll restoration: top on route change; anchor scroll when hash present
+    requestAnimationFrame(() => {
+      const hash = window.location.hash;
+      if (hash) {
+        const el = document.querySelector(hash);
+        if (el) { el.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' }); return; }
+      }
+      window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+    });
   };
 
   const handleOpenSource = (evidence: SourceEvidence, ruleTitle: string) => {
@@ -165,175 +178,77 @@ export const App: React.FC = () => {
       return <PropFirmsListPage onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
+    // 1.7 Third Demo Page (V3 Research Terminal): /demo-3, /demo3, /demo-v3, /v3, /research, /prop-firms/goat-funded-trader/demo-3
+    if (
+      currentPath === '/demo-3' ||
+      currentPath === '/demo3' ||
+      currentPath === '/demo-v3' ||
+      currentPath === '/v3' ||
+      currentPath === '/goat-research' ||
+      currentPath === '/research' ||
+      currentPath.startsWith('/prop-firms/goat-funded-trader/demo-3') ||
+      currentPath.startsWith('/prop-firms/goat-funded-trader/v3')
+    ) {
+      return <GoatResearchTerminalV3Page onNavigate={navigate} onOpenSource={handleOpenSource} />;
+    }
+
+    // 1.8 Demo Visual Rules Route: /demo-rules or /prop-firms/goat-funded-trader/demo
+    if (
+      currentPath === '/demo-rules' ||
+      currentPath === '/demo' ||
+      currentPath === '/goat-rules-demo' ||
+      currentPath.startsWith('/prop-firms/goat-funded-trader/demo')
+    ) {
+      return <GoatRulesDemoPage onNavigate={navigate} onOpenSource={handleOpenSource} />;
+    }
+
+    // 1.9 Classic / Original Goat Firm Detail Route: /prop-firms/goat-funded-trader/classic, /original, /legacy, /v1
+    if (
+      currentPath === '/prop-firms/goat-funded-trader/classic' ||
+      currentPath === '/prop-firms/goat-funded-trader/original' ||
+      currentPath === '/prop-firms/goat-funded-trader/legacy' ||
+      currentPath === '/prop-firms/goat-funded-trader/v1'
+    ) {
+      const targetFirm: any = PROP_FIRMS_DATA.find((f) => f.slug === 'goat-funded-trader') as any;
+      return <FirmDetailPage firm={targetFirm} onNavigate={navigate} onOpenSource={handleOpenSource} />;
+    }
+
+    // 1.95 Main Goat Funded Trader Route -> Research Terminal v3 (The #1 comprehensive research station)
+    if (
+      currentPath === '/prop-firms/goat-funded-trader' ||
+      currentPath === '/prop-firms/goat-funded-trader/'
+    ) {
+      return <GoatResearchTerminalV3Page onNavigate={navigate} onOpenSource={handleOpenSource} />;
+    }
+
     // 2. Firm Detail Route: /prop-firms/:slug
     if (currentPath.startsWith('/prop-firms/')) {
-      const slug = currentPath.replace('/prop-firms/', '').split('/')[0];
-      let targetFirm: any = PROP_FIRMS_DATA.find((f) => f.slug === slug) as any;
-      // Fallback to real scraped data without fabricating or cloning GFT rules
+      const rawSlug = currentPath.replace('/prop-firms/', '').split('/')[0];
+      const slug = (rawSlug || '').split('?')[0].split('#')[0];
+      const targetFirm: any = PROP_FIRMS_DATA.find((f) => f.slug === slug) as any;
+      // Directory-only firms: never fabricate rules, prices, websites, or verification.
+      // Show honest Unknown state with directory metadata + verification warning.
       if (!targetFirm) {
-        const rf: any = (REAL_FIRMS as any[]).find((r: any) => r.slug === slug);
+        const rf: any = (REAL_FIRMS as unknown as any[]).find((r: any) => r.slug === slug);
         if (rf) {
-          const progTypes: string[] = rf.programType || [];
-          const mappedPrograms = progTypes.slice(0, 3).map((pt: string, idx: number) => {
-            const normPt = pt.replace('2_Steps', '2-Step').replace('3_Steps', '3-Step');
-            return {
-              id: rf.slug + '-prog-' + idx,
-              firmId: rf.slug,
-              name: normPt,
-              slug: normPt.toLowerCase().replace(/\s+/g, '-'),
-              programType: normPt as any,
-              description: normPt + ' program via ' + rf.name,
-              stagesCount: normPt.includes('2-Step') ? 2 : normPt.includes('3-Step') ? 3 : 1,
-              keyAdvantages: ['Direct provider integration', 'Active challenge model'],
-              primaryWatchouts: ['Rules currently under direct verification'],
-              accounts: [
-                {
-                  id: rf.slug + '-acc-' + idx + '-100k',
-                  programId: rf.slug + '-prog-' + idx,
-                  name: '$100K ' + normPt,
-                  nominalSize: 100000,
-                  currency: 'USD',
-                  price: 499,
-                  refundableFee: true,
-                  profitTargetPhase1: normPt.includes('1-Step') ? 10 : 8,
-                  profitTargetPhase2: normPt.includes('2-Step') ? 5 : undefined,
-                  dailyLossLimit: 4,
-                  dailyLossCalculation: 'balance_based',
-                  maxTotalLoss: 8,
-                  drawdownType: 'static',
-                  minimumTradingDays: 0,
-                  maximumTradingDays: 'Unlimited',
-                  profitSplit: 80,
-                  profitSplitMaxWithAddon: 90,
-                  payoutFrequency: 'Bi-weekly',
-                  firstPayoutConditions: 'Standard active days and profit threshold',
-                  payoutMinimum: 100,
-                  newsTradingRule: 'Allowed',
-                  newsTradingDetail: 'Verify red-folder policy on official support portal',
-                  weekendHolding: true,
-                  overnightHolding: true,
-                  eaAllowed: true,
-                  copyTradingAllowed: false,
-                  hedgingAllowed: true,
-                  inactivityLimitDays: 30,
-                  leverage: '1:100',
-                  platforms: rf.platforms || ['MetaTrader 5'],
-                  instruments: ['Forex', 'Indices', 'Commodities'],
-                  rules: [],
-                  sources: [],
-                  lastVerified: '2026-08-28',
-                }
-              ],
-            };
-          });
-
-          targetFirm = {
-            id: rf.id,
-            name: rf.name,
-            slug: rf.slug,
-            brandName: rf.name.split(' ')[0].slice(0, 8).toUpperCase(),
-            country: rf.country || 'Global',
-            countryFlag: rf.countryFlag || 'https://flagcdn.com/w80/un.png',
-            logoUrl: rf.logoUrl,
-            logoAlt: rf.name,
-            maxAllocation: rf.maxAllocation || 400000,
-            foundedYear: rf.foundedYear || 2022,
-            marketType: rf.marketType || 'Multi-Asset',
-            headquarters: rf.country === 'US' ? 'USA' : rf.country === 'AE' ? 'UAE • Dubai' : rf.country === 'GB' ? 'UK • London' : rf.country === 'CZ' ? 'Czech Republic' : rf.country === 'HK' ? 'Hong Kong' : rf.country || 'Global',
-            ceoName: rf.name + ' Leadership',
-            platforms: rf.platforms || ['MetaTrader 5'],
-            website: 'https://' + rf.slug.replace(/-/g, '') + '.com',
-            supportUrl: 'https://' + rf.slug.replace(/-/g, '') + '.com/contact',
-            helpCenterUrl: 'https://help.' + rf.slug.replace(/-/g, '') + '.com',
-            status: 'ACTIVE',
-            confidenceRating: 'B',
-            supportedCountriesCount: 180,
-            restrictedCountries: ['US', 'IR', 'KP'],
-            programs: mappedPrograms.length ? mappedPrograms : [
-              {
-                id: rf.slug + '-prog-std',
-                firmId: rf.slug,
-                name: 'Standard Evaluation',
-                slug: 'standard',
-                programType: '2-Step',
-                description: 'Standard 2-Step challenge provided by ' + rf.name,
-                stagesCount: 2,
-                keyAdvantages: ['Industry standard targets', 'Direct payout support'],
-                primaryWatchouts: ['Verify drawdown reset timezone with official support'],
-                accounts: [
-                  {
-                    id: rf.slug + '-acc-100k',
-                    programId: rf.slug + '-prog-std',
-                    name: '$100K Evaluation',
-                    nominalSize: 100000,
-                    currency: 'USD',
-                    price: 499,
-                    refundableFee: true,
-                    profitTargetPhase1: 8,
-                    profitTargetPhase2: 5,
-                    dailyLossLimit: 4,
-                    dailyLossCalculation: 'balance_based',
-                    maxTotalLoss: 8,
-                    drawdownType: 'static',
-                    minimumTradingDays: 0,
-                    maximumTradingDays: 'Unlimited',
-                    profitSplit: 80,
-                    payoutFrequency: 'Bi-weekly',
-                    firstPayoutConditions: 'Active trading days and minimum profit threshold',
-                    payoutMinimum: 100,
-                    newsTradingRule: 'Allowed',
-                    newsTradingDetail: 'Consult official help center for red-folder restriction updates',
-                    weekendHolding: true,
-                    overnightHolding: true,
-                    eaAllowed: true,
-                    copyTradingAllowed: false,
-                    hedgingAllowed: true,
-                    inactivityLimitDays: 30,
-                    leverage: '1:100',
-                    platforms: rf.platforms || ['MetaTrader 5'],
-                    instruments: ['Forex', 'Indices', 'Commodities'],
-                    rules: [],
-                    sources: [],
-                    lastVerified: '2026-08-28',
-                  }
-                ]
-              }
-            ],
-            rules: [], // Clean: do NOT inject GFT rules
-            easyToMissRules: [],
-            conflicts: [],
-            legalEntities: [{
-              name: rf.name + ' Operating Entity',
-              companyNumber: 'Registration Pending Audit',
-              jurisdiction: rf.country || 'Global',
-              registeredAddress: 'Official registered address pending audit',
-              role: 'Proprietary Trading Firm Provider'
-            }],
-            reviewsOverview: {
-              averageRating: rf.reviewScore || 4.2,
-              totalReviews: rf.reviewsCount || 100,
-              recentReviews: [],
-              complaintThemeBreakdown: [],
-            },
-            scorecard: {
-              riskScore: 70,
-              payoutScore: 75,
-              tradingFreedomScore: 75,
-              ruleComplexityScore: 60,
-              transparencyScore: 70,
-              traderExperienceScore: 75,
-              overallScore: rf.trustScore || 75,
-              scoreExplanations: {},
-            },
-            recentChanges: [],
-            totalPayoutsReported: '$' + ((rf.maxAllocation || 400000) / 100000).toFixed(1) + 'M capacity',
-            activeTradersReported: Math.round((rf.reviewsCount || 500) / 10) + 'k+ reported',
-            tagline: rf.promoDesc || `${rf.name} trading programs and verified parameters`,
-            activePromo: rf.discount ? { code: rf.promoCode || 'PROMO', discount: rf.discount + '% OFF', details: rf.promoDesc || '' } : undefined,
-          };
+          return (
+            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-5">
+              <div className="p-5 rounded-2xl bg-amber-500/[0.07] border border-amber-500/25 space-y-2">
+                <p className="text-sm font-semibold text-amber-200">Rules under verification</p>
+                <p className="text-xs leading-relaxed text-amber-100/80">Do not rely on this data for a trading or purchase decision until the source has been reviewed. {rf.name} is listed in the directory, but its rules have not yet been verified from official sources. Unknown must remain unknown.</p>
+              </div>
+              <div className="p-6 rounded-2xl bg-[#111318] border border-[#1F2228] space-y-3">
+                <h1 className="text-2xl font-bold text-white">{rf.name}</h1>
+                <p className="text-sm text-white/60">Directory metadata only — trust score {rf.trustScore ?? 'Unknown'} · {rf.reviewsCount ?? 0} reviews · {Array.isArray(rf.platforms) ? rf.platforms.join(', ') : 'Platforms unknown'}</p>
+                <p className="text-xs text-white/40">Verification status: Unknown · Program details: Not publicly verified · Pricing: Unknown · Drawdown: Unknown · Payout: Unknown</p>
+                <div className="flex flex-wrap gap-2 pt-2">
+                  <button onClick={() => navigate('/prop-firms')} className="px-5 py-2.5 rounded-xl bg-white text-[#080A10] text-sm font-semibold">Back to directory</button>
+                  <button onClick={() => navigate('/compare')} className="px-5 py-2.5 rounded-xl bg-[#111318] border border-[#1F2228] text-sm text-white/70">Compare verified firms</button>
+                </div>
+              </div>
+            </div>
+          );
         }
-      }
-      if (!targetFirm) {
         return (
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center space-y-4">
             <h1 className="text-2xl font-bold text-white">Firm not found</h1>
@@ -449,13 +364,13 @@ export const App: React.FC = () => {
   };
 
   return (
-    <div className="min-h-[100dvh] bg-[#080A10] text-slate-100 flex flex-col overflow-x-hidden">
+    <div className="min-h-[100dvh] bg-[#080A10] text-slate-100 flex flex-col overflow-x-clip">
       <Navbar
         currentPath={currentPath}
         onNavigate={navigate}
         onOpenSearch={() => setIsSearchOpen(true)}
       />
-      <main className="flex-1 pt-4 sm:pt-6 pb-safe w-full max-w-[100vw] overflow-x-hidden">
+      <main className="flex-1 pt-4 sm:pt-6 pb-safe w-full max-w-[100vw] overflow-x-clip">
         <Suspense fallback={<PageSkeleton />}>
           {renderCurrentView()}
         </Suspense>

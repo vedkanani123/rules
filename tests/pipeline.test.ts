@@ -29,8 +29,8 @@ describe('Rule Pipeline & Conflict Engine', () => {
     ]);
 
     expect(conflicts.length).toBeGreaterThan(0);
-    expect(conflicts[0].id).toBe('conflict-news-trading');
-    expect(conflicts[0].sourceA.sourceType).toBe('OFFICIAL_PROMOTIONAL');
-    expect(conflicts[0].sourceB.sourceType).toBe('OFFICIAL_SUPPORT');
+    // Generic engine orders sourceA = most authoritative (SUPPORT outranks PROMOTIONAL)
+    expect(conflicts[0].sourceA.sourceType).toBe('OFFICIAL_SUPPORT');
+    expect(conflicts[0].sourceB.sourceType).toBe('OFFICIAL_PROMOTIONAL');
   });
 });

@@ -1,0 +1,14 @@
+TITLE: Trading Platforms | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/collections/19685956-trading-platforms
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Learn more about platform setup and usage
+CANONICAL: https://intercom.help/aquafutures-help-center/en/collections/19685956-trading-platforms
+HEADINGS:
+- Trading Platforms
+- DeepChart
+- Tradovate
+- NinjaTrader
+- TradingView
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTrading PlatformsLearn more about platform setup and usage25 articlesAquaFutures' Platform OverviewDeepChartHow to trade on DeepchartsDeepcharts FAQDeepcharts Login/Installation InstructionsGetting started with DeepchartsTradovateHow to Log In and Log Out of TradovateHow to Place and Close Trades in TradovateHow to Set and Manage Stop Loss & Take Profit in TradovateHow to Trade Using the DOM and Chart in TradovateWhy Are My Trades Being Rejected?How to Check Why an Order Was Rejected in TradovateHow to Use ATM (Automated Trading Module) in TradovateHow to Review Your Trading Performance in TradovateUnderstanding Risk Settings in TradovateHow to Place and Manage Limit Orders in TradovateNinjaTraderHow to Log In and Log Out of NinjaTraderHow to Place and Close Trades in NinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderTradingViewHow to Connect and Disconnect TradingViewHow to Place and Close Trades in TradingViewHow to Use Charts in TradingViewHow to Set and Manage Stop Loss and Take Profit in TradingViewHow to Use Limit Orders in TradingViewTrade with our Capital and keep 100% of the ProfitWe run on Fin

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from '../data/propFirmsData.ts';
+import { getCanonicalStats } from '../core/canonical/store.ts';
 import { SourceEvidence } from '../types/schema.ts';
 import { PropFirmsTable } from '../components/directory/PropFirmsTable.tsx';
 import { RiskSimulator } from '../components/simulator/RiskSimulator.tsx';
@@ -58,6 +59,7 @@ export const HomePage: React.FC<HomePageProps> = ({
   onOpenSource,
 }) => {
   const goatFirm = PROP_FIRMS_DATA[0];
+  const canonical = getCanonicalStats();
   const hiddenRules = goatFirm.rules.filter(
     (r) =>
       r.isEasyToMiss &&
@@ -184,7 +186,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                   onClick={() => onNavigate('/prop-firms')}
                   className="inline-flex items-center justify-center min-h-[48px] px-6 rounded-xl bg-transparent hover:bg-white/[0.04] border border-white/12 text-white/80 hover:text-white text-[14px] font-medium transition-colors"
                 >
-                  Explore All 20+ Firms
+                  Explore All {PROP_FIRMS_DATA.length} Firms
                 </button>
                 <button
                   type="button"
@@ -201,15 +203,15 @@ export const HomePage: React.FC<HomePageProps> = ({
               <div className="mt-6 max-w-[460px]">
                 <div className="grid grid-cols-3 gap-px rounded-xl overflow-hidden bg-[#1F2228] border border-[#1F2228]">
                   <div className="bg-[#111318] px-3 py-3">
-                    <p className="text-[17px] font-semibold tabular-nums tracking-tight text-white leading-none">35</p>
-                    <p className="mt-1.5 text-[10px] leading-snug text-white/40">pages verified</p>
+                    <p className="text-[17px] font-semibold tabular-nums tracking-tight text-white leading-none">{canonical.rules}</p>
+                    <p className="mt-1.5 text-[10px] leading-snug text-white/40">rules verified</p>
                   </div>
                   <div className="bg-[#111318] px-3 py-3">
-                    <p className="text-[17px] font-semibold tabular-nums tracking-tight text-white leading-none">4</p>
-                    <p className="mt-1.5 text-[10px] leading-snug text-white/40">sources checked</p>
+                    <p className="text-[17px] font-semibold tabular-nums tracking-tight text-white leading-none">{canonical.firms}</p>
+                    <p className="mt-1.5 text-[10px] leading-snug text-white/40">firms indexed</p>
                   </div>
                   <div className="bg-[#111318] px-3 py-3">
-                    <p className="text-[17px] font-semibold tracking-tight text-white leading-none">Today</p>
+                    <p className="text-[17px] font-semibold tracking-tight text-white leading-none truncate">{canonical.lastVerified !== 'Unknown' ? canonical.lastVerified : 'Pending'}</p>
                     <p className="mt-1.5 text-[10px] leading-snug text-white/40">last verified</p>
                   </div>
                 </div>

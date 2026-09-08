@@ -1,0 +1,4220 @@
+{
+  "seedUrl": "https://helpfutures.blueguardian.com/en",
+  "host": "helpfutures.blueguardian.com",
+  "status": "completed",
+  "generatedAt": "2026-09-07T10:55:25.825Z",
+  "exportOptions": {
+    "readableText": true,
+    "originalHtml": true,
+    "sameSiteAssets": true
+  },
+  "limits": {
+    "maxPageBytes": 5242880,
+    "maxAssetBytes": 15728640,
+    "maxTotalAssetBytes": 262144000,
+    "maxAssetsPerPage": 250
+  },
+  "pages": [
+    {
+      "url": "https://helpfutures.blueguardian.com/en",
+      "title": "Home | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0001-en.txt",
+      "htmlFile": "html/0001-en.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880871/362f80e0722395311ebc7f429b38/98aa19f4e45199daf74b2c5109222296.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:folder/000000",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880469/6fee09db57dd662effc3069c3dec/7d2893d4ea648ba3ff6e5e16e1fac885.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880873/9bc0668a85c2ffba2769ae0cb230/bf2b643e61291435ba6e8d1ac8815a16.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880471/cded9ce477710fa9ad360bc9d46b/92884b2bec6f1d3d7def1a47f9fdb408.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880468/f31e59b598d57e021e7a3864638a/28c843ad8efbf9de04bf1f9e17c2705a.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/3497-a406f6acf685113a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/landing-0f1b8e93b38420a1.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/collections/19014082-getting-started",
+      "title": "Getting Started | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0002-en-collections-19014082-getting-started.txt",
+      "htmlFile": "html/0002-en-collections-19014082-getting-started.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880871/362f80e0722395311ebc7f429b38/98aa19f4e45199daf74b2c5109222296.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/collections/19674238-account-model",
+      "title": "Account Model | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0003-en-collections-19674238-account-model.txt",
+      "htmlFile": "html/0003-en-collections-19674238-account-model.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:folder/000000",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/collections/19048351-trading-platforms",
+      "title": "Trading Platforms | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0004-en-collections-19048351-trading-platforms.txt",
+      "htmlFile": "html/0004-en-collections-19048351-trading-platforms.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880469/6fee09db57dd662effc3069c3dec/7d2893d4ea648ba3ff6e5e16e1fac885.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/collections/19048484-trader-evaluations",
+      "title": "Trader Evaluations | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0005-en-collections-19048484-trader-evaluations.txt",
+      "htmlFile": "html/0005-en-collections-19048484-trader-evaluations.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880873/9bc0668a85c2ffba2769ae0cb230/bf2b643e61291435ba6e8d1ac8815a16.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/collections/19048757-funded-accounts",
+      "title": "Funded Accounts | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0006-en-collections-19048757-funded-accounts.txt",
+      "htmlFile": "html/0006-en-collections-19048757-funded-accounts.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880471/cded9ce477710fa9ad360bc9d46b/92884b2bec6f1d3d7def1a47f9fdb408.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/collections/19048828-payouts",
+      "title": "Payouts | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0007-en-collections-19048828-payouts.txt",
+      "htmlFile": "html/0007-en-collections-19048828-payouts.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/880468/f31e59b598d57e021e7a3864638a/28c843ad8efbf9de04bf1f9e17c2705a.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/collections/%5BcollectionSlug%5D-66fc73d467b92309.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15805753-introduction-to-blue-guardian-futures",
+      "title": "Introduction to Blue Guardian Futures | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0008-en-articles-15805753-introduction-to-blue-guardian-futures.txt",
+      "htmlFile": "html/0008-en-articles-15805753-introduction-to-blue-guardian-futures.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15693969-how-does-bundle-pricing-work",
+      "title": "How does Bundle Pricing work? | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0009-en-articles-15693969-how-does-bundle-pricing-work.txt",
+      "htmlFile": "html/0009-en-articles-15693969-how-does-bundle-pricing-work.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14095259-blue-guardian-futures-affiliate-program",
+      "title": "Blue Guardian Futures Affiliate Program | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0010-en-articles-14095259-blue-guardian-futures-affiliate-program.txt",
+      "htmlFile": "html/0010-en-articles-14095259-blue-guardian-futures-affiliate-program.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14095336-futures-instrument-list-codes",
+      "title": "Futures Instrument List & Codes | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0011-en-articles-14095336-futures-instrument-list-codes.txt",
+      "htmlFile": "html/0011-en-articles-14095336-futures-instrument-list-codes.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15654479-standard-account-rules",
+      "title": "Standard Account Rules | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0012-en-articles-15654479-standard-account-rules.txt",
+      "htmlFile": "html/0012-en-articles-15654479-standard-account-rules.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15678716-reserve-account-rules",
+      "title": "Reserve Account Rules | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0013-en-articles-15678716-reserve-account-rules.txt",
+      "htmlFile": "html/0013-en-articles-15678716-reserve-account-rules.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15679143-express-account-rules",
+      "title": "Express Account Rules | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0014-en-articles-15679143-express-account-rules.txt",
+      "htmlFile": "html/0014-en-articles-15679143-express-account-rules.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15679519-direct-account-rules",
+      "title": "Direct Account Rules | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0015-en-articles-15679519-direct-account-rules.txt",
+      "htmlFile": "html/0015-en-articles-15679519-direct-account-rules.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15756854-legacy-account-models-old-account",
+      "title": "Legacy Account Models (Old account) | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0016-en-articles-15756854-legacy-account-models-old-account.txt",
+      "htmlFile": "html/0016-en-articles-15756854-legacy-account-models-old-account.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15806594-blue-guardian-futures-trading-platforms",
+      "title": "Blue Guardian Futures Trading Platforms | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0017-en-articles-15806594-blue-guardian-futures-trading-platforms.txt",
+      "htmlFile": "html/0017-en-articles-15806594-blue-guardian-futures-trading-platforms.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110289-prohibited-trading-strategies",
+      "title": "Prohibited Trading Strategies | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0018-en-articles-14110289-prohibited-trading-strategies.txt",
+      "htmlFile": "html/0018-en-articles-14110289-prohibited-trading-strategies.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110305-can-someone-else-trade-my-account",
+      "title": "Can someone else trade my account? | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0019-en-articles-14110305-can-someone-else-trade-my-account.txt",
+      "htmlFile": "html/0019-en-articles-14110305-can-someone-else-trade-my-account.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110365-trading-hours",
+      "title": "Trading Hours | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0020-en-articles-14110365-trading-hours.txt",
+      "htmlFile": "html/0020-en-articles-14110365-trading-hours.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15773431-contract-limits-funded-scaling-system",
+      "title": "Contract Limits & Funded Scaling System | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0021-en-articles-15773431-contract-limits-funded-scaling-system.txt",
+      "htmlFile": "html/0021-en-articles-15773431-contract-limits-funded-scaling-system.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110436-how-many-funded-accounts-am-i-allowed-at-once",
+      "title": "How Many Funded Accounts Am I Allowed at once? | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0022-en-articles-14110436-how-many-funded-accounts-am-i-allowed-at-once.txt",
+      "htmlFile": "html/0022-en-articles-14110436-how-many-funded-accounts-am-i-allowed-at-once.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15679961-what-is-the-blue-guardian-futures-live-account",
+      "title": "What is the Blue Guardian Futures Live Account? | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0023-en-articles-15679961-what-is-the-blue-guardian-futures-live-account.txt",
+      "htmlFile": "html/0023-en-articles-15679961-what-is-the-blue-guardian-futures-live-account.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110452-2-price-limit-rule",
+      "title": "2% Price Limit Rule | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0024-en-articles-14110452-2-price-limit-rule.txt",
+      "htmlFile": "html/0024-en-articles-14110452-2-price-limit-rule.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110476-risk-management-stoploss-take-profit-trailing",
+      "title": "Risk management, Stoploss, Take Profit, Trailing | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0025-en-articles-14110476-risk-management-stoploss-take-profit-trailing.txt",
+      "htmlFile": "html/0025-en-articles-14110476-risk-management-stoploss-take-profit-trailing.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110485-risk-to-reward-ratio-s",
+      "title": "Risk to Reward Ratio's | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0026-en-articles-14110485-risk-to-reward-ratio-s.txt",
+      "htmlFile": "html/0026-en-articles-14110485-risk-to-reward-ratio-s.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/15772960-payout-policy",
+      "title": "Payout Policy | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0027-en-articles-15772960-payout-policy.txt",
+      "htmlFile": "html/0027-en-articles-15772960-payout-policy.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+          "file": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/en/articles/14110645-24-hours-payout-guarantee",
+      "title": "24 Hours Payout Guarantee | Blue Guardian | Futures",
+      "status": 200,
+      "textFile": "txt/0028-en-articles-14110645-24-hours-payout-guarantee.txt",
+      "htmlFile": "html/0028-en-articles-14110645-24-hours-payout-guarantee.html",
+      "assetReferences": [
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919439/4b413b864a3efeef03b224262baf/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://downloads.intercomcdn.com/i/o/lf439nkq/919440/db6af77e51c2c1ce639f037a93de/c9c2bce82b74978a3e87079f2ce6e52b.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-twitter-x/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-youtube/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://intercom.help/blueguardian-futures/assets/svg/icon:social-instagram/ffffff",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/assets/educate/educate-favicon-64x64-at-2x-927537d8befbba4d43f480bd5281dfe502b9153f2a430582f3f92daa34b916f7.png",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/379035380de04cb0.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/css/aca6b59773c71079.css",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/1353.00860067b95d9454.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/webpack-3116add69de1973a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/framework-e17a833229380640.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/main-c48e8c54e5b30d64.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/_app-258c28c3b384529f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/0f5396a4-fde11be1c3fd610f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/2478-fd05cb20e00c7a4f.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/4125-559539645ba18ad2.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/6553-f41cc2ab3899ab26.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8703-86e01196ed8de39a.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/8869-2f36176e493e1f76.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/7630-7d261dc238da0573.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/chunks/pages/%5BhelpCenterIdentifier%5D/%5Blocale%5D/articles/%5BarticleSlug%5D-805d763622169e9b.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_buildManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://static.intercomassets.com/_next/static/kttn8XiCrIxhyEYwUpwX8/_ssgManifest.js",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
+          "file": null,
+          "error": "External asset host was not downloaded."
+        }
+      ]
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection",
+      "title": "Email Protection | Cloudflare",
+      "status": 404,
+      "textFile": "txt/0029-cdn-cgi-l-email-protection.txt",
+      "htmlFile": "html/0029-cdn-cgi-l-email-protection.html",
+      "assetReferences": [
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/styles/cf.errors.css",
+          "file": "assets/00003-cdn-cgi-styles-cf-errors-css.css",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+          "file": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/icon-exclamation.png?1376755637",
+          "file": "assets/00004-cdn-cgi-images-icon-exclamation-png-1376755637.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-horizontal-arrow.png",
+          "file": "assets/00005-cdn-cgi-images-cf-icon-horizontal-arrow-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/browser-bar.png?1376755637",
+          "file": "assets/00006-cdn-cgi-images-browser-bar-png-1376755637.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+          "file": "assets/00007-cdn-cgi-images-cf-no-screenshot-warn-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-no-screenshot-error.png",
+          "file": "assets/00008-cdn-cgi-images-cf-no-screenshot-error-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-ok.png",
+          "file": "assets/00009-cdn-cgi-images-cf-icon-ok-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-error.png",
+          "file": "assets/00010-cdn-cgi-images-cf-icon-error-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-browser.png",
+          "file": "assets/00011-cdn-cgi-images-cf-icon-browser-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-cloud.png",
+          "file": "assets/00012-cdn-cgi-images-cf-icon-cloud-png.png",
+          "error": null
+        },
+        {
+          "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-server.png",
+          "file": "assets/00013-cdn-cgi-images-cf-icon-server-png.png",
+          "error": null
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/en",
+        "https://helpfutures.blueguardian.com/en/collections/19014082-getting-started",
+        "https://helpfutures.blueguardian.com/en/collections/19674238-account-model",
+        "https://helpfutures.blueguardian.com/en/collections/19048351-trading-platforms",
+        "https://helpfutures.blueguardian.com/en/collections/19048484-trader-evaluations",
+        "https://helpfutures.blueguardian.com/en/collections/19048757-funded-accounts",
+        "https://helpfutures.blueguardian.com/en/collections/19048828-payouts",
+        "https://helpfutures.blueguardian.com/en/articles/15805753-introduction-to-blue-guardian-futures",
+        "https://helpfutures.blueguardian.com/en/articles/15693969-how-does-bundle-pricing-work",
+        "https://helpfutures.blueguardian.com/en/articles/14095259-blue-guardian-futures-affiliate-program",
+        "https://helpfutures.blueguardian.com/en/articles/14095336-futures-instrument-list-codes",
+        "https://helpfutures.blueguardian.com/en/articles/15654479-standard-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15678716-reserve-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15679143-express-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15679519-direct-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15756854-legacy-account-models-old-account",
+        "https://helpfutures.blueguardian.com/en/articles/15806594-blue-guardian-futures-trading-platforms",
+        "https://helpfutures.blueguardian.com/en/articles/14110289-prohibited-trading-strategies",
+        "https://helpfutures.blueguardian.com/en/articles/14110305-can-someone-else-trade-my-account",
+        "https://helpfutures.blueguardian.com/en/articles/14110365-trading-hours",
+        "https://helpfutures.blueguardian.com/en/articles/15773431-contract-limits-funded-scaling-system",
+        "https://helpfutures.blueguardian.com/en/articles/14110436-how-many-funded-accounts-am-i-allowed-at-once",
+        "https://helpfutures.blueguardian.com/en/articles/15679961-what-is-the-blue-guardian-futures-live-account",
+        "https://helpfutures.blueguardian.com/en/articles/14110452-2-price-limit-rule",
+        "https://helpfutures.blueguardian.com/en/articles/14110476-risk-management-stoploss-take-profit-trailing",
+        "https://helpfutures.blueguardian.com/en/articles/14110485-risk-to-reward-ratio-s",
+        "https://helpfutures.blueguardian.com/en/articles/15772960-payout-policy",
+        "https://helpfutures.blueguardian.com/en/articles/14110645-24-hours-payout-guarantee",
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00001-cdn-cgi-scripts-7d0fa10a-cloudflare-static-rocket-loader-min-js.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "bytes": 12332,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/en/articles/15805753-introduction-to-blue-guardian-futures",
+        "https://helpfutures.blueguardian.com/en/articles/14095259-blue-guardian-futures-affiliate-program",
+        "https://helpfutures.blueguardian.com/en/articles/15654479-standard-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15678716-reserve-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15679143-express-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15679519-direct-account-rules",
+        "https://helpfutures.blueguardian.com/en/articles/15756854-legacy-account-models-old-account",
+        "https://helpfutures.blueguardian.com/en/articles/15806594-blue-guardian-futures-trading-platforms",
+        "https://helpfutures.blueguardian.com/en/articles/14110289-prohibited-trading-strategies",
+        "https://helpfutures.blueguardian.com/en/articles/15773431-contract-limits-funded-scaling-system",
+        "https://helpfutures.blueguardian.com/en/articles/14110436-how-many-funded-accounts-am-i-allowed-at-once",
+        "https://helpfutures.blueguardian.com/en/articles/15679961-what-is-the-blue-guardian-futures-live-account",
+        "https://helpfutures.blueguardian.com/en/articles/15772960-payout-policy"
+      ],
+      "fileName": "assets/00002-cdn-cgi-scripts-5c5dd728-cloudflare-static-email-decode-min-js.js",
+      "contentType": "application/javascript",
+      "status": 200,
+      "bytes": 1239,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/styles/cf.errors.css",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00003-cdn-cgi-styles-cf-errors-css.css",
+      "contentType": "text/css",
+      "status": 200,
+      "bytes": 24051,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/icon-exclamation.png?1376755637",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00004-cdn-cgi-images-icon-exclamation-png-1376755637.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 452,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-horizontal-arrow.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00005-cdn-cgi-images-cf-icon-horizontal-arrow-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 537,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/browser-bar.png?1376755637",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00006-cdn-cgi-images-browser-bar-png-1376755637.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 715,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-no-screenshot-warn.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00007-cdn-cgi-images-cf-no-screenshot-warn-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 2592,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-no-screenshot-error.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00008-cdn-cgi-images-cf-no-screenshot-error-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 3213,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-ok.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00009-cdn-cgi-images-cf-icon-ok-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 946,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-error.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00010-cdn-cgi-images-cf-icon-error-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 854,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-browser.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00011-cdn-cgi-images-cf-icon-browser-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 484,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-cloud.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00012-cdn-cgi-images-cf-icon-cloud-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 1484,
+      "error": null
+    },
+    {
+      "url": "https://helpfutures.blueguardian.com/cdn-cgi/images/cf-icon-server.png",
+      "sourcePageUrls": [
+        "https://helpfutures.blueguardian.com/cdn-cgi/l/email-protection"
+      ],
+      "fileName": "assets/00013-cdn-cgi-images-cf-icon-server-png.png",
+      "contentType": "image/png",
+      "status": 200,
+      "bytes": 1384,
+      "error": null
+    }
+  ]
+}

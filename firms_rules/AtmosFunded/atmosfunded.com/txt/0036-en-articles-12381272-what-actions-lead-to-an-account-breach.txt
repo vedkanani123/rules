@@ -1,0 +1,13 @@
+TITLE: What Actions Lead to an Account Breach? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381272-what-actions-lead-to-an-account-breach
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381272-what-actions-lead-to-an-account-breach
+HEADINGS:
+- What Actions Lead to an Account Breach?
+- 🚨 Breach Triggers
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsTrading Styles & RestrictionsWhat Actions Lead to an Account Breach?What Actions Lead to an Account Breach? Updated over 2 weeks agoTable of contentsAn account breach happens if you violate Atmos Fundeds trading rules. Breaches close the account immediately and profits are forfeited.⚡ OverviewBreaches occur if you exceed daily loss, max drawdown, or prohibited trading behaviors. 🚨 Breach Triggers❌ Daily loss exceeded (e.g., 3% or 5%).❌ Total max drawdown exceeded (static or trailing).❌ Trading news within ±2 minutes. (leads to soft breach & profit deduction)❌ Using banned strategies (arbitrage, latency abuse, ...).❌ Hedging between multiple accounts.💡 Example$100,000 2-Step Standard accountDaily loss limit = $5,000You lose $5,200 in one day → account breachedRelated Articles1-Step Standard Challenge2-Step Standard Challenge2-Step Plus ChallengeInstant FundingWhat Happens If I Breach My Account?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

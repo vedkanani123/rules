@@ -1,0 +1,2141 @@
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+E8 Markets prop firm logo
+E8 Markets
+
+Set as Favorite
+Leave a Review
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+35197
+CEO
+
+Dylan Elchami
+Country
+
+country-flag
+United States
+
+Trustpilot
+
+n/a
+
+Date Created
+
+Nov 2021
+Years in Operation
+
+4
+4.8
+
+486
+
+total reviews
+
+5
+
+405
+
+4
+
+62
+
+3
+
+9
+
+2
+
+3
+
+1
+
+7
+
+No payout delays
+New Offer
+10% OFF
+E8 Markets prop firm logo
+E8 Markets
+4.8
+
+486
+
+10% off on all accounts
+
+
+Code
+MATCH
+Overview
+Challenges
+20
+Reviews
+486
+Offers
+1
+Payouts
+New
+Discussions
+0
+E8 Markets Prop Firm Details
+Firm Overview
+Instruments and Assets
+Leverage
+Commissions
+Consistency Rules
+Firm Rules
+Challenges
+Payout Policy
+Restricted Countries
+AI Summary
+E8 Markets Firm AI Summary
+E8 Markets, established in November 2021 and based in the United States, offers CFD trading through Match Trader, cTrader, MT5, and TradeLocker platforms. The firm provides 1-step, 2-step, and 3-step evaluation programs with account sizes ranging from $25,000 to $250,000. For the 2-step evaluation, profit targets are 8% in Phase 1 and 5% in Phase 2, while the 3-step evaluation adds a third 5% target phase. Maximum total drawdown ranges from 8% to 10%. Traders can access Forex, Commodities,...
+
+Show More
+Firm Overview
+
+Broker:
+
+Liquidity ProviderLiquidity Provider
+Platform:
+
+cTradercTrader
+Match TraderMatch Trader
+MT5MT5
+TradeLockerTradeLocker
+Payment Methods:
+
+Apple PayApple Pay
+Credit/Debit CardCredit/Debit Card
+CryptoCrypto
+Google PayGoogle Pay
+NuveiNuvei
+Payout Methods:
+
+RiseworksRiseworks
+WorkMarketWorkMarket
+Instruments and Assets
+
+Type of Instruments:
+
+CFD
+Assets:
+
+FX
+Metals
+Indices
+Energy
+Crypto
+Leverage
+
+Assets	Instant	1-Step	2-Steps	3-Steps
+FX	
+n/a
+
+1:30
+
+n/a
+
+n/a
+
+Metals	
+n/a
+
+1:15
+
+n/a
+
+n/a
+
+Indices	
+n/a
+
+1:15
+
+n/a
+
+n/a
+
+Energy	
+n/a
+
+1:15
+
+n/a
+
+n/a
+
+Crypto	
+n/a
+
+1:1
+
+n/a
+
+n/a
+
+Learn More About E8 Markets Leverage
+Commissions
+
+FX
+
+Standard spreads accounts : Free | Raw spread accounts: $5/lot
+
+Metals
+
+Standard spreads accounts : Free | Raw spread accounts: $6/lot
+
+Indices
+
+Standard spreads accounts : Free | Raw spread accounts: $6/lot( Nas, S&P, Dax, Nikkei), $12/LOT(DOW Jones, Australia 200 indices)
+
+Energy
+
+Standard spreads accounts : Free | Raw spread accounts: $6/lot
+
+Crypto
+
+Standard spreads accounts : Free | Raw spread accounts: $35/lot on Crypto Programs, $30/Lot on Forex programs
+
+Consistency Rules
+
+E8 One:
+
+A consistency rule of 40% applies, that means that one trading day can not equal or be greater than 40% of the total profits made. (Funded)
+E8 Signature:
+
+A consistency rule of 35% applies, that means that one trading day can not equal or be greater than 35% of the total profits made. (Funded)
+Firm Rules
+
+Max Position Size
+
+50 lots per order for FX and indices
+20 lots per order for XAUUSD
+Independent Evaluation
+
+Each trading evaluation must be completed independently.
+Server Request Limitation
+
+There is a limit of 100 orders you can enter at a time, 2000 modifications of TP/SL and orders per day.
+The maximum position limit per day is also 2000.
+Risk Management
+
+Risking your entire daily drawdown on a single trade is not permitted.
+Engaging in prohibited trading practices will result in termination from our program and a refund of the fee paid from the account where this rule was broken.
+Hedging
+
+Hedging across multiple accounts, even those belonging to the same trader, is strictly prohibited.
+Trade Duration
+
+You cannot hold more than 50% of your trades for under one minute.
+Risk Exposure Limitation
+
+E8 reserves the right to de-risk trading strategies by limiting risk exposure to no more than 1% per trade idea or time horizon if prohibited practices are detected.
+E8 Trader Stage Account Exceeds Profit Threshold
+
+If your account's profits surpass the Dynamic Drawdown value, you can request a payout of all profits earned. However, you should leave a drawdown buffer in the account to continue trading. If you withdraw all your profits, it will result in the closure of the account.
+E8 Pro
+
+2% Daily Profit cap: In each day, the maximum profit you can make is 2%. If you make more, only 2% will be counted towards your profit target.
+Static Drawdown: The drawdown does not trail upward and remains fixed at your starting balance until your first payout is requested. Once the first payout is processed, the drawdown is locked at the initial balance level. For every payout request, 50% of the profits are paid out to you, while the remaining 50% stays in the account as a buffer to help maintain the drawdown threshold.
+Copy Trading
+
+Copy trading is not allowed between E8 evaluation accounts, as each evaluation must be traded independently; however, you may copy trades between your own personal account, E8 Trader accounts, or between a funded and evaluation account, provided the trades originate from your own accounts.
+EAs (Expert Advisors)
+
+Allowed: You can also use any EA (Expert Advisor) as long as we don't see multiple users executing the same trades/strategy. We limit one strategy per user, so if we see multiple users utilize the same EA, it may lead to the termination of your account. So even though the use of third-party EA is allowed, we recommend that each user use their own programmed EA. 
+News Trading
+
+Allowed on E8 One evaluation stage, E8 Pro, E8 Signature.
+Not allowed in E8 One Funded stage 5 minutes before or after high-impact news.
+E8 Signature:
+
+Overnight and weekend trading is not allowed.
+Inactivity
+
+After 60 days of inactivity, the account is disabled and there is no entitlement to a refund.
+Challenges
+
+E8 Markets - E8 Pro - 1-Step 500K
+$2,338.20
+
+$2,598.00
+
+E8 Markets - E8 Pro - 1-Step 400K
+$1,888.20
+
+$2,098.00
+
+E8 Markets - E8 Pro - 1-Step 5K
+$28.80
+
+$32.00
+
+E8 Markets - E8 Signature - Forex - 1-Step 25K
+$99.00
+
+$110.00
+
+E8 Markets - E8 Signature - Forex - 1-Step 150K
+$351.00
+
+$390.00
+
+E8 Markets - E8 Signature - Forex - 1-Step 100K
+$234.00
+
+$260.00
+
+E8 Markets - E8 Signature - Forex - 1-Step 50K
+$135.00
+
+$150.00
+
+E8 Markets - E8 One Forex - 1-Step 500K
+$1,798.20
+
+$1,998.00
+
+E8 Markets - E8 Pro - 1-Step 50K
+$205.20
+
+$228.00
+
+E8 Markets - E8 Pro - 1-Step 200K
+$898.20
+
+$998.00
+
+Payout Policy
+
+E8 Signature
+
+A consistency rule of 35% applies, with at least 5 profitable days required, each achieving at least 0.3% profit, along with a buffer equal to the end-of-day trailing drawdown.
+Minimum payout amounts: $100
+Payout caps and buffer: https://intercom.help/e8/en/articles/11940573-payout-caps-and-buffers-for-e8-signature-explained
+E8 One
+
+A consistency rule of 40% and your net profit (payout share) must be greater than 50% of your daily drawdown.
+Minimum payout amount: $100
+If your profits exceed the Trailing Drawdown, you can request a payout. However, you must leave enough funds as a drawdown buffer, removing all profits will trigger account closure.
+E8 Pro
+
+Payouts are available daily, with a minimum profit requirement of 1% and when you request a payout, 50% is your payout, and 50% is kept in the account as a buffer.
+Restricted Countries
+
+AfghanistanAfghanistan
+AlbaniaAlbania
+AlgeriaAlgeria
+BelarusBelarus
+BurundiBurundi
+Central African RepublicCentral African Republic
+CongoCongo
+CubaCuba
+Democratic Republic of the Congo (Congo Free State)Democratic Republic of the Congo (Congo Free State)
+EthiopiaEthiopia
+IranIran
+IraqIraq
+KosovoKosovo
+LebanonLebanon
+LibyaLibya
+MaliMali
+Midway Islands
+
+Myanmar (Burma)Myanmar (Burma)
+NicaraguaNicaragua
+North KoreaNorth Korea
+PakistanPakistan
+RussiaRussia
+SamoaSamoa
+SomaliaSomalia
+South SudanSouth Sudan
+SudanSudan
+SyriaSyria
+UkraineUkraine
+United Arab EmiratesUnited Arab Emirates
+Vatican CityVatican City
+VenezuelaVenezuela
+West Bank
+
+Western SaharaWestern Sahara
+YemenYemen
+ZambiaZambia
+
+Additional Information
+
+Discover everything you need to know about E8 Markets. This page covers all the essentials in one place, including broker details, available trading platforms, payout structures, payment methods, supported instruments, leverage, commissions, and key firm rules.
+
+Whether you are evaluating E8 Markets for the first time or comparing it with other top prop firms, you will find accurate, up-to-date information to help you decide if it is the right fit for your trading goals.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+E8 Markets prop firm logo
+E8 Markets
+
+Set as Favorite
+Leave a Review
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+35197
+CEO
+
+Dylan Elchami
+Country
+
+country-flag
+United States
+
+Trustpilot
+
+n/a
+
+Date Created
+
+Nov 2021
+Years in Operation
+
+4
+4.8
+
+486
+
+total reviews
+
+5
+
+405
+
+4
+
+62
+
+3
+
+9
+
+2
+
+3
+
+1
+
+7
+
+No payout delays
+New Offer
+10% OFF
+E8 Markets prop firm logo
+E8 Markets
+4.8
+
+486
+
+10% off on all accounts
+
+
+Code
+MATCH
+Overview
+Challenges
+20
+Reviews
+486
+Offers
+1
+Payouts
+New
+Discussions
+0
+E8 Markets Challenges
+
+Assets:
+Select
+
+Size:
+Select
+
+Steps:
+Select
+
+Program:
+Select
+
+Apply Discount
+
+Popularity
+Customize
+Challenges 20
+Firm / Rank
+Account Size
+Steps
+Profit Target
+Daily Loss
+Max Loss
+Max Loss Type
+PT:DD
+Profit Split
+Payout Freq.
+Loyalty PTS
+Popularity
+
+Price
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+100K
+1 Step
+
+
+8%
+2.5%
+8%
+Static
+1:1
+
+80%
+
+
+Payout-On-Demand: Net profit should be greater than 1% of the initial account balance
+234
+
+Not tracked
+
+$439.20
+
+$488.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+25K
+1 Step
+
+
+8%
+2.5%
+8%
+Static
+1:1
+
+80%
+
+
+Payout-On-Demand: Net profit should be greater than 1% of the initial account balance
+61
+
+Not tracked
+
+$133.20
+
+$148.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+50K
+1 Step
+
+
+8%
+2.5%
+8%
+Static
+1:1
+
+80%
+
+
+Payout-On-Demand: Net profit should be greater than 1% of the initial account balance
+94
+
+Not tracked
+
+$205.20
+
+$228.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+10K
+1 Step
+
+
+8%
+2.5%
+8%
+Static
+1:1
+
+80%
+
+
+Payout-On-Demand: Net profit should be greater than 1% of the initial account balance
+28
+
+Not tracked
+
+$61.20
+
+$68.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+50K
+1 Step
+
+
+9%
+4%
+
+6%
+
+Trailing Balance
+1:0.67
+
+80%
+
+
+Payout-On-Demand: No single day profit should exceed 40% of total profit Net profit should be greater than 50% of the daily drawdown.
+119
+
+Not tracked
+
+$259.20
+
+$288.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+10K
+1 Step
+
+
+9%
+4%
+
+6%
+
+Trailing Balance
+1:0.67
+
+80%
+
+
+Payout-On-Demand: No single day profit should exceed 40% of total profit Net profit should be greater than 50% of the daily drawdown.
+36
+
+Not tracked
+
+$79.20
+
+$88.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+5K
+1 Step
+
+
+9%
+4%
+
+6%
+
+Trailing Balance
+1:0.67
+
+80%
+
+
+Payout-On-Demand: No single day profit should exceed 40% of total profit Net profit should be greater than 50% of the daily drawdown.
+20
+
+Not tracked
+
+$43.20
+
+$48.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+100K
+1 Step
+
+
+9%
+4%
+6%
+
+Trailing Balance
+1:0.67
+
+80%
+
+
+Payout-On-Demand: No single day profit should exceed 40% of total profit Net profit should be greater than 50% of the daily drawdown.
+201
+
+Not tracked
+
+$439.20
+
+$488.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+25K
+1 Step
+
+
+9%
+4%
+
+6%
+
+Trailing Balance
+1:0.67
+
+80%
+
+
+Payout-On-Demand: No single day profit should exceed 40% of total profit Net profit should be greater than 50% of the daily drawdown.
+78
+
+Not tracked
+
+$169.20
+
+$188.00
+
+
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+486
+
+
+200K
+1 Step
+
+
+9%
+4%
+
+6%
+
+Trailing Balance
+1:0.67
+
+80%
+
+
+Payout-On-Demand: No single day profit should exceed 40% of total profit Net profit should be greater than 50% of the daily drawdown.
+329
+
+Not tracked
+
+$718.20
+
+$798.00
+
+
+Buy
+Previous
+1
+2
+Next
+
+Additional Information
+
+A full overview of all the challenges offered by E8 Markets. You'll find up-to-date details for each challenge, including account size, number of steps, profit target, daily and maximum loss limits, profit split, payout frequency, loyalty points, and price. Whether you are new to the firm or comparing different challenge structures, this resource helps you quickly identify the options that fit your trading style, risk tolerance, and goals.
+
+Choosing the right challenge is a critical step toward securing a funded trading account. The structure — from account size and profit target to drawdown limits and payout frequency — will directly influence how you trade and manage risk during the evaluation. A challenge that aligns with your strategy can improve your chances of passing and progressing to the funded stage.
+
+All challenges listed on Prop Firm Match are based on verified information from the firms themselves and are updated regularly to ensure accuracy. Our goal is to give traders a clear, side-by-side view of the available options, making it easier to compare not only across challenges from the same firm but also with those from other top prop firms.
+
+Use the filters on this page to refine your search by asset type, account size, step count, or program type. This allows you to focus on the most relevant challenges and avoid sifting through options that don't fit your needs.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+E8 Markets Challenges from $29 - 20 Plans Compared | Prop Firm Match
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+E8 Markets prop firm logo
+E8 Markets
+
+Set as Favorite
+Leave a Review
+Buy
+E8 Markets prop firm logo
+E8 Markets
+
+35197
+CEO
+
+Dylan Elchami
+Country
+
+country-flag
+United States
+
+Trustpilot
+
+n/a
+
+Date Created
+
+Nov 2021
+Years in Operation
+
+4
+4.8
+
+486
+
+total reviews
+
+5
+
+405
+
+4
+
+62
+
+3
+
+9
+
+2
+
+3
+
+1
+
+7
+
+No payout delays
+New Offer
+10% OFF
+E8 Markets prop firm logo
+E8 Markets
+4.8
+
+486
+
+10% off on all accounts
+
+
+Code
+MATCH
+Overview
+Challenges
+20
+Reviews
+486
+Offers
+1
+Payouts
+New
+Discussions
+0
+E8 Markets Reviews
+AI Summary
+Good
+E8 Markets Reviews AI Summary
+Traders consistently praise E8 Markets for transparent rules, fast payout processing, and responsive customer support. Reviews frequently mention "no hidden rules," clear trading parameters, and quick credential delivery after passing evaluations. The dashboard receives positive feedback for being user-friendly and providing real-time statistics. Payout speed stands out as a major strength, with many traders reporting withdrawals processed within 24-72 hours and some receiving funds the same...
+
+Show More
+Reviews486
+
+Sort by
+
+
+Newest to Oldest
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+Kin
+MY
+Malaysia
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+September 4th, 2026
+I joined E8 Market because recommend by my mentor. Very happy to start my prop firm acct with E8 market. E8 Market is a reliable prop firm and very helpful support.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+Reliability and Helpful Support
+
+Least Liked Aspect
+None
+
+5.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Y
+Yavuz
+TR
+Türkiye
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$500K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+September 4th, 2026
+Honestly, it’s a great firm for me. They have a variety of account types to suit everyone. Since I’m most comfortable with the One account type, that’s the one I always go for. When it comes to payouts, they’re clear and fast — they’re usually approved within 1–2 days and the money is deposited directly into your account.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+Payout speed.
+
+Least Liked Aspect
+Nothing
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+Angelot
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$50K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+September 3rd, 2026
+It was not easy to find a good prop firm to trade with. I have tried other prop firms people are claiming are really good, but they failed me. Their trading conditions were not good at all, and their customer care were super bad.... I came across E8 after seeing two of my friends trading with them and I decided to give it try. Good trading conditions, good customer care, easy and fast payout. Simply a prop firm doing it well.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+Their trading conditions and the customer care and their accounts types.
+
+Least Liked Aspect
+Them not giving more big coupons lol
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+Tài
+VN
+Vietnam
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+August 29th, 2026
+I am truly impressed and want to have a long-term relationship with E8 Market because of its professionalism, quick support, and clear and transparent fund regulations. This really gives me peace of mind in trading, creating a foundation for a stable mindset in the face of market fluctuations. I have achieved some success at E8 Market and I am truly grateful to E8 for providing me with such a wonderful trading environment.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+3 Months +
+
+Payout Count
+6
+
+Number of Firms Funded With
+3
+
+Top Firm Aspect
+What I like most about E8 Market is its transparent rules, favorable conditions for traders, professional support, and fast payouts.
+
+Least Liked Aspect
+Currently, I have no complaints about the E8 market.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+Zak
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+August 27th, 2026
+one of the best firms out there. Great team, very fair rules, simple interfaces, good spreads. good customer care. look forward to the future with them A++
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+no hidden silly rules
+
+Least Liked Aspect
+can not fault them in anyway
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+Lwandiso
+ZA
+South Africa
+2 reviews
+Reviews
+Reviews
+4.0
+
+Trader’s Satisfaction
+
+Account Size
+$50K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 25th, 2026
+My experience with E8 Markets has been positive, with decent trading conditions (Room for improvement), responsive customer service. Easy to use Dashboard
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+3
+
+Top Firm Aspect
+Easy to use Dashboard
+
+Least Liked Aspect
+Trading Conditions
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+3.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+T
+Tyler
+US
+United States
+1 reviews
+Reviews
+Reviews
+1.0
+
+Trader’s Satisfaction
+
+Account Size
+$400K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+August 24th, 2026
+My experience with E8 Markets was extremely disappointing, particularly because of how the trading rules were handled after I had already passed the evaluation. I purchased and successfully passed an evaluation based on the rules and risk parameters presented to me at the time, including a 14% drawdown allowance. After passing, however, E8 introduced an additional restriction that limited how I could trade. I was notified of this new rule by email and was required to agree to the updated terms. The issue became much more significant when I generat...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+The dashboard was nice.
+
+Least Liked Aspect
+My biggest concern is not simply that E8 has risk-management rules. Prop firms are entitled to establish trading parameters, and traders are responsible for following the rules they agree to. My concern is that the restriction affecting my payout was introduced after I had already purchased and passed my evaluation under a different set of conditions. Had the 1% per-trade-idea restriction and the potential reduction of a payout to 25% been clearly disclosed as part of the original rules when I purchased the evaluation, I could have incorporated that restriction into my trading strategy—or decided whether the account was appropriate for me in the first place. Instead, I paid for an account offering a 14% drawdown structure, passed the evaluation, traded profitably, and then encountered an additional risk restriction that materially affected how much of my requested $16,500 payout I was allowed to receive.
+
+5.0
+
+User Friendliness
+
+1.0
+
+Payout Process
+
+1.0
+
+Customer Care
+
+1.0
+
+Trading Conditions
+
+Report
+Denied Amount
+
+$13,200
+Reason
+
+Payout Denial
+Denied Reason
+
+Single trade idea was more than 1%
+
+Summary
+
+They changed the rules on me after I passed the evaluation to limit my trading. They sent it in an email and made me agree to the new said terms in an email. After I requested a payout of $16,500 I had to agree to only accept 25% because I “went over the new rule” and traded more than 1% on a single trade idea. Even though I paid for 14% drawdown. You must agree to these “new terms” via email or you cannot access your new account.
+
+Documents From Reporter
+
+
+Imageicon
+1
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+shree
+IN
+India
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$25K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++2
+August 14th, 2026
+I am using this prop firm since 2023 this is very good prop firm ever.. payouts very smoothly process and trusted prop firm..E8 Markets is a popular prop firm known for its user-friendly dashboard and fast payouts, but its strict consistency rules and equity-based drawdown require disciplined risk management.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+3
+
+Number of Firms Funded With
+1
+
+Top Firm Aspect
+No hidden rules no payouts fraud
+
+Least Liked Aspect
+Payout cycle and risk management
+
+4.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+4.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+P
+Piyushix
+IN
+India
+2 reviews
+Reviews
+Reviews
+1.0
+
+Trader’s Satisfaction
+
+Account Size
+$25K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+July 28th, 2026
+I bought an E8 Pro account thinking I was getting a fair deal — 6% max drawdown and 100% payout. That’s what was advertised. That’s what showed on the account details after I passed the challenge. Max drawdown listed as 6% ($1,500), daily drawdown $625. Clear. Straightforward. Then I took my first payout. Suddenly there’s a hidden rule buried deep in the FAQs that the drawdown resets back to the initial balance after the first withdrawal. So the 6% protection I was sold basically disappears the moment I actually get paid. This is the exact shady, de...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+2
+
+Funding Period
+Less 1 Month
+
+Payout Count
+2
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+nothing
+
+Least Liked Aspect
+everything
+
+1.0
+
+User Friendliness
+
+1.0
+
+Payout Process
+
+1.0
+
+Customer Care
+
+1.0
+
+Trading Conditions
+
+E8 Markets prop firm logo
+E8 Markets
+
+4.8
+
+Reviewer profile
+Nour
+EG
+Egypt
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$500K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+July 25th, 2026
+Very clear rules After more than twelve years of experience in trading, I can honestly say that this company is one of the very few that are extremely reputable in this field. My regards to all e8 team 💪🏻💪🏻
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+Every thing is possible
+
+Least Liked Aspect
+Great place
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Previous
+1
+2
+More pages
+49
+Next
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+E8 Markets Reviews: 4.8★ from 486 Verified Traders | Prop Firm Match

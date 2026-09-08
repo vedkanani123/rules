@@ -152,6 +152,8 @@ export interface AccountTier {
   nominalSize: number;
   currency: string;
   price: number;
+  /** When true, price is not publicly verified — UI must render "Unknown", never $0. */
+  priceUnknown?: boolean;
   discountedPrice?: number;
   discountCode?: string;
   refundableFee: boolean;
@@ -232,6 +234,7 @@ export interface PropFirm {
   headquarters: string;
   country: string;
   countryFlag: string;
+  logoUrl?: string;
   foundedYear: number;
   ceoName: string;
   status: 'ACTIVE' | 'CAUTION' | 'RESTRICTED' | 'DISCONTINUED';

@@ -1,0 +1,13 @@
+TITLE: Are Hedging Strategies Allowed? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381256-are-hedging-strategies-allowed
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381256-are-hedging-strategies-allowed
+HEADINGS:
+- Are Hedging Strategies Allowed?
+- ✅ Allowed
+- 🚫 Not Allowed
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsTrading Styles & RestrictionsAre Hedging Strategies Allowed?Are Hedging Strategies Allowed? Updated over 2 weeks agoTable of contentsAtmos Funded permits hedging within the same account but prohibits abusive hedging strategies that exploit multiple accounts or latency.⚡ Overview✅ You can hedge trades inside one account. 🚫 You cannot hedge across multiple Atmos accounts or with external brokers or other firms. ✅ AllowedOpening buy and sell positions on the same instrument in your Atmos account.🚫 Not AllowedHedging across two Atmos accounts (self-hedge abuse).Hedging between Atmos and another broker or firm to exploit price differences.Related ArticlesWhat trading strategies are allowed?Can I Hold Trades Overnight and Over Weekends?Can I Use Expert Advisors (EA)What Actions Lead to an Account Breach?What Are Prohibited Strategies?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

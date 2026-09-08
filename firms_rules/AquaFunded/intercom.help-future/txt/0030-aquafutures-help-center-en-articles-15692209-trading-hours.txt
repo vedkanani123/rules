@@ -1,0 +1,16 @@
+TITLE: Trading Hours | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15692209-trading-hours
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15692209-trading-hours
+HEADINGS:
+- Trading Hours
+- Day-by-Day Trading Hours (UTC)
+- Day 1
+- Day 2
+- Day 3
+- Day 4
+- Day 5
+- Trading Hours by Region
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesTrading HoursTrading Hours June 29, 2026Table of contentsThe market is regularly open from Sunday 10pm (UTC) to Friday 8:10pm (UTC), unless there are specific holiday hours during the week.​All open trades will automatically close when the market closes.This automatic closure does not count as a rule violation and will not result in an account breach.Trading will resume when the market opens the following day. Day-by-Day Trading Hours (UTC)Day 1Market opens at 10pm UTC Sunday, and closes at 8:10pm UTC Monday.Day 2Market opens at 10pm UTC Monday, and closes at 8:10pm UTC Tuesday.Day 3Market opens at 10pm UTC Tuesday, and closes at 8:10pm UTC Wednesday.Day 4Market opens at 10pm UTC Wednesday., and closes at 8:10pm UTC Thursday.Day 5Market opens at 10pm UTC Thursday, and closes at 8:10pm UTC Friday. Trading Hours by Region(local times may shift seasonally if your country observes daylight savings) United States/Canada (Pacific):Market closes at 1:10 PM PTMarket reopens at 3:00 PM PTUnited States/Canada (Eastern):Market closes at 4:10 PM ETMarket reopens at 6:00 PM ETBrazil (BRT):Market closes at 5:10 PM BRTMarket reopens at 7:00 PM BRTEurope (CET/CEST):Market closes at 10:10 PM CET (11:10 PM during CEST)Market reopens at 12:00 AM CET (1:00 AM during CEST)India (IST):Market closes at 1:40 AM ISTMarket reopens at 3:30 AM ISTRelated ArticlesWhat is the Rapid Review Guarantee?Did this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

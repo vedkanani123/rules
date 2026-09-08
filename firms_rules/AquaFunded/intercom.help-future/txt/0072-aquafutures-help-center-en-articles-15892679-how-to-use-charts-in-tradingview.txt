@@ -1,0 +1,32 @@
+TITLE: How to Use Charts in TradingView | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892679-how-to-use-charts-in-tradingview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892679-how-to-use-charts-in-tradingview
+HEADINGS:
+- How to Use Charts in TradingView
+- Step 1: Open a Market Chart
+- Search for an Instrument
+- Step 2: Select a Chart Type
+- How to Change Chart Type
+- Step 3: Change the Timeframe
+- How to Change Timeframes
+- Step 4: Customize Chart Appearance
+- Open Chart Settings
+- Available Customization Options
+- Step 5: Add Indicators
+- How to Add Indicators
+- Step 6: Use Drawing Tools
+- Access Drawing Tools
+- Common Drawing Tools
+- Step 7: Save Your Chart Layout
+- Save Your Workspace
+- Step 8: Refresh Chart Data
+- Refresh the Chart
+- Step 9: Use Multiple Charts
+- Open Multiple Charts
+- Switching Between Markets
+- Managing Your Workspace
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradingViewHow to Use Charts in TradingViewHow to Use Charts in TradingView July 10, 2026Table of contentsTradingView charts provide powerful tools for market analysis and trade planning. You can customize chart layouts, apply indicators, draw key levels, and monitor multiple markets from a single workspace.This guide covers the essential chart features every trader should know.Step 1: Open a Market ChartSearch for an InstrumentOpen TradingView.Click the search bar at the top of the platform.Enter the symbol or name of the market you want to analyze.Select the desired instrument from the results.Examples:NQMNQESMESCLThe selected market will open on your chart.Step 2: Select a Chart TypeTradingView offers several chart styles to suit different trading approaches.​How to Change Chart TypeClick the chart type selector above the chart.Choose your preferred chart style.Available chart types include:CandlestickBarLineHeikin AshiRenkoAreaBaselineMany traders prefer Candlestick charts because they provide detailed price information.Step 3: Change the TimeframeTimeframes determine how much market data is displayed on each candle or bar.​How to Change TimeframesClick the timeframe selector above the chart.Choose your preferred timeframe.Common options include:1 Minute5 Minutes15 Minutes1 Hour4 HoursDailyWeeklyYou can switch between timeframes at any time to analyze different market perspectives.Step 4: Customize Chart AppearanceTradingView allows you to personalize the appearance of your charts.​Open Chart SettingsClick the Settings (⚙) icon.Open the Appearance section.Available Customization OptionsYou can adjust:Candle colorsBackground colorsGridlinesPrice scalesText and labelsSession separatorsCustomize the chart to match your preferred trading environment.Step 5: Add IndicatorsIndicators can help traders analyze market conditions and identify potential opportunities.​How to Add IndicatorsClick Indicators on the top toolbar.Search for the desired indicator.Click the indicator to add it to the chart.Popular indicators include:Moving AveragesRSI (Relative Strength Index)MACDBollinger BandsVolumeVolume ProfileYou can add multiple indicators and customize their settings.Step 6: Use Drawing ToolsDrawing tools help traders mark important price levels and chart patterns.​Access Drawing ToolsUse the toolbar located on the left side of the chart.​Common Drawing ToolsTrend LinesHorizontal LevelsSupport and Resistance ZonesFibonacci RetracementsRectanglesText AnnotationsArrows and MarkersThese tools can help improve chart analysis and trade planning.Step 7: Save Your Chart LayoutIf you frequently use the same setup, TradingView allows you to save your layout.​Save Your WorkspaceClick Save Layout.Enter a layout name.Save the configuration.Your charts, indicators, and drawings will be available the next time you log in.Step 8: Refresh Chart DataIf you believe chart data is not updating properly:​Refresh the ChartClick the refresh icon.Or use:Ctrl + R (Windows)Cmd + R (Mac)This reloads the chart and updates market data.Step 9: Use Multiple ChartsTradingView allows traders to monitor several markets simultaneously.​Open Multiple ChartsClick Select Layout.Choose the number of charts you want displayed.You can monitor multiple instruments from a single workspace.​Switching Between MarketsUse your Watchlist to quickly switch between different instruments without rebuilding your charts.Managing Your WorkspaceAs your trading style evolves, you can continue updating:Chart layoutsIndicatorsDrawing toolsWatchlistsTimeframesTradingView automatically saves many of these preferences, helping you maintain a consistent workflow.Need Assistance?If you experience issues with chart layouts, indicators, or platform functionality, please contact TradingView Support. For account-related questions, the AquaFutures Support Team is available to assist you.Related ArticlesHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Connect and Disconnect TradingViewHow to Place and Close Trades in TradingViewHow to Set and Manage Stop Loss and Take Profit in TradingViewHow to Use Limit Orders in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

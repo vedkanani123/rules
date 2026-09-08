@@ -1,0 +1,32 @@
+TITLE: Why Are My Trades Being Rejected? | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892649-why-are-my-trades-being-rejected
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892649-why-are-my-trades-being-rejected
+HEADINGS:
+- Why Are My Trades Being Rejected?
+- 1. Market Data Agreement Not Completed
+- Possible Causes
+- Agreement Not Signed
+- Incorrect User Classification
+- Solution
+- 2. Contract Limit Reached
+- Common Rejection Message
+- Example
+- Solution
+- 3. Account in Liquidation Mode
+- Common Rejection Message
+- What This Means
+- Solution
+- 4. Market Holiday or Exchange Closure
+- Possible Symptoms
+- Solution
+- 5. Trading Outside Market Hours
+- Examples
+- Solution
+- 6. Platform Connection Issues
+- Things to Check
+- How to Find the Exact Rejection Reason
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateWhy Are My Trades Being Rejected?Why Are My Trades Being Rejected? July 9, 2026Table of contentsIf you’re unable to place a trade or receive a rejection message in Tradovate, there is usually a specific reason behind it. Most trade rejections are related to account permissions, contract limits, trading hours, or account restrictions.This guide covers the most common causes and how to resolve them.1. Market Data Agreement Not CompletedOne of the most common reasons traders cannot place trades is an incomplete market data setup.To trade futures contracts, you must complete all required Tradovate market data agreements.​Possible CausesAgreement Not SignedIf the required agreements have not been completed, market data and trading access may not be available.​Incorrect User ClassificationWhen completing the agreements, you must select the correct account type.If the wrong classification is selected, market data access may not be activated correctly.​SolutionReview your Tradovate agreements.Ensure all required forms have been completed.Contact Tradovate Support if any agreement information needs to be corrected.2. Contract Limit ReachedEach AquaFutures account has a maximum number of contracts that can be traded at one time.If you attempt to exceed the allowed contract limit, your order will be rejected.​Common Rejection Message“Maximum order quantity has been reached.”​ExampleIf your account allows:2 Mini Contractsor20 Micro Contractsand you already have the maximum position open, any additional contracts will be rejected.​SolutionReview your currently open positions.Reduce or close existing positions before placing additional orders.Ensure your order size remains within your account’s contract limit.3. Account in Liquidation ModeIf your account has breached a trading rule, trading permissions may be disabled automatically.​Common Rejection Message“Account is set to liquidation only.”​What This MeansYour account may have triggered one of the following:Maximum Loss Limit breachDaily Loss Limit breachAccount liquidation eventOnce liquidation mode is activated, new positions cannot be opened.​SolutionCheck your AquaFutures Dashboard.Review your account status and risk metrics.Contact the Support Team if you believe the restriction was applied incorrectly.4. Market Holiday or Exchange ClosureFutures markets occasionally close for public holidays or scheduled exchange maintenance.During these periods, order placement may be unavailable.​Possible SymptomsOrders fail to submit.Connection timeout messages appear.Certain instruments become unavailable.SolutionBefore trading, check:Recent emails from AquaFuturesOfficial exchange holiday schedulesCommunity announcements and platform updates5. Trading Outside Market HoursEvery futures contract has its own trading schedule.If you attempt to place an order when a market is closed, the order may be rejected automatically.​ExamplesCertain contracts may:Open later than othersClose for daily maintenance periodsHave reduced trading hours on holidaysSolutionVerify that your selected instrument is currently open for trading before submitting an order.6. Platform Connection IssuesIn some cases, orders may be rejected because the platform is not fully connected.​Things to CheckStable internet connectionTradovate connection statusPlatform updatesAccount login statusA temporary connection issue can prevent orders from reaching the exchange.How to Find the Exact Rejection ReasonTradovate normally displays the reason for the rejection directly inside the platform.When an order is rejected:Open the rejection notification.Read the displayed message carefully.Identify the specific cause.Follow the recommended solution.In most cases, the rejection message provides the exact reason the order could not be processed.Need Assistance?If you’re still unsure why your trade was rejected, please contact the AquaFutures Support Team and provide:Your account numberThe instrument tradedA screenshot of the rejection messageOur team will review the issue and help you get back to trading as quickly as possible.Related ArticlesProhibited Trading StrategiesHow to Place and Close Trades in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Check Why an Order Was Rejected in TradovateHow to Place and Close Trades in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

@@ -1,0 +1,30 @@
+TITLE: How to Use ATM (Automated Trading Module) in Tradovate | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892653-how-to-use-atm-automated-trading-module-in-tradovate
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892653-how-to-use-atm-automated-trading-module-in-tradovate
+HEADINGS:
+- How to Use ATM (Automated Trading Module) in Tradovate
+- What Can ATM Do?
+- Creating an ATM Strategy
+- Step 1: Open ATM Settings
+- Step 2: Create a New ATM Template
+- Step 3: Choose Your Display Method
+- Step 4: Configure Your Risk Settings
+- Step 5: Set Your Take Profit Target
+- Step 6: Set Your Stop Loss
+- Step 7: Select a Stop Loss Type
+- Step 8: Save Your Strategy
+- Example ATM Setup
+- Applying an ATM Strategy to a Trade
+- Method 1: Through Advanced Settings
+- Method 2: Through the Trading Panel
+- Managing Active ATM Orders
+- Deleting an ATM Strategy
+- Step 1: Open ATM Management
+- Step 2: Open the ATM List
+- Step 3: Remove the Strategy
+- Benefits of Using ATM Strategies
+- Need Help?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateHow to Use ATM (Automated Trading Module) in TradovateHow to Use ATM (Automated Trading Module) in Tradovate July 10, 2026Table of contentsThe ATM (Automated Trading Module) feature in Tradovate helps traders automate risk management by automatically attaching Stop Loss and Take Profit orders to trades.Instead of manually entering risk parameters every time you open a position, you can create reusable ATM templates and apply them with a single click.This allows for faster execution, improved consistency, and better risk management.What Can ATM Do?An ATM strategy can automatically:Set a Stop LossSet a Take Profit targetApply predefined risk settingsStandardize trade managementReduce manual order entryOnce configured, the selected ATM strategy will automatically apply its settings to every new trade.Creating an ATM StrategyStep 1: Open ATM SettingsOpen Tradovate and navigate to your trading chart.Near the Buy and Sell buttons, locate the ATM section and click the settings (gear) icon.This will open the ATM configuration window.Step 2: Create a New ATM TemplateClick the + button to create a new strategy.Enter a name that helps identify the setup.Examples:Scalping SetupSwing Trade Setup1:2 Risk RewardDaily StrategyStep 3: Choose Your Display MethodTradovate allows ATM values to be displayed in different formats:TicksPrice ValueDollar ValueSelect the format that best matches your trading style.Step 4: Configure Your Risk SettingsChoose whether the ATM should include:Stop Loss onlyTake Profit onlyBoth Stop Loss and Take ProfitMost traders use both for complete trade management.Step 5: Set Your Take Profit TargetEnter the distance or value for your Take Profit order.Example:10 ticks20 ticksCustom value based on your strategyThe Take Profit order will automatically be placed when the trade opens.Step 6: Set Your Stop LossEnter the distance or value for your Stop Loss.Example:10 ticks15 ticksCustom risk amountThis defines the maximum loss allowed for the trade.Step 7: Select a Stop Loss TypeTradovate offers several Stop Loss configurations depending on how you want your trade managed.These options may include:Fixed Stop LossTrailing StopAuto BreakevenOther advanced risk management methodsSelect the option that best fits your trading approach.Step 8: Save Your StrategyAfter completing the setup, click Save.Your ATM template will now be available for future trades.Example ATM SetupLet’s say you want:10 Tick Stop Loss10 Tick Take ProfitYou would:Create a new ATM strategy.Enter a strategy name.Set Stop Loss to 10 ticks.Set Take Profit to 10 ticks.Save the template.The strategy can then be reused whenever needed.Applying an ATM Strategy to a TradeOnce your template is saved, it can be applied before entering a position.Method 1: Through Advanced SettingsOpen the Trading Panel.Navigate to Advanced.Select ATMs.Choose your saved ATM strategy from the dropdown list.The selected template will now be active.Method 2: Through the Trading PanelLocate the ATM selection dropdown near your order entry controls.If it currently displays OFF, select your saved ATM strategy.Once selected, all future trades will use the configured settings until another ATM is chosen or ATM is disabled.Managing Active ATM OrdersWhen an ATM strategy is active and a trade is executed:Stop Loss orders are created automatically.Take Profit orders are created automatically.Orders remain linked to the position.Risk management occurs without additional manual input.You can still modify or remove the orders after the trade has been placed if needed.Deleting an ATM StrategyIf you no longer need a saved ATM template:​Step 1: Open ATM ManagementNavigate to:Advanced → ATMs​Step 2: Open the ATM ListClick the ATM strategy dropdown.​Step 3: Remove the StrategyHover over the strategy you want to delete and click the trash can icon.The ATM template will be permanently removed from your account.Benefits of Using ATM StrategiesUsing ATM templates can help traders:✓ Enter trades faster✓ Maintain consistent risk management✓ Reduce manual errors✓ Automatically place Stop Loss and Take Profit orders✓ Follow a structured trading planNeed Help?If you need assistance creating or managing ATM strategies in Tradovate, the AquaFutures Support Team is available to help.Related ArticlesHow to Place and Close Trades in TradovateHow to Set and Manage Stop Loss & Take Profit in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Review Your Trading Performance in TradovateHow to Set and Manage Stop Loss & Take Profit in NinjaTraderDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

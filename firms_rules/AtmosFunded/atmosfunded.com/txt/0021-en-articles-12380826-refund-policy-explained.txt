@@ -1,0 +1,14 @@
+TITLE: Refund policy explained | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380826-refund-policy-explained
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12380826-refund-policy-explained
+HEADINGS:
+- Refund policy explained
+- 📜 Refund Rules
+- 💡 Example
+- How to Request a Refund
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsPayments & BillingRefund policy explainedRefund policy explained Updated over 2 weeks agoTable of contentsAtmos Funded has a clear and transparent refund policy. ⚡ OverviewRefunds are available only if you have not received or used your trading account. Once an account is issued and trading begins, fees are non-refundable.  📜 Refund Rules✅ Refunds possible if:Payment was duplicated by mistakeTechnical issue prevented account delivery❌ Refunds not possible if:You already received MT5 login details andYou started trading on the accountafter 14 days of purchase  💡 ExampleIf you buy a $50k 2-Step Challenge, but you accidentally purchase it twice, we will refund the duplicate payment.If you already started trading, no refund applies.  How to Request a RefundContact Atmos Support via live chat or email.Provide order number and payment confirmation.Refunds are processed within 5–10 business days (card) or 24–48h (crypto). Related ArticlesHow to log in to MT5How to install MT5 on desktop & mobileHow to sign up & get your first challengeCan I Hold Trades Overnight and Over Weekends?Can I Use Expert Advisors (EA)Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

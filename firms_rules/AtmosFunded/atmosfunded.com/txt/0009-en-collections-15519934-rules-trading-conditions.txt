@@ -1,0 +1,14 @@
+TITLE: Rules & Trading Conditions | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/collections/15519934-rules-trading-conditions
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Profit targets, drawdowns, and trading restrictions explained.
+CANONICAL: https://help.atmosfunded.com/en/collections/15519934-rules-trading-conditions
+HEADINGS:
+- Rules & Trading Conditions
+- Trading Styles & Restrictions
+- Drawdown & Consistency Rules
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsRules & Trading ConditionsProfit targets, drawdowns, and trading restrictions explained.18 articlesTrading Styles & RestrictionsWhat trading strategies are allowed?Drawdowns & Loss Limits - How They WorkWhat Are the Rules for News Trading?Can I Hold Trades Overnight and Over Weekends?Are Hedging Strategies Allowed?Can I Use Expert Advisors (EA)What Actions Lead to an Account Breach?What Are Prohibited Strategies?What Happens If I Breach My Account?What is the Copy Trading Rule?Anti-Gambling policyDrawdown & Consistency RulesWhat is the Daily Loss Limit?What is the Maximum Total Drawdown?Static vs Trailing Drawdown - What's the Difference?What is the Drawdown Lock on Payout?What is the Minimum Trading Days Rule?What is the Consistency Rule?Do I Need to Trade Every Day?AtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

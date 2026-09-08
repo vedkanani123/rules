@@ -1,0 +1,10 @@
+SITE CRAWLER EXPORT
+
+Seed URL: https://help.blueguardian.com/en
+Host: help.blueguardian.com
+Status: completed
+Pages crawled: 25
+Pages succeeded: 25
+Pages failed: 0
+Pages skipped: 0
+Exported: 2026-09-07T10:52:29.252Z

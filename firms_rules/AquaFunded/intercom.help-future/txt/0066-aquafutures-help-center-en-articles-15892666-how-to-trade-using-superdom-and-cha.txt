@@ -1,0 +1,37 @@
+TITLE: How to Trade Using SuperDOM and Charts in NinjaTrader | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892666-how-to-trade-using-superdom-and-charts-in-ninjatrader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892666-how-to-trade-using-superdom-and-charts-in-ninjatrader
+HEADINGS:
+- How to Trade Using SuperDOM and Charts in NinjaTrader
+- What Is the SuperDOM?
+- Why Use the SuperDOM and Chart Together?
+- Chart
+- SuperDOM
+- Setting Up SuperDOM and Charts on Desktop
+- Step 1: Open NinjaTrader
+- Step 2: Open a SuperDOM Window
+- Step 3: Open a Chart Window
+- Step 4: Select Your Instrument
+- Step 5: Arrange Your Workspace
+- Trading with SuperDOM and Charts
+- Analyze the Market Using the Chart
+- Execute Orders Through the SuperDOM
+- Monitor Active Positions
+- Using SuperDOM and Charts on NinjaTrader Web
+- Step 1: Log In
+- Step 2: Open Your Workspace
+- Step 3: Select the Same Instrument
+- Step 4: Analyze and Execute
+- Trading on the Mobile App
+- Step 1: Open the App
+- Step 2: Select an Instrument
+- Step 3: Analyze the Chart
+- Step 4: Place Orders
+- Step 5: Monitor Market Activity
+- Benefits of Trading with SuperDOM and Charts
+- Best Practices
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsNinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTrader July 10, 2026Table of contentsUsing the SuperDOM alongside a Chart is one of the most popular ways to trade futures in NinjaTrader. The Chart helps you analyze market conditions and identify trading opportunities, while the SuperDOM provides fast and precise order execution.Combining both tools allows traders to make informed decisions and manage positions more efficiently.What Is the SuperDOM?SuperDOM (Depth of Market) is NinjaTrader’s advanced order entry interface.It provides real-time market depth and allows traders to:Place Buy and Sell ordersEnter Limit OrdersEnter Stop OrdersMonitor order flowManage open positionsModify or cancel orders quicklyMany active futures traders use the SuperDOM because it allows for fast trade execution directly from the price ladder.Why Use the SuperDOM and Chart Together?Each tool serves a different purpose:ChartUsed for:Price action analysisTrend identificationSupport and resistance levelsTechnical indicatorsTrade planningSuperDOMUsed for:Fast order executionOrder managementMonitoring market depthAdjusting positions in real timeUsing both together creates a complete trading workspace.Setting Up SuperDOM and Charts on DesktopStep 1: Open NinjaTraderLaunch NinjaTrader and connect to your trading account.​Step 2: Open a SuperDOM WindowFrom the Control Center, select:New → SuperDOM​Step 3: Open a Chart WindowFrom the Control Center, select:New → Chart​Step 4: Select Your InstrumentChoose the same futures contract on both windows.Examples include:NQMNQESMESCLStep 5: Arrange Your WorkspacePosition the Chart and SuperDOM side by side.This setup allows you to monitor price action while managing orders from a single screen.Trading with SuperDOM and ChartsAnalyze the Market Using the ChartBefore entering a trade, use the chart to evaluate:Market structureTrend directionSupport and resistance zonesCandlestick patternsTechnical indicatorsThis helps determine whether a trade setup is valid.Execute Orders Through the SuperDOMOnce a setup is identified, use the SuperDOM to place your order.Available order types include:Market OrdersLimit OrdersStop OrdersOrders can be entered directly from the price ladder for faster execution.Monitor Active PositionsAfter entering a trade, you can use:SuperDOMChart TraderPositions Windowto monitor and manage the position.You can adjust:Stop Loss ordersTake Profit ordersEntry ordersPosition sizeat any time.Using SuperDOM and Charts on NinjaTrader WebStep 1: Log InAccess NinjaTrader Web and sign in.​Step 2: Open Your WorkspaceLaunch both:Chart PanelSuperDOM PanelStep 3: Select the Same InstrumentEnsure both panels display the same futures contract.​Step 4: Analyze and ExecuteUse the Chart for analysis and the SuperDOM for order placement and management.You can manage trades from either interface.Trading on the Mobile AppWhile the mobile platform does not include the full desktop SuperDOM experience, traders can still combine chart analysis with order management tools.​Step 1: Open the AppLaunch NinjaTrader Mobile and log in.​Step 2: Select an InstrumentChoose the futures contract you wish to trade.​Step 3: Analyze the ChartUse charting tools to review:Price actionTrendsKey levelsStep 4: Place OrdersUse the available order entry tools to:BuySellModify ordersManage positionsStep 5: Monitor Market ActivityReview market depth and order book information when available to assist with trade decisions.Benefits of Trading with SuperDOM and ChartsUsing both tools together can help traders:✓ Analyze market conditions more effectively✓ Enter trades with greater precision✓ Manage positions faster✓ Monitor order flow in real time✓ Improve overall execution efficiencyBest PracticesFor the best trading experience:Use the Chart for decision-making.Use the SuperDOM for execution.Confirm your order size before entering trades.Always set appropriate risk management levels.Monitor open positions during periods of high volatility.Combining analysis and execution tools can help create a more organized and efficient trading workflow.Need Assistance?If you need help setting up SuperDOM, Chart Trader, or your NinjaTrader workspace, the AquaFutures Support Team is available to assist you. Related ArticlesHow to Trade Using the DOM and Chart in TradovateHow to Place and Close Trades in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderHow to Use Charts in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

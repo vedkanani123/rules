@@ -1,0 +1,14 @@
+TITLE: Can I Use Expert Advisors (EA) | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381265-can-i-use-expert-advisors-ea
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381265-can-i-use-expert-advisors-ea
+HEADINGS:
+- Can I Use Expert Advisors (EA)
+- ✅ Allowed
+- 🚫 Not Allowed
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsTrading Styles & RestrictionsCan I Use Expert Advisors (EA)Can I Use Expert Advisors (EA) Updated over 2 weeks agoTable of contentsAtmos supports the use of Expert Advisors (EAs), bots, but some strategies are not allowed.⚡ Overview✅ You can use EAs. 🚫 You cannot use arbitrage, latency exploitation, or high-frequency toxic flow. ✅ AllowedManual discretionary trading.Copy trading from your own live/demo account.Algorithmic trading with EAs.🚫 Not AllowedLatency arbitrage (price feed abuse).High-frequency trading bots that overload execution.Tick scalping / toxic flow that manipulates fills.💡 Example✅ You connect Atmos MT5 to your own trading account for copy trading.❌ You run an EA that abuses mismatched broker feeds.Related Articles2-Step Standard ChallengeWhat trading strategies are allowed?Are Hedging Strategies Allowed?What Actions Lead to an Account Breach?What Are Prohibited Strategies?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

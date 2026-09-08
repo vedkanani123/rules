@@ -1,0 +1,12 @@
+TITLE: Deepcharts FAQ | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892637-deepcharts-faq
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892637-deepcharts-faq
+HEADINGS:
+- Deepcharts FAQ
+- What Data Feed Does Deepcharts Use?
+- Why Choose Deepcharts and DXFeed?
+- Can I Trade on a Mac?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsDeepChartDeepcharts FAQDeepcharts FAQ July 9, 2026Table of contentsRecognizing the demand for a professional-grade platform tailored to volume-based trading, we identified Volumetrica Trading Platforms as an ideal solution. This platform is both robust and user-friendly, meeting the needs of both new and experienced traders.What Data Feed Does Deepcharts Use?Deepcharts’s desktop application, relies on DXFeed as their primary data source. The web-based version of Volumetrica also uses DXFeed for real-time data, ensuring consistency across all platforms. Why Choose Deepcharts and DXFeed?Deepcharts is delivery superior trading solutions led us to partner with DXFeed, a trusted data provider that ensures smooth, uninterrupted execution. Many traders depend on advanced tools, including footprint charts, time and sales, and Level 2 data, to make well-informed trading decisions. With Volumetrica, we’re providing a platform that upholds the high standards of our trading community. Can I Trade on a Mac?Yes, the web-based version of Deepcharts is fully compatible with Mac devices and works well on Safari. Please Note: Desktop versions of Deepcharts, are designed for Windows but can run on a Mac using Parallels VM. We recommend taking time to thoroughly explore the platform’s features and resources before beginning any trades. For further assistance, feel free to contact our support team.Related ArticlesNews Trading PoliciesAquaFutures' Platform OverviewHow to trade on DeepchartsDeepcharts Login/Installation InstructionsGetting started with DeepchartsDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

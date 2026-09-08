@@ -1,0 +1,28 @@
+TITLE: How to Place and Close Trades in TradingView | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892676-how-to-place-and-close-trades-in-tradingview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892676-how-to-place-and-close-trades-in-tradingview
+HEADINGS:
+- How to Place and Close Trades in TradingView
+- Step 1: Open the Trading Panel
+- How to Place a Buy Trade
+- Using a Market Order
+- Steps
+- Using a Limit Order
+- Steps
+- How to Place a Sell Trade
+- Using a Market Order
+- Steps
+- Using a Limit Order
+- Steps
+- How to View Open Positions
+- How to Close a Trade
+- Step 1: Open Positions
+- Step 2: Locate the Position
+- Step 3: Close the Position
+- Step 4: Confirm
+- Managing Open Orders
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradingViewHow to Place and Close Trades in TradingViewHow to Place and Close Trades in TradingView July 10, 2026Table of contentsOnce your Tradovate account is connected to TradingView, you can place and manage trades directly from the Trading Panel.This guide explains how to enter Buy and Sell positions and how to close active trades.Step 1: Open the Trading PanelOpen TradingView.Navigate to the chart of the instrument you want to trade.Open the Trading Panel located at the bottom of the chart.Verify that Tradovate is selected as your connected broker.How to Place a Buy TradeUsing a Market OrderA Market Order executes immediately at the current market price.​StepsLocate the Buy Market button.Enter your desired contract size if required.Click Buy Market.Confirm the order.Your position will appear in the Positions section once executed.Using a Limit OrderA Limit Order allows you to enter at a specific price.​StepsSelect Limit Order.Enter your desired entry price.Enter your contract quantity.Click Buy.Confirm the order.The order will remain pending until the market reaches your specified price.How to Place a Sell TradeUsing a Market OrderA Market Order executes immediately at the current market price.​StepsLocate the Sell Market button.Enter your desired contract size if required.Click Sell Market.Confirm the order.Your short position will be opened immediately.Using a Limit OrderA Limit Order allows you to sell at a specific price.​StepsSelect Limit Order.Enter your desired price.Enter your contract quantity.Click Sell.Confirm the order.The order will remain active until the market reaches your selected price.How to View Open PositionsTo review your active trades:Open the Orders / Positions section at the bottom of TradingView.Review your active positions, pending orders, and account information.How to Close a TradeStep 1: Open PositionsNavigate to the Orders / Positions section.​Step 2: Locate the PositionFind the trade you want to close.​Step 3: Close the PositionClick the X or Close button next to the position.​Step 4: ConfirmConfirm the action to close the trade.The position will be exited immediately.Managing Open OrdersIf you have a pending order that has not yet been filled:Open the Orders section.Locate the pending order.Modify or cancel the order as needed.Changes will be applied immediately once confirmed.Need Assistance?If you experience any issues placing or managing trades through TradingView, please contact the AquaFutures Support Team for assistance.Related ArticlesHow to Place and Close Trades in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Place and Manage Limit Orders in TradovateHow to Place and Close Trades in NinjaTraderHow to Use Limit Orders in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

@@ -1,0 +1,14 @@
+TITLE: Inactivity Rule | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/16759305-inactivity-rule
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/16759305-inactivity-rule
+HEADINGS:
+- Inactivity Rule
+- How Does the 7-Day Inactivity Rule Work?
+- How Do I Keep My Account Active?
+- Does This Apply to Weekends?
+- What Happens If My Account Is Closed Due to Inactivity?
+- Important
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesInactivity RuleInactivity Rule Updated over a week agoTable of contentsTo keep all AquaFunded Futures accounts active and properly maintained, traders must remain active on their accounts.​How Does the 7-Day Inactivity Rule Work?If no trade is executed on your account for 7 consecutive calendar days, the account will be considered inactive and will automatically closed.The 7-day period begins from the date of your last executed trade.​How Do I Keep My Account Active?Simply execute at least one trade within every 7-day period.There is no minimum profit requirement for this rule. The purpose is only to ensure that the account remains actively used.​Does This Apply to Weekends?Yes. The inactivity period is calculated using calendar days, meaning weekends are included in the 7-day period.​What Happens If My Account Is Closed Due to Inactivity?Accounts closed due to the 7-Day Inactivity Rule cannot be reinstated or reset. Traders will need to purchase a new account if they wish to continue trading.​ImportantIt is the trader’s responsibility to monitor their account activity and ensure that at least one trade is executed before reaching 7 consecutive calendar days of inactivity.Related ArticlesProhibited Trading StrategiesConsistency RuleMinimum Trading Days - On Funded PhaseNews Trading PoliciesHow to Trade Using SuperDOM and Charts in NinjaTraderDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

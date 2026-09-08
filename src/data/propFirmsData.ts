@@ -3,6 +3,17 @@
 
 import { PropFirm, RuleGuideItem } from '../types/schema.ts';
 import { buildParameterRules } from '../core/pipeline/parameterRules.ts';
+import { SHARK_FUNDED } from './sharkFunded.ts';
+import { E8_MARKETS } from './e8Markets.ts';
+import { MONETA_FUNDED } from './monetaFunded.ts';
+import { BRIGHT_FUNDED } from './brightFunded.ts';
+import { LARK_FUNDED } from './larkFunded.ts';
+import { ALPHA_CAPITAL } from './alphaCapitol.ts';
+import { AQUA_FUNDED } from './aquaFunded.ts';
+import { ATMOS_FUNDED } from './atmosFunded.ts';
+import { BLUE_GUARDIAN } from './blueGuardian.ts';
+import { FUNDED_TRADING_PLUS } from './fundedTradingPlus.ts';
+import { REMAINING_FIRMS } from './remainingFirms.ts';
 
 export const PROP_FIRMS_DATA: PropFirm[] = [
   {
@@ -16,6 +27,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Hong Kong & Saint Lucia',
     country: 'Hong Kong',
     countryFlag: 'https://flagcdn.com/w80/hk.png',
+    logoUrl: 'https://media.propfirmmatch.com/user_2s52JelP7NsVT2WTM72aXmiLnJm/k69j70if1eyou2lsfikaphc9/ukleiv6mxkw996z63w878s0g.svg',
     foundedYear: 2023,
     ceoName: 'Edoardo Dalla Torre',
     status: 'ACTIVE',
@@ -1738,6 +1750,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Prague, Czech Republic',
     country: 'Czech Republic',
     countryFlag: 'https://flagcdn.com/w80/cz.png',
+    logoUrl: 'https://www.google.com/s2/favicons?domain=ftmo.com&sz=128',
     foundedYear: 2015,
     ceoName: 'Otakar Šuffner',
     status: 'ACTIVE',
@@ -1851,6 +1864,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Dubai, UAE',
     country: 'United Arab Emirates',
     countryFlag: 'https://flagcdn.com/w80/ae.png',
+    logoUrl: 'https://media.propfirmmatch.com/system/b5filxasbwwrg110uhxvgv4v/675854fe6df8f98dc09b6caf_FundingPips-Logotype.svg',
     foundedYear: 2022,
     ceoName: 'Khaled Aref',
     status: 'ACTIVE',
@@ -1946,6 +1960,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Ajman, UAE & Hong Kong & Limassol, Cyprus',
     country: 'United Arab Emirates',
     countryFlag: 'https://flagcdn.com/w80/ae.png',
+    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/qhbxdzpcco86uuzxsc9yp8v2/Firm=FundedNext,_Category=Prop_Firm.svg',
     foundedYear: 2022,
     ceoName: 'Syed Abdullah Jayed',
     status: 'ACTIVE',
@@ -4538,6 +4553,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Ra\'anana, Israel & London, UK',
     country: 'United Kingdom',
     countryFlag: 'https://flagcdn.com/w80/gb.png',
+    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/d0tfly4u6umzlf9ti03joqhz/jadjbsw5o3buct9yk1zmcfxu.svg',
     foundedYear: 2016,
     ceoName: 'Saul Lokier',
     status: 'ACTIVE',
@@ -4641,6 +4657,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Chicago, Illinois, USA',
     country: 'United States',
     countryFlag: 'https://flagcdn.com/w80/us.png',
+    logoUrl: 'https://www.google.com/s2/favicons?domain=topstep.com&sz=128',
     foundedYear: 2012,
     ceoName: 'Michael Patak',
     status: 'ACTIVE',
@@ -4778,6 +4795,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Orlando, Florida, USA',
     country: 'United States',
     countryFlag: 'https://flagcdn.com/w80/us.png',
+    logoUrl: 'https://www.google.com/s2/favicons?domain=takeprofittrader.com&sz=128',
     foundedYear: 2021,
     ceoName: 'James Sixsmith',
     status: 'ACTIVE',
@@ -4879,6 +4897,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     headquarters: 'Austin, Texas, USA',
     country: 'United States',
     countryFlag: 'https://flagcdn.com/w80/us.png',
+    logoUrl: 'https://www.google.com/s2/favicons?domain=apextraderfunding.com&sz=128',
     foundedYear: 2021,
     ceoName: 'Darrell Martin',
     status: 'ACTIVE',
@@ -4970,108 +4989,17 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     lastVerified: '2026-08-20',
   },
 
-  // Firm 8: Alpha Capital Group
-  {
-    id: 'alpha-capital',
-    name: 'Alpha Capital Group',
-    slug: 'alpha-capital',
-    brandName: 'ACG',
-    website: 'https://alphacapitalgroup.uk',
-    supportUrl: 'https://alphacapitalgroup.uk/contact',
-    headquarters: 'London, United Kingdom',
-    country: 'United Kingdom',
-    countryFlag: 'https://flagcdn.com/w80/gb.png',
-    foundedYear: 2021,
-    ceoName: 'George Baker',
-    status: 'ACTIVE',
-    confidenceRating: 'A',
-    marketType: 'Forex',
-    tagline: 'Zero commission broker with free performance coaching and proprietary dashboard.',
-    activePromo: {
-      code: 'ALPHA15',
-      discount: '15% OFF',
-      details: '15% OFF on Alpha Pro evaluations + 80% default profit split.',
-    },
-    platforms: ['Alpha Trader', 'MetaTrader 5', 'cTrader'],
-    supportedCountriesCount: 175,
-    restrictedCountries: ['United States'],
-    legalEntities: [],
-    scorecard: {
-      riskScore: 84,
-      payoutScore: 86,
-      tradingFreedomScore: 84,
-      ruleComplexityScore: 82,
-      transparencyScore: 88,
-      traderExperienceScore: 87,
-      overallScore: 86,
-      scoreExplanations: {},
-    },
-    programs: [
-      {
-        id: 'prog-acg-pro',
-        firmId: 'alpha-capital',
-        name: 'Alpha Pro 2-Step',
-        slug: 'alpha-pro-2step',
-        programType: '2-Step',
-        description: 'Zero commission 2-step evaluation with balance-based end of day drawdown.',
-        stagesCount: 2,
-        keyAdvantages: ['Zero commissions across FX and metals', 'Balance-based drawdown at 5 PM EST', 'Free coaching sessions'],
-        primaryWatchouts: ['30 days inactivity limit'],
-        accounts: [
-          {
-            id: 'acg-100k',
-            programId: 'prog-acg-pro',
-            name: '$100,000 Alpha Pro',
-            nominalSize: 100000,
-            currency: 'USD',
-            price: 497,
-            discountedPrice: 422,
-            discountCode: 'ALPHA15',
-            refundableFee: true,
-            profitTargetPhase1: 8,
-            profitTargetPhase2: 5,
-            dailyLossLimit: 5,
-            dailyLossCalculation: 'balance_based',
-            maxTotalLoss: 10,
-            drawdownType: 'static',
-            minimumTradingDays: 0,
-            maximumTradingDays: 'Unlimited',
-            profitSplit: 80,
-            profitSplitMaxWithAddon: 90,
-            payoutFrequency: 'Bi-weekly (14 days)',
-            firstPayoutConditions: '14 days after funded start',
-            payoutMinimum: 50,
-            newsTradingRule: 'Allowed',
-            newsTradingDetail: 'News allowed',
-            weekendHolding: true,
-            overnightHolding: true,
-            eaAllowed: true,
-            copyTradingAllowed: false,
-            hedgingAllowed: true,
-            inactivityLimitDays: 30,
-            leverage: '1:100',
-            platforms: ['Alpha Trader', 'MetaTrader 5', 'cTrader'],
-            instruments: ['Forex', 'Indices', 'Metals'],
-            rules: [],
-            sources: [],
-            lastVerified: '2026-08-25',
-          },
-        ],
-      },
-    ],
-    rules: [],
-    easyToMissRules: [],
-    conflicts: [],
-    reviewsOverview: {
-      totalReviews: 9200,
-      averageRating: 4.7,
-      sentimentDistribution: { positive: 89, neutral: 6, negative: 5 },
-      complaintThemeBreakdown: [],
-      recentReviews: [],
-    },
-    recentChanges: [],
-    lastVerified: '2026-08-25',
-  },
+  E8_MARKETS,
+  MONETA_FUNDED,
+  BRIGHT_FUNDED,
+  LARK_FUNDED,
+  ALPHA_CAPITAL,
+  AQUA_FUNDED,
+  ATMOS_FUNDED,
+  BLUE_GUARDIAN,
+  FUNDED_TRADING_PLUS,
+  ...REMAINING_FIRMS,
+  SHARK_FUNDED,
 ];
 
 // Initialize dynamic relations (e.g. easyToMissRules from rules array)

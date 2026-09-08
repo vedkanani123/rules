@@ -1,0 +1,10 @@
+TITLE: Home | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Futures Help Center
+CANONICAL: https://intercom.help/aquafutures-help-center/en
+HEADINGS:
+- Welcome to the Futures Help Center
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardWelcome to the Futures Help CenterSearch for articles...Introduction to AquaFuturesGetting the most out of AquaFutures SupportFutures Instrument List & CodesGetting Started10 articlesBeginner Evaluation Accounts1 articleStandard Evaluation Accounts1 articleFlex Evaluation Accounts1 articleInstant Pro Accounts1 articleInstant Standard Accounts1 articleTrading Rules and Guidelines17 articlesReward Information3 articlesTrading Platforms25 articlesMore Questions?If you have any unanswered questions simply email support@aquafunded.com and we'll aim to reply within 24 hours.AquaFunded HomepageTrade with our Capital and keep 100% of the ProfitWe run on Fin

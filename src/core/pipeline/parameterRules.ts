@@ -254,7 +254,7 @@ export function buildParameterRules(firm: PropFirm): Rule[] {
     impactScore: 80,
     ...risk(1, 80),
     officialWording: `Withdrawals on a ${ref.payoutFrequency} cadence. First-withdrawal condition: ${ref.firstPayoutConditions}. Trader profit share ${ref.profitSplit}%${ref.profitSplitMaxWithAddon ? `, scalable to ${ref.profitSplitMaxWithAddon}%` : ''}.`,
-    plainEnglish: `${ref.firstPayoutConditions}. Every approved withdrawal splits ${ref.profitSplit}% to you${ref.profitSplitMaxWithAddon ? ` (up to ${ref.profitSplitMaxWithAddon}% with scale-up/add-on)` : ''}. ${ref.refundableFee ? `The ${usd(ref.discountedPrice || ref.price)} fee is refundable under the payout terms.` : `The ${usd(ref.discountedPrice || ref.price)} fee is non-refundable — treat it as sunk cost.`}`,
+    plainEnglish: `${ref.firstPayoutConditions}. Every approved withdrawal splits ${ref.profitSplit}% to you${ref.profitSplitMaxWithAddon ? ` (up to ${ref.profitSplitMaxWithAddon}% with scale-up/add-on)` : ''}. ${ref.priceUnknown ? 'Fee Unknown — verify before purchase.' : ref.refundableFee ? `The ${usd(ref.discountedPrice || ref.price)} fee is refundable under the payout terms.` : `The ${usd(ref.discountedPrice || ref.price)} fee is non-refundable — treat it as sunk cost.`}`,
     howTradersViolate: 'Requesting the first payout before the gate (days/profit/buffer) is met and eating an automated rejection plus review delay.',
     primaryRiskRating: 'MODERATE',
     sources: mkSource('payout'),

@@ -1,0 +1,2208 @@
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+Lark Funding prop firm logo
+Lark Funding
+
+Set as Favorite
+Leave a Review
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4442
+CEO
+
+Matt L
+Country
+
+country-flag
+Canada
+
+Trustpilot
+
+4.2
+Date Created
+
+Jun 2022
+Years in Operation
+
+4
+4.5
+
+87
+
+total reviews
+
+5
+
+68
+
+4
+
+8
+
+3
+
+1
+
+2
+
+3
+
+1
+
+7
+
+No payout delays
+5% OFF
++ Free Account
+Lark Funding prop firm logo
+Lark Funding
+4.5
+
+87
+
+5% off + free account of the same size upon reaching payout on all challenges, except 200K and Instant accounts
+
+
+Code
+MATCH
+Overview
+Challenges
+15
+Reviews
+87
+Offers
+3
+Payouts
+New
+Discussions
+0
+Lark Funding Prop Firm Details
+Firm Overview
+Instruments and Assets
+Leverage
+Commissions
+Consistency Rules
+Firm Rules
+Challenges
+Payout Policy
+Restricted Countries
+AI Summary
+Lark Funding Firm AI Summary
+Lark Funding is a Canada-based proprietary trading firm established in June 2022, offering CFD trading through Match Trader, cTrader, and DXTrade platforms. The firm provides Instant, 1 Step, 2 Step, and 3 Step evaluation programs with account sizes ranging from $5,000 to $1,000,000. Profit targets vary by program: 10% for 1 Step, 8% and 5% for the two phases of 2 Step, and 5%, 4%, and 3% across the three phases of 3 Step, with maximum total drawdown between 5% and 10%. Traders can access over...
+
+Show More
+Firm Overview
+
+Broker:
+
+Liquidity ProviderLiquidity Provider
+Platform:
+
+cTradercTrader
+DXTradeDXTrade
+Match TraderMatch Trader
+Payment Methods:
+
+Credit/Debit CardCredit/Debit Card
+CryptoCrypto
+Payout Methods:
+
+RiseworksRiseworks
+Instruments and Assets
+
+Type of Instruments:
+
+CFD
+Assets:
+
+FX
+Metals
+Indices
+Crypto
+Other Commodities
+Stocks
+Leverage
+
+Assets	Instant	1-Step	2-Steps	3-Steps
+FX	
+1:50
+
+1:30
+
+n/a
+
+1:50
+
+Metals	
+1:10
+
+1:10
+
+n/a
+
+1:10
+
+Indices	
+1:10
+
+1:10
+
+n/a
+
+1:20
+
+Crypto	
+1:2
+
+1:2
+
+n/a
+
+1:2
+
+Other Commodities	
+1:5
+
+1:5
+
+n/a
+
+1:5
+
+Stocks	
+1:5
+
+1:5
+
+n/a
+
+1:5
+
+Learn More About Lark Funding Leverage
+Commissions
+
+FX
+
+$7 per lot
+
+Metals
+
+$7 per lot
+
+Indices
+
+No commission
+
+Crypto
+
+No commission
+
+Other Commodities
+
+No commission
+
+Stocks
+
+0.02$ or 2 cents per share
+
+Consistency Rules
+
+None
+
+Firm Rules
+
+Minimum Trading Days
+
+Requirement: None across all programs
+Stop Loss Rule
+
+Requirement: If you fail to place a stop loss at the time of placing an order or executing a trade, the system will automatically close the trade — soft breach
+Add-on Option: Removable with add-on except on DXtrade platform
+News Trading
+
+Allowance: News trading is allowed, but opening large positions around high-impact news events is prohibited and may violate their terms under the All-or-Nothing prohibited trading strategy
+Expert Advisor
+
+Allowance: EA's are allowed, except those that are designed for HFT or arbitrage trading
+Copy Trading
+
+Allowed
+
+Between Lark funded / Instant funding accounts
+Between Lark funded/Instant funding accounts, Other prop firms and personal accounts owned by the same person
+Copy trading from an external account (other propfirm or personal accounts) is allowed, but only to a single evaluation account at a time
+Copy trading from a Lark funded/Instant funding accounts to a single Lark evaluation account is allowed
+Not Allowed
+
+Copy trading between multiple evaluation accounts is not allowed
+Copy trading from accounts not owned by the same person is strictly prohibited
+Partnership with PropFirm One
+
+Lark funding's partnership with PropFirm One enables you to extend your copy trading capabilities even further. PF1 allows traders to seamlessly copy trades across different proprietary firm accounts within a single platform, offering increased flexibility and a broader range of opportunities. This means that, in addition to Lark funding's internal copy trading feature, PF1 empowers users to manage trades across multiple firms, enhancing scalability and trading efficiency without breaching Lark funding's core rules. For more details on this enhanced functionality, visit PropFirmOne.com
+Inactivity
+
+Requirement: Traders must execute at least one trade every 30 days to avoid account inactivity and breach
+Gain Limit
+
+Threshold: Daily and/or per-trade gains exceeding $10,000 (calculated at 5 PM EST) trigger the following actions:
+Challenge Accounts: One violation results in restarting Phase 1 with no refund but a free evaluation
+Simulated Funded Accounts: Gains above $10,000 are excluded from payouts. Three violations lead to account breach with no payout
+Trade Calculation: Trades executed at similar times or partially closed count as a single trade
+Multi-Phase: Gains made across multiple phases on a single day will be considered toward the daily gain limit
+Recommended Risk Limit
+
+Maximum Risk: Maximum risk per simulated trade idea is 1.5%
+Trade Idea Definition: A trade idea refers to similar trades, meaning those placed in the same direction on the same instrument, opened and closed within a short interval of 1 to 2 minutes
+Margin Limit
+
+Overall Requirement: Overall margin utilization must not exceed the following limits:
+Forex: 50%
+Metals: 50%
+Indices: 75%
+Oils: 75%
+Crypto: 75%
+Stocks: 75%
+Weekend Holding | Crypto Trading On Weekends
+
+Allowance: Not allowed except purchased with hold over the weekend add-on
+Crypto Breaks: Crypto temporary break between 5-6 pm EST and a 4-hour break from 9 am-1 pm EST on Saturday mornings
+All-or-Nothing Trading
+
+Prohibition: This refers to a style of trading where a trader could breach or come close to breaching the drawdown limits in a single trade due to the large volume of positions, lots executed or margin utilization, this practice is prohibited
+Holding Into Earnings, Dividends, or Other Corporate Actions
+
+Prohibition: Holding Single Share Equity CFD positions through earnings releases, dividends, or any corporate action is strictly prohibited
+Requirement: All such positions must be closed by 3:50 PM ET on the day of the event (or the prior trading day if the event is pre-market)
+Violation Consequence: Violation results in an immediate hard breach and any gain or loss on the position will be removed
+More on Prohibited Trading Strategies
+
+Prohibited Strategies: All-or-Nothing & Gambling-Based Trading, High-Frequency Trading, Reverse Trading (between different accounts) / Group Hedging, Unauthorized Copy Trading, Holding Into Earnings, Dividends, or Other Corporate Actions
+Details: https://helpdesk.larkfunding.com/en/articles/8243502-prohibited-trading-strategies
+VPN/VPS Policy Explained
+
+https://helpdesk.larkfunding.com/en/articles/7174234-can-i-use-a-vpn
+1 - Step Smart Restart Guarantee
+
+Attempts per Evaluation: Each Evaluation comes with 4 attempts. If your first attempt fails but you traded within the risk parameters, you get a free restart — no cost
+Qualification Requirements:
+No single trade loss greater than 1% of account balance
+Overall drawdown stays better than -5%
+How to Use: A "Surrender Account" button appears in your dashboard once eligible. Clicking it surrenders the account and generates a 100% discount code for a new Evaluation
+Key Notes:
+Can be used up to 3 times per purchased Evaluation
+If drawdown briefly exceeds -5% but recovers, you may still qualify as long as no single trade exceeded 1%
+Discount code is valid once per purchased Evaluation
+Lark Funding Special Futures Explained
+
+https://helpdesk.larkfunding.com/en/collections/5518409-special-features
+Challenges
+
+Lark Funding - 1-Stage Evaluation - 1-Step 200K
+$1,425.00
+
+$1,500.00
+
+Lark Funding - Instant Funding - Instant 5K
+$190.00
+
+$200.00
+
+Lark Funding - Instant Funding - Instant 25K
+$1,068.75
+
+$1,125.00
+
+Lark Funding - Instant Funding - Instant 50K
+$2,612.50
+
+$2,750.00
+
+Lark Funding - Instant Funding - Instant 10K
+$380.00
+
+$400.00
+
+Lark Funding - Instant Funding - Instant 100K
+$4,275.00
+
+$4,500.00
+
+Lark Funding - 3-Stage Evaluation - 3-Steps 10K
+$99.75
+
+$105.00
+
+Lark Funding - 3-Stage Evaluation - 3-Steps 50K
+$266.00
+
+$280.00
+
+Lark Funding - 3-Stage Evaluation - 3-Steps 25K
+$166.25
+
+$175.00
+
+Lark Funding - 3-Stage Evaluation - 3-Steps 100K
+$351.50
+
+$370.00
+
+Payout Policy
+
+Instant Funding
+
+90% default profit split, On Demand for first payout, then 30 days for subsequent.
+Drawdown lock for Instant accounts:
+
+The maximum drawdown will become static and remain fixed at the initial balance after the first withdrawal or once 8% in gains has been achieved.Withdrawing all profit will breach the account
+1 Step
+
+Profit Split: 80% default profit split
+Payout Frequency: Bi- weekly | weekly with add-on
+1 Step monthly based rewards
+
+Traders earn a fixed monthly fee by meeting two conditions within every 30-day period:
+
+Keeping overall drawdown better than -3.5% and recording at least 3 profitable days of 0.5% or more.
+Once eligible, the request is submitted via the Dashboard and processed within 2-3 business days.
+The reward can be earned indefinitely, but qualification is sequential — missing a month breaks the streak and disqualifies you from the next month as well.
+Reward amounts (before $40 Riseworks processing fee):
+$10K → $50 | $25K → $125 | $50K → $250 | $100K → $500 | $200K → $1,000
+3 Step
+
+Profit Split: 80% default profit split | 90% with add-on
+Payout Frequency: Bi- weekly | weekly with add-on
+Minimum payout of 100$
+
+Processing fee: $40 (flat)
+
+Restricted Countries
+
+AfghanistanAfghanistan
+BelarusBelarus
+Central African RepublicCentral African Republic
+CubaCuba
+Democratic Republic of the Congo (Congo Free State)Democratic Republic of the Congo (Congo Free State)
+GuineaGuinea
+HaitiHaiti
+IranIran
+IraqIraq
+LibyaLibya
+MaliMali
+Myanmar (Burma)Myanmar (Burma)
+North KoreaNorth Korea
+Puerto RicoPuerto Rico
+Quebec (Canada)
+
+Republic of the Congo (Congo Brazzaville)Republic of the Congo (Congo Brazzaville)
+RussiaRussia
+SomaliaSomalia
+South KoreaSouth Korea
+South SudanSouth Sudan
+SudanSudan
+SyriaSyria
+UkraineUkraine
+US States (Alaska, Colorado, Georgia, Idaho, Indiana, Maine, Mississipi, New Jersey, Oklahoma, Tennessee, Utah, Vermont, Washington)US States (Alaska, Colorado, Georgia, Idaho, Indiana, Maine, Mississipi, New Jersey, Oklahoma, Tennessee, Utah, Vermont, Washington)
+US Virgin IslandsUS Virgin Islands
+VenezuelaVenezuela
+YemenYemen
+
+Additional Information
+
+Discover everything you need to know about Lark Funding. This page covers all the essentials in one place, including broker details, available trading platforms, payout structures, payment methods, supported instruments, leverage, commissions, and key firm rules.
+
+Whether you are evaluating Lark Funding for the first time or comparing it with other top prop firms, you will find accurate, up-to-date information to help you decide if it is the right fit for your trading goals.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+Lark Funding prop firm logo
+Lark Funding
+
+Set as Favorite
+Leave a Review
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4442
+CEO
+
+Matt L
+Country
+
+country-flag
+Canada
+
+Trustpilot
+
+4.2
+Date Created
+
+Jun 2022
+Years in Operation
+
+4
+4.5
+
+87
+
+total reviews
+
+5
+
+68
+
+4
+
+8
+
+3
+
+1
+
+2
+
+3
+
+1
+
+7
+
+No payout delays
+5% OFF
++ Free Account
+Lark Funding prop firm logo
+Lark Funding
+4.5
+
+87
+
+5% off + free account of the same size upon reaching payout on all challenges, except 200K and Instant accounts
+
+
+Code
+MATCH
+Overview
+Challenges
+15
+Reviews
+87
+Offers
+3
+Payouts
+New
+Discussions
+0
+Lark Funding Challenges
+
+Assets:
+Select
+
+Size:
+Select
+
+Steps:
+Select
+
+Program:
+Select
+
+Apply Discount
+
+Popularity
+Customize
+Challenges 15
+Firm / Rank
+Account Size
+Steps
+Profit Target
+Daily Loss
+Max Loss
+Max Loss Type
+PT:DD
+Profit Split
+Payout Freq.
+Loyalty PTS
+Popularity
+
+Price
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+100K
+1 Step
+
+
+10%
+5%
+7%
+Static
+1:0.7
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+418
+
+Not tracked
+
+$760.00
+
+$800.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+25K
+1 Step
+
+
+10%
+5%
+7%
+Static
+1:0.7
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+157
+
+Not tracked
+
+$285.00
+
+$300.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+50K
+1 Step
+
+
+10%
+5%
+7%
+Static
+1:0.7
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+261
+
+Not tracked
+
+$475.00
+
+$500.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+10K
+1 Step
+
+
+10%
+5%
+7%
+Static
+1:0.7
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+105
+
+Not tracked
+
+$190.00
+
+$200.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+100K
+3 Steps
+
+
+5%
+4%
+3%
+None
+5%
+Static
+1:0.42
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+193
+
+Not tracked
+
+$351.50
+
+$370.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+25K
+3 Steps
+
+
+5%
+4%
+3%
+None
+5%
+Static
+1:0.42
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+91
+
+Not tracked
+
+$166.25
+
+$175.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+200K
+3 Steps
+
+
+5%
+4%
+3%
+None
+5%
+Static
+1:0.42
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+392
+
+Not tracked
+
+$712.50
+
+$750.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+50K
+3 Steps
+
+
+5%
+4%
+3%
+None
+5%
+Static
+1:0.42
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+146
+
+Not tracked
+
+$266.00
+
+$280.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+10K
+3 Steps
+
+
+5%
+4%
+3%
+None
+5%
+Static
+1:0.42
+
+80%
+
+
+Bi-weekly | Weekly with add-on
+55
+
+Not tracked
+
+$99.75
+
+$105.00
+
+
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+87
+
+
+25K
+Instant
+
+
+None
+5%
+8%
+Trailing Balance
+None
+
+90%
+
+
+On-Demand then 30days
+588
+
+Not tracked
+
+$1,068.75
+
+$1,125.00
+
+
+Buy
+Previous
+1
+2
+Next
+
+Additional Information
+
+A full overview of all the challenges offered by Lark Funding. You'll find up-to-date details for each challenge, including account size, number of steps, profit target, daily and maximum loss limits, profit split, payout frequency, loyalty points, and price. Whether you are new to the firm or comparing different challenge structures, this resource helps you quickly identify the options that fit your trading style, risk tolerance, and goals.
+
+Choosing the right challenge is a critical step toward securing a funded trading account. The structure — from account size and profit target to drawdown limits and payout frequency — will directly influence how you trade and manage risk during the evaluation. A challenge that aligns with your strategy can improve your chances of passing and progressing to the funded stage.
+
+All challenges listed on Prop Firm Match are based on verified information from the firms themselves and are updated regularly to ensure accuracy. Our goal is to give traders a clear, side-by-side view of the available options, making it easier to compare not only across challenges from the same firm but also with those from other top prop firms.
+
+Use the filters on this page to refine your search by asset type, account size, step count, or program type. This allows you to focus on the most relevant challenges and avoid sifting through options that don't fit your needs.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+Lark Funding Challenges from $100 - 15 Plans Compared | Prop Firm Match
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+Lark Funding prop firm logo
+Lark Funding
+
+Set as Favorite
+Leave a Review
+Buy
+Lark Funding prop firm logo
+Lark Funding
+
+4442
+CEO
+
+Matt L
+Country
+
+country-flag
+Canada
+
+Trustpilot
+
+4.2
+Date Created
+
+Jun 2022
+Years in Operation
+
+4
+4.5
+
+87
+
+total reviews
+
+5
+
+68
+
+4
+
+8
+
+3
+
+1
+
+2
+
+3
+
+1
+
+7
+
+No payout delays
+5% OFF
++ Free Account
+Lark Funding prop firm logo
+Lark Funding
+4.5
+
+87
+
+5% off + free account of the same size upon reaching payout on all challenges, except 200K and Instant accounts
+
+
+Code
+MATCH
+Overview
+Challenges
+15
+Reviews
+87
+Offers
+3
+Payouts
+New
+Discussions
+0
+Lark Funding Reviews
+AI Summary
+Good
+Lark Funding Reviews AI Summary
+Traders consistently praise Lark Funding's clear rules with no hidden restrictions, particularly highlighting the absence of news trading limitations and consistency requirements. The static drawdown structure across evaluation phases receives frequent positive mentions, as does the straightforward dashboard that updates instantly with trade data. Customer support earns strong marks for responsiveness, with many reviewers noting the CEO's active involvement in the Discord community and direct...
+
+Show More
+Reviews87
+
+Sort by
+
+
+Newest to Oldest
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+sikhulile
+ZA
+South Africa
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$25K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+August 22nd, 2026
+⭐⭐⭐⭐⭐ Legitimate Prop Firm With Trader-Friendly Rules I recently received my first payout from Lark Funding, and I have to give credit where it’s due — they paid! 😂 From my experience so far, Lark Funding has proven to be a legitimate prop firm that actually honours its payouts. The rules are also some of the most trader-friendly I've come across in the industry. They give traders enough flexibility to focus on actually trading rather than constantly worrying about complicated restrictions. In my opinion, the rules are designed in a way that rew...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+1
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+What I like most about Lark Funding is the simplicity and transparency of their rules. There are no hidden rules, which gives me confidence as a trader because I know exactly what is expected from me. I also appreciate that there are no news-trading restrictions. Although I personally don't trade news, having that flexibility is a big advantage. Most importantly, I really like the static daily drawdown and maximum drawdown. This suits my trading strategy very well and allows me to focus on managing my trades and risk without constantly worrying about changing drawdown levels. Overall, the rules are straightforward, transparent and very trader-friendly — exactly what I look for in a prop firm.
+
+Least Liked Aspect
+The only thing I would say I like least is that MT5 is not currently available. I have used MT5 extensively and would definitely appreciate having it as an option. That said, I have actually grown to really like the Match-Trader platform. It has been very useful for me, especially when it comes to calculating and managing my risk accurately before entering a trade. So while I would still love to see MT5 added in the future, Match-Trader has definitely been a pleasant surprise and has worked well for my trading style.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+swee
+MY
+Malaysia
+1 reviews
+Reviews
+Reviews
+4.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 7th, 2026
+Hi, the lark funding are one of my good firm list, the customer service nice, payout process good also, will continues to focus on this lark funding firm .
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+3 Months +
+
+Payout Count
+0
+
+Number of Firms Funded With
+4
+
+Top Firm Aspect
+about the bonus part.
+
+Least Liked Aspect
+about the bonus part
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+onur
+TR
+Türkiye
+2 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+July 21st, 2026
+It’s truly a great company—the spreads are tight, and the support team is always available. I’ll start trading on a live account after completing the 50k and 100k phases of the 1-Step Career Plan. I’ll share my experience right after I receive my first payment.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+3
+
+Top Firm Aspect
+The trading terms are very favorable and great; I opened an account as part of the 3-year promotion. Being able to reset the account when the balance drops by 5% is truly fantastic. It’s great to work with you.
+
+Least Liked Aspect
+After the phases are over, it takes a while for the actual bill to arrive. I would have expected it to be an automated system.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+Wongani
+MW
+Malawi
+2 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+3 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+July 16th, 2026
+I have traded with Lark funding for a month before I lost the account. My overall experience was great. They have clear and achievable rules for both in the challenge and funded stages. Their customer service is so much helpful. I got two payouts from my 10k account. I'm looking forward to trade with them again.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+2
+
+Number of Firms Funded With
+3
+
+Top Firm Aspect
+Customer service Clear rules
+
+Least Liked Aspect
+Nothing really
+
+5.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+4.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+David
+CA
+Canada
+1 reviews
+Reviews
+Reviews
+2.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+June 10th, 2026
+I successfully completed a 100K 1-step challenge and was eventually given a funded account, which I worked hard to achieve over several weeks. However, my funded account was later breached due to exceeding the reset limit on the evaluation account. The main issue is that the reset feature remained fully accessible and functional throughout the process, even after the limit had been reached. There were no warnings or restrictions in the interface indicating that further resets were no longer allowed. This created a confusing experience where I reaso...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+The evaluation process was straightforward, the platform was easy to use, and support generally responded in a timely manner. I also appreciated the active community and the owner's involvement in Discord discussions. The challenge itself felt achievable for disciplined traders.
+
+Least Liked Aspect
+The biggest issue was the disconnect between what the platform technically allowed and what was later enforced manually. If a feature is no longer permitted, it should be disabled or accompanied by a clear warning. I was also disappointed that the issue was discovered only after I had passed the evaluation and received a funded account, rather than being flagged immediately. Better transparency and real-time enforcement would have prevented the entire situation.
+
+4.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+1.0
+
+Customer Care
+
+4.0
+
+Trading Conditions
+
+Official Firm Reply
+Lark Funding prop firm logo
+Lark Funding
+
+Verified Firm Profile
+July 2nd, 2026
+
+Hi David,
+
+Thank you for your review. I want to start by acknowledging your point regarding the platform interface: you are right. Our system should automatically block the reset button once a user has reached the maximum limit of three resets. We are aware of this limitation and agree that the dashboard should reflect these hard limits in real-time to avoid any confusion.
+
+However, a rule is still a rule. The strict limit of three resets is clearly outlined on our website and in our terms. While the software technically allowed you to click the button, you were still responsible for following the publicly posted trading rules.
+
+When our risk team manually audited your evaluation, they caught the violation. This is standard procedure, which is exactly why your funded account was breached and revoked within minutes of being processed. We cannot and will not relax our hard-defined risk parameters and make an exception for you simply because the automated system block wasn't in place. We hold all our traders to the exact same standards.
+
+Regarding your attempts to contact me directly on Discord and via email: as a rapidly growing prop firm, it is completely unrealistic to expect a personalized, direct response from the CEO for every individual account dispute. Just as you wouldn't expect the CEO of other major prop firms or financial institutions to personally email you back when you have an account issue, I rely on my dedicated support team to manage these cases. That being said, I was fully briefed on your situation as it was happening and ensured that our team handled it promptly and by the book.
+
+We stand by the decision to enforce our rules, and we wish you the best in your future trading endeavors.
+
+Kind regards,
+Matt, CEO
+
+Show Details
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+R
+Ricco
+NL
+Netherlands, Kingdom of the
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$200K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++3
+June 8th, 2026
+Great Propfirm! Def among the best I have worked with so far. Fair and clear rules, good communication, never had any issues, always got paid fast! Definitely recommended!
+
+
+Hide Details
+
+
+Upvote
+
+1
+
+Funding Period
+3 Months +
+
+Payout Count
+3
+
+Number of Firms Funded With
+5
+
+Top Firm Aspect
+The rules are clear, they have fast and constructive communication, and payouts are handled fast. Genuinely never had any problems with them!
+
+Least Liked Aspect
+I think the 10k per trade/day rule could be altered a bit to accommodate swing traders, hopefully they will do this at some point because then it would be the perfect prop firm in my view. That being said, these rules are stated clearly before purchase, and even with this rule in place as is they are already in my top 2 firms that I have worked with.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+M
+Matthew
+GB
+United Kingdom
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+April 30th, 2026
+I was sceptical about dipping my toe into the prop firm market, having not done so before, but the team at Lark Funding have been exceptional. They have been helpful and supportive and I would thoroughly recommend them.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+The clarity of the Lark Funding dashboard, competitive pricing, competitive evaluations and speed/efficiency of support.
+
+Least Liked Aspect
+Perhaps a bit more clarity about rules for people new to prop firms, onboarding and agreement signing processes.
+
+5.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+meganathan
+IN
+India
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$5K
+
+Program
+Instant
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+April 28th, 2026
+Had a great experience with Lark. Very transparent and reliable. Support is very fast. This is my first ever payout from any prop firm. Thanks lark ...
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+3 Months +
+
+Payout Count
+1
+
+Number of Firms Funded With
+1
+
+Top Firm Aspect
+Fast support and transparent
+
+Least Liked Aspect
+Nothing like that
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+Wilderson
+US
+United States
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+Instant
+
+Reached Payout
+No
+Certificates
+
+April 27th, 2026
+I’ve been using Lark Funding’s instant funded account, and honestly—it’s one of the cleanest platforms I’ve worked with. The dashboard is simple, easy to use, and everything just makes sense. Their customer support is solid—quick, friendly, and actually helpful, which matters. What really stands out is transparency. The CEO, Matt, is active on YouTube, breaking things down, keeping it real. That’s rare in this space. They’re also ahead of the game—constantly dropping promotions, new features, and even things like monthly payouts, which most prop ...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+Clean and professional yet transparent
+
+Least Liked Aspect
+Longer time for payout response than expected
+
+5.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Lark Funding prop firm logo
+Lark Funding
+
+4.5
+
+Reviewer profile
+Candy
+NG
+Nigeria
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+April 21st, 2026
+After 2+ years trading prop firms, I found Lark on Prop Firm Match and decided to give them a try after I was attracted by the Base Rewards, free retry, and seeing the flexible rules on the phase 1 account. No prop firm in the industry offer 1-phase account with 5% daily drawdown and 7% overall drawdown and it's FIXED! Not to mention, there are Zero annoying rules. Risk is very flexible and customer support is top notch. It is the best, SIMPLE!!!
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Month +
+
+Payout Count
+1
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+Flexible rules and base rewards.
+
+Least Liked Aspect
+No account merging option.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Previous
+1
+2
+More pages
+9
+Next
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+Lark Funding Reviews: 4.5★ from 87 Verified Traders | Prop Firm Match

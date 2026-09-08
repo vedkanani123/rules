@@ -1,0 +1,10 @@
+TITLE: Trading Rules and Guidelines | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/collections/19675677-trading-rules-and-guidelines
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Rules & Parameters
+CANONICAL: https://intercom.help/aquafutures-help-center/en/collections/19675677-trading-rules-and-guidelines
+HEADINGS:
+- Trading Rules and Guidelines
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesTrading Rules and GuidelinesRules & Parameters17 articlesTrading HoursLearn Contract Sizing with AquaFuturesProhibited Trading StrategiesScaling PlanConsistency RuleMinimum Trading Days - On Evaluation PhaseMinimum Trading Days - On Funded PhaseMaximum DrawdownCan someone else trade my account?What are the commissions for each trade?Is copy trading allowed?What is the Rapid Review Guarantee?News Trading PoliciesHow Many Funded Accounts Am I Allowed at Once?2% Price Limit RuleBiggest Winning Trade vs. Biggest Losing TradeInactivity RuleTrade with our Capital and keep 100% of the ProfitWe run on Fin

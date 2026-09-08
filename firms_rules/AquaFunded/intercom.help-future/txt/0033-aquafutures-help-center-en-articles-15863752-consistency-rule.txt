@@ -1,0 +1,19 @@
+TITLE: Consistency Rule | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863752-consistency-rule
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863752-consistency-rule
+HEADINGS:
+- Consistency Rule
+- Evaluation Phase
+- Beginner Plan
+- Standard Plan
+- Funded Phase (Beginner & Standard)
+- Instant Standard Accounts
+- Instant Pro Accounts
+- How is consistency calculated?
+- What happens if I break the consistency rule?
+- Does a news violation affect consistency?
+- Need help?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesConsistency RuleConsistency Rule July 7, 2026Table of contentsThe consistency rule defines how much of your total profit can come from a single trading day.Evaluation PhaseBeginner PlanA consistency rule of 40% applies.One trading day cannot equal or exceed 40% of total profitsIf exceeded, you must continue trading until it drops below 40%Example:If you make $1,300 in one day, you need at least $3,250 total profit to pass.Standard PlanThere is no consistency rule in the evaluation phase.You can pass the evaluation without any daily profit restrictionsOnly profit targets and drawdown rules applyFunded Phase (Beginner & Standard)A consistency rule of 40% applies.One trading day cannot equal or exceed 40% of total profits during a reward periodIf exceeded, withdrawals will be temporarily restrictedTo become eligible:Continue trading until your highest profit day is below 40%Note: This is not a breach.Instant Standard AccountsA consistency rule of 20% applies.One trading day cannot equal or exceed 20% of total profitsInstant Pro AccountsA consistency rule of 15% applies.One trading day cannot equal or exceed 15% of total profits​How is consistency calculated?Formula:Highest Profit Day ÷ Total ProfitWhat happens if I break the consistency rule?Your account remains activeYou cannot pass (evaluation) or withdraw (funded)You must continue trading until compliance is metDoes a news violation affect consistency? Yes.Profits from trades that violate news rules are removedConsistency is recalculated based on valid profits onlyViolations cannot improve your consistency Need help? If you have any questions, contact our support team via live chat or Discord.Related ArticlesBeginner Account OverviewStandard Evaluation Account OverviewInstant Pro Account OverviewInstant Standard Account OverviewFlex Accounts OverviewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

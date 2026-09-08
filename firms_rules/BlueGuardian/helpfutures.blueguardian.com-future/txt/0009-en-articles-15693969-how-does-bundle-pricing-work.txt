@@ -1,0 +1,14 @@
+TITLE: How does Bundle Pricing work? | Blue Guardian | Futures
+URL: https://helpfutures.blueguardian.com/en/articles/15693969-how-does-bundle-pricing-work
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://helpfutures.blueguardian.com/en/articles/15693969-how-does-bundle-pricing-work
+HEADINGS:
+- How does Bundle Pricing work?
+- Bundle Discount Tiers
+- Standard Bundle Pricing
+- Reserve Bundle Pricing
+- Express Bundle Pricing
+- Direct Bundle Pricing
+CONTENT:
+Skip to main content< Go to websiteEnglishFrançaisDeutschΕλληνικάहिन्दीItalianoPortuguêsEspañolEnglish< Go to websiteEnglishFrançaisDeutschΕλληνικάहिन्दीItalianoPortuguêsEspañolEnglishSearch for articles...All CollectionsGetting StartedHow does Bundle Pricing work?How does Bundle Pricing work? July 6, 2026Table of contentsBlue Guardian Futures offers a tiered bundle discount system that rewards traders with bigger discounts when purchasing multiple accounts in a single order. The more accounts you add to your bundle, the greater the discount applied across the entire bundle. As each additional account is added, all accounts in the bundle automatically move to the new discount tier. This means every account benefits from the upgraded pricing.Bundle Discount TiersPack SizeDiscount Per Account1 Account40% Off2 Accounts45% Off3 Accounts50% Off4 Accounts55% Off5 AccountsBuy 4, Get 1 FreeThe 5th account is free, giving the maximum possible savings.Standard Bundle PricingSize1-Pack2-Pack3-Pack4-Pack5-Pack$25K$98.00$189.00$273.00$350.00$350.00 ($70/acct)$50K$133.00$256.50$370.50$475.00$475.00 ($95/acct)$100K$210.00$405.00$585.00$750.00$750.00 ($150/acct)$150K$269.50$519.75$750.75$962.50$962.50 ($192.50/acct)Reserve Bundle PricingSize1-Pack2-Pack3-Pack4-Pack5-Pack$25K$70.00$135.00$195.00$250.00$250.00 ($50/acct)$50K$98.00$189.00$273.00$350.00$350.00 ($70/acct)$100K$157.50$303.75$438.75$562.50$562.50 ($112.50/acct)$150K$294.00$567.00$819.00$1,050.00$1,050.00 ($210/acct)Express Bundle PricingSize1-Pack2-Pack3-Pack4-Pack5-Pack$50K$113.40$218.70$315.90$405.00$405.00 ($81/acct)$100K$179.20$345.60$499.20$640.00$640.00 ($128/acct)$150K$245.70$473.85$684.45$877.50$877.50 ($175.50/acct)Direct Bundle PricingSize1-Pack2-Pack3-Pack4-Pack5-Pack$25K$195.30$376.65$544.05$697.50$697.50 ($139.50/acct)$50K$315.00$607.50$877.50$1,125.00$1,125.00 ($225/acct)$100K$419.30$808.45$1,167.45$1,497.50$1,497.50 ($299.50/acct)$150K$525.00$1,012.50$1,462.50$1,875.00$1,875.00 ($375/acct)Bundle discounts are automatically applied at checkout.Related ArticlesExpress Account RulesContract Limits & Funded Scaling SystemDid this answer your question?😞😐😃Table of contentsTrade like a Guardian

@@ -1,0 +1,10 @@
+TITLE: General Trading Rules | AquaFunded Help Center
+URL: https://help.aquafunded.com/en/collections/14096397-general-trading-rules
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Trading rules
+CANONICAL: https://help.aquafunded.com/en/collections/14096397-general-trading-rules
+HEADINGS:
+- General Trading Rules
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules General Trading RulesGeneral Trading RulesTrading rules12 articlesAre EAs & Trade Copiers allowed?Is there a max lot limit?Can I hold trades overnight and over the weekend?Other rulesDo you allow hedging, martingale and trading without a stop loss?Is there a time limit?Wave StopMaximum Loss Per Trade PolicyConsistency RuleIs copy trading allowed?Is news trading allowed?Are there minimum trading days?Trade with our Capital and keep 100% of the ProfitWe run on Fin

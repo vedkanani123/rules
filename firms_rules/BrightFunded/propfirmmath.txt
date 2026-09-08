@@ -1,0 +1,2287 @@
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+BrightFunded prop firm logo
+BrightFunded
+
+Set as Favorite
+Leave a Review
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+41837
+CEO
+
+Jelle Dijkstra
+Country
+
+country-flag
+Dubai (UAE)
+
+Trustpilot
+
+n/a
+
+Date Created
+
+Sep 2023
+Years in Operation
+
+3
+4.4
+
+122
+
+total reviews
+
+5
+
+92
+
+4
+
+15
+
+3
+
+2
+
+2
+
+2
+
+1
+
+11
+
+No payout delays
+New Offer
+30% OFF
++ Free Account
+BrightFunded prop firm logo
+BrightFunded
+4.4
+
+122
+
+30% off + 15% evaluation profit reward from evaluation stage + free account of the same size if reaching payout on 1-Step challenges
+
+
+Code
+MATCH30
+Overview
+Challenges
+18
+Reviews
+122
+Offers
+3
+Announcements
+4
+Payouts
+New
+Discussions
+0
+BrightFunded Prop Firm Details
+Firm Overview
+Instruments and Assets
+Leverage
+Commissions
+Consistency Rules
+Firm Rules
+Challenges
+Payout Policy
+Restricted Countries
+AI Summary
+BrightFunded Firm AI Summary
+BrightFunded, established in September 2023 and based in the United Arab Emirates, offers a two-step evaluation program with account sizes ranging from $10,000 to $200,000. The firm supports cTrader, MT5, and its own BrightFunded Platform (DxTrade), providing access to CFD and cryptocurrency trading alongside forex, indices, commodities, and global stocks. Profit targets are set at 10% in Phase 1 and 5% in Phase 2, with a maximum total drawdown of 10% across all account sizes. Leverage is...
+
+Show More
+Firm Overview
+
+Broker:
+
+Datafeed ProviderDatafeed Provider
+Exchange:
+
+BinanceBinance
+BybitBybit
+CoinbaseCoinbase
+KrakenKraken
+Integration:
+
+Simulated
+Execution:
+
+Simulated
+Platform:
+
+BrightFunded Platform (DxTrade)BrightFunded Platform (DxTrade)
+cTradercTrader
+MT5MT5
+Payment Methods:
+
+Apple PayApple Pay
+Credit/Debit CardCredit/Debit Card
+CryptoCrypto
+Google PayGoogle Pay
+PayPalPayPal
+Revolut Pay
+Payout Methods:
+
+Bank TransferBank Transfer
+CryptoCrypto
+Instruments and Assets
+
+Type of Instruments:
+
+CFD
+Crypto
+Assets:
+
+FX
+Metals
+Indices
+Energy
+Crypto
+BTC+ETH
+Majors
+Altcoins
+DeFi
+Meme
+Leverage
+
+Assets	Instant	1-Step	2-Steps	3-Steps
+FX	
+n/a
+
+1:100
+
+1:100
+
+n/a
+
+Metals	
+n/a
+
+1:40
+
+1:40
+
+n/a
+
+Indices	
+n/a
+
+1:20
+
+1:20
+
+n/a
+
+Energy	
+n/a
+
+1:40
+
+1:40
+
+n/a
+
+Crypto	
+n/a
+
+1:5
+
+1:5
+
+n/a
+
+BTC+ETH	
+n/a
+
+1:5
+
+1:5
+
+n/a
+
+Majors	
+n/a
+
+1:5
+
+1:5
+
+n/a
+
+Altcoins	
+n/a
+
+1:5
+
+1:5
+
+n/a
+
+DeFi	
+n/a
+
+1:5
+
+1:5
+
+n/a
+
+Meme	
+n/a
+
+1:5
+
+1:5
+
+n/a
+
+Learn More About BrightFunded Leverage
+Commissions
+
+FX
+
+$3 per lot
+
+Metals
+
+0.0010% / Volume
+
+Indices
+
+$0
+
+Energy
+
+0,0010% / Volume
+
+Crypto
+
+0.012% per side (0.024% round turn)
+
+BTC+ETH
+
+0.012% per side (0.024% round turn)
+
+Majors
+
+0.012% per side (0.024% round turn)
+
+Altcoins
+
+0.012% per side (0.024% round turn)
+
+DeFi
+
+0.012% per side (0.024% round turn)
+
+Meme
+
+0.012% per side (0.024% round turn)
+
+Consistency Rules
+
+n/a
+
+Firm Rules
+
+GENERAL RULES
+
+Minimum Trading Days
+
+Evaluation: 5 days in each phase | To count as a trading day, the trade must remain open for at least 1 minute | No minimum trading days with add-on
+Funded: None
+News Trading
+
+Evaluation Accounts: No Restriction
+Funded Accounts: No trades may be executed on affected instruments within 5 minutes before or after major news events (including pending orders, SL, and TP). Profits made during this 10 min window will be deducted (This is a soft breach), but losses are not compensated. Positions opened more than 5 minutes before the event may be held and modified, though an SL or TP filled within the window still counts as a soft breach. Trades open for at least 48 hours are exempt from profit deduction. Non-targeted instruments can be traded normally.
+See details: https://help.brightfunded.com/en/articles/9241694-can-i-trade-news
+
+Copy Trading
+
+Copy trading is allowed only between accounts you personally own (BrightFunded, other prop firms, retail broker). copying trades between different owners’ accounts is strictly prohibited.
+
+BrightFunded’s partnership with Prop Firm One enables you to extend your copy trading capabilities even further. PF1 allows traders to seamlessly copy trades across different proprietary firm accounts within a single platform, offering increased flexibility and a broader range of opportunities. This means that, in addition to BrightFunded’s internal copy trading feature, PF1 empowers users to manage trades across multiple firms, enhancing scalability and trading efficiency without breaching BrightFunded’s core rules. For more details on this enhanced functionality, visit PropFirmOne.com.
+
+Expert Advisors (EAs)
+
+Allowed but must align with trading conditions and rules
+While EAs are allowed, not all third-party EAs are compatible with BrightFunded's platform environment.
+BrightFunded does not guarantee compatibility or performance of any external EA, and are not responsible for issues caused by non-compatible EAs
+30 Days Inactivity Rule
+
+Must place at least one trade every 30 days or account will be deactivated, and if not reactivated via support within 6 months, it will be permanently closed.
+To count, the trade must remain open for at least 1 minute.
+Overnight | Weekend Holding/Trading Crypto
+
+Allowed
+Prohibited trading strategies and practices
+
+Hedging (between two or more different accounts, between Different Prop Firms, Across Different Trading Platforms, Hedging-Copy Trading), Exploiting Service Errors or Platform Delays, Using External or Delayed Data Feeds, Coordinated or Multi-Account Manipulation, Violating Platform or Provider Terms, Use of Automated Software, AI, or High-Speed Trading Tools, Risk-Abusive Trading; Overleveraging, Overexposure, One-Sided Bets, and Account Rolling, Trading During High-Impact News or Events, Abusive Strategy Types; Grid Trading, Arbitrage, Tick Scalping, High-Frequency Trading (HFT).
+See details: https://help.brightfunded.com/en/articles/9241704-which-strategies-are-prohibited-at-brightfunded
+IPs/VPN/VPS Rule
+
+VPNs and different IPs are allowed for travel, but only the account owner may trade (no account sharing).
+Challenges
+
+BrightFunded - 1-Step Challenge - 1-Step - 200K
+€697.90
+
+€997.00
+
+BrightFunded - 1-Step Challenge - 1-Step - 100K
+€347.90
+
+€497.00
+
+BrightFunded - 1-Step Challenge - 1-Step - 50K
+€207.90
+
+€297.00
+
+BrightFunded - 1-Step Challenge - 1-Step - 25K
+€137.90
+
+€197.00
+
+BrightFunded - 1-Step Challenge - 1-Step - 10K
+€67.90
+
+€97.00
+
+BrightFunded - 1-Step Challenge - 1-Step - 5K
+€34.30
+
+€49.00
+
+BrightFunded - 2-Step Bright - 2-Steps - 200K
+€710.25
+
+€947.00
+
+BrightFunded - 2-Step Bright - 2-Steps - 100K
+€357.75
+
+€477.00
+
+BrightFunded - 2-Step Bright - 2-Steps - 50K
+€207.75
+
+€277.00
+
+BrightFunded - 2-Step Bright - 2-Steps - 25K
+€140.25
+
+€187.00
+
+Payout Policy
+
+Payout Frequency
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+Profit Split
+
+80%, 90% with add-on & 100% when scaled up.
+15% profit share from Phase 1 & 2
+1-Step Trailing Drawdown Lock
+
+Once the equity grows by 6% above the initial balance, the limit locks at the original balance and stops moving.
+15% Evaluation profit Reward
+
+Reach at least 10% growth on your Funded Account(s).
+​You may combine growth across multiple funded accounts (e.g., 5% on the first + 5% on the second = 10%) only within the same linked funded account chain
+Growth from separate funded accounts is not eligible to be combined. (original funded account + post-payout new funded accounts).
+​Receive your payout for that performance.
+​You are issued a new Funded Account whose initial balance includes the 15% bonus calculated from your evaluation profits (Phase 1 + Phase 2).
+You must contact support to request and have the bonus applied to your account.
+Available Payout Methods
+
+Crypto (USDC – ERC-20 Network)
+Bank Transfer (Euros (€))
+No Minimum Payout amount
+SCALING PLAN
+
+Evaluation Period: 4 consecutive months from the first trade.
+Profit Requirement: Must be profitable in at least 2 of the 4 months with a minimum total profit of 10%.
+Payout Requirement: Must have completed at least 2 successful payout transactions.
+Balance Condition: Account must be at breakeven or in profit at the time of scaling.
+Scaling Increase: Account balance increases by 30% of the original account size each time conditions are met.
+Unlimited Scaling: No upper balance limit accounts can be scaled indefinitely with consistent profitability.
+Bonus Benefit: From the 3rd scale-up onwards, traders receive a 100% profit reward split.
+Restricted Countries
+
+CubaCuba
+IranIran
+North KoreaNorth Korea
+PakistanPakistan
+SyriaSyria
+VietnamVietnam
+Announcements
+
+See all
+Back To Business Offer: Save 30% On All Challenges
+
+Summer’s Winding Down. Time To Get Focused And Get Back To Work.
+
+Get 30% OFF All Challenges With Our Back To Business Offer.
+
+Use Code: MATCHB2B
+
+Aug 23, 2026
+
+Start Now
+$15 Million Paid Out!
+
+Over $15 Million has been paid to our BrightFunded traders, and it's a milestone we're proud to celebrate.
+
+To mark this milestone, you can now enjoy 30% OFF all of our Challenges.
+
+Jul 26, 2026
+
+Get Started
+Free 1K Challenge
+
+No fee. No card. No catch.
+
+If you've been waiting for the right opportunity to prove your trading without spending a single penny, this is it.
+
+The barrier to getting started is gone. The next step is yours.
+
+Claim your FREE $1K Challenge today at BrightFunded.com.
+
+Jul 14, 2026
+
+Get Started
+
+Additional Information
+
+Discover everything you need to know about BrightFunded. This page covers all the essentials in one place, including broker details, available trading platforms, payout structures, payment methods, supported instruments, leverage, commissions, and key firm rules.
+
+Whether you are evaluating BrightFunded for the first time or comparing it with other top prop firms, you will find accurate, up-to-date information to help you decide if it is the right fit for your trading goals.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+BrightFunded prop firm logo
+BrightFunded
+
+Set as Favorite
+Leave a Review
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+41837
+CEO
+
+Jelle Dijkstra
+Country
+
+country-flag
+Dubai (UAE)
+
+Trustpilot
+
+n/a
+
+Date Created
+
+Sep 2023
+Years in Operation
+
+3
+4.4
+
+122
+
+total reviews
+
+5
+
+92
+
+4
+
+15
+
+3
+
+2
+
+2
+
+2
+
+1
+
+11
+
+No payout delays
+New Offer
+30% OFF
++ Free Account
+BrightFunded prop firm logo
+BrightFunded
+4.4
+
+122
+
+30% off + 15% evaluation profit reward from evaluation stage + free account of the same size if reaching payout on 1-Step challenges
+
+
+Code
+MATCH30
+Overview
+Challenges
+18
+Reviews
+122
+Offers
+3
+Announcements
+4
+Payouts
+New
+Discussions
+0
+BrightFunded Challenges
+
+Assets:
+Select
+
+Size:
+Select
+
+Steps:
+Select
+
+Program:
+Select
+
+Apply Discount
+
+Popularity
+Customize
+Challenges 18
+Firm / Rank
+Account Size
+Steps
+Profit Target
+Daily Loss
+Max Loss
+Max Loss Type
+PT:DD
+Profit Split
+Payout Freq.
+Loyalty PTS
+Popularity
+
+Price
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+100K
+2 Steps
+
+
+10%
+5%
+5%
+10%
+Static
+1:0.67
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+287
+
+133
+€422.45
+
+€497.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+200K
+2 Steps
+
+
+10%
+5%
+5%
+10%
+Static
+1:0.67
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+576
+
+87
+€847.45
+
+€997.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+50K
+2 Steps
+
+
+10%
+5%
+5%
+10%
+Static
+1:0.67
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+172
+
+64
+€252.45
+
+€297.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+5K
+2 Steps
+
+
+10%
+5%
+5%
+10%
+Static
+1:0.67
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+28
+
+41
+€41.65
+
+€49.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+10K
+2 Steps
+
+
+10%
+5%
+5%
+10%
+Static
+1:0.67
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+56
+
+38
+€82.45
+
+€97.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+25K
+2 Steps
+
+
+10%
+5%
+5%
+10%
+Static
+1:0.67
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+114
+
+27
+€167.45
+
+€197.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+100K
+2 Steps
+
+
+8%
+5%
+4%
+8%
+Static
+1:0.62
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+275
+
+23
+€357.75
+
+€477.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+10K
+2 Steps
+
+
+8%
+5%
+4%
+8%
+Static
+1:0.62
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+50
+
+14
+€65.25
+
+€87.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+50K
+2 Steps
+
+
+8%
+5%
+4%
+8%
+Static
+1:0.62
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+160
+
+14
+€207.75
+
+€277.00
+
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+122
+
+
+200K
+2 Steps
+
+
+8%
+5%
+4%
+8%
+Static
+1:0.62
+
+80%
+
+
+First payout in 30 days; subsequent payouts are bi-weekly. | Bi-weekly (from the first payout) and weekly payouts available with an add-on.
+547
+
+13
+€710.25
+
+€947.00
+
+Buy
+Previous
+1
+2
+Next
+
+Additional Information
+
+A full overview of all the challenges offered by BrightFunded. You'll find up-to-date details for each challenge, including account size, number of steps, profit target, daily and maximum loss limits, profit split, payout frequency, loyalty points, and price. Whether you are new to the firm or comparing different challenge structures, this resource helps you quickly identify the options that fit your trading style, risk tolerance, and goals.
+
+Choosing the right challenge is a critical step toward securing a funded trading account. The structure — from account size and profit target to drawdown limits and payout frequency — will directly influence how you trade and manage risk during the evaluation. A challenge that aligns with your strategy can improve your chances of passing and progressing to the funded stage.
+
+All challenges listed on Prop Firm Match are based on verified information from the firms themselves and are updated regularly to ensure accuracy. Our goal is to give traders a clear, side-by-side view of the available options, making it easier to compare not only across challenges from the same firm but also with those from other top prop firms.
+
+Use the filters on this page to refine your search by asset type, account size, step count, or program type. This allows you to focus on the most relevant challenges and avoid sifting through options that don't fit your needs.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+BrightFunded Challenges from €34 - 18 Plans Compared | Prop Firm Match
+
+Crypto Fund Trader prop firm logo
+A trader just purchased a 100K challenge from Crypto Fund Trader and saved $66 using the code 
+MATCH
+LIVE
+LIVE Futures Trading
+London & New York Session with Zach, Luna, Alex & Fabio
+Watch Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+BrightFunded prop firm logo
+BrightFunded
+
+Set as Favorite
+Leave a Review
+Buy
+BrightFunded prop firm logo
+BrightFunded
+
+41837
+CEO
+
+Jelle Dijkstra
+Country
+
+country-flag
+Dubai (UAE)
+
+Trustpilot
+
+n/a
+
+Date Created
+
+Sep 2023
+Years in Operation
+
+3
+4.4
+
+122
+
+total reviews
+
+5
+
+92
+
+4
+
+15
+
+3
+
+2
+
+2
+
+2
+
+1
+
+11
+
+No payout delays
+New Offer
+30% OFF
++ Free Account
+BrightFunded prop firm logo
+BrightFunded
+4.4
+
+122
+
+30% off + 15% evaluation profit reward from evaluation stage + free account of the same size if reaching payout on 1-Step challenges
+
+
+Code
+MATCH30
+Overview
+Challenges
+18
+Reviews
+122
+Offers
+3
+Announcements
+4
+Payouts
+New
+Discussions
+0
+BrightFunded Reviews
+AI Summary
+Good
+BrightFunded Reviews AI Summary
+Traders consistently praise BrightFunded for exceptionally fast payouts, with many reporting approval within hours and payments arriving in under 24 hours via USDC. The platform's clear rules with no hidden restrictions earn frequent mention, particularly the absence of consistency rules and balance-based drawdown that accommodate both day trading and swing trading styles. Customer support receives strong marks for responsiveness, with several reviewers noting direct CEO involvement in...
+
+Show More
+Reviews122
+
+Sort by
+
+
+Newest to Oldest
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+Reviewer profile
+Florin
+RO
+Romania
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$200K
+
+Program
+2 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++2
+September 4th, 2026
+I have a very good experience with BrightFunded. In my opinion, they are one of the best prop firms I have traded with. The trading conditions are very good and the rules are clear. I like that the trading environment feels professional but at the same time simple to use. The dashboard is also easy to understand and I never had problems with it. The customer support is another strong point. When I had questions, they were helpful and answered me clearly. I also like that they take traders seriously and try to help when there is a problem. The payout...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Year +
+
+Payout Count
+10+
+
+Number of Firms Funded With
+10+
+
+Top Firm Aspect
+What I like the most is that they are very serious and professional. They take every problem seriously and try to find a solution. I really appreciate that they listen to traders and don't ignore any issues.
+
+Least Liked Aspect
+So far, I don't have anything serious to complain about
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+Hibak
+ET
+Ethiopia
+2 reviews
+Reviews
+Reviews
+1.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+September 2nd, 2026
+My experience with BrightFunded has been disappointing. I successfully completed both evaluation phases and expected to receive a funded account. However, after passing, my access was denied based on an allegation of “excessive risk.” I disagree with this decision. I traded with stop losses and a defined risk approach, and I did not breach the daily loss or maximum drawdown limits during the evaluations. I asked BrightFunded to provide the specific trades, lot sizes, and risk calculations that supported their decision, but I have not received clear...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Year +
+
+Payout Count
+0
+
+Number of Firms Funded With
+0
+
+Top Firm Aspect
+I liked the clear evaluation structure and the opportunity to complete both phases through disciplined trading.
+
+Least Liked Aspect
+What I liked least was the unfair and unclear treatment after I passed both evaluation phases. BrightFunded denied my funded account using a vague claim of “excessive risk,” yet did not provide the exact trades, lot sizes, or calculations supporting that accusation. I had stop losses, followed defined risk limits, and did not breach the daily loss or maximum drawdown rules. Despite repeatedly asking for evidence, I received delays instead of a transparent explanation. In my experience, it is unacceptable to allow a trader to complete both phases and then deny the funded account without clear, verifiable reasons. This has seriously damaged my trust in the firm. I would strongly advise traders to keep complete records and be cautious, because passing the evaluation did not result in the fair and transparent funded-account process I expected.
+
+1.0
+
+User Friendliness
+
+1.0
+
+Payout Process
+
+1.0
+
+Customer Care
+
+1.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+A
+Alan
+SK
+Slovakia
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$200K
+
+Program
+2 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++4
+September 1st, 2026
+Best prop firm I have come across in the past decade. Stellar customer care, fast payouts, no technical issues, good choice of trading platforms and tickers to trade, no restricting rules, great scaling plan, nice community. I would only wish they added stocks for trading as well :D
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Month +
+
+Payout Count
+6
+
+Number of Firms Funded With
+3
+
+Top Firm Aspect
+Everything top notch
+
+Least Liked Aspect
+Lack of stocks
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+Reviewer profile
+Suraj
+NP
+Nepal
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$1K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+September 1st, 2026
+i have got a free 1K 1 step challenge and i passed it. then i got funded account with best spread and commission and successfully able to secured a payout of 37 dollars and i received within 1 Min . i got so happy and it was my first payout of my life . very good propfirm . now i am planning to buy a challenge.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Month +
+
+Payout Count
+1
+
+Number of Firms Funded With
+4
+
+Top Firm Aspect
+payout proccessing time in 1 min
+
+Least Liked Aspect
+trading dashboard
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+M
+Mete
+TR
+Türkiye
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+2 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+August 31st, 2026
+I received 3 payouts this month. Payouts are very fast. Trading on Brightfunded is very easy; there are no ridiculous rules. I've been trading here for 3 years and haven't experienced any problem
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Year +
+
+Payout Count
+3
+
+Number of Firms Funded With
+5
+
+Top Firm Aspect
+Easy rules, easy trading
+
+Least Liked Aspect
+Maybe spreads can be improve
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+M
+Mohammed
+IQ
+Iraq
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$50K
+
+Program
+2 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++2
+August 30th, 2026
+Very good and very efficient propfirm I’m really very happy with them and how much money I have received. Thank you bright funded. Again i am happy.If you want to avoid wasting your effort, choose them because they are the best
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Month +
+
+Payout Count
+2
+
+Number of Firms Funded With
+1
+
+Top Firm Aspect
+payout soon very soon
+
+Least Liked Aspect
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+V
+Viktor
+RU
+Russian Federation
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$5K
+
+Program
+2 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+August 29th, 2026
+Everything turned out very simple and fast. I showed discipline and patience, and the company paid me quickly. I'll buy another challenge! I'm very happy. Thank you!
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+1
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+Payment time
+
+Least Liked Aspect
+So far everything is fine
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+Reviewer profile
+Hassan
+PK
+Pakistan
+1 reviews
+Reviews
+Reviews
+1.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+August 25th, 2026
+My experience with bright funded has been extremely disappointing and has completely destroyed my confidence in the firm. The Risk department terminated my funded account (Funded-4509931) without proper reason. I am from Pakistan and they are banning Pakistani traders because they banned Pakistan a few months ago. But they said active accounts would not be affected. But the fact is different, the active accounts will not be affected until to make money. Once you make money, your account will be banned by the risk team. That is the real truth. I noti...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+My experience with BrightFunded has been extremely disappointing. My funded account was terminated by the Risk Department without a proper reason. Although BrightFunded stated that existing Pakistani accounts would not be affected after the country ban, my experience suggests otherwise. It feels like active accounts are safe only until they become profitable. I hope the CEO reviews my case fairly and reopens my account.
+
+Least Liked Aspect
+Nothing
+
+2.0
+
+User Friendliness
+
+3.0
+
+Payout Process
+
+1.0
+
+Customer Care
+
+1.0
+
+Trading Conditions
+
+Report
+Reason
+
+Unjustified Breach
+Breach Reason
+
+Malicious Trading
+
+Summary
+
+Trades pose excessive risk to our capital, attributable to the deployment of malicious trading practices.
+
+Documents From Reporter
+
+
+Imageicon
+1
+Official Firm Reply
+BrightFunded prop firm logo
+BrightFunded
+
+Verified Firm Profile
+August 26th, 2026
+
+Hello Hassan,
+
+Thank you for sharing your experience. We would like to correct the record on two points for anyone reading this review.
+
+First, our internal records confirm that this account was paid out in full in connection with its prior payout request. We are not able to share further account-specific detail in a public forum, but we are glad to correct that point here.
+
+Second, regarding the reference to active accounts being unaffected: any communication we issued about a jurisdictional restriction was separate from, and unrelated to, the closure of this particular account. That commitment was honored, and this trader was in fact permitted to continue trading under it. The closure of this account followed a distinct internal risk review, carried out under our Terms and Conditions, and the findings were communicated to the account holder directly and in full at the time.
+
+We take all trader feedback seriously and are always willing to discuss an account directly with its holder. Out of respect for the confidentiality obligations that apply to every trader in our program, we are not able to go further into individual account details here.
+
+BrightFunded, 
+Risk and Compliance
+
+Show Details
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+Reviewer profile
+Nasradin
+ET
+Ethiopia
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$100K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 21st, 2026
+My experience with BrightFunded was ultimately positive. I initially had concerns about my funded-account decision, but after my case was reviewed again, BrightFunded handled the matter fairly and professionally. I am especially grateful to Jelle Dijkstra, the CEO, who personally looked into my case with the Risk Department. He gave me a fair opportunity, communicated clearly, and made sure my funded account was issued. I have now received my 100K MT5 funded account. I appreciate the fairness, support, and professional way my situation was resolve...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+0
+
+Top Firm Aspect
+What I liked most was the fairness and personal support. Jelle Dijkstra, the CEO, took the time to review my case with the Risk Department and gave me a fair opportunity. Communication was clear, professional, and my funded account was issued. I truly appreciate the team’s understanding and support.
+
+Least Liked Aspect
+The only aspect I liked least was the initial uncertainty surrounding my funded-account decision. At that stage, I felt that clearer communication and more specific feedback would have helped me better understand the situation and avoided unnecessary concern. That said, I genuinely appreciate how BrightFunded ultimately handled my case. Jelle Dijkstra, together with the Risk Department, took the time to review my situation fairly and professionally. Their willingness to listen, reassess the decision, and issue my funded account showed real accountability and support for traders. This resolution has left me with a positive impression of BrightFunded, and I look forward to building a strong and responsible trading record with the firm.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+BrightFunded prop firm logo
+BrightFunded
+
+4.4
+
+Reviewer profile
+Mozzi
+IT
+Italy
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+2 Steps
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+August 19th, 2026
+Overall, BrightFunded has been a very good prop firm in my experience. Payout requests are usually approved on the same day they are submitted, and payments have been reliable. Support can sometimes be a bit slow when dealing with technical or account-related issues, but overall my experience has been positive and I have received my payouts without problems. I personally recommend them.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+1 Month +
+
+Payout Count
+8
+
+Number of Firms Funded With
+8
+
+Top Firm Aspect
+You receive the Credentials very fast, even when you pass the second phase, to sign the contract. Payouts approved very fast compared with many propfirms.
+
+Least Liked Aspect
+Sometimes they are a bit slow with account issues, but they will solve it in the end.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+BrightFunded prop firm logo
+BrightFunded
+
+Verified Firm Profile
+August 19th, 2026
+
+Dear Mozzi,
+
+Thank you for the great feedback and the perfect 5-star rating! We're especially glad our payout process came through so smoothly for you 8 payouts in is a strong track record, and getting credentials out fast after Phase 2 is something we take pride in. We appreciate you recommending us to others.
+
+Best regards,
+BrightFunded Support Team
+
+Show Details
+
+Previous
+1
+2
+More pages
+13
+Next
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+BrightFunded Reviews: 4.4★ from 122 Verified Traders | Prop Firm Match
+
+Crypto Fund Trader prop firm logo
+A trader just purchased a 100K challenge from Crypto Fund Trader and saved $66 using the code 
+MATCH

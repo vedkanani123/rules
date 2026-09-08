@@ -1,0 +1,28 @@
+TITLE: How to Connect and Disconnect TradingView | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892672-how-to-connect-and-disconnect-tradingview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892672-how-to-connect-and-disconnect-tradingview
+HEADINGS:
+- How to Connect and Disconnect TradingView
+- Step 1: Activate the TradingView Add-On in Tradovate
+- Open Tradovate Settings
+- Open Add-Ons
+- Activate TradingView
+- Step 2: Restart Your Tradovate Session
+- Step 3: Log In to TradingView
+- Step 4: Connect Your Tradovate Account
+- Step 5: Enter Your Tradovate Credentials
+- Step 6: Verify the Connection
+- How to Disconnect TradingView
+- Step 1: Open the Trading Panel
+- Step 2: Open Connection Settings
+- Step 3: Disconnect
+- Troubleshooting Connection Issues
+- Verify the Add-On Is Activated
+- Restart Tradovate
+- Verify Login Credentials
+- Refresh the Connection
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradingViewHow to Connect and Disconnect TradingViewHow to Connect and Disconnect TradingView July 10, 2026Table of contentsTradingView allows AquaFutures traders to connect their Tradovate account for chart analysis and trade execution.Before connecting your account to TradingView, you must first activate the TradingView Add-On within Tradovate.Step 1: Activate the TradingView Add-On in TradovateOpen Tradovate SettingsLog in to Tradovate and open Application Settings.​Open Add-OnsNavigate to the Add-Ons section.​​​​Activate TradingViewLocate the TradingView Add-On and click Activate.Step 2: Restart Your Tradovate SessionAfter enabling the Add-On:Log out of Tradovate.Log back in.This ensures the TradingView integration is properly activated.Step 3: Log In to TradingViewSign in to your TradingView account.After logging in:Open any chart.Locate the Trading Panel.​Step 4: Connect Your Tradovate AccountInside the Trading Panel:Select Tradovate from the list of supported brokers.​​​Click Connect.​​A connection window will appear.Step 5: Enter Your Tradovate CredentialsWhen prompted:Select Demo as the connection type.Enter your Tradovate username.Enter your Tradovate password.Click Connect.Use the same credentials provided for your Tradovate account.Step 6: Verify the ConnectionOnce connected successfully:The Tradovate connection status will appear inside TradingView.Your available trading accounts will be displayed.You can now trade directly through TradingView using your connected Tradovate account.How to Disconnect TradingViewStep 1: Open the Trading PanelNavigate to the Trading Panel at the bottom of your TradingView chart.​Step 2: Open Connection SettingsLocate Tradovate and click the settings (gear) icon next to the connection.​Step 3: DisconnectSelect Log Out to disconnect your Tradovate account from TradingView.The connection will be terminated immediately.Troubleshooting Connection IssuesIf your Tradovate account does not appear in TradingView:​Verify the Add-On Is ActivatedConfirm that the TradingView Add-On is enabled within Tradovate.​Restart TradovateLog out and back in after activating the integration.​Verify Login CredentialsEnsure you are using the correct Tradovate username and password.​Refresh the ConnectionDisconnect and reconnect the account through the Trading Panel.Need Assistance?If you experience issues connecting your Tradovate account to TradingView, please contact the AquaFutures Support Team.Related ArticlesHow to Place and Close Trades in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Place and Close Trades in TradingViewHow to Use Charts in TradingViewHow to Set and Manage Stop Loss and Take Profit in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

@@ -1,0 +1,9 @@
+TITLE: Are there minimum trading days? | AquaFunded Help Center
+URL: https://help.aquafunded.com/en/articles/15255671-are-there-minimum-trading-days
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.aquafunded.com/en/articles/15255671-are-there-minimum-trading-days
+HEADINGS:
+- Are there minimum trading days?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules General Trading RulesAre there minimum trading days?Are there minimum trading days? Updated over 2 weeks agoSome AquaFunded models have minimum trading day requirements. The requirement depends on the account model and stage. A qualifying trading day is a day where you achieve at least 0.5% profit. Qualifying days do not need to be consecutive. No minimum trading days:3 Step Accounts1 Step Flex Evaluation2 Step Pro EvaluationAquaMan EvaluationPay Later Evaluation3 minimum trading days:1 Step Flex Funded Stage1 Step Standard Accounts2 Step Pro Funded Stage2 Step Standard Accounts2 Step Elite Accounts5 minimum trading days:Instant Funding Standard AccountsInstant Funding Pro Accounts1 Step Pro AccountsAquaMan Funded StagePay Later Funded StageIf your account has a minimum trading day requirement, you must complete the required number of qualifying trading days before you can pass the evaluation or become eligible for a payout. Trade with our capital and keep 100% of the profit​Take advantage of our limited time sale live now. Get Funded Related ArticlesHow do Rewards work?What happens if I fail my evaluation or funded account?1 Step Flex2 Step Pro2 Step EliteDid this answer your question?😞😐😃Trade with our Capital and keep 100% of the ProfitWe run on Fin

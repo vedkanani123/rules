@@ -1,0 +1,50 @@
+TITLE: How to Set and Manage Stop Loss & Take Profit in NinjaTrader | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892668-how-to-set-and-manage-stop-loss-take-profit-in-ninjatrader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892668-how-to-set-and-manage-stop-loss-take-profit-in-ninjatrader
+HEADINGS:
+- How to Set and Manage Stop Loss & Take Profit in NinjaTrader
+- What Are Stop Loss and Take Profit Orders?
+- Stop Loss (SL)
+- Take Profit (TP)
+- Modifying Orders on NinjaTrader Desktop
+- Step 1: Locate the Order
+- Step 2: Select the Order
+- Step 3: Choose the New Price
+- Canceling a Modification
+- Modifying Stop Loss and Take Profit Orders
+- Step 1: Select the Order
+- Step 2: Move the Order
+- Step 3: Confirm the Change
+- Important Note
+- Using Single-Click Order Modification
+- Benefits
+- Enabling the Feature
+- Single-Click Modification Controls
+- Left Mouse Button
+- Middle Mouse Button
+- CTRL + Middle Mouse Button
+- Important Limitations
+- Using ATM Strategies on NinjaTrader Web
+- Creating an ATM Strategy
+- Step 1: Open a Chart
+- Step 2: Open ATM Settings
+- Step 3: Create a New Strategy
+- Step 4: Configure Take Profit
+- Step 5: Configure Stop Loss
+- Step 6: Save the Template
+- Managing Stop Loss and Take Profit on Mobile
+- Step 1: Place a Trade
+- Step 2: Configure Risk Parameters
+- Step 3: Submit the Trade
+- Modifying Stop Loss and Take Profit on Mobile
+- Step 1: Open Positions
+- Step 2: Select the Trade
+- Step 3: Update Your Levels
+- Step 4: Save the Changes
+- Best Practices for Risk Management
+- Why Use Stop Loss and Take Profit Orders?
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsNinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTrader July 10, 2026Table of contentsProper risk management is one of the most important aspects of successful trading. NinjaTrader provides several tools that allow traders to automatically or manually manage Stop Loss (SL) and Take Profit (TP) orders across desktop, web, and mobile platforms.This guide explains how to create, modify, and manage Stop Loss and Take Profit orders in NinjaTrader.What Are Stop Loss and Take Profit Orders?Stop Loss (SL)A Stop Loss is an order designed to automatically close a position if the market moves against you by a specified amount.Its purpose is to limit potential losses.​Take Profit (TP)A Take Profit order automatically closes a position when your desired profit target is reached.Its purpose is to lock in profits without requiring manual intervention.Using both together helps create a structured trading plan and improves risk management.Modifying Orders on NinjaTrader DesktopNinjaTrader allows you to adjust working orders directly from the trading interface.​Step 1: Locate the OrderFind the active Stop Loss, Take Profit, or pending order you wish to modify.​Step 2: Select the OrderLeft-click the order.The cursor will change, indicating that the order is ready to be adjusted.​Step 3: Choose the New PriceClick the new desired price level.The order will immediately move to the selected price.​Canceling a ModificationIf you decide not to modify the order:Press the ESC keyThis will cancel the modification process.Modifying Stop Loss and Take Profit OrdersTo adjust an existing Stop Loss or Take Profit:​Step 1: Select the OrderClick directly on the active Stop Loss or Take Profit order.​Step 2: Move the OrderChoose the new desired price level.​Step 3: Confirm the ChangeThe order will automatically update to the new price.​Important NoteIf multiple orders exist at the same price level, NinjaTrader may modify all consolidated orders located at that price.Always verify your active orders after making adjustments.Using Single-Click Order ModificationNinjaTrader includes an advanced feature called Single-Click Order Modification.This feature is designed for traders who need to adjust orders quickly in fast-moving markets.​BenefitsFaster order managementReduced execution timeIdeal for active traders and scalpersEnabling the FeatureOpen the SuperDOM.Right-click within the SuperDOM window.Open Properties.Enable Single-Click Order Modification.Once enabled, orders can be adjusted with a single click rather than the standard multi-step process.Single-Click Modification ControlsWhen enabled:Left Mouse ButtonAdjusts the nearest Stop Loss or Take Profit order.​Middle Mouse ButtonAdjusts the second closest Stop Loss or Take Profit order.​CTRL + Middle Mouse ButtonAdjusts the third closest Stop Loss or Take Profit order.​Important LimitationsOnly the first three nearest Stop Loss and Take Profit orders can be modified using this feature.The feature applies only to strategy-related Stop Loss and Take Profit orders.Entry orders cannot be modified using Single-Click Order Modification.Using ATM Strategies on NinjaTrader WebNinjaTrader Web supports ATM (Advanced Trade Management) templates that automatically attach Stop Loss and Take Profit levels to new trades.Creating an ATM StrategyStep 1: Open a ChartLaunch your preferred chart.​Step 2: Open ATM SettingsLocate the ATM section and click the settings icon.​Step 3: Create a New StrategyClick the + button to create a new ATM template.Choose a descriptive name for the strategy.Examples:Scalping SetupSwing Setup1:2 Risk RewardStep 4: Configure Take ProfitEnter your desired profit target.Example:40 TicksStep 5: Configure Stop LossEnter your maximum risk level.Example:20 TicksStep 6: Save the TemplateClick Save.The ATM strategy can now be applied to future trades automatically.Managing Stop Loss and Take Profit on MobileThe NinjaTrader mobile application allows traders to define risk parameters when entering a trade.Step 1: Place a TradeSelect your instrument and create a Buy or Sell order.​Step 2: Configure Risk ParametersBefore submitting the trade, enter:Stop Loss valueTake Profit valueStep 3: Submit the TradeConfirm the order.The Stop Loss and Take Profit levels will be attached to the position automatically.Modifying Stop Loss and Take Profit on MobileStep 1: Open PositionsNavigate to the Open Positions section.​Step 2: Select the TradeChoose the active position you wish to modify.​Step 3: Update Your LevelsAdjust:Stop LossTake ProfitStep 4: Save the ChangesConfirm the updated values.Best Practices for Risk ManagementBefore entering any trade:✓ Always define your maximum risk.✓ Use a Stop Loss on every position.✓ Set realistic Take Profit targets.✓ Verify all order details before submitting.✓ Avoid moving Stop Loss orders further away to increase risk.✓ Review your risk-to-reward ratio before entering the market.Why Use Stop Loss and Take Profit Orders?Consistently using Stop Loss and Take Profit orders can help traders:Protect capitalReduce emotional decision-makingMaintain disciplineFollow a structured trading planImprove long-term consistencyNeed Assistance?If you need help creating ATM strategies, modifying orders, or managing Stop Loss and Take Profit levels in NinjaTrader, the AquaFutures Support Team is available to assist you.Related ArticlesHow to Set and Manage Stop Loss & Take Profit in TradovateHow to Place and Close Trades in NinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderHow to Set and Manage Stop Loss and Take Profit in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

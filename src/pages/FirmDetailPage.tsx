@@ -3,6 +3,7 @@ import { PropFirm, SourceEvidence, AccountTier, ProgramModel } from '../types/sc
 import { ReviewCard } from '../components/reviews/ReviewCard.tsx';
 import { RiskSimulator } from '../components/simulator/RiskSimulator.tsx';
 import { RulesAccordion } from '../components/rules/RulesAccordion.tsx';
+import { RulesQuickView } from '../components/rules/RulesQuickView.tsx';
 import { buildParameterRules } from '../core/pipeline/parameterRules.ts';
 import {
   ExternalLink,
@@ -141,8 +142,8 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
       id: `derived-${selectedCapital}`,
       name: `${fmt(selectedCapital)} ${currentProgram?.name}`,
       nominalSize: selectedCapital,
-      price: Math.round(ref.price * ratio),
-      discountedPrice: ref.discountedPrice ? Math.round(ref.discountedPrice * ratio) : undefined,
+      price: ref.priceUnknown ? ref.price : Math.round(ref.price * ratio),
+      discountedPrice: ref.priceUnknown ? undefined : ref.discountedPrice ? Math.round(ref.discountedPrice * ratio) : undefined,
     };
   }, [currentProgram, selectedCapital, firm, isInstant, is1Step, is2Step]);
 
@@ -333,7 +334,7 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
         {
           label: 'Registration Fee', sub: 'Refundable?',
           slug: 'fee-refund', isDifferent: false,
-          phase1: { val: `${fmt(acc.discountedPrice || acc.price)} Paid Upfront`, note: 'One-time payment', color: 'text-white/70' },
+          phase1: { val: `${acc.priceUnknown ? 'Unknown' : fmt(acc.discountedPrice || acc.price)} Paid Upfront`, note: 'One-time payment', color: 'text-white/70' },
           funded: { val: acc.refundableFee ? '100% Refunded on 1st Payout' : 'Non-refundable', note: '', color: acc.refundableFee ? 'text-emerald-400' : 'text-red-400' },
         },
         {
@@ -420,7 +421,7 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
       {
         label: 'Registration Fee', sub: 'Paid upfront / refundable?',
         slug: 'fee-refund', isDifferent: false,
-        phase1: { val: `${fmt(acc.discountedPrice || acc.price)} Upfront`, note: 'One-time challenge payment', color: 'text-white/70' },
+        phase1: { val: `${acc.priceUnknown ? 'Unknown' : fmt(acc.discountedPrice || acc.price)} Upfront`, note: 'One-time challenge payment', color: 'text-white/70' },
         phase2: { val: '$0 — Free Phase 2', note: 'Phase 2 has zero additional cost', color: 'text-emerald-400' },
         funded: { val: acc.refundableFee ? '100% Refunded on 1st Payout' : 'Non-refundable', note: '', color: acc.refundableFee ? 'text-emerald-400' : 'text-red-400' },
       },
@@ -470,6 +471,31 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
           <span>Back to All Prop Firms</span>
         </button>
       </div>
+      {firm.slug === 'goat-funded-trader' && (
+        <div className="p-4 rounded-2xl bg-gradient-to-r from-blue-950/40 via-indigo-950/30 to-blue-950/40 border border-blue-500/30 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-blue-200 shadow-xl">
+          <div className="flex items-center gap-2.5">
+            <Sparkles className="w-5 h-5 text-blue-400 shrink-0" />
+            <div>
+              <strong className="text-white block sm:inline">Official Rules &amp; Intelligence Hub is active: </strong>
+              <span className="text-blue-200/80">You are viewing the legacy standard directory profile. The comprehensive live intelligence hub with all 13 models, evidence audit, and 4-model comparison is live.</span>
+            </div>
+          </div>
+          <div className="flex items-center gap-2 shrink-0">
+            <button
+              onClick={() => onNavigate('/prop-firms/goat-funded-trader')}
+              className="px-3.5 py-1.5 rounded-lg bg-blue-600 hover:bg-blue-500 text-white font-semibold text-xs transition-colors shadow-sm cursor-pointer"
+            >
+              Open Rules Hub
+            </button>
+            <button
+              onClick={() => onNavigate('/demo')}
+              className="px-3.5 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 text-white font-semibold text-xs transition-colors cursor-pointer"
+            >
+              Open Visual Matrix
+            </button>
+          </div>
+        </div>
+      )}
 
       <section className="p-4 sm:p-6 bg-[#111318] border border-[#1F2228] rounded-xl space-y-5 sm:space-y-6 overflow-hidden">
         <div className="flex flex-col lg:flex-row lg:items-start justify-between gap-6 border-b border-[#1F2228] pb-6">
@@ -723,9 +749,9 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
             <div>
               <span className="text-[#6B7280] block text-[10px] uppercase">Challenge Fee</span>
               <span className="font-semibold text-white text-sm">
-                {fmt(currentAccount.discountedPrice || currentAccount.price)}
+                {currentAccount.priceUnknown ? 'Unknown' : fmt(currentAccount.discountedPrice || currentAccount.price)}
               </span>
-              {currentAccount.discountedPrice && (
+              {currentAccount.discountedPrice && !currentAccount.priceUnknown && (
                 <span className="text-[10px] text-[#6B7280] line-through ml-1.5">
                   {fmt(currentAccount.price)}
                 </span>
@@ -887,6 +913,16 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
           ))}
         </div>
       </section>
+
+      {/* ══ 3.5 EVERY RULE BEFORE YOU START — QUICK VIEW (short answers up top, details below) ══ */}
+      <RulesQuickView
+        firm={firm}
+        program={currentProgram}
+        account={currentAccount}
+        rules={displayRules}
+        accountSizeLabel={fmt(selectedCapital)}
+        onSelectRule={scrollToRule}
+      />
 
       {/* ══ 4. ALL RULES — ACCORDION WITH FILTERS & HIDDEN RULES ══ */}
       {displayRules.length > 0 && (

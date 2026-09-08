@@ -1,0 +1,2100 @@
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Lark Funding Help Center
+Search for articles...
+Search for articles...
+
+Lark 3.0
+1 article
+
+About Lark Funding
+6 articles
+
+Trading Rules & Guidelines
+31 articles
+
+Take an Evaluation
+6 articles
+
+Challenge Essentials
+6 articles
+
+Trading Platforms
+1 article
+
+Special Features
+6 articles
+
+Affiliates & Partnerships
+2 articles
+
+Video Tutorials
+2 articles
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Lark 3.0
+1-Step Career Evaluation Details
+1-Step Career Evaluation Details
+Updated over 2 weeks ago
+Please read all of the following rules closely to understand the program.
+
+ 
+
+The Maximum Drawdown Limit & Daily Caps
+7% Max Static Drawdown Limit
+
+The Maximum Loss Limit is a threshold preventing an account’s equity or balance from falling below a certain point. It is calculated as 7% of the initial account balance.
+
+5% Daily Loss Limit
+
+The daily loss limit is 5% of the account's balance, as calculated at 5:00 pm EST. If this limit is hit, it's considered a hard breach, and a trader will no longer be able to trade their account.
+
+Account Target
+
+This program has a target of 10%. Upon your account's floating equity hitting the target, our system will automatically recognize it as a pass. You will then be able to complete your KYC and Trader Agreement directly in your Trader Dashboard.
+
+Performance Rewards 
+The standard reward is 80% of the simulated gains on your Master Account.
+Performance reward can be requested every 14 days directly from your Trader Dashboard.
+
+ 
+
+Rewards are processed via Riseworks. There is a $40 processing fee that will be removed from your payout.
+
+Monthly Base Rewards - How It Works
+The Monthly Base Reward is a commercial fee paid to contractors who demonstrate professional consistency and provide high-quality trading data on Master Accounts.
+
+Eligibility (Evaluated every 30 days) To qualify for this data consistency fee, all of the following requirements must be met within the 30-day period:
+Maintain Professional Standards: Keep overall drawdown better than −3.5%.
+
+Demonstrate Repeatable Skill: Record at least 3 profitable trading days of 0.5% or more each.
+
+Once eligible, submit your request through your Dashboard. Requests are typically processed within 2–3 business days after approval.
+
+ 
+
+Where to Track & Request
+Dashboard → Payouts
+
+ 
+
+Payout Cadence
+A contractor may earn the Base Reward forever, provided they re-qualify each month by meeting the consistency benchmarks.
+
+Note: Eligibility is sequential. If a contractor qualifies in Month 1 but fails to provide the required consistent data in Month 2, the consecutive streak ends, and they are not eligible for Month 3.
+
+ 
+
+Monthly Base Reward Amounts
+$10K account → $50
+
+$25K account → $125
+
+$50K account → $250
+
+$100K account → $500
+
+$200K account → $1,000
+
+A $40 Riseworks processing fee applies to each payment.
+
+ 
+
+Important Legal Clarification
+The Monthly Base Reward is strictly a B2B contractor fee for the provision of consistent simulated market data.
+
+Not Employment: This payment is not a wage, salary, or employee compensation. It conveys no employment rights, benefits, or insurance.
+
+Independent Status: All traders participating in this program act as Independent Data Contractors. You are responsible for reporting this income according to the tax laws of your local jurisdiction.
+
+Instruments, Simulated Leverage & Commissions
+The simulated leverage offered is the following:
+
+ 
+
+FX: 30:1
+
+Metals: XAUUSD - 10:1 and XAGUSD - 5:1
+
+Indices: 10:1
+
+Commodities: 5:1
+
+Crypto: 2:1
+
+Stocks: 5:1
+
+ 
+
+There is a 7$ round trip commission per standard lot for FX and Metals. For stocks, it's 0.02$ or 2 cents per share. 
+
+ 
+
+Crypto, Indices and Oil are commission-free.
+
+News Trading
+We currently don't have any restrictions surrounding news events. However, please refer to our All-or-Nothing prohibited trading strategy and ensure that you're remaining risk-managed at all times.
+
+Smart Restart Guarantee
+Every Evaluation includes four attempts.
+​
+
+How It Works
+The Smart Restart Guarantee provides Free Reset Opportunity at no cost.
+If your first attempt fails but you traded within the required risk parameters, you qualify for a free restart.
+
+ 
+
+Eligibility Requirements
+To receive a free restart, both of the following must be met during your first attempt:
+
+No individual trade setup may incur a loss greater than 1% of the account balance.
+
+Your maximum overall drawdown must remain better than −5%.
+
+How to Claim
+If you meet the criteria, a “Surrender Account” button will appear in your dashboard.
+Clicking it immediately surrenders the account and triggers issuance of a 100% discount code for a new Evaluation.
+
+ 
+
+Important Notes
+You may surrender your account at any time once you qualify during evaluation process.
+
+If your drawdown briefly exceeds −5% (e.g., reaches −6%) but later returns to −5% or better, you may still qualify, provided no single trade exceeded the 1% loss limit.
+
+Accounts using the Surrender feature will no longer be eligible for the promotion applied to the original purchase.
+
+The Smart Restart Option can be used up to 3 times per Evaluation account purchased.
+
+Please note: after 3 successful resets, the system may still allow additional resets if the criteria are met. However, you are only permitted to use this feature up to 3 times per purchased Evaluation account. Please refrain from using it beyond this limit to avoid issues once you pass the evaluation.
+
+TrackAlpha.AI - Your AI Journal & Trading Coach
+When you purchase a Career Evaluation, you'll get access to our in-house TrackAlpha trading software.
+
+ 
+
+It will be your trading companion for logging, tagging and reviewing performance.
+
+ 
+
+How to access:
+
+Open your purchase confirmation email.
+
+Register in the TrackAlpha.AI site with the same email you used at checkout and using the code.
+
+Start logging trades!
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+About Lark Funding
+
+About Lark Funding
+Details About Lark Funding
+
+6 articles
+What is Lark Funding?
+Are you regulated?
+Do we manipulate the pricing or executions you receive in your Simulated Funded Account?
+Am I trading real funds?
+Who is the counterparty to my trades?
+What countries are we available in?
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+
+Trading Rules & Guidelines
+31 articles
+How do you calculate the 7% Max Drawdown?
+General
+Am I subject to any position limits?
+What are the rules for the Simulated Funded Account?
+Can I take multiple Evaluations at once?
+Where do I track the progress of my account?
+What is a Soft Breach?
+Can I combine my accounts?
+What is the minimum age I must be to be part of your program?
+What hours can I trade?
+How are taxes handled?
+How will I see the charge on my statement?
+How are the spreads?
+How Does Drawdown Lock Work on Instant Accounts After a Withdrawal?
+What markets and symbols can I trade?
+Maximum Capital Allocation
+Can I copy trades from my other prop firm accounts?
+Can I purchase add-ons after passing my account?
+Monthly Competition - Rules
+Can I hold trades overnight?
+Is there any lot size restriction?
+What is considered a single trade setup?
+Contract Size ( Units ) per Lot
+Allowed and Prohibited Trading Rules
+Prohibited Trading Strategies
+Can I use an Expert Advisor?
+Is scalping permitted?
+Can I trade during news events?
+Is anyone else allowed to trade my account for me?
+Margin Rules
+What happens if I violate a rule of the challenge?
+Can I use a VPN?
+What is Hold Over The Weekend add-on and how does it work?
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+How do you calculate the 7% Max Drawdown?
+How do you calculate the 7% Max Drawdown?
+December 16, 2025
+The maximum drawdown level is the maximum your account can drawdown before you would hard breach your account.
+
+ 
+
+On our 1-stage evaluation, it is a 7% static drawdown.
+
+ 
+
+Example 1)
+
+ 
+
+When you start a $100,000 Evaluation, you can draw down to $93,000 before you would breach the account.
+
+ 
+
+If the account rises to $105,000, you can still draw down to $93,000.
+
+ 
+
+Example 2)
+
+ 
+
+On a $50,000 Evaluation, the account can drop to $46,500 before it would be breached.
+
+ 
+
+If the account goes from $50,000 to $48,000, you would still have $1,500 of draw-down room before the account would be breached.
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Am I subject to any position limits?
+Am I subject to any position limits?
+September 15, 2023
+We reserve the right to limit the number of open positions you may enter or maintain in the Simulated Funded Account at any time, and to revise in response to market conditions the drawdown levels at which trading in the Simulated Funded Account will be halted. We or the Broker reserve the right to refuse to accept any order.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+What are the rules for the Simulated Funded Account?
+What are the rules for the Simulated Funded Account?
+September 29, 2023
+The rules for the Simulated Funded Account are exactly the same as your Assessment account. However, with a Simulated Funded Account, there is no account gain target.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Can I take multiple Evaluations at once?
+Can I take multiple Evaluations at once?
+July 19, 2026
+Yes, traders can take multiple Evaluations at once. However, all the evaluations purchased from us should be passed individually which means you can't copy trades on multiple Lark Evaluation Accounts.
+
+ 
+
+However, once you are funded - you can copy trades across multiple Lark accounts.
+
+ 
+
+Additionally, you can copy trades from your Lark Simulated Funded Account(s)/ Instant Account(s) to a single Lark Evaluation account, but not to multiple evaluation accounts.
+
+ 
+
+If you wish to trade multiple Lark Evaluation accounts simultaneously, each account must have different trades. Please avoid placing the same or overlapping trades on the same instrument across both challenge accounts.
+
+ 
+
+You can also copy trades from your external account(s) to a single lark Evaluation account or multiple Funded/ Instant accounts.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Where do I track the progress of my account?
+Where do I track the progress of my account?
+March 21, 2023
+Upon purchasing an Assessment, you will receive access to a trader dashboard where you can monitor your Assessment and Funded accounts.
+
+ 
+
+The dashboard is updated every time we calculate metrics, which occurs roughly every 60 seconds. It is your responsibility to monitor your breach levels accordingly.
+
+ 
+
+With great power comes great responsibility! 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+What is a Soft Breach?
+What is a Soft Breach?
+May 12, 2023
+A soft breach is a reminder to stick to the rules.
+
+ 
+
+You may have received a soft breach email for not placing a stop loss if you're unable to trade without them.
+
+ 
+
+This doesn't mean you have breached your account. You are free to continue trading as normal.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Can I combine my accounts?
+Can I combine my accounts?
+October 6, 2023
+We currently don't support the ability to combine accounts. However, we do allow trade copying between your Simulated Funded Accounts so you can more easily manage multiple accounts.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+What is the minimum age I must be to be part of your program?
+What is the minimum age I must be to be part of your program?
+March 21, 2023
+You must be at least 18 years of age to purchase an assessment. Sorry ambitious teens!
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+What hours can I trade?
+What hours can I trade?
+July 8, 2024
+Our trading hours are set by our third-party liquidity providers.  We do not have any control over the trading hours.
+
+ 
+
+Please note that holidays can have an impact on available trading hours.
+
+ 
+
+Additionally, pursuant to the no-holding trades over the weekend rule, we close all open trades at 3:45 pm EST on Fridays.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+How are taxes handled?
+How are taxes handled?
+September 29, 2023
+When trading a Simulated Funded account for Lark Funding, you are treated as an independent contractor.  As a result, you are responsible for any and all taxes on your performance splits.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+How will I see the charge on my statement?
+How will I see the charge on my statement?
+July 24, 2023
+Charges come across in the name of LF Dashboards Inc.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+How are the spreads?
+How are the spreads?
+July 9, 2025
+All accounts provided at Lark Funding are demo accounts. However, we work with third-party liquidity providers to ensure the demo accounts offer excellent simulated live trading conditions.
+
+ 
+
+Currently, we use a variety of liquidity providers who use a number of different Tier 1 banks, prime brokers, market makers and other liquidity sources to derive their pricing.
+
+ 
+
+We do not have control of or visibility into the underlying banks, prime brokers and market makers that our aggregated LPs are using at any current point in time.
+
+ 
+
+Aggregating liquidity providers while maintaining multiple redundant sources for this liquidity allows us to provide competitive pricing and execution, while reducing reliance on a sole liquidity provider. 
+
+ 
+
+You can use the following link and credentials to check our spreads in real-time:
+
+ 
+
+Link: https://trade.gooeytrade.com/
+
+Username: LH_C00009
+
+Password: gjt6n6jfr5F$
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+How Does Drawdown Lock Work on Instant Accounts After a Withdrawal?
+How Does Drawdown Lock Work on Instant Accounts After a Withdrawal?
+February 15, 2026
+On instant accounts:
+When you request your first withdrawal or achieve 8% gain of your starting account balance, your trailing drawdown will be locked at your initial balance and will remain static, giving you two options: 
+
+1. Withdraw all gains: This will result in breaching the account. You will still receive the amount you choose to withdraw, but the account will be breached. 
+
+ 
+
+2. Withdraw a portion of the gains: For example, if you made $8,000 on a $100,000 account, you could withdraw $3,000 and leave $5,000 in the account, maintaining a 5% drawdown or vice-versa. This allows you to continue trading with the remaining drawdown. 
+
+ 
+
+Ultimately, it's up to you to decide how much to keep as drawdown and how much to withdraw.
+
+ 
+
+This allows us to protect firm capital and encourages traders to adopt a long-term mindset and compound their accounts to achieve larger-sized payouts. Building gains before your first withdrawal increases your buffer against breaches, providing greater flexibility in volatile conditions. 
+
+ 
+
+The maximum drawdown will become static and remain fixed at the initial balance after the first withdrawal or once 8% in gains has been achieved.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+What markets and symbols can I trade?
+What markets and symbols can I trade?
+January 16, 2026
+Lark Funding offers access to demo feeds across a wide range of markets including stocks, forex, indices, cryptocurrencies, metals, and commodities. Over 100 U.S. stocks are available, with supported stock Contracts for Difference (CFDs) offering leverage of 1:5 to amplify trading positions. The demo account offers a comprehensive resource to explore tradable instruments, their spreads, and other critical trading details, making it ideal for both new and experienced traders. With these features, Lark Funding supports portfolio diversification and seamless accessibility across its platforms.
+
+ 
+
+Symbol Offering - 24 June 2024 (1) (1) (1) (1) (1) (2).xlsx
+Equities Symbols List - 29 Jan 2025 (1) (3) (1)-1 (1) (1) (1) (1) (1) (1) (1).xlsx
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Maximum Capital Allocation
+Maximum Capital Allocation
+May 14, 2026
+The current Maximum Capital Allocation is 200,000 for evaluation accounts and 100,000 for instant accounts.
+
+ 
+
+• You may purchase multiple evaluation accounts exceeding $200,000. However, you may only actively trade up to $200,000 in funded accounts at any given time. If you pass multiple accounts exceeding this limit, the additional accounts must remain on hold until the current $200,000 funded allocation is breached or no longer active.
+
+ 
+
+For copy trading between multiple accounts, please refer to this article:
+
+ 
+
+https://helpdesk.larkfunding.com/en/articles/7182029-can-i-take-multiple-evaluations-at-once
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Can I copy trades from my other prop firm accounts?
+Can I copy trades from my other prop firm accounts?
+March 5, 2026
+Yes, you can copy trades from your external account(s) to a single Lark evaluation account not multiple. Each evaluation account must be passed individually, so copying trades to multiple evaluation accounts is not allowed.
+
+ 
+
+Once you are Funded or on Instant Program, you can copy trades across multiple accounts.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Can I purchase add-ons after passing my account?
+Can I purchase add-ons after passing my account?
+March 12, 2026
+No, all add-ons must be purchased before passing your challenge account.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Monthly Competition - Rules
+Monthly Competition - Rules
+July 15, 2026
+Competition Rules
+• The maximum lot size for this competition is 5 open lots. If breached once, it is a soft breach; repeated breaches result in a hard breach. 
+
+ 
+
+This applies to FX, stocks, commodities, and crypto, and you may not have more than 5 lots open at any time. 
+
+ 
+
+• The maximum static drawdown is 7% and the daily loss limit is 5%.
+
+ 
+
+• Weekend holding and news trading are allowed. A minimum of 3 trading days is required. 
+
+ 
+
+• Unrealistic fills in the demo environment are prohibited. Expert Advisors (EAs) are not permitted; suspected use of a trade copier connected to a high-frequency trading (HFT) EA will result in removal. 
+
+ 
+
+• Only one account per household is permitted; creating multiple accounts will result in a permanent ban from future competitions. 
+
+ 
+
+• Prize Breakdown:
+
+ 
+
+
+ 
+
+ 
+
+🏆 Winners will be contacted by the Lark Funding Team to arrange their prize.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Can I hold trades overnight?
+Can I hold trades overnight?
+May 21, 2026
+Yes, holding trades overnight is allowed!
+
+ 
+
+However, swap charges may apply unless you opt for a swap-free account.
+
+ 
+
+For holding trades over weekend, please refer to this article:
+
+ 
+
+https://helpdesk.larkfunding.com/en/articles/13644432-what-is-hold-over-the-weekend-add-on-and-how-does-it-work
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Is there any lot size restriction?
+Is there any lot size restriction?
+May 17, 2026
+No, we do not have any lot size restrictions. However, please refer to our Risk Guidelines here:
+
+ 
+
+https://helpdesk.larkfunding.com/en/articles/8243502-prohibited-trading-strategies
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+What is considered a single trade setup?
+What is considered a single trade setup?
+May 18, 2026
+Similar trades opened and closed within a short interval of 1–2 minutes are considered part of a single trade setup.
+
+ 
+
+Similar trades refer to trades placed in the same direction on the same instrument. For example, multiple Sell trades on XAUUSD opened within a short period would be treated as related trades.
+
+ 
+
+For example:
+
+ 
+
+You open a Sell trade on XAUUSD and close it with a loss of -$100.
+
+ 
+
+Within 1-2 minutes, you open another Sell trade on XAUUSD and close it with a loss of -$150.
+
+ 
+
+Since both trades are similar and executed within a short interval, they will be treated as a single trade setup. The total loss for the setup would therefore be -$250.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+General
+Contract Size ( Units ) per Lot
+Contract Size ( Units ) per Lot
+June 11, 2026
+Please see the attached document for the contract size values corresponding to a 1-lot position for each instrument.
+
+ 
+
+Please note that stock CFDs are not included in this file. For stock CFDs, 1 lot is equivalent to 1 share CFD. 
+
+ 
+
+GooeyTrade Contract Size - Oct 2024-1 (3) (1) (1) (1).xlsx
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Prohibited Trading Strategies
+Prohibited Trading Strategies
+May 25, 2026
+All-or-Nothing & Gambling-Based Trading
+Lark Funding strictly prohibits all-or-nothing trading and gambling-style behavior. All-or-nothing trading refers to a style of trading where a trader could breach, or come close to breaching, the drawdown limits in a single trade due to the large volume of positions, lots executed, or margin utilization. This includes trading during normal market hours and/or during high-impact news events.
+​
+We consider this form of trading to be similar to gambling. As a result, it is not allowed.
+
+
+Risk Management Guidelines:
+As a general guideline, we recommend not exceeding the following overall margin utilization:
+
+Forex: 50%
+
+Metals: 50%
+
+Indices: 75%
+
+Oils: 75%
+
+Crypto: 75%
+
+Stocks: 75%
+
+We also recommend a maximum risk per simulated trade idea of up to 1.5%.
+​
+
+If you are found to be continuously engaging in such activities, the Company reserves the right to immediately close your account. Such closure may include the forfeiture of any fees owed to you by the Company, at the Company’s sole discretion.
+
+
+Enforcement via Gain Limits:
+To enforce this policy, the following gain limits apply:
+
+The daily and/or per-trade gain limit is set to $10,000.
+
+Gains are calculated based on your balance and equity at 5:00 PM EST.
+
+Trades executed at similar times or closed in several parts will count as a single trade.
+
+Gains made across multiple phases on a single day will be considered toward the daily gain limit.
+
+Example: If trading occurs in both Phase 1 and Phase 2 on the same day, the combined gains from that day will count toward the daily gain limit.
+​
+
+Consequences for Exceeding the Gain Limit
+Challenge Account
+
+A single violation requires a restart from Phase 1.
+
+A free Evaluation will be issued.
+
+No refunds will be provided.
+
+Simulated Funded Account
+
+Trades exceeding the $10,000 limit will be excluded from account.
+
+Three violations result in an immediate account breach with no payout.
+​
+​Our team is actively working on automation to enforce this rule. Until then, all trades will be evaluated manually.
+
+High-Frequency Trading
+High-Frequency Trading (HFT) involves the use of advanced computer algorithms and rapid telecommunication networks to execute a vast number of trades in mere split seconds. 
+
+ 
+
+Lark Funding does not allow HFT as it may lead to market manipulation, provide unfair advantages, and could potentially destabilize the market. Any trader identified practicing HFT will breach Lark Funding's Terms of Use and will lose their trading privileges on our platform. 
+
+Reverse Trading / Group Hedging
+Hedging or executing reverse trades within a single account is permitted.
+​
+
+What is prohibited?
+
+Executing a buy trade on one account and a sell trade on another account, or vice versa, is strictly prohibited.
+
+Group hedging across multiple accounts and/or coordinating opposing positions at one or multiple prop firms practice is strictly prohibited.
+
+Copy Trading
+Copy trading is only permitted if the trader owns and controls all accounts involved.
+​
+
+What is not allowed?
+
+Group trading of any kind
+
+Signal services or account-passing services
+
+Any method that bypasses individual trading strategy
+
+Trades that mirror or closely align with another trader or group across multiple accounts
+
+Holding Into Earnings, Dividends, or Other Corporate Actions
+Holding a demo Single Share Equity CFD position through an earnings release, dividend distribution, or any other corporate action relating to the underlying equity is strictly prohibited.
+
+ 
+
+To avoid being in breach of this rule, clients must close all such Single Share Equity CFD positions by 3:50 pm Eastern Time on the day of the dividend, earnings release, or corporate action if it is an aftermarket event, or on the preceding trading day if the event occurs before market open.
+
+ 
+
+Violation of this rule will constitute an immediate, hard breach of your account, and any gain or loss on the affected position will be removed from all gain calculations. 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Can I use an Expert Advisor?
+Can I use an Expert Advisor?
+May 17, 2026
+Whilst we do not prohibit the use of EAs, we have not released a public API for access to our platforms.
+
+ 
+
+Any connections made to our platform are at your own discretion and risk.
+
+ 
+
+Additionally, please ensure your EA supports our instance of platforms.
+
+ 
+
+DXTrade:
+
+ 
+
+https://trade.gooeytrade.com/
+
+ 
+
+CTrader:
+
+ 
+
+https://app.gooeytrade.com/
+
+ 
+
+MatchTrader:
+
+ 
+
+https://mtr.gooeytrade.com/login
+
+ 
+
+Using EAs designed for High Frequency Trading or arbitrage trading is strictly prohibited.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Is scalping permitted?
+Is scalping permitted?
+March 23, 2023
+Yes! We allow scalping on all Lark Funding Evaluations and Funded Accounts.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Can I trade during news events?
+Can I trade during news events?
+July 16, 2024
+Yes! We allow trading during news events. However, please refer to our All-or-Nothing prohibited trading strategy. Opening a large position size before or during a high-impact news event does not align with sound risk management principles and could lead to a breach of our terms and conditions.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Is anyone else allowed to trade my account for me?
+Is anyone else allowed to trade my account for me?
+March 22, 2023
+Only the account owner should trade on all accounts associated with our challenges, and changes should not be made once a phase has been completed.
+
+ 
+
+Sharing account login information with other traders is not allowed, and accessing trading accounts via VPN or VPS is discouraged to ensure accurate tracking of data through our internal systems.
+
+ 
+
+The use of account management, "pass your challenge," and copy trading services is strictly prohibited, and violating any of these rules will result in the rejection of funded accounts and a permanent ban from our services.
+
+ 
+
+If our system detects any of the aforementioned violations, it will be considered a breach of your account and lead to a ban from our services.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Margin Rules
+Margin Rules
+November 16, 2023
+It's crucial to keep in mind that when trading with leverage, traders are responsible for actively monitoring their open positions and ensuring that they maintain the necessary margin level.
+
+ 
+
+Our Margin Rules for Challenge and Funded Accounts are as follows:
+
+Margin Call level - 110%
+
+Stop Out level - 100%
+
+If the margin level reaches 110%, a Margin Call will be issued, and no new trades can be opened.
+
+ 
+
+If the margin level drops to 100% or below, a Stop Out will occur, and your positions will begin to close starting with the least profitable one.
+
+ 
+
+To maintain and manage your margin levels effectively, it may be necessary to reduce the lot size of your positions and decrease the margin you're trading on. We strongly recommend that traders practice proper risk management and use stop losses to prevent margin calls. Your available margin is calculated based on your current balance.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+What happens if I violate a rule of the challenge?
+What happens if I violate a rule of the challenge?
+October 30, 2023
+If you breach our daily or maximum drawdown rule, our system will automatically restrict your account. Your account status on the dashboard will show as "Breached" to indicate this violation. To attempt the Evaluation again, you will need to buy another account through our website.
+
+ 
+
+If a breach of one of our Terms or Prohibited Strategies is detected, your account will be breached and you'll be permanently banned from taking future Assessments.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+Can I use a VPN?
+Can I use a VPN?
+March 22, 2023
+As per our Terms and Conditions, all traders participating in our challenge and funded programs must be the sole traders of their accounts. For this reason, we strongly discourage accessing your trading account via VPN or VPS. This is a common practice for services that do not allow multiple users on a single account.
+
+ 
+
+It is important to note that you are allowed to use a VPN or VPS, but please be aware that if any suspicious activity is found on your account, the use of these tools will be a significant factor in determining whether or not you have violated our terms and conditions.
+
+ 
+
+If you choose to use a VPN or VPS, please make sure that you are not violating any of our terms and conditions, such as having multiple users trading on your account or using any type of automated trading system.
+
+ 
+
+Additionally, please note that you are not allowed to connect to a VPN or VPS during the KYC/AML verification process. If you are found to have completed the KYC/AML process using a VPS or VPN, your account may not be funded or your funded account may be disabled or breached.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Trading Rules & Guidelines
+Allowed and Prohibited Trading Rules
+What is Hold Over The Weekend add-on and how does it work?
+What is Hold Over The Weekend add-on and how does it work?
+Updated this week
+Traders who wish to trade or hold their positions over the weekend must purchase the Hold Over The Weekend add-on, which costs 10% of your account fee. This add-on can be selected during checkout or requested for an existing account by emailing support@larkfunding.com
+
+ 
+
+If the add-on is not purchased, trading will be automatically disabled at 3:45 PM EST on Fridays, and all open trades and pending orders will be closed by the system. 
+
+ 
+
+Please note that traders should not rely on the system to close trades automatically. As a trader, it is your responsibility to manage your trades and risk appropriately.
+
+ 
+
+For those who purchase the weekend-holding upgrade, crypto trading will remain available during the weekend except for a temporary break between 5-6 pm EST and a 4-hour break from 9 am-1 pm EST on Saturday mornings.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+
+Take an Evaluation
+Choose an Evaluation Model
+
+6 articles
+3-Step Evaluation Details
+Instant Master Account Details
+Simulated Master Accounts
+Once I pass the Evaluation am I provided with a demo or live account?
+How do payouts work?
+Is the challenge fee refundable?
+Withdrawal Rules – $1,000 Instant Account
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+3-Step Evaluation Details
+3-Step Evaluation Details
+April 27, 2026
+ 
+
+The Maximum Drawdown Limit & Daily Caps
+5% Max Static Drawdown Limit
+
+The Maximum Loss Limit is a threshold preventing an account’s equity or balance from falling below a certain point. It is calculated as 5% of the initial account balance.
+
+No Daily Loss Limit
+
+There is no daily loss limit on the 3-Step Evaluation.
+
+Account Target
+
+In Phase 1, the simulated gain target is 5%. In Phase 2, it is 4% and in Phase 3, 3%. Upon your account's floating equity hitting the target, our system automatically recognizes it as a pass and you will automatically receive an email with your new account credentials.
+
+ 
+
+Once you pass the Evaluation, you will automatically be able to complete your KYC and sign your Trader Agreement directly in your Trader Dashboard. Upon completion, we will then issue you your Master Account.
+
+News Trading
+We currently don't have any restrictions surrounding news events. However, please refer to our All-or-Nothing prohibited trading strategy and ensure that you're remaining risk-managed at all times.
+
+Instruments, Simulated Leverage & Commissions 
+• The simulated leverage offered is the following: 
+
+ 
+
+FX: 50:1 
+
+Metals: ( XAUUSD 10:1 and XAGUSD 5:1 )
+
+Indices: 20:1 
+
+Commodities: 5:1 
+
+Stocks: 5:1 
+
+Crypto: 2:1 
+
+ 
+
+• There is a 7$ round trip commission per standard lot for FX and Metals. For stocks, it's 0.02$ or 2 cents per share. Crypto, Indices and Oil are commission-free.
+
+Reward Request
+The standard reward is 80% of the simulated gains on your Master Account. You can purchase an upgrade at checkout to increase your rewards to 90%.
+
+ 
+Rewards can be requested every 14 days directly from your Trader Dashboard. A weekly payouts add-on can also be purchased during checkout to get your rewards every 7 days.
+​
+
+Rewards are processed via Riseworks. There is a $40 processing fee that will be removed from your payout.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+Instant Master Account Details
+Instant Master Account Details
+Everything you need to know about our Instant Funding Program.
+
+Updated over 3 weeks ago
+This program offers direct access to a simulated Master account. It's, therefore, crucial that you have a refined trading and risk management system.
+
+ 
+
+Please read all of the following rules closely to understand the program.
+
+The Maximum Daily Loss & Trailing Loss Limit
+5% Daily Loss Limit
+The Maximum Daily Loss is the amount a trader is allowed to lose in a single day. For this rule, it is calculated based on your previous day closed account balance at 5 PM EST. The rule states that the account’s daily equity—which is the sum of all closed positions plus the currently floating PnL—must not reach the Maximum Daily Loss limit. This limit resets every day at 5:00 pm EST.
+
+8% Max Trailing Drawdown Limit
+The Maximum Trailing Loss Limit is a threshold that prevents an account’s equity or balance from falling below a certain point. It is calculated based on 8% of the account’s highest recorded closed balance. The breach level trails the highest closed balance recorded on the account, while the highest equity reached does not affect the drawdown level. The drawdown will lock at the initial account balance once the account reaches an 8% gain or when you request your first payout. For example, if your highest recorded closed balance is $105,000, the breach level would be $97,000, meaning the account’s equity or balance must not fall below $97,000. 
+
+ 
+
+The Maximum Trailing Loss Limit does not reset after a reward.
+
+ 
+
+News Trading & Lot Size Limits
+We currently don't have any restrictions surrounding news events. However, please refer to our All-or-Nothing prohibited trading strategy and ensure that you're remaining risk-managed at all times.
+
+ 
+
+There is no hard set lot size limit. A trader is restricted solely based on their available leverage.
+
+ 
+
+Instruments, Simulated Leverage & Commissions
+We offer simulated trading on Forex, Metals, Crypto, Indices & Energies with RAW spreads. There is a 7$ round trip commission per standard lot for FX and Metals. For stocks, it's 0.02$ or 2 cents per share.
+
+ 
+
+Crypto, Indices and Oil are commission-free.
+
+ 
+
+The standard simulated leverage that will be applied on all accounts in the Lark Funding Instant model is:
+
+Forex: 1:50
+
+Metals: XAUUSD - 1:10 and XAGUSD - 1:5
+
+Indices: 1:10
+
+Crypto: 1:2
+
+Stocks 1:5
+
+ 
+
+Payouts Requests
+The standard reward is 90% of the simulated gains on your Master account. 
+
+ 
+
+We offer the first payout on-demand. This means that you can request your first reward whenever you would like. All subsequent rewards can be requested every 30 days, with a $100 minimum.
+
+ 
+
+Rewards can be processed via Riseworks.
+
+ 
+
+Note that your 8% maximum trailing drawdown does not reset upon requesting a payout.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+Simulated Master Accounts
+Once I pass the Evaluation am I provided with a demo or live account?
+Once I pass the Evaluation am I provided with a demo or live account?
+September 2, 2023
+In order to best serve our clients, trading in all stages of the cooperation between Lark Funding and the client is via a demo account.
+
+ 
+
+No live funds are ever, at any point, provided to the client.
+
+ 
+
+To avoid any confusion, please keep in mind that a Simulated Funded Account is a fully simulated account with real market quotes from liquidity providers. The trading data is sent off to a partnered proprietary trading firm where trades are copied at their own discretion using aggregated orders using proprietary risk management techniques.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+Simulated Master Accounts
+How do payouts work?
+How do payouts work?
+February 25, 2026
+All payout requests are made directly from your dashboard—simple and streamlined.
+
+When can I request a payout?
+Here is the current payout frequency across our programs:
+
+ 
+
+1-Step First Payout: 14 Days
+
+1-Step Subsequent Payouts: 14 Days
+
+ 
+
+2-Step First Payout: 14 Days
+
+2-Step Subsequent Payouts: 14 Days
+
+ 
+
+3-Step First Payout: 14 Days
+
+3-Step Subsequent Payouts: 14 Days
+
+ 
+
+Instant Accounts First Payout: On Demand
+
+Instant Account Subsequent Payouts: 30 Days
+
+ 
+
+• The Weekly Payouts add-on can be purchased during checkout or by emailing us at support@larkfunding.com
+
+Payout Details
+Minimum withdrawal: $100
+
+Processing fee: $40 (flat)
+
+Payout processor: We use Riseworks for all withdrawals
+
+Processing time: Most payouts are handled in under 6 hours, but please allow up to 3 business days, just in case.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+Simulated Master Accounts
+Is the challenge fee refundable?
+Is the challenge fee refundable?
+March 21, 2023
+The challenge fee is not currently refundable.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Take an Evaluation
+Simulated Master Accounts
+Withdrawal Rules – $1,000 Instant Account
+Withdrawal Rules – $1,000 Instant Account
+February 17, 2026
+• What is the maximum withdrawal on a $1,000 Instant Account?
+
+ 
+
+The maximum total withdrawal allowed per $1,000 Instant Account is $100 after your performance split.
+
+• Can I withdraw more than $100 if I make higher gains?
+
+ 
+
+No. Even if your gain exceeds $100, you can only withdraw up to $100 total per $1,000 Instant Account.
+
+• Is there a payout processing fee?
+
+ 
+
+No. There is no $40 Riseworks payout fee on $1,000 Instant Accounts.
+
+• What is the minimum payout request allowed on $1,000 instant accounts?
+
+ 
+
+Minimum payout on instant accounts is $50.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+
+Challenge Essentials
+Lark Funding Challenge Essentials
+
+6 articles
+How long does the Evaluation process take?
+Is there a breach for inactivity?
+Why do I have to place a stop loss on trades?
+Is hedging allowed?
+How quickly do I receive my Evaluation Account?
+How quickly will I receive my Master Account?
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+How long does the Evaluation process take?
+How long does the Evaluation process take?
+July 10, 2025
+At Lark Funding, the timeline is 100% dependent on you.
+
+ 
+
+We offer multiple Evaluation types—including 1-Step, 2-Step, 3-Step, and Instant Accounts. 
+
+ 
+
+There are no time limits and no minimum trading days on any of our programs. You can trade at your own pace, whether that means passing in a week or taking your time over several months.
+
+ 
+
+Here’s how it works:
+
+For multi-step Evaluations, you move to the next stage once you've hit your targets and followed all the rules—no artificial deadlines, no pressure.
+
+For Instant Accounts, there's no Evaluation required. You can start earning rewards from day one.
+
+Take your time. Trade smart. And pass when you're ready—not when a countdown says so.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+Is there a breach for inactivity?
+Is there a breach for inactivity?
+March 7, 2026
+We require traders to place at least one trade every 30 days to keep their accounts active. Even opening and closing a 0.01 lot trade is enough to maintain activity. This requirement helps prevent accounts from being automatically removed from our broker’s servers due to inactivity.
+
+ 
+
+If your account gets breached due to 30 days of inactivity, you can email us at support@larkfunding.com to request that the inactivity breach be removed.
+
+ 
+
+However, please note that reinstatement is not guaranteed if the account has remained inactive for a long period of time after the breach. In such cases, we still recommend emailing us so we can check and confirm whether the account can be reinstated.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+Why do I have to place a stop loss on trades?
+Why do I have to place a stop loss on trades?
+March 21, 2023
+Because it's smart and prudent risk management! Which of course, is the key to longevity in trading. If you fail to place a stop loss at the time of placing an order or executing a trade, our system will automatically close the trade.
+
+ 
+
+This is only considered a soft breach rule, so you will be able to continue trading your account.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+Is hedging allowed?
+Is hedging allowed?
+October 17, 2023
+Yes, hedging is allowed within the same trading account. Hedging between two or more Evaluations or Simulated Funded Accounts is strictly prohibited.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+How quickly do I receive my Evaluation Account?
+How quickly do I receive my Evaluation Account?
+January 16, 2026
+Your Evaluation account credentials are sent via email immediately after purchase, so you can begin trading right away. Credentials for the next evaluation phase (e.g., Phase 2) are processed instantly and should arrive within 10 minutes after passing the previous phase. Please check your email for this update. If you haven’t received your credentials within the mentioned timeframe, please follow these steps:
+
+Check Your Email Inbox: Be sure to look in your primary email folder and spam/junk folders for the email containing your credentials.
+
+Submit a Request: Email us at support@larkfunding.com to request Phase login credentials be reissued. For Simulated Funded Account credentials, ensure all KYC requirements are fulfilled. These credentials are processed within 24-48 business hours. Response times may vary based on risk analysis. Still have issues? Just email us, and our team will make sure you’re taken care of promptly.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Challenge Essentials
+How quickly will I receive my Master Account?
+How quickly will I receive my Master Account?
+July 10, 2025
+Once you successfully pass your Evaluation, you’ll be prompted to complete KYC and sign your Trader Agreement directly from your dashboard.
+
+ 
+
+After you’ve submitted the required documents and signed the agreement, your Master Account will typically be activated within 24–48 hours—though in many cases, it’s processed much faster.
+
+ 
+
+Your Master Account is a simulated (demo) account, but it’s where the real opportunity begins: You’ll earn 80% to 90% of the gains you generate, based on the payout structure tied to your account type.
+
+ 
+
+No live capital is provided.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+
+Special Features
+Features and rules that make Lark Funding the top prop firm in the industry.
+
+6 articles
+Pass Assist Feature
+The Lark Gain Protector
+The Lark Simulated Funded Reset
+Zero Pause Trading
+Weekly Payouts
+Surrender Account Feature
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+Pass Assist Feature
+Pass Assist Feature
+November 9, 2023
+Our Pass Assist Feature means you don't need to close your trade to pass your Evaluation.
+
+ 
+
+As soon as your floating balance hits the account gain target, our system will automatically detect it as a pass!
+
+ 
+
+This means you no longer need to stare at your screen to make sure you close your trade as soon as you hit the account gain target.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+The Lark Gain Protector
+The Lark Gain Protector
+September 29, 2023
+The Lark Gain Protector allows traders to request a withdrawal from their Simulated Funded Account even if they breached the daily drawdown limit.
+
+ 
+
+You earned those gains. So you deserve them.
+
+ 
+
+In order to qualify, you can't have had a loss that equals more than 1% of your account balance and you need a minimum of 5 trading days. We're here to reward hard-working, disciplined traders.
+
+ 
+
+Example:
+
+ 
+
+You grow your $100,000 Funded Account from $100,000 to $110,000. Then, you breach the daily loss limit (5%), and the account drops to $105,000.
+
+ 
+
+At this point, because you exceeded the Daily DD, you've breached the account. But there is still $5000 worth of gains in your account.
+
+ 
+
+At Lark Funding, on your withdrawal date, we will still pay you those gains!
+
+ 
+
+Please email our support team, and we'll ensure that everything gets taken care of.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+The Lark Simulated Funded Reset
+The Lark Simulated Funded Reset
+March 5, 2024
+You've worked hard, sometimes even years, to earn a Simulated Funded Account and then after 1-2 mistakes, you've breached it!
+
+ 
+
+Usually, you'd have to go through the entire Evaluation process again.
+
+ 
+
+But not with the Lark Funded Reset.
+
+ 
+
+If you want to reset your Simulated Funded Account after breaching it, please email us at support@larkfunding.com to request a reset.
+
+ 
+
+This is how it will work:
+
+Upon receiving your email, our team will manually review the trades you took in your Simulated Funded Account. 
+
+After reviewing the account, you will be emailed back regarding our decision within 72 hours. If we've approved the reset request, you'll be given the option to pay between 3-5x the challenge fee to reset the account back to its starting balance. At that point, you can return to trading your Simulated Funded Account!
+
+Please note that an approved Simulated Funded Account reset is not guaranteed. The program is designed to reward disciplined, risk-managed and hard-working traders. If you breached the account in a single trade or within a week of receiving it, it's very unlikely that we'll approve the reset.
+
+ 
+
+For insight, here are some of the criteria we'd like to see:
+
+The more demo trading days on the account, the better.
+
+We like to see no demo loss equal to more than 1% of the account balance. The smaller the loss, the better.
+
+Consistency in execution: We want to see that you're sticking to your strategy.
+
+ 
+
+** We launched this feature in late July 2023. As we continue to have traders take advantage, over time, to make it easier to understand, we will be more specific on what trading conditions need to be met to qualify, so please visit this page frequently as pricing is likely to change as well.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+Zero Pause Trading
+Zero Pause Trading
+August 4, 2023
+Introducing the Lark Zero Pause Trading!
+
+ 
+
+Before this feature, after requesting a withdrawal, you had to wait until you received your funds to continue trading your Funded Account. This means that sometimes you could be waiting on the sidelines and not trading for a few days.
+
+ 
+
+But not anymore!
+
+ 
+
+With our Zero Pause Trading, as soon as we approve your withdrawal (our average time is under 3 hours), you can continue trading your Funded Account! You no longer need to wait for the funds to arrive to continue trading your account.
+
+ 
+
+We understand that as a trader, time is money, and it's our job to ensure that you have the flexibility to trade when you need to.
+
+ 
+
+That's the power of our Zero Pause Trading.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+Weekly Payouts
+Weekly Payouts
+August 29, 2025
+Would you like to receive a weekly payout? Now you can!
+
+ 
+
+The Weekly Payouts add-on now can be purchased during checkout.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Special Features
+Surrender Account Feature
+Surrender Account Feature
+Updated over 2 weeks ago
+On our 3-Stage Program, if you've made a trading mistake or would like to have a fresh start, in your Dashboard, you'll see a "Surrender Account" button. This button will give you a 75% discount code to start fresh at Phase 1.
+
+ 
+
+To qualify, you must:
+
+ 
+
+1) Not exceed 70% of your available drawdown. In other words, your account can't be down more than 3.5%.
+
+ 
+
+2) You can't have lost more than 1% on a single trade.
+
+ 
+
+3) All trades must be closed before surrendering the account
+
+ 
+
+This feature is available on all phases, including on your Funded Account and all resets will bring you back to Phase 1.
+
+ 
+
+* Accounts using the Surrender Account feature will no longer be eligible for the promotion applied to the original purchase.
+
+Did this answer your question?
+😞😐😃
+Lark Funding Help Center
+
+
+We run on Fin
+Skip to main content
+Lark Funding Help Center
+Discord
+Start An Evaluation
+Search for articles...
+Search for articles...
+All Collections
+Video Tutorials
+
+Video Tutorials
+Lark Funding Video Tutorials
+
+2 articles
+How Do I Use DXTrade?
+How Do I Use cTrader?
+Lark Funding Help Center
+
+
+We run on Fin

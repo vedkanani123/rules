@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
+import { AFFILIATE_DISCLOSURE } from '../core/compare/compare.ts';
 import { AccountTier, PropFirm, SourceEvidence } from '../types/schema.ts';
 import { Scale, ArrowRight, Check, FileCheck, Info } from 'lucide-react';
 
@@ -21,7 +22,7 @@ export const ComparePage: React.FC<ComparePageProps> = ({ onNavigate, onOpenSour
     { label: 'Prop Firm', getValue: (i:any)=> i.firm.name },
     { label: 'Account', getValue: (i:any)=> i.account.name },
     { label: 'Capital', getValue: (i:any)=> `$${i.account.nominalSize.toLocaleString()}` },
-    { label: 'Price', getValue: (i:any)=> `$${i.account.discountedPrice || i.account.price}` },
+    { label: 'Price', getValue: (i:any)=> i.account.priceUnknown ? 'Unknown' : `$${i.account.discountedPrice || i.account.price}` },
     { label: 'Fee', getValue: (i:any)=> i.account.refundableFee ? 'Refundable' : 'Non-refundable' },
     { label: 'Target P1', getValue: (i:any)=> i.account.profitTargetPhase1 ? `${i.account.profitTargetPhase1}%` : '—' },
     { label: 'Target P2', getValue: (i:any)=> i.account.profitTargetPhase2 ? `${i.account.profitTargetPhase2}%` : '—' },
@@ -38,8 +39,8 @@ export const ComparePage: React.FC<ComparePageProps> = ({ onNavigate, onOpenSour
     { label: 'Inactivity', getValue: (i:any)=> `${i.account.inactivityLimitDays}d` },
     { label: 'Leverage', getValue: (i:any)=> i.account.leverage },
     { label: 'Platforms', getValue: (i:any)=> i.account.platforms.join(', ') },
-    { label: 'Last verified', getValue: (i:any)=> i.account.lastVerified || i.firm.lastVerified },
-    { label: 'Evidence', getValue: (i:any)=> i.account.sources.length > 0 ? `✓ ${i.account.sources.length} source(s)` : i.firm.rules.length > 0 ? `${i.firm.rules.length} rules cited` : 'Official' },
+    { label: 'Last verified', getValue: (i:any)=> i.account.lastVerified || i.firm.lastVerified || 'Unknown' },
+    { label: 'Evidence', getValue: (i:any)=> i.account.sources.length > 0 ? `✓ ${i.account.sources.length} source(s)` : i.firm.rules.length > 0 ? `${i.firm.rules.length} rules cited` : 'Unknown — under verification' },
   ];
 
   return (
@@ -162,7 +163,8 @@ export const ComparePage: React.FC<ComparePageProps> = ({ onNavigate, onOpenSour
           </div>
         </div>
 
-        <div className="mt-8 flex justify-center">
+        <div className="mt-8 flex flex-col items-center gap-2">
+          <p className="text-[11px] text-white/30 max-w-2xl text-center">{AFFILIATE_DISCLOSURE}</p>
           <button onClick={()=>onNavigate('/')} className="text-[13px] text-[#8A8F98] hover:text-white inline-flex items-center gap-1.5">Back to directory <ArrowRight className="w-3.5 h-3.5" /></button>
         </div>
       </div>

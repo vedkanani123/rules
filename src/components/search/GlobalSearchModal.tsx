@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from '../../data/propFirmsData.ts';
 import { REAL_FIRMS } from '../../data/propFirmMatchReal.ts';
+import { searchAll } from '../../core/search/search.ts';
 import { Search, X, Shield, ArrowRight, BookOpen, Layers, DollarSign } from 'lucide-react';
 
 interface GlobalSearchModalProps {
@@ -32,104 +33,24 @@ export const GlobalSearchModal: React.FC<GlobalSearchModalProps> = ({
     return () => { document.body.style.overflow = ''; };
   }, [isOpen]);
 
-  const searchResults = useMemo(() => {
-    const q = query.toLowerCase().trim();
-    if (!q || q.length < 1) return [];
-    const results: {
-      type: 'firm' | 'account' | 'rule' | 'guide';
-      title: string;
-      subtitle: string;
-      path: string;
-      tag: string;
-    }[] = [];
-
-    PROP_FIRMS_DATA.forEach((firm) => {
-      if (
-        firm.name.toLowerCase().includes(q) ||
-        firm.brandName.toLowerCase().includes(q) ||
-        firm.ceoName.toLowerCase().includes(q) ||
-        firm.headquarters.toLowerCase().includes(q)
-      ) {
-        results.push({
-          type: 'firm',
-          title: firm.name,
-          subtitle: `CEO: ${firm.ceoName} | Status: ${firm.status} | Rating: ${firm.reviewsOverview.averageRating}/5`,
-          path: `/prop-firms/${firm.slug}`,
-          tag: 'Prop Firm',
-        });
-      }
-
-      firm.programs.forEach((prog) => {
-        prog.accounts.forEach((acc) => {
-          if (
-            acc.name.toLowerCase().includes(q) ||
-            prog.name.toLowerCase().includes(q) ||
-            acc.drawdownType.toLowerCase().includes(q) ||
-            acc.platforms.some((p) => p.toLowerCase().includes(q))
-          ) {
-            results.push({
-              type: 'account',
-              title: `${acc.name} (${firm.name})`,
-              subtitle: `Daily Loss: ${acc.dailyLossLimit}% | Max Loss: ${acc.maxTotalLoss}% | Split: ${acc.profitSplit}% | Price: $${acc.price}`,
-              path: `/prop-firms/${firm.slug}/accounts/${acc.id}`,
-              tag: 'Account Tier',
-            });
-          }
-        });
-      });
-
-      firm.rules.forEach((rule) => {
-        if (
-          rule.name.toLowerCase().includes(q) ||
-          rule.plainEnglish.toLowerCase().includes(q) ||
-          rule.category.toLowerCase().includes(q)
-        ) {
-          results.push({
-            type: 'rule',
-            title: `${rule.name} - ${firm.name}`,
-            subtitle: `${rule.headlineValue} | Scope: ${rule.stageScope} | Importance: ${rule.importance}`,
-            path: `/prop-firms/${firm.slug}#rule-card-${rule.slug}`,
-            tag: rule.category,
-          });
-        }
-      });
-    });
-
-    // Also index REAL_FIRMS so all 20 firms are searchable
-    (REAL_FIRMS as any[]).forEach((rf) => {
-      if (
-        rf.name.toLowerCase().includes(q) ||
-        rf.slug.toLowerCase().includes(q)
-      ) {
-        if (!results.some(r => r.path === `/prop-firms/${rf.slug}`)) {
-          results.push({
-            type: 'firm',
-            title: rf.name,
-            subtitle: `Trust Score: ${rf.trustScore}/100 | ${rf.platforms?.join(', ')} | Max Allocation: $${((rf.maxAllocation || 0) / 1000).toFixed(0)}K`,
-            path: `/prop-firms/${rf.slug}`,
-            tag: 'Directory Firm',
-          });
-        }
-      }
-    });
-
-    RULE_GUIDES.forEach((guide) => {
-      if (
-        guide.name.toLowerCase().includes(q) ||
-        guide.shortDefinition.toLowerCase().includes(q) ||
-        guide.category.toLowerCase().includes(q)
-      ) {
-        results.push({
-          type: 'guide',
-          title: `Rule Guide: ${guide.name}`,
-          subtitle: guide.shortDefinition,
-          path: `/rules/${guide.slug}`,
-          tag: 'SEO Guide',
-        });
-      }
-    });
-
-    return results.slice(0, 10);
+  const { results: searchResults, alternatives } = useMemo(() => {
+    const q = query.trim();
+    if (!q) return { results: [], alternatives: [] as string[] };
+    const { results, alternatives } = searchAll(q);
+    // Append guide matches (intent-aware core covers firms/accounts/rules)
+    const guides = RULE_GUIDES.filter((guide) =>
+      guide.name.toLowerCase().includes(q.toLowerCase()) ||
+      guide.shortDefinition.toLowerCase().includes(q.toLowerCase()) ||
+      guide.category.toLowerCase().includes(q.toLowerCase())
+    ).map((guide) => ({
+      type: 'guide' as const,
+      title: `Rule Guide: ${guide.name}`,
+      subtitle: guide.shortDefinition,
+      path: `/rules/${guide.slug}`,
+      tag: 'SEO Guide',
+      verification: 'Verified',
+    }));
+    return { results: [...results, ...guides].slice(0, 20), alternatives };
   }, [query]);
 
   // Handle arrow key and enter navigation
@@ -231,8 +152,19 @@ export const GlobalSearchModal: React.FC<GlobalSearchModalProps> = ({
           {searchResults.length === 0 ? (
             <div className="py-8 sm:py-12 text-center space-y-4 px-2">
               <p className="text-sm text-white/60">
-                {query ? 'No matching records found for this term.' : 'Type to search firms, accounts, formulas, or rules.'}
+                {query ? 'No exact company found.' : 'Type to search firms, accounts, formulas, or rules.'}
               </p>
+              {query && alternatives.length > 0 && (
+                <div className="space-y-2">
+                  <p className="text-xs text-white/40">Try these related searches:</p>
+                  <div className="flex flex-wrap items-center justify-center gap-2 text-xs">
+                    {alternatives.map((tag) => (
+                      <button key={tag} onClick={() => setQuery(tag)} className="px-3 py-2 rounded-full bg-slate-800/80 hover:bg-slate-800 text-slate-300 border border-slate-700/60 text-xs min-h-[44px]">{tag}</button>
+                    ))}
+                  </div>
+                  <p className="text-[11px] text-white/30">No verified results — unknown stays unknown, never fabricated.</p>
+                </div>
+              )}
               <div className="flex flex-wrap items-center justify-center gap-2 text-xs">
                 <span className="text-white/60 hidden sm:inline">Popular:</span>
                 {['Goat Funded Trader', 'Daily Drawdown', 'News Trading', '100k 2-Step', 'Inactivity'].map((tag) => (

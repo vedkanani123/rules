@@ -1,0 +1,10 @@
+TITLE: Home | AquaFunded Help Center
+URL: https://help.aquafunded.com/en
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: AquaFunded Help Center
+CANONICAL: https://help.aquafunded.com/en
+HEADINGS:
+- Welcome to the CFD Help Center
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardWelcome to the CFD Help CenterSearch for articles...Most Viewed ArticlesWhat is the Profit Split?What platforms are available?How do I become an AquaFunded affiliate?General FAQ13 articlesTrading Rules 12 articlesRewards4 articlesForex Models 13 articlesAffiliate 10 articlesPlatform 6 articlesOFFERS2 articlesAqua Scaling Plan x Aqua Elite 4 articlesMore Questions?If you have any unanswered questions simply email [email protected] and we'll aim to reply within 24 hours.AquaFunded HomepageTrade with our Capital and keep 100% of the ProfitWe run on Fin

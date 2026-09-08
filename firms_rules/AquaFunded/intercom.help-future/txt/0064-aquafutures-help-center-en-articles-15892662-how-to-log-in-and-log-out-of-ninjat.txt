@@ -1,0 +1,36 @@
+TITLE: How to Log In and Log Out of NinjaTrader | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892662-how-to-log-in-and-log-out-of-ninjatrader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892662-how-to-log-in-and-log-out-of-ninjatrader
+HEADINGS:
+- How to Log In and Log Out of NinjaTrader
+- Logging In to NinjaTrader on Desktop
+- Step 1: Launch NinjaTrader
+- Step 2: Enter Your Credentials
+- Step 3: Connect to Your Account
+- Step 4: Verify Your Connection
+- Logging In to NinjaTrader Web
+- Step 1: Open NinjaTrader Web
+- Step 2: Sign In
+- Step 3: Access Your Account
+- Logging In to the NinjaTrader Mobile App
+- Step 1: Open the App
+- Step 2: Enter Your Login Details
+- Step 3: Access Simulation Trading
+- Logging Out of NinjaTrader on Desktop
+- Step 1: Open the Control Center
+- Step 2: Open Connections
+- Step 3: Disconnect
+- Logging Out of NinjaTrader Web
+- Step 1: Open Your Profile Menu
+- Step 2: Sign Out
+- Logging Out of the NinjaTrader Mobile App
+- Step 1: Open the Account Menu
+- Step 2: Select Your Account
+- Step 3: Log Out
+- Troubleshooting Login Issues
+- Best Practices
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsNinjaTraderHow to Log In and Log Out of NinjaTraderHow to Log In and Log Out of NinjaTrader July 10, 2026Table of contentsAccessing your NinjaTrader account is simple whether you’re trading from a desktop computer, web browser, or mobile device.This guide will walk you through the login and logout process across all supported platforms.Logging In to NinjaTrader on DesktopStep 1: Launch NinjaTraderOpen the NinjaTrader platform on your computer.​Step 2: Enter Your CredentialsInput your:UsernamePasswordFor best results, copy and paste the credentials provided to avoid typing errors.​Step 3: Connect to Your AccountClick Log In and select Launch under the simulation environment.​​​Step 4: Verify Your ConnectionOnce connected, confirm that:Your account appears correctlyMarket data is loadingAccount balances are displayedYou are now ready to begin trading.Logging In to NinjaTrader WebStep 1: Open NinjaTrader WebLaunch your preferred browser and navigate to the NinjaTrader web platform.​Step 2: Sign InClick Log In and enter your username and password.​Step 3: Access Your AccountAfter signing in:Select your trading accountVerify that charts and market data are loading correctlyYou are now connected and ready to trade.Logging In to the NinjaTrader Mobile AppStep 1: Open the AppLaunch the NinjaTrader mobile application on your device.​Step 2: Enter Your Login DetailsInput your:UsernamePasswordStep 3: Access Simulation TradingTap Log In and select Simulation to enter the platform.Once connected, your account information and trading tools will become available.Logging Out of NinjaTrader on DesktopStep 1: Open the Control CenterNavigate to the NinjaTrader Control Center.​Step 2: Open ConnectionsClick Connections from the menu.​Step 3: DisconnectSelect your active connection and click Disconnect.Your session will be closed and you will be safely logged out.Logging Out of NinjaTrader WebStep 1: Open Your Profile MenuClick your profile icon located in the upper-right corner of the platform.​Step 2: Sign OutSelect Log Out from the dropdown menu.You will be returned to the login screen.Logging Out of the NinjaTrader Mobile AppStep 1: Open the Account MenuWhile logged in, tap the account menu located in the upper-left corner of the application.​Step 2: Select Your AccountChoose the account you are currently using.​Step 3: Log OutTap Log Out to end your session.You will be redirected back to the login screen.Troubleshooting Login IssuesIf you’re unable to access your account, verify the following:Username and password are entered correctlyNo extra spaces were copied when pasting credentialsYour internet connection is stableThe platform is fully updatedIf the issue persists, contact the AquaFutures Support Team for assistance.Best PracticesFor account security:✓ Always log out when using a shared device.✓ Never share your login credentials.✓ Verify your account information after connecting.✓ Keep your platform updated to the latest version.Need Assistance?If you experience any issues logging in or out of NinjaTrader, the AquaFutures Support Team is available to help you regain access and get back to trading as quickly as possible.Related ArticlesDeepcharts Login/Installation InstructionsHow to Log In and Log Out of TradovateHow to Place and Close Trades in NinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Connect and Disconnect TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

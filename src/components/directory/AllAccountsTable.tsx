@@ -32,7 +32,7 @@ export const AllAccountsTable: React.FC<{ firms: PropFirm[]; onNavigate: (path: 
             <button key={it.account.id} onClick={()=>onNavigate(`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`)} className="text-left p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors space-y-3 group">
               <div className="flex items-center justify-between">
                 <span className="text-[10px] font-mono tracking-widest uppercase px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-[#6B7280]">{it.firm.brandName}</span>
-                <span className="text-xs font-mono font-medium text-white">${it.account.price}</span>
+                <span className="text-xs font-mono font-medium text-white">{it.account.priceUnknown ? 'Unknown' : `$${it.account.price}`}</span>
               </div>
               <div className="text-[13px] font-semibold text-white leading-tight">{it.account.name}</div>
               <div className="text-[11px] font-mono tracking-wide uppercase text-[#6B7280]">{it.program.programType} · ${it.account.nominalSize.toLocaleString()}</div>

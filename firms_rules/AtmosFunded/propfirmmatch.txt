@@ -1,0 +1,2325 @@
+
+Sparkles
+New Giveaway Available →
+Check Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+Logo
+Atmos Funded
+
+Set as Favorite
+Leave a Review
+Buy
+Logo
+Atmos Funded
+
+556
+CEO
+
+Nick Cooke
+Country
+
+country-flag
+Cyprus
+
+Trustpilot
+
+3.7
+Date Created
+
+Nov 2024
+Years in Operation
+
+1
+4.7
+
+39
+
+total reviews
+
+5
+
+35
+
+4
+
+2
+
+3
+
+0
+
+2
+
+0
+
+1
+
+2
+
+No payout delays
+New Offer
+30% OFF
++ Free Account
+Logo
+Atmos Funded
+4.7
+
+39
+
+30% off + free account of the same size if reaching payout all challenges except Instant & Nova
+
+
+Code
+MATCH
+Ends:
+Oct 1
+Overview
+Challenges
+32
+Reviews
+39
+Offers
+2
+Announcements
+4
+Payouts
+New
+Discussions
+0
+Atmos Funded Prop Firm Details
+Firm Overview
+Instruments and Assets
+Leverage
+Commissions
+Consistency Rules
+Firm Rules
+Challenges
+Payout Policy
+Restricted Countries
+AI Summary
+Atmos Funded Firm AI Summary
+Atmos Funded is a CFD prop trading firm based in Cyprus, established in November 2024. The firm offers three program types: Instant, 1 Step, and 2 Steps, providing traders with flexible pathways to funded accounts. Trading is conducted through the MetaTrader 5 platform. With a review score of 4.7 out of 5 based on 39 reviews, Atmos Funded has garnered positive early feedback from its user base. As a newly established firm, Atmos Funded positions itself within the competitive CFD prop trading...
+
+Show More
+Firm Overview
+
+Broker:
+
+TaurexTaurex
+Platform:
+
+MT5MT5
+Payment Methods:
+
+Airtel
+Apple PayApple Pay
+BlikBlik
+Boleto
+Credit/Debit CardCredit/Debit Card
+CryptoCrypto
+DANA
+Efecty
+FCMB
+FPX
+Gcash
+Google PayGoogle Pay
+Ideal
+Khipu
+Local Payment Methods
+Loterias
+MayaMaya
+Mobile Money
+M-Pesa
+MultibancoMultibanco
+MYR (e-wallet)
+OVO
+OXXO
+P24
+PayPalPayPal
+Picpay (e-wallet)
+PixPix
+QR Payment
+Revolut Pay
+SPEI
+UPI Intent
+VDN QR
+Webpay
+Payout Methods:
+
+Bank TransferBank Transfer
+Broker Profit Transfer
+CryptoCrypto
+Instruments and Assets
+
+Type of Instruments:
+
+CFD
+Assets:
+
+FX
+Metals
+Indices
+Energy
+Crypto
+Leverage
+
+Assets	Instant	1-Step	2-Steps	3-Steps
+FX	
+1:50
+
+1:50
+
+1:50
+
+n/a
+
+Metals	
+1:15
+
+1:15
+
+1:15
+
+n/a
+
+Indices	
+1:10
+
+1:10
+
+1:10
+
+n/a
+
+Energy	
+1:5
+
+1:5
+
+1:5
+
+n/a
+
+Crypto	
+1:2
+
+1:2
+
+1:2
+
+n/a
+
+Learn More About Atmos Funded Leverage
+Commissions
+
+FX
+
+$5 / Lot Round Trip
+
+Metals
+
+$5 / Lot Round Trip
+
+Indices
+
+No Commission
+
+Energy
+
+$5 / Lot Round Trip
+
+Crypto
+
+No Commission
+
+Consistency Rules
+
+Instant Funding:
+
+No single trading day can account for more than 20% of the total profit (Based on Equity)
+1-Step Plus:
+
+No single trading day can account for more than 45% of the total profit (Based on Equity)
+Firm Rules
+
+News Trading
+
+Allowed in all Challenge Phases
+Funded Accounts and Instant Funding: Executing orders (including opened or closed orders, pending orders, SL/TP triggered) 2 minutes before and 2 minutes after high impact news on affected instruments is prohibited. Any profits made within the window will be voided.
+Copy Trading
+
+You can copy trades between your own accounts within Atmos Funded. Copying from external sources is not allowed
+Inactivity Rule
+
+Evaluation: 90 days
+Funded: 365 days
+Expert Advisor (EA)
+
+Traders may use an Expert Advisor (EA) as long as they own it and aligns with their strategy. The use of commercial EAs is strictly prohibited.
+Minimum Profitable Days
+
+All Challenge-based accounts (Evaluation & Funded) except Nova 1-Step have a minimum of 3 profitable days. 0.5% profit counts as a profitable day.
+Instant Funding: None
+Nova 1-Step: Evaluation: None | Funded: 7 Profitable trading days of 0.5% Profit each day
+Nova 1-Step Risk Protection (Funded Only)
+
+The overall risk (closed and floating) per symbol should not exceed 1% in a single day.
+Overnight | Weekend Holding
+
+Allowed
+Crypto Trading on Weekends
+
+Not Allowed
+Trade Duration
+
+At least 50% of all trades must remain open for more than 2 minutes.
+Overleveraging
+
+Using 85% or more of the margin on a single asset is prohibited.
+Group Trading / Account Management / Account Sharing
+
+Coordinated trading across two or more accounts of multiple users is strongly prohibited.
+Chasing Price Rule (90 Seconds)
+
+Reversing positions on the same asset within 90 seconds of closing a prior trade is prohibited. This includes rapidly switching between buy and sell to recover losses without a structured strategy.
+Anti-Gambling Policy
+
+Forbidden Gambling practices are: Aggressive Averaging, Martingale and One-Sided Betting, Chasing Price (90 Seconds Rule), Lack of Structured Risk Management, Tick Scalping, Grid Trading, Hyperactivity / Execution Flooding.
+See details: https://help.atmosfunded.com/en/articles/10109079-anti-gambling-policy?q=all+in
+More Prohibited Strategies
+
+Latency / Arbitrage Trading, Tick-Scalping / HFT Abuse, News-Window Trading, Opposite Trading / Cross-Account Hedging, Group Trading / Account Management Abuse, Platform / Price-Feed Manipulation, Account Sharing / Identity Misuse, All-In (Gambling)
+See details: https://help.atmosfunded.com/en/articles/12381281-what-are-prohibited-strategies
+Challenges
+
+Atmos Funded - Nova - 1-Step 200K
+$5.00
+
+Atmos Funded - Nova - 1-Step 100K
+$5.00
+
+Atmos Funded - Nova - 1-Step 50K
+$5.00
+
+Atmos Funded - Nova - 1-Step 25K
+$5.00
+
+Atmos Funded - Nova - 1-Step 10K
+$5.00
+
+Atmos Funded - Instant Funding- Instant 100K
+$454.30
+
+$649.00
+
+Atmos Funded - Instant Funding- Instant 50K
+$261.80
+
+$374.00
+
+Atmos Funded - Instant Funding- Instant 25K
+$168.00
+
+$240.00
+
+Atmos Funded - Instant Funding- Instant 10K
+$86.80
+
+$124.00
+
+Atmos Funded - Instant Funding- Instant 5K
+$52.50
+
+$75.00
+
+Payout Policy
+
+Minimum payout:
+
+$100
+Payout split:
+
+80% | up to 90% with Add-on except on the 1-step Nova
+1-Step Plus, 2-Step Standard:
+
+Withdrawals are every 14 days
+1-Step Plus Drawdown Reset:
+
+Trailing drawdown stops trailing once it reaches the starting balance. it resets on every payout.
+2-Step Plus:
+
+First withdrawal is on demand, subsequent withdrawals are every 14 days
+1-Step Standard:
+
+Withdrawals are every 14 days
+1-Step Standard Drawdown Lock:
+
+When the max. Drawdown reaches the initial balance and/or when you request a payout, your max drawdown is fixed at the initial balance. Leaving a buffer at the payout request will act as the new drawdown, while withdrawing the full amount will result in a breach.
+Instant Funding:
+
+Withdrawals are every 14 days
+Instant Funding Drawdown Lock:
+
+When you request a payout, your max drawdown is fixed at the initial balance. Leaving a buffer at the payout request will act as the new drawdown, while withdrawing the full amount will result in a breach.
+Nova 1-Step:
+
+Profit Split: 80%
+Payout Frequency: On-Demand | Minimum of 7 Profitable trading days of 0.5% Profit each day must be met
+Nova Drawdown Lock
+
+Once a payout is requested, the drawdown is locked in at the initial account balance. Leaving a buffer at the payout request will act as the new drawdown, while withdrawing the full amount will result in a breach.
+Restricted Countries
+
+American SamoaAmerican Samoa
+BelgiumBelgium
+CanadaCanada
+IranIran
+IraqIraq
+JapanJapan
+Northern Mariana IslandsNorthern Mariana Islands
+North KoreaNorth Korea
+Palestinian TerritoryPalestinian Territory
+Puerto RicoPuerto Rico
+RussiaRussia
+SyriaSyria
+UkraineUkraine
+United Arab EmiratesUnited Arab Emirates
+United States of AmericaUnited States of America
+US Virgin IslandsUS Virgin Islands
+Wallis and Futuna IslandsWallis and Futuna Islands
+YemenYemen
+ZimbabweZimbabwe
+Announcements
+
+See all
+Atmos Funded Launches 24/7 Gold Trading
+
+Atmos Funded has added XAUUSD247 to its symbol list, allowing gold to be traded 24 hours a day, 7 days a week, including weekends.
+
+Previously, gold trading followed standard market hours and paused when markets closed on Friday. XAUUSD247 removes that pause, keeping the symbol tradable through weekends and outside standard hours.
+
+Sep 1, 2026
+
+Check out on PFM!
+Atmos Funded Expands Local Payment Coverage in LATAM
+
+We've expanded our local payment infrastructure across Latin America to make funding faster and more accessible for traders in the region.
+
+🇧🇷 Brazil — PIX, Boleto
+🇲🇽 Mexico — SPEI, OXXO
+🇨🇴 Colombia — PSE, Bancolombia
+🇨🇱 Chile — Webpay, Khipu
+🇵🇪 Peru — QR Payments
+🇬🇹 Guatemala — Cash Payments
+🇨🇷 Costa Rica — BNCR
+
+This update reflects our continued investment in the LATAM market, ensuring traders can use the payment rails they already trust.
+
+Jul 8, 2026
+
+Discover More
+New Payment Methods for African Traders!
+
+Great news for our African trading community!
+The following payment methods have just launched and are now live:
+
+🇳🇬 Nigeria
+
+Opay
+NQR
+eNaira
+🇿🇦 South Africa
+
+Virtual Accounts
+Online Bank Transfer
+🇷🇼 Rwanda
+
+Mobile Money
+We're committed to making trading more accessible across Africa. More local payment options are on the way. Stay tuned!
+
+Jun 24, 2026
+
+Get it now!
+
+Additional Information
+
+Discover everything you need to know about Atmos Funded. This page covers all the essentials in one place, including broker details, available trading platforms, payout structures, payment methods, supported instruments, leverage, commissions, and key firm rules.
+
+Whether you are evaluating Atmos Funded for the first time or comparing it with other top prop firms, you will find accurate, up-to-date information to help you decide if it is the right fit for your trading goals.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+
+Sparkles
+New Giveaway Available →
+Check Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+Logo
+Atmos Funded
+
+Set as Favorite
+Leave a Review
+Buy
+Logo
+Atmos Funded
+
+556
+CEO
+
+Nick Cooke
+Country
+
+country-flag
+Cyprus
+
+Trustpilot
+
+3.7
+Date Created
+
+Nov 2024
+Years in Operation
+
+1
+4.7
+
+39
+
+total reviews
+
+5
+
+35
+
+4
+
+2
+
+3
+
+0
+
+2
+
+0
+
+1
+
+2
+
+No payout delays
+New Offer
+30% OFF
++ Free Account
+Logo
+Atmos Funded
+4.7
+
+39
+
+30% off + free account of the same size if reaching payout all challenges except Instant & Nova
+
+
+Code
+MATCH
+Ends:
+Oct 1
+Overview
+Challenges
+32
+Reviews
+39
+Offers
+2
+Announcements
+4
+Payouts
+New
+Discussions
+0
+Atmos Funded Challenges
+
+Assets:
+Select
+
+Size:
+Select
+
+Steps:
+Select
+
+Program:
+Select
+
+Apply Discount
+
+Popularity
+Customize
+Challenges 32
+Firm / Rank
+Account Size
+Steps
+Profit Target
+Daily Loss
+Max Loss
+Max Loss Type
+PT:DD
+Profit Split
+Payout Freq.
+Loyalty PTS
+Popularity
+
+Price
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+10K
+1 Step
+
+
+5%
+4%
+8%
+Trailing Equity
+1:1.6
+
+80%
+
+
+On-Demand | Minimum of 7 Profitable trading days of 0.5% Profit each day must be met
+8
+
+157
+$5.00
+
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+100K
+1 Step
+
+
+5%
+4%
+8%
+Trailing Equity
+1:1.6
+
+80%
+
+
+On-Demand | Minimum of 7 Profitable trading days of 0.5% Profit each day must be met
+8
+
+61
+$5.00
+
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+5K
+2 Steps
+
+
+6%
+6%
+3%
+6%
+Static
+1:0.5
+
+80%
+
+
+First Payout on Demand | Subsequent Payouts Bi-weekly
+32
+
+59
+$19.60
+
+$28.00
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+25K
+1 Step
+
+
+5%
+4%
+8%
+Trailing Equity
+1:1.6
+
+80%
+
+
+On-Demand | Minimum of 7 Profitable trading days of 0.5% Profit each day must be met
+8
+
+35
+$5.00
+
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+50K
+1 Step
+
+
+5%
+4%
+8%
+Trailing Equity
+1:1.6
+
+80%
+
+
+On-Demand | Minimum of 7 Profitable trading days of 0.5% Profit each day must be met
+8
+
+33
+$5.00
+
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+25K
+2 Steps
+
+
+6%
+6%
+3%
+6%
+Static
+1:0.5
+
+80%
+
+
+First Payout on Demand | Subsequent Payouts Bi-weekly
+110
+
+30
+$66.50
+
+$95.00
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+200K
+1 Step
+
+
+5%
+4%
+8%
+Trailing Equity
+1:1.6
+
+80%
+
+
+On-Demand | Minimum of 7 Profitable trading days of 0.5% Profit each day must be met
+8
+
+28
+$5.00
+
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+10K
+2 Steps
+
+
+6%
+6%
+3%
+6%
+Static
+1:0.5
+
+80%
+
+
+First Payout on Demand | Subsequent Payouts Bi-weekly
+59
+
+28
+$35.70
+
+$51.00
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+10K
+1 Step
+
+
+10%
+3%
+6%
+Trailing Equity
+1:0.6
+
+80%
+
+
+14
+80
+
+24
+$48.30
+
+$69.00
+
+Buy
+Logo
+Atmos Funded
+
+4.7
+
+39
+
+
+100K
+2 Steps
+
+
+6%
+6%
+3%
+6%
+Static
+1:0.5
+
+80%
+
+
+First Payout on Demand | Subsequent Payouts Bi-weekly
+438
+
+15
+$265.30
+
+$379.00
+
+Buy
+Previous
+1
+2
+3
+4
+Next
+
+Additional Information
+
+A full overview of all the challenges offered by Atmos Funded. You'll find up-to-date details for each challenge, including account size, number of steps, profit target, daily and maximum loss limits, profit split, payout frequency, loyalty points, and price. Whether you are new to the firm or comparing different challenge structures, this resource helps you quickly identify the options that fit your trading style, risk tolerance, and goals.
+
+Choosing the right challenge is a critical step toward securing a funded trading account. The structure — from account size and profit target to drawdown limits and payout frequency — will directly influence how you trade and manage risk during the evaluation. A challenge that aligns with your strategy can improve your chances of passing and progressing to the funded stage.
+
+All challenges listed on Prop Firm Match are based on verified information from the firms themselves and are updated regularly to ensure accuracy. Our goal is to give traders a clear, side-by-side view of the available options, making it easier to compare not only across challenges from the same firm but also with those from other top prop firms.
+
+Use the filters on this page to refine your search by asset type, account size, step count, or program type. This allows you to focus on the most relevant challenges and avoid sifting through options that don't fit your needs.
+
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+Atmos Funded Challenges from $5 - 32 Plans Compared | Prop Firm Match
+
+Sparkles
+New Giveaway Available →
+Check Now
+pfm-logo-base
+
+
+Search
+
+Forex
+
+Futures
+
+Crypto
+New
+We're Hiring
+
+Tutorials
+Log in
+Sign Up
+
+Home
+Offers
+Challenges
+Best Sellers
+Reviews
+Favorite Firms
+Prop Firm Rules
+Compare FirmsNew
+Spreads
+Payouts
+
+
+Logo
+Atmos Funded
+
+Set as Favorite
+Leave a Review
+Buy
+Logo
+Atmos Funded
+
+556
+CEO
+
+Nick Cooke
+Country
+
+country-flag
+Cyprus
+
+Trustpilot
+
+3.7
+Date Created
+
+Nov 2024
+Years in Operation
+
+1
+4.7
+
+39
+
+total reviews
+
+5
+
+35
+
+4
+
+2
+
+3
+
+0
+
+2
+
+0
+
+1
+
+2
+
+No payout delays
+New Offer
+30% OFF
++ Free Account
+Logo
+Atmos Funded
+4.7
+
+39
+
+30% off + free account of the same size if reaching payout all challenges except Instant & Nova
+
+
+Code
+MATCH
+Ends:
+Oct 1
+Overview
+Challenges
+32
+Reviews
+39
+Offers
+2
+Announcements
+4
+Payouts
+New
+Discussions
+0
+Atmos Funded Reviews
+AI Summary
+Good
+Atmos Funded Reviews AI Summary
+Traders consistently highlight Atmos Funded's transparent rule structure with no hidden conditions, responsive and professional customer support across multiple languages, and reliable payout processing. The firm's broker-backed setup through Taurex, competitive spreads, clean execution during volatility, and flexible challenge options—especially the Nova instant funding route—earn repeated praise. Multiple traders note fast KYC verification, straightforward profit targets (10% Phase 1, 5%...
+
+Show More
+Reviews39
+
+Sort by
+
+
+Newest to Oldest
+Logo
+Atmos Funded
+
+4.7
+
+Reviewer profile
+Alejandro
+VE
+Venezuela, Bolivarian Republic of
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+August 26th, 2026
+Llevo un tiempo operando con su cuenta de $10,000 y la experiencia ha sido impecable. Es una firma altamente recomendable por varias razones: Plataforma y ejecución: Las condiciones de mercado son muy estables, los spreads son competitivos y la ejecución de órdenes es rápida y sin deslizamientos raros. Transparencia y reglas claras: No hay letra chica ni sorpresas en los términos de evaluación o gestión. Todo es tal cual lo prometen. Soporte y atención: El equipo de atención al cliente responde con rapidez y eficacia a cualquier duda o solicitud ...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+What stands out most about a solid prop firm comes down to three key things: Execution and Spreads: Clean order execution during high-volatility events without unexpected slippage or artificial spread widening makes trading strategy execution reliable. Payout Reliability and Speed: A firm's true stability shows when it processes withdrawal requests smoothly and strictly honors its published terms without delays or shifting rules. Clear, Fair Rules: Straightforward drawdown limits (especially static over trailing drawdowns) and transparent evaluation rules give traders the environment they need to scale capital safely. If you have a specific firm in mind, sharing what features they offer—like their profit split, drawdown type, or news trading rules—can help highlight what aligns best with your trading style.
+
+Least Liked Aspect
+What often frustrates traders about prop firms comes down to strict rules, friction, and hidden fine print: Strict & Complex Drawdown Rules: Trailing drawdowns (especially those calculated based on equity rather than balance) can prematurely blow an account during open trade drawdown, leaving little room for normal market fluctuations. Inflexible Trading Restrictions: Restrictive rules—such as hard caps on lot sizes, mandatory stop-loss requirements, bans on trading through high-impact news events, or strict weekend holding rules—can feel unnecessarily punitive for discretionary traders. Payout Delays & Bureaucracy: Delayed withdrawal processing times, strict minimum trading day requirements before your first payout, or high payout thresholds create unnecessary friction when trying to collect profits. Platform Latency & Slippage: Spreading spreads, execution delays, or slippage around market open/close times can turn an edge negative.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Logo
+Atmos Funded
+
+4.7
+
+Reviewer profile
+SARAM
+PK
+Pakistan
+12 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+August 17th, 2026
+Customer service is the one thing I enjoyed the most, if you have a problem they quickly assist in the problem you're facing. Great spread, great trading rules and conditions For me the best I've ever experienced
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+N/A
+
+Payout Count
+0
+
+Number of Firms Funded With
+Top Firm Aspect
+There Nova challenge for just $5
+
+Least Liked Aspect
+Nothing till now
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+August 17th, 2026
+
+Thank you for your feedback. 
+We are delighted to hear that our customer service, spreads, and trading conditions have met your expectations. 
+We appreciate you taking the time to share your experience, and we look forward to continuing to support you at Atmos Funded.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+E
+Emi
+MX
+Mexico
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$10K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 11th, 2026
+Overall, my experience with Atmos Funded has been positive. Communication is clear and transparent, the rules are simple and easy to follow, and payouts are processed quickly. The main area for improvement would be expanding payout options and further developing the mobile app experience.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+4
+
+Top Firm Aspect
+Communication is easy and transparent, the rules are straightforward and easy to understand, and they have multiple routes.
+
+Least Liked Aspect
+Would love to see more payout methods available, and a more feature-complete mobile app experience.
+
+4.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+August 17th, 2026
+
+Thank you for your feedback. 
+
+We are pleased to hear that you have found our communication clear, our rules straightforward, and our payouts efficient. 
+
+We appreciate your suggestions regarding payout options and the mobile app experience, and we will pass this feedback along to the relevant teams for consideration. 
+
+We look forward to continuing to support you at Atmos Funded.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+M
+Martín
+AR
+Argentina
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$50K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 7th, 2026
+En general, mi experiencia ha sido muy positiva. Las reglas son claras y no encontré ninguna trampa escondida. El procesamiento de todo el proceso fue rápido, sin demoras innecesarias, y la atención del equipo fue profesional en cada contacto que tuve. Translation: Overall, my experience has been very positive. The rules are clear, and I didn't encounter any hidden catches. The entire process was handled quickly, without unnecessary delays, and the support team was professional in every interaction I had. The only area I'd like to see improved is ...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+1
+
+Top Firm Aspect
+Lo que más me gusta son las reglas claras, sin condiciones escondidas que compliquen las cosas después. También destaco lo rápido que fue el procesamiento de todo mi proceso, sin demoras innecesarias. Y la atención del equipo fue muy profesional en cada contacto que tuve, siempre resolviendo mis dudas sin vueltas. Translation: What I like most is that the rules are clear, with no hidden conditions that make things more complicated later on. I also appreciate how quickly the entire process was handled, without unnecessary delays. In addition, the support team was very professional in every interaction I had, always answering my questions clearly and efficiently.
+
+Least Liked Aspect
+Podrían tener más opciones de static drawdown disponibles. Translation; They could offer more static drawdown options.
+
+4.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+August 17th, 2026
+
+Thank you for your feedback. 
+
+We are pleased to hear that our rules, process efficiency, and support team have met your expectations. 
+
+We appreciate your suggestion regarding additional static drawdown options and will share this with the relevant team for consideration. 
+
+We wish you continued success in the funded phase, and look forward to continuing to support you at Atmos Funded.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+S
+Sofia
+IT
+Italy
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$5K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 6th, 2026
+Esperienza finora molto positiva! Il supporto si è dimostrato attento e rapido, risolvendo prontamente ogni situazione. Le opzioni di pagamento per l'Europa sono nettamente migliori rispetto alle altre piattaforme — anche se c'è ancora un piccolo margine di miglioramento. Translation: So far, a really positive experience! The support has been attentive and quick, promptly resolving every situation. The payment options for Europe are much better compared to other platforms — though there's still a little room for improvement.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+3
+
+Top Firm Aspect
+Finora la mia esperienza è stata del tutto positiva. Il supporto è stato attento e rapido. Translation: So far my experience has been completely positive. The support has been attentive and quick.
+
+Least Liked Aspect
+Ho notato solo una piccola situazione durante il fine settimana, ma è stata prontamente risolta dal team. Nel complesso, penso che le opzioni di pagamento per l'Europa potrebbero essere leggermente migliori, ma restano comunque ben avanti rispetto alle altre. Translation: I only noticed a small issue over the weekend, but it was quickly resolved by the team. Overall, I think the payment options for Europe could be slightly better, but they're still way ahead compared to others.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+August 6th, 2026
+
+Thank you for taking the time to share this feedback. We're delighted to hear that our support team has been attentive and responsive in resolving your requests.
+
+We also appreciate your comments regarding payment options for Europe, and we take note of your suggestion for further improvement.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+A
+Andrés
+EC
+Ecuador
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$5K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+August 5th, 2026
+La experiencia ha sido muy positiva. Recibí mi cuenta en un giveaway y, sinceramente, tenía miedo de que después me pusieran trabas o reglas ocultas para hacerme perder la cuenta. Eso no pasó. Al contrario, todo el soporte que recibí hasta ahora fue muy profesional, sin vueltas. Ahora estoy en la fase funded y espero que esa misma seriedad continúe. The experience has been very positive. I received my account through a giveaway, and honestly, I was worried they might create obstacles or enforce hidden rules to make me lose the account afterward. T...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+Algo que destaco mucho es el soporte y la ayuda que ofrecen. El equipo de redes sociales, que fue por donde gané la cuenta, fue súper simpático y trató de ayudarme en todo lo posible. Y las reglas me parecieron tranquilas, sin ninguna trampa escondida. One thing I really want to highlight is the support and assistance they provide. The social media team, through whom I won the account, was incredibly friendly and did everything they could to help me. I also found the trading rules to be straightforward, with no hidden traps or unexpected conditions.
+
+Least Liked Aspect
+Por ahora no tengo ningún punto negativo. Vamos a ver cómo sigue todo ahora en la fase fondeada. So far, I don't have any negative points to mention. Let's see how things go now that I'm in the funded phase.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+August 6th, 2026
+
+Thank you for sharing your experience.
+
+We're glad to hear that our support team provided clear, professional guidance throughout your journey, and we appreciate you highlighting the transparency of our process. Congratulations on reaching the funded phase. 
+
+Wishing you continued success in your trading journey.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+Reviewer profile
+NASWIN
+AE
+Dubai (UAE)
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$150K
+
+Program
+1 Step
+
+Reached Payout
+Yes
+Certificates
+
+Imageicon
++1
+July 31st, 2026
+A legitimate, well-structured firm. Rules are trader-friendly if you're disciplined, and they followed through on payout exactly as promised...Would recommend to anyone running a structured, rules-based strategy — just go in prepared for the verification step...
+
+
+Hide Details
+
+
+Upvote
+
+1
+
+Funding Period
+Less 1 Month
+
+Payout Count
+1
+
+Number of Firms Funded With
+1
+
+Top Firm Aspect
+Rules are easy to understand, no hidden one.. Website UI is pretty good. Customer support team is splendid, they are responsive and address all queries
+
+Least Liked Aspect
+So far nothing
+
+5.0
+
+User Friendliness
+
+4.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+4.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+July 31st, 2026
+
+Thank you for the feedback. 
+We're glad our rules and payout process have met your expectations, and we appreciate the recommendation.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+H
+Hugo
+ES
+Spain
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$25K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+July 30th, 2026
+Mi experiencia ha sido muy buena. La ejecución fue rápida y la gran variedad de métodos de pago facilita el acceso. La claridad en las reglas es realmente un punto a favor para mí. Aunque creo que el proceso para activar la cuenta Nova fondeada podría ser más fácil: necesité contactar al soporte para pedir ayuda, y el equipo me respondió rápidamente. Translation: My experience has been very good. The execution was fast, and the wide variety of payment methods makes access easier. The clarity of the rules is truly a strong point for me. However, I be...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+6
+
+Top Firm Aspect
+Me gustan mucho su soporte y sus ofertas; son flexibles y tienen reglas claras y sencillas, lo que hace que los traders se sientan más cómodos. Translation: I really like their support and their offers. They are flexible and have clear and simple rules, which makes traders feel more comfortable.
+
+Least Liked Aspect
+Creo que podrían ofrecer más opciones de plataformas. Además, el proceso para activar la cuenta Nova fondeada podría ser más fácil. Translation: I think they could offer more platform options. Additionally, the process for activating the Nova funded account could be made easier.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+July 31st, 2026
+
+Thank you for sharing your experience. 
+We're glad the execution, payment options, and rule clarity have stood out for you. 
+We appreciate the note on the Nova funded account activation process and will take it into account as we continue improving the platform.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+S
+SantiagoSan
+CO
+Colombia
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$50K
+
+Program
+2 Steps
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+July 25th, 2026
+Me gusta mucho el soporte y la atención que se les da a los traders. Las opciones de challenge son buenas y se adaptan a distintos tipos de traders. Creo que la comunidad no está tan bien trabajada, pero eso no me preocupa mucho. Hasta ahora, es una de las mejores opciones que he encontrado.
+
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+1
+
+Top Firm Aspect
+Soporte y la atención que se les da a los traders. Las opciones de challenge son buenas y se adaptan a distintos tipos de traders.
+
+Least Liked Aspect
+La comunidad no está tan bien trabajada, pero eso no me preocupa mucho.
+
+4.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+July 27th, 2026
+
+Thank you for taking the time to share your experience.
+
+Support and the attention we give to traders are standards we hold ourselves to at every stage, so it is good to know they came through for you. We also appreciate your note on the community; it is an area we continue to develop, and feedback like this helps us improve it.
+
+We are glad that, so far, Atmos Funded has been one of the best options you have found. We remain available through our support channels whenever you need us.
+
+Show Details
+
+Logo
+Atmos Funded
+
+4.7
+
+N
+Noah
+GB
+United Kingdom
+1 reviews
+Reviews
+Reviews
+5.0
+
+Trader’s Satisfaction
+
+Account Size
+$25K
+
+Program
+1 Step
+
+Reached Payout
+No
+Certificates
+
+Imageicon
+1
+July 25th, 2026
+Even though the firm is relatively new, compared to others, I was impressed by their professionalism during the period I traded with them. During the challenge phase, everything went our smoothly and, checking their community communications I felt secure to move forward. The response from support team is good and fast during week days, some times, I noticed that during the weekend it take a bit longer for them to answer, but it wasn't something that compromised the overall experience so far. I am entering the funded stage now, and as soon as I have ...
+
+
+Read More
+
+Hide Details
+
+
+Upvote
+
+0
+
+Funding Period
+Less 1 Month
+
+Payout Count
+0
+
+Number of Firms Funded With
+2
+
+Top Firm Aspect
+The FAQ is complete and the communication is clear.
+
+Least Liked Aspect
+The response time from the support over the weekend.
+
+5.0
+
+User Friendliness
+
+5.0
+
+Payout Process
+
+5.0
+
+Customer Care
+
+5.0
+
+Trading Conditions
+
+Official Firm Reply
+Logo
+Atmos Funded
+
+Verified Firm Profile
+July 27th, 2026
+
+Thank you for taking the time to share such a detailed account of your experience.
+
+Professionalism and consistency are standards we hold ourselves to at every stage, so it is good to know they came through during your challenge phase. We also appreciate the note on weekend response times; it is useful feedback our team continues to act on.
+
+As you enter the funded stage, the same approach applies to payouts, which are assessed strictly against documented rules and evidence. We look forward to your update and remain available whenever you need us.
+
+Show Details
+
+Previous
+1
+2
+3
+4
+Next
+
+
+Stay Connected
+
+Subscribe For The Latest In Prop Trading News And Deals
+
+Your email
+Subscribe
+pfm-logo-base
+Find & Compare
+
+All Prop Firms
+
+Compare Challenges
+
+Prop Firms by Category
+
+Prop Firm Rules
+
+Demo Accounts
+
+Unlisted Firms
+
+Compare Firms
+
+New
+Reviews & Rankings
+
+Best-Selling Firms
+
+Favorite Firms
+
+Verified Reviews
+
+Prop Firm Match Awards
+
+Payouts
+
+Prop Firm Payouts
+
+Top Trader Payouts
+
+Offers
+
+All Offers
+
+Exclusive Offers
+
+Extra Account Offers
+
+News & Insights
+
+Prop Firm Announcements
+
+Industry News
+
+Blog
+
+Tools & Resources
+
+High-Impact News Calendar
+
+Chrome Extension
+
+Guides & Templates
+
+Programs & Rewards
+
+Loyalty Program
+
+Affiliate Program
+
+Bug Bounty Program
+
+Review Bounty Program
+
+About PFM
+
+About Us
+
+Transparency & Methodology
+
+Careers
+
+Press
+
+Sitemap
+
+Prop Firm Business
+
+Help & Support
+
+Contact Us
+
+How It Works
+
+Help Center
+
+200 Loyalty Points Welcome Bonus.
+
+Sign up free to claim points, unlock rewards, save favorite firms, and start earning more through reviews and platform activity.
+
+Create Free Account
+Prop Firm Business
+Prop Firms & Brokers
+
+PFM Business Platform
+
+List Your Prop Firm
+
+Find Vetted Providers
+
+Service Providers
+
+Get Listed
+
+Explore the Marketplace
+
+Support
+
+Contact PFM Business
+
+
+Have Questions?
+
+Contact us for more.
+
+Contact Us
+twitter-logo
+instagram-logo
+youtube-logo
+tiktok-logo
+linkedin-logo
+© 2026 Prop Firm Match. All rights reserved.
+
+Privacy Policy
+Terms & Conditions
+Marketplace Terms
+Atmos Funded Reviews: 4.7★ from 39 Verified Traders | Prop Firm Match

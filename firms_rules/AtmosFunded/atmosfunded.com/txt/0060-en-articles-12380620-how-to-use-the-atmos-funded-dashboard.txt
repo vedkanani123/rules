@@ -1,0 +1,13 @@
+TITLE: How to use the Atmos Funded Dashboard | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380620-how-to-use-the-atmos-funded-dashboard
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12380620-how-to-use-the-atmos-funded-dashboard
+HEADINGS:
+- How to use the Atmos Funded Dashboard
+- 📊 Dashboard Features
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsTrading PlatformsPlatform SetupHow to use the Atmos Funded DashboardHow to use the Atmos Funded Dashboard Updated over 2 weeks agoTable of contentsThe Atmos Dashboard is where you manage accounts, payouts, and personal information.⚡ OverviewUse the Atmos Dashboard to:View challenge progress & funded accountsRequest payoutsDownload account credentialsManage profile and settings📊 Dashboard FeaturesMy Accounts → List of active, breached, or funded accountsPayouts → Request payouts, view historyProfile → Update email, wallet, billing infoContract & KYC → Finish KYC and sign your contract💡 ExampleYou pass your 1-Step ChallengeDashboard updates to show Funded Account with new login detailsRelated Articles1-Step Standard ChallengeInstant FundingHow Funding WorksHow Payouts WorkWelcome to Atmos FundedDid this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

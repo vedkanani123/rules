@@ -1,0 +1,10 @@
+TITLE: General Information | Blue Guardian | CFD
+URL: https://help.blueguardian.com/en/collections/9987483-general-information
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Learn how to get started with Blue Guardian
+CANONICAL: https://help.blueguardian.com/en/collections/9987483-general-information
+HEADINGS:
+- General Information
+CONTENT:
+Skip to main content< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglish< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglishSearch for articles...All CollectionsGeneral InformationGeneral InformationLearn how to get started with Blue Guardian3 articlesGeneral Information rulesCan I purchase more accounts than the maximum allocation limit?How to become an Affiliate?Trade like a Guardian

@@ -1,0 +1,10 @@
+SITE CRAWLER EXPORT
+
+Seed URL: https://helpfutures.blueguardian.com/en
+Host: helpfutures.blueguardian.com
+Status: completed
+Pages crawled: 29
+Pages succeeded: 28
+Pages failed: 1
+Pages skipped: 0
+Exported: 2026-09-07T10:55:25.826Z

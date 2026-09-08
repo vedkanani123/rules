@@ -1,0 +1,40 @@
+TITLE: How to Use Limit Orders in TradingView | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892685-how-to-use-limit-orders-in-tradingview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892685-how-to-use-limit-orders-in-tradingview
+HEADINGS:
+- How to Use Limit Orders in TradingView
+- What Is a Limit Order?
+- Buy Limit Order
+- Sell Limit Order
+- Important
+- How to Place a Buy Limit Order
+- Step 1: Open Your Chart
+- Step 2: Open the Order Panel
+- Step 3: Select Limit Order
+- Step 4: Enter Your Entry Price
+- Step 5: Set Your Position Size
+- Step 6: Optional Risk Management
+- Step 7: Submit the Order
+- How to Place a Sell Limit Order
+- Step 1: Open the Order Panel
+- Step 2: Select Limit Order
+- Step 3: Enter Your Entry Price
+- Step 4: Set Your Position Size
+- Step 5: Optional Risk Management
+- Step 6: Submit the Order
+- How to Modify a Limit Order
+- Step 1: Open the Orders Section
+- Step 2: Select the Order
+- Step 3: Edit the Order
+- Step 4: Save Changes
+- How to Cancel a Limit Order
+- Step 1: Open the Orders Tab
+- Step 2: Locate the Order
+- Step 3: Cancel the Order
+- Monitoring Active Orders
+- Best Practices
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradingViewHow to Use Limit Orders in TradingViewHow to Use Limit Orders in TradingView July 10, 2026Table of contentsLimit Orders allow traders to enter the market at a specific price instead of accepting the current market price. This gives greater control over trade entries and helps traders execute orders at their preferred price levels.This guide explains how to place, modify, and cancel Limit Orders in TradingView.What Is a Limit Order?A Limit Order is an order that will only execute at your selected price or better.​Buy Limit OrderA Buy Limit Order is placed below the current market price.The order will only execute if the market falls to your specified price.​Sell Limit OrderA Sell Limit Order is placed above the current market price.The order will only execute if the market rises to your specified price.​ImportantA Limit Order is not guaranteed to fill. If the market never reaches your selected price, the order will remain pending.How to Place a Buy Limit OrderStep 1: Open Your ChartOpen TradingView and navigate to the market you wish to trade.​Step 2: Open the Order PanelClick Buy to open the order entry window.​Step 3: Select Limit OrderChange the order type from Market to Limit.​Step 4: Enter Your Entry PriceEnter the price where you want to buy.The selected price must be below the current market price.​Step 5: Set Your Position SizeEnter your desired contract quantity.​Step 6: Optional Risk ManagementIf desired, add:Stop Loss (SL)Take Profit (TP)Step 7: Submit the OrderClick Confirm to place the Buy Limit Order.The order will remain active until:The market reaches your priceYou modify the orderYou cancel the orderHow to Place a Sell Limit OrderStep 1: Open the Order PanelClick Sell to create a new order.​Step 2: Select Limit OrderChange the order type from Market to Limit.​Step 3: Enter Your Entry PriceEnter the price where you want to sell.The selected price must be above the current market price.​Step 4: Set Your Position SizeEnter the desired contract quantity.​Step 5: Optional Risk ManagementYou may also add:Stop Loss (SL)Take Profit (TP)Step 6: Submit the OrderClick Confirm to place the Sell Limit Order.The order will remain active until the market reaches your specified price.How to Modify a Limit OrderIf your order has not yet been filled, you can update its details.​Step 1: Open the Orders SectionNavigate to the Orders tab.​Step 2: Select the OrderLocate the active Limit Order.​Step 3: Edit the OrderUpdate:PriceContract quantityStep 4: Save ChangesConfirm the modifications.The updated order will remain active using the new settings.How to Cancel a Limit OrderStep 1: Open the Orders TabNavigate to your active orders.​Step 2: Locate the OrderFind the Limit Order you wish to remove.​Step 3: Cancel the OrderClick the X next to the order.The order will immediately be removed from the market.Monitoring Active OrdersYou can monitor all pending Limit Orders through:Orders TabTrading PanelActive Orders SectionRegularly reviewing pending orders helps ensure they still align with your trading plan.Best PracticesBefore submitting a Limit Order:✓ Verify the selected instrument.✓ Double-check your entry price.✓ Confirm the contract quantity.✓ Consider adding a Stop Loss and Take Profit.✓ Review the order details before confirming.Remember that Limit Orders only execute if the market reaches your specified price.Need Assistance?If you have questions about placing, modifying, or canceling Limit Orders in TradingView, please contact the AquaFutures Support Team for assistance.Related ArticlesHow to Place and Close Trades in TradovateHow to Place and Manage Limit Orders in TradovateHow to Place and Close Trades in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderHow to Place and Close Trades in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

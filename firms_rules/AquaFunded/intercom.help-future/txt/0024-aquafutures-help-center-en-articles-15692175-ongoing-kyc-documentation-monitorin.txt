@@ -1,0 +1,9 @@
+TITLE: Ongoing KYC/Documentation Monitoring | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15692175-ongoing-kyc-documentation-monitoring
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15692175-ongoing-kyc-documentation-monitoring
+HEADINGS:
+- Ongoing KYC/Documentation Monitoring
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsGetting StartedOngoing KYC/Documentation MonitoringOngoing KYC/Documentation Monitoring June 29, 2026At AquaFutures, we use the Veriff system to verify the authenticity of all submitted documents with daily checks. This process ensures that each applicant’s identity document meets our validity standards. For a document to qualify:It must have an expiration date on or after the current dateOr fall within an adjusted validity period defined by our system.​This automated approach guarantees that only active, valid documents are used for secure and reliable verification.Related ArticlesOngoing AML MonitoringKYC/AML PoliciesProhibited Trading StrategiesDid this answer your question?😞😐😃Trade with our Capital and keep 100% of the ProfitWe run on Fin

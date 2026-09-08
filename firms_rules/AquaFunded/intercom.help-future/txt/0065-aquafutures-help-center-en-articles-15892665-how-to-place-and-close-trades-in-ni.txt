@@ -1,0 +1,48 @@
+TITLE: How to Place and Close Trades in NinjaTrader | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892665-how-to-place-and-close-trades-in-ninjatrader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892665-how-to-place-and-close-trades-in-ninjatrader
+HEADINGS:
+- How to Place and Close Trades in NinjaTrader
+- Understanding Trade Entries
+- Buy (Long Position)
+- Sell (Short Position)
+- Placing a Trade on NinjaTrader Desktop
+- Step 1: Log In and Connect
+- Step 2: Open a Trading Window
+- Step 3: Select an Instrument
+- Step 4: Select an Order Type
+- Step 5: Configure Your Trade
+- Step 6: Submit the Order
+- Closing a Trade on NinjaTrader Desktop
+- Step 1: Open the Positions Window
+- Step 2: Select the Position
+- Step 3: Exit the Position
+- Placing a Trade on NinjaTrader Web
+- Step 1: Log In
+- Step 2: Open a Trading Panel
+- Step 3: Select Your Instrument
+- Step 4: Configure Your Order
+- Step 5: Submit the Trade
+- Closing a Trade on NinjaTrader Web
+- Step 1: Open Positions
+- Step 2: Select the Position
+- Step 3: Close the Position
+- Placing a Trade on the NinjaTrader Mobile App
+- Step 1: Open the App
+- Step 2: Select an Instrument
+- Step 3: Enter Order Details
+- Step 4: Submit the Order
+- Closing a Trade on the NinjaTrader Mobile App
+- Step 1: Open Positions
+- Step 2: Select the Trade
+- Step 3: Exit the Position
+- Common Order Types
+- Market Order
+- Limit Order
+- Stop Order
+- Best Practices Before Entering a Trade
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsNinjaTraderHow to Place and Close Trades in NinjaTraderHow to Place and Close Trades in NinjaTrader July 10, 2026Table of contentsNinjaTrader allows traders to enter and manage positions from desktop, web, and mobile platforms. Whether you’re placing a Market Order, Limit Order, or Stop Order, the process is straightforward and can be completed in just a few steps.This guide covers how to open and close trades across all supported devices.Understanding Trade EntriesBefore placing a trade, it’s important to understand the two basic directions:​Buy (Long Position)A Buy order is used when you expect the market to move higher.If the market rises after your entry, the position generates profit.​Sell (Short Position)A Sell order is used when you expect the market to move lower.If the market falls after your entry, the position generates profit.Placing a Trade on NinjaTrader DesktopStep 1: Log In and ConnectLaunch NinjaTrader and connect to your trading account.​Step 2: Open a Trading WindowYou can place trades from:Chart TraderSuperDOMOrder Entry WindowStep 3: Select an InstrumentChoose the futures contract you want to trade.Examples include:NQMNQESMESCLStep 4: Select an Order TypeChoose the order type that fits your strategy:Market OrderLimit OrderStop OrderStep 5: Configure Your TradeEnter:Quantity (contracts)Entry price (if applicable)Stop Loss (optional)Take Profit (optional)Step 6: Submit the OrderClick:Buy Market to open a long positionSell Market to open a short positionConfirm the order and wait for execution.Closing a Trade on NinjaTrader DesktopStep 1: Open the Positions WindowNavigate to the Positions tab in the Control Center.​Step 2: Select the PositionLocate the trade you want to close.​Step 3: Exit the PositionRight-click the position and select Close Position.The trade will be exited immediately at the current market price.Placing a Trade on NinjaTrader WebStep 1: Log InAccess NinjaTrader Web through your browser and sign in.Step 2: Open a Trading PanelOpen either:Chart TradingDOM (Depth of Market)Step 3: Select Your InstrumentChoose the futures contract you want to trade.Step 4: Configure Your OrderSpecify:Buy or Sell directionQuantityOrder TypeEntry price (if required)Step 5: Submit the TradeClick Buy or Sell and confirm the order.Closing a Trade on NinjaTrader WebStep 1: Open PositionsNavigate to the Open Positions section.​Step 2: Select the PositionLocate the active trade.​Step 3: Close the PositionClick Close to exit the trade.Placing a Trade on the NinjaTrader Mobile AppStep 1: Open the AppLaunch the NinjaTrader mobile application and log in.​Step 2: Select an InstrumentChoose the market you wish to trade from your watchlist.​Step 3: Enter Order DetailsConfigure:Buy or Sell directionQuantityOrder TypePrice (if applicable)Step 4: Submit the OrderTap Buy or Sell and confirm the trade.Closing a Trade on the NinjaTrader Mobile AppStep 1: Open PositionsNavigate to the Open Positions section.​Step 2: Select the TradeChoose the position you wish to close.​Step 3: Exit the PositionTap Close Position and confirm.Your trade will be closed immediately.Common Order TypesMarket OrderExecutes immediately at the best available market price.​Limit OrderExecutes only at your specified price or better.​Stop OrderActivates once the market reaches a specified price level.Understanding these order types can help improve trade execution and risk management.Best Practices Before Entering a Trade✓ Verify the selected instrument.✓ Double-check contract quantity.✓ Confirm Buy or Sell direction.✓ Review Stop Loss and Take Profit levels.✓ Ensure your position size aligns with your risk management plan.Need Assistance?If you have questions about entering or closing trades in NinjaTrader, the AquaFutures Support Team is available to assist you.Related ArticlesHow to Place and Close Trades in TradovateHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderHow to Place and Close Trades in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

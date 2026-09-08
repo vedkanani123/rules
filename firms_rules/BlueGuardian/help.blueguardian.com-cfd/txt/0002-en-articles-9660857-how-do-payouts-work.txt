@@ -1,0 +1,20 @@
+TITLE: How do payouts work? | Blue Guardian | CFD
+URL: https://help.blueguardian.com/en/articles/9660857-how-do-payouts-work
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Payout Rules, Profit Split & Reward Caps
+CANONICAL: https://help.blueguardian.com/en/articles/9660857-how-do-payouts-work
+HEADINGS:
+- How do payouts work?
+- Payout Rules, Profit Split & Reward Caps
+- How do payouts work?
+- 7-Day Payout Add-On
+- Instant Account Payouts
+- Profit Split
+- Withdrawal Conditions & Eligibility
+- Payout Processing
+- Payout Methods & Minimums
+- Payout Processing Fee
+- Reward Caps
+CONTENT:
+Skip to main content< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglish< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglishSearch for articles...All CollectionsPayoutHow do payouts work?How do payouts work?Payout Rules, Profit Split & Reward Caps Updated over a week agoTable of contentsPayout Rules, Profit Split & Reward CapsBlue Guardian offers a flexible payout structure designed to reward traders consistently while maintaining compliance with account rules. How do payouts work?Traders on Funded Accounts become eligible for payouts once:The minimum trading day requirement has been metA minimum of 14 calendar days has passed since the first tradeAfter the first payout, traders can request payouts every 14 days, calculated from the date of the previous payout request. 7-Day Payout Add-OnIf the 7-Day Payout Add-On is purchased:First payout becomes available after 7 days from the first tradeFuture payouts can be requested every 7 days from the previous payout date Instant Account PayoutsInstant Accounts offer instant payout eligibility, provided minimum trading days and consistency requirements are met. Profit SplitBlue Guardian offers the following profit splits:Funded Accounts: 85% (Default)Funded Accounts with Add-On: 90%Instant Standard Accounts: 80% (Default)Instant Standard with Add-On: 90%Instant Starter Accounts: 90% (Fixed)The 90% Profit Split Add-On can be purchased during checkout for eligible account types. Withdrawal Conditions & EligibilityTo request a payout, traders must:Complete the required minimum trading daysMaintain the account in profit (above starting balance)Have no active rule violationsEnsure all positions and orders are fully closed (account must be flat)Payout ProcessingPayouts are processed within 24 business hoursRequests must be submitted through the trader dashboardOnce a payout request is made, the account will be placed into read-only modeTrading can resume once the payout has been approvedPayout Methods & MinimumsBlue Guardian supports payouts through:CryptoRise WorksMinimum withdrawal amounts:$100 via Crypto$500 via Rise (Bank Withdrawal)Important:Crypto payouts are available for amounts under $5,000Rise Works has no maximum payout limitIf you do not have a Rise account, an invitation will be sent to your registered email within 24 hours after your payout request. Payout Processing FeeAll payouts are subject to a 3% processing fee to cover payment processing and transaction costs.This means the final amount received may differ slightly from the amount displayed on your payout certificate. Reward CapsInstant Starter AccountsMaximum payout cap: $250One payout only before account closure$200,000 / $300,000 / $400,000 AccountsFirst two payouts are capped at $10,000 eachAfter two successful payouts, the cap is fully removedAll payouts remain subject to compliance, account rules, and risk review.Did this answer your question?😞😐😃Table of contentsTrade like a Guardian

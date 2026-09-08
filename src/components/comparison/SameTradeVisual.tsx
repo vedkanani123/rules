@@ -25,7 +25,7 @@ export const SameTradeVisual: React.FC<SameTradeVisualProps> = ({ accounts, trad
     let peak = accSize;
     let status: 'PASS' | 'BREACH' | 'WARNING' = 'PASS';
     let reason = 'Survives all trades';
-    let details: string[] = [];
+    const details: string[] = [];
     let breachAt: number | null = null;
 
     for (let i = 0; i < trades.length; i++) {
@@ -68,7 +68,7 @@ export const SameTradeVisual: React.FC<SameTradeVisualProps> = ({ accounts, trad
       if (account.consistencyRule && account.consistencyRule !== 'None' && i > 0 && scaledPnl > 0) {
         const totalProfit = equity - accSize;
         if (totalProfit > 0 && (scaledPnl / totalProfit) > 0.5) {
-          if (status !== 'BREACH') {
+          if (status === 'PASS' || status === 'WARNING') {
             status = 'WARNING';
             reason = 'Consistency flag — single day dominates';
           }

@@ -1,0 +1,10 @@
+SITE CRAWLER EXPORT
+
+Seed URL: https://help.aquafunded.com/en
+Host: help.aquafunded.com
+Status: completed
+Pages crawled: 83
+Pages succeeded: 82
+Pages failed: 1
+Pages skipped: 0
+Exported: 2026-09-07T10:28:17.781Z

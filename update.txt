@@ -1,0 +1,1853 @@
+# Master Engineering Prompt: Perfectly Fix and Upgrade PropFirmRules.io Without Changing the UI
+
+You are a senior staff-level product engineer, data engineer, web crawler engineer, financial-rules researcher, QA engineer, UX-content specialist, and security auditor working on my existing project:
+
+**Project:** `PropFirmRules.io`
+
+Your job is to **inspect the existing codebase first, understand everything that already exists, and then fix the entire product properly without redesigning or changing the current UI.**
+
+The current UI, visual identity, page structure, routes, layout, colors, typography, components, and user experience must remain substantially unchanged. You may make only small invisible or non-visual improvements required for correctness, accessibility, responsiveness, performance, clarity, or reliability.
+
+This is not a request for a demo, fake implementation, mock data, simulated crawler, superficial polish, or partial fix.
+
+I want this product to become a **trustworthy, evidence-first funded-trading-company intelligence platform** where users can understand every rule easily, compare companies accurately, calculate the real impact of rules, discover hidden restrictions, and make safer decisions.
+
+The main principle is:
+
+> **Every displayed rule must be traceable to evidence. Every calculation must be reproducible. Every uncertainty must be visible. Every explanation must be understandable to a normal user.**
+
+The project audit has already identified several serious issues, including a simulated crawler being presented as real, hardcoded rule conflicts, disconnected data sources, fabricated fallback values, insufficient tests, large data files, and incomplete validation. You must fix these issues completely rather than hiding them.
+
+Use the existing audit and source files as the starting point. Preserve what is already good, especially the existing schema, calculator architecture, crawler utilities, page structure, and current UI. Do not throw away working parts unnecessarily.
+
+---
+
+# 1. First inspect the entire project
+
+Before editing anything, inspect the complete repository.
+
+Review:
+
+* `README`
+* `package.json`
+* TypeScript configuration
+* Vite/build configuration
+* Tailwind configuration
+* source folders
+* all routes
+* all pages
+* all components
+* all calculators
+* all crawler files
+* all pipeline files
+* all data files
+* all JSON files
+* all tests
+* all scripts
+* all environment variables
+* all generated or duplicate files
+* all Git changes
+* all build output
+* all screenshots and existing documentation
+
+Create a complete internal map of:
+
+```text
+Frontend
+Routes
+Pages
+Components
+Data model
+Crawler
+Extraction pipeline
+Evidence system
+Rule normalization
+Calculator
+Comparison engine
+Search
+Filtering
+Ranking
+Persistence
+Testing
+Build system
+Deployment
+```
+
+Do not start changing code until you understand how the existing system works.
+
+Do not assume the README is accurate. Verify every claim against the actual implementation.
+
+The audit says the README claims a real crawler, successful crawling, and complete tests, but the current implementation contains simulated behavior. Treat this as a critical correctness issue.
+
+---
+
+# 2. Do not change the existing UI
+
+The current UI must not be redesigned.
+
+Do not:
+
+* replace the existing visual design
+* create a new homepage
+* change the navigation structure
+* change route names
+* remove existing pages
+* replace existing components with unrelated components
+* change the color system
+* change typography
+* add unnecessary dashboards
+* add decorative sections
+* add fake statistics
+* add unnecessary animations
+* add visual clutter
+* add intrusive popups
+* add advertisements that interfere with the product
+* change the existing page layout merely because you prefer another design
+
+You may make only these types of UI changes:
+
+1. Fix incorrect displayed information.
+2. Replace fake data with real verified data.
+3. Add missing explanations where users cannot understand a rule.
+4. Add evidence/status indicators where required for trust.
+5. Add loading, error, empty, unknown, and conflict states.
+6. Improve accessibility.
+7. Fix mobile overflow and responsiveness.
+8. Improve performance without changing the visual identity.
+9. Correct labels, wording, calculations, and misleading claims.
+10. Add small contextual details that fit naturally into the existing UI.
+
+The goal is:
+
+> **Keep the existing UI, but make everything behind it accurate, complete, reliable, understandable, and production-ready.**
+
+---
+
+# 3. Fix the product’s real purpose
+
+The platform must not behave like a simple list of prop firms.
+
+It must solve the real user problem:
+
+A user usually does not merely want to know:
+
+> “Which company has a $100K account?”
+
+The user actually wants to know:
+
+* Which company fits my trading style?
+* Can I trade news?
+* Can I hold trades overnight?
+* Can I trade over weekends?
+* Are Expert Advisors allowed?
+* Is copy trading allowed?
+* Are funded accounts real or simulated?
+* What is the actual drawdown?
+* Is drawdown static, trailing, intraday, or equity-based?
+* Does floating profit affect the drawdown?
+* What happens after reaching a profit target?
+* Are there consistency rules?
+* Are there daily loss limits?
+* Are there payout caps?
+* How long until the first payout?
+* What are the payout conditions?
+* Are there minimum trading days?
+* Are there inactivity rules?
+* Are there prohibited strategies?
+* Are there restrictions on IP addresses, VPNs, devices, or locations?
+* Can multiple accounts be used?
+* Is account merging allowed?
+* Is account scaling available?
+* What countries are supported?
+* Is KYC required?
+* What happens if the company changes its rules?
+* What happens if the company delays or rejects a payout?
+* Can the user verify every answer?
+* What is unknown or conflicting?
+
+The platform must answer these questions clearly.
+
+The platform must help users move through this flow:
+
+```text
+Search
+→ Understand
+→ Filter
+→ Compare
+→ Calculate
+→ Inspect evidence
+→ Understand risks
+→ Decide
+→ Monitor changes
+```
+
+---
+
+# 4. Establish one canonical source of truth
+
+The current project has multiple disconnected data sources. Fix this completely.
+
+There must be one canonical data model.
+
+The correct hierarchy should be:
+
+```text
+Prop Firm
+  └── Account Program
+       └── Account Size / Tier
+            └── Rule Set
+                 └── Individual Rule
+                      └── Evidence
+                           └── Source Page
+                                └── Crawl Snapshot
+                                     └── Verification Metadata
+```
+
+Do not allow the same company or rule to be independently defined in multiple unrelated files.
+
+Audit and remove or reconcile:
+
+* `propFirmsData.ts`
+* `propFirmMatchReal.ts`
+* `realFirmsForTable.json`
+* crawl JSON dumps
+* duplicated firm records
+* manually copied rule values
+* disconnected fallback mappings
+
+Create a clear data ownership strategy.
+
+For every company, there must be:
+
+* one canonical company ID
+* one canonical website
+* one canonical account/program ID
+* one canonical rule set
+* one canonical evidence collection
+* one canonical verification status
+
+Every frontend page, calculator, search result, comparison table, and filter must use the same canonical source.
+
+Do not allow the homepage to use one dataset while the comparison page uses another dataset.
+
+Do not allow the calculator to use values different from the values displayed in the account details page.
+
+Do not allow a firm to appear verified in one place and unknown in another.
+
+---
+
+# 5. Never fabricate data
+
+This is one of the most important requirements.
+
+Remove all fabricated or guessed values.
+
+Do not use fake fallback values such as:
+
+* fake account prices
+* guessed company websites
+* guessed country restrictions
+* guessed drawdown percentages
+* guessed payout rules
+* guessed trading restrictions
+* guessed account sizes
+* guessed verification dates
+* guessed company status
+* guessed ratings
+* guessed payout history
+* guessed rule conflicts
+
+If a value is not verified, use an explicit state such as:
+
+```text
+Unknown
+Not yet verified
+Not publicly stated
+Evidence unavailable
+Conflicting sources
+Requires manual review
+```
+
+Never silently convert missing data into:
+
+```text
+false
+0
+free
+allowed
+not allowed
+verified
+safe
+```
+
+For unverified firms, display a clear warning:
+
+> Rules under verification. Do not rely on this data for a trading or purchase decision until the source has been reviewed.
+
+Unknown must remain unknown.
+
+Do not make an assumption merely to complete a table.
+
+---
+
+# 6. Build a real evidence-first rule system
+
+Every rule must contain structured evidence.
+
+A rule should support fields similar to:
+
+```ts
+{
+  id,
+  firmId,
+  accountId,
+  category,
+  name,
+  shortAnswer,
+  detailedExplanation,
+  value,
+  unit,
+  conditions,
+  exceptions,
+  appliesTo,
+  evidenceClass,
+  sourceUrl,
+  sourceTitle,
+  sourceQuote,
+  sourceLocation,
+  capturedAt,
+  lastVerifiedAt,
+  verificationStatus,
+  confidence,
+  conflictStatus,
+  impactLevel,
+  userFriendlyExplanation,
+  calculatorInputs,
+  relatedRules,
+  changeHistory
+}
+```
+
+Do not display a rule as a simple unexplained boolean.
+
+For example, do not show only:
+
+```text
+News trading: Yes
+```
+
+Instead, explain:
+
+```text
+News trading: Restricted
+
+What this means:
+You may be allowed to open trades during normal market conditions, but trades opened or closed around major economic announcements may be restricted.
+
+Important conditions:
+- The restriction may apply only to certain account types.
+- The restriction may apply to specific news events.
+- Existing positions may be treated differently from newly opened positions.
+- The rule may differ between evaluation and funded stages.
+
+Evidence:
+Official rule page
+Last verified date
+Relevant source passage
+```
+
+The exact answer must come from evidence. Do not invent conditions.
+
+---
+
+# 7. Create a complete rule ontology
+
+Build a comprehensive rule taxonomy so that all important funded-account rules can be represented consistently.
+
+At minimum, cover the following categories.
+
+## A. Company and account information
+
+* Company name
+* Legal entity, if publicly available
+* Official website
+* Account program name
+* Account type
+* Evaluation or instant funding
+* One-step evaluation
+* Two-step evaluation
+* Three-step evaluation
+* Direct funding
+* Simulated funded account
+* Live-funded account, if explicitly verified
+* Account sizes
+* Account currencies
+* Account price
+* Discounts
+* Refund policy
+* Reset fees
+* Retry fees
+* Activation fees
+* Subscription fees
+* Recurring fees
+* Platform fees
+* Data fees
+* Commission
+* Spread information
+* Slippage information
+* Available platforms
+* Broker or liquidity provider information
+* Supported countries
+* Restricted countries
+* Age requirements
+* KYC requirements
+* Terms and conditions
+* Privacy policy
+* Company contact information
+
+## B. Profit target rules
+
+* Initial profit target
+* Phase-one profit target
+* Phase-two profit target
+* Funded-stage target
+* Profit target calculation basis
+* Balance-based target
+* Equity-based target
+* Intraday target
+* Target deadline
+* Target removal after funding
+* Target reset conditions
+* Profit target exceptions
+
+## C. Loss and drawdown rules
+
+* Maximum daily loss
+* Maximum overall loss
+* Static drawdown
+* Trailing drawdown
+* End-of-day trailing drawdown
+* Intraday trailing drawdown
+* Equity-based drawdown
+* Balance-based drawdown
+* Floating loss treatment
+* Floating profit treatment
+* Realized profit treatment
+* Unrealized profit treatment
+* Drawdown reset timing
+* Daily loss reset timezone
+* Daily loss reset time
+* Equity snapshot timing
+* High-water mark behavior
+* Drawdown floor
+* Drawdown freeze
+* Drawdown movement after profit
+* Drawdown movement after withdrawal
+* Drawdown behavior after payout
+* Drawdown behavior after scaling
+* Breach conditions
+* Soft breach
+* Hard breach
+* Automatic account termination
+* Warning thresholds
+* Loss limit calculation examples
+
+## D. Trading restrictions
+
+* News trading
+* High-impact news restrictions
+* Medium-impact news restrictions
+* Low-impact news restrictions
+* News window before release
+* News window after release
+* Holding positions through news
+* Opening trades during news
+* Closing trades during news
+* Pending orders during news
+* Weekend trading
+* Holding over weekends
+* Friday restrictions
+* Monday restrictions
+* Overnight trading
+* Market-close restrictions
+* Market-open restrictions
+* Holiday restrictions
+* Trading during illiquid periods
+* Trading during rollover
+* Trading during server maintenance
+* Maximum trade duration
+* Minimum trade duration
+* Scalping
+* High-frequency trading
+* Latency arbitrage
+* Arbitrage
+* Hedging
+* Cross-account hedging
+* Opposite-account trading
+* Grid strategies
+* Martingale
+* Reverse martingale
+* DCA
+* Averaging down
+* One-sided betting
+* Gambling-like behavior
+* All-in trading
+* Excessive leverage
+* Account manipulation
+* Exploiting price-feed errors
+* Exploiting platform errors
+* Exploiting broker errors
+* Exploiting delayed data
+* Exploiting slippage
+* Exploiting execution gaps
+
+## E. Software and account access rules
+
+* Expert Advisors
+* Automated trading
+* Bots
+* Indicators
+* Scripts
+* Copy trading
+* Trade copiers
+* Signal services
+* Third-party account management
+* Manual trading requirement
+* VPS usage
+* VPN usage
+* Proxy usage
+* IP address restrictions
+* Device restrictions
+* Multiple devices
+* Multiple locations
+* Shared accounts
+* Account sharing
+* Multiple accounts
+* Account merging
+* Account duplication
+* Login restrictions
+* API access
+* Platform restrictions
+* Remote desktop restrictions
+* Suspicious login behavior
+
+## F. Position and risk rules
+
+* Maximum lot size
+* Maximum position size
+* Maximum number of positions
+* Maximum number of trades
+* Maximum daily trades
+* Maximum exposure
+* Maximum open risk
+* Risk per trade
+* Risk consistency
+* Lot-size consistency
+* Position-size consistency
+* Stop-loss requirements
+* Take-profit requirements
+* Mandatory stop loss
+* Maximum stop-loss distance
+* Minimum stop-loss distance
+* Risk-reward requirements
+* Maximum leverage
+* Margin requirements
+* Margin call
+* Stop-out
+* News exposure
+* Correlation restrictions
+* Symbol restrictions
+* Instrument restrictions
+* Cryptocurrency restrictions
+* Index restrictions
+* Futures restrictions
+* Forex restrictions
+* Metals restrictions
+* Stock restrictions
+* CFD restrictions
+
+## G. Trading-day and activity rules
+
+* Minimum trading days
+* Maximum trading days
+* Maximum inactivity period
+* Required trading frequency
+* Minimum position duration
+* Minimum number of trades
+* Maximum daily profit contribution
+* Consistency rule
+* Best-day rule
+* Profit-distribution rule
+* Daily profit cap
+* Minimum profitable days
+* Trading-day reset
+* Trading-day definition
+* Partial-day treatment
+* Weekend-day treatment
+* Holiday-day treatment
+
+## H. Payout rules
+
+* First payout waiting period
+* Payout frequency
+* Payout request process
+* Minimum payout amount
+* Maximum payout amount
+* Payout percentage
+* Profit split
+* Profit split changes
+* Payout cap
+* Payout scaling
+* Payout eligibility
+* Minimum profitable days before payout
+* Consistency requirement before payout
+* Drawdown requirement before payout
+* Account age requirement
+* KYC requirement
+* Payout method
+* Payout processing time
+* Payout approval time
+* Payout rejection reasons
+* Payout cancellation
+* Payout chargebacks
+* Payout fees
+* Tax responsibility
+* Payout currency
+* Payout restrictions by country
+* Payout rules after breach
+* Payout rules after account closure
+
+## I. Scaling rules
+
+* Scaling eligibility
+* Scaling schedule
+* Scaling based on profit
+* Scaling based on payout
+* Scaling based on time
+* Maximum account size
+* Maximum number of accounts
+* Account combination
+* Scaling drawdown changes
+* Scaling target changes
+* Scaling payout changes
+* Scaling reset conditions
+
+## J. Legal and operational rules
+
+* Terms version
+* Rule-change policy
+* Retroactive rule changes
+* Account termination policy
+* Dispute policy
+* Refund policy
+* Chargeback policy
+* Fraud policy
+* Identity verification
+* Source-of-funds verification
+* Residency restrictions
+* Sanctions restrictions
+* Data retention
+* Privacy policy
+* Company ownership information
+* Jurisdiction
+* Governing law
+* Customer support channels
+* Complaint process
+* Risk disclosures
+
+Do not assume every company has every rule. The system must distinguish:
+
+```text
+Allowed
+Not allowed
+Allowed with conditions
+Not publicly stated
+Not applicable
+Unknown
+Conflicting
+```
+
+---
+
+# 8. Make every rule easy for normal users to understand
+
+The platform must not copy complicated legal language directly into the main interface.
+
+For every rule, create two layers:
+
+## Layer 1: Simple answer
+
+A short, direct answer:
+
+```text
+Can I hold trades overnight?
+Yes, but only on this account type.
+```
+
+## Layer 2: Complete explanation
+
+Explain:
+
+* What the rule means
+* When it applies
+* What is allowed
+* What is prohibited
+* Important exceptions
+* How the rule can affect the user
+* A practical example
+* What the user should check before trading
+* The original evidence
+
+Use plain language.
+
+Avoid unexplained terms such as:
+
+* trailing drawdown
+* high-water mark
+* equity breach
+* consistency threshold
+* payout eligibility
+* simulated execution
+* prohibited strategy
+* daily reset
+* floating loss
+
+Whenever a technical term is necessary, define it immediately.
+
+Example:
+
+> **Trailing drawdown** means the loss limit moves upward as your account reaches a new high. This can reduce the amount of room you have after making a profit.
+
+Do not oversimplify in a way that changes the meaning.
+
+If the rule is complex, show a worked example using the actual verified values for that account.
+
+---
+
+# 9. Build a complete rule-impact explanation system
+
+A user should understand not only what a rule says, but why it matters.
+
+For every important rule, calculate or explain its practical impact.
+
+Examples:
+
+## Daily loss
+
+Explain:
+
+* Starting balance
+* Daily loss limit
+* Current equity
+* Current balance
+* Floating loss
+* Remaining daily risk
+* Reset time
+* Whether commissions and swaps count
+
+## Maximum drawdown
+
+Explain:
+
+* Starting balance
+* Drawdown amount
+* Drawdown type
+* Current drawdown threshold
+* Current equity
+* Remaining loss room
+* Whether the threshold moves
+* What happens after profit
+* What happens after payout
+
+## Profit target
+
+Explain:
+
+* Required profit
+* Current profit
+* Remaining profit
+* Whether the target is balance-based or equity-based
+* Whether minimum trading days are also required
+* Whether consistency rules apply
+
+## Payout eligibility
+
+Explain:
+
+* Whether the account is currently eligible
+* Which conditions are satisfied
+* Which conditions remain
+* Minimum payout amount
+* Maximum payout amount
+* Required trading days
+* Required consistency
+* Required waiting period
+* Required KYC
+* Any unresolved evidence
+
+Do not show a misleading “eligible” status unless every required condition is known and satisfied.
+
+Use statuses such as:
+
+```text
+Eligible
+Not eligible
+Potentially eligible
+Insufficient information
+Blocked by missing evidence
+Conflicting rules
+```
+
+---
+
+# 10. Fix the calculator completely
+
+The calculator must be deterministic, accurate, and fully tested.
+
+Audit every formula.
+
+Verify:
+
+* profit target
+* daily loss limit
+* maximum drawdown
+* trailing drawdown
+* end-of-day drawdown
+* intraday drawdown
+* equity-based limits
+* balance-based limits
+* floating profit
+* floating loss
+* commissions
+* swaps
+* payout deductions
+* scaling changes
+* consistency rules
+* minimum trading days
+* payout eligibility
+* remaining risk
+* breach conditions
+
+Every calculation must clearly state its assumptions.
+
+For example:
+
+```text
+This calculation assumes:
+- The rule is equity-based.
+- Floating profit counts.
+- The daily limit resets at the company’s stated reset time.
+- Commissions are included.
+- The source rule was last verified on [date].
+```
+
+Do not hide assumptions.
+
+If the source does not specify how a value is calculated, do not invent the formula. Mark it as:
+
+```text
+Calculation method not publicly specified.
+```
+
+The calculator must use the same canonical rule values displayed elsewhere.
+
+Add unit tests for every calculation path, including edge cases:
+
+* exactly at the limit
+* one cent below the limit
+* one cent above the limit
+* profit followed by loss
+* payout followed by loss
+* floating profit
+* floating loss
+* daily reset
+* new high-water mark
+* drawdown floor
+* zero profit
+* negative profit
+* missing values
+* conflicting values
+* unsupported rule type
+
+---
+
+# 11. Replace the simulated crawler with a real crawler
+
+The current crawler must not pretend to crawl websites if it does not actually fetch and parse them.
+
+Implement a real, production-quality crawler.
+
+The crawler must support:
+
+* actual HTTP fetching
+* request timeout
+* `AbortController`
+* retries
+* exponential backoff
+* rate limiting
+* robots.txt handling
+* sitemap.xml discovery
+* canonical URL handling
+* URL normalization
+* duplicate URL prevention
+* domain restrictions
+* content-type validation
+* HTML parsing
+* title extraction
+* metadata extraction
+* visible text extraction
+* link extraction
+* relevant page discovery
+* pagination handling where appropriate
+* redirect handling
+* status-code handling
+* error classification
+* content hashing
+* snapshot persistence
+* crawl history
+* source freshness
+* manual recrawl
+* scheduled recrawl
+* crawl cancellation
+* crawl logs
+* crawl metrics
+
+Do not use:
+
+* `Math.random()` for fake latency
+* fake hashes
+* hardcoded fake links
+* simulated successful responses
+* hardcoded crawl counts
+* fake “100% success” claims
+
+Use a real cryptographic hash such as SHA-256 through a proper supported implementation.
+
+The crawler must store:
+
+```text
+URL
+Canonical URL
+HTTP status
+Content type
+Fetched timestamp
+Response timestamp
+Content hash
+Page title
+Extracted text
+Relevant links
+Robots status
+Sitemap source
+Error status
+Retry count
+Source priority
+```
+
+If a page cannot be fetched, show the failure.
+
+Do not silently mark it as verified.
+
+---
+
+# 12. Build a real extraction pipeline
+
+The extraction pipeline should follow this structure:
+
+```text
+Discover
+→ Fetch
+→ Parse
+→ Identify relevant content
+→ Extract raw statements
+→ Normalize rules
+→ Validate values
+→ Attach evidence
+→ Detect conflicts
+→ Assign confidence
+→ Store snapshots
+→ Publish only safe results
+```
+
+The pipeline must not rely only on two hardcoded conflicts.
+
+It must detect generic rule changes and conflicts.
+
+For each extracted rule, identify:
+
+* rule category
+* rule name
+* exact value
+* unit
+* conditions
+* exceptions
+* account type
+* source page
+* source passage
+* source date
+* extraction timestamp
+* confidence
+* verification status
+
+Do not publish an extracted rule if the parser is uncertain and the result could materially mislead users.
+
+Use a review queue for:
+
+* ambiguous language
+* conflicting sources
+* missing account type
+* contradictory numbers
+* outdated pages
+* suspicious extraction
+* incomplete context
+* legal disclaimers
+* dynamic content
+* PDF-only rules
+* rules hidden behind login
+* rules that changed recently
+
+---
+
+# 13. Add conflict detection and source priority
+
+A company may have different rules in:
+
+* official FAQ
+* official terms
+* official dashboard
+* official help center
+* official blog
+* official pricing page
+* official payout page
+* affiliate page
+* third-party review
+* social media
+* cached page
+
+The platform must not merge conflicting values silently.
+
+Create source priority rules.
+
+For example:
+
+```text
+Current official terms
+>
+Current official rule page
+>
+Current official FAQ
+>
+Official dashboard/help center
+>
+Official announcement
+>
+Third-party source
+>
+Affiliate source
+>
+User report
+```
+
+The exact priority must be documented and configurable.
+
+When sources conflict, display:
+
+```text
+Conflicting information found
+```
+
+Then show:
+
+* Source A
+* Source B
+* dates
+* exact differences
+* which source is considered more authoritative
+* whether manual review is required
+
+Never choose a value silently.
+
+---
+
+# 14. Add rule version history
+
+Rules change over time.
+
+Store historical versions of:
+
+* pricing
+* drawdown
+* profit target
+* payout rules
+* news restrictions
+* weekend restrictions
+* EA rules
+* copy trading rules
+* account sizes
+* scaling rules
+* country restrictions
+* terms and conditions
+
+Every rule change should record:
+
+```text
+Previous value
+New value
+Changed timestamp
+Source URL
+Source snapshot
+Detected automatically or manually
+Review status
+Affected account types
+```
+
+The platform should be able to answer:
+
+* What is the current rule?
+* When was it last verified?
+* What changed?
+* What was the previous rule?
+* Did the change affect existing accounts or only new accounts?
+* Was the change announced?
+* Is the current page different from the previous snapshot?
+
+Do not display historical information as current information.
+
+---
+
+# 15. Build a complete search system
+
+Search must understand user intent, not only exact company names.
+
+Users may search:
+
+* “funded account no news restrictions”
+* “100k account under 500”
+* “best firm for overnight trading”
+* “firms allowing EAs”
+* “no consistency rule”
+* “trailing drawdown”
+* “instant funding”
+* “payout after 7 days”
+* “weekend holding allowed”
+* “firms available in India”
+* “low daily drawdown”
+* “highest payout split”
+* “no minimum trading days”
+
+Search should understand:
+
+* company names
+* account sizes
+* prices
+* rule categories
+* trading styles
+* restrictions
+* payout requirements
+* geographic availability
+* account types
+* user intent
+
+If no exact company is found, do not show an empty dead end.
+
+Instead, provide:
+
+```text
+No exact company found.
+Try these related searches:
+- Firms allowing overnight trading
+- Accounts with no consistency rule
+- Instant funding accounts
+- Firms with low minimum trading days
+```
+
+Do not fabricate results.
+
+If there are no verified results, say so clearly.
+
+---
+
+# 16. Build accurate comparison logic
+
+Comparison must not rank companies only by:
+
+* cheapest price
+* highest profit split
+* largest account size
+* marketing claims
+
+Comparison must include:
+
+* total cost
+* reset cost
+* recurring cost
+* profit target
+* daily loss
+* maximum drawdown
+* drawdown type
+* payout conditions
+* payout timing
+* consistency rules
+* news restrictions
+* overnight rules
+* weekend rules
+* EA rules
+* copy trading rules
+* minimum trading days
+* inactivity rules
+* scaling rules
+* country restrictions
+* evidence quality
+* last verification date
+* conflict status
+* unknown fields
+
+Do not claim one company is “best” for everyone.
+
+Instead, calculate fit based on the user’s stated requirements.
+
+Example:
+
+```text
+Best match for overnight swing trading
+Best match for news trading
+Best match for low upfront cost
+Best match for strict risk control
+Best match for frequent payouts
+Best match for automated trading
+```
+
+Every recommendation must explain why it matches.
+
+Affiliate relationships must never influence rankings.
+
+If affiliate monetization exists, keep it separate from factual ranking and clearly disclose it.
+
+---
+
+# 17. Build user-friendly filters
+
+Filters must work from canonical verified data.
+
+At minimum, support filters for:
+
+* account size
+* price
+* account type
+* evaluation type
+* profit target
+* daily loss
+* maximum drawdown
+* drawdown type
+* payout split
+* first payout timing
+* minimum trading days
+* consistency rule
+* news trading
+* overnight trading
+* weekend trading
+* Expert Advisors
+* copy trading
+* VPN usage
+* country availability
+* payout method
+* scaling
+* account platform
+* verification status
+
+Do not treat unknown as allowed.
+
+For example:
+
+* `EA allowed` should include only explicitly verified allowed accounts.
+* `EA unknown` should remain separate.
+* `EA prohibited` should be separate.
+* `EA conditional` should be separate.
+
+---
+
+# 18. Create transparent trust statuses
+
+Use consistent statuses throughout the product:
+
+```text
+Verified
+Partially verified
+Needs review
+Conflicting
+Unknown
+Outdated
+Unavailable
+Not applicable
+```
+
+Each status must have a clear meaning.
+
+Example:
+
+## Verified
+
+The rule is supported by current official evidence.
+
+## Partially verified
+
+Some parts are supported, but important conditions are missing.
+
+## Needs review
+
+The extraction or interpretation requires human review.
+
+## Conflicting
+
+Two or more credible sources disagree.
+
+## Unknown
+
+No reliable evidence is available.
+
+## Outdated
+
+Evidence exists but is older than the accepted freshness period.
+
+Do not use green checkmarks for uncertain data.
+
+Do not show “Yes” or “No” when the real answer is conditional or unknown.
+
+---
+
+# 19. Improve the frontend content without redesigning it
+
+Keep the existing pages and layout, but ensure every page is truthful and useful.
+
+Audit all pages:
+
+* homepage
+* company listing
+* company details
+* account details
+* comparison page
+* calculator
+* search page
+* rule details
+* evidence page
+* change history
+* FAQ
+* about page
+* legal pages
+* error pages
+* loading states
+* empty states
+
+Fix:
+
+* hardcoded statistics
+* fake company counts
+* fake crawl counts
+* fake verification percentages
+* fake timestamps
+* incorrect labels
+* misleading tooltips
+* broken links
+* missing loading states
+* missing error states
+* missing empty states
+* inconsistent data
+* incorrect calculations
+* mobile overflow
+* inaccessible controls
+* missing keyboard navigation
+* missing screen-reader labels
+* poor contrast
+* unclear terminology
+
+If the homepage currently displays values such as “35 firms” or “4 verified,” bind them to real data. If the real values are unavailable, do not display fake numbers.
+
+---
+
+# 20. Fix routing and deep-link behavior
+
+The current manual `window.history.pushState` router may be fragile.
+
+Audit and fix:
+
+* direct URL loading
+* browser refresh
+* back button
+* forward button
+* route parameters
+* unknown routes
+* query parameters
+* search URLs
+* comparison URLs
+* account URLs
+* company URLs
+* mobile navigation
+* scroll restoration
+* modal state
+* route transitions
+
+Do not change the public route structure unless absolutely necessary.
+
+Make sure every public route works after a refresh and can be shared directly.
+
+---
+
+# 21. Improve performance without changing appearance
+
+Audit:
+
+* bundle size
+* large data imports
+* duplicate data
+* unnecessary rerenders
+* expensive filters
+* repeated calculations
+* timers
+* ticker components
+* animations
+* crawler imports in frontend
+* unused dependencies
+* unused files
+* image loading
+* lazy loading
+* code splitting
+
+The current large single data file must be split or loaded efficiently.
+
+Do not load all firm data into the initial bundle if it is not needed.
+
+Use:
+
+* lazy loading
+* route-level code splitting
+* memoization where appropriate
+* normalized data
+* indexed lookup maps
+* pagination or virtualization where necessary
+* debounced search
+* efficient filtering
+* stable keys
+* cleanup for timers and listeners
+
+Do not sacrifice correctness for performance.
+
+---
+
+# 22. Clean the repository
+
+Remove or isolate:
+
+* duplicate scaffold files
+* obsolete screenshots
+* generated scrape dumps
+* copied transcripts
+* old markdown files
+* unused assets
+* old build output
+* `node_modules` from Git
+* temporary files
+* duplicate data sources
+* unused components
+* dead routes
+* dead functions
+* debug logs
+* fake test fixtures that look like real production data
+
+Do not delete anything before confirming it is unused.
+
+Keep a clean separation:
+
+```text
+src/
+scripts/
+tests/
+data/
+docs/
+fixtures/
+artifacts/
+```
+
+Production code must not depend on random generated files.
+
+---
+
+# 23. Strengthen TypeScript
+
+Enable and fix strict TypeScript settings where practical:
+
+* `strict`
+* `noUncheckedIndexedAccess`
+* `noUnusedLocals`
+* `noUnusedParameters`
+* `noImplicitReturns`
+* `noFallthroughCasesInSwitch`
+* `exactOptionalPropertyTypes`, where compatible
+
+Remove:
+
+* unnecessary `any`
+* unsafe casts
+* ignored TypeScript errors
+* missing null checks
+* unchecked array access
+* inconsistent optional fields
+* duplicated type definitions
+
+Use the existing schema as the foundation instead of creating competing types.
+
+---
+
+# 24. Validate all external data
+
+Use runtime validation for:
+
+* company data
+* account data
+* rule data
+* evidence data
+* crawl snapshots
+* calculator inputs
+* API responses
+* JSON files
+
+Reject malformed data.
+
+Validate:
+
+* percentages
+* currencies
+* account sizes
+* dates
+* URLs
+* enums
+* required IDs
+* rule categories
+* source references
+* confidence values
+* status values
+
+Do not allow malformed data to silently reach the frontend.
+
+---
+
+# 25. Add comprehensive tests
+
+The current test coverage is insufficient.
+
+Add tests for:
+
+## Data
+
+* canonical company IDs
+* duplicate detection
+* missing fields
+* invalid values
+* unknown states
+* conflicting sources
+* stale evidence
+
+## Crawler
+
+* URL normalization
+* duplicate prevention
+* robots.txt
+* sitemap discovery
+* timeout
+* retry behavior
+* rate limiting
+* redirects
+* failed requests
+* content hashing
+* HTML parsing
+* relevant-link extraction
+
+## Extraction
+
+* rule extraction
+* account association
+* condition extraction
+* source attachment
+* confidence
+* conflict detection
+* ambiguous language
+* missing values
+* rule version changes
+
+## Calculator
+
+* every formula
+* every rule type
+* boundary conditions
+* missing data
+* conflicting data
+* floating profit
+* floating loss
+* trailing drawdown
+* daily reset
+* payout eligibility
+* consistency rules
+
+## Search
+
+* company search
+* rule search
+* natural-language intent
+* no-result behavior
+* partial matches
+* filters
+* sorting
+* unknown values
+
+## Comparison
+
+* correct ranking
+* correct filtering
+* no fabricated recommendations
+* evidence status
+* unknown handling
+* account-specific comparison
+
+## Frontend
+
+* routes
+* deep links
+* loading states
+* empty states
+* error states
+* calculator interaction
+* filters
+* comparison selection
+* accessibility
+* mobile layout
+
+## End-to-end
+
+Test the complete user journey:
+
+```text
+Open homepage
+→ Search for a rule
+→ Open a company
+→ Select an account
+→ Inspect rules
+→ Compare accounts
+→ Use calculator
+→ View evidence
+→ View rule history
+```
+
+Do not claim tests pass unless they actually pass.
+
+---
+
+# 26. Add build and quality gates
+
+The project must fail the build if:
+
+* TypeScript errors exist
+* tests fail
+* invalid data is included
+* required fields are missing
+* fake crawler behavior remains
+* production code contains fake values
+* unresolved imports exist
+* routes are broken
+* lint errors exist
+* critical accessibility issues exist
+
+Add scripts for:
+
+```text
+typecheck
+lint
+test
+test:coverage
+build
+validate:data
+validate:rules
+crawl
+crawl:dry-run
+audit
+```
+
+Run all checks before finishing.
+
+---
+
+# 27. Create a developer-facing audit report
+
+After implementation, provide a detailed report containing:
+
+1. What was inspected.
+2. What was broken.
+3. What was fixed.
+4. What files were changed.
+5. What files were removed.
+6. What data sources were consolidated.
+7. How the crawler now works.
+8. How evidence is stored.
+9. How conflicts are handled.
+10. How unknown values are handled.
+11. How calculations were verified.
+12. How search works.
+13. How comparison works.
+14. What tests were added.
+15. Test results.
+16. Build results.
+17. Remaining limitations.
+18. Any manual review still required.
+19. Any data that is intentionally marked unknown.
+20. Any security or legal concerns.
+
+Do not claim “perfect” or “100% complete” if anything remains unresolved.
+
+Be honest about limitations.
+
+---
+
+# 28. Required implementation order
+
+Follow this order exactly.
+
+## Phase 1: Repository and architecture audit
+
+* Inspect everything.
+* Map the architecture.
+* Identify duplicate sources.
+* Identify fake behavior.
+* Identify unsafe assumptions.
+* Identify broken routes.
+* Identify missing tests.
+
+## Phase 2: Data and schema foundation
+
+* Keep the existing strong schema.
+* Create one canonical source of truth.
+* Remove duplicate datasets.
+* Remove fabricated values.
+* Add validation.
+* Add explicit unknown and conflict states.
+
+## Phase 3: Real crawler
+
+* Replace simulated crawling.
+* Add real fetching.
+* Add robots and sitemap support.
+* Add retries and rate limits.
+* Add snapshots and hashes.
+* Add crawl errors and persistence.
+
+## Phase 4: Rule extraction and evidence
+
+* Build generic extraction.
+* Add rule categories.
+* Add source passages.
+* Add confidence.
+* Add conflict detection.
+* Add version history.
+* Add review queue.
+
+## Phase 5: Calculator and decision engine
+
+* Audit all formulas.
+* Add assumptions.
+* Add account-specific calculations.
+* Add edge-case tests.
+* Ensure all pages use the same calculator logic.
+
+## Phase 6: Search, filters, and comparison
+
+* Add intent-aware search.
+* Add rule-based filtering.
+* Add accurate comparison.
+* Add evidence-aware ranking.
+* Add no-result alternatives.
+
+## Phase 7: Frontend correctness
+
+* Bind all displayed values to real data.
+* Fix wording.
+* Add unknown/conflict states.
+* Fix loading/error/empty states.
+* Fix accessibility and mobile issues.
+* Do not redesign the UI.
+
+## Phase 8: Testing and release hardening
+
+* Add unit tests.
+* Add integration tests.
+* Add end-to-end tests.
+* Run typecheck.
+* Run lint.
+* Run build.
+* Run data validation.
+* Run the full audit again.
+
+---
+
+# 29. Non-negotiable rules
+
+You must follow these rules throughout the task:
+
+1. Do not change the existing UI design.
+2. Do not create fake data.
+3. Do not use simulated crawling.
+4. Do not hardcode live statistics.
+5. Do not mark unknown rules as allowed or prohibited.
+6. Do not silently resolve conflicts.
+7. Do not mix multiple sources of truth.
+8. Do not use unverified data in calculations without a warning.
+9. Do not claim a company is safe, legitimate, or trustworthy without evidence.
+10. Do not claim a payout is guaranteed.
+11. Do not make financial promises.
+12. Do not hide uncertainty.
+13. Do not remove useful existing functionality.
+14. Do not rewrite working code unnecessarily.
+15. Do not stop after fixing only the homepage.
+16. Do not provide a superficial patch.
+17. Do not declare completion until tests and build pass.
+18. Do not claim all rules are covered unless the data actually supports them.
+19. Do not use affiliate relationships to influence factual rankings.
+20. Every important answer must be explainable and traceable to evidence.
+
+---
+
+# 30. Final quality standard
+
+The final product should feel like:
+
+> **A reliable research and decision tool for funded trading accounts, not a marketing directory.**
+
+A normal user should be able to search for any rule and understand:
+
+* What the rule is.
+* Whether it applies.
+* What the simple answer is.
+* What the conditions are.
+* What the practical risk is.
+* How it affects the user’s trading.
+* What evidence supports it.
+* When it was last verified.
+* Whether any source conflicts exist.
+* What is still unknown.
+* How to calculate the impact.
+
+The final experience must be:
+
+* accurate
+* evidence-first
+* transparent
+* simple to understand
+* comprehensive
+* fast
+* accessible
+* mobile-friendly
+* maintainable
+* testable
+* scalable
+* honest about uncertainty
+
+Do not merely make the product look complete.
+
+Make the underlying system genuinely complete, reliable, and useful.
+
+Start by inspecting the entire existing repository and producing a detailed implementation plan based on the actual code. Then implement the fixes in the required order. Preserve the current UI while making every underlying feature, rule, calculation, data source, crawler, search result, comparison, and explanation work correctly.

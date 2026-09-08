@@ -1,0 +1,11 @@
+TITLE: Learn Contract Sizing with AquaFutures | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863735-learn-contract-sizing-with-aquafutures
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863735-learn-contract-sizing-with-aquafutures
+HEADINGS:
+- Learn Contract Sizing with AquaFutures
+- For Beginner Accounts:
+- For Standard Accounts:
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesLearn Contract Sizing with AquaFuturesLearn Contract Sizing with AquaFutures July 7, 2026Table of contentsFor each account size, there’s a set limit on the number of contracts you buy or sell at any given time. For Beginner Accounts:For a $25,000 account, the maximum allowed size is 1 E-Mini Contract or 10 Micro contracts.For a $50,000 account, the maximum allowed size is 3 E-Mini Contracts or 30 Micro contracts.For a $100,000 account, the maximum allowed size is 6 E-Mini Contracts or 60 Micro contracts.For a $150,000 account, the maximum allowed size is 9 E-Mini Contracts or 90 Micro contracts. For Standard Accounts:For a $25,000 account, the maximum allowed size is 2 E-Mini Contracts or 20 micro contracts.For a $50,000 account, the maximum allowed size is 4 E-Mini Contracts or 40 micro contracts.For a $100,000 account, the maximum allowed size is 6 E-Mini Contracts or 60 micro contracts.For a $150,000 account, the maximum allowed size is 10 E-Mini Contracts or 100 micro contracts.Related ArticlesBeginner Account OverviewStandard Evaluation Account OverviewInstant Pro Account OverviewScaling PlanFlex Accounts OverviewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

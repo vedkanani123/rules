@@ -1,8 +1,22 @@
-node_modules
-dist
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+prop-firm-intelligence-platform/dist/
+
+# Env & secrets
 .env
 .env.local
+.env.*.local
+
+# OS / logs
 .DS_Store
 *.log
-coverage
-prop-firm-intelligence-platform/dist
+coverage/
+
+# Local tooling / caches
+.claude/settings.local.json
+.omc/
+.ruff_cache/
+*.tsbuildinfo

@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import { Rule, SourceEvidence } from '../../types/schema.ts';
+import { TrustBadge, TrustStatus } from '../trust/TrustBadge.tsx';
+import { getTrustStateForRule } from '../../core/canonical/store.ts';
 import {
   ChevronDown,
   ChevronUp,
@@ -30,6 +32,17 @@ export const RuleCard: React.FC<RuleCardProps> = ({ rule, onOpenSource }) => {
   };
 
   const isHiddenCard = rule.isEasyToMiss;
+  const trustMap: Record<string, TrustStatus> = {
+    VERIFIED: 'Verified',
+    PARTIALLY_VERIFIED: 'Partially verified',
+    NEEDS_REVIEW: 'Needs review',
+    CONFLICTING: 'Conflicting',
+    UNKNOWN: 'Unknown',
+    OUTDATED: 'Outdated',
+    UNAVAILABLE: 'Unavailable',
+    NOT_APPLICABLE: 'Not applicable',
+  };
+  const trust: TrustStatus = trustMap[getTrustStateForRule(rule)] ?? 'Unknown';
   return (
     <div id={`rule-card-${rule.slug}`} className={`glass-card/80 border rounded-xl sm:rounded-2xl overflow-hidden transition-all duration-200 shadow-sm hover:shadow-md ${isHiddenCard ? 'border-red-900/50 hover:border-red-500/40' : 'border-white/[0.06] hover:border-slate-700/80'}`}>
       {/* Header */}
@@ -66,10 +79,11 @@ export const RuleCard: React.FC<RuleCardProps> = ({ rule, onOpenSource }) => {
         </div>
 
         <div className="flex items-center justify-between sm:justify-end gap-3 shrink-0 w-full sm:w-auto pt-3 sm:pt-0 border-t sm:border-t-0 border-white/[0.06]">
-          <div className="text-left sm:text-right">
+          <div className="text-left sm:text-right space-y-1">
             <span className="text-sm font-mono font-bold text-brand-400 block">
               {rule.headlineValue}
             </span>
+            <TrustBadge status={trust} note={`Last verified ${rule.lastVerified}`} />
             <span className="text-[11px] text-white/60">
               Verified {rule.lastVerified}
             </span>
@@ -144,7 +158,7 @@ export const RuleCard: React.FC<RuleCardProps> = ({ rule, onOpenSource }) => {
                     className="inline-flex items-center gap-1.5 px-3 py-2 text-xs font-mono font-medium rounded-xl bg-[#2563eb]/10 text-sky-400 border border-[#2563eb]/30 hover:bg-[#2563eb]/20 transition-colors min-h-[38px] focus-visible:ring-2 focus-visible:ring-sky-500"
                   >
                     <Search className="w-3.5 h-3.5 shrink-0" />
-                    <span>Inspect Source {rule.sources.length > 1 ? `#${sIdx + 1}: ${src.documentName || src.urlType}` : `(${src.documentName || 'Verified Citation'})`}</span>
+                    <span>Inspect Source {rule.sources.length > 1 ? `#${sIdx + 1}: Verified Citation` : `(Verified Citation)`}</span>
                   </button>
                 ))}
               </div>

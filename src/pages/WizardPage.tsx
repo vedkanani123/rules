@@ -216,7 +216,7 @@ export const WizardPage: React.FC<{ onNavigate: (path: string) => void }> = ({ o
                     whyNotFit.push(`Consistency policy active: ${acc.consistencyRule}`);
                   }
                 } else if (priority === 'low_fee') {
-                  if (acc.price < 500) {
+                  if (!acc.priceUnknown && acc.price < 500) {
                     score += 8;
                     whyFit.push(`Competitive entry cost: $${acc.discountedPrice || acc.price} registration fee${acc.refundableFee ? ' (refundable on 1st payout)' : ''}`);
                   }

@@ -1,0 +1,28 @@
+TITLE: Minimum Trading Days - On Funded Phase | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863766-minimum-trading-days-on-funded-phase
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863766-minimum-trading-days-on-funded-phase
+HEADINGS:
+- Minimum Trading Days - On Funded Phase
+- Minimum Trading Day Requirements
+- Beginner Accounts
+- Minimum Daily Profit Requirements
+- Example
+- Standard Accounts
+- Minimum Daily Profit Requirements
+- Example
+- Instant Standard Accounts
+- Minimum Daily Profit Requirements
+- Example
+- Instant Pro Accounts
+- Minimum Daily Profit Requirements
+- Example
+- Frequently Asked Questions
+- Do losing days count toward the minimum trading day requirement?
+- Do I need to complete the minimum trading days for every withdrawal?
+- Can I complete multiple trading days in a single day?
+- If I make more than the minimum daily profit requirement, does it count as multiple trading days?
+- Are minimum trading days the only requirement for a withdrawal?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesMinimum Trading Days - On Funded PhaseMinimum Trading Days - On Funded Phase July 7, 2026Table of contentsMinimum Trading Day RequirementsTo promote consistent trading performance and responsible risk management, AquaFutures requires traders to complete a minimum number of profitable trading days before becoming eligible for rewards.A profitable trading day is defined as a trading day where the trader meets or exceeds the required minimum daily profit for their account type and size.Beginner AccountsBeginner Accounts require traders to complete:5 Winning Trading Days​before becoming eligible for a withdrawal request.In addition to completing 5 winning days, traders must also satisfy all other payout requirements, including consistency rules and profit target requirements.​Minimum Daily Profit RequirementsAccount SizeMinimum Daily Profit$25,000$120$50,000$200$100,000$360$150,000$580ExampleA trader with a $50,000 Beginner Account earns:Day 1: +$250 ✅Day 2: +$180 ❌Day 3: +$220 ✅Only Days 1 and 3 count toward the required 5 winning trading days because Day 2 did not meet the minimum daily profit requirement.Standard AccountsStandard Accounts require traders to complete:5 Winning Trading Daysbefore becoming eligible for a withdrawal request.​Minimum Daily Profit RequirementsAccount SizeMinimum Daily Profit$25,000$120$50,000$200$100,000$360$150,000$580ExampleA trader with a $100,000 Standard Account must complete 5 separate trading days generating at least $360 in profit per day before becoming eligible for a withdrawal.Instant Standard AccountsInstant Standard Accounts require traders to complete:7 Winning Trading Days​before becoming eligible for a withdrawal request.​Minimum Daily Profit RequirementsAccount SizeMinimum Daily Profit$50,000$100$100,000$200ExampleA trader with a $50,000 Instant Standard Account must complete 7 separate trading days generating at least $100 in profit per day before becoming eligible for a withdrawal request.Instant Pro AccountsInstant Pro Accounts require traders to complete:7 Winning Trading Days​before becoming eligible for a withdrawal request.​Minimum Daily Profit RequirementsAccount SizeMinimum Daily Profit$50,000$100$100,000$200ExampleA trader with a $100,000 Instant Pro Account must complete 7 separate trading days generating at least $200 in profit per day before becoming eligible for a withdrawal request.Frequently Asked QuestionsDo losing days count toward the minimum trading day requirement?No.Only trading days that meet or exceed the required minimum daily profit threshold count toward the minimum trading day requirement.Do I need to complete the minimum trading days for every withdrawal?Yes.The minimum trading day requirement must be satisfied during each withdrawal cycle.Can I complete multiple trading days in a single day?No.Only one qualifying trading day may be counted per calendar day.If I make more than the minimum daily profit requirement, does it count as multiple trading days?No.Regardless of how much profit is generated during a single trading day, it will only count as one qualifying trading day.Are minimum trading days the only requirement for a withdrawal?No.Traders must also satisfy all other requirements applicable to their account type, including profit targets, consistency rules, and reward eligibility requirements.This works well as a standalone FAQ article that you can link from every account overview and payout article.Related ArticlesStandard Evaluation Account OverviewInstant Pro Account OverviewInstant Standard Account OverviewWithdrawal Eligibility RequirementsFlex Accounts OverviewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

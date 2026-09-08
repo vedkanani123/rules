@@ -1,0 +1,46 @@
+TITLE: How to Set and Manage Stop Loss & Take Profit in Tradovate | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892646-how-to-set-and-manage-stop-loss-take-profit-in-tradovate
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892646-how-to-set-and-manage-stop-loss-take-profit-in-tradovate
+HEADINGS:
+- How to Set and Manage Stop Loss & Take Profit in Tradovate
+- What Are Stop Loss and Take Profit Orders?
+- Stop Loss (SL)
+- Take Profit (TP)
+- Method 1: Using ATM Strategies (Desktop & Web)
+- Step 1: Open Your Trading Chart
+- Step 2: Open ATM Settings
+- Step 3: Create a New Strategy
+- Step 4: Configure Your Risk Parameters
+- Step 5: Save the Strategy
+- Method 2: Using OCO Orders (Desktop & Web)
+- Step 1: Open a Position
+- Step 2: Enable OCO Mode
+- Step 3: Place Your Take Profit Order
+- Step 4: Place Your Stop Loss Order
+- Step 5: Disable OCO Mode
+- How OCO Works
+- Method 3: Using OSO Orders (Desktop & Web)
+- Step 1: Open the Order Ticket
+- Step 2: Switch to Advanced Mode
+- Step 3: Configure Your Entry Order
+- Step 4: Add Your Risk Management Orders
+- Stop Loss
+- Take Profit
+- Step 5: Submit the Order
+- Modifying Existing Stop Loss and Take Profit Orders
+- Step 1: Open the Positions Window
+- Step 2: Select the Position
+- Step 3: Edit Your Orders
+- Step 4: Save Changes
+- Setting Stop Loss & Take Profit on the Mobile App
+- Step 1: Open the App
+- Step 2: Access ATM Settings
+- Step 3: Enable Bracket Orders
+- Step 4: Configure Your Levels
+- Step 5: Place Your Trade
+- Best Practices for Risk Management
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateHow to Set and Manage Stop Loss & Take Profit in TradovateHow to Set and Manage Stop Loss & Take Profit in Tradovate July 9, 2026Table of contentsManaging risk is an essential part of successful trading. Tradovate provides several tools that allow traders to automatically or manually set Stop Loss (SL) and Take Profit (TP) levels to help manage open positions.This guide explains the different methods available across desktop, web, and mobile platforms.What Are Stop Loss and Take Profit Orders?Stop Loss (SL)A Stop Loss is an order designed to automatically close a trade if the market moves against you by a specified amount.​Take Profit (TP)A Take Profit order automatically closes a trade once your desired profit target has been reached.Using both together helps traders manage risk and lock in profits without constantly monitoring the market.Method 1: Using ATM Strategies (Desktop & Web)ATM (Advanced Trade Management) allows you to automatically attach Stop Loss and Take Profit levels to every trade.Step 1: Open Your Trading ChartLog in to Tradovate and open a chart or trading window.​Step 2: Open ATM SettingsLocate the ATM section and click the settings (gear) icon.​Step 3: Create a New StrategyClick the + button to create a new ATM profile.You may name it something descriptive, such as:Scalping StrategySwing StrategyRisk Management SetupStep 4: Configure Your Risk ParametersSet your desired:Take Profit targetStop Loss levelExample:Take Profit: 30 ticksStop Loss: 15 ticksStep 5: Save the StrategyClick Save.The ATM strategy can now be selected whenever you place a new trade.Method 2: Using OCO Orders (Desktop & Web)OCO stands for One Cancels Other.This method links your Stop Loss and Take Profit orders together. Once one order is triggered, the other is automatically canceled.​Step 1: Open a PositionEnter a Buy or Sell trade.​Step 2: Enable OCO ModeFrom the DOM, activate OCO mode.​Step 3: Place Your Take Profit OrderPlace a Limit Order at your desired profit target.​Step 4: Place Your Stop Loss OrderPlace a Stop Order at your desired risk level.​Step 5: Disable OCO ModeOnce both orders are placed, you can turn OCO mode off.​How OCO WorksIf:Your Take Profit is hit → Stop Loss is canceled.Your Stop Loss is hit → Take Profit is canceled.This prevents both orders from remaining active at the same time.Method 3: Using OSO Orders (Desktop & Web)OSO stands for Order Sends Order.This setup automatically creates your Stop Loss and Take Profit orders once your entry order is filled.​Step 1: Open the Order TicketLaunch the Order Ticket window.​Step 2: Switch to Advanced ModeEnable the Advanced Order settings.​Step 3: Configure Your Entry OrderChoose:Buy or SellLimit or Stop EntryEntry PriceStep 4: Add Your Risk Management OrdersConfigure:Stop LossSet your Stop Loss price and order type.​Take ProfitSet your profit target and order type.​Step 5: Submit the OrderClick Place Order.Once your entry order fills, Tradovate will automatically create the linked Stop Loss and Take Profit orders.Modifying Existing Stop Loss and Take Profit OrdersIf you already have an open trade, you can adjust your risk parameters at any time.​Step 1: Open the Positions WindowNavigate to the Positions section.​Step 2: Select the PositionChoose the trade you want to modify.​Step 3: Edit Your OrdersAdjust your:Stop LossTake ProfitStep 4: Save ChangesConfirm the modifications to update your position.Setting Stop Loss & Take Profit on the Mobile AppTradovate Mobile allows traders to use Bracket Orders for automatic risk management.Step 1: Open the AppLaunch the Tradovate mobile application and sign in.​Step 2: Access ATM SettingsOpen the trading screen and locate the ATM or order settings.​Step 3: Enable Bracket OrdersSelect Bracket Orders.​Step 4: Configure Your LevelsEnter your desired:Stop Loss levelTake Profit levelStep 5: Place Your TradeSubmit your order as normal.Tradovate will automatically attach the Stop Loss and Take Profit orders to your position.Best Practices for Risk ManagementBefore entering any trade:✓ Always define your maximum risk.✓ Set a Stop Loss before entering the market.✓ Use realistic Take Profit targets based on your strategy.✓ Double-check all order parameters before submitting a trade.✓ Review and adjust your orders when market conditions change.Need Assistance?If you need help setting up ATM strategies, OCO orders, OSO orders, or Bracket Orders in Tradovate, the AquaFutures Support Team is available to assist you.Related ArticlesHow to Place and Close Trades in TradovateHow to Use ATM (Automated Trading Module) in TradovateUnderstanding Risk Settings in TradovateHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Set and Manage Stop Loss and Take Profit in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

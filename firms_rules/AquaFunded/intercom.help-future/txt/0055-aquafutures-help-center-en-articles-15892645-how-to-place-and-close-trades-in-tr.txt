@@ -1,0 +1,32 @@
+TITLE: How to Place and Close Trades in Tradovate | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892645-how-to-place-and-close-trades-in-tradovate
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892645-how-to-place-and-close-trades-in-tradovate
+HEADINGS:
+- How to Place and Close Trades in Tradovate
+- Placing a Trade on Desktop or Web
+- Step 1: Log In
+- Step 2: Open a Trading Window
+- Step 3: Select an Instrument
+- Step 4: Configure Your Order
+- Step 5: Set Your Parameters
+- Step 6: Submit Your Order
+- Closing a Trade on Desktop or Web
+- Method 1: Positions Tab
+- Method 2: Chart or DOM
+- Method 3: DOM Quick Exit
+- Placing a Trade on the Tradovate Mobile App
+- Step 1: Open the App
+- Step 2: Access the Trading Screen
+- Step 3: Select Your Instrument
+- Step 4: Configure Your Order
+- Step 5: Submit the Order
+- Alternative Method: Trading Through the Markets Section
+- Closing a Trade on the Mobile App
+- Step 1: Open Markets
+- Step 2: View Open Positions
+- Step 3: Exit Your Position
+- Important Reminder
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateHow to Place and Close Trades in TradovateHow to Place and Close Trades in Tradovate July 9, 2026Table of contentsTradovate gives you multiple ways to enter and exit trades across desktop, web, and mobile devices. This guide will walk you through the basic process of opening and closing positions.Placing a Trade on Desktop or WebStep 1: Log InOpen Tradovate and log in to your account.Step 2: Open a Trading WindowNavigate to either:ChartDOM (Depth of Market)Step 3: Select an InstrumentChoose the market you want to trade, such as:MNQESCLNQOther available futures contractsStep 4: Configure Your OrderChoose:Buy or SellOrder Type:MarketLimitStop LimitMIT (Market If Touched)Step 5: Set Your ParametersEnter your desired:Quantity (contracts)Entry price (if applicable)Stop Loss (optional)Take Profit (optional)Step 6: Submit Your OrderClick Place Order or Submit to send the order to the market.Your position will become active once the order is filled.Closing a Trade on Desktop or WebMethod 1: Positions TabOpen the Positions panel.Locate the position you want to close.Click Close.Confirm whether you want to exit partially or fully.Method 2: Chart or DOMLocate the active position on your chart or DOM.Right-click the position.Select Close Position.Method 3: DOM Quick ExitIf you’re using the DOM, you can use the built-in Close button for a faster exit.Placing a Trade on the Tradovate Mobile AppStep 1: Open the AppLaunch the Tradovate mobile application and sign in.Step 2: Access the Trading ScreenTap the Menu (☰) icon and select Trade.Step 3: Select Your InstrumentChoose the futures contract you wish to trade.Step 4: Configure Your OrderSet:Buy or SellOrder TypeQuantityAny additional trading parametersStep 5: Submit the OrderTap Send to place the order.Alternative Method: Trading Through the Markets SectionOpen the Menu (☰).Select Markets.Choose your preferred instrument.Tap Trade.Configure your order details.Tap Send to place the trade.Closing a Trade on the Mobile AppStep 1: Open MarketsTap the Menu (☰) and select Markets.Step 2: View Open PositionsNavigate to the My Positions section.Step 3: Exit Your PositionTap CANCEL ALL & EXIT ALL to close all active positions and cancel any pending orders.Important ReminderBefore submitting any trade, always double-check:Instrument selectedOrder direction (Buy or Sell)Number of contractsStop Loss and Take Profit levelsProper order verification helps reduce execution mistakes and improves risk management.If you need assistance with Tradovate, the AquaFutures Support Team is always available to help.Related ArticlesHow to Set and Manage Stop Loss & Take Profit in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Place and Manage Limit Orders in TradovateHow to Place and Close Trades in NinjaTraderHow to Place and Close Trades in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

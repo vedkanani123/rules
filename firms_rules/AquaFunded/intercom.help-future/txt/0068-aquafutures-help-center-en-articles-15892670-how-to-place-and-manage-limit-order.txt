@@ -1,0 +1,46 @@
+TITLE: How to Place and Manage Limit Orders in NinjaTrader | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892670-how-to-place-and-manage-limit-orders-in-ninjatrader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892670-how-to-place-and-manage-limit-orders-in-ninjatrader
+HEADINGS:
+- How to Place and Manage Limit Orders in NinjaTrader
+- What Is a Limit Order?
+- Buy Limit Order
+- Sell Limit Order
+- Important
+- Why Use Limit Orders?
+- Placing a Buy Limit Order on Desktop
+- Step 1: Log In
+- Step 2: Open a Trading Window
+- Step 3: Select an Instrument
+- Step 4: Select Limit Order
+- Step 5: Set Your Entry Price
+- Step 6: Enter Quantity
+- Step 7: Submit the Order
+- Placing a Sell Limit Order on Desktop
+- Step 1: Open Your Trading Window
+- Step 2: Select Limit Order
+- Step 3: Enter Your Price
+- Step 4: Specify Quantity
+- Step 5: Submit the Order
+- Placing a Limit Order on NinjaTrader Web
+- Step 1: Log In
+- Step 2: Open a Trading Panel
+- Step 3: Select Your Instrument
+- Step 4: Configure the Order
+- Step 5: Confirm the Order
+- Placing a Limit Order on the Mobile App
+- Step 1: Open the App
+- Step 2: Select an Instrument
+- Step 3: Create the Order
+- Step 4: Enter Your Details
+- Step 5: Submit the Order
+- Managing Active Limit Orders
+- Modifying an Order
+- Canceling an Order
+- Monitoring Open Orders
+- Best Practices
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsNinjaTraderHow to Place and Manage Limit Orders in NinjaTraderHow to Place and Manage Limit Orders in NinjaTrader July 10, 2026Table of contentsLimit Orders are one of the most commonly used order types in futures trading. They allow traders to specify the exact price at which they want to buy or sell, giving greater control over trade execution.This guide explains how to place, modify, and manage Limit Orders in NinjaTrader across desktop, web, and mobile platforms.What Is a Limit Order?A Limit Order instructs the market to execute a trade only at a specified price or better.Unlike a Market Order, which executes immediately at the current market price, a Limit Order waits until the market reaches your selected price level.​Buy Limit OrderA Buy Limit Order is placed below the current market price.The order will only execute if the market moves down to your chosen price.​Sell Limit OrderA Sell Limit Order is placed above the current market price.The order will only execute if the market moves up to your chosen price.​ImportantLimit Orders are not guaranteed to fill. If the market never reaches your selected price, the order will remain pending until canceled or expired.Why Use Limit Orders?Limit Orders can help traders:✓ Control entry prices✓ Avoid paying unfavorable prices✓ Automate entries at key support or resistance levels✓ Improve risk management✓ Reduce emotional decision-makingPlacing a Buy Limit Order on DesktopStep 1: Log InOpen NinjaTrader and connect to your trading account.​Step 2: Open a Trading WindowYou can place Limit Orders from:Chart TraderSuperDOMOrder Entry WindowStep 3: Select an InstrumentChoose the futures contract you wish to trade.Examples include:NQMNQESMESCLStep 4: Select Limit OrderChoose Limit as the order type.​Step 5: Set Your Entry PriceEnter a price below the current market price.​Step 6: Enter QuantitySpecify the number of contracts you want to trade.​Step 7: Submit the OrderClick Buy Limit and confirm the order.The order will remain active until it is filled, modified, or canceled.Placing a Sell Limit Order on DesktopStep 1: Open Your Trading WindowLaunch Chart Trader or SuperDOM.​Step 2: Select Limit OrderChoose Limit as the order type.​Step 3: Enter Your PriceSet a price above the current market price.​Step 4: Specify QuantityEnter the number of contracts.​Step 5: Submit the OrderClick Sell Limit and confirm.The order will remain active until the market reaches your selected price.Placing a Limit Order on NinjaTrader WebStep 1: Log InAccess NinjaTrader Web and sign in.​Step 2: Open a Trading PanelLaunch either:Chart TradingDOM (Depth of Market)Step 3: Select Your InstrumentChoose the market you wish to trade.​Step 4: Configure the OrderSelect:Buy or SellLimit OrderQuantityPriceStep 5: Confirm the OrderClick Confirm to submit the order.Placing a Limit Order on the Mobile AppStep 1: Open the AppLaunch NinjaTrader Mobile and sign in.​Step 2: Select an InstrumentChoose the futures contract you wish to trade.​Step 3: Create the OrderTap:Buy or SellLimit OrderStep 4: Enter Your DetailsSpecify:Limit PriceQuantityStep 5: Submit the OrderTap Confirm to place the order.Managing Active Limit OrdersOnce a Limit Order has been submitted, it can be modified or canceled if it has not yet been filled.​Modifying an OrderYou can update:PriceQuantitythrough the platform’s active orders section.​Canceling an OrderLocate the pending order and select Cancel.Once canceled, the order will be removed from the market.Monitoring Open OrdersAlways review your active orders to ensure they match your intended trading plan.Check:InstrumentOrder directionQuantityPrice levelAttached Stop Loss or Take Profit orders (if applicable)Monitoring orders regularly can help prevent mistakes and improve trade execution.Best PracticesBefore submitting a Limit Order:✓ Verify the selected instrument.✓ Double-check your entry price.✓ Confirm the quantity.✓ Review your risk management plan.✓ Ensure the order aligns with your trading strategy.Remember that a Limit Order will only execute if the market reaches your specified price.Need Assistance?If you need help placing, modifying, or canceling Limit Orders in NinjaTrader, the AquaFutures Support Team is available to assist you.Related ArticlesHow to Place and Manage Limit Orders in TradovateHow to Place and Close Trades in NinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Use Limit Orders in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

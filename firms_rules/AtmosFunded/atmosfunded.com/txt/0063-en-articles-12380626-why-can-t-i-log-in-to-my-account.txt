@@ -1,0 +1,13 @@
+TITLE: Why can't I log in to my account? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380626-why-can-t-i-log-in-to-my-account
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12380626-why-can-t-i-log-in-to-my-account
+HEADINGS:
+- Why can't I log in to my account?
+- 🚨 Common Issues
+- ✅ Fixes
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsTrading PlatformsTroubleshootingWhy can't I log in to my account?Why can't I log in to my account? Updated over 2 weeks agoTable of contentsLogin issues are common and usually easy to fix. Most errors come from wrong credentials or server selection.⚡ OverviewCheck the server nameCheck login & passwordCheck internet/firewall🚨 Common IssuesInvalid Account → Wrong serverAuthorization Failed → Wrong login/passwordNo Connection → Internet / firewall blocking MT5✅ FixesConfirm you’re on Atmos Global (MT5) serverCopy/paste login credentials exactlyReset password in Dashboard if neededDisable firewall/VPN temporarilyRelated ArticlesHow to log in to MT5How to install MT5 on desktop & mobileCan I Hold Trades Overnight and Over Weekends?What Happens If I Breach My Account?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

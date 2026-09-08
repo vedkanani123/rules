@@ -1,0 +1,14 @@
+TITLE: Drawdowns & Loss Limits - How They Work | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381211-drawdowns-loss-limits-how-they-work
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381211-drawdowns-loss-limits-how-they-work
+HEADINGS:
+- Drawdowns & Loss Limits - How They Work
+- 📊 Types of Drawdown
+- 🧮 Daily Loss Limit
+- 🔒 Lock & Reset Rules
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsTrading Styles & RestrictionsDrawdowns & Loss Limits - How They WorkDrawdowns & Loss Limits - How They Work Updated over 2 weeks agoTable of contentsDrawdowns and loss limits protect your account. They vary by plan (1-Step, 2-Step, Instant Funding) and include both daily and total drawdowns, sometimes with “lock” or “reset” rules when payouts are requested.⚡ OverviewEvery plan has a daily loss limit + total drawdown. Some plans use trailing drawdown with lock at payout (1-Step Standard, Instant). Others use static drawdown. Plus plans reset drawdown on payout. 📊 Types of DrawdownTypeMeaningWhich Plans Use ItStatic drawdownYour total loss limit stays fixed once the challenge/funded account starts.2-Step Standard, 2-Step PlusTrailing drawdownDrawdown moves up as your equity grows; stops “trailing” when equity returns to starting balance.1-Step Standard, Plus, Instant FundingLock at PayoutWhen you request a payout, the drawdown is fixed at the starting balance, even if your current equity is higher.1-Step Standard, Instant FundingReset on PayoutDrawdown behavior returns to baseline after you request payout (often applies to Plus plans).1-Step Plus🧮 Daily Loss LimitEach plan has a maximum daily loss (e.g. 3% or 5%)Breaching daily loss = hard breach (account closes)🔒 Lock & Reset RulesSome plans lock drawdown permanently at the initial balance when payout is requested.Others reset the drawdown after payout, meaning the account equity and drawdown baseline adjust.Related Articles1-Step Plus ChallengeInstant FundingHow to Pass a Prop Firm ChallengeWhat is the Maximum Total Drawdown?Static vs Trailing Drawdown - What's the Difference?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

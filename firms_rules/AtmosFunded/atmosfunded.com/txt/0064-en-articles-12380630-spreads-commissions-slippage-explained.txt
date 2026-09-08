@@ -1,0 +1,13 @@
+TITLE: Spreads, commissions & slippage explained | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380630-spreads-commissions-slippage-explained
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12380630-spreads-commissions-slippage-explained
+HEADINGS:
+- Spreads, commissions & slippage explained
+- 📊 Trading Costs
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsTrading PlatformsTroubleshootingSpreads, commissions & slippage explainedSpreads, commissions & slippage explained Updated over 2 weeks agoTable of contentsAtmos provides raw spreads with commissions, ensuring transparent trading conditions.⚡ OverviewSpreads → Market-based, variableCommission → Per lot tradedSlippage → May occur during volatility (positive or negative) 📊 Trading CostsSpreads: Variable (tight on majors, wider on exotics)Commission: $5 per round lot on FX (example)Slippage: Happens during fast moves (news, gaps)💡 ExampleYou trade 1 lot EURUSDSpread = 0.2 pips → $2Commission = $5 → Total = $7Related ArticlesHow frequently will I receive my Affiliate commission?Refund policy explainedWhat Are the Rules for News Trading?Can I Hold Trades Overnight and Over Weekends?What Are Prohibited Strategies?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

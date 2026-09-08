@@ -1,0 +1,14 @@
+TITLE: What trading strategies are allowed? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381191-what-trading-strategies-are-allowed
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381191-what-trading-strategies-are-allowed
+HEADINGS:
+- What trading strategies are allowed?
+- 🧰 Permitted vs Prohibited Strategies
+- ⚙️ News Trading Policy
+- 🔐 Open Risk and Single Trade Limits
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsTrading Styles & RestrictionsWhat trading strategies are allowed?What trading strategies are allowed? Updated over 2 weeks agoTable of contentsAtmos supports multiple trading styles, from scalping to swing, manual trading to EAs. But to protect traders and ensure fair conditions, there are rules regarding certain events, strategies, and trades.⚡ OverviewYou can use EAs, swing/ intraday strategies. You cannot trade high‐impact news ±2 minutes, use disallowed strategies, or violate open risk limits. 🧰 Permitted vs Prohibited StrategiesPermittedProhibited / RestrictedManual trading – scalping, swing, intradayNews trading within ±2 minutes of high‐impact eventsExpert Advisors (EAs)Unapproved proprietary EAs (e.g. arbitrage or HFT)Holding trades overnight or over weekendsHedging across accounts (if policy prohibits)⚙️ News Trading PolicyHolding trades through news events is allowed generally, but trades opened or closed within 2 minutes before or after high‐impact economic events is highly prohibited. It will cause a soft breach and there will be a profit deduction.This includes any opened or closed orders, pending orders, SL/TP triggered.Profits from such trades will be removed if the policy is breached.🔐 Open Risk and Single Trade LimitsYou must not allocate too large of your equity or margin to a single open position.Over-leveraging singly is prohibited; riskier strategies need careful sizing.Related Articles1-Step Standard Challenge2-Step Standard ChallengeInstant FundingWhat Are Prohibited Strategies?NOVA ChallengeDid this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

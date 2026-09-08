@@ -78,7 +78,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
             <button key={firm.id} onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className="text-left group p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors flex flex-col gap-4 min-h-[200px]">
               <div className="flex items-start justify-between gap-3">
                 <div className="flex items-center gap-3 min-w-0">
-                  <img src={firm.countryFlag} alt={`${firm.name} flag`} className="w-8 h-8 rounded-full object-cover border border-[#1F2228] shrink-0" />
+                  <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} className="w-8 h-8 rounded-lg object-contain bg-white p-0.5 border border-[#1F2228] shrink-0" onError={(e)=>{ (e.currentTarget as HTMLImageElement).src = firm.countryFlag; }} />
                   <div className="min-w-0">
                     <div className="text-[13px] font-semibold text-white leading-tight truncate">{firm.name}</div>
                     <div className="text-[11px] font-mono tracking-wide uppercase text-[#6B7280] leading-none mt-1">{firm.headquarters} · {firm.platforms[0]}</div>
@@ -118,7 +118,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
                   <tr key={firm.id} className="hover:bg-[#16181E]/60 transition-colors">
                     <td className="px-4 py-3">
                       <div className="flex items-center gap-3">
-                        <img src={firm.countryFlag} alt={`${firm.name} flag`} className="w-6 h-6 rounded-full object-cover border border-[#1F2228]" />
+                        <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} className="w-6 h-6 rounded object-contain bg-white p-0.5 border border-[#1F2228]" onError={(e)=>{ (e.currentTarget as HTMLImageElement).src = firm.countryFlag; }} />
                         <div><div className="text-sm font-medium text-white leading-none">{firm.name}</div><div className="text-[11px] font-mono text-[#6B7280] leading-none mt-1">{firm.headquarters}</div></div>
                       </div>
                     </td>

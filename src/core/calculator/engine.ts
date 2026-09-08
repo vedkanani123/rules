@@ -293,6 +293,41 @@ export function checkPayoutEligibility(input: PayoutEligibilityInput): { eligibl
 }
 
 /**
+ * Assumption disclosure — every calculation must state what it assumes.
+ * If the source does not specify the method, callers must surface
+ * 'Calculation method not publicly specified.' instead of inventing a formula.
+ */
+export interface CalculationAssumptions {
+  basis: string;
+  includesFloating: boolean;
+  resetTime: string;
+  includesCosts: boolean;
+  lastVerified: string;
+  methodSpecified: boolean;
+}
+
+export function describeAssumptions(a: CalculationAssumptions): string[] {
+  if (!a.methodSpecified) return ['Calculation method not publicly specified.'];
+  return [
+    `Assumes rule is ${a.basis}.`,
+    a.includesFloating ? 'Floating profit/loss counts.' : 'Floating profit/loss excluded per source.',
+    `Daily limit resets at ${a.resetTime}.`,
+    a.includesCosts ? 'Commissions and swaps are included.' : 'Commissions/swaps treatment not specified.',
+    `Source last verified ${a.lastVerified}.`,
+  ];
+}
+
+export type EligibilityStatus = 'Eligible' | 'Not eligible' | 'Potentially eligible' | 'Insufficient information' | 'Blocked by missing evidence' | 'Conflicting rules';
+
+export function toPublicEligibility(e: 'YES' | 'NO' | 'CONDITIONAL', hasConflict: boolean, hasMissing: boolean): EligibilityStatus {
+  if (hasConflict) return 'Conflicting rules';
+  if (hasMissing) return 'Insufficient information';
+  if (e === 'YES') return 'Eligible';
+  if (e === 'NO') return 'Not eligible';
+  return 'Potentially eligible';
+}
+
+/**
  * Consistency / Best-Day Calculator — Section 24
  * Example: "This $1,800 day just changed effective target from X to Y."
  */

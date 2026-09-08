@@ -1,0 +1,11 @@
+TITLE: Platform | AquaFunded Help Center
+URL: https://help.aquafunded.com/en/collections/13841332-platform
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Platform
+CANONICAL: https://help.aquafunded.com/en/collections/13841332-platform
+HEADINGS:
+- Platform
+- Platform
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsPlatform Platform Platform 6 articlesPlatformWhat platforms are available?TradeLocker: Your Comprehensive GuideMatch Trader: Your Comprehensive GuideWhat are your spreads and commissions?When is the daily max limit reset time?Can I change platform?Trade with our Capital and keep 100% of the ProfitWe run on Fin

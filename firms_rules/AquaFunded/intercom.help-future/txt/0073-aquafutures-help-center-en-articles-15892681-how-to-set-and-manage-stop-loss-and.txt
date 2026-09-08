@@ -1,0 +1,31 @@
+TITLE: How to Set and Manage Stop Loss and Take Profit in TradingView | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892681-how-to-set-and-manage-stop-loss-and-take-profit-in-tradingview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892681-how-to-set-and-manage-stop-loss-and-take-profit-in-tradingview
+HEADINGS:
+- How to Set and Manage Stop Loss and Take Profit in TradingView
+- What Are Stop Loss and Take Profit Orders?
+- Stop Loss (SL)
+- Take Profit (TP)
+- Setting Stop Loss and Take Profit When Entering a Trade
+- Step 1: Open Your Chart
+- Step 2: Create a New Order
+- Step 3: Configure Your Risk Management
+- Step 4: Submit the Trade
+- Adding Stop Loss and Take Profit to an Existing Position
+- Step 1: Open the Trading Panel
+- Step 2: Open Positions
+- Step 3: Select the Position
+- Step 4: Edit the Position
+- Step 5: Save Changes
+- Adjusting Stop Loss and Take Profit Directly on the Chart
+- Step 1: Locate Your Position
+- Step 2: Select the Order Line
+- Step 3: Drag to a New Price Level
+- Step 4: Release to Update
+- Monitoring Your Stop Loss and Take Profit Orders
+- Best Practices
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradingViewHow to Set and Manage Stop Loss and Take Profit in TradingViewHow to Set and Manage Stop Loss and Take Profit in TradingView July 10, 2026Table of contentsStop Loss (SL) and Take Profit (TP) orders are essential risk management tools that help traders control potential losses and secure profits automatically.TradingView allows you to add, modify, and manage Stop Loss and Take Profit levels both when entering a trade and after a position is already open.What Are Stop Loss and Take Profit Orders?Stop Loss (SL)A Stop Loss automatically closes a trade if the market moves against your position and reaches a specified price level.Its purpose is to limit risk and protect your account from larger losses.​Take Profit (TP)A Take Profit automatically closes a trade once your profit target has been reached.Its purpose is to lock in profits without requiring manual intervention.Setting Stop Loss and Take Profit When Entering a TradeYou can define your risk and profit targets before submitting a new order.​Step 1: Open Your ChartOpen TradingView and navigate to the market you wish to trade.​Step 2: Create a New OrderClick Buy or Sell to open the order entry panel.​Step 3: Configure Your Risk ManagementLocate the following fields:Stop Loss OrderTake Profit OrderEnter your desired Stop Loss and Take Profit price levels.​Step 4: Submit the TradeReview the order details and click Confirm.Your trade will be opened with both Stop Loss and Take Profit levels attached automatically.Adding Stop Loss and Take Profit to an Existing PositionIf you opened a trade without predefined risk management levels, you can add them later.​Step 1: Open the Trading PanelNavigate to the Trading Panel at the bottom of the chart.​Step 2: Open PositionsSelect the Orders / Positions section.​Step 3: Select the PositionLocate the active trade you wish to modify.​Step 4: Edit the PositionOpen the position settings and enter:Stop Loss priceTake Profit priceStep 5: Save ChangesClick Save or Confirm to apply the updated levels.The new Stop Loss and Take Profit orders will now be linked to the position.Adjusting Stop Loss and Take Profit Directly on the ChartTradingView also allows you to modify risk levels visually from the chart.​Step 1: Locate Your PositionFind your active trade displayed on the chart.​Step 2: Select the Order LineHover over the Stop Loss or Take Profit line.​Step 3: Drag to a New Price LevelClick and hold the order line.Move it to the desired price level.​Step 4: Release to UpdateRelease the mouse button to apply the change.The updated Stop Loss or Take Profit level will be sent automatically.Monitoring Your Stop Loss and Take Profit OrdersYou can review your active orders at any time through:Trading PanelOrders SectionPositions SectionDirectly on the ChartAlways verify your active levels after making any adjustments.Best PracticesBefore placing any trade:✓ Always define your maximum acceptable risk.✓ Use a Stop Loss on every position.✓ Set realistic profit targets.✓ Review your risk-to-reward ratio before entering the market.✓ Confirm all order details before submitting changes.Need Assistance?If you experience issues adding or modifying Stop Loss and Take Profit orders in TradingView, please contact the AquaFutures Support Team for assistance.Related ArticlesHow to Set and Manage Stop Loss & Take Profit in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Place and Close Trades in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Use Limit Orders in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

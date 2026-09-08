@@ -154,7 +154,9 @@ function buildAccountRuleCards(firm: PropFirm, account: AccountTier): InfoCard[]
     badge: 'Payout gate',
     title: `Payouts: ${account.payoutFrequency} · ${account.profitSplit}% split`,
     desc: `${account.firstPayoutConditions}. Your share of every approved withdrawal is ${account.profitSplit}%${account.profitSplitMaxWithAddon ? `, up to ${account.profitSplitMaxWithAddon}% with the scale-up/add-on` : ''}.`,
-    foot: account.refundableFee
+    foot: account.priceUnknown
+      ? 'Fee Unknown — not publicly stated. Verify before purchase.'
+      : account.refundableFee
       ? `Fee ${usd(account.discountedPrice || account.price)} — refundable under the payout terms above.`
       : `Fee ${usd(account.discountedPrice || account.price)} — non-refundable. Treat it as sunk cost.`,
     color: 'border-[#1F2228]',
@@ -342,7 +344,7 @@ export const AccountDetailPage: React.FC<AccountDetailPageProps> = ({ firm, acco
             </div>
             <div className="shrink-0 bg-[#111318] border border-[#1F2228] rounded-2xl p-4 min-w-[180px]">
               <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] block">Registration Fee</span>
-              <span className="text-2xl font-semibold font-mono text-white block mt-1">${account.discountedPrice || account.price}</span>
+              <span className="text-2xl font-semibold font-mono text-white block mt-1">{account.priceUnknown ? 'Unknown' : `$${account.discountedPrice || account.price}`}</span>
               {account.refundableFee
                 ? <span className="text-[13px] text-emerald-400 block font-medium mt-1">✓ Refundable — see payout terms</span>
                 : <span className="text-[13px] text-amber-400 block font-medium mt-1">Non-refundable fee</span>}

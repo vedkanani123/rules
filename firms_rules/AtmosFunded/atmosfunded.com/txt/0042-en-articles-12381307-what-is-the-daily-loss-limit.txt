@@ -1,0 +1,13 @@
+TITLE: What is the Daily Loss Limit? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381307-what-is-the-daily-loss-limit
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381307-what-is-the-daily-loss-limit
+HEADINGS:
+- What is the Daily Loss Limit?
+- 📊 Daily Loss by Plan
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsDrawdown & Consistency RulesWhat is the Daily Loss Limit?What is the Daily Loss Limit? Updated over 2 weeks agoTable of contentsThe daily loss limit is the maximum you can lose in a single trading day. It’s one of the most important rules at Atmos.⚡ OverviewIf your account balance or equity falls by more than the daily limit (3% or 5%) within one day, your account will be breached. 📊 Daily Loss by PlanPlanDaily Loss LimitExample (on $100k account)1-Step Standard3%$3,0001-Step PlusNoneN/A2-Step Standard5%$5,0002-Step Plus3%$3,000Instant Funding3%$3,000💡 ExampleYou have a $100,000 2-Step Standard account.Max daily loss = $5,000.If equity drops below $95,000 in one trading day → breach.Related Articles2-Step Standard Challenge2-Step Plus ChallengeDrawdowns & Loss Limits - How They WorkWhat Actions Lead to an Account Breach?What is the Maximum Total Drawdown?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

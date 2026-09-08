@@ -1,0 +1,13 @@
+TITLE: What is the Maximum Total Drawdown? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381315-what-is-the-maximum-total-drawdown
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381315-what-is-the-maximum-total-drawdown
+HEADINGS:
+- What is the Maximum Total Drawdown?
+- 📊 Total Drawdown by Plan
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsDrawdown & Consistency RulesWhat is the Maximum Total Drawdown?What is the Maximum Total Drawdown? Updated over 2 weeks agoTable of contentsThe maximum drawdown is the total amount you can lose from your starting balance.⚡ OverviewYour account will breach if losses exceed the maximum drawdown: 6%, 10%, or 5% depending on the plan. 📊 Total Drawdown by PlanPlanMax Total DrawdownExample (on $100k account)1-Step Standard6% (Trailing)$6,0001-Step Plus3% (Trailing)$3,0002-Step Standard10% (Static)$10,0002-Step Plus6% (Static)$6,000Instant Funding5% (Trailing)$5,000💡 Example$100,000 Instant Funding accountMax drawdown = $95,000If equity falls below $95,000 → account breachedRelated Articles2-Step Plus ChallengeInstant FundingCompare Challenges: Which one is right for me?Drawdowns & Loss Limits - How They WorkStatic vs Trailing Drawdown - What's the Difference?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

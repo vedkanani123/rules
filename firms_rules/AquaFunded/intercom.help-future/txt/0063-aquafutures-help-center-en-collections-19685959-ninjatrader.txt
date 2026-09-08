@@ -1,0 +1,10 @@
+TITLE: NinjaTrader | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/collections/19685959-ninjatrader
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: NinjaTrader
+CANONICAL: https://intercom.help/aquafutures-help-center/en/collections/19685959-ninjatrader
+HEADINGS:
+- NinjaTrader
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsNinjaTraderNinjaTraderNinjaTrader5 articlesHow to Log In and Log Out of NinjaTraderHow to Place and Close Trades in NinjaTraderHow to Trade Using SuperDOM and Charts in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderTrade with our Capital and keep 100% of the ProfitWe run on Fin

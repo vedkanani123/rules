@@ -1,0 +1,9 @@
+TITLE: Ongoing AML Monitoring | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15692169-ongoing-aml-monitoring
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15692169-ongoing-aml-monitoring
+HEADINGS:
+- Ongoing AML Monitoring
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsGetting StartedOngoing AML MonitoringOngoing AML Monitoring June 29, 2026Ongoing Anti-Money Laundering (AML) monitoring helps us keep our business relationships compliant with regulatory standards. We regularly update applicant information to reflect any changes in global sanction lists and watchlists. To support this, we partner with a trusted third-party provider, Veriff, which ensures that their data is promptly refreshed whenever updates occur. This approach helps us uphold the highest standards of compliance.Related ArticlesKYC/AML PoliciesOngoing KYC/Documentation MonitoringDid this answer your question?😞😐😃Trade with our Capital and keep 100% of the ProfitWe run on Fin

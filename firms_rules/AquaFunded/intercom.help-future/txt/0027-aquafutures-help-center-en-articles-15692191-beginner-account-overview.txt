@@ -1,0 +1,28 @@
+TITLE: Beginner Account Overview | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15692191-beginner-account-overview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15692191-beginner-account-overview
+HEADINGS:
+- Beginner Account Overview
+- Account Parameters
+- What is the Profit Target?
+- Example
+- What is the Daily Loss Limit?
+- Example
+- What is the Maximum Drawdown?
+- Example
+- What Does End-of-Day (EOD) Drawdown Mean?
+- What is the Maximum Position Size?
+- Is There an Activation Fee?
+- What is the Consistency Rule?
+- Example
+- Are Micro Contracts Allowed?
+- How Do Rewards Work?
+- Reward Cap Per Request
+- Example
+- Balance Target Balance
+- Example
+- Beginner Account Summary
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsBeginner Evaluation AccountsBeginner Account OverviewBeginner Account Overview June 29, 2026Table of contentsThe Beginner Account is designed for traders who are looking for a straightforward evaluation process with clear objectives, generous scaling opportunities, and weekly reward eligibility.​Account ParametersParameter$25,000$50,000$100,000$150,000Profit Target$1,500$3,000$6,000$9,000Maximum Position Size1 Contract3 Contracts6 Contracts9 ContractsDaily Loss Limit$600$1,250$2,500$3,750Maximum Drawdown$1,000$2,500$3,500$5,000Drawdown TypeEnd of Day (EOD)End of Day (EOD)End of Day (EOD)End of Day (EOD)Activation FeeNoneNoneNoneNoneMicro ScalingYesYesYesYesConsistency Rule40%40%40%40%Reward ScheduleWeeklyWeeklyWeeklyWeeklyReward Split100%100%100%100%Minimum Reward Request$250$250$250$250What is the Profit Target?The Profit Target is the amount you must earn during the evaluation phase to successfully pass your account.ExampleIf you purchase a $50,000 Beginner Account, your target is:$50,000 + $3,000 = $53,000Once your account balance reaches $53,000, you have completed the profit target requirement.What is the Daily Loss Limit?The Daily Loss Limit is the maximum amount you can lose during a trading day.If your losses exceed this limit, your account will be considered breached.ExampleOn a $100,000 Account:Daily Loss Limit: $2,500Starting Balance: $100,000If your equity falls below $97,500 during the trading day, the account will violate the rule.What is the Maximum Drawdown?The Maximum Drawdown represents the total amount your account may lose before being breached.ExampleOn a $25,000 Account:Starting Balance: $25,000Maximum Drawdown: $1,000Your account may not fall below:$24,000If it does, the account will be breached.What Does End-of-Day (EOD) Drawdown Mean?The Beginner Account uses an End-of-Day Drawdown model.This means the drawdown level is calculated based on your account balance at the end of each trading day and does not trail intraday profits.Many traders prefer EOD drawdown because it allows greater flexibility when managing trades and open positions.What is the Maximum Position Size?Each account comes with a contract limit that may not be exceeded.Account SizeMaximum Contracts$25,0001$50,0003$100,0006$150,0009Opening positions above these limits may result in a rule violation.Is There an Activation Fee?No.All Beginner Accounts include:✅ No activation fees✅ No hidden fees✅ Immediate access after passing✅ Weekly reward eligibilityWhat is the Consistency Rule?The Beginner Account uses a 40% Consistency Rule.This means your largest trading day cannot account for more than 40% of your total profits.ExampleIf your total profit is:$5,000Then your largest trading day may not exceed:$2,000 (40%)This encourages consistent risk management and sustainable trading performance.Are Micro Contracts Allowed?Yes.Micro contracts are fully supported and can be used to manage risk more precisely.Many traders use micro contracts to:Scale into positionsReduce risk exposureImprove consistencyMaintain better drawdown controlHow Do Rewards Work?All Beginner Accounts qualify for:✅ Weekly reward requests✅ 100% reward split✅ Minimum reward request of $250Once you meet the payout requirements, you may submit a reward request according to the weekly payout schedule.Reward Cap Per RequestEach Beginner Account has a maximum reward amount that can be requested during a payout cycle.Account SizeReward Cap$25,000$750$50,000$1,500$100,000$3,000$150,000$4,500ExampleIf you trade a $50,000 account and generate $2,000 in profits during a payout cycle:Maximum reward request: $1,500Remaining profits stay in the account for future withdrawals.Balance Target BalanceThe Balance Target is the account level you must reach before becoming eligible for rewards.Account SizeBalance Target Balance$25,000$26,500$50,000$53,500$100,000$107,000$150,000$110,500ExampleA trader with a $100,000 account must first grow the account to $107,000 before reward eligibility begins.This buffer helps create a safety margin while maintaining account stability.Beginner Account SummaryThe Beginner Account is ideal for traders looking for:Simple evaluation requirementsNo activation feesWeekly rewards100% reward splitEnd-of-Day drawdownFlexible micro contract tradingConsistent growth-focused rulesIt provides a trader-friendly pathway to funded trading while encouraging disciplined risk management and long-term consistency.Related ArticlesStandard Evaluation Account OverviewInstant Pro Account OverviewInstant Standard Account OverviewScaling PlanFlex Accounts OverviewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

@@ -1,0 +1,17 @@
+TITLE: 1-Step Standard Challenge | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380551-1-step-standard-challenge
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: rules, profit target, drawdown, payouts
+CANONICAL: https://help.atmosfunded.com/en/articles/12380551-1-step-standard-challenge
+HEADINGS:
+- 1-Step Standard Challenge
+- 📊 Challenge Rules
+- 💵 Account Sizes & Pricing
+- 🔒 Trailing Drawdown Lock Explained
+- 📅 Payouts
+- ✅ Allowed Trading Strategies
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsChallenges & ProductsAccount Types1-Step Standard Challenge1-Step Standard Challengerules, profit target, drawdown, payouts Updated over 2 weeks agoTable of contentsThe Atmos 1-Step Standard Challenge is a single-phase evaluation designed for traders who want a straightforward path to funding. With a 10% profit target, trailing drawdown lock, and payouts every 14 days, it balances risk and opportunity.⚡ OverviewThe 1-Step Standard Challenge requires a 10% profit target, with 3% daily loss and 6% total trailing drawdown that locks at the initial balance. Minimum 3 trading days, and payouts every 14 days once funded. 📊 Challenge RulesRuleRequirementPhases1 (single evaluation)Profit Target10%Max Daily Loss3%Max Total Drawdown6% (Trailing, locks at initial balance, locks again on payout)Minimum Trading Days (profitable days)3 (0.5% profit counts as a profitable day)Consistency RuleNoneNews Trading (in funded phase)Not allowed ±2 minutes from high-impact eventsEAsAllowedLeverageForex 1:50, Metals 1:15, Indices 1:10, Crypto 1:2PayoutsEvery 14 days after fundingMax Allocation$400,000💵 Account Sizes & PricingAccount SizePrice$5,000$43$10,000$69$25,000$139$50,000$239$100,000$383$200,000$749🔒 Trailing Drawdown Lock ExplainedAtmos uses a trailing drawdown with dual lock protection:Lock at Initial Balance → Once your trailing drawdown reaches your starting balance again, the drawdown line stops trailing.Lock on Payout → When you request a payout, the drawdown is fixed permanently at the initial balance level (e.g., $100,000).Example:$100,000 accountMax trailing drawdown = $94,000Equity rises to $110,000 → trailing line stops at $100,000You request a payout → the max drawdown permanently locks at $100,000Even if you leave $105,000 in the account, your stop-out remains at $100,000✅ Tip: We encourage traders to leave a buffer in the account after payouts to help compound growth and reduce breach risk.📅 PayoutsPayouts available every 14 days after funding.Standard profit split (up to 90% with scaling).Request payouts directly from the Atmos Dashboard.✅ Allowed Trading StrategiesManual trading (scalping, swing, intraday)EAs are permitted❌ No high-impact news trading ±2 minutesRelated Articles1-Step Plus Challenge2-Step Standard Challenge2-Step Plus ChallengeInstant FundingNOVA ChallengeDid this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

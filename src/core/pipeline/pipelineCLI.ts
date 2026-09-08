@@ -2,6 +2,9 @@
 
 import { PROP_FIRMS_DATA } from '../../data/propFirmsData.ts';
 import { detectRuleChanges } from './changeDetector.ts';
+import { detectRuleConflicts } from './ruleExtractor.ts';
+import { validateAllFirms } from '../validation/validate.ts';
+import { findDuplicateIds } from '../canonical/store.ts';
 
 const action = process.argv[2] || 'verify';
 
@@ -63,10 +66,22 @@ if (action === 'extract') {
   });
 
   console.log(`Total Rules Analyzed:     ${totalRules}`);
-  console.log(`Fully Verified (Direct):  ${verified} (${Math.round((verified / totalRules) * 100)}%)`);
+  console.log(`Fully Verified (Direct):  ${verified} (${totalRules ? Math.round((verified / totalRules) * 100) : 0}%)`);
   console.log(`Partially Verified:       ${partiallyVerified}`);
   console.log(`Conflicting Sources:      ${conflicting}`);
   console.log(`Unsourced (Rejected):     ${unsourced}`);
+  const { issues } = validateAllFirms(PROP_FIRMS_DATA);
+  const dups = findDuplicateIds();
+  console.log(`Validation issues:        ${issues.length}`);
+  console.log(`Duplicate IDs:            ${dups.length}`);
+  // Generic conflict re-check across firm rules (topic = rule name)
+  const facts = PROP_FIRMS_DATA.flatMap((f) => f.rules.map((r) => ({ topic: r.name, rawText: r.headlineValue, sourceUrl: r.sources[0]?.sourceUrl ?? '', sourceTitle: r.sources[0]?.sourceTitle ?? '', sourceType: 'OFFICIAL' as const })));
+  console.log(`Generic conflict scan:    ${detectRuleConflicts(facts).length} topic group(s) with divergent values`);
   console.log(`======================================================`);
-  console.log(`Audit Verdict: ALL CORE RULES BACKED BY OFFICIAL CITATIONS.`);
+  if (unsourced > 0 || dups.length > 0) {
+    console.log(`Audit Verdict: ATTENTION — ${unsourced} unsourced rule(s), ${dups.length} duplicate(s). Unknown must remain unknown.`);
+    process.exitCode = 1;
+  } else {
+    console.log(`Audit Verdict: ALL CORE RULES BACKED BY OFFICIAL CITATIONS.`);
+  }
 }

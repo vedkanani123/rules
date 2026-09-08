@@ -1,0 +1,5055 @@
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Products
+All product overviews (E8 One vs E8 Zero vs E8 Pro vs E8 Signature)
+All product overviews (E8 One vs E8 Zero vs E8 Pro vs E8 Signature)
+Understand key differences between our flagship programs
+
+Updated this week
+All of our currently offered products are Single-Phase challenge models, but they’re built for different trader types.
+​
+
+
+​E8 Zero is the most flexible option, built for Futures traders who want minimal payout restrictions. The consistency rule is only in the challange stage, which means that traders can enjoy no consistency rules, no daily profit cap, and no minimum profitable days requirements in the performance stage. The only limitations are payout caps and a maximum of 5 payouts per account, but it still offers the biggest freedom of any E8 program.
+​
+​E8 One is designed for experienced traders comfortable with tighter Drawdowns and higher upside potential. There are no payout caps, but a Daily Drawdown (hard breach) and a Dynamic Drawdown apply. Available on Forex and Crypto.
+​
+​E8 Signature is the more structured and cheaper version than the E8 one. It includes payout caps and a Daily Pause (soft breach) on SimFi Performance Accounts, giving traders better protection before a full breach occurs. Available across Forex, Crypto, and Futures – it suits traders who focus on consistency and want more forgiving drawdowns.
+​
+​E8 Pro is built for traders who prioritize daily payouts. With no payout caps and a static drawdown, it offers a predictable, structured environment where you always know exactly where your limits stand. Available on Forex and Crypto.
+​
+
+ 
+​Key differences
+
+ 
+
+E8 Zero
+
+E8 One
+
+E8 Signature
+
+E8 Pro
+
+Markets
+
+Futures
+
+Forex, Perpetual Futures
+
+Forex, Futures
+
+Forex, Perpetual Futures
+
+Daily limits
+
+No
+
+Daily Drawdown (Hard breach)
+​
+SimFi™ Challenge account and
+SimFi™ Performance account
+
+Daily Pause (soft Breach)
+​
+Only SimFi™ Performance account
+
+Daily Drawdown (Hard breach)
+​
+SimFi™ Challenge account and
+SimFi™ Performance account
+
+Max. limits
+
+EOD Dynamic Drawdown
+​
+Moves based on closed profits only at End-Of Day
+​
+​It became static once you reach the starting balance amount
+
+Dynamic Drawdown 
+​
+Moves only when you close a profit.
+​
+​It becomes static once you reach the starting balance amount
+
+EOD Dynamic Drawdown
+​
+Moves based on closed profits only at End-Of Day
+​
+​It became static once you reach the starting balance amount
+
+Static Drawdown
+
+ 
+
+Fixed. Only moves when you request the first payout
+
+Payout Caps
+
+Yes
+​
+
+maximum of 5 payouts per account
+
+No
+
+Payout caps table
+
+No
+
+Consistency
+
+Challenge account - 40% best day
+Performance account - No
+
+Challenge account - No
+Performance account - 40% best day
+
+Challenge account - No
+Performance account - 35% best day
+
+No best day
+
+The only requirement is 1% profit and 2% Daily profit cap
+
+Best for
+
+Traders who are looking for the easiest product out there.
+
+Those who are seeking full potential tied to verified performance
+
+More forgiving drawdown rules for traders focusing on consistency.
+
+Those who are looking for a controlled account with daily payouts
+
+ Other Parameters
+
+ 
+
+E8 Zero
+
+E8 One
+
+E8 Signature
+
+E8 pro
+
+News Trading
+
+Yes
+
+Challenge account - Yes
+Performance account - No
+
+Yes
+
+Yes
+
+Weekend Holding
+
+No
+
+Yes
+
+No
+
+Yes
+
+Expert Advisors
+
+No
+
+Yes
+
+Forex,Crypto - Yes
+Futures- No
+
+Yes
+
+Trade Copier
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Overnight holding
+
+No
+
+Yes
+
+No
+
+Yes
+
+Leverage
+
+Click Here
+
+Click Here
+
+Forex, Crypto - click here
+​Futures - click here
+
+Click Here
+
+Payout
+
+80%, 100%
+
+ 80%, 90%, 100%
+
+80%
+
+80%, 100%
+
+At E8, we have focused on building 1-Phase challenges, with each product designed differently to suit different types of traders.
+​
+
+Maybe you like consistency and are happy paying a standard price for standard industry metrics — then E8 One is for you. 
+​
+Maybe you would rather skip Best Day and consistency rules — then E8 Pro is the better fit.
+​
+
+Confused by buffer mechanics, or would like to finish consitency in challenge to have more freedom in performance?  E8 Zero is built for you. 
+​
+Prefer a static Drawdown over a Dynamic one? Choose E8 Pro.
+
+Looking for a bigger drawdown and full customization? E8 One is the way to go.
+
+
+We have designed it this way so everyone can find the product that fits them. Yes, our prices may be premium — but that is the trade-off for premium service, customization, and product variety.
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Products
+E8 One
+E8 One
+Updated over 3 weeks ago
+What is E8 One?
+E8 One offers a clear 1-Step path to becoming an E8 Performance Trader in a single phase, making it the fastest challenge process we offer.
+
+ 
+
+SimFi™ Challenge rules
+6% Profit Target – Closed profit in your simulated trading account.
+
+Unlimited Trading Days – There is no time limit, but you need to place and close at least one trade every 60 days.
+
+3% Daily Drawdown – Your account must not lose more than x% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance of the day.
+
+4% Dynamic Drawdown – A moving loss limit based on your highest closed balance. It rises each time you close a profit, then locks at that level until you close more profits. It locks permanently at the initial balance level.
+
+ ​This information is for the preset account. You can still customize some of the parameters at checkout.
+
+ 
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive up to 100 % of their trading performance and request a payout.
+
+ 
+
+Trading Rules and Policies:
+
+Unlimited Trading Days – There is no time limit, but you need to place and close at least one trade every 60 days.
+
+3% Daily Drawdown – Your account must not lose more than x% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance of the day.
+
+4% Dynamic Drawdown – A moving loss limit based on your highest closed balance. It rises each time you close a profit, then locks at that level until you close more profits. It locks permanently at the initial balance level.
+
+Criteria for the payout:
+
+40% Best Day rule - With a 40% best-day rule, you must ensure that no single trading day exceeds more than 40% of your total generated profits.
+
+Your net profit (payout) must be greater than 50% of your daily drawdown.
+
+ 
+
+Example: If you have a $100,000 account and your daily drawdown is 4%, the minimum amount required for a payout is $2,001.
+
+Please note that at certain scenarios, you should leave a buffer when you are requesting a payout.
+
+News trading
+In phase 1, you can trade news without any restrictions.
+
+In the SimFI™ Performance account, trading is strictly prohibited during high-impact news events. This prohibition period begins 5 minutes before the scheduled news release and ends 5 minutes after the release. While the platform will not technically prevent you from managing trades during this window, doing so is not permitted, and any profits generated may be subject to removal.
+
+
+​During the prohibition period, users must not:
+
+ 
+
+a. Opening new trades (Market Execution/Limit orders).
+b. Closing trades (Market Execution/Limit orders).
+
+c. Stop/Loss and Take/Profit
+
+d. Buy Stop and Sell Stop
+​
+To see all restricted news events and to see more information, you can access this article here.
+
+ 
+
+Is there a consistency rule?
+During the SimFI™ challenge stage, there is no consistency rule, however, on the SimFI™ Performance account, there is a 40% Best Day rule - With a 40% best-day rule, you must ensure that no single trading day exceeds more than 40% of your total generated profits.
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or other personal accounts, as long as these accounts belong to you.
+
+ 
+
+What is the available leverage?
+Forex 1:30
+﻿Indices: 1:15
+﻿metals 1:15
+﻿Crypto 1:1
+
+ 
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here. 
+
+ 
+
+Did this answer your question?
+😞😐😃
+What is E8 One?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+News trading
+Is there a consistency rule?
+Copy trading rules
+What is the available leverage?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Products
+E8 One Perpetual
+E8 One Perpetual
+Updated this week
+What is E8 One Perpetual?
+E8 One offers a clear 1-Step path to becoming an E8 Performance Trader in a single phase while having access to Perpetual Futures on the HyperLiquid feed.
+
+ 
+
+SimFi™ Challenge rules
+6% Profit Target – Closed profit in your simulated trading account.
+
+Unlimited Trading Days – There is no time limit, but you need to place and close at least one trade every 60 days.
+
+3% Daily Drawdown – Your account must not lose more than x% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance of the day.
+
+4% Dynamic Drawdown – A moving loss limit based on your highest closed balance. It rises each time you close a profit, then locks at that level until you close more profits. It locks permanently at the initial balance level.
+
+ ​This information is for the preset account. You can still customize some of the parameters at checkout.
+
+ 
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive up to 100 % of their trading performance and request a payout.
+
+ 
+
+Trading Rules and Policies:
+
+Unlimited Trading Days – There is no time limit, but you need to place and close at least one trade every 60 days.
+
+3% Daily Drawdown – Your account must not lose more than x% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance of the day.
+
+4% Dynamic Drawdown – A moving loss limit based on your highest closed balance. It rises each time you close a profit, then locks at that level until you close more profits. It locks permanently at the initial balance level.
+
+Criteria for the payout:
+
+40% Best Day rule - With a 40% best-day rule, you must ensure that no single trading day exceeds more than 40% of your total generated profits.
+
+Your net profit (payout) must be greater than 50% of your daily drawdown.
+
+ 
+
+Example: If you have a $100,000 account and your daily drawdown is 4%, the minimum amount required for a payout is $2,001.
+
+Please note that at certain scenarios, you should leave a buffer when you are requesting a payout.
+
+News trading
+In phase 1, you can trade news without any restrictions.
+
+In the SimFI™ Performance account, trading is strictly prohibited during high-impact news events. This prohibition period begins 5 minutes before the scheduled news release and ends 5 minutes after the release. While the platform will not technically prevent you from managing trades during this window, doing so is not permitted, and any profits generated may be subject to removal.
+
+
+​During the prohibition period, users must not:
+
+ 
+
+a. Opening new trades (Market Execution/Limit orders).
+b. Closing trades (Market Execution/Limit orders).
+
+c. Stop/Loss and Take/Profit
+
+d. Buy Stop and Sell Stop
+​
+To see all restricted news events and to see more information, you can access this article here.
+
+ 
+
+Is there a consistency rule?
+During the SimFI™ challenge stage, there is no consistency rule, however, on the SimFI™ Performance account, there is a 40% Best Day rule - With a 40% best-day rule, you must ensure that no single trading day exceeds more than 40% of your total generated profits.
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or other personal accounts, as long as these accounts belong to you.
+
+ 
+
+What is it like to trade with HyperLiquid feed?
+Leverage:
+​
+Bitcoin 1:15
+Ethereum 1:15
+Other Crypto Instruments 1:2
+Stocks 1:5
+Indices 1:15
+Metals 1:15
+Forex 1:25
+Energy 1:15
+
+Note that Perpetual Futures accounts offer only the Netting system. More about the Hedging and Netting system here.
+
+ 
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here. 
+
+ 
+
+Did this answer your question?
+😞😐😃
+What is E8 One Perpetual?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+News trading
+Is there a consistency rule?
+Copy trading rules
+What is it like to trade with HyperLiquid feed?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Products
+E8 Pro Forex
+E8 Pro Forex
+July 30, 2026
+What is E8 Pro Forex?
+This is our 1-Step challenge - designed exclusively for traders looking for freedom in daily payouts, static drawdown with NO consistency rules, or payout caps.
+
+
+SimFi™ Challenge rules
+8% Profit Target - Closed profit in your simulated trading account.
+
+Unlimited Trading Days - There is no time limit but you need to place and close at least one trade each 60 days.
+
+2% Daily Profit cap - In each day, only 2% counts toward the target or profit.  You can make more than 2% in a day, but only 2% of the initial balance per day counts toward the profit target or profit.
+
+
+For a $100,000 account, that’s $2,000 profit cap per day.
+
+2.5% Daily Drawdown – Your account must not lose more than 2.5% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance.
+
+8% Static drawdown – A fixed loss limit based on your initial balance. It never moves, except when a first payout is processed.
+
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive up to 100 % of their trading performance and request a payout.
+
+Unlimited Trading Days – There is no time limit but you need to place and close at least one trade every 60 days.
+
+2% Daily Profit cap - In each day, only 2% counts toward the target or profit.  You can make more than 2% in a day, but only 2% of the initial balance per day counts toward the profit target or profit.
+​
+For a $100,000 account, that’s $2,000 profit cap per day.
+
+2.5% Daily Drawdown – Your account must not lose more than 2.5% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance.
+
+8% Static drawdown – A fixed loss limit based on your initial balance. It never moves, except when a first payout is processed.
+
+ 
+
+Criteria for the payout:
+No caps 
+No consistency rules
+No minimum trading days
+
+Payout frequency: You can request every day!
+
+Minimum profit for first and additional payouts: 1% of your initial balance
+​
+With a $100,000 account balance, you need to make at least $1,000.
+
+Every payout is calculated in two steps: first, 50% of your total profits is set aside as your requestable amount. Then, depending on your chosen plan, you receive up 100% of that amount. The remaining portion stays in your account as a drawdown buffer, protecting you from violations after the Static Drawdown Loss level is moved to your initial balance level.
+​
+​
+
+Full details about the payout mechanism and examples can be found here.
+
+ 
+
+News trading 
+You can trade news on E8 pro Forex without any restrictions (This includes SimFi™ challenge account (phase-1) and SimFI™ performance Account)
+
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+​
+More information can be accessed in the article here. 
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or personal accounts, as long as these accounts belong to you.
+
+ 
+
+What is the available leverage?
+Forex 1:30
+﻿Indices: 1:15
+﻿metals 1:15
+​
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here.
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+What is E8 Pro Forex?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+Criteria for the payout:
+News trading
+Copy trading rules
+What is the available leverage?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Products
+E8 Pro Perpetual
+E8 Pro Perpetual
+Updated this week
+What is E8 Pro Perpetual?
+This is our 1-Step challenge - designed exclusively for traders looking for freedom in daily payouts, static drawdown with NO consistency rules, or payout caps.
+
+
+SimFi™ Challenge rules
+8% Profit Target - Closed profit in your simulated trading account.
+
+Unlimited Trading Days - There is no time limit but you need to place and close at least one trade each 60 days.
+
+2% Daily Profit cap - In each day, only 2% counts toward the target or profit.  You can make more than 2% in a day, but only 2% of the initial balance per day counts toward the profit target or profit.
+
+
+For a $100,000 account, that’s $2,000 profit cap per day.
+
+2.5% Daily Drawdown – Your account must not lose more than 2.5% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance.
+
+8% Static drawdown – A fixed loss limit based on your initial balance. It never moves, except when a first payout is processed.
+
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive up to 100 % of their trading performance and request a payout.
+
+Unlimited Trading Days – There is no time limit but you need to place and close at least one trade every 60 days.
+
+2% Daily Profit cap - In each day, only 2% counts toward the target or profit.  You can make more than 2% in a day, but only 2% of the initial balance per day counts toward the profit target or profit.
+​
+For a $100,000 account, that’s $2,000 profit cap per day.
+
+2.5% Daily Drawdown – Your account must not lose more than 2.5% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance.
+
+8% Static drawdown – A fixed loss limit based on your initial balance. It never moves, except when a first payout is processed.
+
+ 
+
+Criteria for the payout:
+No caps 
+No consistency rules
+No minimum trading days
+
+Payout frequency: You can request every day!
+
+Minimum profit for first and additional payouts: 1% of your initial balance
+​
+With a $100,000 account balance, you need to make at least $1,000.
+
+Every payout is calculated in two steps: first, 50% of your total profits is set aside as your requestable amount. Then, depending on your chosen plan, you receive up 100% of that amount. The remaining portion stays in your account as a drawdown buffer, protecting you from violations after the Static Drawdown Loss level is moved to your initial balance level.
+​
+​
+
+Full details about the payout mechanism and examples can be found here.
+
+ 
+
+News trading 
+You can trade news on E8 Pro Crypto without any restrictions (This includes SimFi™ challenge account (phase-1) and SimFI™ performance Account)
+
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+​
+More information can be accessed in the article here. 
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or personal accounts, as long as these accounts belong to you.
+
+ 
+
+What is it like to trade with HyperLiquid feed?
+Leverage:
+​
+Bitcoin 1:15
+Ethereum 1:15
+Other Crypto Instruments 1:2
+Stocks 1:5
+Indices 1:15
+Metals 1:15
+Forex 1:25
+Energy 1:15
+
+Note that Perpetual Futures accounts offer only the Netting system. More about the Hedging and Netting system here.
+​
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here.
+
+ 
+
+Did this answer your question?
+😞😐😃
+What is E8 Pro Perpetual?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+Criteria for the payout:
+News trading
+Copy trading rules
+What is it like to trade with HyperLiquid feed?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Products
+E8 Signature Forex
+E8 Signature Forex
+June 29, 2026
+
+What is E8 Signature Forex?
+This is our 1-Step challenge - designed exclusively for traders who value speed, clarity, and control.
+
+ 
+
+SimFi™ Challenge rules
+6% Profit Target - Closed profit in your simulated trading account.
+
+Unlimited Trading Days - There is no time limit but you need to place and close at least one trade each 60 days.
+
+EOD Dynamic drawdown – A moving loss limit based on your highest end-of-day balance. It only updates once per day at market close (intraday equity swings do not move it). It locks permanently at the initial balance level.
+​
+$1,000  EOD - $25,000 account
+$2,000 EOD - $50,000 account
+
+$3,000 EOD - $100,000 account
+
+$4,500 EOD - $150,000 account
+
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive 80% of their trading performance and request a payout.
+
+Unlimited Trading Days – There is no time limit but you need to place and close at least one trade every 60 days.
+
+2% Daily pause - A soft daily loss limit based on your starting balance of the day. If your floating or closed loss reaches 2%, trading stops until the next day. Your account is not breached. It simply pauses and resets at midnight 
+
+EOD Dynamic drawdown – A moving loss limit based on your highest end-of-day balance. It only updates once per day at market close (intraday equity swings do not move it). It locks permanently at the initial balance level.
+​
+​$1,000  EOD - $25,000 account
+$2,000 EOD - $50,000 account
+
+$3,000 EOD - $100,000 account
+
+$4,500 EOD - $150,000 account
+
+ 
+
+Criteria for the payout:
+Payout requests can be submitted once you fulfill all of the payout requirements. If you are unable to fulfill one of the following rules, you won´t be able to request your payout.
+
+ 
+
+35% Best Day rule - With a 35% best-day rule, you must ensure that no single trading day exceeds more than 35% of your total generated profits.
+
+Minimum payout is $100.
+​
+Amounts are taken from your net profit. Meaning, with 80% payout, you need to request at least $125.
+
+Minimum profitable days between each payout: 5 (does not apply for first payout) 
+
+A profitable day is considered as a day where the realized closed PnL equals to 0.3% or more.
+
+You have to achieve profitable days between each payout cycle. After requesting a payout, your previously achieved profitable days will reset to 0.
+​
+$75 - $25,000 account
+$150 - $50,000 account
+$300 - $100,000 account
+$450 - $150,000 account
+
+Payout buffer - Before you can start requesting payout, you need to leave a buffer in your account in the same size as your EOD Dynamic Drawdown. The buffer can not be requested. The reason for this is to protect trades from violating EOD by requesting full profit from the account.
+​
+If your EOD is 3% and your initial balance $100,000, the buffer is $3000. 
+
+Payout caps - Payout caps determine the maximum you can request in a single payout.
+​
+A full explanation can be seen in this article.
+
+Trading Hours
+Please note that on E8 Signature Forex and E8 Signature Crypto, all positions are closed by 23:00 Server time, and trading re-opens at 00:15 Server time.
+
+ 
+
+News trading 
+You can trade news on E8 Signature Forex without any restrictions (This includes SimFi™ challenge account (phase-1) and SimFI™ performance Account)
+
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+​
+More information can be accessed in the article here. 
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or personal accounts, as long as these accounts belong to you.
+
+ 
+
+What is the available leverage?
+Forex 1:30
+﻿Indices: 1:15
+﻿metals 1:15
+​
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+​
+​
+
+Did this answer your question?
+😞😐😃
+What is E8 Signature Forex?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+Criteria for the payout:
+Trading Hours
+News trading
+Copy trading rules
+What is the available leverage?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Guardrails
+Daily Drawdown
+Daily Drawdown
+June 30, 2026
+Available for: E8 One, E8 One Crypto, E8 Pro Forex, E8 Pro Crypto
+​​
+​Daily Drawdown is a daily maximum loss limit for a trading account, and its value is based on the initial balance.
+​
+
+Quick Explanation (Read this first)
+We take 4% of your initial Balance and convert it to a fixed $ amount.
+
+Every new day at 00:00 Server Time, we set your loss level = Starting Balance of the new day − that fixed $ amount.
+
+A permanent violation occurs if your account’s equity or balance reaches/falls below this calculated level at any point during the day.
+
+Important: The daily limit resets based on the balance at market rollover. Always check your new "Loss Level" at the start of each trading day in your Dashboard.
+
+ 
+
+Definitions you need to know
+Loss Level: Limit above which you must stay.
+
+ 
+
+Numbers in context
+How to calculate: Starting balance of the new day - Fixed amount (Daily Drawdown) = Loss level
+
+Day
+
+Starting balance
+
+Daily Drawdown
+
+Loss level (You must stay above)
+
+1
+
+$100,000
+
+$4,000
+
+$96,000
+
+2
+
+$102,500
+
+$4,000
+
+$98,500
+
+3
+
+$99,200
+
+$4,000
+
+$95,200
+
+Note: The fixed $ amount ($4,000 in this case) remains constant based on your initial balance; only the starting balance of the day changes the actual Loss Level.
+
+Coach Play: Never let your manual risk reach the 4% limit. Aim to risk no more than 1–2% per day. By setting your own "mental stop" at 2%, you ensure that even with slippage, you never approach the hard violation limit.
+
+How to use the Dashboard to your advantage
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your account loss analysis of the account, and follow your Loss Levels.
+
+
+Please note that if your account equity or balance reaches/falls below the loss level, your account will be permanently closed for breaching the daily Drawdown rule. 
+
+Bear in mind that after the account breaches your loss level, the system will enforce closing the position automatically, which might take a while. This might result in closing your balance above the loss level; however, closing your balance above the loss level after you breach the loss level won't prevent the account from being violated and permanently closed.
+
+The percentage amount of daily Drawdown (4% in this example) can be customized at the checkout when you are creating the order.
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Definitions you need to know
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Guardrails
+Dynamic drawdown
+Dynamic drawdown
+June 4, 2026
+Available for: E8 One, E8 One Crypto
+​
+Dynamic Drawdown refers to the calculation based on the last Highest Closed Balance. In simple terms, it increases as you increase the balance by closing profits.
+
+ 
+
+Quick Explanation (Read this first)
+Your Loss Level rises only when you close a profit, NOT when your equity increases.
+
+After you close early profits and the Loss Level rises, it locks at that new level until you raise it again with more closed profits.
+
+Translation: We count what you keep, not what you almost had.
+
+Once your account reaches a closed profit in the amount of Dynamic Drawdown, the Drawdown locks, becomes fully static, and won't move further anymore.
+
+Note: Swing traders aren’t punished for floating P&L while they hold a profitable trade.
+
+ 
+
+Definitions you need to know
+Highest Closed Balance: the highest balance your account has ever reached.
+
+Loss Level: Limit above which you must stay.
+
+
+Numbers in context
+How to calculate: Highest Closed Balance - Drawdown amount (6%) = Loss level
+​You close $x amount profit, Loss Level increases by $x until it locks at the initial balance
+​
+This is how your account's Dynamic Drawdown looks at the beginning, before you start trading:
+
+Starting Balance
+
+Dynamic Drawdown (6%)
+
+Loss level (You must stay above)
+
+$100,000
+
+$6,000
+
+$94,000
+
+And this is how Dynamic Drawdown changes based on the profits you actually close:
+
+Example
+
+What happens?
+
+Balance
+
+Loss Level
+
+Start with $100,000
+
+ 
+
+$100,000
+
+$94,000
+
+You close +$2k profit
+
+(Loss level rises by 2k)
+
+$102,000
+
+$96,000
+
+You close -$3k loss
+
+(Loss Level stays)
+
+$99,000
+
+$96,000
+
+You close +$1k profit
+
+(Loss Level stays)
+
+$100,000
+
+$96,000
+
+You close +$7k profit
+
+(Loss level raises by 4k and locks forever at the initial balance level)
+
+$107,000
+
+$100,000
+
+
+
+How to use the Dashboard to your advantage
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your account loss analysis of the account, and follow your Loss Levels.
+
+ 
+
+
+Please note that if your account equity or balance reaches/falls below the loss level, your account will be permanently closed for breaching the Dynamic Drawdown rule.
+​
+After the account breaches your loss level, the system will enforce closing the position automatically, which might take a while. This might result in closing your balance above the loss level; however, closing your balance above the loss level after you breach the drawdown level won't prevent the account from being violated and permanently closed.
+
+Note: In certain scenarios, you should leave a buffer when you are requesting a payout.
+
+The percentage amount of the Dynamic Drawdown (6% in this example) can be customized at checkout when you are creating the order.
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Definitions you need to know
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Guardrails
+Daily profit cap
+Daily profit cap
+Updated over 3 weeks ago
+Available for: E8 Pro Forex, E8 Pro Crypto
+​
+The daily profit cap is a rule designed to encourage steady, disciplined trading rather than high-risk, high-reward behavior in a single session. It sets a ceiling on how much profit counts toward your targets within any given trading day (00:00–23:59 Server Time).
+
+Quick Explanation (Read this first)
+Every day, there is a 2% cap on how much profit you can make.
+
+This 2% is calculated from your initial balance, and it is a fixed number.
+
+If you exceed this 2% Daily profit cap, everything above will increase your balance, but not your total profits/performance results (Exceeds profits above 2% are being removed every day after rollover).
+
+ 
+
+Numbers in context
+How to calculate: Starting balance of the new day + profit cap amount (2% from the initial balance of the account) = Profit cap limit for that day
+​
+For example, with a 2% cap on a $100,000 account, your daily profit cap is $2,000. If your balance at the start of a new trading day is $101,000, the cap level is set to $103,000.
+
+
+​More examples:
+
+Day
+
+Initial balance
+
+Balance at the beginning of the day
+
+Daily profit cap (2%)
+
+Profit cap limit
+
+1
+
+$100,000
+
+$102,500
+
+$2,000
+
+$104,500
+
+2
+
+$50,000
+
+$55,000
+
+$1,000
+
+$56,000
+
+3
+
+$25,000
+
+$24,200
+
+$500
+
+$24,700
+
+Note: Every day between 00:00 and 01:00 Server Time, any profits earned above the daily cap are automatically removed from your account balance. You don't need to track or calculate the excess yourself, and the system handles it for you.
+
+How it works:
+
+Opening balance
+
+$102,000
+
+Daily profit cap (2%)
+
+$2,000
+
+Cap limit
+
+$104,000
+
+Closing balance
+
+$105,500
+
+Amount removed at rollover
+
+$1,500
+
+Closing balance is $105,500, meaning the $1,500 above the $104,000 cap limit is removed automatically, bringing your balance back to $104,000 at the start of the next trading session.
+
+
+How to use the Dashboard to your advantage
+In the goals overview, there is a metric that helps you track your Daily profit cap, and it shows:
+
+The status of how many profits you made from the total profit cap
+
+Excess profits above the profit cap
+
+
+ 
+
+Intentionally attempting to bypass the daily profit cap by splitting a large winning position through hedging or partial closures is not allowed and may result in all profit from that position being consolidated into a single day.
+
+
+​Example: Partially closing a large winning position across multiple days. It may be viewed as an attempt to bypass the rule, especially if the profit is generated during a single-day market movement.
+
+ 
+
+Example: Opening several positions on a given instrument on one day and closing them across multiple days. Such positions may be considered a single trade idea. It may be viewed as an attempt to bypass the rule, especially if the trade idea capitalizes on a single-day market movement.
+
+ 
+
+Example: Immediate opening, closing and re-opening a position held across multiple days. It may be viewed as an attempt to bypass the rule because such positions are considered a single trade idea with identical market exposure.
+
+ 
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Guardrails
+Static Drawdown
+Static Drawdown
+July 15, 2026
+Available for: E8 Pro Forex, E8 Pro Crypto
+​
+
+Static Drawdown represents the maximum total loss your account can incur based on your Initial Balance.
+​
+
+Quick Explanation (Read this first)
+It is a Fixed Floor: It does not move up, and It stays anchored to your starting point, until you make a payout.
+
+The "Hard Stop": A permanent violation occurs if your account’s Equity or Balance falls below this level at any point.
+
+Definitions you need to know
+Loss Level: Limit above which you must stay.
+
+Numbers in context
+How to calculate: Initial Balance − % of Initial Balance = Loss Level
+
+Initial Balance
+
+Static Drawdown
+
+Loss Level (You must stay above)
+
+$100,000
+
+$8,000 (8%)
+
+$92,000
+
+$50,000
+
+$4000 (8%)
+
+$46,000
+
+$5,000
+
+$400 (8%)
+
+$4,600
+
+ 
+
+Payout request
+When you request a first payout, the loss level will move to the initial balance level, and it stays there forever.
+
+$100,000 account
+
+Static Drawdown
+
+Loss Level (You must stay above)
+
+Before payout
+
+$8,000 (8%)
+
+$92,000
+
+After payout
+
+$8,000 (8%)
+
+$100,000
+
+ 
+
+How to use the Dashboard to your advantage
+
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your account loss analysis of the account, and follow your Loss Levels.
+
+Please note that if your account equity or balance reaches/falls below the loss level, your account will be permanently closed for breaching the Static Drawdown rule.
+
+Bear in mind that after the account breaches your loss level, the system will enforce closing the position automatically, which might take a while. This might result in closing your balance above the loss level; however, closing your balance above the loss level after you breach the Loss level won't prevent the account from being violated and permanently closed.
+
+ 
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Definitions you need to know
+Numbers in context
+Payout request
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Guardrails
+EOD Dynamic Drawdown
+EOD Dynamic Drawdown
+What is EOD Dynamic Drawdown?
+
+July 15, 2026
+Available for: E8 Signature Forex, E8 Signature Crypto, E8 Signature Futurex, E8 Zero
+
+
+EOD Dynamic Drawdown refers to the calculation based on your highest achieved balance at the end of the trading day.
+
+ 
+
+Quick Explanation (Read this first) 
+Your Loss Level rises (at the EOD) only when you close a profit, NOT when your equity increases.
+
+Translation: We count what you keep, not what you almost had.
+
+Once your account reaches a closed profit in the amount of EOD Dynamic Drawdown or you request your first payout, the Drawdown locks on the initial balance level, becomes fully static, and won't move further anymore (this does not apply in challange of E8 Zero).
+
+Note: It updates at the end of the day (not tick‑by‑tick), so intraday swings can breathe.
+
+ 
+
+Definitions you need to know
+Loss Level: Limit above which you must stay.
+
+The system always takes the highest End-of-the-day balance you have achieved and sets your Loss level based on that number.
+
+EOD: End of the day
+
+
+Numbers in context
+How to calculate:  Highest End-of-the-day balance - Drawdown amount (3%) = Loss level
+​
+This is how your account's EOD Dynamic Drawdown looks at the beginning:
+
+Starting Balance
+
+EOD Dynamic Drawdown (3%)
+
+Loss level (You must stay above)
+
+$100,000
+
+$3,000
+
+$97,000
+
+And this is how Dynamic Drawdown changes based on the profits you actually close:
+
+ 
+
+Scenario
+
+End of the day balance
+
+Tomorrow's Loss Level
+
+Day 1
+
+Start with $100,000
+Loss level $97,000
+You close $1000 profit
+
+$101,000
+
+$98,000
+
+Day 2
+
+You close $1,000 profit
+
+$102,000
+
+$99,000
+
+Day 3
+
+You close -$1,000 loss
+
+$101,000
+
+$99,000
+
+Day 4
+
+You close $3,000 profit
+
+$104,000
+
+$100,000 (locked)
+
+Day 5+
+
+EOD DD is locked, changed to static, and won't move any further
+
+ 
+
+$100,000 (Locked)
+
+Note: Day traders get room to work a session without equity‑spike gotchas
+
+
+
+How to use the Dashboard to your advantage
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your account loss analysis of the account, and follow your Loss Levels.
+
+
+Please note that if your account equity or balance reaches/falls below the loss level, your account will be permanently closed for breaching the EOD Dynamic Drawdown rule. 
+
+After the account breaches your loss level, the system will enforce closing the position automatically, which might take a while. This might result in closing your balance above the loss level; however, closing your balance above the loss level after you breach the drawdown level won't prevent the account from being violated and permanently closed.
+
+Key notes to take. In challange stage of E8 Zero, the Eod Drawdown scales with your profit, no matter what amount you make. Meaning that the loss level is not being locked at the initial balance and can go further.
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Definitions you need to know
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Guardrails
+Daily Pause
+Daily Pause
+Updated over 3 weeks ago
+Available on SimFi™ Performance stage (only) for: E8 Signature Forex, E8 Signature Crypto, E8 Signature Futures
+​
+Daily Pause is a protective feature that safeguards your trading account.
+​
+​Why it exists (your upside): A single impulsive session shouldn’t erase a great week. The Day Seatbelt caps intraday damage so you can stay consistent, keep EOD intact, and qualify for payouts with confidence.
+
+
+Quick Explanation (Read this first)
+We take 2% of your initial Balance and convert it to a fixed $
+
+Every new day, we set your pause line =  Balance of the new day − that fixed $. 
+
+If equity or balance falls below that line, we pause trading until 00:00 (server time)
+
+Daily Pause is not a hard breach; you can still continue trading the next day
+
+Important: Closing all positions isn’t instant at the exact limit. Use stop-losses—we don’t rebalance if it takes you past −2%.
+
+Numbers in context
+A) $100,000 Initial Balance (Fixed $ = $2,000)
+
+Day
+
+Starting balance
+
+Loss Level
+
+Results (if you exceed the limit)
+
+1
+
+$100,000
+
+$98,000
+
+Trading paused to 00:00
+
+2
+
+$102,500
+
+$100,500
+
+Trading paused to 00:00
+
+3
+
+$99,200
+
+$97,200
+
+Trading paused to 00:00
+
+B) $50,000 Initial Balance (Fixed $  = $1,000)
+
+Day
+
+Starting balance
+
+Loss Level
+
+Results (if you exceed the limit)
+
+1
+
+$50,000
+
+$49,000
+
+Trading paused to 00:00
+
+2
+
+$51,250
+
+$50,250
+
+Trading paused to 00:00
+
+3
+
+$49,000
+
+$48,000
+
+Trading paused to 00:00
+
+Note: The fixed $ never changes during the account’s life; only the starting balance of the day changes the pause line.
+
+Coach Play: Plan your SL above the Loss Level. If your fixed $ is $2,000, cap your trades at $1,600–$1,800 so slippage won’t exceed your planned limit.
+
+ How to use the Dashboard to your advantage
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your account loss analysis of the account, and follow your Loss Levels.
+
+
+ 
+
+If your account equity or balance reaches or falls below the loss level, your account will be temporarily paused until the next trading day (00:00 Server time).
+
+When you reach the 2% daily pause limit, it takes some time before all positions are closed after the violation. It is not instant, so we advise using SL on each trade to avoid losing more than 2%.
+​
+If you don't use a Stop-Loss at the 2% limit, or if you risk more and due to the delay your positions close at a loss greater than 2%, we bear no risk and you are not entitled to any rebalance.
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+How many accounts can I apply for at once?
+How many accounts can I apply for at once?
+What is the maximum allocation of E8 accounts I can apply for?
+
+Updated this week
+SimFi™ Challenge accounts (Phase 1):
+
+All products - UNLIMITED
+​There is unlimited allocation for accounts in phase 1
+
+Maximum allocation for SimFI™ Performance accounts:
+
+Max for E8 One = $500,000 allocation
+
+Max for E8 One Perpetual = $500,000 allocation
+
+Max for E8 Pro Forex = $500,000 allocation
+
+Max for E8 Pro Perpetual = $500,000 allocation
+
+E8 Zero = 3 performance accounts
+
+E8 Signature Forex = 5 performance accounts
+
+E8 Signature Futures = 5 performance accounts
+
+This means that in the Simfi™ Performance accounts, you can manage up to $4,850,000 in Simulated capital at the same time!
+
+Note: These allocation limits apply per household. Multiple users within the same residence/same IP must not exceed this collective maximum.
+
+Examples:
+
+ 
+
+During the Challenge stage, there are no limits on how many accounts you can purchase. For example, you could buy a $400,000 E8 One account, a $100,000 E8 One account, and a $200,000 E8 One account.
+​
+If you pass all of them, since the maximum allocation limit on the Performance stage for E8 One is $500,000, you will be able to trade only with a $400,000 and a $100,000 account. The other $200,000 account will be kept as a reserve until your allocation on the Performance stage drops below the limit.
+​
+Similarly, for Signature models, you can purchase as many Challenge accounts as you like, regardless of account size. Note that you can only actively manage 5 performance accounts for each market in the Performance stage at any given time; any additional accounts will be kept in reserve.
+
+ 
+
+Single User (E8X) Profile policy
+Users are only allowed to have a single user profile, so all purchases of our challenges must be made through one registered user profile. All accounts must be traded solely by their respective owners.
+
+ 
+
+Creating multiple user profiles under different emails or trading accounts from different users is a violation of our terms and conditions and may lead to the temporary or permanent suspension of your active accounts and user profile.
+​
+
+If you have unintentionally created an additional profile, please reach out to our support team at support@e8markets.com and we will assist in deleting the extra profile promptly.
+
+
+​
+
+Did this answer your question?
+😞😐😃
+Single User (E8X) Profile policy
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Trading Policies and Prohibited Trading Strategies
+Trading Policies and Prohibited Trading Strategies
+May 22, 2026
+Prohibited Trading Strategies (Forex + Crypto)
+All-or-nothing Trading:  
+​
+Risking your entire daily drawdown on a single trade is not permitted. Excessively risky trading may result in E8's risk team reaching out to discuss your approach.
+
+Hedging Policies: 
+​
+Hedging across multiple accounts, even those belonging to the same trader, is strictly prohibited. Hedging, which involves opening opposing positions on the same asset, undermines fair trading and disrupts the integrity of the SimFi environment.
+
+Use of Expert Advisors (EAs):  
+​
+​you can use any EA (Expert Advisor) as long as we don't see multiple users executing the same trades/strategy. We limit one strategy per user, so if we see multiple users utilize the same EA, it may lead to the termination of your account. So even though the use of third-party EA is allowed, we recommend that each user use their own programmed EA. More information can be found here.
+
+Irresponsible Trading in Simulated Accounts: 
+​
+Executing large-volume trades without a coherent strategy or disregarding fundamental market analysis and risk management practices is considered an abuse of the simulated environment. 
+
+Restrictions to Prevent High-Frequency Trading:
+​
+To avoid high-frequency trading (HFT) behaviors, you cannot hold more than 50% of your trades for under one minute. 
+
+
+SimFi™  Challenge & Performance Account Management
+Account Completion & Independence:
+
+
+Each SimFi Challenge and Performance Account must be traded independently. Cooperation with other traders - in any form - is not permitted.
+​
+​Copy trading across your own accounts is allowed, including across SimFi Challenge Accounts, SimFi Performance Accounts, or any personal accounts, as long as all accounts belong to you and you alone.
+
+Account Management & Capital Allocation:
+​
+Every account must be managed individually by the account holder. Users must comply with the maximum capital allocation limit for each product. For details on how many accounts you can hold at once, see this article.
+
+Protective Risk Measures
+Penalties for Prohibited Practices: 
+​
+Engaging in prohibited trading practices will result in termination from our program and a refund of the fee paid from the account where this rule was broken. Before receiving a simulated SimFi™ performance account , we will review your trading activities for compliance. Failure to comply may result in not receiving a simulated SimFi™ performance account or the closure of your existing one, including the loss of accrued profits. We reserve the right to de-risk your trading strategy by limiting your risk to no more than 1% per trade idea or time horizon if we detect prohibited practices. This enforced rule eliminates harmful behaviors and promotes responsible trading.
+​
+To ensure the integrity and stability of our trading environment, we require traders to demonstrate consistent trading practices. If a trader's approach shows signs of extreme behavior, their trading may be subject to review by our risk team who may require consistency over a longer period of time.
+
+ 
+
+In that case, the trader will be required to provide further trading history to demonstrate that his profits are the result of a consistent and sustainable trading approach. Specifically, the trader will need to continue trading for an extended period and showcase a longer-term trading approach, and not an ''all-or-nothing'' approach.   
+
+ 
+
+If the trader fails to demonstrate a consistent and sustainable trading strategy, E8 Markets reserves the right to impose restrictions on trading activities, terminate the agreement, or withhold payouts.
+​
+
+​Is there a mandatory interview after finishing my challenge or during payout?
+To clarify, an interview is not part of every challenge completion or payout request.
+
+E8's risk team may request a brief interview with traders at any stage. This is not standard practice, and it is a random procedure.
+
+
+When it does occur, the purpose is straightforward:
+
+To understand your trading background and experience
+
+To discuss your approach to risk management
+
+To learn more about the strategy behind your performance data
+
+It is not an interrogation. It is part of how E8 evaluates and develops the SimFi™ environment.
+
+These policies exist to promote responsible trading behaviour and protect the integrity of the SimFi assessment for every trader on the platform.
+
+Did this answer your question?
+😞😐😃
+Prohibited Trading Strategies (Forex + Crypto)
+SimFi™ Challenge & Performance Account Management
+Protective Risk Measures
+​Is there a mandatory interview after finishing my challenge or during payout?
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Is there any consistency rule?
+Is there any consistency rule?
+Updated over a week ago
+In the SimFi™ Challenge stage, there is no consistency rule for any Forex or Crypto product.
+
+ 
+
+In the SimFi™ Performance stage, there is no consistency rule for E8 Pro.
+
+ 
+
+After reaching the SimFi™ Performance stage with E8 One or E8 Signature accounts, users must follow the Payout on Demand rules.
+​
+
+
+​
+​
+​
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Can I copy trades or trade as a team?
+Can I copy trades or trade as a team?
+Copy trading, signals, team trading
+
+May 14, 2026
+E8 Markets allows copy trading across all accounts, including SimFi™ Challenge account and SimFi™ Performance account or personal accounts, as long as these accounts belong to you.
+​
+
+You are free to use any trade copying tool or software that works for you ( For MatchTrader (MTR), https://danetrades.com/ is available)
+
+Bear in mind that each user is expected to have their own strategy. We do not allow teams to make the same trades or copy trades on our simulated platform, and we also do NOT permit signal services.
+​
+Each user is eligible to develop their own trade strategy with a maximum allowed allocation in the simulation capital. It is a violation of our rules for users to make multiple E8X Profiles and exceed the maximum capital allocation rule.
+
+
+​
+​
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Are there lot/order size restrictions?
+Are there lot/order size restrictions?
+Lot Size, Ticket Caps & Maximum position size
+
+Updated this week
+Quick Explanation (read this first)
+Max size (most symbols): 50 lots 
+
+Max size (XAUUSD/gold): 20 lots 
+
+Want more exposure? Split your size across multiple positions. 
+
+Open-order cap at time: 100 (active pendings + open positions) 
+
+Server requests per day: 2000 (order place/cancel/modify, TP/SL edits, etc.) 
+
+Max positions per day: 2000 (per account)
+
+Hyperliquid instruments on E8 Terminal offer different limits. Click here for more.
+
+ 
+
+Why do we have it? (your upside)
+Why do caps exist? Tighter spreads, better fills - so that your performance data remains clean and your payout eligibility is based on consistent results.
+
+Reduce slippage: Large position sizes can impact order book depth and fill quality.
+
+Fair execution: Keeps the flow healthy for everyone. 
+
+Data integrity: Results reflect discipline, not brute size.
+
+ 
+
+What is the maximum position I can open? (Click here for more)
+ 
+
+ 
+
+Tips (Click here for more)
+Coach play:  Even if the platforms allow you to open certain position sizes, make sure that the margin utilization is not too exposed, otherwise it might quickly end up in hitting your guardrails or stop-out.
+
+
+​
+
+ 
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (read this first)
+Why do we have it? (your upside)
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Is there any Stop-loss rule
+Is there any Stop-loss rule
+June 11, 2024
+We don't require using a stop loss or Take profit. It is only on you and on your strategy.
+
+Anyway, all the data shows that traders who use stop losses are more successful in the long run than traders who don't use them. For this reason, the use of stop losses is highly recommended.
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Can I hold positions overnight and trade over the weekend?
+Can I hold positions overnight and trade over the weekend?
+Trading Hours
+
+Updated over a week ago
+At E8, we provide the flexibility to maintain your trading strategy without unnecessary restrictions. 
+
+ 
+
+Overnight Trading
+E8 One, E8 Crypto, E8 Pro Forex, E8 Pro Crypto: Overnight Trading or holding is allowed on all stages
+
+On E8 Signature Forex and E8 Signature Crypto, all positions are automatically closed at 23:00 server time, and trading resumes at 00:15 server time.
+
+Weekend Holding and Trading
+E8 One, E8 Crypto, E8 Pro Forex, E8 Pro Crypto: Weekend Holding and Crypto trading are allowed on all stages. 
+
+E8 Signature Crypto: Crypto trading is permitted; however, all positions are automatically closed at 23:00 server time and trading resumes at 00:15 server time.
+
+ 
+
+Risk Management & Responsibility
+While we do not limit your strategy, holding positions during market closures carries inherent risks. 
+​
+Because our simulated platform replicates real market conditions, please be aware that there are risks associated with market gaps when trading pairs that do not stay open during the weekend trading hours like Forex pairs, Indices and Commodities. .
+​
+​As a Trader, it is your job to determine the risks and rewards of holding a position overnight, as we do not want to limit a user’s strategy. However, if a gap, slippage, or widened spread causes a violation of the account, it is the user’s responsibility.
+
+​﻿All users are responsible for knowing the trading hours on each instrument:
+​
+
+Trading hours
+Did this answer your question?
+😞😐😃
+Overnight Trading
+Weekend Holding and Trading
+Risk Management & Responsibility
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Is there any maximum risk rule?
+Is there any maximum risk rule?
+May 21, 2026
+There are no hard limits on maximum risk per trade idea. We know that every trader has a different edge, and we respect that.
+​
+
+That said, responsible risk management is at the core of what the SimFi environment measures. Here is what the data and experience show:
+
+All-or-nothing behaviour: Risking the majority of your daily drawdown on a single trade idea is not what consistent, scalable trading looks like.
+​
+
+What works: The most successful traders on E8 risk between 1–1.5% per trade idea. This is not a rule but a clear pattern.
+​
+
+Risk team: If your approach is flagged as overly aggressive, E8's risk team may reach out to discuss adjusting it. Do not take it as a penalty; this is simply a part of how the SimFi environment supports traders in building sustainable performance habits.
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Can I use indicators or expert advisors when trading the E8 Account?
+Can I use indicators or expert advisors when trading the E8 Account?
+Tools you can use while trading with us: Algo, EA, Bots and Indicators.
+
+May 14, 2026
+Regarding EA usage, you can use any EA (Expert Advisor) as long as we don't see multiple users executing the same trades/strategy. We limit one strategy per user, so if we see multiple users utilize the same EA, it may lead to the termination of your account. So even though the use of third-party EA is allowed, we recommend that each user use their own programmed EA.
+​
+Next, be aware of other limits, such as :
+
+Max ticket size (most symbols): 50 lots
+
+Max ticket size (XAUUSD/gold): 20 lots
+
+Open-order cap at time: 100 (active pendings + open positions)
+
+Server requests per day: 2000 (order place/cancel/modify, TP/SL edits, etc.)
+
+Max positions per day: 2000 (per account)
+​
+
+E8 Markets does not limit or restrict a user’s trading style or strategy so long as (1) the user is trading within the rules of the SimFi environment, (2) the user’s trades could be executed in a real market.
+
+
+​
+​
+​
+​
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Is there any inactivity rule?
+Is there any inactivity rule?
+June 22, 2026
+While there is no maximum or minimum time limit, please be aware of our Inactivity Rule to keep your account active:
+
+ 
+
+After 60 or 7 days of inactivity (Depending on the market), the account will be closed
+
+You need to place and close at least one trade within this 7 or 60-day period.
+
+This will also affect newly purchased accounts without any trading history
+​
+
+60 Day inactivity applies to all Forex/Crypto accounts.
+
+7 Day inactivity applies to all Futures accounts.
+
+There is no minimum lot size requirement to maintain your account. Even a micro-trade of 0.1 lots counts as a qualifying trade to prevent deactivation.
+
+If you are planning to travel and you know your account will be inactive for the period mentioned above, you are allowed to do so, but you must contact us at Support@E8markets.com before the travel happens.
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Is the martingale strategy allowed?
+Is the martingale strategy allowed?
+Martingale
+
+May 14, 2026
+Yes, we allow our traders to utilize the martingale strategy. 
+
+You can use whatever strategy you want, just be aware of prohibited strategies such as:
+
+Abuse of feed
+
+Freezing, High frequency
+
+straddling
+
+You can read it in more detail in the terms & conditions. 
+​
+We do not prohibit specific strategy types like martingale, and we allow traders to operate their edge as long as it can be executed under real market conditions.
+﻿​﻿
+​Regarding EA usage, you can use any EA (Expert Advisor) as long as we don't see multiple users executing the same trades/strategy. We limit one strategy per user, so if we see multiple users utilize the same EA, it may lead to the termination of your account. So even though the use of third-party EA is allowed,  we recommend that each user use their own programmed EA. 
+​
+Also be aware of other limits, such as :
+
+Open-order cap at time: 100 (active pendings + open positions)
+
+Server requests per day: 2000 (order place/cancel/modify, TP/SL edits, etc.)
+
+Max positions per day: 2000 (per account)
+
+ 
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+General rules
+Can I trade news?
+Can I trade news?
+Can I trade news?
+
+Updated over a week ago
+E8 Signature and E8 Pro accounts:
+You can trade news on E8 Signature and E8 Pro without any restrictions (This includes SimFi™ challenge account (phase-1) and SimFi™ performance Account)
+​
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+
+ 
+
+E8 One, E8 One Crypto:
+In the SimFi™ Challenge stage, you can trade news without any restrictions
+
+In the SimFI™ Performance account, trading is strictly prohibited during high-impact news events. This prohibition period begins 5 minutes before the scheduled news release and ends 5 minutes after the release. While the platform will not technically prevent you from managing trades during this window, doing so is not permitted, and any profits generated may be subject to removal.
+
+ 
+
+High-impact news events are defined as economic or geopolitical announcements that have the potential to significantly influence financial markets. This includes, but is not limited to, central bank decisions, economic indicators, and major political events.
+
+ 
+
+Prohibited Actions
+During the prohibition period, users must not:
+​ 
+
+a. Opening new trades (Market Execution/Limit orders).
+b. Closing trades (Market Execution/Limit orders).
+
+c. Stop/Loss and Take/Profit
+
+d. Buy Stop and Sell Stop
+
+ 
+
+During news speeches, the restricted time period is 5 minutes before the speech begins until 5 minutes after the speech ends.
+
+Note: Trading platforms will allow you to open a position during news, and won't be automatically closed when you hold it, meaning there is no protection for traders, and you must manage your position by yourself. If you violate this rule, profits are automatically deducted from your account balance after your request payout, and you will be notified via email.
+
+Trading based on news is NOT permitted, encompassing strategies like directional trading, straddles, strangles, capitalizing on the initial surge following news releases and initiating trades just before or after the news to potentially benefit from market movements.
+
+All non-targeted instruments can be traded without any restrictions. 
+
+News releases can be followed in our economic calendar.
+
+​List of targeted instruments and Restricted Macroeconomic News Events:
+
+ 
+
+
+While we permit news trading in some scenarios, users should be aware that slippage may occur (as it would if this were a real market) and traders should factor slippage into their strategy and position sizing.
+​
+E8 Markets cannot protect users from positions closing beyond their expected level.
+​
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+
+
+​
+
+Did this answer your question?
+😞😐😃
+E8 Signature and E8 Pro accounts:
+E8 One, E8 One Crypto:
+Prohibited Actions
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Legacy products
+E8 Pro Crypto
+E8 Pro Crypto
+Updated over a week ago
+What is E8 Pro Crypto?
+This is our 1-Step challenge - designed exclusively for traders looking for freedom in daily payouts, static drawdown with NO consistency rules, or payout caps.
+
+
+SimFi™ Challenge rules
+8% Profit Target - Closed profit in your simulated trading account.
+
+Unlimited Trading Days - There is no time limit but you need to place and close at least one trade each 60 days.
+
+2% Daily Profit cap - In each day, only 2% counts toward the target or profit.  You can make more than 2% in a day, but only 2% of the initial balance per day counts toward the profit target or profit.
+
+
+For a $100,000 account, that’s $2,000 profit cap per day.
+
+2.5% Daily Drawdown – Your account must not lose more than 2.5% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance.
+
+8% Static drawdown – A fixed loss limit based on your initial balance. It never moves, except when a first payout is processed.
+
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive up to 100 % of their trading performance and request a payout.
+
+Unlimited Trading Days – There is no time limit but you need to place and close at least one trade every 60 days.
+
+2% Daily Profit cap - In each day, only 2% counts toward the target or profit.  You can make more than 2% in a day, but only 2% of the initial balance per day counts toward the profit target or profit.
+​
+For a $100,000 account, that’s $2,000 profit cap per day.
+
+2.5% Daily Drawdown – Your account must not lose more than 2.5% of your initial balance in a single day. The limit you can not exceed is calculated from your starting balance.
+
+8% Static drawdown – A fixed loss limit based on your initial balance. It never moves, except when a first payout is processed.
+
+ 
+
+Criteria for the payout:
+No caps 
+No consistency rules
+No minimum trading days
+
+Payout frequency: You can request every day!
+
+Minimum profit for first and additional payouts: 1% of your initial balance
+​
+With a $100,000 account balance, you need to make at least $1,000.
+
+Every payout is calculated in two steps: first, 50% of your total profits is set aside as your requestable amount. Then, depending on your chosen plan, you receive up 100% of that amount. The remaining portion stays in your account as a drawdown buffer, protecting you from violations after the Static Drawdown Loss level is moved to your initial balance level.
+​
+​
+
+Full details about the payout mechanism and examples can be found here.
+
+ 
+
+News trading 
+You can trade news on E8 Pro Crypto without any restrictions (This includes SimFi™ challenge account (phase-1) and SimFI™ performance Account)
+
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+​
+More information can be accessed in the article here. 
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or personal accounts, as long as these accounts belong to you.
+
+ 
+
+What is the available leverage?
+Bitcoin 1:5
+Ethereum 1:5
+Další Crypto instrumenty 1:2
+​
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here.
+
+ 
+
+Did this answer your question?
+😞😐😃
+What is E8 Pro Crypto?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+Criteria for the payout:
+News trading
+Copy trading rules
+What is the available leverage?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Legacy products
+E8 One Crypto
+E8 One Crypto
+Updated this week
+What is E8 One Crypto?
+E8 One Crypto nabízí jasnou jednokrokovou cestu k tomu, stát se E8 Performance obchodníkem v jediné fázi - navrženo výhradně pro crypto obchodníky.
+
+ 
+
+Pravidla SimFi™ Challenge
+6 % Profit Target – Jedná se o uzavřený zisk na vašem simulovaném obchodním účtu.
+
+Neomezený počet obchodních dní - Nenexistuje žádný časový limit, ale musíte provést a uzavřít alespoň jeden obchod každých 60 dní.
+
+3% Denní Drawdown – Váš účet nesmí ztratit více než x % vašeho počátečního zůstatku za jediný den. Limit, který nesmíte překročit, je vypočítán z vašeho  počátečního zůstatku dne.
+
+4% Dynamický Drawdown – Pohyblivý limit ztráty založený na vašem nejvyšším uzavřeném zůstatku. Zvyšuje se pokaždé, když uzavřete zisk, pak se uzamkne na této úrovni, dokud nezavřete další zisky. Trvale se uzamkne na úrovni počátečního zůstatku.
+
+Tyto informace platí pro přednastavený účet. Některé parametry můžete stále přizpůsobit při placení.
+
+ 
+
+Pravidla SimFi™ Performance
+Do fáze SimFi™ Performance se dostanete po dokončení SimFi™ Challenge účtu při dodržení všech pravidel a dosažení profit targetu. Uživatelé, kteří dodržují guardrails a splňují pravidla a pokyny, jsou způsobilí získat až 100 % svých výkonnostních dat a požádat o payout.
+
+ 
+
+Obchodní pravidla:
+
+Neomezený počet obchodních dní - Není žádný časový limit, ale musíte provést a uzavřít alespoň jeden obchod každých 60 dní.
+
+3% Denní Drawdown – Váš účet nesmí ztratit více než x % vašeho počátečního zůstatku za jediný den. Limit, který nesmíte překročit, je vypočítán z vašeho počátečního zůstatku dne.
+
+4% Dynamický Drawdown – Pohyblivý limit ztráty založený na vašem nejvyšším uzavřeném zůstatku. Zvyšuje se pokaždé, když uzavřete zisk, pak se uzamkne na této úrovni, dokud nezavřete další zisky. Trvale se uzamkne na úrovni počátečního zůstatku.
+
+Kritéria pro payout:
+
+40% Pravidlo nejlepšího dne - U tohoto pravidla musíte zajistit, aby žádný jednotlivý obchodní den nepřesáhl více než 40 % vašich celkových vygenerovaných zisků.
+
+Váš čistý zisk (payout) musí být vyšší než 50 % vašeho Daily Drawdown.
+
+ 
+
+Příklad: Pokud máte účet se $100 000 a váš Denní Drawdown je 4 %, minimální částka požadovaná pro payout je $2 001.
+
+Upozorňujeme, že v určitých situacích byste měli ponechat buffer při žádosti o payout.
+
+Obchodování makroekonomických zpráv
+Ve fázi Challenge můžete obchodovat makroekonomické zprávy bez jakýchkoli omezení.
+
+V SimFi™ Performance účtu je obchodování během makroekonomických zpráv přísně zakázáno. Zákaz začíná 5 minut před plánovaným zveřejněním zprávy a končí 5 minut po zveřejnění. Přestože vám platforma technicky nezabrání ve správě obchodů během tohoto okna, takové jednání není povoleno - veškeré simulované zisky zaznamenané během tohoto období budou odebrány.
+
+
+Během zákazu nesmí uživatelé:
+
+ 
+
+a. Otevírat nové obchody (Market příkazy/Limit příkazy)
+b. Uzavírat obchody (Market příkazy/Limit příkazy)
+c. Nastavovat Stop Loss a Take Profit
+d. Nastavovat Buy Stop a Sell Stop
+​
+Pro zobrazení všech omezených zpravodajských událostí a další informace si přečtěte tento článek.
+
+ 
+
+Existuje pravidlo konzistence?
+Během fáze SimFi™ Challenge neexistuje žádné pravidlo konzistence. Na SimFi™ Performance účtu však platí 40% Best Day Rule - musíte zajistit, aby žádný jednotlivý obchodní den nepřesáhl více než 40 % vašich celkových vygenerovaných zisků.
+
+ 
+
+Kopírování obchodů
+E8 Markets umožňuje kopírování obchodů na všech účtech, včetně SimFi™ Challenge a SimFi™ Performance account nebo jiných osobních účtů, pokud tyto účty patří vám.
+
+ 
+
+Jaká je dostupná páka?
+Forex 1:30
+﻿Indexy: 1:15
+kovy 1:15
+﻿Crypto 1:1
+
+ 
+
+Další obchodní pravidla
+Existují další pravidla týkající se hedgování, all-or-nothing obchodování a nezodpovědného obchodování v simulovaných účtech. Všechna tato dodatečná pravidla s podrobnými vysvětleními jsou dostupná zde. 
+
+Did this answer your question?
+😞😐😃
+What is E8 One Crypto?
+Pravidla SimFi™ Challenge
+Pravidla SimFi™ Performance
+Obchodování makroekonomických zpráv
+Existuje pravidlo konzistence?
+Kopírování obchodů
+Jaká je dostupná páka?
+Další obchodní pravidla
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Products & Rules
+Legacy products
+E8 Signature Crypto
+E8 Signature Crypto
+June 29, 2026
+
+What is E8 Signature Crypto?
+This is our 1-Step challenge - designed exclusively for crypto traders who value speed, clarity, and control.
+
+ 
+
+SimFi™ Challenge rules
+6% Profit Target - Closed profit in your simulated trading account.
+
+Unlimited Trading Days - There is no time limit but you need to place and close at least one trade each 60 days.
+
+EOD Dynamic drawdown – A moving loss limit based on your highest end-of-day balance. It only updates once per day at market close (intraday equity swings do not move it). It locks permanently at the initial balance level.
+​
+$1,000  EOD - $25,000 account
+$2,000 EOD - $50,000 account
+
+$3,000 EOD - $100,000 account
+
+$4,500 EOD - $150,000 account
+
+
+SimFI™ Performance rules
+You will get to the SimFI™ Performance stage once you complete SimFi™ Challenge account by following all rules and reaching the profit target. Users who follow the guardrails and comply with rules and guidelines are eligible to receive 80% of their trading performance and request a payout.
+
+ Unlimited Trading Days – There is no time limit but you need to place and close at least one trade every 60 days.
+
+ 2% Daily pause - A soft daily loss limit based on your starting balance of the day. If your floating or closed loss reaches 2%, trading stops until the next day. Your account is not breached. it simply pauses and resets at midnight.
+
+EOD Dynamic drawdown – A moving loss limit based on your highest end-of-day balance. It only updates once per day at market close (intraday equity swings do not move it). It locks permanently at the initial balance level.
+​
+$1,000  EOD - $25,000 account​
+$2,000 EOD - $50,000 account
+
+$3,000 EOD - $100,000 account
+
+$4,500 EOD - $150,000 account
+
+Criteria for the payout:
+Payout requests can be submitted once you fulfill all of the payout requirements. If you are unable to fulfill one of the following rules, you won´t be able to request your payout.
+
+ 
+
+35% Best Day rule - With a 35% best-day rule, you must ensure that no single trading day exceeds more than 35% of your total generated profits.
+
+Minimum payout is $100.
+​
+Amounts are taken from your net profit. Meaning, with 80% payout, you need to request at least $125.
+
+Minimum profitable days between each payout: 5 (does not apply for first payout)  
+
+A profitable day is considered as a day where the realized closed PnL equals to 0.3% or more.
+
+You also have to achieve profitable days between each payout cycle. After requesting a payout, your previously achieved profitable trading days will reset to 0.
+​
+$75 - $25,000 account
+$150 - $50,000 account
+$300 - $100,000 account
+$450 - $150,000 account
+
+Payout buffer - Before you can start requesting payout, you need to leave a buffer in your account in the same size as your EOD Dynamic Drawdown. The buffer can not be requested. The reason for this is to protect trades from violating EOD by requesting full profit from the account.
+​
+If your EOD is 3% and your initial balance $100,000, the buffer is $3,000. 
+
+Payout caps - Payout caps determine the maximum amount you can request in a single payout.
+
+ 
+
+A full explanation can be seen in this article.
+
+Trading hours
+Please note that on E8 Signature Forex and E8 Signature Crypto, all positions are closed by 23:00 Server time, and trading re-opens at 00:15 Server time.
+​
+
+News trading 
+You can trade news on E8 Signature Forex without any restrictions (This includes SimFi™ challenge account (phase-1) and SimFI™ performance Account)
+
+E8 Markets offers a simulated environment that is designed to replicate real-market data and trading conditions; just as slippage is a factor in a real market, it is also present within our simulated environment. Therefore, we recommend that users avoid trading during high-impact news releases.
+​
+More information can be accessed in the article here. 
+
+ 
+
+Copy trading rules
+E8 Markets allows copy trading across all accounts, including SimFi™  challenge and SimFI™  Performance accounts or personal accounts, as long as these accounts belong to you.
+​
+
+What is the available leverage?
+Bitcoin 1:5
+Ethereum 1:5
+Other Crypto instruments 1:2
+​
+
+Other trading rules
+There are other rules regarding the Hedging policies, all-or-nothing Trading and Irresponsible Trading in Simulated Accounts. All these additional rules with detailed explanations can be accessed here.
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+What is E8 Signature Crypto?
+SimFi™ Challenge rules
+SimFI™ Performance rules
+Criteria for the payout:
+Trading hours
+News trading
+Copy trading rules
+What is the available leverage?
+Other trading rules
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Everything about Payouts (When, How, How fast..)
+Everything about Payouts (When, How, How fast..)
+What are the payout methods? How fast can you receive them? This is the article
+
+Updated over a week ago
+When?
+Payouts can be requested only in the SimFi™ Performance stage. Generally, there is no fixed schedule, no unnecessary waiting, with our programs, you can request daily or anytime, as long as all on-demand requirements, such as Best day, are fulfilled.
+
+
+Full on-demand rules can be found  here: E8 one, E8 Crypto, E8 Signature
+
+With on-demand rules on products such as E8 One or E8 Signature, the earliest first payout can be requested is 3 days from the start of your trading period in the performance stage. This is not a separate waiting rule - it is simply how the Best Day Rule works in practice, as 3 days is the fastest the math can work in your favour.
+
+On-demand does not apply to E8 Pro and E8 Zero models, as these products have daily payouts. With E8 Pro, the minimum is 1%, and with E8 Zero, it's $100.
+
+
+Who?
+At  this moment, payouts are processed through our third-party providers, such as:
+
+WorkMarket - this option provides fast bank transfers to your account.
+​
+
+Rise - With Rise, you have the quickest and most flexible solution for onboarding and making global payments in either cash or cryptocurrency, all accessible from a single platform.
+
+To receive the payout, you need to be allowed to onboard by WorkMarket or Riseworks
+
+​WorkMarket supported countries
+
+​Rise unsupported countries and unsupported States or Territories in the USA
+
+ 
+
+If you can't undergo WorkMarket and Riseworks KYC, we cannot provide you with a payout payment. There are no direct crypto payment solutions, and all payouts can be processed only through our partners.
+
+ 
+
+We don’t charge any commissions or fees for payouts, but the processor of the payouts may charge depending on the option you are using.
+
+ 
+
+How?
+Payouts can be requested within the SimFi performance stage directly from the dashboard, as you can see below.
+​
+
+
+Once you are eligible for a payout, the request payout button will light up. If you are unable to click on it, it is most likely due to not fulfilling all your requirements. For such an unfinished objective, you will see the status as "pending" in the Payout overview within your dashboard.
+​
+
+Please note that the minimum payout that you can request with every product type is $100.
+​
+Amounts are taken from your payout %. Meaning, with 80% payout, you need to request at least $125.
+
+ 
+
+Canceling payout
+Made a mistake on your payout request? As long as our team has not yet confirmed it or sent you an invitation to Rise/WorkMarket, you can cancel the request and resubmit with the correct amount and provider.
+​
+This request is possible once per 24 hours on your account.
+
+
+ 
+
+Payout progress can be tracked in the Payout history of your dashboard. If the payout is only in stage 1 of the request, the payout can be canceled.
+
+
+ 
+
+How fast?
+Let's take a look at our two main median payout stats (January 1 – May 1, 2026):
+
+11 hours from Payout request to approval by our team (you can start trading after approval)
+
+24 hours from payout request to funds arriving in your Rise or Workmarket account
+
+This means that:
+
+50% of all payouts are approved within 11 hours
+
+Payments for 50% of all payouts are received by users within 24 hours
+
+What is important to know is that these are median times. The overall process can also take up to 5 business days sometimes, and the length of the process may depend on various factors such as:
+
+Day of request (During the weekend, payouts are not being processed)
+
+Onboarding time of the user (Make sure that everything is done on your side within your Rise/Workmarket account)
+
+individual characteristics (Rise/Workmarket may request additional information)
+
+Full Process for Payout Request:
+
+After your request payout, we will send you an invitation link for WorkMarket / Riseworks.io
+
+When you receive an invitation, you need to sign and fill out the necessary documents like PSA agreements, fill out Tax information, and you might be required to provide additional KYC information like proof of address.
+
+After everything is processed and approved by our partners, we will send the payment to your Rise/Workmarket account.
+
+What if my Rise/Workmarket accounts are already verified?
+
+If this is your first payout and you already have a Rise/WorkMarket account, simply follow the steps via the onboarding link to connect your account on Rise/WorkMarket that we will send trough an email. 
+
+If you have already received a payout with us before, you can skip the previous steps and simply wait for the payment that will arrive into your Rise/Workmarket account.
+
+The length of time it takes to receive money from the Rise / Workmarket account depends on the payment method you choose. Crypto payments through Rise will be faster than Wire Transfer from Workmarket, for example.
+
+ 
+
+Do I need to leave Buffer in the account when requesting a payout?
+Since the payout amount you are requesting is being deducted from the Performance account, in certain situations and products, it is crucial to leave a buffer; otherwise, your Dynamic/EOD/Static drawdowns might be negatively affected.
+
+ 
+
+E8 One - Yes, in specific situations, it is better to leave a buffer in the account. There is a dedicated article explaining the whole process. Article.
+​
+E8 Pro - Thanks to the built-in payout mechanism on these accounts, there is no need to leave a buffer, and you can always request as much as the account allows you.
+​
+​Note:  Daily Drawdown or Daily Pause is never affected by payout requests. Once the payout is requested, those limits are calculated from your new balance.
+
+
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+ 
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+When?
+Who?
+How?
+Canceling payout
+How fast?
+Do I need to leave Buffer in the account when requesting a payout?
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Payout request on E8 One and E8 One Crypto
+Payout request on E8 One and E8 One Crypto
+Updated over 3 weeks ago
+Before you request a payout from E8 One or E8 One Crypto accounts, you should understand the mechanism behind Dynamic Drawdown and how it can affect your limits, because in certain situations, you need to leave a buffer in the account.
+
+
+​Payout request:
+
+Any payout amount you request is deducted from your account balance, but your Dynamic Drawdown loss level does not reset and stays on the same level as before the payout request.
+
+ 
+
+If your profit >= Dynamic Drawdown value, you can request a full payout; however, you must leave a drawdown buffer (the gap between your current balance and your Dynamic Drawdown loss level) to keep your Performance Account active.
+
+Coach Play: Never request 100% of your available performance during payout. 
+
+
+A good rule of thumb: leave at least 2–3% in the account after every payout. You ensure you have enough reserve for error to continue trading the next day without hitting your Dynamic Drawdown levels.
+
+Numbers in Context
+Calculation: Current Available Drawdown − Payout Amount = New Remaining Buffer.
+​Calculation: $6,000 available drawdown − $4,000 payout = $2,000 remaining buffer.
+
+
+​Example with 6% Dynamic Drawdown and $100,000 Initial balance:
+
+Scenario
+
+Balance before Payout
+
+Payout Amount
+
+New Balance
+
+Loss Level
+
+Buffer Remaining
+
+Profit below 6%
+
+$104,000
+
+$4,000
+
+$100,000
+
+$98,000
+
+✅ $2,000
+
+Safe Payout
+
+$106,000
+
+$3,000
+
+$103,000
+
+$100,000
+
+✅ $3,000
+
+Risky Payout
+
+$106,000
+
+$5,000
+
+$101,000
+
+$100,000
+
+⚠️ $1,000
+
+Full Payout
+
+$106,000
+
+$6,000
+
+$100,000
+
+$100,000
+
+❌ FAILED
+
+Note: If the profit is below the Dynamic Drawdown amount (6% in this example), you can always request a full payout without violating the account. However Loss level of the Dynamic Drawdown won't reset even after payout. 
+
+ 
+
+
+​
+
+Did this answer your question?
+😞😐😃
+Numbers in Context
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Payout request from E8 Pro Forex and E8 Pro Crypto
+Payout request from E8 Pro Forex and E8 Pro Crypto
+Updated over 3 weeks ago
+Once moved to the Performance stage of your E8 Pro challenge, there are no Payout caps, Consistency rules, and traders can request payouts daily; however, traders must be aware of the specific payout mechanism on E8 Pro Forex and E8 Pro Crypto.
+
+ 
+
+Quick explanation (Read this first)
+When you request the first payout, the static drawdown is moved to the initial balance level
+
+When you request a payout, 50% is your payout, and 50% is kept in the account as a buffer.
+
+ 
+
+Numbers and examples
+Payouts are available daily, with a minimum profit requirement of 1%  - making it easy to request payouts regularly. The built-in 50% buffer mechanism ensures that requesting a payout will never put your account at risk of a drawdown violation, as half of your profits always remain in the account as protection. 
+​
+​Let's take a look at an example with a $100,000 account and 100% payout share:
+
+ 
+
+Scenario
+
+Balance
+
+Payout (50%)
+
+Buffer (50%)
+
+Balance after payout
+
+Day 1
+
+Profit $2,000
+
+$102,000
+
+-
+
+-
+
+-
+
+Day 2
+
+Profit $2,000
+Payout request
+
+$104,000
+
+$2,000
+
+$2,000
+
+$102,000
+
+Day 3
+
+Profit $1,000
+Payout request
+
+$103,000
+
+$1,500
+
+$1,500
+
+$101,500
+
+Day 4
+
+loss  $1,000
+
+$100,500
+
+ -
+
+ -
+
+ -
+
+Day 5
+
+Profit $2,000
+
+$102,500
+
+-
+
+-
+
+-
+
+Day 6
+
+Profit $2,000
+Payout request
+
+$104,500
+
+$2,250
+
+$2,250
+
+$102,250
+
+Observation from the example above:
+
+In just 6 days, the trader requested 3 payouts, with an amount of $5,750 while maintaining a solid buffer at all times.
+
+Payouts can be requested daily, as long as at least 1% profit has been made since the last payout cycle.
+
+A minimum of 1% profit is required between each payout cycle. In this example, the losing day on Day 4 meant the trader needed to recover to 2% profit before becoming eligible for the next payout.
+
+After your first payout, the Static Drawdown loss level is permanently set to your initial balance level -  meaning the 50% buffer left in your account always serves as your available drawdown protection.
+
+ 
+
+Another example with 80% payout share and $50,000 account:
+
+ 
+
+With every payout, your profits are split into two equal halves:
+
+50% is paid out to you
+
+50% remains in the account as a drawdown buffer
+
+Your payout share (80% - 100%) determines how much of that 50% payout portion you actually receive.
+
+Initial balance: 
+
+$50,000
+
+Payout: 
+
+80%
+
+Profits: 
+
+$5,000
+
+Payout mechanism
+
+ 
+
+50% - Payout
+
+$2,500
+
+You keep 80% of it
+
+$2,000
+
+50% - Remaining Drawdown buffer
+
+$2,500
+
+Balance after payout 
+
+$52,500
+
+ 
+Note: The 50% buffer kept in your account is still entirely yours. It counts toward your total performance (profits) in the next payout cycle - it is simply held back to ensure you always maintain a healthy drawdown buffer. This mechanism is designed to prevent accidental violations and encourage responsible profit management, rather than requesting everything at once.
+
+Did this answer your question?
+😞😐😃
+Quick explanation (Read this first)
+Numbers and examples
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Payout rules (On-Demand)
+What is Payout On Demand?
+What is Payout On Demand?
+Updated over 2 weeks ago
+Most platforms make you wait. Payout On Demand does not.
+​
+Once you reach the SimFi Performance Account stage on E8 Signature and meet the eligibility conditions, you can request a payout at any time - no fixed schedule, no unnecessary waiting.
+
+
+​Payout On Demand was introduced to reward the right trading behaviours:
+
+Consistent performance over time
+
+Disciplined risk management
+
+Clean, verifiable performance data
+​
+
+How it works:
+To take advantage of the Payout On Demand feature, you must satisfy a few rules (which vary depending on the product you have chosen). 
+
+ 
+
+ 
+
+On demand for For the E8 One & E8 One Crypto:
+ 40% Best Day rule:  With a 40% best-day rule, you must ensure that no single trading day exceeds more than 40% of your total generated profits.
+
+ 
+
+Your net profit (payout) must be greater than 50% of your daily drawdown.
+
+ 
+
+Example: If you have a $100,000 account and your daily drawdown is 4%, the minimum amount required for a payout is $2,000.01
+
+The earliest first payout (E8 One) can be requested is 3 days from the start of your trading period in the performance stage. This is not a separate waiting rule - it is simply how the Best Day Rule works in practice, as 3 days is the fastest the math can work in your favour.
+
+On-demand does not apply to E8 Pro and E8 Zero models, as these products have daily payouts. With E8 Pro, the minimum is 1%, and with E8 Zero, it's $100.
+
+ 
+
+On demand rules For the E8 Signature Forex, E8 Signature Crypto, E8 Signature Futures:
+ 
+
+35% Best Day rule: With a 35% best-day rule, you must ensure that no single trading day exceeds more than 35% of your total generated profits.
+
+ Minimum payout is $100.
+​
+Amounts are taken from your net profit. Meaning, with 80% payout, you need to request at least $125.
+
+Minimum profitable days between each payout: 5 (does not apply for first payout)  
+
+A profitable day is considered as a day where the realized closed PnL equals to 0.3% or more.
+
+You also have to achieve profitable days between each payout cycle. After requesting a payout, your previously achieved profitable trading days will reset to 0.
+
+Payout buffer: Before you can start requesting payout, you need to leave a buffer in your account in the same size as your EOD Dynamic Drawdown.The buffer can not be requested. The reason for this is to protect trades from violating EOD by requesting full profit from the account.
+​
+If your EOD is 4% and your initial balance $100,000, the buffer is $4000. 
+
+Payout caps -Payout caps determine how much you can request in a single payout.
+
+Account size
+
+$25,000
+
+$50,000
+
+$100,000
+
+$150,000
+
+1. Payout 
+
+$1,000
+
+$1,250
+
+$2,250
+
+$3,250
+
+2. Payout 
+
+$1,000
+
+$1,250
+
+$2,250
+
+$3,250
+
+3. Payout 
+
+$1,250
+
+$2,250
+
+$3,250
+
+$4,250
+
+4. Payout  
+
+$1,250
+
+$2250
+
+$3,250
+
+$4,250
+
+5. payout
+
+$1,500
+
+$3,250
+
+$4,250
+
+$5,250
+
+A full explanation can be seen in this article.
+
+The earliest first payout (E8 Signature/ E8 One) can be requested is 3 days from the start of your trading period in the performance stage. This is not a separate waiting rule - it is simply how the Best Day Rule works in practice, as 3 days is the fastest the math can work in your favour.
+
+Did this answer your question?
+😞😐😃
+How it works:
+On demand for For the E8 One & E8 One Crypto:
+On demand rules For the E8 Signature Forex, E8 Signature Crypto, E8 Signature Futures:
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Payout rules (On-Demand)
+40% Best Day Rule
+40% Best Day Rule
+July 2, 2026
+
+This rule is available for  E8 One, E8 One Crypto in the Performance stage. 
+
+ 
+
+With a 40% Best Day Rule, you must ensure that no single trading day exceeds more than 40% of your total generated profits.
+​
+
+Why it exists (your upside): Whether you are trading simulated capital with E8 or your own capital elsewhere, consistency is the only thing that scales. This rule protects you from the "one-hit wonder" syndrome, helping you develop the discipline needed to manage performance accounts over the long term and building the track record that payout eligibility is based on.
+​
+
+Quick Explanation (Read this first)
+Your top profit day (Best day) must be no more than 40% of your total profit for the period you want to request a payout.
+
+If one day exceeds this limit, you don't lose your account; you simply need to continue trading to increase your total profit.
+
+Plain English: you need to stay consistent: if you have one massive profit day, you'll just need to keep trading and making steady gains until that big day no longer makes up more than 40% of your total. Ideally, if you make a similar amount three days in a row, you can request a payout in just 3 days.
+
+Numbers in context
+Fast math: If your best day = $1,000, total profit must be ≥ $1,000 ÷ 0.40 = $2,500 before you request.
+​
+​A) Payout Request is possible
+
+ Day 1
+
++$500
+
+ Day 2
+
++$550
+
+ Day 3
+
+-$150
+
+ Day 4
+
++$600 (Best Day)
+
+Day 5
+
++$400
+
+Total profit
+
+$1,900
+
+40% of Total profit ($1,900 × 0.40)
+
+$760 
+
+Best Day 
+
+$600 Eligible for Payout (Below $760)
+
+Note: The best day is lower than 40% of the total profit
+​
+​B) Payout Request is not possible 
+
+ Day 1
+
++$1,100
+
+ Day 2
+
++$1,500  (Best Day)
+
+ Day 3
+
++$900
+
+ Day 4
+
+-$400
+
+Total profit
+
+$3,100
+
+40% of Total profit ($3,100 × 0.40)
+
+$1,240 
+
+Best Day
+
+$1,500  Ineligible (Above $1,240)
+
+ 
+ Note: In Scenario B, the trader simply needs to keep trading (without increasing the current best day) until their Total Profit reaches $3,750 ($1,500 ÷ 0.40).
+
+ 
+
+40% best day rule explanation graphic/picture
+ 
+
+How to use the Dashboard to your advantage
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your payout overview, and hover over the (i) icon in the best day rule section, and you will be able to check:
+​
+1. What is the total amount of profits your account must reach.
+2. How much is remaining to fulfill the best day rule. 
+
+Help for Best Day Rule in Dashboard Payout overview
+Intentionally attempting to bypass the Best Day Rule by splitting a large winning position through hedging or partial closures is not allowed and may result in all profit from that position being consolidated into a single day.
+
+ 
+
+Example: Partially closing a large winning position across multiple days. It may be viewed as an attempt to bypass the rule, especially if the profit is generated during a single-day market movement.
+
+ 
+
+Example: Opening several positions on a given instrument on one day and closing them across multiple days. Such positions may be considered a single trade idea. It may be viewed as an attempt to bypass the rule, especially if the trade idea capitalizes on a single-day market movement.
+
+ 
+
+Example: Immediate opening, closing and re-opening a position held across multiple days. It may be viewed as an attempt to bypass the rule because such positions are considered a single trade idea with identical market exposure.
+
+ 
+
+ 
+
+ 
+
+Best day after payout
+ 
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Payout rules (On-Demand)
+Payout caps and buffers for E8 Signature explained
+Payout caps and buffers for E8 Signature explained
+July 15, 2026
+Payout caps and buffers are part of the payout requirements on the performance stage of E8 Signature Forex, E8 Signature Crypto, and E8 Signature Futures products.
+
+ 
+
+Payout buffer:
+​
+
+Before you can start requesting a payout, you need to leave a buffer in your account of the same size as your EOD Dynamic Drawdown. The buffer is in place to protect traders from violating EOD by requesting full profit from the account, and no matter how many payouts you request, the buffer will always stay there.
+​
+
+Payout caps:
+
+ 
+
+Payout caps determine the maximum you can request in a single payout.
+
+Account size
+
+$25,000
+
+$50,000
+
+$100,000
+
+$150,000
+
+1. Payout 
+
+$1,000
+
+$1,250
+
+$2,250
+
+$3,250
+
+2. Payout 
+
+$1,000
+
+$1,250
+
+$2,250
+
+$3,250
+
+3. Payout 
+
+$1,250
+
+$2,250
+
+$3,250
+
+$4,250
+
+4. Payout  
+
+$1,250
+
+$2,250
+
+$3,250
+
+$4,250
+
+5+ Payout
+
+$1,500
+
+$3,250
+
+$4,250
+
+$5,250
+
+
+You can see the balance requirement for each account size and payout cycle in the tables below.
+​
+
+Please note that the last column in the following tables represents the minimum balance needed for the maximum payout you can request for each payout cycle, and you can still request with less balance as long as you fulfill the buffer requirements and minimum payout amounts.
+
+ 
+
+Balance requirement for first and second payout requests
+
+Account size
+
+Buffer 
+
+Maximum available payout request (Payout cap)
+
+Minimum balance needed for maximum payout request
+
+$25,000
+
+$1,000
+
+$1,000
+
+$27,000
+
+$50,000
+
+$2,000
+
+$1,250
+
+$53,250
+
+$100,000
+
+$3,000
+
+$2,250
+
+$105,250
+
+$150,000
+
+$4,500
+
+$3,250
+
+$157,750
+
+ 
+
+Balance requirement for third payout requests
+
+Account size
+
+Buffer 
+
+Maximum available payout request (Payout cap)
+
+Minimum balance needed for maximum payout request
+
+$25,000
+
+$1,000
+
+$1,250
+
+$27,250
+
+$50,000
+
+$2,000
+
+$2,250
+
+$54,250
+
+$100,000
+
+$3,000
+
+$3,250
+
+$106,250
+
+$150,000
+
+$4,500
+
+$4,250
+
+$158,750
+
+Balance requirement for fourth payout requests
+
+Account size
+
+Buffer
+
+Maximum available payout request (Payout cap)
+
+Minimum balance needed for maximum payout request
+
+$25,000
+
+$1,000
+
+$1,250
+
+$27,250
+
+$50,000
+
+$2,000
+
+$2,250
+
+$54,250
+
+$100,000
+
+$3,000
+
+$3,250
+
+$106,250
+
+$150,000
+
+$4,500
+
+$4,250
+
+$158,750
+
+Balance requirement for the fifth and future payout requests
+
+Account size
+
+Buffer 
+
+Maximum available payout request (Payout cap)
+
+Minimum balance needed for maximum payout request
+
+$25,000
+
+$1,000
+
+$1,500
+
+$27,500
+
+$50,000
+
+$2,000
+
+$3,250
+
+$55,250
+
+$100,000
+
+$3,000
+
+$4,250
+
+$107,250
+
+$150,000
+
+$4,500
+
+$5,250
+
+$159,750
+
+On E8 Signature Futures, there is a maximum number of payouts per account: 5. This is the same rule as on E8 Zero, and this determines how many payouts you can request in total from one account. After you request 5 payouts, no matter the remaining buffer or how much you requested in total payouts, the cycle is closed, the account is deactivated, and you move on with the free Challenge of the same size. This rule applies only to the Signature Futures account purchased after 14.07.2026 20:00 UTC +2
+
+ 
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Payouts
+Payout rules (On-Demand)
+35% Best Day Rule
+35% Best Day Rule
+Updated over 3 weeks ago
+ 
+
+
+This rule is available for E8 Signature Crypto, E8 Signature Forex , E8 Signature Futures in the Performance stage. 
+
+ 
+
+With a 35% Best Day Rule, you must ensure that no single trading day exceeds more than 35% of your total generated profits.
+​
+
+Why it exists (your upside): Whether you are trading simulated capital with E8 or your own capital elsewhere, consistency is the only thing that scales. This rule protects you from the "one-hit wonder" syndrome, helping you develop the discipline needed to manage performance accounts over the long term and building the track record that payout eligibility is based on.
+​
+
+Quick Explanation (Read this first)
+Your top profit day (Best day) must be no more than 35% of your total profit for the period you want to request a payout.
+
+If one day exceeds this limit, you don't lose your account; you simply need to continue trading to increase your total profit.
+
+Plain English: You need to stay consistent: if you have one massive profit day, you'll just need to keep trading and making steady gains until that big day no longer makes up more than 35% of your total. Ideally, if you make a similar amount three days in a row, you can request a first payout in just 3 days.
+
+Numbers in context
+Fast math: If your best day = $1,000, total profit must be ≥ $1,000 ÷ 0.35 = $2,857 before you request.
+​
+Or you can multiply your Total profit
+​
+​A) Payout Request is possible
+
+Day 1
+
++$500
+
+Day 2
+
++$550
+
+Day 3
+
+-$150
+
+Day 4
+
++$600 (Best Day)
+
+Day 5
+
++$400
+
+Total profit
+
+$1,900
+
+35% of Total profit ($1,900 × 0.40)
+
+$665
+
+Best Day
+
+$600 Eligible for Payout (Below $665
+
+Note: The best day is lower than 35% of the total profit
+​
+​B) Payout Request is not possible
+
+Day 1
+
++$1,100
+
+Day 2
+
++$1,500 (Best Day)
+
+Day 3
+
++$900
+
+Day 4
+
+-$400
+
+Total profit
+
+$3,100
+
+35% of Total profit ($3,100 × 0.35)
+
+$1,085
+
+Best Day
+
+$1,500 Ineligible (Above $1,085)
+
+ 
+Note: In Scenario B, the trader simply needs to keep trading (without increasing the current best day) until their Total Profit reaches $4,286 ($1,500 ÷ 0.35).
+
+ 
+
+35% best day rule explanation graphic/picture
+ 
+
+How to use the Dashboard to your advantage
+Remember that you can always rely on your Dashboard data
+
+Go to your dashboard, check your payout overview, and hover over the (i) icon in the best day rule section, and you will be able to check:
+​
+1. What is the total amount of profits your account must reach.
+2. How much is remaining to fulfill the best day rule. 
+
+Help for Best Day Rule in Dashboard Payout overview
+Intentionally attempting to bypass the Best Day Rule by splitting a large winning position through hedging or partial closures is not allowed and may result in all profit from that position being consolidated into a single day.
+
+ 
+
+Example: Partially closing a large winning position across multiple days. It may be viewed as an attempt to bypass the rule, especially if the profit is generated during a single-day market movement.
+
+ 
+
+Example: Opening several positions on a given instrument on one day and closing them across multiple days. Such positions may be considered a single trade idea. It may be viewed as an attempt to bypass the rule, especially if the trade idea capitalizes on a single-day market movement.
+
+ 
+
+Example: Immediate opening, closing and re-opening a position held across multiple days. It may be viewed as an attempt to bypass the rule because such positions are considered a single trade idea with identical market exposure.
+
+ 
+
+Best day after payout
+
+
+​
+
+Did this answer your question?
+😞😐😃
+Quick Explanation (Read this first)
+Numbers in context
+How to use the Dashboard to your advantage
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+Trading Platforms
+Available Trading platforms
+Available Trading platforms
+Offered trading platforms for simulated trading
+
+Updated this week
+For Forex and Crypto accounts, you can choose from the following platforms, depending on your region and account type:
+
+TradeLocker
+
+MatchTrader
+
+cTrader
+
+MetaTrader 5 / MT5
+
+E8 Terminal
+
+Clients from the US are unable to use and purchase accounts on the MT5 and cTrader trading platforms. US clients can utilize only TradeLocker and MatchTrader
+
+ 
+
+ (If you do not see every trading platform in your checkout, make sure that your profile is verified. So even if you are not from the USA and you still do not see MT5, this is most likely due to not being verified.
+
+ 
+
+E8 Terminal - our own Trading platform developed for the SimFI™ experience. All features in the guide can be accessed here.
+
+TradeLocker Login Guide - Access TradeLocker through a desktop or mobile device.
+
+MetaTrader 5 Login Guide - Instructions on how to download and log in to the MetaTrader 5 across all devices. 
+
+cTrader Login Guide - Learn how to navigate the cTrader environment (note that cTrader costs an extra $10  if the account costs less than $100).
+
+Match Trader Login Guide - Access MatchTrader directly from  your E8 Dashboard
+​
+​Match Trader on Mobile - Step-by-step guide to setting up the MatchTrader on a mobile device.
+
+ 
+
+Hedging account vs netting account
+Hedging and netting are systems that platforms use to manage multiple trades on the same instrument. Right now, all Forex and Crypto Challenges and Performance accounts are using a hedging system, while Futures and Perpetual Futures products are using a netting system. 
+
+With the Netting system, if you hold a position and open a new position in the opposite direction with the same volume, the new position will effectively cancel out the original position.
+
+With the hedging system, if you open a buy position for EUR/USD with a volume of 1 and later on you open a sell position for the same instrument, same size, both positions are active, resulting in 1 lot of EUR/USD bought and 1 lot sold, effectively locking the trader's positions. If you later open another position in the same direction as the initial buy, a new order will appear in the Trade section, reflecting the new price and volume.
+
+Note: Apart from the Hedging system, there is also a Hedging strategy with the same logic. While the platform allows multiple positions, opening equal Long and Short trades on the same instrument across multiple accounts is strictly prohibited. You are only permitted to hedge positions within the same single Challenge or Performance account.
+​
+
+Did this answer your question?
+😞😐😃
+Hedging account vs netting account
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Are there currently any discounts?
+Are there currently any discounts?
+Discounts , promos , giveaways , Tournaments
+
+Updated this week
+To be up to date with our current ongoing discount codes and promotions, we highly recommend that you follow us on social media platforms like Platform X or our Instagram.
+​
+If you are not part of our Discord community, join now! Every week, you can participate in events where you can obtain special discount codes or a free challenge.
+
+You can always rely on our all-around discount code "E8" which is always available, but if you are looking for all or better offers, please follow our current promotion offer on this website.
+
+How to redeem a discount code?
+Why is my discount code not working?
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What broker do I trade with?
+What broker do I trade with?
+Simulated Trading feed
+
+Updated this week
+E8 Markets is not a broker and does not accept users' deposits. E8 Markets provides a structured simulation environment for individuals seeking to develop trading skills and demonstrate performance under defined conditions.
+​
+E8's simulated environment is powered by real market data from third-party institutional data providers. Market data for Futures products is sourced directly from CME (Chicago Mercantile Exchange). If you are trading Perpetual Futures, the feed and market data are taken directly from HyperLiquid. 
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What are the contract sizes?
+What are the contract sizes?
+Updated over 3 weeks ago
+Contract size, indicating the number of units bought or sold in a single nominal lot, varies by instrument type (e.g., Forex: 100,000 units; indices: 5-500 units) and is crucial for calculating risk management and expectancy; refer to our Trading symbol list to accurately set take-profits and stop-losses, where you find all details. 
+
+XAUUSD contract size - 100 - you will lose or make 100 dollars per 1 dollar movement (1 lot)
+
+
+﻿US30 / NAS100 contract size - 5 - you will lose or make 5 dollars per 1 dollar movement (1 lot)
+
+
+﻿SP500 contract size - 20 - you will lose or make 20 dollars per 1 dollar movement (1 lot)
+
+Example:
+There is an order of 5 lots on XAUUSD where the open price is 4324.00, and the close price is 4326.40; the total profit is 1200 USD.
+​
+​Calculation:
+The total movement: 2.4 USD
+Contract size:100
+Number of lots: 5
+​
+2.4 (Movement in USD)  * 100 (Contract size) * 5 (Number of lots)= 1200 USD
+​
+​
+​
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Server time
+Server time
+March 13, 2026
+Due to Daylight Saving Time, at the beginning of spring and at the end of autumn, the Server time is being changed. The Server time is being changed to UTC + 2 at the beginning of November and to UTC + 3 at the end of March
+
+ 
+
+ 
+
+Currently, the server time is set to UTC + 3
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Server time
+Server time
+March 13, 2026
+Due to Daylight Saving Time, at the beginning of spring and at the end of autumn, the Server time is being changed. The Server time is being changed to UTC + 2 at the beginning of November and to UTC + 3 at the end of March
+
+ 
+
+ 
+
+Currently, the server time is set to UTC + 3
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Account reset
+Account reset
+Updated over 3 weeks ago
+If you have failed one of your accounts at any stage, you are eligible for a 10% discount to restart your journey from the Challenge phase.
+﻿​﻿
+﻿This option will appear in your dashboard once you fail one of your accounts.  When you locate the account you have failed, simply click on the retry button. This will generate a new order with the applied discount code, for which you can immediately pay and start your journey from the challenge phase again. 
+﻿​﻿
+﻿This 10% discount will be set for the same settings of the account you failed.
+
+ 
+
+ 
+
+How to redeem your discount reset
+ 
+
+1. login to your dashboard
+2. Go to your account overview
+
+3. Slide down to the "Closed accounts" section, where you can retry your account.
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+Important things to note:
+
+Availability: This offer is only valid for 7 days following the account failure.
+
+Consistency: The discount applies to the same account size and settings as the failed account.
+
+Existing Orders: If you already clicked the button, your discounted invoice is waiting in your Order List.
+
+Did this answer your question?
+😞😐😃
+How to redeem your discount reset
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What is the Custom Account?
+What is the Custom Account?
+Meet the ultimate E8 tailor-made product
+
+Updated this week
+Custom Account helps our traders to tailor their challenges according to their preferences and requirements.
+
+
+
+You have a choice of several elements that you can customize to create a unique product according to your liking. Like before, you can choose the platform and account size, but now you can, in addition, choose the size of your drawdowns, profit targets, and even the payout. Forex accounts will also allow you to choose between raw spread and no commission accounts.
+​
+The price of a custom account is influenced by account size, payout and drawdown. Generally, a larger size, drawdown, or payout the higher is price of the account.
+​
+It is also important to note that the size of the drawdown affects the size of the profit target - bigger drawdown = bigger profit target.
+​ 
+
+Parameters for E8 One:
+1. Balance: $5,000, $10,000, $25,000, $50,000, $100,000, $200,000, $400,000  $500,000.
+​
+2. Drawdown limits:
+​
+Daily drawdown:  3%, 4%, 5.3%, 6.6%,  9.2%
+
+Dynamic drawdown: 4%, 6%, 8%, 10%, 14%
+
+
+3. Profit Target (This can not be modified by itself; it is changed when you are modifying drawdown parameters):
+​
+​6%, 9%, 12%, 15%, 21%
+​
+4. Payout:  80 %, 90%,  100 %
+
+ 
+
+Parameters for E8 Zero:
+1. Balance: $50,000, $100,000,  $200,000
+​
+2. Payout 80%, 100%
+​
+All parameters like EOD Dynamic Drawdown and Profit target for E8 Zero accounts are already set. You can only choose the platform and size and between E8 Zero MAx or E8 Starter version. 
+
+ 
+
+Parameters for E8 Pro:
+​All parameters like Static Drawdown, Payout, and Profit target for E8 Pro accounts, are already set. You can only choose the platform, size, and % Payout. 
+
+ 
+
+Balance: $5,000, $10,000 $25,000, $50,000, $100,000,  $150,000, $200,000, $400,000, $500,000
+
+ 
+
+Static Drawdown: 6%, 8%, 10%
+
+ 
+
+ Profit Target (This can not be modified by itself; it is changed when you are modifying drawdown parameters): 6%, 8%, 10%
+
+ 
+
+Payout:  80 %, 90%,  100 %
+
+ 
+
+Parameters for E8 Signature:
+Balance: $25,000, $50,000, $100,000,  $150,000,
+
+ 
+
+Repeat Previous Order
+Our dashboard now features a Repeat Previous Order function. You can skip the setup, save time, and recreate any previous order instantly with a single click.
+
+
+ 
+
+How does customization work?
+In case you have selected the wrong platform, accidentally chose non-commission instead of raw spreads, or you selected wrong parameters that does not suit you our team is able to help you transfer to proper account settings, if you did not start trading. For that request, kindly contact us at support@E8markets.com.
+
+
+Base price table for accounts
+
+E8 One (Forex/Perpetual):
+
+Account balance
+
+$5,000
+
+$10,000
+
+$25,000
+
+$50,000
+
+$100,000
+
+$200,000
+
+$400,000
+
+$500,000
+
+Pre-set pricing
+
+$48
+
+$88
+
+$188
+
+$288
+
+$488
+
+$798
+
+$1598
+
+$1998
+
+Pre-set pricing for E8 One is a standard configuration at checkout, with an 80% payout, 6% Dynamic Drawdown, and 4% Daily Drawdown, with no discount applied.
+​
+
+E8 Pro (Forex/Crypto):
+
+Account balance
+
+$5,000
+
+$10,000
+
+$25,000
+
+$50,000
+
+$100,000
+
+$200,000
+
+$400,000
+
+$500,000
+
+Pre-set pricing
+
+$32
+
+$68
+
+$148
+
+$228
+
+$488
+
+$998
+
+$2098
+
+$2598
+
+Pre-set pricing for E8 Pro is a standard configuration at checkout, with an 80% payout, 8% Static Drawdown, and 2.5% Daily Drawdown, with no discount applied.
+​
+E8 Signature (Forex/Perpetual/Futures):
+
+ 
+
+Account balance
+
+$25,000
+
+$50,000
+
+$100,000
+
+$150,000
+
+Pre-set pricing
+
+$110
+
+$150
+
+$260
+
+$390
+
+Pre-set pricing for E8 Signature is a standard configuration at checkout, with a 80% payout, with no discount applied.
+​
+
+E8 Zero (Futures):
+
+Account balance
+
+$50,000
+
+$100,000
+
+$100,000
+
+Pre-set pricing Zero Starter
+
+$178
+
+$278
+
+$558
+
+Pre-set pricing Zero Max
+
+$328
+
+$588
+
+$1088
+
+Pre-set pricing for E8 Zero is a standard configuration at checkout, with a 80% payout, with no discount applied.
+
+All fees are one-time fees. There is no activation fee or subscription fee. Remember that the price depends on various factors. If you, for example, choose the swap-free option (not for futures), it will add 10% to the final account of the price. If you increase the payout %, or Drawdown, the price for the account will go up. Also, cTrader costs an extra $10 if the account costs less than $100.
+​
+Full pricing of each configuration can be seen at checkout or on our website
+
+ 
+
+Did this answer your question?
+😞😐😃
+Parameters for E8 One:
+Parameters for E8 Zero:
+Parameters for E8 Pro:
+Parameters for E8 Signature:
+Repeat Previous Order
+Base price table for accounts
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Can I Merge multiple accounts?
+Can I Merge multiple accounts?
+Do we allow merging?
+
+Updated over a week ago
+You can merge 2 or more SimFi™ Performance accounts with the same product setup before you start trading on them. SimFi™  Challenge accounts can not be merged.
+
+ 
+
+Please note that E8 Signature and E8 pro products can not be merged. 
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Do you offer certificates for passing your challenge?
+Do you offer certificates for passing your challenge?
+How can you access your Performance Certificate?
+
+Updated over 3 weeks ago
+We believe that every milestone or progress, no matter how small, should be celebrated with your friends, family, or community. This is why we offer a variety of certificates that show and prove your achievements, such as:
+​
+
+1. Certificate for passing the Challenge account
+Upon the completion of the SimFi™ Challenge account, you can download your certificate from the account overview section in your dashboard. The certificate is not immediately accessible after completing the profit target. You can access it only if your SimFi™ Performance account is created, which usually takes 30-120 minutes after finishing the Challenge stage.
+
+ 
+
+
+ 
+
+ 
+
+2. Payout certificate and Total Payout certificate
+To claim your payout certificates either for a payout on a specific account or a total payout requested with E8, navigate to the Payout History section of your dashboard. From there, you can download a certificate for each payout milestone achieved in your accounts.
+
+ 
+
+
+ 
+
+ 
+
+Validation of each certificate
+Each certificate comes with a unique QR code and number. Thanks to this, you can verify if the certificates you see from other users are valid and their achievements are not fabricated.
+
+ 
+
+
+Did this answer your question?
+😞😐😃
+1. Certificate for passing the Challenge account
+2. Payout certificate and Total Payout certificate
+Validation of each certificate
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+How to properly secure my account?
+How to properly secure my account?
+2FA security and changing Trading Platform password.
+
+May 28, 2026
+As a user who wants to become a performance trader, you should pay close attention to the security. Users are responsible for ensuring that no one gets into their accounts. Users should not share their login credentials with anyone else.
+​
+Setting up 2FA adds an extra layer of protection and will ensure that only you have access to your data and credentials.
+
+
+If you have any suspicion that someone is using your account, please let us know as soon as possible. Late complaints will not be accepted. You can be sure that your credentials and account details are safe with us.
+
+ 
+
+ 
+
+How to set up 2FA:
+First, log in to your dashboard and then go to account settings.
+
+Then click on the User settings.
+
+
+In the upper right corner, turn on your two-factor security.
+
+After that, you can scan the QR code below with an authentication application, such as Google Authenticator (Or enter the code below).
+
+
+In the last step, you need to type the code created by the authenticator app, and your 2FA is set up.
+​
+
+
+(This is only an example, do not use the QR code from this picture)
+
+ 
+
+If you need to remove 2FA and you are having trouble with it, kindly contact our team at support@E8markets.com
+
+How to change the Trading Platform password.
+
+ 
+
+In the account overview (Forex in this example), you will click on the key symbol on which you want to change the Trading Platform password. Next to your password, you can see a "regenerate" button.
+
+If you want to change your Trading Platform password, you need to have 2FA security.
+
+​
+
+
+ 
+
+
+ 
+
+ 
+
+Did this answer your question?
+😞😐😃
+How to set up 2FA:
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What is the Stop-out Level?
+What is the Stop-out Level?
+Margin call & Stop-out Level
+
+May 6, 2026
+Stop Out is the point at which your Margin Level drops to a specific threshold (commonly 100% or lower), triggering the automatic liquidation of your open positions. This occurs because your remaining equity is no longer sufficient to maintain your active trades. Note that hitting stop-out is not a violation by itself, like hitting drawdown limits; however, for you as a trader, it might impact your trading if trades are unexpectedly closed.
+
+ 
+
+To clarify, opening one trade or multiple trades that will take 100% of your simulated margin is allowed, but it might result in stop-out closure.
+
+ 
+
+How to avoid hitting Stop-out?
+
+Do not trade the maximum position - Just because leverage allows you to open 25 lots on EURUSD, it does not mean you should.
+
+Monitor the margin level
+
+Set Stop loss​
+
+This article will help you determine your maximum position.
+
+For more helpful tips on Margin and its calculation, visit this article
+
+E8 Markets replicates real-market conditions within its simulated environment. Meaning the mechanics of margin logic and stop-out also apply to our Challenge and Performance accounts. Once Margin Level drops below 100%, all positions are automatically closed.
+
+ 
+
+How do I know that my position has been automatically closed due to stop-out?
+When a position is unexpectedly closed, and it is not due to hitting SL or TP, or your Drawdown rules, it might be due to the Stop-out Level. The following graphic will help you to confirm the reason behind the closure for each platform.
+
+ 
+
+MT5:
+
+
+In MT5, when you are in the History Tab, you need to first right-click and switch from "positions" to "Orders & deals" view to see the Stop-out comment.
+​
+​MTR:
+
+
+For MTR, in the Closed Positions Tab, you can find a reason for closure by hovering on the (i) button.
+
+
+​cTrader:
+
+
+cTrader is currently the only platform that will also send you a "Margin call" email and warn you about a possible stop-out event. If you act quickly, you can lower the exposure by closing your trades and avoiding hitting the stop-out level.
+
+
+​Tradelocker:
+
+
+In Tradelocker, within the Closed positions tab, the Stop Out message can be found in the "Type" column.
+
+Where to follow stop-out levels in each trading platform? (click here for more)
+ 
+
+Did this answer your question?
+😞😐😃
+How do I know that my position has been automatically closed due to stop-out?
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What is slippage?
+What is slippage?
+Check how slippage works within our simulated environment
+
+May 20, 2026
+Slippage isn't a technical glitch or a bug. It’s simply the difference between the price you expect and the price at which your trade actually closes, and it is a natural part of the market. To execute a trade, the market must have enough available volume at your chosen price. If that price is missing due to market shifts, your order fills at the next best available level. This process creates slippage, which is much more common during high volatility or low liquidity.
+
+Slippage is included in our simulated environment to replicate real-market conditions as closely as possible.
+
+ 
+
+Many beginners struggle and, unfortunately, lose significant personal capital when transitioning to a live market because they’ve only traded in "perfect" conditions. In the real world, prices move fast and liquidity shifts. That is why our SimFi™ environment incorporates real market mechanics like margin utilization, stop-out levels, and slippage -  to help traders develop skills and prepare for live markets.
+
+Possible reasons for encountering slippage
+
+Market Volatility: Fast movements. Mainly during high-impact news (CPI or FOMC Press, for example).
+
+Low Liquidity: Usually, during the market opening (rollovers) = best avoided.
+
+Gaps in the Market: This happens when the price literally jumps from one level to another. Often, during openings after the weekend or major news.
+
+Large order Volumes: Trading larger positions increases the probability of encountering slippage. 
+
+How to minimize the occurrence of slippage
+
+Avoid high volatility events: Even if we allow trading news in certain situations, it is not recommended, as these are precisely the moments with the highest probability of slippage.
+
+Order size: E8 Markets is very tolerant when it comes to position size and limits; however, we recommend that traders consider whether it is appropriate to open the maximum position allowed by the account.
+
+Focus on Liquidity hours:  The overlap between the London and New York sessions is very popular.
+
+Use Limit orders instead of Market orders: Can be very helpful to set a limit order instead of blindly jumping in with a market order. However, the position might not always be executed. 
+​
+
+While these tips will help you minimize slippage, remember that markets are unpredictable.
+​
+E8 does not reimburse, rebalance, or adjust positions affected by slippage. This applies across all SimFi accounts.
+
+
+​
+​
+​
+​
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What is Margin in trading?
+What is Margin in trading?
+Margin utilization, margin level, stop-out
+
+Updated over 3 weeks ago
+With higher leverage, you can control a larger amount of capital, but you also need sufficient margin to manage it. Margin essentially acts as collateral that is held against open positions. Leverage is a tool that helps manage larger positions than your balance alone would allow, but remember that with overleveraging, it is likely that you hit your guardrails or encounter stop-out levels.  
+
+​How does it work at E8 Markets?
+​
+Same mechanics, simulated capital. Your balance, margin requirements, stop-out, and leverage all behave identically to a live environment because our platform simulates it. 
+​
+The difference is that no real funds are deployed. E8 Markets is a SimFi™ platform, meaning the market is real, the rules are real, and your guardrails are real. The capital is not.
+
+
+Margin level vs Margin utilization
+Margin utilization and margin levels are two critical risk metrics that empower traders to manage exposure effectively. By monitoring these figures, traders can proactively avoid stop-out levels, prevent overleveraging, and also help them stay within their established Challenge or Performance guardrails.
+
+ 
+
+Margin Level 
+
+This is your "health status". It acts as a countdown to the Stop Out, showing how much "cushion" you have left before trades are closed.
+
+You can understand it as a survival score. The higher the percentage, the further away you are from being forced out of your trades.
+
+Trigger level differs based on the provider, on E8 challenges, and Performance accounts; the level is set to 100%.
+
+Margin Level Calculation and Examples (Click here for more)
+Coach Play: Keeping Margin Level between 250% - 400% indicates a strong buffer and that the positions are far away from liquidation.
+
+Note: Margin Level below 150% is a danger zone. At this point, a relatively small move against your position can trigger stop-out. Monitor closely and consider reducing exposure.
+
+Margin utilization
+
+ 
+
+Margin utilization represents the percentage of your available free margin that is currently being used to maintain open positions.
+
+Think of it as your account’s 'used space.' It tells you how much room you have left to open more positions.
+
+ 
+
+Margin Utilization Calculation and Examples (Click here for more)
+Coach Play: With 10% - 20% Margin utilization, you are trading conservatively. Most of your balance remains free, giving you flexibility to add positions.
+
+Note: Margin utilization above 80% means the majority of your balance is committed to maintaining open positions. This significantly limits your ability to react to market moves and increases stop-out risk.
+
+Stop-out Level
+Stop Out is the point at which your Margin Level drops to a specific threshold (commonly 100% or lower), triggering the automatic liquidation of your open positions. This occurs because your remaining equity is no longer sufficient to maintain your active trades. Note that hitting stop-out is not a violation by itself, like hitting drawdown limits; however, for you as a trader, it might impact your trading if trades are unexpectedly closed.
+​
+To clarify, opening one trade or multiple trades that will take 100% of your simulated margin is allowed, but it might result in stop-out closure.
+
+More information about how to detect, follow, or avoid the stop-out level can be found here.
+
+E8 Markets replicates real-market conditions within its simulated environment. Meaning the mechanics of margin logic and stop-out also apply to our Challenge and Performance accounts. Once Margin Level drops below 100%, all positions are automatically closed.
+
+ 
+
+
+Did this answer your question?
+😞😐😃
+Margin level vs Margin utilization
+Stop-out Level
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+Why are my SLs and TPs not working?
+Why are my SLs and TPs not working?
+Updated over 3 weeks ago
+If you encounter a situation where you believe that your Stop loss or take profit did not work properly, it does not necessarily mean that there is a technical problem with the trading platform, but rather:
+​
+1. Slippage - closing price differs from expected
+
+2. Spread - Stop loss triggered unexpectedly
+
+3. Spread - Take profit did not trigger
+
+4. Spread  - Limit order not activated
+​
+
+Slippage
+Your SL/TP was triggered, but at a different price than expected - the closing price differs from your set level. We have all been there: You risk $200, but the position closes at $300. That gap is slippage. Let´s take a look at the following examples.
+
+ 
+
+
+In this particular example, the SL was activated, but the closing price is different by 45 ticks.
+
+ 
+
+
+ 
+
+When looking closely at the situation, it becomes clear that there was a sudden price movement. Due to this, your position could not be closed exactly at your stop-loss of 4711.81, but instead at the next best available price level.
+
+To better understand the basic principles behind slippage, the reasons for encountering it, and how to minimize it, we prepared a detailed article that you can read here.
+
+Spread - SL triggered unexpectedly
+Your SL has been hit, but at first glance, the price is not visible in the chart, and you wonder, "How did it get closed when the price did not reach my SL?" In situations like this, a widened spread, not only during news or rollovers, might eventually trigger your SL.
+
+​Note: The chart is based on changes in bid price, and changes in ask price are not displayed. That is why it sometimes looks like the price has reached outside of the actual charts.
+
+
+In the following example above, this EURUSD sell position with SL of 1.17380 has been triggered during news. Based on the candle, it looks like the price only reached a maximum of 1.17360, but the spread increased above 2 pips, and the ask price (Spread) triggered the SL. 
+
+Spread - TP did not trigger
+The price clearly went past your take profit,  but the trade did not close. Again, this is most likely due to the logic of bid and ask price - The bid price truly went past your TP, but not the ask price at which sell positions are closed. 
+
+ 
+
+
+With the sell position shown above, it appears that the price of gold exceeded your take-profit level by more than 20 ticks. However, the spread was around 30 ticks at that time; only the bid price went past your take profit, but not the ask price.
+
+Spread  -  Buy Limit order not activated
+The same logic applies to buy limit orders. Since a buy limit order executes at the ask price, the ask price must reach your set level for the order to trigger. In the example below, the bid price moved past the order level - but the ask price did not. As a result, the order was not activated.
+​
+
+
+ Ask price vs bid price logic
+Bid price is the price you receive when you sell, while ask price is known as offer price and the price you pay if you are buying -  the difference is the spread. Theory is good, but this article explains how this can affect you from a technical standpoint.
+
+ 
+
+ 
+
+The chart is based on changes in bid price. Changes in ask price, however, are not displayed in the chart. This is why an order might trigger or close outside the visible price levels - or, on the other hand, why a pending order might not activate even if the chart looks like it touched your price level.
+​
+
+
+ 
+
+Opens at
+
+ Closes at
+
+Short / Sell
+
+Bid
+
+Ask
+
+Long / buy
+
+Ask
+
+Bid
+
+ 
+
+​
+
+Did this answer your question?
+😞😐😃
+Slippage
+Spread - SL triggered unexpectedly
+Spread - TP did not trigger
+Spread - Buy Limit order not activated
+Ask price vs bid price logic
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+July Holiday Trading Schedule
+July Holiday Trading Schedule
+July trading hours
+
+July 3, 2026
+ 
+
+Trading schedule (Forex and Crypto accounts)
+Instrument
+
+Friday - July 3rd
+
+WTI
+
+Early Close @ 20:00 (gmt+3) 
+
+BRENT
+
+Early Close @ 20:30 (gmt+3) 
+
+XAUUSD
+
+Early Close @ 20:00 (gmt+3) 
+
+XAGUSD
+
+Early Close @ 20:00 (gmt+3) 
+
+DOW
+
+Early Close @ 20:00 (gmt+3) 
+
+NIKKEI
+
+Early Close @ 20:00 (gmt+3) 
+
+NSDQ
+
+Early Close @ 20:00 (gmt+3) 
+
+SP
+
+Early Close @ 20:00 (gmt+3) 
+
+ 
+ 
+
+Trading schedule (Futures accounts)
+ 
+
+All trading changes due to upcoming holiday events on  7/03/2026 can be seen below:
+
+CME TRADING SCHEDULE 
+
+ 
+
+
+​ 
+​
+
+Did this answer your question?
+😞😐😃
+Trading schedule (Forex and Crypto accounts)
+Trading schedule (Futures accounts)
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+Skip to main content
+E8 Markets Help Center
+E8X Dashboard
+E8 Markets Website
+Futures HelpCenter
+
+English
+English
+Search for articles...
+Search for articles...
+All Collections
+General Questions
+What are Perpetual Futures?
+What are Perpetual Futures?
+Understand mechanics behind perpetual Futures and Hyperliquid feed
+
+Updated this week
+ 
+
+Perpetual Futures (Perps) is a new market available on E8 Terminal, powered by the Hyperliquid data feed. It replaces the existing Crypto market and expands the available instruments to include cryptocurrencies, stocks, indices, and metals - all within the SimFi™ environment.
+
+What are Perpetual Futures?
+
+ 
+
+Perpetual Futures, or Perps are derivative contracts that let you trade the price movement of an asset without owning it and without an expiry date. Unlike traditional futures, they run indefinitely (24/7 Trading). Hold as long as you want, as long as your margin holds.
+
+Simply put: you are trading price direction, with leverage, and no expiry clock.
+
+What is Hyperliquid?
+​
+
+Hyperliquid is a high-performance decentralised exchange (DEX) built specifically for perpetual futures trading. It operates on its own blockchain - the Hyperliquid L1 which is designed for speed, transparency, and on-chain order book execution.
+
+
+What makes Hyperliquid different from traditional centralised exchanges is that all trades, order books, and liquidations happen on-chain, meaning every transaction is verifiable and transparent. It has rapidly become one of the most liquid and actively traded perpetuals venues in the market.
+
+E8 Terminal uses Hyperliquid as its data feed for the Perps market - meaning the prices, spreads, and market movements you see on your account reflect what is happening on Hyperliquid in real time.
+
+How does this work at E8?
+
+ 
+
+Same mechanics, simulated capital.
+​
+
+E8's simulated environment replicates real-market conditions using real market data. The Perps market on E8 Terminal is powered by the Hyperliquid feed - the data is real, the capital is not.
+
+
+This means:
+
+Price movements reflect what is happening on Hyperliquid in real time
+
+Spreads and funding rates behave as they would in a live environment
+
+Slippage can occur, just as it would in a real market
+
+No real funds are deployed on your behalf at any point
+
+What instruments are available?
+
+The Perps market replaces the existing Crypto market and significantly expands the range of tradable instruments:
+
+Cryptocurrencies - major and altcoin perpetuals
+
+Stocks - equity perpetuals
+
+Indices - index perpetuals
+
+Metals - commodity perpetuals
+
+This gives traders access to a much broader range of markets within a single simulated environment, all powered by the same Hyperliquid feed.
+
+What is the fee structure?
+​
+Currently, all Perpetual futures are under a 0.0450% (taker) and 0.015% (maker) structure. Taker is for market orders, and maker is for limit orders.
+​
+
+Which products support Perps?
+
+Perpetual Futures is available for:
+
+E8 One
+
+E8 pro
+
+Trading takes place exclusively on E8 Terminal — our proprietary trading platform. Perps are not available on MT5, cTrader, TradeLocker, or MatchTrader.
+
+ 
+
+Did this answer your question?
+😞😐😃
+E8 Markets Help Center
+The information provided here is for general informational purposes only and should not be considered financial advice.
+
+
+
+

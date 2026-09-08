@@ -1,0 +1,13 @@
+TITLE: What is the Minimum Trading Days Rule? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381351-what-is-the-minimum-trading-days-rule
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381351-what-is-the-minimum-trading-days-rule
+HEADINGS:
+- What is the Minimum Trading Days Rule?
+- 📊 Minimum Days by Plan
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsDrawdown & Consistency RulesWhat is the Minimum Trading Days Rule?What is the Minimum Trading Days Rule? Updated over 2 weeks agoTable of contentsAtmos requires a minimum number of trading days to ensure consistency.⚡ OverviewYou must trade for at least 3 days per phase (evaluation & funded). A “day” counts only if you open a trade and end the day with at least 0.5% profit. 📊 Minimum Days by PlanPlanRequirement1-Step Standard31-Step Plus32-Step Standard32-Step Plus3Instant Funding0💡 ExampleIn a 2-Step Standard Challenge, you must trade at least 3 days in Phase 1 and 3 days in Phase 2.Related Articles2-Step Standard Challenge2-Step Plus ChallengeCompare Challenges: Which one is right for me?How to Pass a Prop Firm ChallengeWhat is the Consistency Rule?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

@@ -1,0 +1,13 @@
+TITLE: Troubleshooting failed payments | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380828-troubleshooting-failed-payments
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12380828-troubleshooting-failed-payments
+HEADINGS:
+- Troubleshooting failed payments
+- 🔍 Common Causes
+- ✅ Fixes
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsPayments & BillingTroubleshooting failed paymentsTroubleshooting failed payments Updated over 2 weeks agoTable of contentsIf your payment didn’t go through, it’s usually a simple issue. ⚡ OverviewMost failed payments are caused by bank restrictions or incorrect card/crypto details. Try again or contact support.   🔍 Common Causes❌ Bank declined the transaction (anti-fraud)❌ Incorrect card details❌ Insufficient funds❌ Wrong crypto network selected  ✅ FixesCall your bank and authorize the transactionTry another payment method (card/crypto/local)Contact Atmos Support for a help Related ArticlesHow frequently will I receive my Affiliate commission?Instant FundingHow to Request a PayoutWhich payment methods do you support?Refund policy explainedDid this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

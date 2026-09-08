@@ -1,0 +1,44 @@
+TITLE: How to Place and Manage Limit Orders in Tradovate | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892659-how-to-place-and-manage-limit-orders-in-tradovate
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892659-how-to-place-and-manage-limit-orders-in-tradovate
+HEADINGS:
+- How to Place and Manage Limit Orders in Tradovate
+- What Is a Limit Order?
+- Buy Limit Order
+- Sell Limit Order
+- Placing a Limit Order on Desktop
+- Step 1: Log In to Tradovate
+- Step 2: Select Your Instrument
+- Step 3: Open a Trading Window
+- Step 4: Select Limit Order
+- Step 5: Enter Your Order Details
+- Step 6: Submit the Order
+- Managing Limit Orders on Desktop
+- Modifying a Limit Order
+- Canceling a Limit Order
+- Placing a Limit Order on the Web Platform
+- Step 1: Log In
+- Step 2: Open Chart or DOM
+- Step 3: Select Limit Order
+- Step 4: Configure the Order
+- Step 5: Submit
+- Managing Limit Orders on the Web Platform
+- To Modify an Order
+- To Cancel an Order
+- Placing a Limit Order on the Mobile App
+- Step 1: Open Tradovate
+- Step 2: Select an Instrument
+- Step 3: Open Order Entry
+- Step 4: Choose Limit Order
+- Step 5: Enter Your Details
+- Step 6: Place the Order
+- Managing Limit Orders on the Mobile App
+- Modify an Order
+- Cancel an Order
+- When Should You Use Limit Orders?
+- Important Notes
+- Need Assistance?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateHow to Place and Manage Limit Orders in TradovateHow to Place and Manage Limit Orders in Tradovate July 10, 2026Table of contentsLimit Orders allow traders to specify the exact price at which they want to enter or exit a trade. Unlike Market Orders, which execute immediately at the best available price, Limit Orders will only execute if the market reaches your chosen price level.This gives traders greater control over their entries and exits.What Is a Limit Order?A Limit Order is an order placed at a specific price or better.​Buy Limit OrderA Buy Limit Order is placed below the current market price.The order will only execute if the market falls to your specified price.​Sell Limit OrderA Sell Limit Order is placed above the current market price.The order will only execute if the market rises to your specified price.Because execution depends on the market reaching your chosen price, Limit Orders are not guaranteed to fill.Placing a Limit Order on DesktopStep 1: Log In to TradovateOpen the Tradovate desktop platform and sign in to your account.​Step 2: Select Your InstrumentChoose the futures contract you want to trade.Examples include:NQMNQESMESCLStep 3: Open a Trading WindowYou can place Limit Orders from:DOM (Depth of Market)Chart TradingOrder Entry WindowStep 4: Select Limit OrderChoose Limit as the order type.​Step 5: Enter Your Order DetailsSpecify:Buy or SellQuantity (contracts)Limit PriceStep 6: Submit the OrderClick Place Order or Submit.Your order will remain pending until the market reaches the selected price.Managing Limit Orders on DesktopModifying a Limit OrderOpen the Orders tab.Locate the active Limit Order.Click Modify.Adjust the desired price or quantity.Save the changes.Canceling a Limit OrderOpen the Orders tab.Select the order.Click Cancel.The order will immediately be removed from the market.Placing a Limit Order on the Web PlatformStep 1: Log InAccess Tradovate through your web browser and sign in.​Step 2: Open Chart or DOMNavigate to either:Chart TradingDOMStep 3: Select Limit OrderChoose Limit from the order type menu.​Step 4: Configure the OrderEnter:Buy or Sell directionQuantityLimit PriceStep 5: SubmitClick Confirm Order to place the Limit Order.Managing Limit Orders on the Web PlatformTo Modify an OrderOpen the Orders section.Select the active Limit Order.Update the desired values.Save the changes.To Cancel an OrderOpen the Orders section.Locate the order.Click Cancel.Placing a Limit Order on the Mobile AppStep 1: Open TradovateLaunch the Tradovate mobile application and sign in.​Step 2: Select an InstrumentChoose the market you wish to trade.​Step 3: Open Order EntryTap Order Entry.​Step 4: Choose Limit OrderSelect Limit as the order type.​Step 5: Enter Your DetailsSpecify:QuantityLimit PriceBuy or Sell directionStep 6: Place the OrderTap Confirm to submit the order.The order will remain active until it is filled, modified, or canceled.Managing Limit Orders on the Mobile AppModify an OrderNavigate to Open Orders.Select the active Limit Order.Edit the price or quantity.Confirm the changes.Cancel an OrderNavigate to Open Orders.Select the order.Tap Cancel.The order will be removed from the market.When Should You Use Limit Orders?Limit Orders are commonly used when traders want:✓ Better control over entry prices✓ Better control over exit prices✓ To avoid entering at unfavorable market prices✓ To automate entries at key support or resistance levels✓ To avoid chasing fast-moving marketsImportant NotesLimit Orders only execute if the market reaches the specified price.A Limit Order may never fill if the market does not trade at that level.During periods of high volatility, price may move quickly around your order level.Always verify your quantity and price before submitting an order.Need Assistance?If you have questions about placing, modifying, or canceling Limit Orders in Tradovate, the AquaFutures Support Team is available to help.Related ArticlesHow to Place and Close Trades in TradovateHow to Trade Using the DOM and Chart in TradovateHow to Place and Manage Limit Orders in NinjaTraderHow to Place and Close Trades in TradingViewHow to Use Limit Orders in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

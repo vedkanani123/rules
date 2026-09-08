@@ -1,0 +1,19 @@
+TITLE: Reward Policy & Profit Split Structure | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863795-reward-policy-profit-split-structure
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863795-reward-policy-profit-split-structure
+HEADINGS:
+- Reward Policy & Profit Split Structure
+- Profit Split Structure
+- Beginner Accounts, Instant Standard Accounts & Instant Pro Accounts
+- Example
+- Standard Accounts
+- Reward Caps
+- Beginner Accounts, Instant Standard Accounts & Instant Pro Accounts
+- Standard Accounts
+- Reward Processing
+- Processing Fee
+- Important Notes
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsReward InformationReward Policy & Profit Split StructureReward Policy & Profit Split Structure Updated over 3 weeks agoTable of contentsAt AquaFutures, our reward structure is designed to provide traders with transparent payout opportunities while encouraging responsible risk management and long-term account growth.Profit Split StructureBeginner Accounts, Instant Standard Accounts & Instant Pro AccountsAll approved withdrawals are paid at a 100% profit split until a trader reaches $15,000 in total lifetime approved withdrawals.Once a trader exceeds $15,000 in lifetime withdrawals, all future withdrawals are paid at a 90% profit split.If a withdrawal request crosses the $15,000 threshold, the profit split will be calculated proportionally.ExampleA trader has already received $14,000 in approved withdrawals and submits a withdrawal request for $1,500.The first $1,000 is paid at a 100% profit split.The remaining $500 is paid at a 90% profit split.The lifetime withdrawal threshold applies across all accounts, profiles, and email addresses associated with the same trader.Standard AccountsStandard Accounts operate under a fixed 90% profit split from the first withdrawal.The $15,000 lifetime withdrawal threshold does not apply to Standard Accounts.All approved withdrawals are processed at a 90% profit split regardless of withdrawal history.Reward CapsBeginner Accounts, Instant Standard Accounts & Instant Pro AccountsAccount SizeMaximum Withdrawal Per Request$25,000$750$50,000$1,500$100,000$3,000$150,000$4,500Standard AccountsAccount SizeMaximum Withdrawal Per Request$25,000$850$50,000$1,500$100,000$2,000$150,000$3,000Reward ProcessingReward requests are typically processed within 24 business hours.Processing takes place Monday through Friday between 8:00 AM and 4:00 PM Central Time.Rewards are primarily processed through Riseworks.Crypto payouts may occasionally be offered for withdrawals below $1,000 and are reviewed on a case-by-case basis.Processing FeeAll AquaFunded payouts are subject to a 2% processing fee. This fee is deducted from the requested payout amount during processing.Important NotesWhen a trader receives their first withdrawal, the account’s maximum drawdown adjusts to the starting balance plus $100.AquaFutures reserves the right to review trading activity before approving any reward request.Giveaway Accounts may follow separate payout and drawdown structures depending on the promotion.All withdrawals remain subject to compliance with AquaFutures rules and policies.Related ArticlesBeginner Account OverviewStandard Evaluation Account OverviewMinimum Trading Days - On Funded PhaseMaximum DrawdownFlex Accounts OverviewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

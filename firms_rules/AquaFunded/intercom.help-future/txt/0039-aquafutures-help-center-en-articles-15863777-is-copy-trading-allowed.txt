@@ -1,0 +1,9 @@
+TITLE: Is copy trading allowed? | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863777-is-copy-trading-allowed
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863777-is-copy-trading-allowed
+HEADINGS:
+- Is copy trading allowed?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesIs copy trading allowed?Is copy trading allowed? July 7, 2026Yes, copy trading is allowed on AquaFutures only between accounts that are fully owned and operated by the same individual. Traders may use trade copier tools to mirror trades between their own AquaFutures accounts or between AquaFutures accounts and personal external accounts they personally own and manage. However, copy trading between different individuals, third-party account management, “pass your challenge” services, or coordinated trading between unrelated traders is strictly prohibited.Related ArticlesIP Usage, Devices, and LocationProhibited Trading StrategiesScaling PlanWhy Are My Trades Being Rejected?Understanding Risk Settings in TradovateDid this answer your question?😞😐😃Trade with our Capital and keep 100% of the ProfitWe run on Fin

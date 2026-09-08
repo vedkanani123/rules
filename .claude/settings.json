@@ -1,0 +1,46 @@
+{
+  "enabledMcpjsonServers": ["aidesigner", "palmier-pro"],
+  "mcpServers": {
+    "aidesigner": {
+      "command": "node",
+      "args": ["/Users/vedkanani/.mcp/aidesigner/server.js"],
+      "env": { "AUTH_TOKEN": "${AIDESIGNER_KEY}" }
+    },
+    "palmier-pro": {
+      "command": "python3",
+      "args": ["-m", "palmier", "--mode=mcp"],
+      "env": { "PALMIER_API_KEY": "${PALMIER_KEY}" }
+    }
+  },
+  "agentPipeline": ["team-plan", "team-prd", "team-exec", "team-verify", "team-fix"],
+  "plugins": ["crewai-skills@crewai-plugins", "context7", "github"],
+  "hooks": {
+    "session-start": ["timeline", "verify-gate"],
+    "stop": ["freeze", "guard", "timeline-stop"],
+    "pre-tool-use": ["security-check", "budget-check"],
+    "post-tool-use": ["format-on-save", "lint-check", "type-check", "css-lint"],
+    "keyword-detector": ["research-trigger", "security-trigger", "browser-trigger"]
+  },
+  "security": {
+    "egressHashReceipts": true,
+    "tokenCostAudit": true,
+    "antiBotDefense": "ml-classifier+stealth",
+    "safePermissionsOnly": true,
+    "workdirectoryIsolation": true
+  },
+  "browserAgent": {
+    "enabled": true,
+    "sidecarMode": "/browse",
+    "antiBotClassifier": true,
+    "stealthProfile": true
+  },
+  "workspace": {
+    "worktrees": true,
+    "multiSession": true,
+    "contextIsolation": true,
+    "worktreeBaseDir": ".omc-workspace"
+  },
+  "skillsPath": ".omc/skills",
+  "notationMode": "explanatory",
+  "learningMode": true
+}

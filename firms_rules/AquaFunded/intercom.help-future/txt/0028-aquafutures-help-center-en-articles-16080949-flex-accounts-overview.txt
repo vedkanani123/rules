@@ -1,0 +1,23 @@
+TITLE: Flex Accounts Overview | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/16080949-flex-accounts-overview
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/16080949-flex-accounts-overview
+HEADINGS:
+- Flex Accounts Overview
+- What is the Profit Target?
+- Example
+- What is the Maximum Drawdown?
+- Example
+- What Does End-of-Day (EOD) Drawdown Mean?
+- What is the Maximum Position Size?
+- Is There an Activation Fee?
+- What is the Evaluation Phase Consistency Rule?
+- Example
+- Are Micro Contracts Allowed?
+- How Do On-Demand Rewards Work?
+- Reward Cap Per Request
+- Example
+- Balance Target
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsFlex Evaluation AccountsFlex Accounts OverviewFlex Accounts Overview July 25, 2026Table of contentsAccount ParametersParameter$50,000$100,000$150,000Profit Target$2,500$5,000$7,000Maximum Position Size2 Contracts4 Contracts6 ContractsDaily Loss LimitNoneNoneNoneMaximum Drawdown$1,500$2,500$3,500Drawdown TypeEnd of Day (EOD)End of Day (EOD)End of Day (EOD)Activation FeeNoneNoneNoneMicro ScalingNoneNoneNoneConsistency Rule40% Only On Challenge Phase40% Only On Challenge Phase40% Only On Challenge PhaseReward ScheduleOn DemandOn DemandOn DemandReward Split80%80%80%Minimum Reward Request$500$500$500What is the Profit Target?The Profit Target is the amount you must earn during the evaluation phase to successfully pass your account.​ExampleIf you purchase a $50,000 Flex Account, your target is:$50,000 + $2,500 = $52,500Once your account balance reaches $52,500, you have completed the profit target requirement.What is the Maximum Drawdown?The Maximum Drawdown represents the total amount your account may lose before being breached.ExampleOn a $50,000 Account:Starting Balance: $50,000Maximum Drawdown: $1,500Your account may not fall below:$48,500If it does, the account will be breached.What Does End-of-Day (EOD) Drawdown Mean?The Beginner Account uses an End-of-Day Drawdown model.This means the drawdown level is calculated based on your account balance at the end of each trading day and does not trail intraday profits.Many traders prefer EOD drawdown because it allows greater flexibility when managing trades and open positions.What is the Maximum Position Size?Each account comes with a contract limit that may not be exceeded.Account SizeMaximum Contracts$50,0002$100,0004$150,0006Opening positions above these limits may result in a rule violation.Is There an Activation Fee?No.All Flex Accounts include:✅ No activation fees✅ No hidden fees✅ No Daily Drawdown✅ No Buffer✅ Immediate access after passing✅ one demand reward eligibilityWhat is the Evaluation Phase Consistency Rule?A 40% consistency rule applies only on the evaluation phase.​Your largest profitable trading day cannot exceed 40% of your total profits.​ExampleIf your total profits equal:$5,000​Then your largest winning day cannot exceed:$2,000​This promotes sustainable trading practices and proper risk management.Are Micro Contracts Allowed?Yes.Micro contracts are fully supported and can be used to manage risk more precisely.Many traders use micro contracts to:Scale into positionsReduce risk exposureImprove consistencyMaintain better drawdown controlHow Do On-Demand Rewards Work?Funded traders may request rewards whenever they meet the payout requirements.Benefits include:No fixed payout scheduleFaster access to profitsFlexible reward requests80% reward splitReward Cap Per RequestEach Flex Account has a maximum reward amount that can be requested during a payout cycle.Account SizeReward Cap$50,00050% of Profitup to $1500$100,00050% of Profitup to $2,500$150,00050% of Profitup to $3500ExampleIf you trade a $50,000 account and generate $3,000 in profits during a payout cycle:Maximum reward request: $1,500Remaining profits stay in the account for future withdrawals.Balance TargetThe Flex model does not have a Balance Target.This means you are not required to reach a specific account balance before becoming eligible for rewards. Once you meet all other reward eligibility requirements, you can request a reward without first achieving a predefined profit buffer.ExampleA trader with a $100,000 Flex account does not need to reach $107,000 or any other target balance before becoming eligible for rewards. As long as all other reward conditions are met, a reward request can be submitted.Related ArticlesBeginner Account OverviewStandard Evaluation Account OverviewInstant Pro Account OverviewInstant Standard Account OverviewScaling PlanDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

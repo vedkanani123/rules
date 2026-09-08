@@ -1,0 +1,14 @@
+TITLE: How to sign up & get your first challenge | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12380811-how-to-sign-up-get-your-first-challenge
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Registration, purchase, dashboard login
+CANONICAL: https://help.atmosfunded.com/en/articles/12380811-how-to-sign-up-get-your-first-challenge
+HEADINGS:
+- How to sign up & get your first challenge
+- 🛠 Step-by-Step
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsGetting Started with Atmos FundedHow to sign up & get your first challengeHow to sign up & get your first challengeRegistration, purchase, dashboard login Updated over 2 weeks agoTable of contentsGetting started with Atmos Funded takes only a few minutes. All accounts are created instantly after purchase. Register on atmosfunded.comChoose a challenge and pay via card or cryptoReceive login details by emailStart trading immediately 🛠 Step-by-StepCreate your accountVisit atmosfunded.comClick Sign Up and complete registrationChoose your challengeOptions: 1-Step, 2-Step, Plus, or Instant FundingSelect account size ($5k – $200k)Complete paymentCredit/debit card, crypto, or local methods (see Payments & Billing)Get account detailsDelivered to your email within minutesIncludes MT5 login + Atmos Dashboard access  💡 ExampleIf you purchase a $50,000 2-Step Standard Challenge, you’ll receive:Login credentials for MT5Challenge rules pre-set in the Atmos DashboardTracking tools to monitor your drawdown, equity, and profit Related Articles1-Step Standard Challenge2-Step Plus ChallengeCompare Challenges: Which one is right for me?How to log in to MT5Refund policy explainedDid this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

@@ -1,0 +1,10 @@
+TITLE: Home | Blue Guardian | CFD
+URL: https://help.blueguardian.com/en
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Blue Guardian | CFD
+CANONICAL: https://help.blueguardian.com/en
+HEADINGS:
+- CFD | Help Center
+CONTENT:
+Skip to main content< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglish< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglishCFD | Help CenterSearch for articles...How do payouts work?General InformationLearn how to get started with Blue Guardian3 articlesAccount ModelsLearn how our accounts and plans work10 articles   Prohibited Trading PraticeLearn more about prohibited rules1 articlePlatformLearn more about the trading platforms1 articlePayoutLearn how rewards and withdrawals work2 articlesCompetition RulesLearn how the competition works1 articleTrade like a Guardian

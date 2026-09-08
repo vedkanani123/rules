@@ -84,10 +84,10 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath, onNavigate, onOpenS
             {allFirms.slice(0,5).map(f => (
               <button key={f.id} onClick={() => { onNavigate(`/prop-firms/${f.slug}`); setMobileOpen(false); }} className="flex items-center gap-3 w-full text-left py-2 hover:bg-white/[0.02] rounded-lg px-1">
                 <img
-                  src={f.countryFlag}
+                  src={(f as any).logoUrl || f.countryFlag}
                   alt=""
-                  className="w-5 h-5 rounded-full object-cover shrink-0"
-                  onError={(e) => { (e.currentTarget as HTMLImageElement).style.display = 'none'; }}
+                  className="w-5 h-5 rounded object-contain bg-white p-0.5 border border-white/10 shrink-0"
+                  onError={(e) => { (e.currentTarget as HTMLImageElement).src = f.countryFlag; }}
                 />
                 <span className="text-sm text-white truncate">{f.name}</span>
               </button>

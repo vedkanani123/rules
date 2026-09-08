@@ -1,0 +1,19 @@
+TITLE: Platform Rules | Blue Guardian | CFD
+URL: https://help.blueguardian.com/en/articles/9661525-platform-rules
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Trading Platforms, Conditions & Market Access
+CANONICAL: https://help.blueguardian.com/en/articles/9661525-platform-rules
+HEADINGS:
+- Platform Rules
+- Blue Guardian offers multiple trading platforms and flexible market access to suit different trader preferences.
+- Available Trading Platforms
+- Can I change my platform?
+- Tradable Instruments
+- Spreads & Commissions
+- Leverage
+- Stop Out Level
+- Daily Drawdown Reset Time
+- How does the trading day reset work?
+CONTENT:
+Skip to main content< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglish< Go to websiteEnglishFrançaisहिन्दीItalianoEspañolEnglishSearch for articles...All CollectionsPlatformPlatform RulesPlatform RulesTrading Platforms, Conditions & Market Access Updated over 2 weeks agoTable of contentsBlue Guardian offers multiple trading platforms and flexible market access to suit different trader preferences.Available Trading PlatformsWe currently support the following platforms:MetaTrader 5 (MT5)Match TraderTradeLockerNote: Existing and prospective US clients are restricted to using Match Trader and TradeLocker only. Can I change my platform?Platform migration is only permitted if no trades have been executed on the account.Once trading activity has occurred, the account becomes ineligible for migration due to platform-specific system limitations.Traders may also request a platform change when progressing to a new phase, provided the newly issued account has not executed any trades.Important:Giveaway accounts are not eligible for platform migration.All requests must be submitted by the registered account holder.Third-party requests will not be processed.All migration requests are subject to internal approval.Tradable InstrumentsBlue Guardian offers the following markets:Forex (FX)IndicesGold & CommoditiesCryptocurrenciesSpreads & CommissionsCommission per lot:FX: $5Indices: $0Commodities: $5Crypto: $0Spreads vary depending on market conditions and platform. LeverageEvaluation (1 Step & 3 Step)FX: 1:50Indices: 1:20Commodities: 1:20Crypto: 1:2Evaluation x Funded (2 Step Nano & Standard)FX: 1:50Indices: 1:10Commodities: 1:10Crypto: 1:2Funded (1 Step & 2 Step Standard)FX: 1:50Indices: 1:10Commodities: 1:10Crypto: 1:2Instant Funding & StarterFX: 1:30Indices: 1:10Commodities: 1:10Crypto: 1:2Stop Out LevelThe trading margin Stop Out (SO) level is 100%.If your account falls below this level, the least profitable running trade will be closed automatically. Daily Drawdown Reset TimeThe maximum daily loss limit resets at 5:00 PM EST.This marks the beginning of a new trading day at Blue Guardian. How does the trading day reset work?Blue Guardian follows a fixed trading day cycle:Start: 5:00 PM ESTEnd: Next day at 5:00 PM ESTThis reset affects:Daily profit/loss calculationsOpen trade carryoverMinimum trading day requirementsRule compliance trackingImportant:Trades opened after 5:00 PM EST count toward the next trading day.Trades left open past reset will carry into the next day’s calculations.Profits closed after 5:00 PM EST will count toward the new trading day.Did this answer your question?😞😐😃Table of contentsTrade like a Guardian

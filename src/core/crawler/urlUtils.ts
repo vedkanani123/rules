@@ -126,6 +126,21 @@ export function classifyUrl(url: string, mainDomain: string): URLCategory {
 }
 
 /**
+ * Returns true when a URL belongs to an allowed crawl domain list.
+ */
+export function isAllowedDomain(url: string, allowed: string[]): boolean {
+  try {
+    const host = new URL(url).hostname.toLowerCase();
+    return allowed.some((a) => {
+      const norm = a.toLowerCase().replace(/^www\./, '');
+      return host === norm || host === `www.${norm}` || host.endsWith(`.${norm}`);
+    });
+  } catch {
+    return false;
+  }
+}
+
+/**
  * Calculates priority weight for crawl ordering.
  */
 export function getUrlCrawlPriority(category: URLCategory): number {

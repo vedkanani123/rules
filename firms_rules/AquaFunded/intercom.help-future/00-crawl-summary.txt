@@ -1,0 +1,10 @@
+SITE CRAWLER EXPORT
+
+Seed URL: https://intercom.help/aquafutures-help-center/en
+Host: intercom.help
+Status: completed
+Pages crawled: 75
+Pages succeeded: 74
+Pages failed: 0
+Pages skipped: 1
+Exported: 2026-09-07T10:36:13.501Z

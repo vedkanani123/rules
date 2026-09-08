@@ -1,0 +1,314 @@
+
+Summer End
+Sale
+
+$500
+$350 /yr
+Save Now
+PickMyTrade
+PickMyTrade
+About
+How it works
+Affiliate Program
+Pricing
+Documentation
+Blog
+
+Brokers
+
+Resources
+Signup
+Login
+Home
+Prop Firm FAQ
+AquaFunded
+Independent Guide — No Marketing Fluff
+AquaFunded FAQ & Complete Guide
+Multi-asset prop firm: evaluation tracks, drawdown structure, payout cadence, and how to automate AquaFunded with PickMyTrade.
+
+Start Free Trial 
+Browse FAQ 
+Search FAQs
+Type a keyword to search...
+Jump to a Section
+1
+AquaFunded Basics
+Overview & legitimacy
+2
+Account Types
+Evaluation & funded accounts
+3
+Plans & Pricing
+Account sizes & fees
+4
+Profit Targets
+Eval & funded goals
+5
+Drawdowns
+Trailing & daily limits
+6
+Consistency Rule
+Best-day percentage rules
+7
+Trading Days & Hours
+Qualifying days & sessions
+8
+Instruments & Markets
+Tradeable assets
+9
+Automation & EAs
+TradingView & bot policy
+10
+Platforms
+Supported trading software
+11
+PMT Webhook Setup
+PickMyTrade integration
+12
+Payouts
+Profit splits & withdrawals
+AquaFunded Basics
+What is AquaFunded?
+Is AquaFunded legit?
+Are AquaFunded accounts real money or simulated?
+Is AquaFunded regulated?
+Account Types
+What evaluation models does AquaFunded offer?
+What is the difference between the evaluation and funded account at AquaFunded?
+Does AquaFunded offer instant funding?
+Can I run multiple funded accounts at AquaFunded?
+Plans & Pricing
+What account sizes does AquaFunded offer?
+Does AquaFunded charge monthly fees or one-time fees?
+Does AquaFunded offer discount codes?
+Profit Targets
+What are the profit targets on AquaFunded evaluations?
+Do profit targets exist on funded accounts at AquaFunded?
+Does AquaFunded evaluate on closing balance or floating equity?
+Drawdowns: Trailing & Daily
+What type of drawdown does AquaFunded use?
+Does the drawdown at AquaFunded apply to unrealized (floating) P&L?
+What happens when I breach the drawdown at AquaFunded?
+What is a daily loss limit (DLL) at AquaFunded?
+Consistency Rule
+Does AquaFunded have a consistency rule?
+Does violating the consistency rule fail my account at AquaFunded?
+Does the consistency rule reset after a payout at AquaFunded?
+Trading Days, Hours & Holidays
+Does AquaFunded require a minimum number of trading days?
+Can I trade news events at AquaFunded?
+Can I hold positions overnight at AquaFunded?
+Instruments & Markets
+What instruments can I trade at AquaFunded?
+What are the contract/lot size limits at AquaFunded?
+Automation & EAs
+Does AquaFunded allow automated trading / EAs?
+Can I automate AquaFunded with TradingView via PickMyTrade?
+Does AquaFunded allow copy trading?
+How do I use PickMyTrade's trading time controls with AquaFunded?
+Platforms
+What trading platforms does AquaFunded support?
+Can I use AquaFunded on Mac?
+Can I trade AquaFunded on mobile?
+PickMyTrade Webhook Setup
+How do I connect TradingView to AquaFunded via PickMyTrade?
+How much does PMT cost on top of AquaFunded fees?
+What TradingView plan do I need for PickMyTrade?
+Does PickMyTrade require coding?
+How fast does PickMyTrade execute trades on AquaFunded?
+Payouts
+What is the profit split at AquaFunded?
+How often can I request payouts at AquaFunded?
+How does AquaFunded pay out — bank transfer or other methods?
+Is AquaFunded income taxable?
+Does AquaFunded scale funded accounts?
+Back to Prop Firm FAQ Hub
+Ready to Automate Your AquaFunded Account?
+Connect TradingView to AquaFunded in about five minutes with PickMyTrade — sub-200ms execution, no coding required. Try it free with a 5-day trial.
+
+Start Free Trial
+Disclaimer
+This page aggregates publicly available information about AquaFunded and is not financial, legal, or tax advice. Prop firm rules, plans, fees, and payout policies change frequently — always verify the current terms on AquaFunded's official website before purchasing an evaluation or activating a funded account. PickMyTrade is an automation bridge, not a prop firm. Funded accounts at prop firms are typically simulated (not real-money) unless otherwise stated by the firm. Trading carries risk of loss. Consult a licensed financial advisor before trading. Last updated: June 2026.
+
+PickMyTrade
+PickMyTrade
+|
+Automate your futures trading with TradingView signals.
+
+Start Free Trial
+Brokers
+Tradovate
+Rithmic
+Ironbeam
+IB
+TradeStation
+TradeLocker
+ProjectX
+Matchtrader
+Tradier
+cTrader
+Tastytrade
+Upcoming
+Upcoming Brokers
+TradingView to Tastytrade
+Prop Firms
+Apex Trader Funding
+Topstep
+Take Profit Trader
+FundedNext
+E8 Markets
+Tradeify
+All Prop Firms
+TradingView Automation by Prop Firm
+Trade Copier by Prop Firm
+TradingView Broker Integrations
+Use Cases
+Prop Firm Traders
+Systematic Traders
+Strategy Developers
+Day Traders
+Swing Traders
+Multi Account
+TrendSpider
+TradingView Automation
+Resources
+Trade Copier
+Pricing
+Documentation
+AI Trading Plan
+AI/ML Advanced Guide
+Affiliate Program
+Blog
+PMT Community
+Webhook to Broker Guide
+General FAQ
+Broker FAQ
+PropFirm FAQ
+PickMyTrade FAQ
+Compare
+vs TradersPost
+vs Autoview
+vs SignalStack
+vs 3Commas
+vs PineConnector
+vs Copygram
+vs Cornix
+vs WunderTrading
+Company
+About Us
+Contact Us
+Affiliate Program
+Discord Community
+QuantVPS
+TradoxVPS
+Legal
+Disclosure
+Privacy Policy
+Terms & Conditions
+Risk Disclosure: Futures and forex trading involve substantial risk and are not suitable for every investor. An investor could potentially lose all or more than their initial investment. Only risk capital should be used for trading. PickMyTrade enables trade automation through webhook technology, which carries inherent risks including technical failures, connectivity issues, broker disruptions, configuration errors, slippage, latency, and market volatility that may result in unintended or amplified losses. Automated systems execute trades without manual intervention. It is your sole responsibility to evaluate whether automated trading is appropriate for your financial situation and experience level. Hypothetical or simulated performance results have inherent limitations and are prepared with the benefit of hindsight. No hypothetical trading record can fully account for the impact of financial risk, emotional pressures, or actual market conditions. Past performance is not indicative of future results. BY USING PICKMYTRADE, YOU ACKNOWLEDGE THAT YOU UNDERSTAND AND ACCEPT THE RISKS ASSOCIATED WITH FUTURES, FOREX, AND AUTOMATED TRADE EXECUTION, AND THAT YOU PROCEED ENTIRELY AT YOUR OWN RISK.
+
+Testimonial Disclosure: Testimonials appearing on this website may not be representative of other clients or customers and are not guarantees of future performance or success.
+
+Third-Party & Prop Firm Disclaimer: The proprietary trading firms (prop firms) mentioned on this website are independent entities and are not affiliated with, endorsed by, or connected to PickMyTrade in any manner. PickMyTrade operates solely as a third-party trade automation service and does not act as a broker, dealer, financial advisor, investment advisor, or custodian of funds.
+
+General Disclaimer: Information is based on publicly available data at the time of review and may change without notice. We do not guarantee accuracy or completeness.
+
+PickMyTrade Pvt. Ltd.
+support@pickmytrade.com
+pickmytrade.io
+© 2026 PickMyTrade Pvt. Ltd. All rights reserved.
+
+Trusted by 10,000+ Traders
+50+ Brokers
+
+Skip to main content
+AquaFunded Help Center
+Account Dashboard
+Welcome to the CFD Help Center
+Search for articles...
+Search for articles...
+Most Viewed Articles
+What is the Profit Split?
+What platforms are available?
+How do I become an AquaFunded affiliate?
+
+General FAQ
+13 articles
+
+Trading Rules
+12 articles
+
+Rewards
+4 articles
+
+Forex Models
+13 articles
+
+Affiliate
+10 articles
+
+Platform
+6 articles
+
+OFFERS
+2 articles
+
+Aqua Scaling Plan x Aqua Elite
+4 articles
+More Questions?
+If you have any unanswered questions simply email support@aquafunded.com and we'll aim to reply within 24 hours.
+AquaFunded Homepage
+AquaFunded Help Center
+Trade with our Capital and keep 100% of the Profit
+
+
+
+
+We run on Fin
+https://intercom.help/aquafutures-help-center/en
+Skip to main content
+Futures Help Center
+Account Dashboard
+Welcome to the Futures Help Center
+Search for articles...
+Search for articles...
+Introduction to AquaFutures
+Getting the most out of AquaFutures Support
+Futures Instrument List & Codes
+
+Getting Started
+10 articles
+
+Beginner Evaluation Accounts
+1 article
+
+Standard Evaluation Accounts
+1 article
+
+Flex Evaluation Accounts
+1 article
+
+Instant Pro Accounts
+1 article
+
+Instant Standard Accounts
+1 article
+
+Trading Rules and Guidelines
+17 articles
+
+Reward Information
+3 articles
+
+Trading Platforms
+25 articles
+More Questions?
+If you have any unanswered questions simply email support@aquafunded.com and we'll aim to reply within 24 hours.
+AquaFunded Homepage
+Futures Help Center
+Trade with our Capital and keep 100% of the Profit
+
+
+
+
+We run on Fin

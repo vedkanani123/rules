@@ -1,0 +1,10 @@
+TITLE: Rewards | AquaFunded Help Center
+URL: https://help.aquafunded.com/en/collections/9342838-rewards
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Rewards
+CANONICAL: https://help.aquafunded.com/en/collections/9342838-rewards
+HEADINGS:
+- Rewards
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsRewardsRewardsRewards4 articlesHow do Rewards work?What is the Profit Split?Do you have a Reward Guarantee?Reward Add-OnsTrade with our Capital and keep 100% of the ProfitWe run on Fin

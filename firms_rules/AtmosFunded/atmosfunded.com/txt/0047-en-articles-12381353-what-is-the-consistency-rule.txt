@@ -1,0 +1,13 @@
+TITLE: What is the Consistency Rule? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381353-what-is-the-consistency-rule
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381353-what-is-the-consistency-rule
+HEADINGS:
+- What is the Consistency Rule?
+- 📊 Consistency Rule by Plan
+- 💡 Example (Instant Funding)
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsDrawdown & Consistency RulesWhat is the Consistency Rule?What is the Consistency Rule? Updated over 2 weeks agoTable of contentsSome Atmos Funded plans use a consistency rule to prevent profits from being made in just one big trade. We want consistent and reasonable traders and not people who roll the dice in a 50/50 flip just to get lucky sometimes.⚡ OverviewThe consistency rule means no single trading day can make up more than a set percentage of your total profit (20% or 45% depending on plan). 📊 Consistency Rule by PlanPlanConsistency LimitExample1-Step StandardNoneNo restriction1-Step Plus45%No day >45% of total profit2-Step StandardNoneNo restriction2-Step PlusNoneNo restrictionInstant Funding20%No day >20% of total profit💡 Example (Instant Funding)You make $10,000 total profit.No single day can exceed $2,000 profit.Related Articles1-Step Standard Challenge1-Step Plus ChallengeInstant FundingCompare Challenges: Which one is right for me?What is the Minimum Trading Days Rule?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

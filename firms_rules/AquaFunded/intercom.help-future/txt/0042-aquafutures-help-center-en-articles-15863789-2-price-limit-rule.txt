@@ -1,0 +1,12 @@
+TITLE: 2% Price Limit Rule | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863789-2-price-limit-rule
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863789-2-price-limit-rule
+HEADINGS:
+- 2% Price Limit Rule
+- What Are CME Price Limits?
+- Key Points
+- Example
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and Guidelines2% Price Limit Rule2% Price Limit Rule July 7, 2026Table of contentsAt AquaFutures, we prohibit trading within 2% of a CME price limit. This rule protects traders from market halts and extreme price swings that can lead to major slippage or forced holds. What Are CME Price Limits?A price limit is the maximum a futures contract can move during a session. If hit, the market may pause or halt depending on the product and time of day. Limits vary by instrument and session. Exact levels can be found on the CME Price Limits Page. Key PointsOvernight moves greater than 5% or 7%, up or down, may trigger a haltDuring the open market, sharp downward moves of 5% or 7% can cause a haltLarge upward moves during the day will not cause a haltUpward halts only apply in the overnight sessionExampleIf NQ closes at 19500 on Tuesday:5% of 19500 = 97519500 - 975 = 185252% of 975 = 19.518525 + 19.5 = 18544.50Avoid open trades at or below 18544.50, as the market is within 2% of a potential halt. How to Stay CompliantCheck CME's Price Limits page for your contractCalculate 2% of the limit move (based on the current threshold)Use your platform’s quote board to monitor % net changeAvoid trades within the 2% bufferRelated ArticlesHow to Place and Manage Limit Orders in TradovateHow to Place and Close Trades in NinjaTraderHow to Set and Manage Stop Loss & Take Profit in NinjaTraderHow to Place and Manage Limit Orders in NinjaTraderHow to Use Limit Orders in TradingViewDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

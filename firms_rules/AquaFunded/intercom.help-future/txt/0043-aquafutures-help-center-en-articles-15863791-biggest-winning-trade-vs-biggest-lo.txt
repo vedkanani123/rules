@@ -1,0 +1,9 @@
+TITLE: Biggest Winning Trade vs. Biggest Losing Trade | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15863791-biggest-winning-trade-vs-biggest-losing-trade
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15863791-biggest-winning-trade-vs-biggest-losing-trade
+HEADINGS:
+- Biggest Winning Trade vs. Biggest Losing Trade
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading Rules and GuidelinesBiggest Winning Trade vs. Biggest Losing TradeBiggest Winning Trade vs. Biggest Losing Trade July 7, 2026Definition:A trader’s largest losing trade must not exceed their largest winning trade.​Rule Requirements:Your single largest losing trade (realized loss) must be equal to or smaller than your single largest winning trade (realized profit).The comparison is based on closed trades only.This rule is reviewed during payout evaluations.Examples:​✅ AllowedBiggest Winning Trade: +$1,200Biggest Losing Trade: -$800✅ AllowedBiggest Winning Trade: +$1,500Biggest Losing Trade: -$1,500❌ ViolationBiggest Winning Trade: +$900Biggest Losing Trade: -$1,300 Payout Review:If, at the time of a payout request, your largest losing trade exceeds your largest winning trade, your payout request will be denied.​However, this is not considered a permanent account violation. You may continue trading and submit a new payout request once you have generated a winning trade that is equal to or greater than your largest losing trade, bringing your account back into compliance with this rule.Related ArticlesBeginner Account OverviewStandard Evaluation Account OverviewInstant Standard Account OverviewWithdrawal Eligibility RequirementsFlex Accounts OverviewDid this answer your question?😞😐😃Trade with our Capital and keep 100% of the ProfitWe run on Fin

@@ -1,0 +1,24 @@
+TITLE: How to Log In and Log Out of Tradovate | Futures Help Center
+URL: https://intercom.help/aquafutures-help-center/en/articles/15892643-how-to-log-in-and-log-out-of-tradovate
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://intercom.help/aquafutures-help-center/en/articles/15892643-how-to-log-in-and-log-out-of-tradovate
+HEADINGS:
+- How to Log In and Log Out of Tradovate
+- Logging In on Desktop or Web
+- Step 1: Open Tradovate
+- Step 2: Enter Your Login Details
+- Step 3: Access Your Trading Environment
+- Logging Out on Desktop or Web
+- Step 1: Open the Account Menu
+- Step 2: Log Out
+- Logging In on the Tradovate Mobile App
+- Step 1: Open the App
+- Step 2: Sign In
+- Step 3: Select Your Trading Mode
+- Logging Out on the Tradovate Mobile App
+- Step 1: Open the Menu
+- Step 2: Log Out
+- Need Help?
+CONTENT:
+Skip to main contentAccount DashboardAccount DashboardSearch for articles...All CollectionsTrading PlatformsTradovateHow to Log In and Log Out of TradovateHow to Log In and Log Out of Tradovate July 9, 2026Table of contentsGetting started with Tradovate is quick and easy. Follow the steps below to access your AquaFutures account on desktop, web, or mobile devices.​Logging In on Desktop or WebStep 1: Open TradovateLaunch the Tradovate desktop application or open the Tradovate web platform in your browser.​Step 2: Enter Your Login DetailsType in your Tradovate username and password, then click Login.​​​Step 3: Access Your Trading EnvironmentAfter logging in, select Access Simulation to enter the trading platform and begin trading.​​​Logging Out on Desktop or WebStep 1: Open the Account MenuClick on your account name or account dropdown menu located in the platform.​Step 2: Log OutSelect Logout from the available options.You will be safely signed out of your Tradovate account.Logging In on the Tradovate Mobile AppStep 1: Open the AppLaunch the Tradovate mobile application on your device.​Step 2: Sign InTap Sign In, then enter your username and password.​Step 3: Select Your Trading ModeTap Simulated Trading to access your account and begin trading.Logging Out on the Tradovate Mobile AppStep 1: Open the MenuTap the Menu (☰) icon in the top-left corner of the screen.​Step 2: Log OutTap your account dropdown menu and select Logout.You will be securely logged out of the application.Need Help?If you’re having trouble accessing your Tradovate account, please contact the AquaFutures Support Team and we’ll be happy to assist you.Related ArticlesHow to Place and Close Trades in TradovateHow to Trade Using the DOM and Chart in TradovateUnderstanding Risk Settings in TradovateHow to Place and Manage Limit Orders in TradovateHow to Log In and Log Out of NinjaTraderDid this answer your question?😞😐😃Table of contentsTrade with our Capital and keep 100% of the ProfitWe run on Fin

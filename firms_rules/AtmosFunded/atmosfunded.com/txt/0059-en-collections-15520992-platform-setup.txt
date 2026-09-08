@@ -1,0 +1,12 @@
+TITLE: Platform Setup | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/collections/15520992-platform-setup
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+DESCRIPTION: Guides for MT5 and Atmos Funded Dashboard.
+CANONICAL: https://help.atmosfunded.com/en/collections/15520992-platform-setup
+HEADINGS:
+- Platform Setup
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsTrading PlatformsPlatform SetupPlatform SetupGuides for MT5 and Atmos Funded Dashboard.3 articlesHow to log in to MT5How to use the Atmos Funded DashboardHow to install MT5 on desktop & mobileAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

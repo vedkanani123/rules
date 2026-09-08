@@ -8,10 +8,17 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "typecheck": "tsc --noEmit",
+    "lint": "tsc --noEmit",
+    "validate:data": "tsx scripts/validate-data.ts",
+    "validate:rules": "tsx scripts/validate-data.ts --rules-only",
     "crawl": "tsx src/core/crawler/crawlerCLI.ts",
+    "crawl:dry-run": "tsx src/core/crawler/crawlerCLI.ts --dry-run",
     "extract": "tsx src/core/pipeline/pipelineCLI.ts extract",
     "detect-changes": "tsx src/core/pipeline/pipelineCLI.ts detect-changes",
-    "verify": "tsx src/core/pipeline/pipelineCLI.ts verify"
+    "verify": "tsx src/core/pipeline/pipelineCLI.ts verify",
+    "audit": "npm run typecheck && npm run validate:data && npm test"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",

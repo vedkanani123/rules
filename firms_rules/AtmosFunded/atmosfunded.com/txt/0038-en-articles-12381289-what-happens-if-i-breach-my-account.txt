@@ -1,0 +1,14 @@
+TITLE: What Happens If I Breach My Account? | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/12381289-what-happens-if-i-breach-my-account
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/12381289-what-happens-if-i-breach-my-account
+HEADINGS:
+- What Happens If I Breach My Account?
+- 📊 After a Breach
+- 🔄 Options After Breach
+- 💡 Example
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsRules & Trading ConditionsTrading Styles & RestrictionsWhat Happens If I Breach My Account?What Happens If I Breach My Account? Updated over 2 weeks agoTable of contentsIf you breach your account by breaking rules, the account is immediately closed and all open trades are terminated.⚡ OverviewA breached account is terminated. You can purchase a new challenge or use a reset option if available. Refunds are not provided after trading begins. 📊 After a BreachAccount closed permanently.All profits forfeited.Cannot continue trading on the same account.🔄 Options After BreachPurchase a new challenge account.Reset option (if offered).💡 ExampleYou violate daily loss rule ($5,200 loss on $100k account).Atmos closes account → all trades stopped.You can buy a new $100k challenge but cannot reuse breached account.Related Articles1-Step Standard ChallengeHow to Pass a Prop Firm ChallengeWhat Actions Lead to an Account Breach?What Are Prohibited Strategies?What is the Daily Loss Limit?Did this answer your question?😞😐😃Table of contentsAtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀

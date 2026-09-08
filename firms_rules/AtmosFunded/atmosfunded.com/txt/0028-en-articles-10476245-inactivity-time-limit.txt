@@ -1,0 +1,11 @@
+TITLE: Inactivity Time Limit | AtmosFunded Help Center
+URL: https://help.atmosfunded.com/en/articles/10476245-inactivity-time-limit
+STATUS: 200
+CONTENT-TYPE: text/html; charset=utf-8
+CANONICAL: https://help.atmosfunded.com/en/articles/10476245-inactivity-time-limit
+HEADINGS:
+- Inactivity Time Limit
+CONTENT:
+Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. ([email protected]) with Reserved Font Name "Poppins".
+      This Font Software is licensed under the SIL Open Font License, Version 1.1.Skip to main contentStart a ChallengeDiscordHomeStart a ChallengeDiscordHomeSearch for articles...All CollectionsChallenges & ProductsAccount TypesInactivity Time LimitInactivity Time Limit August 4, 2026All Challenge accounts in Phase 1 and Phase 2 have an unlimited time limit to pass. Additionally, if an account remains inactive for 90 days, the trading challenge may be terminated.  However, in the Funded Stage, the inactivity period extends to 365 days. Related Articles1-Step Standard Challenge1-Step Plus Challenge2-Step Standard Challenge2-Step Plus ChallengeInstant FundingDid this answer your question?😞😐😃AtmosFunded  Help CenterBroker-backed prop firm. Transparent, competitive & built for success🚀
