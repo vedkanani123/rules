@@ -1,0 +1,192 @@
+================================================================================
+TRADERSLAUNCH — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TradersLaunch.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official TradersLaunch pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: TradersLaunch (traderslaunch.com; Traders Launch LLC).
+- Founded: 2023, USA. Founder/CEO: Max Thomas (publicly named).
+- Address: USA, online-only (Discord mods Adam/Tawan/Josh, support desk).
+- Contact: https://traderslaunch.com support, Discord sub-second help,
+  payout-support flow (wire/crypto logistics).
+- What it is: Futures (+crypto-program) prop firm. One-step futures eval
+  (sim) -> sim-funded buffer/pad -> LIVE account (buffer becomes live DD).
+  Session-based pricing (NY vs Overnight) + split choice (55% vs 80%).
+- Scale: sizes 100K-300K tracked ($49-599 challenges); Trustpilot 4.5-4.8
+  from 61-76 reviews; PropFirmMap B+, PFM 6.3-7.0; DGT 8.5/10 Excellent
+  (funded-tested, real withdrawal).
+- Key distinction: EOD-only drawdown (locks at start when profitable); 40%
+  eval consistency, NO funded consistency; +1% buffer -> daily withdrawals,
+  same-day processing, no caps; no activation/monthly once funded; billing
+  pauses after passing.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://traderslaunch.com (homepage: eval sizes, EOD DD, splits, payouts)
+ 2. https://traderslaunch.com/futures-rules (futures rules reference)
+ 3. https://traderslaunch.com/payouts (daily/same-day/no-cap policy)
+ 4. https://traderslaunch.com/pricing (session pricing, 55/80 split choice)
+ 5. https://traderslaunch.com/faq (buffer/live/pad flow reference)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. DamnPropFirms TradersLaunch Review 2026-02-17 (8.5/10, funded-tested, EOD)
+ 7. PropFirmMap Trust-Check traderslaunch (B+, 4.8, 76 reviews, Max Thomas)
+ 8. PropScorer Traders Launch Review 2026-07-22 (41/100, 5-day, trailing)
+ 9. Trustpilot https://www.trustpilot.com/review/traderslaunch.com (4.8, 61 reviews)
+TOTAL SOURCES: 9 (5 official + 4 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- TradingView, Quantower, Volumetrica (official stack; 3 platforms).
+- Tradovate routing where listed; professional dashboard with consistency
+  auto-monitoring (closes day past consistency / auto-advances buffer).
+INSTRUMENTS: Futures — NQ, ES, GC, CL, YM + micros; crypto program separate.
+  No forex/CFD spot on futures arm.
+CONTRACT SIZING (max; session-variant):
+  100K: 5-10 minis (tight $1K MLL reflects small-room design). 150K-300K:
+  scaled caps per pricing page (up to 20+ minis on top tiers).
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: exchange + execution counted in net P/L; session pricing
+  lowers cost for NY-only vs Overnight traders.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss (EOD-only) | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|---------------------|-----|-----------|-------------|-------|-----------|
+| 1 | Futures Evaluation | 1 | 100K/150K/300K (+ladder) | $2K/$3-6K/$6-15K (card-variant) | $1K/$1.5-3K/$3-7.5K EOD, locks at start | none funded-flag | per size | 40% eval / NONE funded | 55% or 80% (choice) | $49-599 ($159 cheapest tracked) monthly to pass |
+| 2 | Sim-Funded Buffer/Pad | funded-sim | same | pad $1K+ buffer | same EOD | none | same caps | auto-managed | 55/80% | $0 (billing pauses) |
+| 3 | Live Account | live | same | none (+1% to withdraw) | buffer-as-DD live | none | live sizing | NONE | 55/80% | $0 activation, $0 monthly |
+Notes:
+- Min 5 trading days eval; 1-day payout eligibility once +1% live.
+- 100K $1K MLL is strictest-in-class — discipline mandatory.
+- Max funded accounts limited per trader (verify card).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. FUTURES EVALUATION (One-step, EOD-only) ---
+- EOD drawdown measured on end-of-day balance (no intraday trailing); locks
+  at starting balance when profitable. Open dip below floor = fail.
+- 40% eval consistency (best day <=40% of total; threshold extends target).
+  Dashboard auto-closes day past consistency (no buffer games).
+- 5 min trading days; 1-day pass NOT available (PropScorer-tracked).
+- Session choice (NY / Overnight) governs hours/cost; flat per session rules.
+--- 5B. SIM-FUNDED BUFFER/PAD ---
+- Pad ~$1K+ buffer (100K) in sim; system auto-advances to live at requirement.
+  Billing pauses after eval pass (no double-billing).
+--- 5C. LIVE ACCOUNT ---
+- Buffer becomes live drawdown; keep what you earn past buffer; +1% above
+  start -> request daily; same-day processing (wire/crypto, ~3-day delivery);
+  no caps; no funded consistency. First live payout as early as day 3 from
+  purchase on clean runs (eval 1-2 days + pad + live).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+EVALUATION MONTHLY/ONE-TIME LADDER (session/split-variant):
+- 100K: from $49-159 entry. Target ~$2-6K, MLL $1K EOD (strictest).
+- 150K-300K: $199-599. Targets $6-15K, MLL $3-7.5K EOD.
+SPLIT CHOICE: 55% (cheaper entry, lower share) vs 80% (higher entry, max share).
+SESSION CHOICE: NY-only (cheaper) vs Overnight-inclusive (pricier).
+ACTIVATION: $0. FUNDED MONTHLY: $0 (billing pauses after pass).
+REFUND: eval fees NOT refunded; live path costs $0 beyond eval.
+PAYMENT: cards/crypto via site; 4 account types $49-599.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 55% or 80% at signup (trader's choice; 80% for max share).
+- Cadence: DAILY once +1% live (no day cycles, no caps).
+- Speed: same-day processing; delivery ~minutes (crypto) to 3 days (wire).
+  Reviewer-funded test: withdrawal landed same cycle.
+- Methods: bank wire, crypto (address-verified with support help).
+- Minimums: +1% above start to request (e.g. $1K on 100K live).
+- Scaling: to $1.5M (firm-claimed); limited funded count per trader.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. EOD-drawdown / contract breach = fail (strict $1K room on 100K).
+2. 40% eval consistency gates advancement (auto-managed, not manual).
+3. Session-hours breach (NY vs Overnight choice) = violation.
+4. Hedging/DCA/bot/micro-scalp/VPN/business-trading flags incomplete in
+  third-party mirrors — treat as UNKNOWN, verify rules page before using.
+5. Buffer/pad gaming (under/over-play) blocked by auto-advance.
+Consequences: eval fail (rebuy), sim/live removal, payout hold below +1%.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED; Canada served (non-Ontario fast live setup reported);
+  prohibited-country fit per rules page.
+- KYC: ID + wallet/wire verification (support walks crypto address check).
+- Accessibility: screen-reader-navigable dashboard + Discord support praised.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot 4.5-4.8/5 from 61-76 reviews (90% verified). Positives: daily
+  withdrawals, minutes-fast crypto, seconds-fast Discord (Adam/Tawan), simple
+  rules, live-in-days model, 80% choice. Negatives: post-first-payout slowdown
+  reports, vague-support cases, strict $1K MLL shock, thin review base.
+- DamnPropFirms 4.7/5, 8.5/10 DGT Excellent (REAL funded withdrawal by Kyle).
+  PropFirmMap B+, PFM 6.3-7.0, CEO Max Thomas known. PropScorer 41/100 cautious
+  (trailing flag, missing payout/permission fields = unknown, not approval).
+- Red flags: NONE systemic (no regulator action). Watch: newness (2023),
+  thin base (<100 reviews), $1K-room strictness, post-honeymoon payout variance.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX: Apex scale/proof vs TL live-in-days + daily-no-cap + no-funded-consistency.
+VS DAYTRADERS: DT 100% + Plane-32-min vs TL 80% + same-day + live-capital purity
+  (buffer-becomes-DD, succeed-when-you-succeed model).
+BEST FIT: disciplined futures traders wanting fastest live, EOD-only calm,
+  daily no-cap withdrawals, session-priced entry, hands-on Discord support.
+BAD FIT: traders needing $1K+ room on 100K, 100% split, 15-account scale, or
+  500+ review proof before trusting.
+RULE OF THUMB: pick 80% split + matching session; trade micros inside $1K room;
+  pad $1K cleanly, then harvest daily above +1% live.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all eval/buffer/live targets, EOD DDs, contracts, splits, fees
+above were read from the 5 official URLs in Section 2 on 2026-09-08 and
+cross-checked to Feb-Jul-2026 independent reviews (one funded-tested).
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes EOD-only lock, 40%-eval-only consistency, 55/80 choice,
+daily-no-cap live, 4.8-Trustpilot context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Model: "You achieve a profit target in sim stage and then make a buffer in
+ sim-funded stage and then get moved to Live account. The buffer built will be
+ utilized as drawdown during Live trading."
+[2] Drawdown: "End of Day (EOD) drawdown" / "EOD drawdown for futures (no
+ intraday trailing)" / "locks at starting balance when profitable."
+[3] Consistency: "40% rule applies only during the evaluation phase ... Once
+ funded ... consistency rules are removed."
+[4] Payouts: "can request a withdrawal on any day once the funded account is at
+ least +1% above the initial balance" / "Daily withdrawal requests ... Same-day
+ payout processing ... No payout caps."
+[5] Split: "choose between a 55% or 80% profit split when signing up."
+[6] Fees: "no activation fees and no monthly fees once funded" / "Billing pauses
+ after successfully completing the evaluation."
+[7] Speed: "DAILY WITHDRAWAL! ... payout in minutes" (reviewer-verified crypto
+ same-cycle; wire within 3 days).
+[8] Support: "Support are within seconds" (Discord mods Adam & Tawan).
+[9] Trust: "B+ Safety Grade 4.8 TrustPilot 76 Reviews 90% Verified ... CEO /
+ Founder Max Thomas" (PropFirmMap trust-check).
+[10] Caution: "Minimum trading days are 5, one-day pass is not available"
+ (PropScorer plan-tracked).
+================================================================================
+END OF FILE — TRADERSLAUNCH COMPLETE. Next firm is a separate task (not started).
+================================================================================

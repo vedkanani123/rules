@@ -1,0 +1,1318 @@
+[
+  {
+    "asset": "CFD",
+    "n": 1,
+    "name": "100X Club",
+    "url": "https://100x.club/",
+    "file": "100XClub.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 2,
+    "name": "AI Prop",
+    "url": "https://aiprop.com/",
+    "file": "AIProp.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 4,
+    "name": "Alpha Trader Firm",
+    "url": "https://alphafunded.com",
+    "file": "AlphaTraderFirm.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 6,
+    "name": "ATFunded",
+    "url": "https://atfunded.com",
+    "file": "ATFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 7,
+    "name": "Atlas Funded",
+    "url": "https://atlasfunded.com/",
+    "file": "AtlasFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 9,
+    "name": "AtmosTraders",
+    "url": "https://atmostraders.com",
+    "file": "AtmosTraders.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 10,
+    "name": "BEM Funding",
+    "url": "https://bemfunding.com",
+    "file": "BEMFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 11,
+    "name": "BestProp4U",
+    "url": "https://bestprop4u.com/",
+    "file": "BestProp4U.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 12,
+    "name": "Blink Funding",
+    "url": "https://blinkfunding.com/",
+    "file": "BlinkFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 14,
+    "name": "Blueberry Funded",
+    "url": "https://blueberryfunded.com",
+    "file": "BlueberryFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 15,
+    "name": "Bridge Funded",
+    "url": "https://bridgefunded.com/",
+    "file": "BridgeFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 17,
+    "name": "Bullwaves Prime",
+    "url": "https://www.prime.bullwaves.com/",
+    "file": "BullwavesPrime.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 18,
+    "name": "Capital Mint Markets",
+    "url": "https://capitalmintmarkets.com/",
+    "file": "CapitalMintMarkets.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 19,
+    "name": "City Traders Imperium",
+    "url": "https://citytradersimperium.com/",
+    "file": "CityTradersImperium.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 20,
+    "name": "DNA Funded",
+    "url": "https://dnafunded.com",
+    "file": "DNAFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 21,
+    "name": "DojoTraders",
+    "url": "https://dojotraders.com",
+    "file": "DojoTraders.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 22,
+    "name": "Dolvero",
+    "url": "https://dolvero.com/",
+    "file": "Dolvero.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 23,
+    "name": "E2T Prop",
+    "url": "https://www.e2tprop.com/",
+    "file": "E2TProp.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 25,
+    "name": "Elites Funding",
+    "url": "https://elitesfunding.com",
+    "file": "ElitesFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 26,
+    "name": "Emerge Profit",
+    "url": "https://emergeprofit.com",
+    "file": "EmergeProfit.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 27,
+    "name": "Evercrest Funding",
+    "url": "https://evercrestfunding.com",
+    "file": "EvercrestFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 28,
+    "name": "EverFunded",
+    "url": "https://everfunded.com/",
+    "file": "EverFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 29,
+    "name": "Falcon Funded",
+    "url": "https://falconfunded.com",
+    "file": "FalconFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 30,
+    "name": "Fill88",
+    "url": "https://fill88.com/",
+    "file": "Fill88.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 31,
+    "name": "Fintokei",
+    "url": "https://www.fintokei.com/",
+    "file": "Fintokei.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 32,
+    "name": "Firewood Funded",
+    "url": "https://funded.firewoodfx.com/en",
+    "file": "FirewoodFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 33,
+    "name": "Flagship Funded",
+    "url": "https://flagshipfunded.com",
+    "file": "FlagshipFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 35,
+    "name": "Forex Funds Flow",
+    "url": "https://www.forexfundsflow.com/",
+    "file": "ForexFundsFlow.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 36,
+    "name": "Forge of Traders",
+    "url": "https://forgeoftraders.com",
+    "file": "ForgeofTraders.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 37,
+    "name": "Foxx Funded",
+    "url": "https://foxx-funded.com/",
+    "file": "FoxxFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 39,
+    "name": "FTUK",
+    "url": "https://ftuk.com/",
+    "file": "FTUK.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 40,
+    "name": "Funded Academy",
+    "url": "https://fundedacademy.com",
+    "file": "FundedAcademy.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 41,
+    "name": "Funded Daily",
+    "url": "https://fundeddaily.com/",
+    "file": "FundedDaily.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 42,
+    "name": "Funded Guru",
+    "url": "https://funded.guru",
+    "file": "FundedGuru.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 43,
+    "name": "Funded Traders Global",
+    "url": "https://fundedtradersglobal.com/",
+    "file": "FundedTradersGlobal.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 45,
+    "name": "Funded7",
+    "url": "https://funded7.com",
+    "file": "Funded7.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 46,
+    "name": "FundedBull",
+    "url": "https://fundedbull.com/",
+    "file": "FundedBull.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 47,
+    "name": "FundedCobra",
+    "url": "https://fundedcobra.com/",
+    "file": "FundedCobra.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 48,
+    "name": "FundedFast",
+    "url": "https://fundedfast.com",
+    "file": "FundedFast.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 49,
+    "name": "FundedFun",
+    "url": "https://fundedfun.com/",
+    "file": "FundedFun.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 50,
+    "name": "FundedFX",
+    "url": "https://fundedfx.com/",
+    "file": "FundedFX.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 52,
+    "name": "FundedPro",
+    "url": "https://thefundedpro.com",
+    "file": "FundedPro.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 53,
+    "name": "FundedVerse",
+    "url": "https://www.fundedverse.com/",
+    "file": "FundedVerse.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 54,
+    "name": "FunderPro",
+    "url": "https://funderpro.com/",
+    "file": "FunderPro.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 56,
+    "name": "Funding Traders",
+    "url": "https://fundingtraders.com",
+    "file": "FundingTraders.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 57,
+    "name": "Funding Your Trades",
+    "url": "https://fundingyourtrades.com/",
+    "file": "FundingYourTrades.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 58,
+    "name": "FundingRock",
+    "url": "https://www.fundingrock.com/",
+    "file": "FundingRock.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 59,
+    "name": "FundYourFX",
+    "url": "https://fundyourfx.io/",
+    "file": "FundYourFX.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 60,
+    "name": "FX2 Funding",
+    "url": "https://fx2funding.com/",
+    "file": "FX2Funding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 61,
+    "name": "FXC Funded",
+    "url": "https://fxcfunded.com",
+    "file": "FXCFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 62,
+    "name": "FXIFY",
+    "url": "https://fxify.com",
+    "file": "FXIFY.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 63,
+    "name": "Get Funded Now",
+    "url": "https://getfundednow.com/",
+    "file": "GetFundedNow.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 65,
+    "name": "Hantec Trader",
+    "url": "https://htrader.hmarkets.com/",
+    "file": "HantecTrader.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 66,
+    "name": "Hex Funded",
+    "url": "https://www.hexfunded.com/",
+    "file": "HexFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 67,
+    "name": "Hyper Funding",
+    "url": "https://thehyperfunding.com/",
+    "file": "HyperFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 68,
+    "name": "IC Funded",
+    "url": "https://www.icfunded.com",
+    "file": "ICFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 69,
+    "name": "iFunds.io",
+    "url": "https://ifunds.io/",
+    "file": "iFundsio.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 70,
+    "name": "Instant Funding",
+    "url": "https://instantfunding.com",
+    "file": "InstantFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 71,
+    "name": "IQ Capital",
+    "url": "https://www.iqcapital.io/",
+    "file": "IQCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 72,
+    "name": "JoinX Capital",
+    "url": "https://joinx.capital/",
+    "file": "JoinXCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 74,
+    "name": "LegionFunding",
+    "url": "https://legionfunding.com",
+    "file": "LegionFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 75,
+    "name": "Livx Capital",
+    "url": "https://livxcapital.com",
+    "file": "LivxCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 76,
+    "name": "Lux Trading Firm",
+    "url": "https://luxtradingfirm.com",
+    "file": "LuxTradingFirm.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 77,
+    "name": "MasterFunders",
+    "url": "https://masterfunders.com/",
+    "file": "MasterFunders.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 79,
+    "name": "Ment Funding",
+    "url": "https://mentfunding.com/",
+    "file": "MentFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 80,
+    "name": "MFA Traders",
+    "url": "https://mfatraders.com/",
+    "file": "MFATraders.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 82,
+    "name": "MyFundedCapital",
+    "url": "https://myfundedcapital.com/",
+    "file": "MyFundedCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 83,
+    "name": "NEOM Funded",
+    "url": "https://neomfunded.com",
+    "file": "NEOMFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 84,
+    "name": "Next Level Funded",
+    "url": "https://www.nextlevelfunded.com/",
+    "file": "NextLevelFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 85,
+    "name": "NextGen Funding",
+    "url": "https://thenextgenfunding.com",
+    "file": "NextGenFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 86,
+    "name": "Nordic Funder",
+    "url": "https://nordicfunder.com",
+    "file": "NordicFunder.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 87,
+    "name": "Nova Funded",
+    "url": "https://novafunded.com/",
+    "file": "NovaFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 88,
+    "name": "NYS Markets",
+    "url": "https://nysmarkets.com/",
+    "file": "NYSMarkets.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 89,
+    "name": "OFunded",
+    "url": "https://ofunded.com/",
+    "file": "OFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 90,
+    "name": "One Traders Funding",
+    "url": "https://onetradersfunding.com/",
+    "file": "OneTradersFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 91,
+    "name": "OneFunded",
+    "url": "https://onefunded.com/",
+    "file": "OneFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 92,
+    "name": "OneStopProp",
+    "url": "https://onestopprop.com",
+    "file": "OneStopProp.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 93,
+    "name": "Orion Funded",
+    "url": "https://orionfunded.com",
+    "file": "OrionFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 94,
+    "name": "Paid To Trade",
+    "url": "https://paidtotrade.net/",
+    "file": "PaidToTrade.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 95,
+    "name": "PineX Capital",
+    "url": "https://pinexcapital.com",
+    "file": "PineXCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 96,
+    "name": "Pipcy",
+    "url": "https://pipcy.com/",
+    "file": "Pipcy.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 97,
+    "name": "Pipstone Capital",
+    "url": "https://pipstonecapital.com/",
+    "file": "PipstoneCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 98,
+    "name": "Pivex Funded",
+    "url": "https://pivexfunded.com/",
+    "file": "PivexFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 99,
+    "name": "Propanium",
+    "url": "https://propanium.com/",
+    "file": "Propanium.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 100,
+    "name": "PropHelix",
+    "url": "https://prophelix.com/",
+    "file": "PropHelix.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 101,
+    "name": "PropXP",
+    "url": "https://propxp.com",
+    "file": "PropXP.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 102,
+    "name": "Quant Tekel (Ascendx)",
+    "url": "https://quanttekel.com/",
+    "file": "QuantTekelAscendx.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 103,
+    "name": "Quantum Funding",
+    "url": "https://quantumfunding.io/",
+    "file": "QuantumFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 104,
+    "name": "RebelsFunding",
+    "url": "https://www.rebelsfunding.com",
+    "file": "RebelsFunding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 105,
+    "name": "Rhodium FX",
+    "url": "https://rhodiumfx.com/",
+    "file": "RhodiumFX.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 106,
+    "name": "SabioTrade",
+    "url": "https://sabiotrade.com/",
+    "file": "SabioTrade.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 107,
+    "name": "SFX Funded",
+    "url": "https://sfxfunded.com/",
+    "file": "SFXFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 109,
+    "name": "SiegPath",
+    "url": "https://siegpath.com/",
+    "file": "SiegPath.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 110,
+    "name": "Space Funded",
+    "url": "https://spacefundedhq.com/",
+    "file": "SpaceFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 111,
+    "name": "SuperFunded",
+    "url": "https://superfunded.com",
+    "file": "SuperFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 112,
+    "name": "Sway Funded",
+    "url": "https://swayfunded.com",
+    "file": "SwayFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 113,
+    "name": "T4TCapitalFM",
+    "url": "https://t4tcapitalfm.com/",
+    "file": "T4TCapitalFM.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 114,
+    "name": "TakeCap FT",
+    "url": "https://takecapft.com",
+    "file": "TakeCapFT.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 115,
+    "name": "TEFS",
+    "url": "https://tefs.com/",
+    "file": "TEFS.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 116,
+    "name": "Texaris",
+    "url": "https://texaris.com/",
+    "file": "Texaris.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 117,
+    "name": "The Concept Trading",
+    "url": "https://theconcepttrading.com",
+    "file": "TheConceptTrading.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 118,
+    "name": "The Funded Trader",
+    "url": "https://thefundedtraderprogram.com/",
+    "file": "TheFundedTrader.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 119,
+    "name": "The Proven Trader",
+    "url": "https://theproventrader.com",
+    "file": "TheProvenTrader.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 120,
+    "name": "The Trading Pit",
+    "url": "https://www.thetradingpit.com/",
+    "file": "TheTradingPit.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 122,
+    "name": "ThinkCapital",
+    "url": "https://www.thinkcapital.com",
+    "file": "ThinkCapital.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 124,
+    "name": "TopTraderPrime",
+    "url": "https://toptraderprime.com/",
+    "file": "TopTraderPrime.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 125,
+    "name": "TradeApp",
+    "url": "https://tradeapp.com/",
+    "file": "TradeApp.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 126,
+    "name": "TradersEdgeFX",
+    "url": "https://tradersedgefx.com/",
+    "file": "TradersEdgeFX.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 127,
+    "name": "Tradexprop",
+    "url": "https://tradexprop.com",
+    "file": "Tradexprop.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 128,
+    "name": "TX3 Funding",
+    "url": "https://www.tx3funding.com",
+    "file": "TX3Funding.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 129,
+    "name": "Vanta Trading",
+    "url": "https://www.vantatrading.io",
+    "file": "VantaTrading.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 130,
+    "name": "Wall Street Funded",
+    "url": "https://wsfunded.com/",
+    "file": "WallStreetFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 131,
+    "name": "We Fund You Trade",
+    "url": "https://wfyt.com",
+    "file": "WeFundYouTrade.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 132,
+    "name": "WeGetFunded",
+    "url": "https://wegetfunded.com/",
+    "file": "WeGetFunded.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 133,
+    "name": "WeMasterTrade",
+    "url": "https://wemastertrade.com",
+    "file": "WeMasterTrade.txt"
+  },
+  {
+    "asset": "CFD",
+    "n": 134,
+    "name": "XPIPS",
+    "url": "https://xpips.com/",
+    "file": "XPIPS.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 1,
+    "name": "10FOUR",
+    "url": "https://10four.com/",
+    "file": "10FOUR.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 2,
+    "name": "Alpha Futures",
+    "url": "https://alpha-futures.com",
+    "file": "AlphaFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 4,
+    "name": "AquaFutures",
+    "url": "https://www.aquafutures.io",
+    "file": "AquaFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 5,
+    "name": "Astrofund",
+    "url": "https://astrofund.io/",
+    "file": "Astrofund.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 6,
+    "name": "Blueberry Futures",
+    "url": "https://blueberryfutures.com",
+    "file": "BlueberryFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 7,
+    "name": "BluSky",
+    "url": "https://blusky.pro",
+    "file": "BluSky.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 8,
+    "name": "Bulenox",
+    "url": "https://bulenox.com/",
+    "file": "Bulenox.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 9,
+    "name": "CypherTicks",
+    "url": "https://cypherticks.com/",
+    "file": "CypherTicks.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 10,
+    "name": "DayTraders",
+    "url": "https://daytraders.com",
+    "file": "DayTraders.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 11,
+    "name": "Earn2Trade",
+    "url": "https://earn2trade.com",
+    "file": "Earn2Trade.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 12,
+    "name": "Elite Trader Funding",
+    "url": "https://elitetraderfunding.com/",
+    "file": "EliteTraderFunding.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 13,
+    "name": "Finotive Futures",
+    "url": "https://finotivefutures.com/",
+    "file": "FinotiveFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 14,
+    "name": "Funded Futures Family",
+    "url": "https://fundedfuturesfamily.com",
+    "file": "FundedFuturesFamily.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 15,
+    "name": "Funded Futures Network",
+    "url": "https://www.fundedfuturesnetwork.com",
+    "file": "FundedFuturesNetwork.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 16,
+    "name": "FundedHero Futures",
+    "url": "https://fundedherofutures.com",
+    "file": "FundedHeroFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 17,
+    "name": "FunderPro Futures",
+    "url": "https://funderprofutures.com",
+    "file": "FunderProFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 18,
+    "name": "FuturesElite",
+    "url": "https://futureselite.com",
+    "file": "FuturesElite.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 19,
+    "name": "FXIFY Futures",
+    "url": "https://fxifyfutures.com",
+    "file": "FXIFYFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 20,
+    "name": "Goat Funded Futures",
+    "url": "https://goatfundedfutures.com",
+    "file": "GoatFundedFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 21,
+    "name": "Halcyon Trader Funding",
+    "url": "https://halcyontraderfunding.com/",
+    "file": "HalcyonTraderFunding.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 23,
+    "name": "Leeloo Trading",
+    "url": "https://www.leelootrading.com",
+    "file": "LeelooTrading.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 24,
+    "name": "Legends Trading",
+    "url": "https://thelegendstrading.com/",
+    "file": "LegendsTrading.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 25,
+    "name": "Lucid Trading",
+    "url": "https://lucidtrading.com",
+    "file": "LucidTrading.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 26,
+    "name": "MyFundedFutures",
+    "url": "https://myfundedfutures.com",
+    "file": "MyFundedFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 27,
+    "name": "Nexgen ProTrader Funding",
+    "url": "https://nexgenprotraderfunding.com",
+    "file": "NexgenProTraderFunding.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 28,
+    "name": "Nextproptrader",
+    "url": "https://nextproptrader.com/",
+    "file": "Nextproptrader.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 29,
+    "name": "OneUp Trader",
+    "url": "https://www.oneuptrader.com/",
+    "file": "OneUpTrader.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 30,
+    "name": "Onyx Futures",
+    "url": "https://onyx-futures.com/",
+    "file": "OnyxFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 31,
+    "name": "Phoenix Trader Funding",
+    "url": "https://phoenixtraderfunding.com",
+    "file": "PhoenixTraderFunding.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 32,
+    "name": "PropEd Capital",
+    "url": "https://propedcapital.com/",
+    "file": "PropEdCapital.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 33,
+    "name": "PropShopTrader",
+    "url": "https://propshoptrader.com",
+    "file": "PropShopTrader.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 34,
+    "name": "Purdia Capital",
+    "url": "https://purdia.com",
+    "file": "PurdiaCapital.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 35,
+    "name": "Redline Futures Funding",
+    "url": "https://www.redlinefuturesfunding.com/",
+    "file": "RedlineFuturesFunding.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 36,
+    "name": "Rev One Trading",
+    "url": "https://revonetrading.com",
+    "file": "RevOneTrading.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 37,
+    "name": "Savius",
+    "url": "https://savius.com",
+    "file": "Savius.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 38,
+    "name": "Shark Futures",
+    "url": "https://www.sharkfutures.com",
+    "file": "SharkFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 39,
+    "name": "Swiss Firmup",
+    "url": "https://swissfirmup.com",
+    "file": "SwissFirmup.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 41,
+    "name": "Taurus Arena",
+    "url": "https://taurusarena.com",
+    "file": "TaurusArena.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 42,
+    "name": "The TradeMakers",
+    "url": "https://thetrademakers.com",
+    "file": "TheTradeMakers.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 43,
+    "name": "Top One Futures",
+    "url": "https://www.toponefutures.com",
+    "file": "TopOneFutures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 45,
+    "name": "TradeDay",
+    "url": "https://tradeday.com",
+    "file": "TradeDay.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 46,
+    "name": "TradeFundrr",
+    "url": "https://tradefundrr.com/",
+    "file": "TradeFundrr.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 47,
+    "name": "Tradeify",
+    "url": "https://tradeify.co",
+    "file": "Tradeify.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 48,
+    "name": "Traders Launch",
+    "url": "https://traderslaunch.com/",
+    "file": "TradersLaunch.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 49,
+    "name": "TX3 Futures",
+    "url": "https://www.tx3futures.com/en",
+    "file": "TX3Futures.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 50,
+    "name": "Uprofit",
+    "url": "https://uprofit.com/",
+    "file": "Uprofit.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 51,
+    "name": "Winbance",
+    "url": "https://www.winbance.com/",
+    "file": "Winbance.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 52,
+    "name": "YRM Prop",
+    "url": "https://yrmprop.com",
+    "file": "YRMProp.txt"
+  },
+  {
+    "asset": "Futures",
+    "n": 53,
+    "name": "Zenit Funding",
+    "url": "https://www.zenitfunding.com/",
+    "file": "ZenitFunding.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 1,
+    "name": "Breakout",
+    "url": "https://www.breakoutprop.com",
+    "file": "Breakout.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 2,
+    "name": "Carrot Funding",
+    "url": "https://www.carrotfunding.io/",
+    "file": "CarrotFunding.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 3,
+    "name": "Cointracts",
+    "url": "https://www.cointracts.com",
+    "file": "Cointracts.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 5,
+    "name": "Fondeo",
+    "url": "https://fondeo.xyz",
+    "file": "Fondeo.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 6,
+    "name": "Fundedbit",
+    "url": "https://fundedbit.com/",
+    "file": "Fundedbit.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 7,
+    "name": "Funding Predicts",
+    "url": "https://www.fundingpredicts.com/",
+    "file": "FundingPredicts.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 8,
+    "name": "Hash Hedge",
+    "url": "https://www.hashhedge.com/",
+    "file": "HashHedge.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 9,
+    "name": "HUMBPROP",
+    "url": "https://humbprop.com",
+    "file": "HUMBPROP.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 10,
+    "name": "HyroTrader",
+    "url": "https://www.hyrotrader.com",
+    "file": "HyroTrader.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 11,
+    "name": "PropFunded",
+    "url": "https://propfunded.ai/",
+    "file": "PropFunded.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 12,
+    "name": "PropMarket",
+    "url": "https://prop.market/",
+    "file": "PropMarket.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 13,
+    "name": "Propr",
+    "url": "https://www.propr.xyz",
+    "file": "Propr.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 14,
+    "name": "PropW",
+    "url": "https://www.propw.com/en_US",
+    "file": "PropW.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 15,
+    "name": "SizeProp",
+    "url": "https://www.sizeprop.com",
+    "file": "SizeProp.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 16,
+    "name": "Tradeify Crypto",
+    "url": "https://tradeifycrypto.co",
+    "file": "TradeifyCrypto.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 17,
+    "name": "Upscale",
+    "url": "https://upscale.trade/",
+    "file": "Upscale.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 18,
+    "name": "Velotrade",
+    "url": "https://velotrade.com/",
+    "file": "Velotrade.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 19,
+    "name": "WarBux",
+    "url": "https://warbuxbtc.com",
+    "file": "WarBux.txt"
+  },
+  {
+    "asset": "Crypto",
+    "n": 20,
+    "name": "WenCrypto",
+    "url": "https://wencrypto.com/",
+    "file": "WenCrypto.txt"
+  },
+  {
+    "asset": "Stocks",
+    "n": 1,
+    "name": "Imperial Trader Funding",
+    "url": "https://www.imperialtraderfunding.com/",
+    "file": "ImperialTraderFunding.txt"
+  },
+  {
+    "asset": "Stocks",
+    "n": 2,
+    "name": "Trade The Pool",
+    "url": "https://tradethepool.com/",
+    "file": "TradeThePool.txt"
+  },
+  {
+    "asset": "Stocks",
+    "n": 3,
+    "name": "trader2B",
+    "url": "https://trader2b.com",
+    "file": "trader2B.txt"
+  },
+  {
+    "asset": "Stocks",
+    "n": 4,
+    "name": "Vanquish Trader",
+    "url": "https://www.vanquishtrader.com/",
+    "file": "VanquishTrader.txt"
+  }
+]

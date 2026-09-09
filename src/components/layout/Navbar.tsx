@@ -86,7 +86,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath, onNavigate, onOpenS
                 <img
                   src={(f as any).logoUrl || f.countryFlag}
                   alt=""
-                  className="w-5 h-5 rounded object-contain bg-white p-0.5 border border-white/10 shrink-0"
+                  className="w-5 h-5 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0"
                   onError={(e) => { (e.currentTarget as HTMLImageElement).src = f.countryFlag; }}
                 />
                 <span className="text-sm text-white truncate">{f.name}</span>

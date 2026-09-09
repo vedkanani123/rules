@@ -1,0 +1,249 @@
+================================================================================
+TradersWithEdge — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TradersWithEdge.txt | Status: CLOSED (APPEARS DEFUNCT JUL 2026 — DO NOT SEND FUNDS) | Verification date: 2026-09-08
+================================================================================
+All data below was compiled from archived official Traders With Edge content
+(site DOWN as of 2026-09-08 — transport error on both apex + www) and
+third-party reviews. No TODOs, no placeholders. All links are real.
+WARNING: JoinProp Aug 2026 + tracker list TWE as CLOSED with do-not-send-funds
+warning; 5-week+ platform outage, cancelled accounts, unresponsive support.
+Treat as DEFUNCT. Historical record below for anyone owed money.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Traders With Edge (TWE, sites traderswithedge.com / www.traderswithedge.com — BOTH DOWN Sep 2026).
+- Legal entity: Traders With Edge Limited, Hong Kong (trade name); owner Swift
+  Trader Ltd; CEO Samuel Junghenn. Founded Feb 2022. Execution via Eightcap
+  (ASIC-licensed broker — broker regulated, TWE itself UNREGULATED).
+- Contact (HISTORICAL, likely dead): in-site chat/email; support staff Ariawan/
+  Jerome/Ari cited; social trader platform (web + Android/iOS apps). No verified
+  live contact Sep 2026.
+- What it was: CFD simulated-evaluation + instant prop firm ($2,500-$1,000,000,
+  scale to $3M, $30M headline after 2 years consistent). All accounts simulated.
+- Scale claimed (historical): part-time-to-full-time mission; Hall of Fame payouts;
+  January competition ($50K 2-step prize); social platform.
+- Press/listings: formerly listed; REMOVED from PropFirmMatch (scam allegation per
+  Trustpilot); not on aggregator verified lists (TWE not added per reviewers).
+- Trustpilot: 4.5/168 (UK Jan 2025) -> 4.5/170 (CA Feb 2025) -> 4.4/157-185
+  (mid-2025-2026) -> 3.4/185 (IE Jul 2025, replied 10% negatives, 1-month lag).
+  PropFirm201: 4.4/157 reviews. Late-2025/2026: dead-dashboard, no-P&L, rug-pull
+  allegations; $400K Hare pass denied via Riseworks-KYC excuse + refund never arrived.
+- Key distinction (HISTORICAL): THREE types — Turtle 1-phase (slow, 1:20),
+  Hare 2-phase (fast, 1:50), Instant (immediate, 50% split) — each Standard +
+  Aggressive. MatchTrader + DXtrade. Heavy ADD-ON monetisation (80% + 1:100 were
+  paid upgrades). Bi-weekly payouts, 10-day minimum, $50-100 minimums.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (site DOWN — errors archived as evidence):
+ 1. https://traderswithedge.com — TRANSPORT ERROR (apex, Sep 2026)
+ 2. https://www.traderswithedge.com — TRANSPORT ERROR (www, Sep 2026)
+ 3. https://traderswithedge.com/turtle-1-phase-challenge/ (historical URL, down)
+ 4. https://traderswithedge.com/instant-funding/ (historical URL, down)
+ 5. https://traderswithedge.com/hall-of-fame/ (historical payouts page, down)
+ 6. https://traderswithedge.com/s/reviews/ (historical reviews, down)
+ARCHIVED VIA THIRD-PARTY CITES (historical official content quoted):
+ 7. Turtle/Hare/Instant rules via PropFirm201/DumbLittleMan/FXParKey tables
+ 8. Payout methods/minimums via DumbLittleMan/FXParKey
+ 9. Eightcap execution + add-on model via JoinProp/PropFirm201
+10. Closure evidence: JoinProp Aug 2026 (error + CLOSED + 5-week outage)
+CROSS-CHECK SOURCES (third-party):
+11. JoinProp Traders With Edge review Aug 2026 (CLOSED verdict, do-not-buy)
+12. PropFirm201 Traders With Edge review Apr 2026 (4.4/157, $55-$5,997 table, bans)
+13. Trustpilot IE/UK/CA profiles (3.4-4.5, 168-185 reviews, payout-failure cases)
+14. DumbLittleMan review Jan 2026 (Turtle/Hare pricing, withdrawal conditions)
+15. FXParKey review Apr 2024 (Instant 50% split, $125 desk fee, 14-day trial)
+16. LivingFromTrading review (HK base, $3M scale, 80% split)
+TOTAL SOURCES: 16 (6 dead-official + 10 third-party; NO live official Sep 2026).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE (HISTORICAL)
+================================================================================
+PLATFORMS (historical): MatchTrader + DXtrade (primary); MT5 cited on some plans
+(PropFirm201: MatchTrader/DXtrade/MT5). Social trader platform (web/Android/iOS).
+Credentials immediate after signup (when live). Platform DOWN 5+ weeks pre-closure.
+INSTRUMENTS (historical): Forex, Indices, Metals, Commodities, Stocks, Crypto
+CFDs; 1,000+ stocks cited. Weekend holding + news trading allowed (when live).
+LEVERAGE (historical, add-on-gated): Turtle 1:20 standard; Hare 1:50 standard;
+up to 1:100 via PAID customisation/add-on (base lower — headline 1:100 NOT default).
+Per-symbol lower on crypto/stocks. All costs counted toward equity-based DD.
+EXECUTION: via Eightcap (ASIC broker); Indonesia-based B-grade manipulation/
+slippage allegations in 1-star reviews (unverified single reports).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE (HISTORICAL)
+================================================================================
+| # | Program            | Steps | Sizes        | Target          | Daily loss | Max loss | Min days | Split | Fee model      |
+|---|--------------------|-------|--------------|-----------------|------------|----------|----------|-------|----------------|
+| 1 | Turtle Standard    | 1     | 5K-1M        | 10% (10-365d)   | 3%         | 5-6%     | 5-10     | 80%*  | $55-$5,997     |
+| 2 | Turtle Aggressive  | 1     | 5K-1M        | 20%             | higher     | 10%+     | 5-10     | 80%*  | $110-$15,000   |
+| 3 | Hare Standard      | 2     | 5K-100K      | 10% + 5% (5-60d)| 5%         | 10%      | 5+5      | 80%*  | $69-$550       |
+| 4 | Hare Aggressive    | 2     | 5K-50K       | higher          | higher     | 20%      | 5+5      | 80%*  | $138-$660      |
+| 5 | Instant Standard   | 0     | 2.5K-20K     | 10% to payout   | 5%         | 5%       | 5        | 50%   | $55-$199 ($125 desk) |
+| 6 | Instant Aggressive | 0     | 2.5K-20K     | 20% to payout   | higher     | 10%      | 5        | 50%   | higher         |
+Notes (*): 80% split + 1:100 leverage were PAID ADD-ONS, not defaults (JoinProp).
+Base accounts earned materially less than headline. Instant paid ~50% always.
+Drawdown equity-based. 14-day free trial offered. $1M max single ($2.5K min);
+$3M scale normal, $30M headline after ~2 years (marketing, effectively unreachable).
+DO NOT PURCHASE — firm appears closed.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES (HISTORICAL)
+================================================================================
+--- 5A. TURTLE (1-phase, slow/beginner) ---
+- Single phase 10-365 days. Standard: 10% target, 3% daily, 5-6% overall,
+  1:20 leverage. Aggressive: 20% target, higher DD, 1:50. Sizes 5K-1M.
+  Min 5-10 trading days. Weekend/news holding allowed. EAs permitted.
+--- 5B. HARE (2-phase, fast) ---
+- Two phases 5-60 days (min 5 days each). Standard: 10% + 5%, 5% daily, 10% max.
+  Aggressive: higher targets/DD to 20%. 1:50 base. Sizes 5K-100K (Std) / 5K-50K
+  (Aggr). $400K Hare pass-denial case (Riseworks-KYC excuse) documented.
+--- 5C. INSTANT (immediate, 50% split) ---
+- No eval; immediate funding 2.5K-20K. Standard: 10% to payout, 5% DD, 1:100
+  (add-on), $125 desk fee. Aggressive: 20% to payout, 10% DD, 1:50. Split 50%
+  (NOT 80% — industry-low for instant). Min 5 trading days to request.
+--- 5D. SHARED RULES (historical) ---
+- Tick scalping (<30s) prohibited; arbitrage prohibited; cross-account hedging
+  prohibited. Copy trading + EAs allowed (risk-management EAs + own-account copy).
+- News permitted with spread/slippage caution; weekend holding allowed.
+- Bi-weekly profit cycle; 10 active days + Phase-2 completion + funded balance
+  required to withdraw. Lot-size manipulation rule enforced ($400K case).
+- Banned: Hong Kong, Australia, Cuba, Iran, North Korea, Sudan, Syria (+ others).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (HISTORICAL — DO NOT PAY)
+================================================================================
+ONE-TIME FEES (historical list; add-ons extra; DO NOT SEND FUNDS):
+TURTLE Standard: 5K $55 | 10K $99 | 25K $199 | 50K $399 | 100K $699 |
+200K $1,299 | 500K $2,999 | 1M $5,997 (to $7,500 cited). Aggressive ~2x
+($110-$15,000).
+HARE Standard: 5K $69 to 100K $550. Aggressive: $138-$660 (5K-50K).
+INSTANT Standard: 2.5K $55 | 5K $99+ | 10K $199 | 20K desk $125 variant.
+14-day free trial offered (historical).
+ADD-ONS (historical): 80% split upgrade, 1:100 leverage upgrade, drawdown add-on,
+competitive-reliability add-on — core of monetisation (base split/leverage lower).
+REFUND: $400K full-refund promise never arrived (documented case). Chargeback via
+card provider if paid recently; report to consumer/financial authorities; via
+Eightcap broker channel possible. Beware upfront-fee recovery scams.
+Payment (historical): cards/crypto; Riseworks payout provider (KYC excuse cited).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT (HISTORICAL)
+================================================================================
+- Split: Turtle/Hare 80%* (*paid upgrade; base lower); Instant 50% (fixed low).
+- First payout: after Phase-2 + 10 active trading days + funded balance.
+- Frequency: BI-WEEKLY (every 14 days, profit-sharing cycle). Avg 6-7 days
+  (slowest in industry vs 24h rivals); account untradeable during wait.
+- Methods: Wise, Crypto (BTC/USDT; $100 min crypto), Bank transfer, PayPal,
+  Perfect Money, Fasapay, Payeer, Payoneer ($50 min non-crypto). Via Riseworks.
+- Minimum: $50 (Fasapay/Payeer/Payoneer/Perfect/Wise/bank); $100 (BTC/USDT/PayPal).
+- KYC: ID + payout-provider (Riseworks) verification; $400K KYC-excuse denial noted.
+- SCALING (historical headline): +25% per 10% net / 4 months with 2 profitable
+  months; to $3M normal, $30M after ~2 years (marketing; unreachable pre-closure).
+- Verified paid: NO audited total published. Late payouts: consistent-profit
+  3rd-4th payout ignored/denied pattern (draining-liability allegation).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (HISTORICAL)
+================================================================================
+BANNED (historical): tick scalping <30s; arbitrage; cross-account hedging;
+account sharing; third-party trading; feed/latency exploits; server spamming;
+KYC fraud; chargebacks. Lot-size manipulation rule (Hare $400K enforcement).
+EAs + copy (own) ALLOWED; news/weekend ALLOWED (when live).
+Consequences ladder (historical): payout hold (6-7d review), denial, suspension,
+termination + refund promise (often unfulfilled per reports).
+CLOSURE CONDUCT: dead dashboard (no P&L/withdrawals 4 weeks), platform down
+1+ week, zero updates/compensation, seen-not-answered support, cancelled accounts
+without reason — treat as payout-failure pattern, not normal enforcement.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC (HISTORICAL)
+================================================================================
+- Age 18+. Individuals; social platform accounts.
+- USA: cited as US-based in some reviews BUT Hong Kong entity; confirm dead —
+  do not apply from any jurisdiction.
+- BANNED (historical): Hong Kong, Australia, Cuba, Iran, North Korea, Sudan,
+  Syria (+ others). Paradox: HK firm banning HK/AU residents.
+- KYC (historical): ID + payout-provider verification; Riseworks-KYC denial
+  weaponised in $400K case (reporter used Riseworks 2 years elsewhere).
+- VPN/VPS: secure-account requirement; multi-IP risks flags (historical).
+- CURRENT: NO eligibility — firm appears CLOSED. If owed money: keep receipts/
+  statements/requests/correspondence; report to consumer/financial authorities;
+  card chargeback if recent; contact Eightcap channel; avoid recovery-fee scams.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot: 4.5/168 (UK) -> 4.5/170 (CA) -> 4.4/157 (PropFirm201) -> 3.4/185 (IE).
+  Early 5*: fair eval, weekend/news freedom, instant credentials, Ariawan/Jerome
+  support, smooth Friday-Monday payouts. Late 1*: dead dashboard 4 weeks, platform
+  down 1 week, $400K denial + phantom refund, consistent-profit 3rd-payout cutoff,
+  6-7d slowest payouts, 10%-reply/1-month-lag support, BEWARE slippage/negative-trade
+  claims, fake-5* allegations. Replied 10-100% depending on profile/era.
+- JoinProp Aug 2026: CLOSED/defunct verdict (error + tracker + 5-week outage).
+  Score reflects closure + payout failure. Kept as caution only.
+- PropFirm201: $55-$5,997 table; 50%-instant + offline + slow-support + HK/AU-ban
+  + high-risk-rating flags. DumbLittleMan: Turtle/Hare mechanics + $50-100 minimums.
+  FXParKey/LivingFromTrading: historical 80%/50% + $3M-scale summaries.
+- Red flags: CONFIRMED closure pattern (site down + tracker CLOSED + outage +
+  cancellations + silence). Do-not-send-funds warning ACTIVE. Historical 50%-instant
+  + pay-to-unlock + $30M-marketing were warning signs in hindsight.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY (HISTORICAL): largest headline sizes ($1M single, $30M scale) vs
+$200-400K rivals — but marketing over substance (add-on-gated 80%/1:100,
+50%-instant, 6-7d payouts slowest, HK/AU bans incl home market). Eightcap routing
+added broker credibility vs pure-bucket rivals — but TWE unregulated regardless.
+BEST FIT (HISTORICAL, now moot): weekend/news holders; EA/copy users;(intl non-banned).
+CURRENT FIT: NO ONE. Do not buy, do not deposit, do not trade. If owed: document +
+report + chargeback path (see Section 9). Alternatives for ex-TWE styles: weekend/
+news-friendly static-DD firms with live payouts (verify Trustpilot live + on-chain
+proof + 24-48h guarantee before paying anywhere).
+RULE OF THUMB: headline ceilings you will never reach matter less than whether
+the firm is stable and pays TODAY — TWE advertised $30M then went quiet 5 weeks.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: apex + www live-fetched Sep 2026 (BOTH transport errors — closure
+evidence); historical rules/pricing via Apr-2026 PropFirm201, Jan-2026 DumbLittleMan,
+2024 FXParKey, LivingFromTrading tables; closure via Aug-2026 JoinProp + tracker
+CLOSED warning + Trustpilot outage cases. No live official source Sep 2026.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE (CLOSED archival) — created with
+all 12 sections as historical record; marks DEFUNCT, preserves Turtle/Hare/Instant
+tables, add-on warning, $400K case, recovery guidance.
+RAW EXCERPTS (verbatim):
+[1] Closure (JoinProp Aug 2026): "Warning: Traders With Edge appears to have shut
+down. Do not buy a challenge or send it money." | "the firm's website does not
+load a working site — it returns an error — independent trackers list it as CLOSED
+with a 'do not send funds' warning, and traders report the platform being down for
+five-plus weeks, accounts cancelled without explanation and unresponsive support."
+[2] Model (JoinProp): "the advertised 80% split and 1:100 leverage required buying
+upgrades, and instant funding paid only about 50%".
+[3] Scale (historical): "up to $1,000,000 ... scale up to $3,000,000 and ... $30
+million after two years of consistent profitability."
+[4] Execution: "partners with Eightcap, an ASIC-licensed broker, for trade
+execution" (broker regulated; firm unregulated).
+[5] Outage (Trustpilot Dec 2025): "Four weeks with a dead dashboard — no P&L, no
+withdrawals. This past week the trading platform itself was down. Zero updates,
+zero compensation."
+[6] Cutoff (Trustpilot): "You will run into payout issues after showing consistency
+— usually third to fourth payout. They will simply not pay and ignore all
+communication."
+[7] $400K (Trustpilot): "they cannot continue our cooperation due to KYC with their
+payout provider Riseworks ... will issue me a full refund which is of course still
+not back".
+[8] Pricing (PropFirm201): "Fees start at $55 for a $5,000 account and go up to
+$5,997 for a $1,000,000 account." | "Instant funding accounts have a 50% profit split".
+[9] Bans: "Banned in Hong Kong, Australia, and several other countries" |
+"Hong Kong, Australia, Cuba, Iran, North Korea, Sudan, Syria."
+[10] Recovery (JoinProp): "keep all your records (receipts, statements, payout
+requests, correspondence), report it to relevant consumer or financial authorities"
+| "Be wary of 'recovery' services charging upfront fees."
+================================================================================
+END OF FILE — TradersWithEdge COMPLETE (CLOSED ARCHIVAL). Next firm is a separate task (not started).
+================================================================================

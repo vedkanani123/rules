@@ -16,6 +16,7 @@ import { ChangesPage } from './pages/ChangesPage.tsx';
 import { AdminCrawlerPage } from './pages/AdminCrawlerPage.tsx';
 import { GoatRulesDemoPage } from './pages/GoatRulesDemoPage.tsx';
 import { GoatResearchTerminalV3Page } from './pages/GoatResearchTerminalV3Page.tsx';
+import { FirmResearchTerminalV3Page } from './pages/FirmResearchTerminalV3Page.tsx';
 import { RiskSimulator } from './components/simulator/RiskSimulator.tsx';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from './data/propFirmsData.ts';
 import { REAL_FIRMS } from './data/propFirmMatchReal.ts';
@@ -173,8 +174,14 @@ export const App: React.FC = () => {
       );
     }
 
-    // 1.5 Prop Firms List Route: /prop-firms
-    if (currentPath === '/prop-firms' || currentPath === '/prop-firms/') {
+    // 1.5 Prop Firms List Route: /prop-firms, /firms, /directory
+    if (
+      currentPath === '/prop-firms' ||
+      currentPath === '/prop-firms/' ||
+      currentPath === '/firms' ||
+      currentPath === '/firms/' ||
+      currentPath === '/directory'
+    ) {
       return <PropFirmsListPage onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
@@ -202,64 +209,34 @@ export const App: React.FC = () => {
       return <GoatRulesDemoPage onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
-    // 1.9 Classic / Original Goat Firm Detail Route: /prop-firms/goat-funded-trader/classic, /original, /legacy, /v1
+    // 1.9 Classic / Original / Legacy Firm Detail Route (Preserved legacy page without editing): /prop-firms/:slug/classic, /original, /legacy, /v1
     if (
-      currentPath === '/prop-firms/goat-funded-trader/classic' ||
-      currentPath === '/prop-firms/goat-funded-trader/original' ||
-      currentPath === '/prop-firms/goat-funded-trader/legacy' ||
-      currentPath === '/prop-firms/goat-funded-trader/v1'
+      currentPath.includes('/classic') ||
+      currentPath.includes('/original') ||
+      currentPath.includes('/legacy') ||
+      currentPath.includes('/v1')
     ) {
-      const targetFirm: any = PROP_FIRMS_DATA.find((f) => f.slug === 'goat-funded-trader') as any;
+      const rawSlug = currentPath.replace('/prop-firms/', '').replace('/firm/', '').split('/')[0];
+      const targetFirm: any = (PROP_FIRMS_DATA.find((f) => f.slug === rawSlug) || PROP_FIRMS_DATA[0]) as any;
       return <FirmDetailPage firm={targetFirm} onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
-    // 1.95 Main Goat Funded Trader Route -> Research Terminal v3 (The #1 comprehensive research station)
+    // 1.95 Main Goat Funded Trader Route -> Research Terminal v3 (The #1 comprehensive research station - UNTOUCHED)
     if (
       currentPath === '/prop-firms/goat-funded-trader' ||
-      currentPath === '/prop-firms/goat-funded-trader/'
+      currentPath === '/prop-firms/goat-funded-trader/' ||
+      currentPath === '/firm/goat-funded-trader'
     ) {
       return <GoatResearchTerminalV3Page onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
-    // 2. Firm Detail Route: /prop-firms/:slug
-    if (currentPath.startsWith('/prop-firms/')) {
-      const rawSlug = currentPath.replace('/prop-firms/', '').split('/')[0];
+    // 2. Firm Detail Route: /prop-firms/:slug or /firm/:slug -> Universal Research Terminal v3 for all companies
+    if (currentPath.startsWith('/prop-firms/') || currentPath.startsWith('/firm/')) {
+      const rawSlug = currentPath.replace('/prop-firms/', '').replace('/firm/', '').split('/')[0];
       const slug = (rawSlug || '').split('?')[0].split('#')[0];
-      const targetFirm: any = PROP_FIRMS_DATA.find((f) => f.slug === slug) as any;
-      // Directory-only firms: never fabricate rules, prices, websites, or verification.
-      // Show honest Unknown state with directory metadata + verification warning.
-      if (!targetFirm) {
-        const rf: any = (REAL_FIRMS as unknown as any[]).find((r: any) => r.slug === slug);
-        if (rf) {
-          return (
-            <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-5">
-              <div className="p-5 rounded-2xl bg-amber-500/[0.07] border border-amber-500/25 space-y-2">
-                <p className="text-sm font-semibold text-amber-200">Rules under verification</p>
-                <p className="text-xs leading-relaxed text-amber-100/80">Do not rely on this data for a trading or purchase decision until the source has been reviewed. {rf.name} is listed in the directory, but its rules have not yet been verified from official sources. Unknown must remain unknown.</p>
-              </div>
-              <div className="p-6 rounded-2xl bg-[#111318] border border-[#1F2228] space-y-3">
-                <h1 className="text-2xl font-bold text-white">{rf.name}</h1>
-                <p className="text-sm text-white/60">Directory metadata only — trust score {rf.trustScore ?? 'Unknown'} · {rf.reviewsCount ?? 0} reviews · {Array.isArray(rf.platforms) ? rf.platforms.join(', ') : 'Platforms unknown'}</p>
-                <p className="text-xs text-white/40">Verification status: Unknown · Program details: Not publicly verified · Pricing: Unknown · Drawdown: Unknown · Payout: Unknown</p>
-                <div className="flex flex-wrap gap-2 pt-2">
-                  <button onClick={() => navigate('/prop-firms')} className="px-5 py-2.5 rounded-xl bg-white text-[#080A10] text-sm font-semibold">Back to directory</button>
-                  <button onClick={() => navigate('/compare')} className="px-5 py-2.5 rounded-xl bg-[#111318] border border-[#1F2228] text-sm text-white/70">Compare verified firms</button>
-                </div>
-              </div>
-            </div>
-          );
-        }
-        return (
-          <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center space-y-4">
-            <h1 className="text-2xl font-bold text-white">Firm not found</h1>
-            <p className="text-sm text-white/60">No firm with slug <code className="px-2 py-1 glass-card rounded text-[#3b82f6]">{slug}</code></p>
-            <button onClick={() => navigate('/prop-firms')} className="mt-4 px-5 py-3 min-h-[44px] rounded-xl bg-[#2563eb] hover:bg-[#1d4ed8] text-white text-sm font-bold">Back to Firms</button>
-          </div>
-        );
-      }
       return (
-        <FirmDetailPage
-          firm={targetFirm}
+        <FirmResearchTerminalV3Page
+          slug={slug}
           onNavigate={navigate}
           onOpenSource={handleOpenSource}
         />
@@ -267,12 +244,19 @@ export const App: React.FC = () => {
     }
 
     // 3. Compare Route
-    if (currentPath === '/compare') {
+    if (currentPath === '/compare' || currentPath === '/compare/') {
       return <ComparePage onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
-    // 4. Wizard Route
-    if (currentPath === '/wizard') {
+    // 4. Wizard & Account Finder Route: /wizard, /finder, /find, /match
+    if (
+      currentPath === '/wizard' ||
+      currentPath === '/wizard/' ||
+      currentPath === '/finder' ||
+      currentPath === '/finder/' ||
+      currentPath === '/find' ||
+      currentPath === '/match'
+    ) {
       return <WizardPage onNavigate={navigate} />;
     }
 
@@ -313,18 +297,36 @@ export const App: React.FC = () => {
       return <RuleGuidePage guideSlug={slug || RULE_GUIDES[0].slug} onNavigate={navigate} />;
     }
 
-    // 7. All Rules Hub: /rules
-    if (currentPath === '/rules' || currentPath.startsWith('/rules?')) {
+    // 7. All Rules Hub: /rules, /knowledge
+    if (
+      currentPath === '/rules' ||
+      currentPath === '/rules/' ||
+      currentPath.startsWith('/rules?') ||
+      currentPath === '/knowledge' ||
+      currentPath === '/knowledge/' ||
+      currentPath.startsWith('/knowledge?')
+    ) {
       return <RulesHubPage onNavigate={navigate} />;
     }
 
     // 8. Reviews Route: /reviews
-    if (currentPath === '/reviews') {
+    if (
+      currentPath === '/reviews' ||
+      currentPath === '/reviews/' ||
+      currentPath === '/disputes' ||
+      currentPath === '/evidence'
+    ) {
       return <ReviewsPage onNavigate={navigate} />;
     }
 
-    // 9. Changelog Route: /changes
-    if (currentPath === '/changes') {
+    // 9. Changelog Route: /changes, /changelog, /audit
+    if (
+      currentPath === '/changes' ||
+      currentPath === '/changes/' ||
+      currentPath === '/changelog' ||
+      currentPath === '/changelog/' ||
+      currentPath === '/audit'
+    ) {
       return <ChangesPage onNavigate={navigate} />;
     }
 

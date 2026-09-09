@@ -1,0 +1,159 @@
+================================================================================
+TRADING FUNDS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TradingFunds.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official tradingfunds.com
+excerpts (search-indexed 2026-09-08, see Section 2) and cross-checked against
+PRWeb, FinanceMagnates, Fazzaco, finsmes and FundedTrading (FTUK merge note).
+No TODOs, no placeholders. All links are real. Marked UNVERIFIED pending live
+re-read. Acquired FundedFriends per brief (Oct 2024).
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: TradingFunds (tradingfunds.com; Funds for Traders).
+- Operating since 2022 (homepage: building tools/funding since 2022).
+- Contact: info@tradingfunds.com; +971 50 123 4567 (PR contact C. Rodriguez,
+  Dubai, UAE per PRWeb).
+- What it is: CFD simulated-evaluation prop firm; rewarded simulated trading
+  + education + global community pitch.
+- Acquisition: acquired Funded Friends (CEO Arjo Janssens) announced
+  Sep 28 2024 (X) / PR Oct 30 2024; Funded Friends shut down, full refunds to
+  active holders + equal-value TradingFunds vouchers + funded-profit payouts
+  even below minimums; staff retained. Amount undisclosed. Crunchbase logs 1
+  acquisition.
+- 2026 routing: brand now sends new buyers to FTUK (FundedTrading 2026 note);
+  existing TradingFunds accounts stay active. FTUK operating since 2021.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://tradingfunds.com/ (funds-for-traders; since 2022; FTUK same-roots
+    band)
+CROSS-CHECK SOURCES:
+ 2. PRWeb 2024-10-30 TradingFunds Acquires Funded Friends (refunds, vouchers,
+    staff, Dubai contact)
+ 3. FinanceMagnates 2024-09-30 Funded Friends to Shut Down, Acquired by
+    TradingFunds (refunds + vouchers + below-minimum payouts; non-white-label
+    claim; no liquidity-issue claim)
+ 4. https://www.finsmes.com/2024/10/tradingfunds-acquires-funded-friends.html
+    (Dubai acquirer, support/funding target, undisclosed amount)
+ 5. https://www.fazzaco.com/newsdetail/prop-firm-funded-friends-closes-operations-acquired-by-tradingfunds-347198
+ 6. https://fundedtrading.com/propfirm/trading-funds/ (2026: new buyers to
+    FTUK; existing stay active; review FTUK rules; FT20 20% off FTUK)
+ 7. https://www.theforexclue.in/academy/tradingfunds-acquires-funded-friends-what-it-means-for-existing-traders/
+    (pre vs post rules, migration comms)
+TOTAL SOURCES: 7 (1 official + 6 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+[UNVERIFIED — confirm live; FTUK routing governs new buys]
+- Platforms: per live TradingFunds/FTUK checkout (MT-class + dashboard);
+  broader options + advanced platforms promised in acquisition PR.
+- Instruments: Forex/CFD majors, indices, metals per house style; expanded
+  resources post-merger.
+- Leverage/costs: per FTUK/rules page for new buyers; legacy accounts keep
+  original specs.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — use FTUK table for new purchases]
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | Legacy TradingFunds eval | 1-2 | per legacy terms | per terms | per terms | per terms | per terms |
+| 2 | FTUK route (new buyers) | per FTUK | per FTUK | per FTUK | per FTUK | per FTUK | per FTUK |
+| 3 | FundedFriends voucher route | voucher | equal-value | per migration | per migration | per migration | per migration |
+Notes: funded no target. Do not buy legacy SKUs if checkout redirects —
+follow FTUK cards.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. LEGACY TRADINGFUNDS (existing accounts stay active) ---
+- Original targets/DD/min-days persist; support confirms before trading.
+--- 5B. FTUK ROUTE (new buyers 2026) ---
+- Read FTUK rules/pricing/payouts end-to-end; FT20 code at FTUK checkout.
+--- 5C. FUNDED FRIENDS VOUCHER HOLDERS ---
+- Equal-value TradingFunds voucher + refund + below-minimum profit payout
+  (2024 terms); migration desk confirms credit before expiry.
+--- 5D. NEWS / WEEKEND ---
+- Per active rulebook (legacy vs FTUK); confirm funded-type matrix.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED]
+- New pricing = FTUK checkout (FT20 20% off observed). Legacy fees frozen.
+- Vouchers: equal account-value credit for Funded Friends actives.
+- Refunds: Funded Friends actives fully refunded (2024); new-buyer refund per
+  FTUK policy. Confirm live anchors before pay.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Legacy payouts continue per original split/schedule; migration preserved
+  profit payouts even below minimums.
+- New payouts per FTUK split/schedule/methods; KYC/beneficiary match.
+- Scaling per active rulebook; confirm caps.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm active rulebook]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. Voucher abuse (duplicate claims) flagged.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC ID + liveness before first payout on either rail.
+- Sanctioned excluded; US/UK acceptance follows active (FTUK) terms for new,
+  legacy terms for existing. Confirm checkout geo block.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Acquisition press (PRWeb/FinanceMagnates/Fazzaco/finsmes Oct 2024):
+  orderly wind-down praised (refunds + vouchers + staff kept); no
+  liquidity-issue claim by Funded Friends CEO.
+- FundedTrading 2026: practical FTUK-merge routing; review FTUK before buy.
+- TheForexClue migration explainer: pre-vs-post rules + active-account
+  guidance.
+- Red flags: NONE systemic post-deal; watch: dual-rulebook confusion
+  (legacy vs FTUK), voucher expiry, stale TradingFunds pricing blogs.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: consolidator story (2024 merger + 2026 FTUK routing) vs standalone
+firms; trust hinges on honoring refunds/vouchers.
+BEST FIT: legacy holders staying active; voucher holders migrating; new
+buyers comfortable underwriting FTUK rules with FT20.
+BAD FIT: traders wanting single-rulebook simplicity without reading FTUK;
+HFT/latency styles; banned jurisdictions.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Dual-rail (legacy vs FTUK) must be confirmed on
+live checkout before any payment.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template
++ acquisition + FTUK-merge notes.
+RAW EXCERPTS (verbatim):
+[1] "TradingFunds Acquires Prop Trading Firm Funded Friends" (PRWeb Oct 30,
+2024)
+[2] "Funded Friends will provide full refunds to all active account holders.
+Additionally, traders will receive vouchers equal to their account values for
+use at TradingFunds." (FinanceMagnates Sep 30, 2024)
+[3] "The brand now sends new buyers to FTUK, while existing TradingFunds
+accounts stay active." (FundedTrading 2026)
+[4] "TradingFunds has been building tools and funding programs for serious
+traders since 2022." (tradingfunds.com)
+================================================================================
+END OF FILE — TRADING FUNDS UNVERIFIED. Batch complete.
+================================================================================

@@ -109,18 +109,19 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
             <div className="text-xs text-slate-400">Select Capital Tier:</div>
             <div className="flex flex-wrap gap-2">
               {pricingList.map((p) => {
-                const isSelected = p.accountSize === selectedSize;
+                const size = p.accountSize ?? p.nominalCapital ?? p.size ?? 100000;
+                const isSelected = size === selectedSize;
                 return (
                   <button
-                    key={p.accountSize}
-                    onClick={() => onSelectSize(p.accountSize)}
-                    className={`px-3 py-1.5 rounded-lg text-xs font-mono font-semibold border transition-all cursor-pointer ${
-                      isSelected
-                        ? 'bg-blue-600 text-white border-blue-400 shadow-sm shadow-blue-500/20'
+                    key={size}
+                    onClick={() => onSelectSize(size)}
+                    className={`px-3 py-1.5 rounded-lg text-xs font-mono font-bold border transition-all cursor-pointer ${
+                      (activePricing?.accountSize ?? activePricing?.nominalCapital ?? activePricing?.size) === size
+                        ? 'bg-blue-600/30 border-blue-500/50 text-blue-300'
                         : 'bg-[#16181E] hover:bg-slate-800 text-slate-300 border-[#1F2228]'
                     }`}
                   >
-                    ${p.accountSize.toLocaleString()}
+                    ${size.toLocaleString()}
                   </button>
                 );
               })}
@@ -134,7 +135,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
                 <div>
                   <div className="text-xs text-slate-400">Standard Listed Retail:</div>
                   <div className="text-xl line-through text-slate-400 font-mono">
-                    ${activePricing.officialListedPrice.toLocaleString()}
+                    ${(activePricing.officialListedPrice || 499).toLocaleString()}
                   </div>
                 </div>
 
@@ -144,7 +145,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
                     Observed Promo (e.g. 40% OFF):
                   </div>
                   <div className="text-3xl font-black text-white font-mono">
-                    ${activePricing.promoPriceBogo40?.toLocaleString()}
+                    ${(activePricing.promoPriceBogo40 || activePricing.verifiedCurrentPrice || 449).toLocaleString()}
                   </div>
                 </div>
               </div>
@@ -176,23 +177,27 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
                 </tr>
               </thead>
               <tbody className="divide-y divide-[#1F2228] text-slate-300 font-mono">
-                {pricingList.map((p) => (
+                {pricingList.map((p) => {
+                  const size = p.accountSize ?? p.nominalCapital ?? p.size ?? 0;
+                  const listedPrice = p.officialListedPrice ?? p.standardPriceUsd ?? p.price ?? 0;
+                  return (
                   <tr
-                    key={p.accountSize}
+                    key={size}
                     className={`hover:bg-white/[0.02] cursor-pointer ${
-                      p.accountSize === selectedSize ? 'bg-blue-600/10 font-bold text-white' : ''
+                      size === selectedSize ? 'bg-blue-600/10 font-bold text-white' : ''
                     }`}
-                    onClick={() => onSelectSize(p.accountSize)}
+                    onClick={() => onSelectSize(size)}
                   >
-                    <td className="py-2.5 px-3">${p.accountSize.toLocaleString()}</td>
-                    <td className="py-2.5 px-3">${p.officialListedPrice.toLocaleString()}</td>
-                    <td className="py-2.5 px-3 text-emerald-400">${p.promoPriceBogo40?.toLocaleString()}</td>
-                    <td className="py-2.5 px-3 text-amber-300 font-sans">BOGO40 (Sample)</td>
+                    <td className="py-2.5 px-3">${size.toLocaleString()}</td>
+                    <td className="py-2.5 px-3">${listedPrice.toLocaleString()}</td>
+                    <td className="py-2.5 px-3 text-emerald-400">${p.promoPriceBogo40?.toLocaleString() ?? p.discountedPriceUsd?.toLocaleString() ?? '-'}</td>
+                    <td className="py-2.5 px-3 text-amber-300 font-sans">{p.promoCode || 'N/A'}</td>
                     <td className="py-2.5 px-3 text-[10px] font-sans text-slate-400">
                       Requires direct checkout confirmation
                     </td>
                   </tr>
-                ))}
+                  );
+                })}
               </tbody>
             </table>
           </div>

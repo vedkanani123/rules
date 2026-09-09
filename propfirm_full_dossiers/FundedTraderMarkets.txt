@@ -1,0 +1,290 @@
+================================================================================
+FundedTraderMarkets — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundedTraderMarkets.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Funded Trader Markets pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Funded Trader Markets (FTM, site fundedtradermarkets.com).
+- Legal entities: FTM Funded Trader Markets LTD, Cyprus HE462185 (56 Alekou
+  Konstantinou, Strovolos, Nicosia); Formed Technologies INT FZCO, UAE Reg 36580
+  (Building A1 Dubai Digital Park, Silicon Oasis, Dubai); Funded Trader Markets
+  LTD, Saint Lucia 2025-00239 (brokerage MT4/5). Contracting/payment entity per
+  checkout/invoice (UAE clients NOT processed by Cyprus entity).
+- Founded: August 2024 (Saint Lucia entity; Dubai operation). 160+ countries.
+- Contact: support@fundedtradermarkets.com | 24/7 support | Discord discord.com/
+  invite/ftmarkets | X @FTMarketslive | Instagram @fundedtradermarkets |
+  Help Center intercom.help/fundedtradermarkets/en | dashboard.fundedtradermarkets.com.
+- What it is: CFD simulated-evaluation + instant prop firm. ALL accounts are demo
+  for education in non-live environment; no investment advice; no client deposits
+  for investment. Rewards are real-money shares of notional profits.
+- Scale claimed: $7.71M paid & counting (homepage live feed); $5.69M Jun 2026;
+  $5.55M Pickr counter; $4M+ MyPropGenius; $2.16M / 1,005 payouts TTP snapshot
+  ($405K last-30d, avg $2,149, largest $40,513). 5,180+ rewards paid; avg under
+  20 mins (25m11s telemetry); 93%+ in 24H. Champions: Bertram Schneider $106,278,
+  Shivam Swami $101,852, Mathias Westergren $83,292, Ibrahim Ahmed $82,591.
+- Press: Benzinga, StreetInsider, Binance Square, MSN, Digital Journal, Finance
+  Magnates (MT5 + proprietary brokerage). MT5 Available badge.
+- Trustpilot: 3.9/5 from 463 reviews (320x5*, 88x1*, bimodal); profile currently
+  breach-notice (unavailable rating). TTP 9.3/10 from 160 reviews (user 9.2,
+  slippage 9.4, rules 9.0). FundedTrading 8.3/10; PropFirmReviews 5.0-cap;
+  Pickr 4.3/5; MyPropGenius 3.6/5; FuturesHive mid-tier.
+- Key distinction: 1-Step Nitro/Nitro Pro/Nitro X + 2-Step Plus/Prime + Instant
+  Standard/Pro/Plus (8 types). 4 platforms (MT5/cTrader/TradeLocker/Match-Trade).
+  Up to $300K accounts, $700K allocation, $1-3M scale. Up to 100% split (evals).
+  On-demand rewards + 24h-or-double guarantee (on-chain Arbiscan verified).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fundedtradermarkets.com (homepage: $7.71M feed, 100%/24h-double,
+    4-platform, champions, entities, bans)
+ 2. https://fundedtradermarkets.com/1-step (Nitro/Nitro Pro/Nitro X plans)
+ 3. https://fundedtradermarkets.com/2-step (Plus/Prime plans)
+ 4. https://fundedtradermarkets.com/ftm-instant-funding (Instant trio)
+ 5. https://fundedtradermarkets.com/programs + /variations (compare + pricing)
+ 6. https://fundedtradermarkets.com/how-it-works (4-step path)
+ 7. https://fundedtradermarkets.com/rewards (live rewards + Arbiscan links)
+ 8. https://fundedtradermarkets.com/faq (Must-Read FAQ: 1%/consistency/partial)
+ 9. https://fundedtradermarkets.com/instruments-specification (symbols/specs)
+10. https://fundedtradermarkets.com/terms-conditions + /refund-policy + /aml-policy
+    + /promo-terms + /affiliate-policy + /privacy-policy (legal set)
+11. https://dashboard.fundedtradermarkets.com/sign-up + /sign-in (dashboard/checkout)
+12. https://intercom.help/fundedtradermarkets/en (Help Center)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. TheTrustedProp FTM review Aug 2026 (TTP 86/100, 9.3/10, $2.16M proof)
+14. FundedTrading FTM review Aug 2026 (8.3/10, $5.69M, FT60 code)
+15. PropFirmReviews.net FTM review Jul 2026 (5.0 transparency cap, rule-burial analysis)
+16. PropFirmPickr FTM review Jul 2026 (4.3/5, PICKR stack to 75%)
+17. MyPropGenius FTM review Apr 2026 (3.6/5, $4M+, aggregation rules)
+18. FuturesHive FTM review May 2026 (mid-tier, GOAT/FTMO price table)
+19. Trustpilot https://www.trustpilot.com/review/fundedtradermarkets.com (3.9/463)
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase):
+- MetaTrader 5 (MT5) — newly launched + proprietary brokerage; NOT for US residents.
+- cTrader — NOT for US residents; full EA/automation support.
+- TradeLocker — web/mobile fast execution.
+- Match-Trade (Match-Trader) — web/mobile.
+- NO MT4, NO DXtrade, NO TradingView standalone. Proprietary brokerage built for
+  serious traders (Finance Magnates).
+INSTRUMENTS: Forex, Commodities, Crypto, Indices & more (liquid markets);
+full specs at /instruments-specification/. Swap-free ALL accounts, no add-on fee.
+News + weekend holding ALLOWED every program. Tight spreads, no swaps, fast
+execution marketed; XAUUSD slippage/spread complaints in volatility noted.
+LEVERAGE: Up to 1:100 (program-dependent). Per-symbol lower on crypto/indices.
+All costs COUNT toward balance-based/trailing equity limits.
+TELEMETRY: live rewards feed + Arbiscan/Tronscan on-chain proof on every transfer.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program          | Steps | Sizes      | Target          | Daily DD   | Overall DD      | Split      | Fee model        |
+|---|------------------|-------|------------|-----------------|------------|-----------------|------------|------------------|
+| 1 | 1-Step Nitro     | 1     | 5K-300K    | 10%             | 4% balance | 6% trailing lock| up to 90-100% | $58-$1,622 ($24 w/ code) |
+| 2 | 1-Step Nitro Pro | 1     | 5K-300K    | 10%             | 2%         | 3% tight        | up to 90%  | from $39 (cheapest) |
+| 3 | 1-Step Nitro X   | 0-1   | 25K-150K   | 6%              | 3% balance | 3% trailing lock| 100% to $10K | $147-$347 + $165 activation |
+| 4 | 2-Step Plus      | 2     | 5K-300K    | 8% + 5%         | 4% balance | 10% balance static | 70-90%  | $100-$1,747 ($25 w/ code 5K) |
+| 5 | 2-Step Prime     | 2     | 5K-200K    | 8% + 5%         | 3%         | 6% tight        | 70-90%     | $112-$972        |
+| 6 | Instant Standard | 0     | 5K-100K    | none            | listed none| 5%              | up to 80%  | from $47         |
+| 7 | Instant Pro      | 0     | 5K-100K    | none            | none       | 3% (no daily)   | up to 80%  | varies           |
+| 8 | Instant Plus     | 0     | 5K-100K    | none            | 3%         | 6% + 1% float   | up to 80%  | varies           |
+Notes:
+- Nitro trailing-LOCK: floor trails balance highs then LOCKS at +6% profit;
+  requesting payout at lock without buffer + slight dip = breach.
+- Plus balanced (EOD balance, not floating equity) — more forgiving intraday.
+- Instant capped 80% (no 100% path without eval). Nitro X 100% only first $10K.
+- No time limits any phase. Funded in 24h after verification. Max $700K alloc,
+  $1-3M scaled. 5K entries: Nitro $24, Plus $25 (with SEP/FT60/PICKR codes).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP NITRO / NITRO PRO ---
+- Nitro: 10% target, 4% daily (balance-based, 5PM EST high of balance/equity),
+  6% trailing-lock overall. Eval consistency 50% (no day >50% of target-period
+  profit); funded 45%. 90% Shield add-on triggers 1% floating cap in eval.
+  ($100K: +$10K; $4K/day; $6K trail.)
+- Nitro Pro: same 10% target, tighter 2% daily / 3% overall. Cheapest 5K $39.
+--- 5B. 1-STEP NITRO X (no-eval hybrid) ---
+- No eval phase; pay, trade, need 6% to unlock. 3%/3% trailing-lock. 100% split
+  to first $10K profit, then drops. $165 activation atop challenge fee
+  ($179 100K + $165). Sizes 25K-150K only.
+--- 5C. 2-STEP PLUS / PRIME ---
+- Plus: 8% Ph1 + 5% Ph2, 4% daily balance-based, 10% balance-based static overall.
+  Most popular; lowest fees. Prime: same targets, tighter 3%/6%. Splits 70-90%.
+  Eval 50%, funded 45% consistency.
+--- 5D. INSTANT STANDARD / PRO / PLUS ---
+- Standard: 5% overall, consistency 20% (no day >20% of total). Pro: 3% overall,
+  NO daily limit, 20% consistency (buy add-on to waive 5-day requirement).
+  Plus: 6% overall + 3% daily + 1% floating-risk rule (repeat hits cut split
+  80%->40% per cycle, not breach). All 80% cap, 5 funded days at 0.5%+ each.
+--- 5E. SHARED RULES ---
+- News/weekend: ALLOWED all programs, swap-free. Leverage to 1:100.
+- Consistency: eval 50% (1/2-step), funded 45% (evals), instant funded 20%.
+  Cannot payout until diluted (e.g. $6K best / $10K total = 60% => need $12K+).
+- Min trade 1 MINUTE (faster closes voided). Partial-close: remainder must fully
+  close before 5PM ET same day (next-day remainder = violation; $2,579 deduction case).
+  Sequential: no same-pair opens within 5 min across accounts.
+- Shield Risk Protocol (90% add-on): 1% max floating loss in eval ($55-breach case).
+- EAs/automation + copy trading ALLOWED (defined conditions); hedging/grid/marti
+  per FAQ risk rules.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (list; codes SEP 75%/50%, FT60 60%, PICKR to 75%/60%/50%, TRUSTED 65%):
+NITRO 1-step: 5K $58 ($24 w/ code) | 10K $129 ($52) | 25K $223 ($90) |
+50K $372 ($149) | 100K $622 ($249) | 200K $1,096 ($439) | 300K $1,622 ($649).
+NITRO X: 25K $147 ($89) | 50K $222 ($134) | 100K $297 ($179) | 150K $347 ($209)
++ $165 activation each.
+PLUS 2-step: 5K $100 ($25) | 100K ~$997 w/ code slice | 200K $1,747.
+PRIME 2-step: $112-$972 range (size-dependent).
+INSTANT: from $47 (Standard 5K); Standard/Pro/Plus 5K-100K varies by size
+(checkout-only on some tiers — transparency-capped).
+SPLIT ADD-ON: 90% Shield (triggers 1% float); 100% Nitro X (first $10K only).
+Instant Pro 5-day-waiver add-on.
+REFUND: per /refund-policy (non-refundable after trading starts; verify dashboard).
+Failed evals lose fee. No activation except Nitro X $165.
+Payment: cards, crypto, PayPal; merchant per checkout entity (Cyprus vs UAE).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: evals up to 90-100% (Nitro X 100% to $10K; others 70-90% -> 90-100%
+  per table); instant capped 80% (Plus 80%->40% on float-repeat cycles).
+- First payout: on-demand once eligible: closed trades + >=1% of start profit
+  + consistency met + 5 funded days at 0.5%+ each (instant 5 days unless waived).
+- Frequency: ON-DEMAND (no 14/30-day cycles). Hundreds of Discord/Payout-Junction proofs.
+- Methods: Crypto (USDT ERC20/TRC20, USDC via Rise Arbitrum) + Rise Works
+  (bank/card). On-chain Arbiscan/Tronscan proof on every transfer.
+- Processing: avg UNDER 20 MINS (some 26 sec - 3 min - 3 hrs); 24-HOUR GUARANTEE:
+  miss on requests <$1,000 => DOUBLE payout + FREE same-size challenge.
+  Typically within 24 business hours.
+- Minimum: 1% of starting balance (FAQ). No upper limit.
+- KYC required before first payout. Drawdown RESETS after each payout cycle.
+- SCALING: to $1M (hero) / $1.5M (reviews) / $3M (TTP) in simulated capital;
+  monthly-salary rewards for consistency (per TTP); criteria in FAQ/dashboard.
+- Verified paid: $7.71M live counter (homepage); 5,180+ rewards.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: FAQ Must-Read + Terms + Help Center.
+BANNED (breach = split cut, deduction, suspension, termination):
+1. Exceeding daily/overall (balance-based 5PM EST or trailing-lock per plan).
+2. Exceeding 1% floating loss on Shield/Plus variants (real-time equity, not
+   intended stop; $211-$350 XAU tickets = 2 offenses => 80%->40% that cycle).
+3. Breaching 50%/45%/20% consistency at request (payout hold, not breach — dilute).
+4. Sub-1-minute closes (profits voided); partial-close next-day remainder;
+   same-pair sequential opens <5 min across accounts.
+5. HFT/latency/feed exploits; server spamming; cross-account hedging for
+   risk-free profit; account sharing; third-party trading.
+6. Grid/martingale abusive sizing per risk rules; one-sided betting abuse.
+7. KYC fraud; chargebacks; promo abuse.
+GOLD VOLATILITY: wide-spread/slippage complaints (277-pip $2.77 spread case) —
+firm cites liquidity provider; trade reduced size around news/rollover.
+Consequences ladder (Shield): progressive split reductions on violations, then
+suspension/termination. Firm posts account/trade/timestamp evidence in replies.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; multiple accounts to $700K cap ($300K single).
+- USA: cTrader + MT5 NOT for US residents/citizens (Match-Trade/TradeLocker path
+  where allowed — confirm geo-block). US trader payout (Avelardo Tran $2,694) seen
+  via allowed rail — verify current checkout.
+- UK/EU/Global: served (160+ incl UK, Germany, Spain, Canada, Australia, Japan,
+  Singapore, India, Pakistan, UAE, Saudi). US/Canada/Japan/Singapore evidence in feed.
+- HARD BANS: Cuba, Syria, Iran, Lebanon, Iraq, Yemen, North Korea, Cyprus (+
+  US-restricted rails). Full list in Terms; dashboard governs.
+- KYC: ID + liveness + matching Rise/crypto beneficiary before first payout.
+- VPN/VPS: single-consistent IP advised; multi-IP risks sharing flags.
+- Entities: Cyprus HE462185 / UAE 36580 / Saint Lucia 2025-00239 (per footer).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundedtradermarkets.com: 3.9/5,
+  463 reviews (320x5*, 88x1*); now breach-notice (rating unavailable). 5*: <20-min
+  - 3-hour payouts (Arsh 10 min, Marc 3h, Pratul 20 min, Yusuf 3 min, Duc 50 sec).
+  1*: trailing-lock post-payout breach ($25K case), Shield $55-breach invisibility,
+  $2,579 partial-close deduction, XAU slippage/spread, 80%->40% float-cut surprise.
+  Firm replies with account/timestamp/rule cites (systematic, not arbitrary).
+- TheTrustedProp: TTP 86/100, 9.3/10 from 160 (user 9.2, slippage 9.4); $2.16M proof;
+  TRUSTED to 65% off; flags 45%/20% + Shield + trailing-lock.
+- FundedTrading 8.3/10 ($5.69M, FT60); PropFirmReviews transparency-cap 5.0;
+  Pickr 4.3/5 (PICKR stack); MyPropGenius 3.6/5 ($4M+, aggregation rules);
+  FuturesHive mid-tier ($49 5K value); PropTrust 8.63/10 TRUSTED tier.
+- Red flags: NONE systemic (pays fast when compliant; no regulator action).
+  Watch: rule-burial (tooltip/FAQ vs dashboard); trailing-lock counterintuition;
+  1-min/partial/sequential tripwires; $2.16-7.71M modest vs large-alloc targeting.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest 5K ($24-25 Nitro/Plus vs $39-59 rivals) + only 24h-or-double
++ on-chain proof + 4-platform + swap-free-all + 100%-to-$10K. But trailing-lock
++ 1%/partial/sequential mechanics stricter than static-DD rivals; 80% instant cap
+vs 90% rivals; $2-7M paid trails $20M+ incumbents; no MT4/DXtrade/TV.
+BEST FIT: rule-readers wanting speed (on-demand <2h) + max split (Nitro X 100%);
+news/weekend/swap-free holders; EA/copy (defined); budget 5K testers ($24);
+patient diluters (can grind consistency down); Rise/USDT rail users.
+BAD FIT: sub-1-min scalpers; partial-scale-out overnight holders; multi-account
+same-pair burst openers; one-day-star (45%/20% block); Shield-blind (1% float);
+XAU-news wide-spread sensitive; US MT5/cTrader needy; banned 8 jurisdictions.
+RULE OF THUMB: want Max => Nitro X (accept $165 + $10K-100% cap); want Cheap =>
+Plus 2-step; want Now => Instant (accept 80% + 20% rule); always leave buffer
+above trailing-lock after requesting.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + 1-step/2-step/instant/programs/variations + how/rewards/
+FAQ/instruments + full legal set + dashboard + Help Center read 2026-09-08;
+pricing cross-checked Aug-2026 TTP/FundedTrading, Jul-2026 Pickr/PropFirmReviews,
+Apr-2026 MyPropGenius tables. Promos (SEP/FT60/PICKR/TRUSTED) rotate — re-check
+checkout. All accounts simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 8-program table, trailing-lock vs balanced map, 50/45/20%
+consistency ladder, 1-min/partial/sequential tripwires, 24h-or-double + on-chain.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Long on Traders. Short on Excuses." | "$7.71M Paid & Counting" |
+"Up to 100% Reward Split" | "24 Hour Performance Reward Guaranteed Avg. under
+20 mins" | "Max Allocation Up to $1M" | "160+ Countries Covered".
+[2] Programs: "01/1S 1 Step Challenge — Your strategy, your reward. FROM $24" |
+"02/2S 2-Step Challenge — No time limits, static drawdown, and low costs.
+FROM $33" | "03/IF Instant Funding — Access simulated capital with no evaluation
+FROM $47".
+[3] Edge: "News Trading Allowed" | "Weekend Holding Allowed" | "Leverage Up to
+1:100" | "Swap Free All Accounts".
+[4] Path: "Pick your program ... $5K to $300K. Pay the one-time fee." |
+"Hit the profit target ... No time pressure." | "your simulated funded account
+is ready within 24 hours." | "Request a reward on-demand ... within 24 hours."
+[5] Guarantee: "24-hour reward guarantee — Request any time. If we miss the 24h
+window, we pay double." | "On-chain reward verification — Every reward is
+on-chain and verifiable on Arbiscan." | "Keep up to 90% ... Up to 80% on instant".
+[6] Platforms: "Trade forex, commodities, crypto, and indices" | "MetaTrader 5 /
+cTrader / TradeLocker / Match-Trade".
+[7] FAQ: "Minimum Payout: 1% of your starting balance Payout Frequency: On-demand
+Processing Time: Typically within 24 business hours".
+[8] Entities: "FTM Funded Trader Markets LTD ... HE462185 ... Nicosia, Cyprus."
+| "Formed Technologies INT FZCO ... 36580 ... Dubai Silicon Oasis, Dubai, UAE."
+| "Funded Trader Markets LTD ... 2025-00239 ... Gros-Islet, Saint Lucia,
+providing brokerage services and MT4/5."
+[9] Bans: "not available to residents of: Cuba, Syria, Iran, Lebanon, Iraq,
+Yemen, North Korea and Cyprus. CTrader and MetaTrader MT5 ... not intended for
+U.S. residents".
+[10] Promo: "1-STEP CHALLENGE — UP TO 75% OFF CODE: SEP" | "2-STEP 75% OFF" |
+"INSTANT UP TO 50% OFF".
+================================================================================
+END OF FILE — FundedTraderMarkets COMPLETE. Next firm is a separate task (not started).
+================================================================================

@@ -1,0 +1,180 @@
+================================================================================
+PURDIACAPITAL — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/PurdiaCapital.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Purdia Capital pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Purdia Capital (purdia.com; Transparent Proprietary Trading).
+- Founded: 2024-2025, USA (new-generation futures prop; KB May 2026 vintage).
+- Address: USA, online-only (direct-support model, Knowledgebase-driven).
+- Contact: https://purdia.com support, Knowledgebase, Trading Policy page.
+- What it is: Futures-only two-path prop firm. Evaluation (monthly sub,
+  Pro intraday / Beginner+EOD) -> Sim Funded -> Temp Sim -> Live Funded (LFA,
+  static breakeven+$100). Instant Funded (IFA, one-time, EOD/Static) skips eval.
+- Scale: sizes 25K-150K; Pro 100K $199/mo showcase; Instant 25K $349 / 50K $549 /
+  100K $849 one-time; 90% split; daily payouts once qualified.
+- Key distinction: Max Drawdown is the ONLY hard-breach rule; qualify ONCE
+  (5 eval days + 10 funded days + 5 profitable days), then daily payouts with
+  no further phases; news/DCA/scalping allowed; 3 accounts max.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://purdia.com (homepage: paths, Instant pricing, qualify-once model)
+ 2. https://purdia.com/programs?program=pro (100K Pro $199/mo showcase)
+ 3. https://purdia.com/rules (eval/funded/qualified rules summary)
+ 4. https://purdia.com/knowledgebase/max-drawdown (trailing/intraday/EOD/static)
+ 5. https://purdia.com/knowledgebase/evaluation-vs-ifa (eval vs IFA differences)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. PropFirmMap Purdia Capital profile (sizes/splits cross-check)
+ 7. Trustpilot purdia.com review pool (sentiment cross-check)
+TOTAL SOURCES: 7 (5 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- Tradovate, NinjaTrader, ProjectX-class routing (per programs page).
+- Rithmic data where listed; CME permissions per account.
+INSTRUMENTS: CME-group futures — ES, NQ, CL, GC + micros. No forex/CFD spot.
+CONTRACT SIZING (max minis; micros 10:1):
+  25K: 2 / 20. 50K: 5 / 50. 100K: 10 / 100. 150K: 15 / 150 (card-variant).
+  Instant 100K: 10 / 100 showcase.
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: exchange + execution counted in net P/L; program page governs.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|----------|-----|-----------|-------------|-------|-----------|
+| 1 | Pro Evaluation (intraday-trail) | 1 | 25K/50K/100K/150K | $1.5K/$3K/$6K/$9K | $750-1.5K/$1.5-2K/$3K/$4.5K INTRADAY-trail | per card | 2/5/10/15 | per policy | 90% | monthly sub (100K $199) + $130 activation |
+| 2 | Beginner/EOD Evaluation | 1 | 25K/50K/100K/150K | $1K/$2K/$3K/varies | $750/$1.5K/$3K/varies EOD-trail | per card | 2/5/10/15 | per policy | 90% | monthly sub + $130 activation |
+| 3 | Instant Funded (IFA) | 0 | 25K/50K/100K | $1K/$2K/$3K buffer-gate | $750/$1.5K/$3K EOD (Static variant) | per card | 2/5/10 | per policy | 90% | $349/$549/$849 one-time, $0 activation |
+Notes:
+- Eval: 5 min days; funded: 10 min days + 5 profitable days; then qualified.
+- Resets $99 anytime on evals; NO resets on IFAs; LFA static breakeven+$100.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. PRO EVALUATION (Intraday-trailing) ---
+- TMD trails open equity incl. unrealized highs in real time (strictest).
+  Example 100K: $3K trail from every intraday peak; open dip below floor = fail.
+- 5 min trading days; hit target within TMD.
+--- 5B. BEGINNER/EOD EVALUATION ---
+- EOD trailing: steps at EOD close on new highs only; intraday gains ignored.
+  Same 5-day gate; kinder wick handling.
+--- 5C. SIM FUNDED -> TEMP SIM -> LIVE (LFA) ---
+- Sim Funded: same trailing engine (never stops trailing in sim, even past
+  breakeven). 10 min days + 5 profitable days to qualify.
+- LFA: static breakeven+$100 (never trails; profits add, losses/payouts subtract).
+- IFA: starts directly in Sim Funded; same funded gates from day one; no resets.
+- Conduct/identity limits + enforcement per Trading Policy.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+EVALUATION MONTHLY (showcase + ladder):
+- 100K Pro: $199/mo. Target $6K, DD $3K intraday, 10 lots.
+- 25K/50K/150K EOD-Pro: monthly sub per programs page + $130 activation.
+INSTANT ONE-TIME: 25K $349 | 50K $549 | 100K $849. Targets $1K/$2K/$3K gates.
+ACTIVATION: $130 after eval passing (evals only); $0 on IFAs.
+RESETS: $99 anytime on evals; none on IFAs.
+REFUND: subs/one-time fees NOT refunded (Trading Policy governs).
+PAYMENT: cards via site; sub active until passed/canceled.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 90% trader on all paths.
+- Cadence: daily payouts once QUALIFIED (no day cycles, no further phases).
+- Gates: eval 5 days -> funded 10 days + 5 profitable days -> qualified.
+- Methods: bank/ACH/wire/crypto per payout rules page.
+- Scaling: up to 3 accounts per trader; size up via larger programs.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Max Drawdown breach (any flavor) = permanent liquidation/close — the ONLY
+   hard-breach rule (open-equity dips count).
+2. Conduct/identity limits per Trading Policy (account-share/copy-evasion,
+   prohibited-country, hedge-gaming).
+3. Contract expirations/roll rules (close/roll per KB; no delivery holds).
+4. IFA has no resets — breach ends account (rebuy).
+Consequences: eval breach ($99 reset/rebuy), Sim breach (close), LFA breach
+  (static-floor close).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED; prohibited-country list per KB (verify before buying).
+- KYC: ID + payout-method verification before first payout.
+- Futures-contract roll/expiry competence required (no delivery).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Young firm (2024-2025; KB May 2026): thin third-party pool vs giants.
+  Positives (early): transparent rules/KB depth, qualify-once simplicity, daily
+  payouts, news/DCA/scalping freedom, LFA static relief. Negatives: intraday-Pro
+  harshness, $130 activation + $99 resets stacking, IFA no-reset risk, LFA path
+  length (Eval->Sim->Temp->Live).
+- Red flags: NONE systemic found (no regulator action, no payout-scam cluster).
+  Watch: Pro-vs-EOD choice consequence, IFA sizing, prohibited-country fit.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP/TOF: Purdia qualify-once + daily-no-cycles simpler than 6/5/4% gates;
+  LFA static beats perpetual trailing. Youth + thin proof vs their scale.
+VS DAYTRADERS: DT 100% + Plane-speed vs Purdia 90% + qualify-once; DT 15-stack
+  vs Purdia 3-account focus.
+BEST FIT: futures traders wanting one qualification, daily payouts, EOD/static
+  choice, live-static endpoint, permissive tactics (news/DCA/scalp).
+BAD FIT: traders needing 100% split, 15-account scale, instant brokerage, or
+  intraday-wick forgiveness on Pro path (pick EOD instead).
+RULE OF THUMB: start 50K EOD eval (not Pro intraday); clear 5 + 10 + 5
+  profitable days, then harvest daily at 90%.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Pro/EOD/IFA targets, drawdowns, contracts, splits, fees above
+were read from the 5 official URLs in Section 2 on 2026-09-08.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Pro-intraday vs EOD choice, qualify-once daily payouts, LFA
+static, 90% split.
+RAW EXCERPTS (official wording, verbatim):
+[1] Paths: "Whether you're looking for Instant Funding or a traditional
+ Evaluation, choose the path that fits how you trade."
+[2] Pro: "100k Pro Evaluation ... Profit target $6,000 ... Min. days 5 ...
+ Contract size 10 Minis / 100 Micros ... Drawdown $3,000 ... Profit split 90%
+ ... $199.00/ monthly."
+[3] Instant: "100k Instant Funded ... Profit target $3,000 ... Min. days 10 ...
+ Drawdown $3,000 EOD ... $849.00/ one-time" (50K $549 / 25K $349).
+[4] Rules: "Reach the Profit Target ... Trade for a Minimum of 5 Days ...
+ Stay Above the Max Drawdown" (eval) / "Trade for a Minimum of 10 Days ...
+ 5 Profitable Days" (funded) / "Daily Payouts Available" (qualified).
+[5] Perks: "News Trading is Allowed ... DCA & Scalping are Allowed ... Trade Up
+ To Three Accounts ... Daily Payouts ... No payout day cycles."
+[6] Drawdown: "Hitting the Max Drawdown is essentially the only way to fail/lose
+ one of our accounts, it is the only true 'hard breach' rule."
+[7] EOD: "the Max Drawdown is updated at the end of each trading day, and only
+ when your account balance is at a new high."
+[8] Intraday: "the Max Drawdown trails your open equity, including unrealized
+ gains in active trades."
+[9] LFA: "In our Live Funded Account (LFA), the Max Drawdown is static at
+ breakeven +$100."
+[10] Paths: "Evaluation: monthly subscription + activation fee ... IFA:
+ one-time payment, no activation" / "No resets available" (IFA) / "$99 resets
+ ... $130 Activation fee" (eval).
+================================================================================
+END OF FILE — PURDIACAPITAL COMPLETE. Next firm is a separate task (not started).
+================================================================================

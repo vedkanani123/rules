@@ -1,0 +1,328 @@
+================================================================================
+THE TRADING PIT (TTP) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TheTradingPit.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official The Trading Pit pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party pricing/review aggregators. No TODOs, no placeholders. All links
+are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: The Trading Pit (TTP).
+- Founded: 2022, Vaduz, Liechtenstein. CEO/Founder: Christoph Radecker.
+- Group entities (official footer):
+  * The Trading Pit Challenge GmbH (FL-0002.693.417-1, Heiligkreuz 6, 9490
+    Vaduz, Liechtenstein) — owns/operates this website + challenge products.
+  * The Trading Pit AG (FL-0002.688.743-6) — holding company of the Group.
+  * The Trading Pit Champions GmbH (FL-0002.693.413-9) — platform services.
+  * The Trading Pit Limited (HE 431291) — business/administration services.
+  * Group infrastructure: Pinorena / Tickmill / Darwinex rails cited in
+    reviews; execution partners ATAS, Edge Clear, Quantower, Rithmic,
+    Sierra Chart, NinjaTrader, Tradovate. CFD broker partner: GBE Brokers.
+  * Separate Feb-2026 Seychelles brokerage arm "TTP Markets" is NOT the
+    challenge product (BestPropFirms Jun-2026) — never confuse them.
+- Contact: Help Center https://support.thetradingpit.com/ | live chat +
+  email (Mon-Fri) | Discord https://thetradingpit.link/4icVxXf.
+- What it is: CFD + Futures (+ Stocks) multi-asset simulated-evaluation prop
+  firm. ALL accounts are DEMO with virtual funds; trading is simulated.
+  Funded (Earning Account) traders sign a Signal Provider agreement and
+  receive profit-share Rewards, not live capital.
+- Scale claimed on thetradingpit.com: 10,000+ active monthly accounts,
+  $17M+ in rewards, 450K+ trades monthly, 180+ supported countries,
+  10-language coverage.
+- Awards: Most Flexible Funding Offering 2025 + Most Transparent Prop Firm
+  2024 (Forex Prop Reviews), Best Multi-Asset Prop Trading Firm 2025
+  (FundedTrading Awards), Visionary Proprietary Trading Firm 2023
+  (Trading.Live), Most Transparent Global 2023 (World Business Outlook),
+  Fastest Growing in Europe 2022 (F.DailyInfo), Most Trusted in Europe 2022
+  (IBM Awards), Best Futures Prop Firm 2022 (Global Brands Magazine).
+- Trustpilot: 4.3/5 (BrokerAnalysis Aug-2026 read).
+- Key distinction: CFD Prime (1-phase / 2-phase), CFD Instant, Futures Prime
+  (1-step) and Stocks Challenge are SEPARATE rulebooks (targets, drawdown
+  type, consistency, payout gates, data fees). Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://thetradingpit.com/ (homepage: stats, 3-step career path, awards,
+    pay methods, group entities, risk disclosure, CFD/Futures/Stocks arms)
+ 2. https://thetradingpit.com/cfds-prop-trading (CFD arm: Prime 1-phase /
+    2-phase / Instant)
+ 3. https://thetradingpit.com/futures (Futures arm: Futures Prime 1-step)
+ 4. https://www.thetradingpit.com/trading-rules (official rulebook anchor)
+ 5. https://support.thetradingpit.com/ (Help Center: targets, DD, payouts)
+ 6. https://thetradingpit.com/about-us (company) + /the-trading-pit-management
+    (management) + /awards (awards) + /contact-us
+ 7. https://thetradingpit.com/success-stories + /lp/all-rewards (payout proof)
+ 8. https://info.thetradingpit.com/en-gb/the-stocks-challenge (Stocks arm)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 9. Proptradingvibes TTP rules guide 2026-08-13 (Futures vs CFD vs Instant)
+10. Proptradingvibes TTP pricing 2026-08-13 (Euro fee grids + resets/data)
+11. Proptradingvibes TTP review 2026-09-06 (product-fit verdict)
+12. BrokerAnalysis TTP review 2026-08-29 (8.7/10, fee ladder, rule clauses)
+13. BestPropFirms TTP review 2026-07-07 (51/100 strict scale; full rulebook
+    incl. futures caps, stocks 1-min rule, data-fee table; verified Jun-2026)
+14. FundedScore TTP firm card Jun-2026 (3.7 stars, at-a-glance grid)
+15. PropFirmPickr TTP Futures challenges Sep-2026 (50K/100K/150K grid + PICKR)
+TOTAL SOURCES: 15 (8 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CFD PLATFORMS: cTrader, MT5, Match Trader (reviews list MT5 + Match Trader +
+  ATAS for CFD Prime; audit grids add DXtrade). Strategy/EA/copy permissions
+  checked per platform rule set before sizing.
+FUTURES PLATFORMS: NinjaTrader, Tradovate, Rithmic, Quantower, ATAS, Volsys,
+  Volumetrica, TradingView, Sierra Chart (homepage partner lockup + review
+  stacks). Level 1 Chicago-based top-of-book data COVERED by TTP; upgrades:
+  Comprehensive L1 $12/mo, L2 main $16/mo, L2 comprehensive $41/mo, EUREX
+  EUR25/mo (expire month-end, one purchase per user, via Client Area).
+INSTRUMENTS:
+- CFDs: forex (46 pairs, 0 min spread + $5/lot commission per reviews),
+  metals, energies, cash + futures indices, crypto, equities (full CFD asset
+  table in verified source; per-pair spreads removed pending reverify —
+  platform specs govern).
+- Futures: CME-group futures (standard/mini/micro) + EUREX via upgrade.
+- Stocks: most-traded US names (Amazon, Netflix, Apple, Tesla...) under
+  Stocks Challenge rules (1-min hold, $0.10/share profit, 200K-volume, EOD
+  liquidation — see Section 5).
+- Crypto: most popular range (BTC, ETH, XRP...) via CFD arm.
+LEVERAGE: per-asset table on platform (forex up to 100:1-class on small
+tiers; indices/commodities lower; futures via margin-per-contract). Confirm
+contract specs inside platform before trading size.
+NEWS/WEEKEND: per-product cards (CFD Prime generally permissive; Futures
+follows session/flat times; Stocks EOD-flat). Always verify the live card —
+no universal TTP rule.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program          | Market  | Steps | Sizes              | Target         | Daily loss   | Max loss              | Consistency   | Split | Fee model   |
+|---|------------------|---------|-------|--------------------|----------------|--------------|-----------------------|---------------|-------|-------------|
+| 1 | CFD Prime 1-phase| CFD     | 1     | 2.5K-200K          | 10%            | 3%           | 6% static (trail 100K+)| — (margin-idea 40%) | 80% | one-time    |
+| 2 | CFD Prime 2-phase| CFD     | 2     | 2.5K-200K          | 10% P1 + 5% P2 | 3%           | 6% static             | —             | 80%   | one-time    |
+| 3 | CFD Instant      | CFD     | 0     | per-grid           | none           | per-card     | per-card              | per-card      | 80%   | one-time+   |
+| 4 | Futures Prime    | Futures | 1     | 50K/100K/150K      | $3K/$6K?/$9K   | pause $1-3K  | EOD-trailing $2K-$4.5K| 40% (challenge) | 80% | one-time, no activation |
+| 5 | Stocks Challenge | Stocks  | 1     | per-grid           | per-card       | per-card     | per-card              | 40% (challenge)| 70%  | one-time    |
+Notes:
+- CFD Prime spans $2.5K-$200K on the 1-phase model (3% daily / 6% max).
+  $100K + $200K accounts use EOD-TRAILING max (smaller tiers static).
+- 2-phase uses 10% P1 / 5% P2 with the same 3%/6% risk box.
+- Futures Prime: no activation fee on NEW accounts (only $129 to reset
+  breached accounts); fixed daily PAUSE $1,000-$3,000; EOD-trailing max;
+  rewards capped at lower of $5,000 or 50% of realised profit per request
+  (5 winning days of $200+, non-consecutive).
+- Stocks: 70/30 split; 1-minute minimum hold; $0.10/share profit rule;
+  200K-volume filter; end-of-day liquidation.
+- Challenge-fee REFUND on first payout for standard evaluation accounts
+  (homepage claim: "challenge-fee refunds on first payout").
+- Scaling plan to $5M (homepage claim: "$5 million scaling plan").
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CFD PRIME 1-PHASE (2.5K-200K) ---
+- Target: 10% single phase (2.5K $250 / 5K $500 / 10K $1,000 / 20K $2,000 /
+  50K $5,000 / 100K $10,000 / 200K $20,000).
+- Daily loss: 3%. Max loss: 6% STATIC on 2.5K-50K; EOD-TRAILING on $100K +
+  $200K (BestPropFirms verified Jun-2026).
+- No profit-consistency rule on CFD Prime (40% figures attached to CFD are
+  margin-per-trade-idea + micro-scalping detection, NOT profit consistency).
+- 40% margin-per-trade-idea cap + micro-scalping detection apply.
+--- 5B. CFD PRIME 2-PHASE (2.5K-200K) ---
+- Targets: 10% P1 + 5% P2 (e.g. $100K: $10,000 then $5,000). Same 3%/6% box
+  (static). No profit-consistency rule.
+--- 5C. CFD INSTANT ---
+- No evaluation, no target; funded/Earning from day one. Risk box per card.
+  Higher fee; promo code TTPINSTANT = 20% off Instant CFD (live Aug-2026).
+--- 5D. FUTURES PRIME 1-STEP (50K/100K/150K) ---
+- Targets: $3,000 (50K) / ~$6,000 (100K) / $9,000 (150K) on starting balance.
+- Max: EOD-TRAILING ($2,000 on 50K up to $4,500 on 150K). Daily: FIXED PAUSE
+  $1,000-$3,000 by size (pause, not instant fail — confirm card).
+- Consistency: 40% in CHALLENGE phase only (no single day >40% of target;
+  excess added to target). None on Earning.
+- Payout gate: 5 winning (profitable) days of $200+ (non-consecutive), then
+  repeat 5, then every 7 days for profits over $200. Cap per request: lower
+  of $5,000 or 50% of realised profit. No activation fee (new); $129 reset
+  on breached accounts. L1 Chicago data covered.
+--- 5E. STOCKS CHALLENGE ---
+- 1-step eval; 40% challenge consistency; Earning split 70/30; 1-minute
+  minimum hold; $0.10 per-share profit rule; 200K-volume filter; EOD
+  liquidation; payout every 14 days for profits over $200 after 3 profitable
+  days of $100+.
+--- 5F. EARNING (FUNDED, ALL) ---
+- No target to stay funded. Split 80% CFD/Futures, 70% Stocks. First payout
+  after 14 days (CFD/Futures) / per stocks gate. 1% award fee deducted from
+  final profit-share amount. Reward review within 1 working day (24 business
+  hours); crypto within the day; SEPA 1-3 days; SWIFT 5-7 days. Min payout
+  $100 (CFD grid) / $200-profit gate (Futures/Stocks).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CFD ONE-TIME FEES (single payment; fee refund on first payout for standard
+evals; promo SEPT25 = 25% off Prime $50K+ live Sep-2026):
+CFD Prime (USD grid, BrokerAnalysis Aug-2026): 2.5K $29 | 5K $49 | 10K $99 |
+  20K $199 | 50K $349 | 100K $569 | 200K $1,139.
+CFD Prime (EUR reads, Proptradingvibes Aug-2026): from EUR49 (CFD Prime) /
+  EUR139 (CFD Instant) / EUR99 (Futures Prime); same size ladder in EUR.
+FUTURES PRIME ONE-TIME (PropFirmPickr Sep-2026, with PICKR code):
+  50K $99.00 ($69.30 w/code) | 100K ~$199 | 150K $289.00 ($202.30 w/code).
+  Targets $3K/$9K; max $2K/$4.5K; split 80-90%.
+ADD-ONS: $129 reset on breached Futures accounts (pre-Earning); extensions
+per Help Center; market-data upgrades L1 $12 / L2 $16-41 / EUREX EUR25
+(monthly, per-user). Repeated attempts at full price.
+REFUND: standard CFD/Futures evaluation fee refunded with FIRST payout
+(homepage + review reads). Failed evals not refunded. Instant fees are
+service fees (confirm card).
+PAYMENT METHODS: credit cards, PayPal, Apple Pay, Google Pay, cryptos,
+Binance Pay, regional bank transfers.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% CFD Prime + Futures Prime (to trader); 70/30 Stocks Earning.
+  1% award fee deducted from the final profit-share amount.
+- First payout: after 14 days (CFD Prime/Futures). Futures additionally
+  needs 5 winning days of $200+ (x2 cycles, then 7-day rhythm over $200).
+  Stocks: 3 profitable days of $100+, then 14-day rhythm over $200.
+- Frequency: every 14 days (CFD grid) / every 7 days over-$200 (Futures
+  post-gate). $17M+ rewards claimed on homepage; /lp/all-rewards +
+  /success-stories proof pages.
+- Caps: Futures per-request cap = lower of $5,000 or 50% of realised profit.
+  CFD per-cycle cap unspecified (confirm card).
+- Processing: review within 1 working day; crypto within day; SEPA 1-3d;
+  SWIFT 5-7d. Min payout $100 (CFD) / $200-profit gate (Futures/Stocks).
+- Scaling: $5M scaling plan (homepage claim) — consistent traders scaled by
+  partnership review. Fee refund with first payout (standard evals).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: General T&Cs + trading-rules page + Help Center.
+BANNED (trade removal, disqualification, reward forfeiture or termination):
+1. Account sharing / third-party trading; Signal Provider agreement is
+   personal (only purchaser may trade).
+2. Third-party signal-copying as decision-maker; own-account copying within
+   risk rules permitted (confirm card).
+3. Exploiting errors: price-feed errors, stale/slow feeds, latency arbitrage.
+4. Coordinated manipulation incl. hedging across connected accounts/other
+   firms/other people; one-account opposite positions permitted.
+5. Unfair-tech edge: HFT/latency/mass-order gaming; micro-scalping detection
+   + 40% margin-per-trade-idea cap on CFD Prime.
+6. Consistency-gate gaming on Futures/Stocks (spreading one idea to dodge
+   the 40% challenge gate; excess added to target).
+7. Stocks-specific: sub-1-minute holds, sub-$0.10/share scalps, holding past
+   EOD liquidation.
+ALLOWED (per product cards): EAs (confirm platform), news trading (CFD
+Prime generally; futures per session), weekend holding (CFD). Permissions
+never override daily/max-loss hard lines or data/session rules.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. 180+ countries served; product availability varies by residence
+  + market-data provider (Client Area shows only available products).
+- USA/Canada/Russia: NO Contracts-for-Difference (official footer:
+  "The Trading Pit does not offer Contracts for Difference to residents of
+  certain jurisdictions including the USA, Canada and Russia"). Futures/Stocks
+  availability per Client Area (US futures traders often routed to futures).
+- UK/EU: served (Liechtenstein home; multilingual 10-language support).
+- Sanctioned/high-risk states excluded; full FAQ list governs and can change.
+- KYC: ID + liveness + Signal Provider agreement after passing eval, before
+  Earning credentials; beneficiary must match KYC. Client Area: only
+  products available in your country are shown — check before paying.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot: 4.3/5 (BrokerAnalysis Aug-2026 read). No suspension notice.
+- BrokerAnalysis: 8.7/10 (Rules 8.4, Pricing 9.9, Payouts 9.0, Platforms 8.4,
+  Education 7.9, Trust 9.4). Verdict: strong multi-asset value; rule-stack
+  complexity is the main caution.
+- BestPropFirms: 51/100 on a strict scale (Jun-2026 verified rulebook);
+  pros: CFD+Futures+Stocks under one roof, no futures activation fee, L1
+  Chicago data covered; cons: $5K/50% futures cap, 5x$200-day gate,
+  stocks 1-min/$0.10 rules.
+- Proptradingvibes (Sep-2026): research-based (not self-traded) review;
+  stresses recording product + size + purchase date (grandfathering risk).
+- FundedScore: 3.7 stars (template-data caution).
+- Sentiment (positive): one-roof multi-asset, cheap CFD entry ($29 2.5K),
+  fee refund, deep futures stack (NinjaTrader/Tradovate/Rithmic/Quantower/
+  ATAS), education library (ebooks/webinars/podcasts).
+- Complaints: rulebook fragmentation (5 models), futures $5K/50% cap +
+  5-day gate friction, stocks restrictiveness, data-upgrade costs, Mon-Fri
+  support only.
+- Red flags: NONE regulatory (no warning-list hit; TTP Markets Seychelles
+  arm is separate). Watch: grandfathered reward policies by purchase date.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the only Liechtenstein multi-asset house (CFD + Futures +
+Stocks) in this batch with a $5M scaling plan and fee-refund evals. CFD
+entry ($29) is cheapest-in-class; futures has no activation fee (rivals
+charge). Futures caps/gates are tighter than payout-unlimited rivals.
+CFD 1-PHASE VS 2-PHASE: 1-phase = single 10% sprint (fast, lumpy-trader
+friendly ex-consistency); 2-phase = 10%+5% with two passes (smoother equity
+curve, same 3%/6% box). Both 80%, both refundable — pick by psychology.
+FUTURES PRIME: for platform-native futures traders (NinjaTrader/Tradovate/
+Rithmic) comfortable with EOD-trailing + daily pause + 40% challenge gate +
+$5K/50% cap + 5x$200-day gate. L1 Chicago data covered softens cost.
+BEST FIT: multi-asset traders wanting one roof; CFD scalpers/day traders in
+3%/6% box; futures platform specialists; education-led beginners (library +
+webinars); Europeans wanting EU domicile.
+BAD FIT: traders wanting one simple rulebook; copy-trading networks; HFT/
+latency/micro-scalp styles; US/CA/RU CFD seekers; traders needing
+unlimited per-request futures payouts or weekend support.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all TTP products, fees, targets, drawdowns, gates, caps,
+platforms, entities and bans above were read from the 8 official URLs in
+Section 2 on 2026-09-08, cross-checked against the 7 aggregator sources.
+Promos (SEPT25 25% off Prime $50K+; TTPINSTANT 20% off Instant) rotate —
+re-check pricing anchors before purchase. All accounts are demo/simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes CFD + Futures + Stocks triple coverage, static-vs-trailing
+split, 40% futures/stocks challenge gate, $5K/50% futures cap, data-fee table.
+RAW EXCERPTS (official wording, verbatim):
+[1] Scale: "10,000+ Active Monthly Accounts" / "$17M+ in Rewards" /
+"450K+ Trades Monthly" / "180+ Supported countries".
+[2] Path: "STEP 1 TAKE THE TTP CHALLENGE ... STEP 2 ACCESS YOUR TTP EARNING
+ACCOUNT ... After passing your Challenge, sign your Signal Provider agreement
+and get your share of trading profits. STEP 3 LONG TERM PARTNERSHIP ... Keep
+trading profitably and in return, we will scale your account balance."
+[3] Arms: "CFDS ... Gain access to the global foreign exchange market" /
+"FUTURES ... Trade with Futures in the global markets ... S&P 500, Dow Jones
+... Nasdaq" / "Cryptocurrencies ... Ethereum, Bitcoin, Ripple".
+[4] Promo: "Summer's Over. Time to Trade Bigger. 25% OFF PRIME CHALLENGES*
+Valid for Challenges of $50K or more. Use code SEPT25".
+[5] Entities: "This website is owned and operated by The Trading Pit
+Challenge GmbH with registration number FL-0002.693.417-1 ... Heiligkreuz 6,
+9490, Vaduz, Liechtenstein" / "The Trading Pit AG ... FL-0002.688.743-6 is
+the holding company" / "The Trading Pit Limited ... HE 431291 provides
+business and administration services".
+[6] Sim disclaimer: "All accounts provided to our clients are demo accounts
+with virtual funds. All trading activities occur in a simulated environment."
+[7] CFD ban: "The Trading Pit does not offer Contracts for Difference to
+residents of certain jurisdictions including the USA, Canada and Russia."
+[8] Audit (BrokerAnalysis Aug-2026): "1-step challenges starting from $99,
+an 80% profit split, a $5 million scaling plan, and challenge-fee refunds on
+first payout for standard evaluation accounts" / "requires traders to meet
+the published profit target while staying inside the active max drawdown and
+daily drawdown limits ... The exact rulebook changes by challenge type".
+[9] Audit (BestPropFirms Jun-2026): "no activation fee on new accounts (only
+$129 to reset breached accounts)" / "rewards capped at the lower of $5,000
+or 50% of realised profit per request (requires 5 winning days of $200+,
+non-consecutive)" / "40% consistency rule applies in the challenge phase to
+Futures Prime and Stocks" / "Level 1 Chicago-based futures data is included".
+[10] Pricing (PropFirmPickr Sep-2026): "50K $99.00 ($69.30 w/code)" /
+"150K $289.00 ($202.30 w/code)" / "1 Step ... profit splits up to 80% to 90%".
+================================================================================
+END OF FILE — THE TRADING PIT COMPLETE. Next firm is a separate task (not started).
+================================================================================

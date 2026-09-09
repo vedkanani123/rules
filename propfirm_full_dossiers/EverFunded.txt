@@ -1,0 +1,132 @@
+================================================================================
+EVERFUNDED — COMPLETE FIRM DOSSIER
+================================================================================
+Website: https://everfunded.com/
+Status: ACTIVE
+
+--- COMPANY OVERVIEW ---
+- Legal Name: EverFunded Ltd. (Company No. 2026-00562)
+- Registered Office: Unit 1, La Place Creole, Rodney Bay Village, Gros Islet, Saint Lucia
+- Founded: 2026
+- Tagline: "Modern Prop Trading — Since 2026"
+- Max Funding: Up to $200,000
+- Profit Split: Up to 90% (base 80%, 90% add-on available)
+- Payouts: Up to 24 hours
+- Support: 20 languages, 24/7, email support@everfunded.com
+- Discord: discord.gg/UjgKwysAAG
+- Social: X @everfunded, YouTube @everfunded, Instagram @everfunded
+
+--- KEY FEATURES ---
+- Up to $200K funded account
+- Up to 90% profit split
+- Payouts within 24 hours
+- Support in 20 languages
+- 2 Trading Platforms: MetaTrader 5, Match-Trader
+- No time limits
+- News & weekend trading allowed
+- No hidden rules
+- Trade on: FX, Gold, Indices, Crypto
+- No minimum funded trading days for payouts
+- Flash 7.77: Pay only if you pass (starts at $7.77)
+
+--- CHALLENGE TYPES ---
+- Flash 7.77: Pay only if you pass
+- 2-Step: Standard 2-phase
+- 1-Step: Single step to funded
+- Instant: Funded from day one
+
+--- ACCOUNT SIZES ---
+$5,000, $10,000, $25,000, $50,000, $100,000, $200,000
+
+--- RULES (2-STEP - STANDARD) ---
+- Phase 1 Profit Target: 8%
+- Phase 2 Profit Target: 5%
+- Max Daily Loss: 5%
+- Max Loss: 10%
+- Drawdown Type: Static
+- Leverage: 1:100 (evaluation), 1:50 (funded FX)
+- Min Trading Days: 3 per phase
+- Trading Period: Unlimited
+- Consistency Rule: None in Challenge
+- First Payout: 14 days
+- Rewards: 80% base, 90% with add-on
+
+--- RULES (1-STEP) ---
+- Profit Target: 10%
+- Max Daily Loss: 5%
+- Max Loss: 10%
+- Drawdown Type: Static
+- Leverage: 1:30
+- Min Trading Days: 3
+- Consistency Rule: None in Challenge
+- First Payout: 14 days
+- Rewards: 80% base, 90% with add-on
+
+--- RULES (FLASH) ---
+- Profit Target: 5%
+- Static 5% limit during evaluation
+- Once funded: trails by 5%, locks at starting balance after 5% gain
+- Leverage: 1:30
+- No minimum evaluation trading days
+- Rewards: Flat 80% (no add-ons)
+
+--- RULES (INSTANT) ---
+- No evaluation
+- Trails by 6%, locks at starting balance after 6% gain
+- Leverage: 1:30
+- Rewards: 90%, or 100% with profit-split add-on
+
+--- CONSISTENCY RULE (FUNDED) ---
+- 1-Step and 2-Step: Best day no more than 35% of total profit
+- Flash: 20%
+- Instant: 25%
+- Calculation resets after each payout
+
+--- LEVERAGE DETAILS ---
+- FX: 1:100 (2-Step eval), 1:50 (funded), 1:30 (1-Step/Flash/Instant)
+- Gold, Indices, Oil: 1:10
+- Crypto: 1:2
+
+--- PRICING (2-STEP) ---
+- $5,000: $35 ($43.75 with 90% add-on)
+- $10,000: $70 ($87.50)
+- $25,000: $160 ($200)
+- $50,000: $250 ($312.50)
+- $100,000: $450 ($562.50) - BEST VALUE
+- $200,000: $1,000 ($1,250)
+- Discount: EVERFUNDED20 - 20% off already applied
+
+--- PAYOUT DETAILS ---
+- Minimum payout: $100
+- First payout: 14 days after first trade
+- After first: every 7 days (with weekly add-on)
+- Crypto: USDT/USDC
+- Rise: Global Payouts
+- Payouts settle all eligible profit, reset balance, re-arm trailing drawdown
+- Partial withdrawals not available
+
+--- ADDITIONAL FEATURES ---
+- Academy (Trading Courses, Psychology Course)
+- Trading Journal
+- Economic Calendar
+- Equity Simulator
+- Account Metrics
+- News Indicator
+- Leaderboard (coming soon)
+- Account Analysis (coming soon)
+
+--- FAQ HIGHLIGHTS ---
+- What is EverFunded: 1-Step, 2-Step, Flash evaluations + Instant funded accounts, all simulated
+- How to start: Compare routes, check availability, purchase
+- Who can join: Almost anyone 18+, no interview or credit check
+- How to become funded: Pass challenge hitting profit target without breaching limits
+- Simulation: Driven by live market prices, no real orders, no client funds at risk
+
+--- LEGAL ---
+- Terms & Conditions, Risk Disclosure, Privacy Policy, Refund & Cancellation Policy, AML & KYC Policy, Complaints & Dispute Resolution, Cookie Policy
+- EverFunded Ltd., Saint Lucia
+- Simulated trading only, not a broker, does not accept deposits
+- Not for restricted jurisdictions
+- © 2026 EverFunded. All rights reserved
+
+================================================================================

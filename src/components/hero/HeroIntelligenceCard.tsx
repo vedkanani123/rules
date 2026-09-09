@@ -303,7 +303,7 @@ export const HeroIntelligenceCard: React.FC<HeroIntelligenceCardProps> = ({ onOp
           className={`relative w-full px-4 sm:px-5 py-3 flex items-center justify-between text-left hover:bg-white/[0.02] transition-opacity duration-300 ${swap ? 'opacity-100' : 'opacity-40'}`}
         >
           <div className="flex items-center gap-3 min-w-0">
-            <div className="w-8 h-8 rounded-lg bg-white border border-[#1F2228] flex items-center justify-center overflow-hidden shrink-0 p-0.5">
+            <div className="w-8 h-8 rounded-lg bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] flex items-center justify-center overflow-hidden shrink-0 p-0.5">
               <img
                 src={(firm as any).logoUrl || firm.countryFlag}
                 alt=""

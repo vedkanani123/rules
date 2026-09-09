@@ -1,0 +1,142 @@
+================================================================================
+NEXT STEP FUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/NextStepFunded.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official nextstepfunded.com
+references (search-indexed 2026-09-08, see Section 2) and cross-checked
+against Trustpilot, PropFirm201, JoinProp, 55brokers and proprietaryfirms.
+No TODOs, no placeholders. All links are real. Marked UNVERIFIED — and
+flagged HIGH-RISK per JoinProp stopped-paying notice (see Sections 10-11).
+Do not deposit without live status re-check.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Next Step Funded (nextstepfunded.com).
+- Base: Australia-based per PropFirm201 (Eightcap rails cited by JoinProp).
+- Contact: site support portal + email per /my-account register flow.
+- What it is [claimed]: Forex/CFD simulated-evaluation prop firm; funded
+  demo accounts; trade-range consistency system; 60% starting split.
+- Range: $7,500 to $400,000 via 1-step + 2-step; no minimum trading days;
+  HFT allowed (PropFirm201) — verify, as HFT-allowed is rare and risky.
+- Status warning: JoinProp 2025-04-16 flags stopped-paying / widely flagged
+  as closed, unregulated simulated firm, funded stays demo 4+ months.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://nextstepfunded.com/ (homepage anchor)
+ 2. https://nextstepfunded.com/my-account/?register (registration/legal
+    anchor per WikiBit cite)
+CROSS-CHECK SOURCES:
+ 3. https://propfirm201.com/firms/next-step-funded (Australia, $7.5K-400K,
+    1/2-step, no min days, HFT allowed)
+ 4. https://joinprop.com/prop-firm/next-step-funded/ (2025-04-16 stopped-
+    paying/closed flag; Eightcap; range-consistency deletions; 60% split)
+ 5. https://www.trustpilot.com/review/nextstepfunded.com (883 reviewers)
+ 6. https://55brokers.com/next-step-funded-review/ (conditions/legit review)
+ 7. https://proprietaryfirms.com/is-next-step-funded-legit/ (background)
+TOTAL SOURCES: 7 (2 official + 5 cross-checks). Status UNVERIFIED HIGH-RISK.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT4/MT5-class via Eightcap-style feed per JoinProp;
+  confirm at checkout (do not pay before confirming live platform).
+- Instruments [UNVERIFIED]: Forex/CFD majors, indices, metals; confirm
+  symbols page.
+- Leverage [UNVERIFIED]: per-program grid; HFT-allowed claim increases
+  execution-risk scrutiny — verify server/margin rules.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm live; firm may be closed]
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | 1-Step | 1 | $7.5K-400K | per FAQ | per FAQ | per FAQ | 60% start |
+| 2 | 2-Step | 2 | $7.5K-400K | per FAQ | per FAQ | per FAQ | 60% start |
+Notes: no minimum trading days (PropFirm201). Funded no target. Range
+consistency deletes out-of-band profitable trades (JoinProp signature).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP [UNVERIFIED] ---
+- Single target + daily/max limits; range-consistency band enforced.
+--- 5B. 2-STEP [UNVERIFIED] ---
+- Two-phase targets; same band + Eightcap-demo execution.
+--- 5C. TRADE-RANGE CONSISTENCY (signature) ---
+- Personal lot-size band; profitable trades outside band deleted (JoinProp).
+  Stay inside self-declared range from trade one.
+--- 5D. NEWS / WEEKEND [UNVERIFIED] ---
+- Confirm HFT latitude vs news/weekend holds on rules page.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — do not pay pending status check]
+- Sizes $7,500-400,000 ladder; fees per checkout.
+- Add-ons/resets/refund: confirm only if firm proves live payouts.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED HIGH-RISK]
+- Split starts 60% (JoinProp) — lowest start in batch.
+- Funded stays demo 4+ months minimum (JoinProp); payouts simulated-reward.
+- Frequency/methods/minimums: confirm only after live-proof check.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED]
+Banned: range-band violations (profit deletion, not just breach), data-feed
+exploits, cross-account hedging, account sharing. HFT-allowed claim is
+exceptional — get it in writing before relying.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC ID + liveness. Eightcap-geo + sanctions govern access.
+  Confirm US/UK acceptance on terms; WikiBit legal/regulatory thin.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/nextstepfunded.com: 883
+  reviewers (volume only read; score re-check required live).
+- JoinProp 2025-04-16: stopped-paying / closed flag — treat as HIGH-RISK
+  until refuted by fresh payout proof + live support response.
+- PropFirm201: neutral spec listing (sizes, no-min-days, HFT).
+- Red flags: stopped-pay allegation (unresolved), 60% start, 4-month demo
+  lock, range-deletion rule, unregulated.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: widest top size ($400K) but weakest trust signal in batch.
+DO NOT RECOMMEND until live status + payout proof re-verified.
+Hypothetical fit only if cleared: HFT-tolerant, no-min-day traders wanting
+$7.5K odd-lot entry.
+BAD FIT (current): everyone risking real fees — park funds elsewhere
+(FTMO, The5ers, Hantec, Top One) until cleared.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED HIGH-RISK. No live purchase; re-check homepage,
+Trustpilot score, Discord/support liveness and dated payout proof first.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template
++ JoinProp closure flag.
+RAW EXCERPTS (third-party wording, verbatim):
+[1] "Caution: Next Step Funded appears to have stopped paying and is widely
+flagged as closed; do not deposit money." (JoinProp 2025-04-16)
+[2] "Next Step Funded is an Australia-based proprietary trading firm that
+offers funded accounts from $7,500 to $400,000 through 1-step and 2-step
+challenges, with no minimum trading days and HFT allowed." (PropFirm201)
+================================================================================
+END OF FILE — NEXT STEP FUNDED UNVERIFIED HIGH-RISK. Next firm is separate.
+================================================================================

@@ -1,0 +1,150 @@
+================================================================================
+CARROT FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/CarrotFunding.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://carrotfunding.io without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Carrot Funding / carrotfunding.io. Jurisdiction on file: UAE
+  (PropFirmMap); Trustpilot contact lists Germany. No company registration /
+  founding date / regulator on first-party pages per PFM.
+- Positioning: DeFi-native verifiable prop firm; challenges minted as FBI NFTs
+  (OpenSea-tradable, on-chain reputation); 50% of fees to on-chain vault
+  (rethink.finance); ROFL-verified fairness; Hyperliquid execution venue.
+- What it is [UNVERIFIED]: Simulated evaluation + funded rewards; every
+  payment/payout on-chain and verifiable (Arbiscan).
+- Contact [UNVERIFIED]: Discord https://discord.com/invite/hTW3usP5tJ,
+  X @carrotfunding, docs GitBook.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://carrotfunding.io/ (homepage: verifiable firm, challenges, TX proof)
+ 2. https://www.carrotfunding.io/rulebook/ (payout + trading rules source)
+ 3. https://carrotfunding.io/faq/ (DeFi trust, vault, A/B booking, NFTs)
+ 4. https://carrotfunding.gitbook.io/carrotfunding.io-docs (terms, privacy)
+ 5. https://app.carrotfunding.io/terminal/ (proprietary Carrot terminal)
+ 6. https://app.carrotfunding.io/analytics (on-chain analytics)
+CROSS-CHECK (third-party, real links):
+ 7. https://propfirmmap.com/firms/carrotfunding (Grade C, 5.7, TrustPilot 4.6/25)
+ 8. https://www.trustpilot.com/review/carrotfunding.io (4.4-4.6, 12-25 reviews)
+TOTAL SOURCES: 8 (6 official to verify + 2 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: proprietary Carrot terminal only (TradingView charts);
+  no MT4/MT5/cTrader/Match-Trader. Hyperliquid is execution venue, not login.
+- Instruments [UNVERIFIED]: 175+ pairs — crypto + commodities + stocks +
+  indices at up to 5x per position. Hyperliquid 24/7 incl. tokenized TradFi.
+- Leverage [UNVERIFIED]: capped 5x per position (far below CFD norms). Verify.
+- Costs: Hyperliquid maker/taker + funding with no markup; fees count toward
+  limits per PFM — verify. A-book/B-book at firm discretion, labeled.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official rulebook]
+| # | Program | Target | Daily loss | Max loss | Split |
+|---|---------|--------|------------|----------|-------|
+| 1 | 2-Phase Challenge | 5% then 8% | 5% equity 00:00 UTC | 10% | 80% |
+| 2 | 1-Phase Challenge (NEW) | 8% | 4% equity 00:00 UTC | 8% + Best-Day 50 | 80% |
+Sizes: $5K-$100K (largest single $100K; $200K aggregate funded per PFM).
+Notes: 0 min days; payouts from day 0 on-demand. Breach permanent, no resets/
+appeals/exceptions per PFM — verify.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 2-PHASE CHALLENGE [UNVERIFIED] ---
+- 5% Ph1 + 8% Ph2; 5% daily / 10% max (equity, 00:00 UTC reset). Close all
+  positions/orders before payout request; limits reset after payout. Verify.
+--- 5B. 1-PHASE CHALLENGE [UNVERIFIED] ---
+- 8% target; 4% daily / 8% max + Best-Day 50 rule per PFM. Verify exact
+  best-day math on rulebook.
+--- 5C. FUNDED STAGE [UNVERIFIED] ---
+- Same limits as challenge; NFT records stage/profit on-chain in real time.
+  Vault NAV on-chain; hedging observable. Verify reset mechanics.
+--- 5D. NEWS / STRATEGY / AUTOMATION [UNVERIFIED] ---
+- Allowed per PFM: news, weekend holding (24/7 venue), scalping, swing, grid,
+  hedging (single account). NOT allowed: EAs/automation, HFT/AI/mass-entry,
+  copy trading, cross-account hedging, third-party access, exploiting
+  technical/price-feed errors, overleveraging/gambling. Verify list.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Fee model: one-time fee, no subscriptions. Cheapest $65 (PFM: above $39
+  crypto median — premium priced). $100K 2-Phase $699 cited on homepage.
+- Sizes $5K-$100K across ~10 challenge options per PFM. Confirm live grid.
+- Refund: confirm refund clause (NFT + vault model — verify whether refund
+  on pass/first payout exists).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: 80% funded. Verify.
+- Frequency: on-demand from dashboard, day 0; within 24h; min 100 USDC; paid
+  in USDC on Arbitrum (bank transfer Coming Soon). Verify.
+- Referral: 10% lifetime revenue from challenge fees + net profits (affiliate/
+  growth partner tiers) — verify.
+- Scaling: $200K aggregate funded cap; no scaling beyond per PFM — verify.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rulebook]
+Banned: exploiting technical/price-feed errors; unfair automation (bots, HFT,
+AI, mass entry); abusive/unrealistic trading (extreme leverage, gambling);
+cross-account hedging; copy trading; coordinated multi-account manipulation;
+trading for others / third-party access. Breach = permanent, no appeal.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC set not disclosed — verify (on-chain + NFT identity may still
+  require ID before payout).
+- No published ban list found in reads — verify terms/GitBook before buying.
+- Crypto-only payouts (USDC Arbitrum) — confirm wallet requirements.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Trustpilot https://www.trustpilot.com/review/carrotfunding.io: 4.4-4.6/5,
+  12-25 reviews (intuitive UI, on-chain verifiability praised).
+- PropFirmMap: 5.7 Fair, Grade C; #3 of 17 crypto firms; strengths: from $65,
+  on-demand; weaknesses: single proprietary platform, B-book discretion,
+  crypto-only payouts, no registration disclosure.
+- No red-flag verdict offered without live re-read; B-book discretion + no-
+  appeal breach are watch items.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: DeFi-native traders wanting verifiable on-chain payouts, NFT
+  reputation, 24/7 Hyperliquid venue, no min days.
+- Bad fit: MT4/MT5/EA/bot traders (banned), bank-wire-only traders, traders
+  needing appealable risk reviews or >$100K single accounts.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — CARROT FUNDING UNVERIFIED. Next firm is a separate task.
+================================================================================

@@ -1,0 +1,106 @@
+================================================================================
+FILL88 — COMPLETE FIRM DOSSIER
+================================================================================
+Website: https://fill88.com/
+Status: LAUNCHING SOON (pre-launch)
+
+--- COMPANY OVERVIEW ---
+- Tagline: "Prop Trading Without Limits - Where Traders Get Funded Faster"
+- Legal: Fill88.com T/A Apex Forge Limited 2026
+- Support: support@fill88.com
+- Traders: 80,000+ global users
+- Virtual Funding: $0.01bn
+- Verified Payouts: $0M+
+- Trustpilot: Rated 'Excellent', 6,000+ five-star reviews
+- Platforms: MetaTrader 5, cTrader, Match-Trader, Cleo
+- Payment Methods: 100+ different payment methods
+- Support: Live chat + email, avg response 33 seconds, 14 languages
+- Uptime: 99.25%
+
+--- STATUS NOTE ---
+"Fill88.com is currently in development and preparing for release."
+"Check back shortly to start your trading journey with Fill88."
+
+--- PROGRAMS (Planned) ---
+- Spark (Instant Funding) - 4.5x higher payout chance
+- Launch
+- Ascend
+- Summit
+
+--- ACCOUNT SIZES ---
+$500, $1,250, $2,000, $2,500, $5,000, $10,000, $20,000, $40,000, $80,000
+$25,000, $50,000, $100,000, $120,000, $200,000, $300,000
+
+--- PLATFORMS ---
+- MetaTrader 5
+- cTrader (works in America)
+- Match-Trader (works in America)
+- Cleo
+
+--- SPARK (INSTANT FUNDING) RULES ---
+- Profit Target: None (no minimum, but need 5% profit to lock Smart Drawdown)
+- Daily Drawdown: No separate daily limit
+- Max Drawdown: 10% (becomes 5% after 5% profit, stays permanently)
+- Profit Split: 80%
+- Payouts: 14 days after first trade, then weekly (every 7 days after new trade)
+- Scaling: Account doubles each time you get 10% profit, up to $1.28M
+- Min Trading Days: None
+- Holding overnight: Available
+- Holding over weekends: Not available
+- Leverage: Currencies 1:100, Commodities 1:20, Indices 1:20, Crypto 1:2
+- Note: Metals, Oil, Indices temporarily 1:5 on funded accounts only
+
+--- LAUNCH RULES ---
+- Profit Target: 10%
+- Daily Drawdown: 4%
+- Max Drawdown: 10% (trails based on closed trades)
+- Profit Split: 80% (90% after 10% profit in 3 months)
+- Scaling: None (IF1 accounts close 24h after first trade)
+- Min Trading Days: 3 days
+- Holding overnight: Available
+- Holding over weekends: Available for Evaluation Phase (funded auto-closed 17:00 EST)
+- Payouts: On-demand
+
+--- ASCEND RULES ---
+- Profit Target: 7%
+- Daily Drawdown: 4%
+- Max Drawdown: 7%
+- Profit Split: 80% (90% after 10% profit in 3 months)
+- Scaling: +25% every 90 days if 10% profit achieved, up to double starting size
+- Min Trading Days: None
+- Holding overnight: Available
+- Holding over weekends: Available for Evaluation Phase
+- Payouts: On-demand
+
+--- SUMMIT RULES ---
+- Profit Target: 8% Phase 1, 5% Phase 2
+- Daily Drawdown: 4%
+- Max Drawdown: 10%
+- Profit Split: 80% (90% after 10% profit in 3 months)
+- Scaling: +25% every 90 days if 10% profit achieved, up to double starting size
+- Min Trading Days: 3 days
+- News trading and weekend holding: Allowed
+- Payouts: On-demand
+
+--- COMMON RULES ---
+- HFT not permitted (trades held 60 seconds or less, or unusually high volume)
+- First two HFT violations: warnings + profit removal
+- Third violation: account breach
+- Breached accounts cannot be restored, must purchase new account
+- KYC required after passing evaluation or before payouts (SumSub verification)
+- Trader Agreement required after KYC
+- One-time fee only, no monthly subscriptions
+- Minimum withdrawal: $25
+- Payouts processed within 48 business hours (many same day)
+- Crypto or bank transfer
+- Taxes: Trader's responsibility
+
+--- DISCLAIMER ---
+- Simulated trading environment only
+- No real capital provided
+- Not brokerage services
+- Not investment advice
+- Not for restricted jurisdictions (FATF, EU, UN sanctions lists)
+- © Fill88.com T/A Apex Forge Limited 2026
+
+================================================================================

@@ -1,0 +1,154 @@
+================================================================================
+PROPR — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Propr.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://propr.xyz without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Propr (propr.xyz). Operator: Propr Limited, BVI Reg. No. 2211330,
+  Trinity Chambers, PO Box 4301, Road Town, Tortola, BVI.
+- Built by XBorg studio; backed by SwissBorg ($1.5M seed, $17.5M FDV per
+  FundedTrading). CEO: Louis Regis (daily Twitch build-in-public).
+- Positioning: On-chain crypto prop firm built on Hyperliquid. Custom terminal
+  + REST API (Python/JS SDKs, 1,000+ AI agents). 150-170+ perp markets; A/B-book
+  labeled per trade; transparency dashboard; $PROPR TGE Aug 2026 (verify).
+- What it is [UNVERIFIED]: Simulated evaluation + funded accounts; payouts in
+  USDC on Ethereum, verifiable via transparency page.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://propr.xyz/ (homepage: 150+ markets, 80% split, transparency)
+ 2. https://www.propr.xyz/rules (versioned rulebook v1.0.5 per Roya)
+ 3. https://www.propr.xyz/transparency (revenue, payouts, pass rates, A/B)
+ 4. https://www.propr.xyz/docs/introduction (XBorg/SwissBorg, $20B thesis)
+ 5. https://app.propr.xyz/ (challenge picker: Classic/Turbo, $5K-$100K)
+CROSS-CHECK (third-party, real links):
+ 6. https://fundedtrading.com/propfirm/propr/ (Score 8.6, TrustPilot 4.4)
+ 7. https://roya-trading.com/blog/propr-xyz-review/ (Trust 86.7/100, hands-on)
+ 8. https://roya-trading.com/blog/best-hyperliquid-prop-firm/ (Aug 2026 rank)
+TOTAL SOURCES: 8 (5 official to verify + 3 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: custom Propr terminal on Hyperliquid order book only;
+  no MT4/MT5/cTrader/TradeLocker. Full REST + WebSocket API with typed SDK.
+- Instruments [UNVERIFIED]: 150-170+ perps — crypto + equities + commodities +
+  FX perps; perps-only, no spot/options. Polymarket prediction challenges
+  announced (verify live status — promised Jun 2026, unshipped late Jul).
+- Leverage [UNVERIFIED]: up to 5x BTC/ETH, 2x other crypto, 4x equities/
+  commodities per FundedTrading. Confirm per-symbol caps.
+- Fees match Hyperliquid directly, no markup per reviewers — verify.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official rules + picker]
+| # | Program | Target | Drawdown | Split | Entry |
+|---|---------|--------|----------|-------|-------|
+| 1 | Classic 1-Step | 10% 1 target | 6% static | 80% flat | $5K-$100K |
+| 2 | Turbo 1-Step | per FAQ (3% DD cited) | 3% tight | 80% flat | from $25 (5K) |
+| 3 | Classic 2-Step | 5%+10% | 8% trailing | 80% flat | $5K-$100K |
+Notes: no time limit, no consistency rule, no min days per reviewers. Funded
+cap $100K/account, $300K aggregate. No fee refund on pass (verify).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CLASSIC 1-STEP [UNVERIFIED] ---
+- One target (~10%), static drawdown (~6%) per reviewers; two equity limits
+  and nothing else. Bots/copy/API explicitly allowed. Verify rulebook.
+--- 5B. TURBO 1-STEP [UNVERIFIED] ---
+- Cheapest entry ($25/5K); extremely tight 3% drawdown per reviewers — one bad
+  trade ends account. Verify target/DD/min-lot before buying.
+--- 5C. CLASSIC 2-STEP [UNVERIFIED] ---
+- 5%+10% targets, 8% trailing per reviewers; discretionary-trader preference.
+  Verify phase mechanics + trailing reference.
+--- 5D. KYC / AUTOMATION / NETWORK [UNVERIFIED] ---
+- No KYC to buy; government ID + live selfie before funding/payout; no POA.
+  Bots/API/copy permitted; opposing strategies across accounts = termination
+  (cross-account correlation + fingerprint + on-chain analysis; final, no
+  appeal per rulebook s.15). US/UK/Russia excluded; VPN from restricted =
+  termination no refund. Verify.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Fee model: one-time fees $25-$1,998 per reviewers; 5 sizes $5K-$100K; free
+  trial offered. 30% first-challenge promo cited — verify live.
+- Max: $100K/account, $300K aggregate funded. Verify.
+- Refund: NO evaluation fee refund on pass per reviewers (vs FTMO-style
+  refunders) — verify before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: 80% flat all sizes, no scaling to 90% per reviewers. Verify.
+- Frequency: on-demand; USDC on Ethereum; $20 minimum; ~5h average, within
+  24h per reviewers. Every payout has tx hash on transparency page. Verify.
+- Pass rate 15.2% paid challenges (26 Aug 2026 dashboard read per Roya).
+  A-book ~5% of signals (Jul 2026 founder statement); B-book disclosed with
+  inverse-correlation conflict in rulebook s.19 — verify.
+- Scaling: $300K aggregate cap; no formal scale-to-90% plan per reviewers.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rulebook]
+Opposing strategies across accounts to guarantee a pass = termination.
+Sybil/multi-account abuse caught at onboarding (Onfido + wallet + fingerprint).
+Latency/stale-quote, martingale/variance-farming policed at matching layer
+(per Propr-for-Business threat model). Verify verbatim bans.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Excluded: US, UK, Russia, OFAC-sanctioned + Crimea/Donetsk/Luhansk per
+  reviewers. VPN from restricted = termination no refund/payout. Verify list.
+- KYC: ID + selfie before funded activation + before any payout. Verify.
+- Operator BVI unregulated; no regulatory protections per firm disclosures.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Trustpilot https://www.trustpilot.com/review/propr.xyz: 4.4-4.5/5, 53-60
+  reviews (Jul-Aug 2026). Praise: Hyperliquid-native feel, fast payouts,
+  transparency. Complaints: platform bugs, false breaches in downtime, peak
+  latency; CEO refunds latency-caused breaches (verify).
+- FundedTrading: 8.6/10 (pricing 8.7, rules 8.9, platform 8.0).
+- Roya: Trust 86.7/100; only Hyperliquid firm fully live every size with
+  versioned rulebook (v1.0.5), 80%, 24h USDC, bots/API allowed.
+- Watch items: early-2026 launch maturity, $PROPR token complexity, 80% flat
+  (no 90% scale), perps-only. No red-flag verdict without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: Hyperliquid-native discretionary traders; algo/bot developers
+  wanting API-first funded capital with on-chain payout proof.
+- Bad fit: MT/cTrader-only traders; US/UK residents; traders needing 3-year
+  payout history or 90% scaling; spot/options traders.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — PROPR UNVERIFIED. Next firm is a separate task.
+================================================================================

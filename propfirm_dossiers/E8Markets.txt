@@ -1,0 +1,178 @@
+================================================================================
+E8 MARKETS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirm_dossiers/E8Markets.txt | Status: LIVE-FETCHED | Verification date: 2026-09-08
+================================================================================
+Canonical domain: https://e8markets.com (NOT e8funding.com).
+Simulated SimFi accounts. Futures: http://e8futures.com
+How-it-works / Help Centre / payouts pages Cloudflare-blocked this pass;
+Pro/Signature tabs are JS — One default grid is official live widget.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Brand: E8 Markets (SimFi™ simulated finance). Dashboard: e8x.e8markets.com
+- Legal:
+  * Digital Renaissance LLC (Puerto Rico) — website internal rules/policies.
+  * E8 Funding LLC — US tech/education co., 4101 McEwen Rd #205, Dallas,
+    TX 75244. Operates TradeLocker, cTrader, Match Trade. Simulated only.
+    Does not accept deposits / is not a broker.
+  * E8 Markets Ltd — Saint Lucia, reg. 2025-00347, Ground Floor, The
+    Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, LC06 201.
+    Operates MetaTrader MT5.
+- Founded ~2021 (independent). Contact: support@e8markets.com
+  Discord: https://discord.com/invite/e8markets
+- Scale (homepage 2026-09-08): Over $77M paid out; 500,000+ traders;
+  largest payout reward $216,000+; PropFirmMatch 4.79/5; pass rate
+  disclosed 17.7% (Jan 2023–Mar 2024, traders who traded at least once
+  and obtained E8 Trader Account).
+- Markets: Classic (forex, commodities, indices, energies); Perpetuals
+  24/7 Hyperliquid (BTC, Gold, Oil, Nasdaq, EUR); Futures via e8futures.com
+  (NQ, ES, GC). 250+ markets including stocks-CFD and crypto.
+- Promo: code E8 = 25% off first order on default E8 One grid.
+- Products: E8 One (most customizable, 1-day pass, uncapped) |
+  E8 Pro (daily payouts, static DD, no payout caps) |
+  E8 Signature (cheapest, 1-day pass, softer rules).
+
+================================================================================
+SECTION 2 — SOURCES (2026-09-08)
+================================================================================
+LIVE:
+ 1. https://e8markets.com/  (homepage configurator + legal footer)
+ 2. https://e8markets.com/compare-simfi-funded-accounts  (full One price grid)
+ 3. https://e8markets.com/e8-markets-terms-and-conditions
+BLOCKED (Cloudflare): how-it-works, help.e8markets.com, e8-traders-stories
+CROSS-CHECK: TradeTanto E8 rules 2026-08-30 (One/Pro/Signature tables);
+  TradetoTheTop 2026-08-03 (US platforms, news window, payout caps).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS, LEVERAGE
+================================================================================
+Platforms (homepage): MT5, TradeLocker, cTrader, MatchTrader, E8 Terminal.
+Footer: E8 Funding LLC operates TradeLocker, cTrader, Match Trade;
+E8 Markets Ltd operates MT5. US citizens: MT5 RESTRICTED — US uses
+TradeLocker or Match-Trader (independent 2026 + official MT5 restriction).
+Leverage (independent): forex ~1:30, crypto ~1:2. Confirm checkout.
+Overnight: some Signature configs close 23:00–00:15 server (independent).
+
+================================================================================
+SECTION 4 — PROGRAMS OVERVIEW
+================================================================================
+E8 ONE (default live widget = 6% max DD, 80% split, 9% target)
+  1-Step. Dynamic DD. Pass in 1 day. Customizable DD 4-14% and split
+  80/90/100% at checkout (price changes). Sizes $5K–$500K.
+E8 PRO (homepage blurb + TradeTanto 2026-08-30)
+  1-Step. 8% target, 8% STATIC DD, 2.5% daily hard, 2% daily profit cap.
+  Split 80% or 100% at checkout. Daily payouts, no payout caps.
+  Sizes $5K–$500K. No consistency on eval.
+E8 SIGNATURE (homepage: cheapest, softer)
+  1-Step. Independent: 6% target, 3-4% EOD dynamic DD by size, 2% daily
+  PAUSE (soft) on performance, 35% best-day on performance, 80% split.
+  Sizes typically $25K–$150K.
+FUTURES: e8futures.com (separate file later as E8 Futures).
+PERPETUALS: Hyperliquid liquidity, 24/7, same One/Pro/Signature builder.
+
+================================================================================
+SECTION 5 — E8 ONE RULES (OFFICIAL DEFAULT 6% DD / 80% SPLIT)
+================================================================================
+Default challenge (live compare page): Profit target 9% of size,
+dynamic max DD 6%, daily DD ~4% of size, pass in as little as 1 day.
+  Size    Target   Dyn DD    Daily DD   List     Code E8 (25%)
+  $5K     $450     $300      $200       $48      $36
+  $10K    $900     $600      $400       $88      $66
+  $25K    $2,250   $1,500    $1,000     $188     $141
+  $50K    $4,500   $3,000    $2,000     $288     $216
+  $100K   $9,000   $6,000    $4,000     $488     $366  Recommended
+  $200K   $18,000  $12,000   $8,000     $798     $599
+  $400K   $36,000  $24,000   $16,000    $1,598   $1,199
+  $500K   $45,000  $30,000   $20,000    $1,998   $1,499
+
+Performance (funded) same default $100K: dynamic DD $6,000, daily $4,000,
+consistency 40%, payout 80%, first payout in as little as 3 days,
+NO activation fee. Average first payout shown $5,884.
+
+CUSTOM ONE (TradeTanto official-style table, confirm on builder):
+  Max DD   Target   Daily DD
+  4%       6%       3%
+  6%       9%       4%     <- live default
+  8%       12%      5.3%
+  10%      15%      6.6%
+  14%      21%      9.2%
+Target always 1.5x chosen DD. Dynamic = trails closed profit / highest
+balance until buffer then may lock (FXEmpire: trailing then static after
+buffer). Consistency 40% best day on PERFORMANCE stage only.
+
+E8 PRO dollar table (TradeTanto, not on crawled JS tab):
+  Size $5/10/25/50/100/200/400/500K
+  Target = Daily cap path: 8% / 8% static / 2.5% daily / 2% daily profit cap
+  e.g. $100K: $8,000 target, $8,000 static DD, $2,500 daily, $2,000 day cap.
+
+E8 SIGNATURE (independent): 6% target; EOD DD 3-4%; daily pause 2% soft
+on performance; 35% consistency performance; 80% split; 5 profitable days
+at 0.3% for payouts; payout caps often 1st-2nd 2.5%, then rising.
+
+NEWS (independent Aug 2026): unrestricted in evaluation; funded often
+5 min before/after high-impact. Confirm help centre.
+
+================================================================================
+SECTION 6 — PRICING
+================================================================================
+See Section 5 One grid (official 2026-09-08). Code E8 25% first order.
+Pro/Signature prices are configuration-dependent — open
+https://e8markets.com/compare-simfi-funded-accounts and toggle tabs.
+Checkout: e8x.e8markets.com/orders/purchase?a=1S&b=SIZE&dr=DD&p=SPLIT&d=E8
+Pay: Visa/MC/Amex/Discover/Apple/Google/Aeropay/BTC/ETH/LTC/USDC.
+Refunds: unused only; crypto never refundable (independent + T&Cs
+"non-refundable unless unused").
+
+================================================================================
+SECTION 7 — PAYOUTS
+================================================================================
+One default: 80% (upgrade 90/100% paid). First payout as little as 3 days.
+Pro: daily payouts, no caps (homepage). Signature: 80%, caps, 5 green days.
+Homepage: $77M+ paid; $216k+ largest. SimFi Score / Tilt Factor displayed.
+US ACH via Aeropay available.
+
+================================================================================
+SECTION 8 — PROHIBITIONS (T&Cs 9.1)
+================================================================================
+No bots/scripts/crawlers/AI agents to manipulate platform;
+no circumventing eval parameters, rewards, drawdown, simulation logic;
+no identity/location misrep; no multiple accounts without written auth;
+no credential sharing; no reverse-engineering; no malware; no defamatory
+content; plus standard simulation-abuse (arbitrage, latency) via help
+centre (blocked this pass).
+Geo bans: Cuba, Syria, Iran, Lebanon, Iraq, Yemen, North Korea, Russia,
+Ukraine, Belarus. MT5 banned for US citizens.
+
+================================================================================
+SECTION 9 — ELIGIBILITY
+================================================================================
+KYC required (homepage FAQ). Simulated only. Live trading if any is
+outside E8 via independent brokers. CFTC 4.41 disclosure. Payments are
+for educational software. Dallas County, Texas arbitration venue.
+
+================================================================================
+SECTION 10 — REVIEWS
+================================================================================
+PropFirmMatch 4.79/5 (homepage). Independent Trustpilot ~4.3–4.6.
+Praise: US-friendly (non-MT5), custom One builder, 100% split option,
+payouts. Complaints: dynamic DD harsher than static; consistency 40%
+on funded One; news window on funded; 17.7% pass disclosure.
+
+================================================================================
+SECTION 11 — FIT
+================================================================================
+BEST: US CFD traders (TradeLocker/MatchTrader); custom risk via One;
+daily-payout Pro; cheap Signature.
+CAUTION: Dynamic DD; 40% consistency funded One; MT5 not for US;
+help centre not crawled this pass — re-fetch before buying Pro/Signature.
+
+================================================================================
+SECTION 12 — VERIFICATION
+================================================================================
+[x] Official One default price+rule grid, legal entities, platforms, T&Cs
+[ ] how-it-works / help centre (Cloudflare)
+[ ] Live Pro and Signature tab prices (JS)
+[ ] e8futures.com (own dossier as firm #99)
+
+END OF FILE — E8 MARKETS — 2026-09-08

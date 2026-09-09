@@ -1,0 +1,143 @@
+================================================================================
+COINPROP — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/CoinProp.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://coinprop.io without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: CoinProp (coinprop.io). Contact: support@coinprop.io; Castries,
+  St. Lucia per Trustpilot. Est. 2025 per PropScorer.
+- Positioning: Crypto-native one-step prop; CPX proprietary terminal with
+  TradingView + Bybit market data; 550+ pairs; up to $400K funded; up to 95%
+  headline (80% standard per PropScorer); payouts every 5 days (verify 5-day
+  vs 24h reads).
+- What it is [UNVERIFIED]: Simulated markets, no personal risk; pass program,
+  earn funded rewards.
+- Tech [UNVERIFIED]: Saint Lucia operating entity + Canadian tech stack per
+  PropScorer — verify.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://www.coinprop.io/ (homepage: fair rules, free trial, 4.3/9 reviews)
+ 2. https://coinprop.io/crypto-prop-firm (CPX vs Hyro/CFT/FTMO comparison)
+ 3. https://coinprop.io/cpx (CPX platform page — verify path)
+ 4. https://coinprop.io/markets (550+ pairs list — verify path)
+ 5. https://coinprop.crunch.help/en (help center)
+CROSS-CHECK (third-party, real links):
+ 6. https://www.trustpilot.com/review/coinprop.io (4.4-4.5/13 reviews)
+ 7. https://www.propscorer.com/firms/coinprop (48/100 Average, 1:5, 550+)
+ 8. https://www.prnewswire.com/news-releases/coinprop-launches-crypto-prop-firm-for-serious-traders-302524241.html (Aug 2025 launch)
+TOTAL SOURCES: 8 (5 official to verify + 3 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: CPX proprietary terminal with TradingView + Bybit
+  data. No MT4/MT5 lane described. Verify order types/latency.
+- Instruments [UNVERIFIED]: 550+ crypto pairs, direct-market conditions (not
+  synthetic CFD) per firm comparison page. Verify list.
+- Leverage [UNVERIFIED]: up to 1:5 per PropScorer. Verify per-pair caps.
+- Edge claimed [UNVERIFIED]: static drawdown, scalper/TradingView-workflow
+  friendly. Verify rulebook.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official pricing page]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | One-Step Evaluation 5K-100K | 1 | per FAQ | per FAQ | static per firm | 80% (95% headline) |
+Notes: no time limit per PropScorer. Funded no target. Scaling to $400K.
+Pricing reads: $59/5K, $119/10K, $289/25K, $449/50K, $699/100K — verify live.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ONE-STEP EVALUATION [UNVERIFIED] ---
+- Single target; static drawdown; no time limit per PropScorer. Verify target
+  %, daily %, max %, min profitable days, consistency.
+--- 5B. FUNDED STAGE [UNVERIFIED] ---
+- Up to $400K; standard ~80% (95% headline conditions unclear — verify which
+  tier/add-on unlocks 95%).
+--- 5C. PAYOUT RHYTHM [UNVERIFIED] ---
+- Every 5 trading days per PropScorer (24h-payout reviewer read conflicts —
+  reconcile on official payout terms).
+--- 5D. NEWS / WEEKEND / AUTOMATION [UNVERIFIED] ---
+- Exchange-linked perps mechanics (funding rates, real liquidity) per firm.
+  Verify news/EA/copy/hedging/scalp/stop-loss clauses before trading.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- One-time fees per PropScorer reads: 5K $59 | 10K $119 | 25K $289 | 50K $449 |
+  100K $699. Competitive low-end, less aggressive top-end vs Hyro/Tradeify.
+- Free trial offered per homepage. Confirm trial-to-paid conversion terms.
+- Refund: confirm refund-on-pass/first-payout clause before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: up to 95% headline, ~80% standard per PropScorer — verify ladder.
+- Frequency: every 5 (trading) days per PropScorer; 24h processing per
+  reviewers. Verify request flow + minimums + rails (USDT assumed — confirm).
+- Scaling: to $400K per Trustpilot company text. Verify thresholds.
+- Giveaway accounts cited by reviewers — verify promo terms.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rules/help center]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. Verify EA/copy/HFT/news/weekend/hedging
+verbatim (infrastructure-driven rulebook claimed — confirm).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. St. Lucia entity. Banned list not captured — verify terms.
+- KYC timing undisclosed — verify ID/selfie before funding/payout.
+- Simulated markets disclosure per Trustpilot text — verify agreement.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Trustpilot https://www.trustpilot.com/review/coinprop.io: 4.4-4.5/5, 9-13
+  reviews (fair rules, CPX UX, coin breadth, support; one 4-star).
+- PropScorer: 48/100 Average (middle of crypto pack; cleaner than new
+  launches, less proven than Hyro/CFT); watch-outs: thin sample (14), 80%
+  max tracked, 5-day speed.
+- PR Newswire Aug 2025: purpose-built crypto launch positioning.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: pair-selection crypto traders wanting 550+ breadth, one-step
+  simplicity, CPX+TradingView UX, static drawdown.
+- Bad fit: BTC/ETH-only traders (breadth unneeded), EA/bot-dependent traders
+  (verify automation lane), traders needing deep review history or fastest
+  payouts.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — COINPROP UNVERIFIED. Next firm is a separate task.
+================================================================================

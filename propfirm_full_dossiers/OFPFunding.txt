@@ -1,0 +1,288 @@
+================================================================================
+OFPFunding — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/OFPFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official OFP Funding pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: OFP Funding (OFP = One Funding Program, site ofpfunding.com).
+- Legal entities: OFP Funding Ltd, Saint Lucia (operating entity);
+  FINTEKNOLOGY LTD, UK Company 15131112 (content + payments); founded London
+  2021-2022 (instant-funding pioneer, original instant firm).
+- Scale claimed: 800,000-1,000,000+ traders since 2021; $23,500,000+ paid out;
+  12,000+ withdrawals; 93% payouts completed in 48H; avg payout $2,084.
+- Trader stories: Mustapha Mohammed (Nigeria), Nongmaithem (5-day), Tommy (10%),
+  Praveen, Muhammad, Jose, Shedrack ($8,600), Victor (Ecuador), Ben, Omer.
+- Press badges: Forbes, Financial Times, WSJ, Economist, Bloomberg, Nikkei,
+  CNBC, Digital Journal, MarketWatch, Yahoo News, Google News, NYT, Fortune,
+  Inc, Spears. Awards row (3 awards). Interviews: OFP Interviews YouTube series.
+- Contact: 24/7 live chat (minutes in market hours), priority tickets (hours),
+  Discord 40,000+ (discord.com/invite/ZsuPTtRBna), guide at /guide.
+- What it is: CFD instant + challenge simulated prop firm. ALL accounts are demo
+  with fictitious funds; trading simulated. Rewards are real-money splits, not
+  live capital. No broker, no deposits.
+- Trustpilot: rating SUSPENDED (breach-of-guidelines, fake-review removals);
+  historical 2.9/5; 3.6/5 across 3,400+ (23-31% one-star); 4,200 reviews cited;
+  52% five-star / 31% one-star polarised. ComparePropFirms 3.5/5; TraderFuel 7.2/10;
+  H2T; PropFirm201; JoinProp; PropNavi (higher-dispute-risk verdict).
+- Key distinction: SEVEN FX/CFD programs — five instant (Lite, Classic best-seller,
+  Plus, Pro, Prime) + One Phase + Two Phase challenges. MT5 + proprietary OFP
+  Platform (+ TradeLocker/cTrader per reviews). Up to $300K instant, $5M scaled.
+  Up to 100% split (paid option). Bi-weekly/monthly/on-demand rewards.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://ofpfunding.com (homepage: instant-vs-challenge, Lite/Classic/Plus/
+    Pro/Prime selector, $50K Lite $150, $23.5M stats, platforms, Discord)
+ 2. https://ofpfunding.com/guide (new-to-prop guide)
+ 3. https://ofpfunding.com/ofp-interviews (success stories EP-6 to EP-17)
+ 4. https://my.ofpfunding.com/prop/checkout (checkout: Classic $50K, goal/package IDs)
+ 5. https://ofpfunding.com/trading-rules (rules: DD, 1% rule, consistency, news)
+ 6. https://ofpfunding.com/payout-policy (rewards: bi-weekly, 48h, Rise/USDC)
+ 7. https://ofpfunding.com/terms (terms: simulated, cap, inactivity, bans)
+ 8. https://ofpfunding.com/faq (FAQ: platforms, leverage, KYC)
+ 9. https://ofpfunding.com/platforms (MT5 + OFP Platform, US MT5 ban)
+10. https://ofpfunding.com/pricing (Lite/Classic/Plus/Pro/Prime + challenges pricing)
+11. https://ofpfunding.com/about (London 2021 origin, entities)
+12. https://ofpfunding.com/contact (support rails)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. ComparePropFirms OFP review Apr 2026 (3.5/5, 7-program breakdown, FIRSTOFP/OFP30)
+14. TraderFuel OFP review Mar 2026 (7.2/10, Inconsistency Score + 1% rule audit)
+15. H2TFunding OFP review Jul 2026 (fee/split tables, $50 Rise fee, 14-day cycle)
+16. PropFirm201 OFP review Apr 2026 (26-100% split pricing matrix, on-demand day-5)
+17. JoinProp OFP review Aug 2026 (Inconsistency Score gate analysis)
+18. PropNavi OFP legit review Jun 2026 (gambling-denial pattern, $807-$2,250 cases)
+19. PropFirmScope OFP review Apr 2026 (7.7/10 trust, $67 entry)
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- MetaTrader 5 (MT5) — NOT available to US citizens/residents.
+- OFP Platform (proprietary) — TradingView-charted; unified dashboard 2.0.
+- TradeLocker + cTrader cited in reviews (plan-dependent); Match Trader cited.
+  Credentials in <60s after payment (review-confirmed).
+INSTRUMENTS: Forex, Index, Metals, Oil, Crypto (CFDs only, NO CME futures).
+Lowest-spreads-worldwide claim; institutional execution marketed.
+LEVERAGE: Dynamic up to 1:100 (asterisked per-plan); Lite 1:30 variant;
+elected 2-5% daily drawdown affects pricing; per-symbol lower on crypto.
+COMMISSIONS/SPREADS: spread-based; institutional execution; all costs COUNT
+toward static+daily equity limits.
+DASHBOARD: unified portal (no more fragmented logins); real-time tracking;
+Inconsistency Score visible at payout review.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program         | Type    | Sizes      | Target       | Daily DD | Overall DD | Min days | Split      | Fee model          |
+|---|-----------------|---------|------------|--------------|----------|------------|----------|------------|--------------------|
+| 1 | Instant Lite    | instant | 5K-200K    | 5% to withdraw | 3%     | 5%         | 30-day account | 80% (100% +20%) | from $18-35; $50K $100; $100K $200 |
+| 2 | Instant Classic | instant | 5K-300K    | none         | 3%/6% or 5%/10% select | 5-10% select | none | 80% (100% +20%) | $35-$1,000 ($50K $150-225) |
+| 3 | Instant Plus    | instant | to 100K+  | none         | 3%       | 5% (no 1% rule) | varies | 80% (100% +20%) | to $1,200 ($50K ~$210) |
+| 4 | Instant Pro     | instant | to 200K+  | none         | 3%       | 6%         | 10zwischen | 80% (100% +20%) | $210-$420+         |
+| 5 | Instant Prime   | instant | to 300K   | none         | 5%       | 10% wide   | 10zwischen | 80% (100% +20%) | highest instant    |
+| 6 | One Phase       | 1-step  | 5K-200K    | 8% (4% variant) | 3-5%  | 6-10%      | 5/phase  | 80% (100% +20%) | from $35 ($100K $210-375) |
+| 7 | Two Phase       | 2-step  | 50K+       | 8% + 4%      | 5%       | 10%        | 5/phase  | 80% (100% +20%) | from $40 ($50K $105) |
+Notes:
+- Classic best-seller: choice of 3%/6% tight or 5%/10% wide at checkout.
+- Lite = 30-day single-reward sprint (account concludes after one reward).
+- Pro/Prime = 10 trading days minimum between rewards (swing-friendly Prime wide DD).
+- Challenges have NO time limits, NO activation fees. Instant = lifelong one-time
+  fee (NOT subscription). $300K total-account cap. 28-day inactivity suspension.
+- Custom splits 26/40/60/80/85/90/95/100% (higher split = higher fee; 100% = +20%).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT LITE (cheap sprint) ---
+- 30-day account, single reward then concludes. Target 5% to withdraw.
+  Daily 3%, overall 5%. Leverage 1:30 variant. 1% floating-risk soft rule applies.
+  From $18.25-35. Best for pocket-change test-drives (LITE40 code).
+--- 5B. INSTANT CLASSIC (flagship, no target/days) ---
+- NO profit target, NO minimum trading days. Elected DD: 3%/6% tight or 5%/10%
+  wide. 1% soft rule + 20% consistency ratio apply. News allowed. Monthly payout
+  day default; bi-weekly/on-demand selectable. ($50K Lite $150 shown; Classic
+  $50K $150-225; $100K $375-420.)
+--- 5C. INSTANT PLUS (no 1% rule) ---
+- Drops 1% floating-loss rule for clean 3%/5% envelope. Otherwise Classic-like.
+  For traders hating stop-size math. To $1,200 ($100K Plus).
+--- 5D. INSTANT PRO / PRIME (10-day, bigger) ---
+- 10 trading days minimum between rewards. Pro tight 3%/6%; Prime wide 5%/10%
+  for swing. 1% rule on both. Prime to $300K max.
+--- 5E. ONE PHASE / TWO PHASE CHALLENGES ---
+- One Phase: 8% single target (4% variant), 5/phase min days, 3-5% daily,
+  6-10% overall. From $35. Two Phase: 8% + 4%, 5/phase days, 5% daily, 10%
+  overall. From $40. No time limits. Up to 100% split once funded.
+--- 5F. SHARED GATES (all models) ---
+- 1% Rule (soft): floating risk (stop size: Sp*Pstop*Vp <= Ct*0.01) must not
+  exceed 1% in single position (Lite/Pro/Prime; Plus exempt). Breach voids payout,
+  not auto-breach — must dilute with clean days.
+- Consistency/Inconsistency Score: best day/trade must not exceed 10/15/20%
+  of total (plan-dependent; Classic 20%). 3.5x most-used lot-size = gambling flag.
+  30-min cooldown + one-sided-betting cited in disputes (verify Terms).
+- EAs/automated/HFT PROHIBITED (manual only); hedging/grid/martingale prohibited.
+- News: allowed every program (strict execution windows around events per H2T).
+- Account duration 30 days (Lite) else lifelong; 28-day inactivity suspension.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME LIFELONG FEES (80% split list; 100% = +20%; codes FIRSTOFP 40% first,
+OFP30 30% unlimited, LITE40/PRO35/PRIME30/CLASSIC35 plan codes; $250+ = BOGO +
+giveaway entry):
+CLASSIC 80%: 5K $35 | 50K $150-225 ($105 w/ FIRSTOFP) | 100K $375-420 |
+200K ~$800 | 300K $1,000. 100% = x1.2 ($66-$1,200).
+LITE: 50K $100 | 100K $200 | 200K $400 (from $18.25 variant).
+PRO: 50K $210 | 100K $420. PLUS 100K to $1,200.
+ONE PHASE 80%: 5K $35 | 50K ~$150 | 100K $210-375. TWO PHASE: from $40
+(50K $105). CUSTOM 26%: 5K $73 | 10K $103 | 25K $171 | 50K $348 | 100K $686;
+40%: $103-$931; 60%: $139-$1,258; 80%: $185-$1,675 (PropFirm201 matrix).
+SPLIT MENU: 26/40/60/80/85/90/95/100% selectable (higher = pricier).
+ADD-ONS: payout-frequency select (on-demand/bi-weekly/monthly affects fee);
+drawdown elect (2-5% daily); no DD add-ons beyond elect.
+REFUND: 14-day refund ONLY if ZERO trades opened (single trade waives refund).
+No refund after trading; Lite single-reward concludes. Failed challenges lose fee.
+Payment: cards, crypto, Apple/Google Pay; handled by FINTEKNOLOGY LTD.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% base every program; 100% option +20% fee (26-100% custom menu).
+  Evaluation variants 80->90% scaling. Lite single reward at bought split.
+- First payout: eligible after 5 days (on-demand from day 5; Classic no min days
+  otherwise). No minimum/maximum withdrawal.
+- Frequency: ON-DEMAND (from day 5) / BI-WEEKLY (14 days) / MONTHLY (28 days)
+  selectable (frequency affects fee). Classic bi-weekly typical.
+- Methods: <$500 free via bank transfer or USDC (ERC20/Polygon) / LTC crypto;
+  $500+ via Rise platform (fiat+crypto) MINUS FLAT $50 Rise fee. Paid in USD/EUR/GBP.
+- Processing: ~48h average (93% in 48H; 7h Traders Union avg; 24h typical);
+  official terms allow up to 14 business days in peak/manual-audit.
+- Minimum withdrawal: 5% Lite entrant table (homepage) / none per JoinProp —
+  confirm plan (no published minimum on most plans).
+- KYC required before payout; strategy-video explanation + lot-variance review
+  reported at payout (provide on request or risk denial).
+- SCALING: to $5,000,000 max (PropFirm201); $300K total-account cap pre-scale.
+  Split rises with scale (80->90-100%).
+- Verified paid: $23.5M+ (self-reported; no independent audit).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: trading-rules + Terms + help centre.
+BANNED (breach = flag, delay, denial, reset, termination):
+1. EAs / automated / HFT / copy-trading software (manual execution ONLY).
+2. Breaching 1% floating-risk in single position (Lite/Pro/Prime).
+3. Exceeding Inconsistency Score (single trade/day >10-20% of total) + 3.5x
+   lot-size vs most-used = gambling label.
+4. 30-min cooldown violation / one-sided betting (dispute-cited; verify Terms).
+5. Hedging, grid, martingale; cross-account hedging; latency arbitrage; feed exploits.
+6. Account sharing; third-party trading; server spamming.
+7. Exceeding elected daily/overall (EOD/static per plan); 28-day inactivity.
+8. KYC fraud; chargebacks; fake-review abuse.
+MANUAL RISK REVIEW: every withdrawal may face subjective strategy/lot-variance
+audit; video explanation can be demanded; stop/TP mismatch = denial.
+Consequences ladder: payout delay (dilute with clean days), denial, account reset,
+termination. 14-day refund void after first trade.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; one holder per account; multiple accounts to $300K cap.
+- USA: MT5 NOT available to US citizens/residents (TradeLocker/OFP Platform path
+  may serve — confirm geo-block at checkout). CFDs only, no CME futures.
+- UK/EU: served (London origin, FINTEKNOLOGY LTD). Global 800K+ community.
+- HARD BANS: sanctioned (Iran, North Korea, Syria, Cuba, Russia/Belarus,
+  occupied regions) + FCA-disclaimed unregulated status; full list in Terms/help —
+  dashboard governs.
+- KYC: ID + liveness + matching beneficiary before payout; strategy video on demand.
+- VPN/VPS: single-consistent IP advised; multi-IP risks third-party flags.
+- Inactivity: 28-day suspension. Lite 30-day expiry.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot SUSPENDED (breach/fake removals); historical 2.9/5; 3.6/5 across
+  3,400+ (23-31% one-star); 52% 5* (fast delivery) vs 31% 1* (gambling denials).
+  DailyForex: cannot recommend (fees + inconsistency blocks even own examples).
+  ForexPeaceArmy: $807/$1,944/$2,250 denied cases; video-requirement surprise;
+  Dec-2025 approved-but-undisbursed month-late case.
+- ComparePropFirms 3.5/5; TraderFuel 7.2/10 (Reliability 4.5, Cost 9.5, Rules 6.0,
+  Tech 9.0); H2T mixed (30% 1-star red flag); PropFirm201 mixed (52/31 split);
+  JoinProp opaque-gate warning; PropNavi higher-dispute-risk, not recommended;
+  PropFirmScope 7.7/10 trust (unlisted caveat).
+- Positives: <$60s credential delivery; unified dashboard praised; <$35 instant;
+  100% option; 48h/7h payouts when compliant; $23.5M scale; early-mover since 2021.
+- Complaints: inconsistency/gambling subjectivity; lot-variance denials; 1% math
+  surprise; $50 Rise fee eating small withdrawals; 14-day peak delays; cooldown/
+  one-sided rules outside Terms (Discord/FAQ sourcing).
+- Red flags: Trustpilot suspension + fake-removal notice (reputation-manipulation
+  signal). No regulator action, no mass-termination. BACK-END challenge replaces
+  front-end — hardest part is getting PAID, not funded.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest instant ($18-35 Lite vs $99+ rivals) + only 100%-split
+checkout (+20%) + 7-program choice + TradeLocker/cTrader/MT5 variety + lifelong
+fee (no subscription). But back-end consistency gate stricter than front-end
+challenge rivals; $50 Rise fee above $500 unique drag; Trustpilot suspended vs
+4.5+ rivals; CFD-only vs futures rivals (Topstep/Alpha).
+BEST FIT: robotic lot-consistent manual traders (identical sizing); TradeLocker/
+cTrader lovers; instant-now scalpers/day traders (Classic no-target/no-days);
+pocket-change testers (Lite $18); 100%-split seekers accepting +20%; on-demand
+day-5 withdrawers; non-US CFD forex/crypto/metals.
+BAD FIT: one-big-trade / high-variance / 3.5x-lot swingers; EA/HFT/copy-algo;
+grid/martingale/hedgers; scalpers needing 30-min cooldown freedom; US MT5 needy;
+futures (CME) traders; small-withdrawal ($500-600) Rise-fee sensitive; anyone
+needing front-end-transparent rules only.
+RULE OF THUMB: hate 1% math => Plus; need room => Prime 5%/10%; cheapest test
+=> Lite; cheapest pass => One Phase $35; want Classic => trade EVENLY, dilute
+big days before requesting.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + guide/interviews/checkout + rules/payout/terms/FAQ/
+platforms/pricing/about/contact read 2026-09-08; pricing cross-checked Apr-2026
+ComparePropFirms, Mar-2026 TraderFuel, Jul-2026 H2T, Apr-2026 PropFirm201 tables.
+Promos (FIRSTOFP/OFP30/LITE40/PRO35) rotate — re-check checkout. All simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 7-program table, 26-100% split menu, 1% formula, 20% Classic
+consistency, $50 Rise fee, Trustpilot-suspension record.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "The Instant Funding Leader. Trade Without Limits. Earn Real Rewards."
+| "Join over 1,000,000 traders who have chosen OFP Funding since 2021".
+[2] Models: "Instant Funding Account — Start Trade Immediately" | "Challenge
+Account — Prove Your Skills. Earn Full Control" | "Up to 100% profit split" |
+"48 Hours Payout" | "Choose your risk: 3%-5% DD, 8%-4% target".
+[3] Pricing (Lite $50K): "Profit Split 80% | Minimum Withdrawal 5% | Leverage
+1:100* | Daily Drawdown 3% | Overall Drawdown 5% | 1% Rule (soft rule) Yes |
+Profit Target 5% | Minimum Trading Days 5 | Account Duration 30 Days | News
+Trading Yes | Payout Day Monthly | Platform TradingView | Consistency Ratio No"
+| "$150" | "Avg. payout: $2,084".
+[4] Stories: "Funded. Paid. Proven. Meet the Traders Behind $23,500,000+ in
+Payouts." | "Total Payouts $23,500,000+ | Withdrawals 12,000+ | Payouts Completed
+in 48H 93%".
+[5] Conditions: "Demo Trading With Institutional Conditions — Lowest spreads
+worldwide" | "Forex Index Metals Oil Crypto".
+[6] Support: "Support by Traders, for Traders — Lightning-Fast Response." |
+"Live Chat (24/7)" | "Join 40,000+ Traders in Our Community".
+[7] Fee (via Compare cite): "The 100%-split option on any program costs exactly
+20% more." | "Code FIRSTOFP takes 40% off your first deposit and OFP30 takes
+30% off".
+[8] Rule (via TraderFuel cite): "Your floating risk (Stop Loss) must not exceed
+1% of the capital in a single position." | "best day must not exceed 10%, 15%,
+or 20%".
+[9] Payout (via H2T cite): "For rewards exceeding $500, OFP uses the Rise platform
+... fixed $50 processing fee" | "full validation ... up to 14 business days".
+[10] Platforms: "MT5 is not available to U.S. citizens or residents."
+================================================================================
+END OF FILE — OFPFunding COMPLETE. Next firm is a separate task (not started).
+================================================================================

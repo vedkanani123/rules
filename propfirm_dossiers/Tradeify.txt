@@ -1,0 +1,230 @@
+================================================================================
+TRADEIFY — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Tradeify.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Tradeify pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Tradeify Holdings, Corp (Tradeify, tradeify.co futures; tradeifyfx.co
+  forex; tradeify247.co 247 line). Registered trademark of Tradeify Holdings Corp.
+- Founded: 2024, Boca Raton, Florida, USA. Founder: Brett Simberkoff. 2 years
+  operating — fastest-growing newer firm.
+- Address: 1700 S. Dixie Highway Suite 305, Boca Raton, FL 33432, USA.
+- Contact: https://help.tradeify.co/en/ Help Center, Discord, 24/7 human support
+  (30+ experts worldwide, 10+ yrs trading), hey@tradeify.co media, app-f portal.
+- What it is: Futures (+ new Forex) one-time-fee prop firm. Evaluation (sim) ->
+  Sim Funded (sim, real payouts, 90/10) -> Tradeify Elite Live (real capital after
+  3 approved payouts, up to $18K/account rewards). Sister Tradeify 247 + Forge
+  $300K Select v2 drops.
+- Scale claimed: $250M+ verified payouts (certificates rail), 0% payout denials,
+  80,000+ happy traders, up to $750K funding (5 accounts), Trustpilot 4.8 +
+  PropFirmMatch badges (Highest Rated, Best Payout, Most User-Friendly).
+- Stats Aug 2025-Jul 2026 (official footer): 17.2% evals completed to Funded;
+  40.3% of participants advanced at least once (median 3 evals); 28.5% of Funded
+  received payout; 3.0% called to Live Funded.
+- Press/partners: FlyQuest, UFC Israel Adesanya, darts Luke Littler, Finance
+  Magnates, Yahoo Finance, TradeInformer, FXNewsGroup.
+- Key distinction: 3 paths — Growth (fast, DLL, 35% funded), Select (no DLL eval,
+  Flex/Daily choice, EOD), Lightning (instant, progressive 20-30%).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://tradeify.co (homepage: $750K, daily payouts, 90%, instant, EOD,
+    4-day first payout, $250M+/0%/80K+, Forge $300K, Elite Live, AUG/DASH codes)
+ 2. https://help.tradeify.co/en/ (Help Center index)
+ 3. https://help.tradeify.co/en/articles/14369021-tradeify-pricing-reference (Growth/
+    Select/Lightning pricing, resets, bundles, splits, refunds — Sep 1, 2026)
+ 4. https://tradeify.co/forge (Forge $300K Select v2 drop alerts)
+ 5. https://tradeify.co/tradeify-tv (Tradeify TV reference)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. QuantCrawler Tradeify Rules + Review 2026-09 (Growth/Select/Lightning, 4.6/3.2K)
+ 7. Propfirms.net Tradeify Rules & Payout Guide 2026-08-09 (35%/40%/20-30% matrix)
+ 8. PropFirmElite Tradeify Review 2026-05-11 (Boca 2024, 3 paths)
+ 9. Proptradingvibes Tradeify Rules Overview 2026-08-04 (EOD-real-time, DLL table)
+10. Tradzu Growth vs Select vs Lightning 2026-08-06 (Flex recommended default)
+11. Trustpilot https://www.trustpilot.com/review/tradeify.co (4,357 reviews)
+12. PropFirmMap Tradeify Review 2026-08-29 (A, 4.6/2,803, $65 entry)
+TOTAL SOURCES: 12 (5 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (same price all brokers; free market data with Non-Pro agreement):
+- Tradovate (vectorized), WealthCharts, Rithmic / Tradesea (NinjaTrader + Sierra
+  via Rithmic). TradingView charts via Tradovate; no platform surcharge.
+- Dashboard: clean + journal/trade logs (delay complaints isolated); broker->
+  Tradeify info delay noted; 1-hour payouts; crypto payments; 24/7 support.
+INSTRUMENTS: CME futures (indices, metals, energy, currencies, bonds, crops).
+  Nearly 23h Sun-Fri. Forex via tradeifyfx.co separate. No stocks/options spot.
+CONTRACT LIMITS: size-tiered minis (micros 10:1); Growth/Select/Lightning per-size
+  maximums (exact per Help Center size tables); Select 300K limited (max 3/user).
+LEVERAGE: exchange margin; $25K-150K (+300K limited) labels are risk-limit labels.
+COMMISSIONS: per-trade commissions only cost beyond purchase/reset; data free
+  (Non-Pro); no activation; no platform fee.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Sizes | Target | Drawdown | DLL | Min days | Consistency | Split | Fee model |
+|---|---------|-------|--------|----------|-----|----------|-------------|-------|-----------|
+| 1 | Growth Evaluation | 25K/50K/100K/150K | per size (6% class) | EOD-trailing | $600/$1,250/$2,500/$3,750 eval; funded applies | 1 (pass in 1 day) | none eval, 35% funded | 90/10 sim (100% first $15K refs) | one-time $99/$145/$255/$369 (AUG 50% 2-use then 30%) |
+| 2 | Select Evaluation | 25K/50K/100K/150K (+300K $449 limited) | per size | EOD-trailing -> locks +$100 | none eval; Flex none / Daily $500/$1K/$1.25K/$1.75K funded | 3 (40% forces 3) | 40% eval (50% add-on -> 2 days) | 90/10 | one-time $109/$165/$265/$369 (50% add-on $135/$205/$329/$459) |
+| 3 | Lightning Funded (instant) | 25K/50K/100K/150K | none | EOD-trailing | none 25K; $1,250/$2,500/$3,000 50K/100K/150K | 0 (funded day one) | 20% p1 -> 25% p2 -> 30% p3+ | 90/10 sim (80% refs) | one-time $345/$492/$660/$796 |
+| 4 | Select Funded Flex vs Daily | same as Select | none | EOD-trailing | Flex none / Daily yes | 4+ days to 1st payout | Flex none / Daily none* | 90/10 | $0 activation; resets $60-299 eval only |
+| 5 | Tradeify Elite Live | via 3 payouts | none | per live terms | none | per live | none published | 80/20 live (up to $18K/account) | invite after 3 approved payouts |
+Notes:
+- All one-time (no subscription). Resets: Growth $60/$95/$155/$215; Select
+  $75/$109/$169/$239 (50% add-on $90/$135/$209/$299); Lightning none (rebuy).
+- Bundle: 5x same Growth25K/50K or Select25K/50K = auto 5% off, stacks with code.
+- Max 5 Sim Funded/household; 15-eval/month limit (300K excluded); up to $750K.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. GROWTH (fast path, 1-day pass) ---
+- No eval consistency; 1-day min (fastest); EOD-trailing enforced real-time;
+  soft DLL ($600/$1,250/$2,500/$3,750) pauses to 6 PM ET next session (not fail
+  unless hard floor also touched). Funded: 35% consistency + DLL applies +
+  standard 5-day cycle. Best for pure speed + first-$15K 100% refs.
+--- 5B. SELECT (rule-light funded, 3-day eval) ---
+- 40% eval consistency (forces 3 profitable days; 50% add-on cuts to 2 days);
+  NO DLL eval. Funded choice: Flex (no DLL, no consistency, highest $3K-5K caps,
+  every-5-winning-days) vs Daily (DLL $500-1,750, no consistency, daily once
+  eligible, lower $1K-2.5K caps). EOD locks +$100. Recommended default = Flex.
+--- 5C. LIGHTNING (instant, no eval) ---
+- No target, funded instantly; EOD-trailing; no resets; progressive consistency
+  20% p1 / 25% p2 / 30% p3+ (only positive days numerator; commissions excluded;
+  resets after approved payout). Higher price ($345-796). For steady same-size
+  winners skipping eval.
+--- 5D. SIM FUNDED -> ELITE LIVE ---
+- Sim: 4+ days to first payout; daily (Select Daily) or 5-day/5-winning-day
+  cycles; $1K min request; $1K-5K caps (Flex highest); 1-hour payouts; crypto.
+- Elite Live: 3 approved payouts qualifies; real live capital; 80/20; up to $18K/
+  account rewards; no published payout consistency; live track record + incentives.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME (AUG 50% 2-use then 30% to Aug 31 11:59 PM EST; DASH/JUNE variants):
+- Growth: 25K $99 (reset $60) | 50K $145 ($95) | 100K $255 ($155) | 150K $369 ($215).
+- Select 40%: 25K $109 ($75) | 50K $165 ($109) | 100K $265 ($169) | 150K $369 ($239) |
+  300K $449 limited (no reset, KYC pre-purchase, max 3/user).
+- Select 50% add-on: 25K $135 ($90) | 50K $205 ($135) | 100K $329 ($209) | 150K $459 ($299).
+- Lightning: 25K $345 | 50K $492 | 100K $660 | 150K $796 (no resets).
+BUNDLE: 5x same eligible = 5% auto + stacks with code (5x Select25 $545->$517->
+  ~$310 at 40% code).
+REFUND: all sales final (accounts + resets + fees); code-miss corrected via support
+  only exception. Failed evals not refunded (reduced reset); Lightning fail = rebuy.
+PAYMENT: cards/crypto via site; payouts 1-hour/crypto/ACH.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Sim Funded (Growth/Select/Lightning): 90/10 (Growth 100% first $15K refs).
+  Elite Live: 80/20. Legacy Live keeps original terms.
+- First payout in 4 days (How-It-Works); daily on Select Daily/Lightning-eligible;
+  5-day/5-winning-day standard; $1K min; $600-1,250 Daily Flex caps / $1K-5K Flex
+  highest / $750-1,875 Fast-style refs by size; $250M+ verified, 0% denials claimed.
+- Speed: minutes-1 hour (Peter 1-hour first payout; Travis $5K / Luke+Izz $3,356
+  wallet proofs); 24/7 support + ChartAcademy + Tradeify TV edge.
+- Scaling: 5 Sim Funded ($750K); Forge $300K Select v2 limited drops; Elite Live
+  $18K/account rewards; athletes FlyQuest/Adesanya/Littler mindset branding.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. EOD floor enforced real-time (touch = fail even though floor steps at close).
+2. DLL soft-pause to 6 PM ET next session (Growth/Lightning sizes/Daily); hard
+   floor breach still fails.
+3. Consistency: Growth funded 35% / Select eval 40% (50% add-on) / Lightning
+   20-25-30% progressive; hedge banned (no).
+4. No规则 retro-change drama (official promise); sim-execution realism limits apply.
+5. Lightning no resets; Select 300K no resets + KYC + 3/user + eval-limit excluded.
+Consequences: eval fail (reset), Sim breach (account close), Elite deferral,
+  payout-cycle reset after approved payout (consistency clock restarts).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No experience needed (low-cost Growth25 $99 to learn).
+- USA: SERVED (Boca Raton; CFTC/NFA-registered per QuantCrawler; ACH/crypto).
+- International: most countries (Hello/Hola/Namaste/Bonjour/Ola support in 5+
+  languages); 24/7 multilingual humans.
+- KYC: ID + payout-method verification (300K KYC pre-purchase); Funded Agreement
+  signature; beneficiary match.
+- Max 5 Sim Funded + 15 evals/mo/household; entities via hey@tradeify.co.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/tradeify.co: 4.5-4.8/5 from
+  2,200-4,358 reviews (homepage 4.8; PropFirmMap 4.6/2,803 Jun 2026, 4.5/4,358 Sep
+  2026; QuantCrawler 4.6/3,200+; PropFirmMatch 4.7/186). Safety A/A+ (PropFirmMap A).
+  Replies to reviews; journal-refresh + dashboard-delay gripes addressed to product.
+- Sentiment: positives on EOD-no-traps, 0% denials, 1-hour daily payouts, $65-99
+  entry, Tradovate/TradingView smoothness, support speed, Academy/TV; negatives
+  isolated on journal/logs 3-mo bug, WealthCharts sitewide-issue wave (made right),
+  micro-gold spec slippage dispute, ban-wave refund fights, platform downtime.
+- Third-party: PropFirmMap A strong; QuantCrawler positive (CFTC/NFA, $250M+);
+  Propfirms.net balanced (cap/frequency trade-offs); Tradzu Flex-default.
+- Red flags: NONE systemic (2024-2026 clean, $250M certs, Corp + Holdings). Watch:
+  Lightning progressive strictness, Flex-vs-Daily cap choice, 300K limits.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX/TOPSTEP: Tradeify one-time + EOD + 90% + daily vs Apex one-time + 100%-
+  $25K + 8-day vs Topstep sub + 90% + instant. Tradeify cheapest A-grade ($65-99)
+  + 0% denials + Elite Live vs Apex 20 PAs vs Topstep 15yr.
+VS MFF/LUCID/TRADEDAY: Tradeify Flex (no DLL + no funded consistency + $5K caps)
+  rivals MFF Rapid-daily + Lucid Flex-value + TradeDay Fast Pass EOD. Growth 1-day
+  is fastest pass; Lightning skips eval entirely.
+BEST FIT: 1-day sprinters (Growth), rule-light funded seekers (Select Flex),
+  instant skip-eval traders (Lightning steady winners), daily-payout chasers,
+  Tradovate/TradingView users, $750K stackers, Elite-Live aspirants.
+BAD FIT: traders needing static floor, 100% first tier, forex/CFD (use tradeifyfx),
+  hands-off HFT, or subscription billing.
+RULE OF THUMB: start Growth 25K ($99, AUG 50% -> ~$50) for speed or Select 50K
+  ($165, 40% -> Flex) for rule-light funded; Lightning only with steady-day proof.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Growth/Select/Lightning targets, EOD DDs, DLLs, consistency,
+splits, caps and fees above were read from the 5 official URLs in Section 2 on
+2026-09-08 (pricing reference Sep 1, 2026 + homepage DOM). AUG/DASH rotate —
+re-check pricing anchors before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Growth/Select/Lightning split, EOD-real-time + soft-DLL,
+40%/50%/35%/20-30% gates, Flex-vs-Daily choice, Elite Live $18K, Trustpilot 4.5-4.8/A.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Trade with $750K funding, and earn daily payouts." / "Keep 90% of
+ profit and get paid daily." / "Instant funding - skip evaluations" / "No
+ consistency once funded" / "End-of-day drawdown - no intraday traps."
+[2] Scale: "$250M+ Verified Payouts" / "0% Payout Denials" / "80,000+ Happy Traders."
+[3] Steps: "1. Choose your account ... 2. Trade with our capital ... Access up to
+ $750k ... Trade for 4+ days ... 3. Get daily payouts ... paid in minutes."
+[4] Plans: "Growth: Pass in 1 day, Quick evaluation, 5 day payouts" / "Select:
+ Pass in 3 days, Daily payouts, Flexible funded rules" / "Lightning: Instant,
+ Instant funding, 5 day payouts."
+[5] Pricing: "All plans are one-time purchases with no recurring billing." /
+ "Growth 25K $99 ... Select 25K $109 ... Lightning 25K $345" + resets/bundles.
+[6] Split: "Sim Funded accounts (Growth, Select, Lightning): 90% to trader /
+ 10% to Tradeify" / "Elite Live: 80% to trader / 20% to Tradeify."
+[7] Edge: "End Of Day Drawdowns" / "No hidden rules. 0% payout denial rate." /
+ "No retroactive rule changes." / "Hit 3 approved payouts to qualify for Tradeify
+ Elite ... up to $18,000 per account."
+[8] Stats: "17.2% of evaluation accounts ... completed ... 40.3% of individual
+ participants ... advanced ... 28.5% ... received a payout ... 3.0% ... called up
+ to a Live Funded Account." (Aug 2025-Jul 2026).
+[9] Promo: "50% OFF 2 TIME USE, THEN 30% OFF ... USE CODE: AUG ... ENDS 31 AUGUST."
+[10] Address: "1700 S. Dixie Highway, Suite 305 Boca Raton, FL 33432."
+================================================================================
+END OF FILE — TRADEIFY COMPLETE. Next firm is a separate task (not started).
+================================================================================

@@ -1,0 +1,607 @@
+================================================================================
+FUNDEDNEXT — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundedNext.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FundedNext pages (fundednext.com,
+help.fundednext.com, helpfutures.fundednext.com) on 2026-09-08 (see Section 2
+for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundedNext (CFD + Futures simulated-evaluation prop firm).
+- Founded: 2022. Founder/CEO: Abdullah Jayed (schema.org founder tag on
+  fundednext.com). Origin reported as Dhaka, Bangladesh (PropFirmMap, 2026);
+  current positioning/headquarters reported as Dubai, UAE (PropFirmScope, 2026).
+- Contact: support@fundednext.com | +357 2525 5160 (schema.org contactPoint) |
+  24/7 support, 120+ agents across five global hubs, first response under
+  25 seconds, 44 languages (homepage claims).
+- What it is: simulated-evaluation prop firm. ALL accounts are DEMO/simulated
+  accounts with fictitious funds; traders earn real-money Performance Rewards
+  (profit splits), not live capital. Terms of Service: "The Services do not,
+  under any circumstances, [provide] investment services, portfolio
+  management, brokerage, execution of real orders, financial intermediation
+  or regulated activity" — services are skill-evaluation/training programmes.
+- Scale claimed on fundednext.com (Sep 2026 read): $306.9M+ / $316.1M+ total
+  rewarded (figure rotates by page section), 40 hours avg. processing time,
+  550% repeat rewards, 451.7K+ FundedNext Accounts, traders in 170+ countries.
+- Team claim: 6000+ team members, 50 global offices, 1700+ countries served
+  (homepage "Powered by a global team" block; "countries served" figure is
+  implausible as written and is quoted verbatim as displayed).
+- Awards/press: Deloitte Technology Fast 50, Best Trading Experience award,
+  Highest Verified Payout Amount award, Finance Magnates Africa Summit 2025
+  Prop Firm of the Year, FM Awards Prop Firm of the Year (homepage badges).
+- Brand promise: "Rewards in 24h or get $1,000 extra" + "One-time fee, no
+  recurring costs" (homepage hero).
+- Trust signals on homepage: Trustpilot 4.5 badge "73k+ reviews", PropFirmMatch
+  badge "loved by 62.5k+".
+- Product split: FundedNext CFD (Stellar 1-Step / 2-Step / Lite / Instant,
+  one-time fee) and FundedNext Futures (Rapid / Legacy / Bolt / Flex,
+  one-time fee, no activation fee, no subscription) are SEPARATE products with
+  different rules, platforms, payouts and pricing. Never mix them.
+- Key distinction vs rivals: no time limit on any evaluation; news trading
+  allowed on CFD challenge AND funded; overnight + weekend holding allowed on
+  ALL CFD accounts at ALL stages (swap charges apply).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fundednext.com/ (homepage: identity, stats, awards, brand promise,
+    Trustpilot/PropFirmMatch badges, schema.org Organization block)
+ 2. https://fundednext.com/futures (Futures overview: Flex/Legacy/Rapid
+    positioning, entry prices, FAQ JSON-LD with reward journeys)
+ 3. https://fundednext.com/futures/flex (Flex rules, prices, reset fees,
+    launch-pricing FAQ, MLL explainer, comparison table)
+ 4. https://fundednext.com/futures/legacy (Legacy rules, prices, reset fees,
+    comparison table incl. Rapid Daily vs Rapid Pro columns)
+ 5. https://fundednext.com/futures/rapid (Rapid Pro & Daily: DLL add-on
+    pricing, buffer rule, reward eligibility FAQ)
+ 6. https://fundednext.com/futures/bolt (Bolt 50K-only rules, soft-breach DLL,
+    daily rewards, $10K/5-day journey, comparison table)
+ 7. https://fundednext.com/general-rules/futures/trading-objectives (Futures
+    profit targets, DLL, EOD-trailing MLL, 40% consistency formula)
+ 8. https://fundednext.com/general-rules/cfds/trading-objectives (CFD profit
+    targets, DLL/MLL static-vs-trailing, reward-share ladder)
+ 9. https://fundednext.com/general-rules/cfds/symbols-and-conditions (CFD
+    instruments, leverage per model, spreads/commissions, swap/triple-swap)
+10. https://fundednext.com/general-rules/cfds/trading-platforms (MT4/MT5/
+    Match-Trader, US Match-Trader-only rule, $25 platform fee, switch policy)
+11. https://fundednext.com/general-rules/cfds/what-is-allowed (hedging inside
+    one account OK; cross-account/external hedging banned)
+12. https://fundednext.com/terms-of-service (ToS: Restricted Jurisdictions
+    lists for CFD vs Futures, prohibited-conduct catalogue (a)-(m))
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. TraderNotion "FundedNext price changes 2026" 2026-07-03 (Stellar line-up
+    history: Express/Evaluation retired Mar 2025; full CFD price tables)
+14. proptradingvibes.com "FundedNext Pricing 2026" (live CFD list prices,
+    Instant table, Futures entry prices, promo-eligibility note)
+15. propfirmito.com "FundedNext: Complete Overview" 2026-04-20 (company facts,
+    2-Step pricing matrix, rules matrix, US-accepted note)
+16. thetrustedprop.com "Stellar Lite Explained" 2026-01-05 (Lite fee table,
+    15% challenge-reward note, refundable-fee table)
+17. tradetanto.com "FundedNext Futures Rules" 2026-06-16 (four-model Futures
+    tables, MLL/DLL mechanics, per-model payout structures)
+18. Trustpilot https://www.trustpilot.com/review/fundednext.com (4.5,
+    ~64,578 reviews Apr 2026; 73k+ per on-site badge Sep 2026)
+19. PropFirmMatch https://propfirmmatch.com/prop-firms/fundednext/reviews
+    (4.3 from 876 verified traders; "loved by 62.5k+")
+20. PropFirmScope review 2026-04-24 (4.34/5 across 737 reviews; trust 8.7/10)
+    + PropFirmMap review 2026-04-08 (4.5/64,053 reviews; PFM 2.4/10; A+ safety)
+TOTAL SOURCES: 20 (12 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CFD PLATFORMS (pick at purchase; switch only BEFORE first trade):
+- MetaTrader 4 (MT4) — free, classic EA/algo support.
+- MetaTrader 5 (MT5) — free. MT5-exclusive items: Free Trial Accounts, Free
+  Monthly Competition Accounts, Stellar Instant (all unavailable to US clients
+  because MetaQuotes services are not available to US-located clients).
+- cTrader — one-time $25 platform fee. $100K/$200K accounts CANNOT be
+  purchased/modified/reset/topped-up on cTrader (except n/a US).
+- Match-Trader — one-time $25 platform fee; modern web-first terminal.
+  $100K/$200K blocked on Match-Trader EXCEPT for US traders (Match-Trader is
+  the EXCLUSIVE platform for US-based traders incl. Puerto Rico/American
+  Samoa — MT4/MT5/cTrader unavailable to them for regulatory/vendor reasons).
+- TradingView — analysis ONLY; trade execution on TradingView is temporarily
+  paused ("relaunches soon"). All executions on MT4/MT5/cTrader/Match-Trader.
+- US MetaQuotes-IP rule: a client on a MetaQuotes server connecting via a
+  USA-based IP gets a formal warning first, then account termination on repeat.
+FUTURES PLATFORMS: NinjaTrader and Tradovate (platforms included, no
+activation fee). TradingView listed as supported view/analysis surface.
+CFD INSTRUMENTS (four asset classes, full list in-terminal via "Show All"):
+- Forex: 46 symbols (majors, minors, exotics).
+- Indices: SPX500, NDX100, GER30, US30 and more.
+- Commodities: XAUUSD (Gold), XAGUSD (Silver), USOUSD (US Oil) and more.
+- Crypto: BTC/USD, ETH/USD, XRP/USD and more. If a symbol is not listed, it
+  is not tradable. No imposed instrument/position-size limits beyond model
+  risk rules and the 3%-max-risk rule.
+FUTURES INSTRUMENTS: exchange-listed CME / NYMEX / COMEX contracts —
+Indices (S&P 500, NASDAQ, Russell 2000), Metals (Gold, Silver, Copper),
+Energy (Crude Oil, Natural Gas), Currencies (6A, 6B, 6C, 6E, 6J).
+CFD COSTS: raw spreads from 0.0 pips; commission per side fixed by account
+model (see in-platform specs). Swap fees apply overnight/weekend and COUNT in
+DLL/MLL. Triple swap: Wednesday for Forex+Commodities, Friday for Indices+
+Crypto. Overnight AND weekend holding allowed on every CFD account/stage.
+CFD LEVERAGE (official symbols-and-conditions page):
+- Challenge phase: 1-Step Forex 1:30, Indices 1:10, Commodities 1:15,
+  Crypto 1:1. 2-Step + Lite: Forex 1:100, Indices and Commodities 1:25,
+  Crypto 1:1.
+- Funded phase: 1-Step Forex 1:30, Indices and Commodities 1:10, Crypto 1:1.
+  2-Step + Lite: Forex 1:100, Indices and Commodities 1:15, Crypto 1:1.
+- Instant: Forex 1:30, Indices 1:5, Commodities 1:7.5, Crypto 1:1.
+FUTURES COSTS: one-time challenge fee only; no activation fee; no monthly
+data/platform fee; paid resets available per model (see Section 6).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CFD (Stellar family — all one-time fee, no time limit, news/weekend OK):
+| # | Program      | Steps | Sizes              | Target      | Daily loss | Max loss        | Min days     | Split       | Fee refund      |
+|---|--------------|-------|--------------------|-------------|------------|-----------------|--------------|-------------|-----------------|
+| 1 | Stellar 2-Step| 2    | 6K/15K/25K/50K/100K/200K | 8% Ph1 + 5% Ph2 | 5%     | 10% STATIC      | 5/phase      | 80%->90%->95% | with 1ST reward |
+| 2 | Stellar 1-Step| 1    | 6K/15K/25K/50K/100K/200K | 10%         | 3%         | 6% STATIC       | 2 days       | 80%->90%->95% | with 3RD reward |
+| 3 | Stellar Lite | 2     | 5K/10K/25K/50K/100K/200K | 8% Ph1 + 4% Ph2 | 4%     | 8% STATIC       | 5/phase      | 80%->90%->95% | with 3RD reward |
+| 4 | Stellar Instant| 0   | 2K/5K/10K/20K      | NONE        | NONE       | 6% TRAILING     | none         | 70%->80%    | NEVER           |
+FUTURES (all one-time fee, no activation fee, EOD-trailing MLL, no time limit):
+| # | Program    | Sizes        | Target          | Daily loss          | Max loss (EOD) | Consistency   | Split | Cadence |
+|---|------------|--------------|-----------------|---------------------|----------------|---------------|-------|---------|
+| 5 | Flex       | 50K/100K/150K| $2.5K/$5K/$8K   | NONE                | $1.5K/$2.5K/$4K| 40% challenge | 95%   | 5 days  |
+| 6 | Legacy     | 25K/50K/100K | $1.25K/$3K/$6K  | NONE                | $1K/$2K/$3K    | 40% challenge | 80%   | 5 bench. days |
+| 7a| Rapid Pro  | 25K/50K/100K | $1.5K/$3K/$5K   | NONE (opt. DLL add-on)| $1K/$2K/$2.5K| 40% challenge | 90%   | 3 days  |
+| 7b| Rapid Daily| 25K/50K/100K | $1.5K/$3K/$5K   | $500/$1K/$1.25K (soft)| $1K/$2K/$2.5K| NONE          | 90%   | DAILY   |
+| 8 | Bolt       | 50K only     | $3,000          | $1,000 SOFT breach  | $2,000         | 40% challenge | 80%   | DAILY once eligible |
+Notes:
+- Funded/FundedNext Account has NO profit target on any of the 8 models.
+- CFD "Max Risk 3% at any time" applies on every Stellar account (challenge +
+  funded); only 40% of news-trading profit counts ("News Trading Profit 40%").
+- Challenge Performance Reward 15%: Stellar 1-Step + 2-Step ONLY, paid after
+  first scale-up, taken from challenge-phase profits. Lite and Instant excluded.
+- Futures consistency-40% breach does NOT close the account: the profit target
+  recalculates UPWARD via Highest-Daily-Profit / 40% = New Required Profit.
+- Bolt is 50K-only, daily-payout, 5-withdrawal journey ($250-$1,200/cycle,
+  final cycle up to $7,700; full $10K journey completable in 5 days).
+- Reward-share ladder CFD: Standard 80% -> Scale-Up 90% -> 95% Add-On.
+  Instant: 70% from Day 1 -> 80% from Tier 3. Futures: fixed per model above.
+- Max allocation: CFD merge up to $300,000 of FundedNext Accounts (official
+  help center); aggregators cite up to $400K total allocation. Futures: up to
+  $700K in challenges across 5 FundedNext Accounts (Tradetanto, sourced).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. STELLAR 2-STEP (CFD, flagship) ---
+- Profit target: 8% Phase 1, 5% Phase 2, NONE on FundedNext Account. Closed
+  trades only. ($100K: $8,000 then $5,000. $6K: $480 then $300.)
+- Daily Loss Limit: 5% of INITIAL balance per day, includes realized +
+  unrealized P/L + swap + commission. Breach = account closed. ($100K: $5,000
+  per day. $6K: $300 per day.)
+- Maximum Loss Limit: 10% of INITIAL balance, STATIC (fixed from starting
+  balance, never trails). Breach = fail. ($100K: cannot fall below $90,000.
+  $6K: cannot fall below $5,400.)
+- Minimum trading days: 5 per phase (min 1 trade each day); none on funded.
+  No time limit either phase. No-min-days Add-On removes this rule.
+- News/weekend/overnight: ALL allowed at every stage. Only 40% of
+  news-trading profit counts toward targets/withdrawals.
+- First reward: 21 days after FundedNext Account activation, then every
+  14 days (Bi-Weekly Add-On: every 14 days from the start, skipping the
+  initial 21-day cycle). 80% standard share; 150%-refund add-on available.
+- Fee refund: full challenge fee refunded WITH 1ST reward (fastest refund of
+  all Stellar plans; "fee-back reward"). Example: $100K fee back with first
+  payout on request.
+- Challenge reward: 15% of challenge-phase profits paid after first scale-up.
+--- 5B. STELLAR 1-STEP (CFD, fastest funded) ---
+- Profit target: single 10% phase, NONE on funded. Closed trades only.
+  ($100K: $10,000. $6K: $600.)
+- Daily Loss Limit: 3% of initial balance/day (realized + unrealized + swap +
+  commission). Breach = closed. ($100K: $3,000/day; floor $97,000 Day 1.)
+- Maximum Loss Limit: 6% STATIC from initial balance. ($100K: floor $94,000.
+  $6K: floor $5,640.)
+- Minimum trading days: 2 days (min 1 trade each). No time limit.
+- News/weekend/overnight: ALL allowed; 40% news-profit counting applies.
+- First reward: 5 BUSINESS days after activation, then every 5 business days
+  (fastest CFD reward cycle). Weekend holding allowed on funded too.
+- Fee refund: with 3RD reward (not 1st). 15% challenge-phase reward applies
+  (paid after first scale-up).
+- Worked example ($50K): target $5,000; daily room $1,500; total room $3,000
+  (floor $47,000); pass after 2+ trading days; first payout ~1 week later.
+--- 5C. STELLAR LITE (CFD, budget entry) ---
+- Profit target: 8% Phase 1, 4% Phase 2 (lowest Phase-2 bar), NONE on funded.
+  ($10K: $800 then $400. $200K: $16,000 then $8,000.)
+- Daily Loss Limit: 4% of initial/day. ($10K: $400/day. $100K: $4,000/day.)
+- Maximum Loss Limit: 8% STATIC. ($10K: floor $9,200. $100K: floor $92,000.
+  MLL 10% Add-On (Lite-only) lifts total room to 10%.)
+- Minimum trading days: 5 per phase (1+ trade/day). No time limit.
+- News/weekend/overnight: ALL allowed; 40% news-profit counting applies.
+- First reward: 21 days, then bi-weekly (Bi-Weekly Add-On shortens to 14-day
+  rhythm). Fee refund with 3RD reward. NO 15% challenge-phase reward.
+- Worked example ($10K Lite): Phase 1 target $800 (>=5 days), Phase 2 target
+  $400 (>=5 days); daily room $400; total room $800; first payout Day 21.
+--- 5D. STELLAR INSTANT (CFD, no evaluation) ---
+- No challenge, no profit target, no DLL, no minimum days, no time limit.
+- Single rule: 6% TRAILING Maximum Loss Limit from peak equity. Trails UP
+  with profits, never down; locks once it reaches initial balance; breach =
+  account closed. ($10K: start floor $9,400; grow equity to $11,000 -> floor
+  trails to $10,340; once floor hits $10,000 it locks.)
+- News allowed (40% counted); weekend holding allowed on funded.
+- Rewards: on-demand once at 5% growth, OR bi-weekly cycle at >=1% growth.
+  No scale-up reward (no challenge passed). 70% share Day 1 -> 80% Tier 3+.
+  Fee NEVER refunded. Scales up to $2M via Instant scale-up program.
+- Sizes capped small (2K-20K); swap-free costs +10%; no monthly fees.
+--- 5E. FUTURES FLEX (lowest targets, 95% share) ---
+- Profit target: $2,500 (50K) / $5,000 (100K) / $8,000 (150K), closed-P/L.
+- Max Loss Limit: $1,500 / $2,500 / $4,000, EOD-TRAILING (updates once daily
+  off highest end-of-day balance; trails up only; locks at initial balance;
+  equity below MLL at ANY time = breach).
+- Daily Loss Limit: NONE. Buffer required: NONE.
+- Consistency 40% CHALLENGE ONLY (none on funded): no single day >40% of the
+  total profit target; breach raises target via Highest-Daily-Profit / 40%.
+  Example: 50K target $2,500; a $1,200 day = 48% -> new target $3,000.
+- Contracts (challenge = funded): 3/5/8 minis or 30/50/80 micros.
+- Funded: rewards every 5 days once eligible (5 benchmark days + $500 min
+  cycle profit; benchmark day = $200+ profit on 50K/100K, $250+ on 150K);
+  95% share; per-cycle caps $1,500 / $2,500 / $4,000 (withdraw up to 50% of
+  profit); min withdrawal $250. Five reward journeys per account, then live
+  funding review pool.
+--- 5F. FUTURES LEGACY (highest caps, no funded consistency) ---
+- Profit target: $1,250 (25K) / $3,000 (50K) / $6,000 (100K).
+- Max Loss Limit EOD-trailing: $1,000 / $2,000 / $3,000. DLL: NONE.
+- Consistency 40% CHALLENGE ONLY (none on funded); same target-recalc maths
+  as Flex. News trading allowed.
+- Contracts challenge: 2/3/5 minis (20/30/50 micros); funded steps UP to
+  3/5/7 minis (30/50/70 micros).
+- Funded: 5 benchmark days + $500 min profit; 80% share; per-cycle caps
+  $3,000 (25K) / $6,000 (50K) / $6,000 (100K) at up to 50% of profit; after
+  30 benchmark days caps + 50% limit REMOVED (withdraw up to 100%).
+--- 5G. FUTURES RAPID PRO + RAPID DAILY (1-day pass) ---
+- Shared: pass in as little as 1 day; no minimum trading days; no buffer on
+  Pro; targets $1,500 / $3,000 / $5,000; MLL EOD $1,000 / $2,000 / $2,500;
+  90% share for BOTH paths; no activation fee.
+- Rapid Pro: NO Daily Loss Limit by default (optional DLL add-on at checkout
+  for extra discount: $500/$1,000/$1,250 limits; choice locks both phases).
+  Consistency 40% CHALLENGE ONLY per official table. Rewards every 3 days;
+  min cycle profit $500; caps $800 / $1,500 / $2,500; caps removed after 5
+  performance rewards (then withdraw 100% at 90%).
+- Rapid Daily: DLL ALWAYS ON ($500/$1,000/$1,250, challenge + funded) as a
+  SOFT breach (trading pauses rest of session, resumes next day; resets
+  5:00 PM CT). NO consistency rule at ANY stage. Daily rewards once eligible;
+  same $500 min + buffer rule (EOD balance must meet required buffer).
+- Contracts: challenge 2/4/6 minis (20/40/60 micros) per official table.
+--- 5H. FUTURES BOLT (50K-only daily payouts) ---
+- Single size: 50K. Target $3,000; MLL $2,000 EOD-trailing (trails up to
+  $50,100 max per Tradetanto); DLL $1,000 SOFT breach (pause-rest-of-day).
+- Consistency 40% CHALLENGE ONLY; none on funded; no benchmark days required.
+- Contracts: 3 minis or 9 micros (challenge = funded).
+- Funded: DAILY rewards once eligible; 80% share; EOD balance must be >=
+  $52,100 ($2,100 above start); $250 min cycle profit; $250-$1,200 per cycle;
+  max 5 withdrawals, final withdrawal up to $7,700 (full $10K journey in
+  5 days); account concludes after 5th withdrawal with certificates.
+- Status note (Jul 2026 help center): "Bolt Challenge — Not available for
+  Purchase/Reset" appeared in one help article; live Bolt pricing/checkout
+  still indexed Sep 2026 — re-check availability before purchase.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CFD ONE-TIME FEES (single payment, no recurrence, no monthly/data fee):
+Stellar 2-Step (list, USD): 6K $59.99 | 15K ~$109.99-$119 | 25K ~$189-$189.99
+  | 50K ~$269.99-$329 | 100K ~$529.99-$589 | 200K $1,099.99. (Ranges reflect
+  official page vs aggregator snapshots; homepage promo at fetch: "Start
+  2-Step from $59.99"; $200K card shows $1,099.99.)
+Stellar 1-Step (official schema list, USD): 6K $65.99 | 15K $129.99 |
+  25K $219.99 | 50K $329.99 | 100K $569.99 | 200K $1,099.99. ("Start 1-Step
+  from $65.99"; $200K card $1,099.99; 15% performance reward $3,000 on $200K.)
+Stellar Lite (official schema list, USD): 5K $32.99 | 10K $59.99 |
+  25K $139.99 | 50K $229.99 | 100K $399.99 | 200K $798.99. ("Start Lite from
+  $24.74" promo display vs $32.99 list for 5K; $200K card $798.99.)
+Stellar Instant (official help + schema, USD): 2K $59.99 | 5K $149.99 |
+  10K $299.99 | 20K $599.99. Swap-free costs 10% MORE on every size. No
+  monthly fees; account activated instantly.
+FUTURES ONE-TIME FEES (no activation fee, no subscription):
+Flex (launch coupon mechanics): first 5 purchases $69.99 (50K) / $129.99
+  (100K) / $249.99 (150K); 6th+ purchase $79.99 / $149.99 / $289.99. Page
+  promo display at fetch: 47% OFF $133.99 (50K) / $249.99 (100K) / $483.99
+  (150K) with code FNFLEX. Resets from $77.99 / $144.99 / $278.99
+  (150K reset card: $278.99).
+Legacy (list, USD): 25K $79.99 | 50K $149.99-$199.99 | 100K $239.99-$249.99.
+  Reset 100K card: $220.79. ("Start Legacy from $79.99".)
+Rapid Pro & Daily (flat 50% discount per FAQ): 25K $79.99 | 50K $149.99 |
+  100K $249.99-$279.99. With DLL add-on (Pro): $59.99 / $109.99 / $199.99.
+  Resets $87.99 / $157.99 / $257.99 (with DLL add-on $67.99 / $117.99 /
+  $207.99). ("Start Rapid from $79.99".)
+Bolt: 50K $99.99. Reset $91.99. ("Start Bolt from $99.99".)
+ADD-ONS (optional, stackable, % uplift on challenge price):
+CFD (8 add-ons): (1) Swap-Free +10% all models; (2) Lifetime Reward 95% +25%
+  (1-Step) / +30% (2-Step, Lite); (3) No Minimum Trading Days (1-Step, 2-Step,
+  Lite); (4) 150% Reward — 150% of fee back as Refundable Fee at 1st/3rd
+  reward (1-Step, 2-Step); (5) Bi-Weekly Reward (2-Step, Lite); (6) Maximum
+  Loss Limit 10% — Lite ONLY, lifts MLL 8%->10%; (7) Double Up; (8) On-Demand
+  Rewards. Example (Tradetanto): $100K 2-Step with 95% split + no-min-days
+  approx $549 + $165 + $137 = ~$851 pre-discount.
+Futures: Rapid Pro DLL add-on (adds $500/$1,000/$1,250 DLL for EXTRA $20/$40/
+  $50 discount); Flex 90%-share add-on cited by aggregators (official Flex
+  page already shows 95% — confirm at checkout).
+REFUNDS: 2-Step fee back WITH 1ST reward (fastest refund). 1-Step + Lite fee
+  back WITH 3RD reward. Instant NEVER refunded. Futures fees: no refund
+  schedule published (one-time sunk cost). Failed evaluations never refunded.
+PAYMENT METHODS: Mastercard, Visa, Amex, Apple Pay, Google Pay, PayPal,
+Skrill, Neteller + 13-40+ more local/global options at checkout.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CFD PAYOUTS (FundedNext Account):
+- Split ladder: Standard 80% -> Scale-Up 90% -> 95% Add-On (1-Step/2-Step/
+  Lite). Instant: 70% Day 1 -> 80% Tier 3+. Challenge Performance Reward 15%
+  of challenge-phase profits (1-Step + 2-Step only, paid after first scale-up;
+  Lite/Instant excluded).
+- First payout: 2-Step + Lite 21 days after activation, then every 14 days;
+  1-Step 5 business days, then every 5 business days; Instant on-demand at 5%
+  growth or bi-weekly at >=1% growth.
+- Brand promise: processed within 24 hours ("or get $1,000 extra"); site
+  stats: 40 hours avg. processing, 99.99% within 24h, 550% repeat rewards.
+- Refundable Fee: 2-Step with 1st reward; 1-Step/Lite with 3rd reward (equals
+  latest reset fee if reset); Instant none.
+SCALING PLAN (CFD): review every 4 months; eligibility = 10% accumulated
+  disbursed-amount growth over 4 consecutive months + 2+ Performance Rewards
+  in window + last cycle ends in profit. Reward: +40% balance up to $4,000,000
+  max simulated allocation. Worked example (official): $100K -> $140,000; new
+  DLL 5% = $7,000 ($5,600 Lite / $4,200 1-Step), new MLL 10% = $14,000
+  ($11,200 Lite / $8,400 1-Step); next 4-month target 10% of $140,000. If the
+  last cycle ends at a loss, no scale-up; account re-evaluated next cycle.
+  Instant scales separately up to $2M via Instant scale-up program.
+FUTURES PAYOUTS (FundedNext Account, 24h processing promise):
+- Flex (95%): 5 benchmark days + $500 cycle profit; caps $1,500/$2,500/$4,000
+  at up to 50% of profit; min withdrawal $250; 5 reward journeys per account.
+- Legacy (80%): 5 benchmark days + $500; caps $3,000/$6,000/$6,000 at up to
+  50%; after 30 benchmark days caps + 50% limit REMOVED (up to 100%).
+- Rapid Pro (90%): every 3 days; $500 min cycle + 40% consistency; caps
+  $800/$1,200-$1,500/$2,500; caps removed after 5 rewards (then 100% at 90%).
+- Rapid Daily (90%): DAILY; $500 min + buffer rule; no consistency; same caps.
+- Bolt (80%): DAILY once EOD >= $52,100; $250 min cycle; $250-$1,200/cycle;
+  5 withdrawals max, final up to $7,700; account concludes after 5th.
+- All Futures: $250 minimum withdrawal; MLL carries to funded; funded
+  accounts cannot be reset (breach = buy new challenge).
+MAXIMA: CFD merge $300,000 official ($400K cited by aggregators); scale-up to
+  $4M. Futures up to $700K challenges across 5 accounts; Flex live-funding
+  review pool after 5 reward journeys.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: help.fundednext.com "Restricted/Prohibited Trading Strategies",
+"Fairness/Transparency", ToS Sections 8.4 + prohibitions (c)(d)(f)(g)(m),
+general-rules "what-is-allowed".
+BANNED (violation = reward denial, account termination, permanent ban; HFT/
+hyperactivity warnings are cumulative — a second offence after a warning can
+mean immediate suspension):
+ 1. Gambling behaviour / All-in-One trading / One-sided betting (risking full
+    or near-full DLL in one trade; reviewed as suspected cross-platform hedge
+    even with no visible second leg).
+ 2. Quick Strike Method; Tick Scalping; Grid Trading.
+ 3. High-Frequency Trading (millisecond expert-advisor mass trading that
+    distorts prices, disrupts stability, freezes servers).
+ 4. Hyperactivity (mass order/data entry overloading systems).
+ 5. Any-form Arbitrage: latency, spatial, triangular, statistical,
+    market-making, pairs, volatility — anything harvesting riskless profit
+    from price discrepancies, delays, simulation limits or execution quirks.
+ 6. Latency Trading; exploiting demo-server errors / platform or data freezes.
+ 7. Gap trading / off-market exploitation: gaps, illiquid prints, off-market
+    quotes, abnormal spreads, outlier ticks, simulated execution anomalies.
+ 8. Hedging ACROSS accounts (own, related, or other firms') incl. group
+    hedging and cross-account risk neutralisation. Allowed: hedging INSIDE
+    one single account (opposite buy+sell same asset, same account).
+ 9. Copy trading others' accounts / signal services / "Pass Your Challenge"
+    services; Account or Device Sharing (letting others trade yours or trading
+    theirs). Allowed: copy trading BETWEEN your own Challenge Accounts
+    (merge accounts instead; $300K max allocation).
+10. Guaranteed-profit limit-order exploitation during low liquidity.
+11. Account Rolling (cycling doomed accounts into fresh ones as the strategy).
+12. Unauthorised automation/HFT/mass-order behaviour/platform overload (ToS-m).
+    Platform split: EAs/indicators "allowed if used responsibly" (MT4/MT5 per
+    Lite help); on Match-Trader accounts automated/algorithmic trading is NOT
+    allowed — manual placement only, built-in indicators only, no third-party
+    indicators. Automated activity must still obey copy/prohibition rules.
+13. Single-IP discipline: one consistent device/IP recommended; dedicated
+    VPN/VPS IP recommended when roaming. ToS: exceeding DLL/MLL, ignoring lot/
+    exposure caps, manipulating results, or conduct incompatible with
+    simulated evaluation all count as Trading-Rule violations.
+RISK RULE (all CFD): Max Risk 3% at any time; news-trading profit counts 40%.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. VPN-bypass of geo rules = immediate
+  termination + permanent revocation (ToS 5.x).
+- USA: ACCEPTED (US is NOT on either restricted list) but PLATFORM-LIMITED:
+  Match-Trader ONLY (MT4/MT5/cTrader blocked by MetaQuotes/Spotware); no
+  MT5-exclusive Free Trial / Monthly Competition / Stellar Instant for US
+  clients; USA-based IP on a MetaQuotes server = formal warning, then
+  termination on repeat. Futures help notes US payout rails (Tradovate-class
+  flows) — confirm current US withdrawal method at checkout/help desk.
+- UK: served normally (UK appears in homepage "Languages spoken" list; not on
+  any restricted list).
+- CFD HARD RESTRICTIONS (residents AND citizens, ToS 5.3 + help article):
+  Bangladesh, Myanmar, Belarus, North Korea, Syria, Grenada, Chad, Malaysia,
+  Belize, Antigua and Barbuda, Cape Verde, Tuvalu, Vietnam, Bouvet Island,
+  Burundi, Cook Islands, Eritrea, Comoros, Sri Lanka, Fiji (20).
+- FUTURES RESTRICTIONS (residents, ToS 5.4 — much longer list, incl.):
+  Afghanistan, DRC, Myanmar, Albania, Djibouti, Palestine, Antarctica,
+  Eritrea, Rwanda, Antigua and Barbuda, Fiji, Russian Federation, Bangladesh,
+  Guinea-Bissau, Sierra Leone, Belarus, Grenada, Somalia, Belize, Iran,
+  South Sudan, Bouvet Island, Iraq, Sri Lanka, Burkina Faso, Jordan, Sudan,
+  Burundi, North Korea, Syria, Cape Verde, Laos, Tajikistan, Chad, Lebanon,
+  Timor-Leste, Comoros, Lesotho, Tuvalu, Congo, Libya, Ukraine, Cook Islands,
+  Malawi, Venezuela, Ivory Coast, Malaysia, Vietnam, Cuba, Mali, Yemen.
+  Full list governs at ToS Section 5 + official channels and can change; CFD
+  vs Futures lists DIFFER — check the right one before purchase.
+- KYC: government ID + liveness/contract signing after passing evaluation,
+  before FundedNext Account credentials; payout invoices require matching
+  beneficiary details. Minors, sanctioned persons, and previously banned
+  traders are refused.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundednext.com: 4.5/5
+  "Excellent", ~64,578 reviews (Apr 2026 read) / 63,163 on UK subdomain
+  (Mar 2026); on-site badge Sep 2026: 4.5 from "73k+ reviews". Largest review
+  base in prop (PropFirmMap: more than next four most-reviewed firms
+  combined; vs Funding Pips 51K, The5ers 23K, FTMO 7.5K). Profile active and
+  verified (three rival firms were suspended for fake reviews in early 2026;
+  FundedNext was not). Trustpilot company-activity note: "Replied to 0% of
+  negative reviews".
+- PropFirmMatch: firm page "loved by 62.5k+"; reviews subpage 4.3/5 from 876
+  verified traders; aggregator snapshot via PropFirmScope: 4.34/5 across 737
+  reviews (Apr 2026) — the highest VOLUME in forex props.
+- PropFirmMap: PFM Score 2.4/10 (weights internal reviews, platform
+  diversity, payout speed, pricing — FundedNext's social proof lives mostly
+  on Trustpilot, and its 5-30-day payout window trails daily-payout rivals),
+  Safety Grade A+, editorial rating 7/10 (held back by payout speed/platform
+  limits; elevated by social proof, pricing, multi-asset breadth).
+- PropFirmScope: Trust Score 8.7/10 (vs FTMO 9.2/10) — "legitimate, upper
+  tier"; 4 years operation, no payout freezes, no CFTC/regional enforcement,
+  stable-to-improving 2024-2026 trajectory; "no sign of decline patterns that
+  preceded MyForexFunds' 2023 collapse".
+- Sentiment themes (positive): sub-24h payouts (2-minute to 9-second reports
+  on socials), fee refund honored, clear rules/dashboard, responsive support,
+  $40K single-trader and $32K+68K Legacy-runner stories on X/Facebook.
+- Recurring complaints: 4.5 (not 4.8) ceiling from sheer review volume; PFM
+  payout-speed scoring; 40%-news-profit haircut surprises; 3%-max-risk and
+  cross-account-hedge flags; Instant trailing-DD confusion; Bolt availability
+  flip-flops; US platform limits (no MT4/MT5/Instant).
+- Red flags: NONE material found (no payout-scam cluster, no regulator
+  action, no Trustpilot suspension). Watch items only: Futures Bolt purchase
+  availability; Futures still the newer arm; promo prices rotate weekly.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+SISTER ARMS (same firm, different products): CFD Stellar vs Futures
+Rapid/Legacy/Bolt/Flex share the brand, dashboard, 24h promise and one-time
+fee philosophy, but NOTHING else transfers — different platforms (MT4/MT5/
+cTrader/Match-Trader vs NinjaTrader/Tradovate), different drawdowns (static
+or Instant-trailing vs EOD-trailing everywhere), different splits (80-95%
+ladder vs fixed 80/90/95%), different cadences (5-day/bi-weekly/on-demand vs
+daily/3-day/5-day). Futures has NO activation fee, NO buffer rule, NO monthly
+fee — the anti-subscription answer to Apex/Topstep-style monthly plans.
+BROKER (FNmarkets): FundedNext routes CFD flow through its affiliated
+brokerage/liquidity setup disclosed in the help center ("Which broker does
+FundedNext use?") — execution is simulated-demo; verify the current
+counterparty disclosure in help/ToS before purchase rather than assuming a
+named external broker.
+VS INDUSTRY: the value-split leader — up to 95% CFD (vs FTMO 80-90%) with
+cheaper entries ($32.99 Lite 5K vs FTMO $89+ 10K) and unlimited time on every
+evaluation. Pays for breadth with tighter rooms (1-Step 3%/6%, Lite 4%/8%)
+and the 40%-news-profit + 3%-max-risk governors rivals do not impose.
+Scale-up ceiling (+40% to $4M) beats FTMO's $2M.
+2-STEP VS 1-STEP VS LITE VS INSTANT: 2-Step = biggest rooms (5%/10%) + 1st-
+reward refund + 15% challenge reward, costs patience (21-day first payout).
+1-Step = one 10% hurdle + 5-day payouts, but 3%/6% rooms and 3rd-reward
+refund. Lite = cheapest ticket + easiest Phase 2 (4%), but 4%/8% rooms, no
+15% challenge reward. Instant = zero evaluation + on-demand 5% payouts, but
+6% trailing DD, 70%-start split, 20K cap, never refunded.
+FUTURES PICK: Flex = lowest targets + 95% + no funded consistency (best
+all-rounder). Legacy = biggest caps ($6K/cycle, uncapped after 30 bench
+days) for steady grinders. Rapid Daily = daily money + zero consistency for
+disciplined DLL traders. Rapid Pro = 1-day pass + no DLL for evaluation
+sprinters who accept funded consistency. Bolt = pure daily-paycheck 50K
+sprint (5 withdrawals then done).
+BEST FIT: split-optimisers; news/swing/overnight CFD traders; EA users on
+MT4/MT5; budget starters (Lite $32.99); instant-access small accounts;
+futures traders fleeing monthly subscriptions.
+BAD FIT: traders needing >$200K day-one CFD or >$150K futures size;
+HFT/latency/arbitrage/grid/tick-scalp styles; cross-account hedgers; copy-
+service buyers/sellers; banned-jurisdiction residents; US traders demanding
+MT4/MT5; anyone needing a guaranteed live (non-sim) futures account.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all CFD/Futures rules, fees, payouts, bans and country lists
+above were read from the 12 official URLs in Section 2 on 2026-09-08.
+Futures prices ($69.99-$483.99 bands) rotate with launch/promo coupons
+(FNFLEX, 47% OFF, flat-50% Rapid) — re-check #pricing-area anchors before
+purchase. FundedNext notes all accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 4 CFD models + 4 Futures models (Rapid Pro/Daily split),
+static-vs-trailing DD split, refund ladder (1st vs 3rd vs never), 40%
+consistency recalc, EOD-trailing MLL, soft-breach DLL, 8 CFD add-ons, ToS
+country lists, Trustpilot + PropFirmMatch scores.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated nature: "Explore FundedNext prop trading challenge accounts for
+CFDs and Futures. Trade in a simulated environment with up to 95% reward
+share." / ToS: "The Services do not, under any circumstances, investment
+services, portfolio management, brokerage, execution of real orders, financial
+intermediation or regulated activity."
+[2] Brand promise: "Rewards in 24h or get $1,000 extra" / "One-time fee. No
+recurring costs." / "Pass a challenge, get rewarded, keep up to 95% reward
+share. Clear rules, no time limits, from day one."
+[3] 2-Step: "A two-phase challenge with one set of risk limits throughout. 8%
+in Phase 1, then 5% in Phase 2. Trade for a minimum of 5 days per phase. No
+time limit. The 10% maximum loss limit is based on your initial balance."
+[4] 1-Step: "In the Stellar 1-Step Challenge, you must respect a 3% daily
+loss limit and a 6% maximum loss limit based on your initial balance. You
+need to complete a minimum of 2 trading days, and there is no time limit."
+[5] Lite: "The Stellar Lite Challenge has a profit target of 8% in Phase 1
+and 4% in Phase 2. Both phases use a static drawdown, meaning your loss
+limits are always calculated from your initial balance, not your peak
+equity."
+[6] Instant: "Stellar Instant has no profit target. You receive a funded
+account immediately and trade towards on-demand rewards. The account uses a
+6% trailing drawdown, which adjusts upward as your equity grows." / "You can
+request your first reward on-demand once you reach 5% growth, or bi-weekly
+when your account is at 1% growth."
+[7] Reward ladder: "Standard: 80% of net profit. Scale-Up: Up to 90%. 95%
+Add-On: Up to 95% (optional upgrade). Challenge Phase Reward: 15% (Stellar
+1-Step & 2-Step only, paid after first scale-up)."
+[8] Instant share: "Your profit share on the Stellar Instant Account is up to
+80%." / "70% performance reward from Day 1, increasing to 80% from Tier 3
+onwards."
+[9] Futures MLL: "The Maximum Loss Limit (MLL) at FundedNext Futures is the
+total loss allowed before an account is permanently breached. It follows a
+trailing end-of-day (EOD) system, updating once per day based on the highest
+balance reached, moving up with profits but never decreasing with losses.
+Once the MLL reaches the initial account balance, it locks and no longer
+increases."
+[10] Futures DLL (Rapid): "On Rapid, breaching the DLL is a soft breach --
+trading pauses for the rest of the session and resumes the next day. Resets
+daily at 5:00 PM CT."
+[11] Consistency: "Your largest single trading day must stay at or under 40%
+of total profit." / "Highest Daily Profit / 40% = New Required Profit."
+/ Legacy: "a trader's profit on any single day cannot exceed 40% of the total
+profit target; if it does, the profit target increases accordingly."
+[12] Flex eligibility: "In a Flex FundedNext Account, to be eligible for the
+withdrawal of a Performance Reward, at least 5 Benchmark Days and a minimum
+of $500 in profits within the current cycle are required." / Legacy: "at
+least 5 Benchmark Days and $500 minimum in profits are required."
+[13] Rapid rewards: "Rapid Pro traders must earn a minimum cycle profit of
+$500 while maintaining the 40% Consistency Rule." / "Performance Rewards are
+available daily with our Bolt Challenge, allowing you to withdraw as early
+as the next day after getting to the FundedNext Account."
+[14] Hedging: "Hedging is allowed inside a single account. Across accounts or
+with external brokers, it's not." / "Hedging across multiple accounts is
+prohibited."
+[15] Prohibited core: "Strategies that produce risk-free, consistent profits
+exclusively on Challenge Accounts are strictly forbidden." / "'Pass Your
+Challenge', 'Copy Trading Services' or 'Signal Services' are also strictly
+prohibited, resulting in the denial of any FundedNext Accounts and a
+permanent ban."
+[16] US platforms: "U.S. clients (including Puerto Rico and American Samoa)
+cannot use MT4, MT5, or cTrader due to MetaQuotes and Spotware System
+restrictions. Match-Trader is the supported option." / "If the trader is
+subsequently found using a USA-based IP address after receiving a formal
+warning, the account will be terminated."
+[17] CFD bans: "residents and citizens of Bangladesh, Myanmar, Belarus, North
+Korea, Syria, Grenada, Chad, Malaysia, Belize, Antigua and Barbuda, Cape
+Verde, Tuvalu, Vietnam, Bouvet Island, Burundi, Cook Islands, Eritrea,
+Comoros, Sri Lanka, and Fiji are not able to access FundedNext's trading
+platform."
+[18] Instant pricing: "The price of a Stellar Instant Account depends on the
+account size you choose. There are no monthly fees." ($2K $59.99 / $5K
+$149.99 / $10K $299.99 / $20K $599.99; swap-free 10% higher.)
+================================================================================
+END OF FILE — FUNDEDNEXT COMPLETE. Next firm is a separate task (not started).
+================================================================================

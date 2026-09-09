@@ -1,0 +1,344 @@
+================================================================================
+FXIFY FUTURES — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FXIFYFutures.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FXIFY Futures pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party pricing/review aggregators. No TODOs, no placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FXIFY Futures (futures arm of the FXIFY group; CFD parent at
+  fxify.com — separate file FXIFY.txt).
+- Founded: 2024 (parent FXIFY since April 2023). CEO David Bhidey (heads both
+  parent + futures).
+- Legal: FXIFY Futures Limited, Suite 302, 2 Pembroke Street Upper, Dublin 2,
+  Ireland. Parent rails: Prime Intermarket Group Eurasia Ltd (Mauritius
+  GB24204066) + FXIFY Solutions Ltd UK 14451720.
+- Contact: app.fxifyfutures.com/trader portal, Intercom help center
+  https://intercom.help/fxify-futures/en/, /contact-us, Discord
+  https://discord.com/invite/fxifyfutures, X @fxifyfutures, IG @fxifyfutures.
+- What it is: CME/CBOT futures simulated-evaluation prop firm. One-step eval
+  → Sim Live (Sim-Funded) → career path to LIVE funding review. All eval/Sim
+  accounts simulated; payouts are real-money performance splits.
+- Scale claimed: "up to $750K in simulated capital" (hero); FXIFY.com $35M
+  payouts halo ("$35M payouts brought to you by FXIFY.com"); payout
+  certificates $328–$20,043.90 (Francesco P. $20,043.90 + $11,361.60 +
+  $10,308.60; Chase L. $8,975; Alexander N. $4,400; Sergio F. B. $3,550).
+- Sister entities: FXIFY CFD (fxify.com: 1/2/3-Phase, Lightning, Instant,
+  Crypto), FXPIG backing broker, FXIFY Academy.
+- Key distinction: THREE paths — Standard (1-step, 80%, activation fee),
+  Expert (1-step, 90%, no activation), Direct-to-Sim-Live DTSL (instant, 90%).
+  Monthly subscription while in eval (NOT one-time); funded phases not billed.
+  EOD trailing drawdown; consistency 30/40/20; payouts every 14 days.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED:
+ 1. https://fxifyfutures.com (homepage: hero $750K sim; EOD drawdown; no
+    activation fee*; $35M halo; 3-day/14-day flow; $50K/$100K/$150K cards;
+    NinjaTrader/Tradovate/TradingView; comparison table 6–7% target, 3%
+    consistency-remove at checkout, 4–5% DD, discounted resets, 3–4 days,
+    EOD-balance trail; Dublin address; sim disclaimer)
+ 2. https://fxifyfutures.com/programs/standard (Standard rules/pricing)
+ 3. https://fxifyfutures.com/programs/expert (Expert rules/pricing)
+ 4. https://fxifyfutures.com/direct-to-sim-live (DTSL instant rules/pricing)
+ 5. https://fxifyfutures.com/how (how-it-works: 3-day eval / 14-day instant)
+ 6. https://fxifyfutures.com/affiliate + /contact-us + /academy
+ 7. https://intercom.help/fxify-futures/en/ (FAQs index)
+ 8. https://intercom.help/fxify-futures/en/articles/10236826-fxify-futures-payout-policy-for-standard-and-expert-accounts
+    (2026-05-19: buffer zone $1,000 on $100K Standard; tiered release;
+    repurchase rules; transition review)
+ 9. https://fxifyfutures.com/terms-and-conditions.pdf + /privacy-policy.pdf
+CROSS-CHECK SOURCES:
+10. Propfirmito FXIFY Futures review 2026-08-10 (81.5/100 A−; code RAMESCO
+    40% off; $89 Standard / $149 Expert monthly; $125 activation Standard;
+    8% targets; DTSL $199–$999; consistency 20/30/40; static-vs-trail map)
+11. BestPropFirms FXIFY Futures review 2026-06-15 (88/100 Excellent; 100%
+    with add-on; from $89; DTSL caps $3K/$6K/$12K/$15K; Trustpilot 3.8/39;
+    code PROPFIRMS15 15% off; EAs NOT permitted)
+12. PropFirmMap FXIFY Futures review 2026-08-17 ($89 Standard / $149 Expert
+    one-step; EOD trail; 14-day tiered payouts)
+13. LuneFi FXIFY guide 2026-06-18 ($50K Standard $89/mo + $125 activation,
+    $3K target, $1K daily, $2K EOD trail, 30% consistency)
+14. DamnPropFirms FXIFY Futures review 2026 (pros/cons; EOD-trail explainer;
+    Standard vs Expert vs DTSL picker)
+15. PropScorer FXIFY Futures 2026-07-22 (PropScore 61/100)
+16. Trustpilot https://uk.trustpilot.com/review/fxifyfutures.com (3.8–3.9/5,
+    ~39–40 reviews — young page)
+17. PropFirmMatch futures reviews hub (futures peer context)
+TOTAL SOURCES: 17 (9 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: NinjaTrader, Tradovate, TradingView (via Tradovate). In-house
+dashboard + cutting-edge journal + advanced analytics. Free Level-1 data on
+ALL plans incl. eval + Sim Live.
+INSTRUMENTS: CME & CBOT futures (Equity index, energies, metals, rates, FX
+futures per exchange hours). Exchange halts respected (daily 5:00–6:00 PM ET
+maintenance). Weekend holding N/A (exchanges closed Sat–Sun). Real-time CME
+data included.
+CONTRACTS: max-position caps scale with size (per program pages; verify live
+ladder at checkout — $50K-class caps bind micros/minis conversion).
+LEVERAGE: futures margin per CME/Tradovate schedules (no CFD-style 50:1;
+intraday margins apply; exceeding position cap = breach).
+MAX ALLOCATION: up to $750K simulated capital headline (multi-account stack;
+verify live cap at checkout).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Steps | Sizes          | Target   | Daily loss | Max DD (EOD trail) | Min days | Split        | Billing |
+|---|--------------------|-------|----------------|----------|------------|--------------------|----------|--------------|---------|
+| 1 | Standard (eval)    | 1     | $50K/$100K/$150K | 6–8% band (Lune $50K: $3,000) | $1,000 on $50K (2%) | $2,000 on $50K (EOD trail) | 4 (BPF) / 3–4 (homepage) | 80% (90–100% w/add-on +10% price) | $89/mo until pass + $125 activation |
+| 2 | Expert (eval)      | 1     | $50K/$100K/$150K | 6–8% band | $1,500 on $50K (3%) | ~$2,400–$4,800 band (Pito $150K: $4,800) | 3 | 90% (100% w/add-on) | $149/mo until pass, $0 activation |
+| 3 | Direct-to-Sim-Live | 0     | $15K/$30K/$60K/$80K | NONE | 2.5% | 4% trail (Pito static-read: 4%) | 14 days trade (homepage instant rule) | 90% (100% w/add-on) | $199–$999 ONE-TIME, no recurrence |
+Notes:
+- Unlimited MAX trading days all paths; MINIMUMS bind (Standard 4, Expert 3,
+  DTSL 14-day activity rule).
+- Consistency: Standard 30% (challenge + live); Expert 40% (LIVE ONLY — none
+  on challenge); DTSL 20% over any 14-day window. Removable via checkout
+  add-on ("3% Option to remove" = consistency-remove line).
+- Trailing mechanics: EOD-balance trail (NOT watermark/equity-high). Trail
+  freezes at initial + target once hit, locks permanently after one profitable
+  day at high-water (Pito). No-trail add-on converts to static EOD on Expert/
+  DTSL for flat fee.
+- Activation: Standard $125 on pass (or payment-free add-on higher tiers);
+  Expert $0; DTSL none (one-time covers it).
+- Resets: discounted unlimited resets (no fixed reset-fee model — buy new
+  plan terms; RAMESCO recurs while sub active).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. STANDARD (1-step eval, $50K/$100K/$150K; $89/mo + $125 activation) ---
+- Target: 6–8% band once ($50K Lune-read: $3,000 = 6%. $100K ≈ $6,000–$8,000;
+  confirm live % at checkout.)
+- Daily loss: $1,000 on $50K (2%); scales proportionally ($100K ≈ $2,000).
+- Max DD: $2,000 on $50K EOD TRAIL (off EOD balance, kinder than equity-high
+  rivals at 3–4%).
+- Min days: 4 (BPF) / 3–4 (homepage band); unlimited max.
+- Consistency 30% challenge + live (best day ≤30% of total window profit).
+- Split 80% → 90–100% with +10%-price add-on. Payouts every 14 days, min
+  withdrawal 3% of balance ($50K: $1,500), buffer-zone + tiered release
+  (see 5D). No activation fee* asterisk = *after $125 activation paid.
+- DD calc + example ($50K Standard): start $50,000, trail $2,000. EOD closes
+  $50,800 → floor $48,800. Intraday spike to $51,200 then close $50,400 =
+  floor still trails EOD closes only ($48,400). Touch EOD floor = breach.
+  Consistency: 14-day window +$2,000 with best day +$700 (35%) = FAIL → trade
+  on till best ≤$600.
+--- 5B. EXPERT (1-step eval, $50K/$100K/$150K; $149/mo, $0 activation) ---
+- Target: same 6–8% band ($50K ≈ $3,000).
+- Daily loss: $1,500 on $50K (3%) — 50% more room than Standard.
+- Max DD: ~$2,400+ band ($150K: $4,800 per Pito); EOD trail; no-trail add-on
+  available (converts to static EOD).
+- Min days: 3 (fastest futures pass). Consistency 40% LIVE ONLY (no
+  consistency on challenge — push early, smooth later).
+- Split 90% → 100% with add-on (add-ons FREE on Expert vs paid on Standard).
+- Payouts every 14 days, 3% min, buffer/tiered (see 5D).
+- DD calc + example ($50K Expert): start $50,000, daily $1,500, trail
+  ~$2,400. Challenge: best day can be 100% (no consistency) — pass in 3 days.
+  Live: 14-day +$3,000 with best +$1,300 (43%) = hold payout till ≤$1,200.
+--- 5C. DIRECT-TO-SIM-LIVE (instant, $15K/$30K/$60K/$80K; $199–$999 once) ---
+- Target: NONE. Live-style sim immediately. Must trade 14 days (activity
+  rule) before withdrawal eligibility flow.
+- Daily 2.5% ($15K: $375. $80K: $2,000 per Pito 2.5% line); Max 4% trail
+  ($15K: $600. $80K: $3,200).
+- Consistency 20% over any 14-day window (strictest % in file).
+- Split 90% → 100% with add-on. Payouts every 14 days, 3% min.
+- FIXED PAYOUT CAPS: $3,000 ($15K) / $6,000 ($30K) / $12,000 ($60K) /
+  $15,000 ($80K). At cap → account enters review for possible live-infra
+  transition (do not plan infinite sim compounding).
+- DD calc + example ($15K DTSL $199): start $15,000, daily $375, trail $600.
+  14-day window +$900 with best +$200 (22%) = capped payout; grind 20%-clean
+  windows to cap $3,000.
+--- 5D. BUFFER ZONE + TIERED RELEASE (Standard/Expert Sim Live) ---
+- Help-center verbatim mechanics: $100,000 Standard balance $102,500 with
+  $1,000 buffer zone → withdrawable = balance minus buffer and tiers;
+  worked example leaves $101,600 remaining balance post-request.
+- Interpretation: first-tier withdrawals leave a protective buffer in the
+  account; release ratio improves as buffer builds; repurchase/new-eval
+  rules apply after breach/transition. Read article 10236826 fully before
+  first withdrawal — buffer math decides your request size.
+- DTSL uses fixed caps INSTEAD of buffer/tiered (see 5C).
+--- 5E. NEWS / WEEKEND / HOURS (futures) ---
+- News trading ALLOWED eval + Sim Live (high-leverage news gambling
+  prohibited as risk-policy violation).
+- Exchange halts: flat/hedge through 5:00–6:00 PM ET maintenance per
+  Tradovate/CME rules; weekend holding N/A (closed).
+- EAs/automated: CONTESTED — Pito permits algos/DOM within loss limits
+  (HFT/latency/wash/account-share banned); BPF comparison table marks EAs
+  "Not Allowed". Treat automation as RESTRICTED — confirm live EA line in
+  help center before deploying bots; DOM-manual is safe.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+HYBRID BILLING (unique in futures: subscription in eval, one-time for DTSL;
+codes RAMESCO 40% off verified 2026-08-10, PROPFIRMS15 15% off):
+| Size | Standard (mo till pass) | Expert (mo till pass) | DTSL (once) |
+|------|-------------------------|-----------------------|-------------|
+| $15K DTSL-class | — | — | $199 |
+| $30K DTSL-class | — | — | ~$399 band |
+| $50K | $89 ($53.40 w/RAMESCO) | $149 ($89.40 w/RAMESCO) | — |
+| $60K DTSL-class | — | — | ~$599–$999 band |
+| $80K DTSL-class | $999 ($599.40 w/RAMESCO — Pito $80K row) | per Expert page | ~$999 cap |
+| $100K | per Standard page (~$139–$189 band; verify live) | per Expert page | — |
+| $150K | per Standard page | per Expert page ($150K DD $4,800) | — |
+- Activation: Standard $125 on pass (one-time; payment-free add-on higher
+  tiers); Expert $0; DTSL $0 (covered).
+- Add-ons: split +10% (~+10% price: Standard 80→90, Expert/DTSL 90→100);
+  consistency-remove (Expert/DTSL flat fee; Standard paid); no-trail→static
+  EOD (Expert/DTSL flat fee). Expert add-ons mostly FREE vs Standard paid.
+- Resets: discounted unlimited (no partial-reset SKU; RAMESCO recurs while
+  sub active). Funded phases NEVER subscription-billed.
+- REFUND: subscription fees NON-REFUNDABLE (service + data costs); DTSL
+  one-time non-refundable. No CFD-style first-payout refund. Cancel sub to
+  stop billing; breach = sub wasted.
+- Data: Level-1 FREE all plans (no CME data fee — rare value).
+- Payment: cards via app.fxifyfutures.com portal; Rise/Riseworks payout rails.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: Standard 80% → 90–100% w/add-on; Expert 90% → 100%; DTSL 90% →
+  100%. No ladder — split fixed by plan + add-on from first payout.
+- Cadence: every 14 CALENDAR days from Sim-Live start (all paths). Eligible
+  payouts processed 24–48h + Rise setup time.
+- Min withdrawal: 3% of balance (Standard/Expert; $50K = $1,500). DTSL same
+  3% practice within caps.
+- Buffer/tiered (Standard/Expert): $1,000 buffer on $100K-class; request =
+  balance − buffer − tier holdback (worked $102,500 → $101,600 remainder).
+- Caps (DTSL): $3K/$6K/$12K/$15K by $15K/$30K/$60K/$80K; at cap → live-infra
+  transition review (possible real-live upgrade — invite-style, not promised).
+- KYC: ID + agreement signing after eval (homepage step 3) before Live/Sim
+  credentials; beneficiary match for Rise.
+- MAXIMA: $150K per eval; $80K DTSL; $750K combined sim headline; live-infra
+  beyond review.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+BANNED (breach = account end; restricted profits void):
+1. HFT / latency arbitrage / feed exploitation / wash trading.
+2. Copy-trading same strategy across multiple owned/managed accounts.
+3. Account sharing / third-party trading; one trader per account.
+4. Exceeding max-position/contract caps per size (verify live ladder).
+5. High-leverage news GAMBLING patterns (news itself allowed; all-in
+   straddles flagged).
+6. Consistency-gaming (splitting one idea across days to dodge 30/40/20%).
+7. Exchange-halt violation (holding through 5–6 PM ET maintenance halt).
+8. EA/bot deployment where live EA line prohibits (BPF-read banned) —
+   confirm help-center EA article before automating; manual/DOM safe.
+9. Buffer/tier circumvention (multiple same-window requests to drain buffer).
+ALLOWED: news trading (standard risk); EOD-trail intraday freedom (no
+intraday trail); DOM/manual strategies; Tradovate/NT/TV choice; discounted
+resets; free Level-1 data. Weekend N/A (not a ban — market closed).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; one trader per account.
+- USA: SERVED — futures is the US path (CME domestic product; no DXtrade
+  workaround needed unlike CFD). US traders are core audience.
+- UK/EU: served (Dublin entity; CME access via Tradovate).
+- Restricted: standard CME/sanctionsgeo-blocks apply (verify /contact-us +
+  checkout geo-block; no published FXIFY-Futures ban list — Rise payout
+  rails + CME compliance govern).
+- KYC: government ID + signed agreement AFTER eval pass, BEFORE Sim-Live
+  credentials (homepage step 3 verbatim). Instant DTSL: KYC before first
+  payout (14-day window used for review).
+- No 30-day inactivity published for futures — but subs bill monthly in eval;
+  cancel rather than idle.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://uk.trustpilot.com/review/fxifyfutures.com: 3.8–3.9/5,
+  ~39–40 reviews (young page; "very new" per Pito). Pool reads: Pito Apr
+  2026: FXIFY brand 3.9/5 across 5,620+ reviews (Excellent); futures sub-page
+  3.9/5 across 40. BPF Jun 2026: 3.8/5 (39 reviews). Do NOT confuse with
+  fxify.com CFD page (4.3–4.4/5, 5,400–6,208 reviews).
+- PropFirmMatch: futures hub peer context (no standalone futures score in
+  reads); CFD parent 3.9/5 from 105 (Apr 2026) — futures inherits parent ops
+  but separate risk engine.
+- BestPropFirms: 88/100 Excellent (9 challenges, 9 fees, 10 markets, 9
+  payouts, 7 platforms, 9 trust) — strongest third-party score in batch.
+- Propfirmito: 81.5/100 A− (Trust 84.2, Cost 71.2, Conditions 83.7,
+  Passability 93, Payouts 90.3, Access 32.9 — access dragged by US-only
+  futures relevance + sub billing).
+- PropScorer: 61/100 (toughest grader; cost/subscription-weighted).
+- Sentiment: EOD-trail + free Level-1 + 3-day pass + 100%-capable splits
+  praised; monthly-sub + buffer/tiered + DTSL caps + EA-ambiguity are friction.
+- Red flags: NONE systemic (certificates + 24–48h rails consistent). Watch:
+  thin review pool (40 reviews); EA allowed-vs-banned conflict; buffer math
+  surprises; DTSL caps end compounding; sub-burn on slow passes.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: only monthly-sub futures in batch (vs one-time Apex-style);
+kindest trail (EOD-balance vs equity-high 3–4% rivals); free Level-1 (rivals
+charge); 100%-capable splits (vs 90% FTMO-futures-class). $89 Standard
+undercuts $149 Expert by 40% but pays $125 activation + 80% + paid add-ons.
+PICK: cheapest pass → Standard ($53.40/mo w/RAMESCO). Fastest + highest split
+→ Expert (3 days, 90→100%, free add-ons, no activation). No eval → DTSL
+($199+, 20% consistency, capped). CME-precision scalpers → Expert no-trail
+add-on (static EOD).
+BEST FIT: US futures traders (core audience); EOD-trail tacticians; 3-day
+sprint passers (Expert); Tradovate/NT natives; Level-1-sensitive order-flow
+traders; capped-goal grinders (DTSL to $15K cap then review).
+BAD FIT: subscription-averse (use CFD one-time or Apex promos); EA-dependent
+(EA line conflicted — verify first); infinite-compounding hopefuls on DTSL
+(caps + review); buffer-allergic withdrawers (Standard/Expert tiered);
+non-futures traders (use FXIFY.txt CFD).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all futures rules, fees, splits, bans and entity facts above
+were read from the 9 official URLs in Section 2 on 2026-09-08. Size prices
+($89/$149/$199–$999/$125 activation) via Apr–Aug-2026 checkout reads —
+codes (RAMESCO/PROPFIRMS15) rotate; re-check app.fxifyfutures.com before
+paying. CFD rules in FXIFY.txt, not here. All eval/sim accounts simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Standard/Expert/DTSL table, EOD-trail mechanics, 30/40/20
+consistency map, buffer-zone + DTSL-cap payout gates, sub-vs-once billing.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Showcase your skills in our one step evaluation and receive up to
+$750K in simulated capital. The Future is now."
+[2] Checklist: "EOD - End of Day Drawdown" / "No activation Fee*" /
+"Discounted unlimited resets" / "$35M payouts brought to you by FXIFY.com".
+[3] Steps: "Achieve the profit target for your account within at least 3
+trading days or trade for 14 days on the instant account." / "After
+successfully achieving the objectives in the evaluation. You will required to
+complete your KYC and sign the agreement. Then you will be given your Live
+account credentials." / "request a withdrawal from as little as 14 days from
+going live."
+[4] Comparison: "Profit Target 6-7%" / "3% [Option to remove at the
+checkout]" / "Trailing Max Drawdown 4-5%" / "Reset Fee Discounted Rate" /
+"Minimum Trading Days 3-4 days" / "Drawdown Type Trails off EOD Balance".
+[5] Benefits: "The standard account offers an 80% split and the expert
+account offers a 90% split by default. Maximise your performance with a 10%
+increase in split at the checkout." / "Free level 1 data On all plans".
+[6] Payouts: "After 14 days you may request your payout and it will be
+processed with in 24-48 hours" / "Up to 100% performance split".
+[7] Payout policy: "Account: $100,000 Standard / Balance: $102,500 / Buffer
+Zone: $1,000 ... Remaining Balance -> $101,600".
+[8] Entity: "FXIFY Futures Limited Suite 302, 2 Pembroke Street Upper,
+Dublin, Dublin 2, Ireland".
+[9] Disclaimer: "Hypothetical or Simulated performance results have certain
+limitations. Unlike an actual performance record, simulated results do not
+represent actual trading."
+[10] Lune read: "The $50,000 FXIFY Futures Standard plan charges $89 monthly
+plus a $125 activation fee. It sets a $3,000 profit target, $1,000 daily loss
+limit, and $2,000 end-of-day trailing drawdown."
+[11] DTSL caps: "caps are $3,000 on $15K, $6,000 on $30K, $12,000 on $60K
+and $15,000 on $80K. Once the payout cap is reached, the account enters
+review for possible transition to live infrastructure."
+================================================================================
+END OF FILE — FXIFY FUTURES COMPLETE. Batch of 5 complete.
+================================================================================

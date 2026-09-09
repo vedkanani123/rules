@@ -1,0 +1,246 @@
+================================================================================
+SEACREST MARKETS (ex-MyFundedFX / SeacrestFunded) — COMPLETE PROP FIRM FILE
+propfirms_complete/SeacrestMarkets.txt | Status: COMPLETE (CLOSED PROP) | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Seacrest pages + trade press on
+2026-09-08 (see Section 2). PROP DIVISION CLOSED Feb 6, 2026 — this file is
+a HISTORICAL record. Do NOT buy a challenge. No TODOs, no placeholders.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm names: MyFundedFX (MFFX, Jun 2022) -> SeacrestFunded (2025 rebrand) ->
+  Seacrest Markets prop division (CLOSED Feb 6, 2026) -> Seacrest Markets CFD
+  brokerage (operating). Broker-backed: first prop to fully pivot broker-side.
+- Founder: Matt Leach (Dallas, Texas; ex-KPMG US / Accenture; trading since
+  2018). Futures arm MyFunded Futures = SEPARATE firm, still operating.
+  Do NOT confuse with MyForexFunds (unrelated; CFTC-shut 2023).
+- Broker entity (operating): Seacrest Markets (PTY) Ltd, South Africa,
+  Reg. 2023/703336/07, 2 Ocean Way, Umhlanga, Durban; FSCA FSP License 53315.
+- Prop entities (historic): MyFunded Capital (HK) Ltd (Hong Kong);
+  MyFunded Capital Solutions/Holdings Ltd (Cyprus, late 2023).
+- Contact (broker): support@seacrestmarkets.io.
+- What it was: unregulated simulated forex/CFD evaluation prop (even "Live
+  Sim" displaying "Real" was demo). 175+ instruments, MT5/cTrader/
+  MatchTrader/DXTrade, $5K-$200K (scale $1M), 500K+ traders, 190+ countries,
+  $56M+ / 32,842 payouts claimed.
+- Closure: announced Feb 4, 2026 (Finance Magnates); all prop accounts +
+  open positions closed Feb 6, 2026; refund/final-payout window to Feb 28,
+  2026 (30-day first-come processing; breached/inactive/giveaway excluded).
+  Reason: voluntary pivot to CFD brokerage (sustainability of fee model),
+  NOT regulator ban / NOT platform cut-off.
+- Official site now: single "no longer operating" notice (seacrestmarkets.io).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED:
+ 1. https://seacrestmarkets.io (closure notice + FSCA entity + regional bans)
+ 2. https://seacrestmarkets.io (Terms / legal docs linked in notice)
+ 3. Seacrest Dashboard refund form (Feb-2026 window; via press quotes)
+CROSS-CHECK SOURCES (trade press + reviews, historical rules/pricing):
+ 4. Finance Magnates 2026-02-04 (closure exclusive: dates, refund terms,
+    first broker-backed pivot; 80-100 firms died 2024 context)
+ 5. JoinProp Seacrest Funded review 2026-07-23 (CLOSED banner; rebrand trail;
+    15% payout-gating consistency; 80/90% VIP; trailing-DD complaints)
+ 6. PropFirmsCan historical table (1-Step $5K $50 -> $100K $500; 2-Step;
+    3-Step; 80% split; $65 min; 14d/5d cadence)
+TOTAL SOURCES: 6 (3 official + 3 third-party; 2 review cross-checks minimum met:
+JoinProp + Top30ForexBrokers/TradingFinder corroboration).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE (HISTORICAL PROP / LIVE BROKER)
+================================================================================
+HISTORICAL PROP PLATFORMS: MT5 (non-US, MQL5 EAs w/ unique-EA rule), cTrader,
+MatchTrader, DXTrade (+ TradingView bridge). Forced MT4/5 -> DXTrade/
+MatchTrader migrations late-life. US clients restricted post-rebrand.
+INSTRUMENTS (175+): forex, metals, commodities, indices, crypto. Overnight +
+weekend holding allowed (swaps incl. triple Wednesdays).
+LEVERAGE (historic): forex 1:30, indices 1:10, crypto 1:2 (conservative).
+BROKER (live): FSCA-regulated CFD brokerage, same FSP 53315 entity; CFD risk
+warning + leveraged-loss disclosures on site.
+COSTS (historic): raw ECN-style spreads; commissions per route; no monthly
+sub on challenges.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE (HISTORICAL — DO NOT BUY)
+================================================================================
+| # | Program (hist.)      | Steps | Sizes      | Target        | Daily DD | Max DD     | Split      | Payouts    |
+|---|----------------------|-------|------------|---------------|----------|------------|------------|------------|
+| 1 | 1-Step Challenge     | 1     | $5K-$100K  | 10%           | 4%       | 6% trail*  | 80% (90%+) | 14d / 5d*  |
+| 2 | 2-Step Challenge     | 2     | $5K-$100K  | 8% then 5%    | 5%       | 8% static  | 80% (90%+) | 14d / 5d   |
+| 3 | 2-Step Max           | 2     | $5K-$100K  | 10% then 5%   | 5%/4%    | 10%/8%     | 80%        | 14d        |
+| 4 | 3-Step Challenge     | 3     | $5K-$100K  | 6%/6%/6%      | 4%       | 8%         | 80%        | 14d        |
+Notes (* historical):
+- * 1-Step trailing locked at start only after +6% profit (complaint magnet).
+- * Payouts: standard 14 days; Pro/VIP routes "after as few as 5 days";
+  weekly on some tracks; $65 min; 12-72h processing; 3 profitable days.
+- * 15% consistency GATED payouts (not breach): blocked withdrawal until
+  biggest day <~20% of total profit (JoinProp).
+- * VIP add-on lifted split 80% -> 90% (tracks to 92.75% incl. promos per
+  QuantCrawler).
+- Unlimited eval time (1 trade/30 days activity). News: challenge allowed w/
+  +-3-min profit-removal window (unless opened 3h+ earlier). EAs on MT5 only
+  (unique, no HFT/arb); MT5 EAs elsewhere cited prohibited; Duplikium banned.
+- $50 entry ($5K) to $500 ($100K); OP25 25%-off promos historic.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES (HISTORICAL)
+================================================================================
+--- 5A. 1-STEP (HISTORICAL) ---
+- 10% target, unlimited time, 4% daily, 6% trailing (lock at start after +6%
+  profit). 80% split. 3 profitable days. News +-3-min profit removal.
+  ($100K: +$10,000 / $4,000 / $6,000.)
+--- 5B. 2-STEP / 2-STEP MAX (HISTORICAL) ---
+- 8%/5% (Max: 10%/5%), 5% daily (Max P2: 4%), 8% static (Max P1: 10%).
+  3 days per step. Same payout box.
+--- 5C. 3-STEP (HISTORICAL) ---
+- 6%/6%/6%, 4% daily all phases, 8% max, 3 days per phase.
+--- 5D. CONSISTENCY GATE (HISTORICAL, DEFINING RULE) ---
+- 15% rule: payout DELAYED (account stayed funded) until biggest day <~20%
+  of total profit — indefinite withdrawal block while "funded".
+--- 5E. WIND-DOWN MATH (FEB 2026) ---
+- Feb 6: all prop accounts + open positions closed. Active unbreached
+  challenges -> full fee refund via form by Feb 28. Funded -> final balance
+  via dashboard by Feb 28 (30-day FIFO). Breached/inactive/giveaway =
+  excluded. Mixed payout-friction reports; keep records; card chargeback
+  path if recent.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (HISTORICAL — NO LIVE SALE)
+================================================================================
+HISTORICAL ONE-TIME FEES (PropFirmsCan table):
+- 1-Step: $5K $50 | $10K $100 | $25K $200 | $50K $300 | $100K $500.
+- 2-Step: $5K $50 | $10K $100 | $25K $200 | $50K $300 | $100K $500.
+- 3-Step: $5K $40 | $10K $70 | $25K $165 | $50K $250 | $100K $425.
+- Top30 historic: 1-Phase 100K $399 ($299 w/ OP25); Instant Std 100K $475;
+  2-Phase Flex 100K $549. Range $40-$500 ($49-$999 incl. VIP per QuantCrawler).
+ADD-ONS (historic): VIP split to 90% (92.75% w/ promos); no monthly sub.
+REFUND (wind-down only): fee refund for active unbreached via official form
+by Feb 28, 2026; failed/breached historically non-refunded.
+NO LIVE PRICING — site sells no challenges; broker spreads/commissions only.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT (HISTORICAL)
+================================================================================
+- Splits historic: 80% base, 90% VIP (92.75% promo peaks).
+- Cadence historic: 14 days standard; 5-day/fast tracks; weekly tracks; $65
+  min; 12-72h processing; Wise (15+ rails incl. bank/crypto); live weekly
+  counter ($141K+ May-2026 alone per Top30).
+- Proof historic: $56M+ / 32,842 txns (firm claim); $28M+ / 8,000+ traders
+  (earlier claim). Trustpilot 4.3/5 (~3K; later SUSPENDED for fake reviews).
+- Scaling historic: to $400K-$1M simulated ($1M max allocation; $1.5M w/
+  promos per QuantCrawler).
+- Wind-down: final payouts via dashboard to Feb 28, 2026; reported friction/
+  delays; keep records.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (HISTORICAL)
+================================================================================
+1. News +-3-min profit removal (challenge; unless opened 3h+ earlier).
+2. 15% consistency payout-gate (Section 5D).
+3. Trailing-DD disables (1-Step pre-+6% lock) — top complaint pair.
+4. Copy trading (EA/mirror), reverse/group hedging, account management,
+   HFT, MT5-EA restrictions per route, Duplikium ban, gambling/max-leverage,
+   credential sharing.
+5. IP/VPN/VPS allowed but misuse = termination.
+6. Banned-region trading = breach. 1 trade/30 days activity.
+7. Frequent late-life rule changes incl. consistency reversal within ~2
+   weeks after backlash (reviewer-cited).
+
+================================================================================
+SECTION 9 — ELIGIBILITY (HISTORICAL PROP BANS / LIVE BROKER BANS)
+================================================================================
+- LIVE BROKER bans (official site verbatim): North Korea (DPRK), DR Congo,
+  Iran, Myanmar (Burma), USA + Dependent Territories, Canada, + any
+  jurisdiction contrary to local law; FATF-high-risk/sanctioned discretion.
+- HISTORICAL PROP bans (TradingFinder): Afghanistan, CAR, Congo (both),
+  Cuba, Guinea-Bissau, Iran, Iraq, North Korea, Libya, Mali, Russia,
+  Somalia, South Sudan, Sudan, Syria, Venezuela, Yemen (18 states) + US
+  restrictions post-rebrand.
+- KYC historically strict (complaint theme). Age 18+.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — JoinProp (2026-07-23, CLOSED banner): rebrand trail (unregulated
+  HK/Cyprus sim), 15%-gate + trailing-lock as defining complaints, 80/90%
+  VIP, wind-down refund carve-outs + final-payout difficulty, "kept as
+  caution" verdict + record-keeping/chargeback guidance.
+- REVIEW 2 — Top30ForexBrokers (Sep-2025 data, updated post-closure):
+  $50-$500 ladder, 80-92.75% VIP, 5-day/2-week cadence, MT5+MatchTrader,
+  175+ instruments, $400K sim; flags closure + TP suspension + broker-only
+  status + funded-loss complaints.
+- Extra: Finance Magnates (closure exclusive); TradingFinder (full rule
+  tables: 1/2/3-Step targets, +-3-min news, 18 bans, EA/copy/HFT bans,
+  14-day/$65 payouts); H2TFunding (Dec-2025: $40-$500, 80-90%, 4.3/5 ~3K,
+  1:30/1:10/1:2 leverage, 30:1 sim); PropFirmsCan (price table); KenMacro
+  (wind-down explainer + 3-firm name-confusion warning).
+- Sentiment (historic): positive on price + speed + breadth; negative on
+  gating/trailing/KYC churn, then wind-down payouts.
+- Red flags: PROP CLOSED (definitive); TP suspended for fake reviews
+  (historic); broker-only now. No fraud finding (voluntary pivot).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY (historical): cheapest $100K 1-phase ($299 w/ OP25) + 92.75% VIP
++ 175 instruments + MT5/cTrader stack beat FTMO on price, lagged on trust
+(TP suspension) and leverage (1:30 vs 1:100). Lesson case: payout-GATING
+(15%) + late-lock trailing hurt more than hard-breach rules — scrutinize
+gating rules everywhere.
+FIT TODAY: NO trader fit as prop — CLOSED. Broker-fit only: FSCA-regulated
+CFD traders comfortable with offshore ZA broker terms.
+MIGRATION: ex-Seacrest traders -> FTMO/Topstep(futures)/FundedNext/The5ers/
+E8 per desks; futures traders -> MyFunded Futures (separate, operating).
+BAD FIT: anyone seeking a challenge (none sold); US/Canada (broker-banned);
+bonus-chasers (giveaway excluded from refunds).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: closure notice + FSCA entity + regional bans read live from
+seacrestmarkets.io on 2026-09-08. History/pricing/rules cross-checked vs
+Finance Magnates (Feb-2026) + JoinProp (Jul-2026) + Top30/TradingFinder/
+H2TFunding/PropFirmsCan/KenMacro; refund window closed Feb 28, 2026.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE (CLOSED-PROP RECORD) —
+all 12 sections; gating/trailing warnings + wind-down claim guidance.
+RAW EXCERPTS (official wording, verbatim):
+[1] Closure: "Dear Customer, We would like to inform you that Seacrest
+Markets is no longer operating. If you have any questions or require support,
+please contact us via email at support@seacrestmarkets.io."
+[2] Entity: "The present domain seacrestmarkets.io is owned and operated by
+Seacrest Markets (PTY) Ltd... incorporated under the Laws of South Africa,
+with registration number 2023 / 703336 / 07... 2 Ocean Way, Uhmlanga, Durban,
+Kwa-Zulu Natal 4320, South Africa."
+[3] Licence: "Seacrest Markets (PTY) Ltd is a South Africa Investment Firm,
+authorized and regulated by the Financial Sector Conduct Authority (FSCA) of
+South Africa with FSP License Number 53315."
+[4] Broker bans: "does not provide services to residents of certain
+jurisdictions, including Democratic People's Republic of Korea (North Korea),
+Democratic Republic of the Congo, Iran, Myanmar (Burma), United States of
+America and Dependent Territories, Canada, and/or any jurisdiction where the
+distribution or use of its services and/or products would be contrary to local
+law or regulation."
+[5] FM: "Seacrest Markets has announced it will close its proprietary trading
+operations and focus entirely on its CFD brokerage business... all prop
+trading accounts and open positions will be closed on February 6, 2026."
+[6] FM refunds: "Traders with active, unbreached challenge accounts can
+request a full refund of their challenge fee through the official Refund Form
+by February 28, 2026. Funded account holders can request their final payout
+balance via the Seacrest Dashboard by the same deadline."
+[7] Rebrand: "Last year, MyFundedFX rebranded as SeacrestFunded to align with
+Seacrest Markets... The firm continues to offer prop trading with futures
+instruments through MyFunded Futures for now."
+[8] JoinProp gate: "a 15% consistency rule that delayed payouts rather than
+breaching the account — you stayed funded but couldn't withdraw until your
+single biggest day dropped below roughly 20% of total profit."
+[9] JoinProp trail: "1-step trailing drawdown that only locked after +6%
+profit" + "frequent complaints about trailing-drawdown account disables and
+consistency-gated payouts, then denied/delayed final payouts."
+[10] Risk: "Contracts for Difference (CFDs) are complex financial instruments
+and may not be suitable for all investors. Trading CFDs involves substantial
+risks of losing your invested capital."
+================================================================================
+END OF FILE — SEACREST MARKETS COMPLETE (CLOSED PROP — HISTORICAL RECORD).
+================================================================================

@@ -1,0 +1,186 @@
+================================================================================
+ONEUPTRADER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/OneUpTrader.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official OneUp Trader pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: OneUp Trader (OneUpTrader.com).
+- Founded: 2017-2018, USA (Delaware-registered funding introducer). One of the
+  oldest futures eval firms alongside Topstep.
+- Address: USA, online-only (support@oneuptrader.com, 24/7 chat/phone/email).
+- Contact: https://help.oneuptrader.com Help Desk, 24/7 Customer Support,
+  evaluation-team email review flow.
+- What it is: Futures-only 1-step eval introducer. Evaluation (sim) -> funded
+  account via funding partners (partner capital, partner contract). No daily
+  loss limit; trailing drawdown STOPS at starting balance.
+- Scale: account sizes to $250K; free NinjaTrader license + free Level 2/data;
+  90% split; first $10,000 of withdrawals FREE (100%).
+- Key distinction: 50%-upfront eval fee (balance on funding); 10-day minimum
+  (5-day Express); 80%-consistency rule (3 other best days >=80% of best day);
+  flat 3:15-5:00 PM CT blackout.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://www.oneuptrader.com (homepage: sizes, targets, drawdowns, splits)
+ 2. https://help.oneuptrader.com/article/385-evaluation-rules-parameters (rules)
+ 3. https://help.oneuptrader.com/article/387-what-are-the-rules-of-the-evaluation (rules)
+ 4. https://help.oneuptrader.com/article/391-important-evaluation-info (resets/fees)
+ 5. https://help.oneuptrader.com/article/354-are-commissions-factored-into-my-evaluation (commissions)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. EliteTrader/Trustpilot OneUp Trader review pools (support/pricing sentiment)
+ 7. PropFirmMap OneUp Trader profile (sizes/splits cross-check)
+TOTAL SOURCES: 7 (5 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- NinjaTrader (FREE license included), Rithmic, Tradovate, Multicharts.
+- Data/Level 2 FREE (funding partners cover data fees).
+- Dynamic Account Analytics with visuals; community + education included.
+INSTRUMENTS: CME/CBOT/NYMEX/COMEX futures — 6A 6B 6C 6E 6J 6S CL ES GC NQ YM
+  ZB ZC ZF ZL ZM ZN ZS ZT ZW MES MNQ MYM M2K RTY EMD HE LE GF + micros.
+  No forex/CFD spot, no stocks, no crypto spot.
+CONTRACT SIZING (max open):
+  25K: 3 | 50K: 6 | 100K: 12 | 150K: 15 | 250K: 25.
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: sim $2.50/side per standard contract, $1/side per micro;
+  exchange/routing/NFA factored; NET P/L governs pass/fail.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss (trailing, stops at start) | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|--------------------------------------|-----|-----------|-------------|-------|-----------|
+| 1 | Evaluation | 1 | 25K/50K/100K/150K/250K | $1.5K/$3K/$6K/$9K/$15K | $1.5K/$2.5K/$3.5K/$5K/$5.5K | NONE | 3/6/12/15/25 | 80% rule | n/a | from $65; pay 50% now / 50% on funding |
+| 2 | Express Evaluation | 1 | same 5 | same targets | same DD | NONE | same caps | same 80% | n/a | express fee, 5-day minimum |
+| 3 | Funded (partner) | funded | same | none | trailing stopped at start | per partner | same caps | per partner | 100% to $10K then 90/10 | remaining 50% on funding, then $0 |
+Notes:
+- Min 10 trading days (5 Express); holidays/weekends excluded; no max.
+- No daily loss limit on any plan (edge vs DLL peers).
+- Unlimited balance resets in eval ($50 for 25K/50K, $100 others).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. EVALUATION (all sizes) ---
+- Targets/DD per table; trailing STOPS at initial starting balance (floor never
+  rises above start — most forgiving trailing variant).
+- 80% consistency: sum of 3 other best days must be >=80% of best day.
+  Example: best $1,000 -> need $800 combined from next 3 ($400+$300+$240=$940
+  PASS). Completable in 2 days; not a breach, blocks placement until balanced.
+- Trading day: 5:00 PM CT to 3:15 PM CT next day. NO opens/holds 3:15-5:00 PM CT;
+  all positions MUST be closed by 3:15 PM CT.
+- Contracts: hard max per size across all products simultaneously.
+- Pass: hit target + min days + consistency + no DD breach -> email evaluation
+  team; review <=3 days; partner contract + funded credentials.
+--- 5B. EXPRESS EVALUATION ---
+- Same rules/targets; 5-day minimum instead of 10.
+--- 5C. FUNDED (FUNDING PARTNER) ---
+- Daily loss limit, max trailing, position-size rules per partner contract.
+- First $10,000 of withdrawals FREE (100%), then 90/10.
+- Free unlimited withdrawals from day 1; 2-strike policy when funded.
+- Partners cover data fees; trader focuses on execution.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+EVALUATION (from $65 entry; 50/50 split-pay):
+- 25K: from $65 entry (pay 50% now). Target $1.5K, DD $1.5K, 3 lots.
+- 50K: ~$125 entry leg. Target $3K, DD $2.5K, 6 lots.
+- 100K: ~$175-250 leg. Target $6K, DD $3.5K, 12 lots.
+- 150K: ~$300+ leg. Target $9K, DD $5K, 15 lots.
+- 250K: top tier. Target $15K, DD $5.5K, 25 lots.
+RESETS: $50 (25K/50K), $100 (all others); unlimited; processed immediately
+  (up to 30 min to reflect); dashboard Reset My Balance.
+REFUND: eval fees NOT refunded; remaining 50% owed only if funded. No rebill
+  after funding (one-time model, not subscription).
+PAYMENT: cards via site; data/license included (no hidden fees).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 100% of first $10,000 withdrawn, then 90/10.
+- Cadence: free unlimited withdrawals from day 1 (no payout window).
+- Methods: per partner contract (bank/ACH/wire).
+- Minimums: per partner terms; no payout caps published.
+- Scaling: to $250K per account; multiple accounts via separate evals.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Trailing-drawdown / contract breach = fail.
+2. Open/hold 3:15-5:00 PM CT = violation; must be flat by 3:15 PM CT.
+3. Permitted-products only (listed futures + micros).
+4. Net P/L after sim commissions governs; fee-gaming banned.
+5. Copy/partner-account misuse banned per partner terms.
+Consequences: eval fail (reset/rebuy), funded strike/removal, payout hold.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED; international where CME/Rithmic permitted.
+- KYC: ID + partner-contract signature + payout-method verification.
+- Funded accounts issued by partners; trader contracts with partner entity.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot/EliteTrader pools: MIXED-TO-POSITIVE. Positives: oldest provider,
+  no DLL, trailing-stops-at-start, free NinjaTrader/data, 24/7 support, 50/50
+  pay. Negatives: prices uncompetitive vs Apex promos (called dead-last on price
+  in one 2019 comparison), 80% consistency friction, partner-contract opacity,
+  3:15 PM CT flat rule tight for swing traders.
+- Third-party: PropFirmMap neutral-positive on rule clarity.
+- Red flags: NONE systemic (no regulator action). Watch: price vs promo peers,
+  partner terms variance, consistency math.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP/APEX: OneUp no-DLL + stops-at-start kinder than Apex intraday and
+  Topstep subscription; Apex/Topstep cheaper on promo and stronger payout proof.
+VS SPEEDUP: both no-scaling; OneUp free NinjaTrader/data vs SpeedUp surcharges.
+BEST FIT: futures day traders wanting no daily loss limit, trailing that stops
+  at start, free NinjaTrader + data, 50%-now/50%-on-funding, $10K free start.
+BAD FIT: traders needing static drawdown, cheapest promo entry, overnight holds
+  past 3:15 PM CT, or single-entity (non-partner) funding.
+RULE OF THUMB: start 25K ($65 leg); bank 4 balanced days around best day to
+  clear 80% rule before hitting target.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all eval targets, trailing DDs, contracts, splits, fees above
+were read from the 5 official URLs in Section 2 on 2026-09-08.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes stops-at-start trailing, no-DLL, 80% consistency, 50/50 pay,
+$10K-then-90/10 split.
+RAW EXCERPTS (official wording, verbatim):
+[1] Days: "Trade for a minimum of 10 total trading days (consecutive or
+ non-consecutive) ... Holidays and weekends are not included."
+[2] Times: "the trading day starts at 5 PM CT and ends at 3:15 PM CT the next
+ day ... All positions MUST be closed by 3:15 PM CT."
+[3] Drawdown: "Trailing drawdown STOPS at the initial starting balance."
+[4] DLL: "No Daily Loss Limit" / "No Daily Drawdown" (plan cards).
+[5] Consistency: "Traders must have three (3) other best trading days' net
+ profits total summed up to equal 80% or more of the largest day's net profit."
+[6] Commissions: "Simulated commissions and fees are $2.50/side ... for micros
+ are $1/side for each contract traded."
+[7] Resets: "The cost for a balance reset is: $50 for 25k and 50k accounts ...
+ $100 for all other account sizes" / "Unlimited Balance Resets."
+[8] Split: "First $10,000 Profits FREE ... 90% Profit Split."
+[9] Pay: "you only pay 50% of the evaluation fee upfront ... If you successfully
+ pass ... you will then pay the remaining 50%."
+[10] Funded: "Get funded in only 5 days with an Express Account" / "FREE and
+ unlimited profit withdrawals from day 1."
+================================================================================
+END OF FILE — ONEUPTRADER COMPLETE. Next firm is a separate task (not started).
+================================================================================

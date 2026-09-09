@@ -1,0 +1,305 @@
+================================================================================
+WeMasterTrade — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/WeMasterTrade.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official WeMasterTrade pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: WeMasterTrade (WMT, site wemastertrade.com + regional subdomains
+  /es /fr /pt /ru /in /id /th /tr /bn /km /ca /zh /ja /ko /ur /ke /et /uz /de,
+  MENA wemastertrade-mena.com).
+- Legal entities: WeMasterTrade LTD, Saint Lucia registration 2025-00321,
+  Ground Floor Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet,
+  Saint Lucia. Payment agents: WeCopy Fintech LTD (UK 14905703, 71-75 Shelton
+  St London WC2H 9JQ) + Diretio Holding Ltd (Cyprus HE 481457, Limassol).
+  Project arm: WeCopyTrade (wecopytrade.com). Operating as WeCopy Fintech Inc
+  per aggregators; Canada/Vancouver presence cited.
+- Contact: support@wemastertrade.com | +1 855-594-3886 | WhatsApp +1 778-743-0279 |
+  24/5 customer support | Discord invite 5HQtMu24Uq | Telegram t.me/lovewecopytrade |
+  X @WeMasterTrade_ | Instagram @wemastertradeglobal | YouTube @wemastertrade_official |
+  App Store + Google Play (WeMasterTrade app).
+- What it is: CFD simulated-evaluation + instant prop firm. Clients receive
+  SIMULATION accounts with virtual funds; exclusive algorithms copy client trades
+  to live firm accounts generating cash flow. Trading is virtual; rewards are
+  real-money performance shares. Copy-trade model disclosed on homepage.
+- Scale/awards: Best Instant Funding APAC 2026; Best Instant Funding Prop Firm
+  2025; Smart Financial Education Platform 2025; International Accreditation
+  Council + FinCEN certificates displayed; FXVERIFY Transparency Partner.
+- Trustpilot: ~1,800-2,300 reviews; rating SUPPRESSED/unavailable (breach-of-
+  guidelines flag May 2026, 2,262 on file); historical 4.5 claimed. TheTrustedProp
+  Trust 60/100, 3.0/1 review. Propinder 3.2/5. FundedTrading 8.4/10.
+  PropFirmReviews 5.8/10 (rev 6.1->5.8 Jul 2026).
+- Key distinction: Challenge Package (2-phase 8%+6%, 30% Phase-2 share) + Instant
+  Package (51010 / 510Zero / NoPC / Customize, buying power to $40M). Static
+  drawdown, daily payouts, 24h avg payout, 20% Best-Day consistency. Scale to $1M.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://wemastertrade.com (homepage: copy-model, Challenge $45-$320 table,
+    Instant buying-power table, payout rails, entities, bans)
+ 2. https://wemastertrade.com/instant/ (Instant Package benefits)
+ 3. https://wemastertrade.com/payout/ (payout rails + timing)
+ 4. https://wemastertrade.com/capital-and-profit/ (Rewards 50/75/90% progression)
+ 5. https://wemastertrade.com/scale-up-plan/ (scale to $1M)
+ 6. https://wemastertrade.com/calculator/ (reward calculator)
+ 7. https://wemastertrade.com/symbols-overview/ (simulated symbols)
+ 8. https://wemastertrade.com/trading-platforms/ (web/MT5/Match-Trader/cTrader links)
+ 9. https://wemastertrade.com/about-us/ + /certification/ + /press-center/ (identity)
+10. https://faq.wemastertrade.com/ (Top FAQs, privacy, disclaimer, terms, refund, KYC/AML)
+11. https://my.wemastertrade.com/login + /register/ (dashboard/checkout)
+12. https://wemastertrade.com/package-comparison/ + /localpay/ + /testimonials/ (compare/pay/proof)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. FundedTrading WeMasterTrade review Jun 2026 (8.4/10, FT30 code, 50/75/90% table)
+14. PropFirmReviews.net WeMasterTrade review Jul 2026 (5.8/10, suppressed-rating analysis)
+15. TheTrustedProp WeMasterTrade review Aug 2026 (Trust 60/100, TRUSTED30)
+16. TraderFuel We Master Trade review Dec 2025 (firsthand payout, 20%-rule deep dive)
+17. Propinder WeMasterTrade rules Mar 2026 (3.2/5, challenge price table)
+18. JoinProp WeMasterTrader review Jul 2026 (3-phase framing, fee list)
+19. ForexWaveExpert review Jul 2026 + Webzeto/FXVerify Feb 2026 (24-72h payout proof)
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- WeMasterTrade web platform (proprietary) + mobile apps (iOS/Android).
+- MetaTrader 5 (MT5) — EA-friendly.
+- Match-Trader — web/mobile instant accounts.
+- cTrader access links on platform page (some reviews say cTrader/DXtrade/
+  TradingView unavailable — confirm checkout for your package; MT5 + Match-Trader
+  guaranteed).
+- NO MT4, NO DXtrade standalone per Jul-2026 review.
+INSTRUMENTS: Forex, Crypto, Stocks, Indices, multi-asset simulated symbols;
+rich portfolio per /symbols-overview/. Instant focused on one asset type to
+optimize profit (package-dependent). Real market quotes mirrored.
+LEVERAGE / BUYING POWER: Up to 1:100; buying power $500K (5K) to $40M (400K):
+5K $500K, 10K $1M, 25K $2.5M, 50K $5M, 100K $10M, 200K $20M, 400K $40M.
+Per-symbol lower on crypto/stocks. Free-swap standard; swap-free via small fee.
+All costs COUNT toward equity-based daily/max loss.
+COPY MODEL: client virtual trades replicated in real time by WeCopyTrade
+algorithm to live firm account — basis for reward funding.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Steps | Sizes          | Target              | Daily loss | Max loss   | Split              | Fee model          |
+|---|--------------------|-------|----------------|---------------------|------------|------------|--------------------|--------------------|
+| 1 | Challenge Package  | 2     | 10K-100K       | 8% Ph1 + 6% Ph2     | 5%         | 10% static | 0% Ph1 / 30% Ph2 / 90% funded | $45-$320 one-time |
+| 2 | Instant 51010      | 0     | 5K-200K        | none (10% to withdraw variant) | 5% | 10% static | up to 90% (50/75/90% progression) | $44-$1,120 (20% off) |
+| 3 | Instant 510Zero    | 0     | 5K-400K        | 6% to withdraw      | 2%         | 4% static  | up to 90% (reduced if levels unmet) | $35-$1,380 (20% off) |
+| 4 | Instant NoPC/Custom| 0     | varies         | varies (N/A-10%)    | varies     | varies     | varies 50-90%      | varies             |
+Notes:
+- Challenge Phase 2 PAYS 30% share even before funded (unusual).
+- Instant 51010: no target on core variant; 510Zero/NoPC: 6% to withdraw.
+- Static (absolute) drawdown throughout (does not trail) — more breathing room.
+- 20% Best-Day consistency on Phase 2 + Instant funded (see 5F).
+- 30% reset discount after failing Ph1/Ph2. Fee refunded with first funded payout.
+- Scale to $1M max after 2 payouts (no consistency post-scale).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CHALLENGE PACKAGE (2-phase, beginners) ---
+- Targets: 8% Phase 1 ($800 on 10K), 6% Phase 2 ($600), none on funded.
+  Daily 5% ($500), overall 10% static ($1,000). Leverage 1:100. Free swap.
+  Reset discount 30%. No max time advertised.
+- Shares: 0% Ph1, 30% Ph2, 90% funded. Funded eligibility: profit >=6% of start.
+- Consistency: NONE in Ph1; 20% Best-Day in Ph2 (best day <=20% of total).
+- News/swing/scalp: NO limits, no contract-size limits. Weekend/overnight hold OK.
+  EAs + copy trading allowed.
+--- 5B. INSTANT 51010 (experienced, no eval) ---
+- No eval. Daily 5%, max 10% static. No target (core) / 10% to withdraw ($200K
+  variant). Immediate funding. No min days. Payouts on demand.
+- Consistency 20% Best-Day on funded. Risk consistency on $100K+ (max 2% per
+  trade idea). Buying power to $20M ($200K).
+--- 5C. INSTANT 510ZERO / NoPC / CUSTOMIZE ---
+- 510Zero: Daily 2%, max 4% static, 6% to withdraw. Sizes to $400K ($8K daily /
+  $16K max on 400K). Tighter DD, lower fees after 20% off ($35 10K-$690 200K).
+- NoPC: varies; Africa Plus $10K restricted to 54 African countries.
+- Customize: modify selected conditions; price-to-DD ratio changes.
+- 510Zero reduced share if performance levels unmet; NoPC 1% daily variant can
+  cut share to 20% on breach.
+--- 5D. SHARED RULES ---
+- Static drawdown (fixed to initial, never trails).
+- 20% Profit Consistency: best day <=20% of total closed profit. Dashboard may
+  allow 20.01-30% early withdrawal at REDUCED 10% split (not a 30% rule).
+- Risk Consistency: disproportionate sizing vs history flagged; $100K+ max 2%
+  per idea; 51010-NoPC 1% daily variant.
+- News/scalp/swing/EA/copy: ALLOWED (EA-friendly, copy allowed — rare).
+- Funded first payout weekly, then weekly; payout eligibility profit >=6% start.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CHALLENGE PACKAGE (one-time; 30% off codes FT30/TRUSTED30/PROPINDER30/TF):
+10K $45 ($31.50 w/ code) | 25K $100 ($70) | 50K $175 ($122.50) | 100K $320 ($224).
+INSTANT 51010 (20% off shown): 5K $44->$35.20 ($30.80 w/ 30%) | 10K $76->$60.80
+($53.20) | 25K $196->$156.80 ($137.20) | 50K $288->$230.40 ($201.60) |
+100K $552->$441.60 ($386.40) | 200K $1,072->$857.60 ($750.40).
+INSTANT 510ZERO (20% off): 10K $35 | 25K $88 | 50K $175 | 100K $345 | 200K $690 |
+400K $1,380. 51010-$200K variant $1,120 ($896 w/ 20%).
+CUSTOMIZE/NoPC: varies by config.
+PROMOS: FT30 30% (FundedTrading), TRUSTED30 30%, PROPINDER30 30%, TF 30%,
+20% off evergreen on Instant. Free trial + Handbook + Academy + Seminar free.
+ADD-ONS: swap-free small fee; platform select; no split/DD add-ons.
+REFUND: Challenge fee REFUNDED with first funded payout. 30% reset discount on
+retry. Failed phases lose fee minus reset discount. Instant non-refundable.
+Payment: cards, crypto, PayPal, Stripe, Apple/Google Pay, Volet, LocalPay;
+collected by WeCopy Fintech Ltd / Diretio Holding Ltd by region.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: Challenge 0% Ph1 / 30% Ph2 / up to 90% funded. Instant up to 90%.
+  Published progression: 50% first payout, 75% second, 90% from third (package-
+  dependent; 510Zero reduced if levels unmet; 20.01-30% consistency = 10% split).
+- First payout: after meeting package profit target (Challenge funded >=6%;
+  Instant per-package 6-10% or on-demand once eligible). Weekly first, then weekly.
+- Frequency: DAILY payout requests advertised; 24h average processing (8-48h
+  verified; 24-72h typical). Certificates public on site + Discord.
+- Methods: bank transfer (hours-3 days), USDC/stablecoins, Coinbase, PayPal,
+  Wise, Deel Card, Stripe, branded Visa/Mastercard/Amex/JCB, Volet e-wallet.
+  Availability/fees by country.
+- Minimum: no minimum advertised (some docs: profit >=6% to be eligible).
+- KYC required before first payout (document-handling complaints noted — use
+  official portal only, never unencrypted channels).
+- Fee refund with first funded payout.
+- SCALING (Scale Up Plan): after 2 payouts, grow step-by-step to $1,000,000 MAX
+  (Funded Trader MAX); ~10% per cycle; no consistency required post-scale.
+  Buying power scales proportionally.
+- Verified paid: total NOT publicly disclosed (single payout certificates only).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: FAQ Terms + prohibited-conduct refs.
+BANNED (breach = reduction, termination, payout denial):
+1. Exceeding 5% daily / 10% max (Challenge/51010) or 2%/4% (510Zero) — equity-based.
+2. Breaching 20% Best-Day consistency on applicable phases (payout cut to 10%
+   or denial, not auto-breach — keep trading to fix).
+3. Breaching Risk Consistency (2% per idea $100K+; 1% NoPC variant).
+4. Exploiting price/feed errors, latency arbitrage, server spamming.
+5. Hedging across accounts/firms for risk-free profit; abusive arbitrage.
+6. Account sharing; multi-device abuse flags; third-party trading without auth.
+7. KYC fraud; chargebacks; promo abuse (Vietnam/Indonesia promo exclusions).
+ALLOWED (explicit): news trading (no restrictions), overnight/weekend hold,
+scalping, swing, EAs, copy trading (own + strategy-sharing). Rare permissiveness —
+abuse of freedom (gambling/one-day windfalls) still fails consistency.
+Complaint window: platform-error claims to support@wemastertrade.com within 7 days;
+review 5 business days; compensation within 14 days, capped at service fee paid.
+Consequences ladder: split cut (10%/20%), payout denial, suspension, termination.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; one holder per account.
+- USA/CANADA: MT5 NO service to USA/Canada (plus Vietnam, Israel, Russia,
+  North Korea, Iran). General WMT: NO Vietnam, Israel, Russia, North Korea,
+  Iran + some others. US MT5 ban is strictest — use Match-Trader/web where allowed
+  or skip if US-based (confirm checkout geo-block).
+- UK/EU/Australia/Asia/LatAm/Africa: broadly served (20+ languages; Africa Plus
+  package for 54 African countries). MENA via wemastertrade-mena.com (AR/FA).
+- Sanctioned + platform-risk jurisdictions excluded; list can change — dashboard governs.
+- KYC: ID + liveness + address before first payout; matching beneficiary across
+  bank/crypto/card; pending-KYC payout holds reported — pre-verify early.
+- VPN/VPS: allowed but multi-device/IP inconsistency risks flags — keep single device/IP.
+- Promo exclusions: Vietnam/Indonesia excluded from certain promos.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot: rating SUPPRESSED (breach-of-guidelines, 2,262 on file May 2026;
+  ~1,900-2,300 total). Split stark: 4+ smooth payouts vs denied/reduced payouts,
+  KYC-pending holds, locked-after-profit claims. ~1,800-review 4.5 snapshot pre-flag.
+- FundedTrading: 8.4/10 (Pricing 8.3, Rules 8.4, Platform 8.7, Withdrawal 8.5,
+  Features 8.2); FT30 code; warns rule-clarity + termination complaints.
+- PropFirmReviews.net: 5.8/10 (was 6.1); 20%-rule + 2%-risk + fee-opacity + KYC critiques.
+- TheTrustedProp: Trust 60/100, 3.0/1; 50-90% ramp + consistency + MT4 gap flags;
+  Reddit delay/support threads.
+- TraderFuel: Program 9.31/10, Payout 9.8-9.9/10, Pricing 9.4/10; FIRSTHAND PAYOUT
+  received (reliability +); complexity + Trustpilot-warning caveats; start-small advice.
+- Propinder 3.2/5; JoinProp late-2024 newness flag; ForexWave/Webzeto positive
+  (24-72h, 8-48h, public certificates, BD local-bank support).
+- Sentiment positives: $45 challenge (cheapest 2-phase), static DD, 30% Phase-2 pay,
+  daily payouts, broad rails (bank/crypto/cards), EA/copy/news freedom, $1M scale.
+- Recurring complaints: 50%-first/75%-second ramp surprise; 20%/2% consistency
+  confusion; KYC document-handling; fee opacity on $25-100K; account locks above fee.
+- Red flags: Trustpilot suppression (manipulation indicator) + payout-denial cluster.
+  No regulator action, no mass-termination proof. Treat as RULES-SENSITIVE: document
+  compliance, avoid borderline (one-day windfalls, multi-device, heavy scalp).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest 2-phase ($45 10K vs $99-150 rivals) + only firm paying
+30% IN Phase 2 + static DD + daily payouts + copy-allowed + $1M scale. But
+50%-first ramp trails 80%-day-one rivals; 20% consistency stricter than 30-50%
+rivals; MT5-only (no MT4/DXtrade/TV) narrower than multi-platform rivals;
+Trustpilot suppression weaker than 4.5+ rated rivals.
+BEST FIT: budget beginners (Challenge $45, structured 8%+6%); instant seekers
+(51010 no-eval to $200K); copy/EA/news/scalp freedom lovers; daily-payout
+needy; APAC/BD/Africa local-rail users; $1M-scale grinders (2 payouts to start).
+BAD FIT: one-day-star traders (20% cap); >2%-risk idea traders ($100K+);
+MT4/DXtrade/TradingView-locked; US/Canada MT5 needy; Vietnam/Israel/Russia/IR/KP;
+anyone validating SOLELY via Trustpilot headline; large-account first-timers
+(start small per TraderFuel).
+RULE OF THUMB: beginner => Challenge ($45, learn + earn 30% in Ph2); pro hurry
+=> 51010 (no target core); tight-risk pro => 510Zero (2%/4% discipline).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + instant/payout/capital/scale/calculator/symbols/
+platforms/about/FAQ/dashboard/package-compare/localpay/testimonials read
+2026-09-08; pricing cross-checked Jun-2026 FundedTrading, Jul-2026 PropFirmReviews,
+Aug-2026 TrustedProp, Mar-2026 Propinder tables. Promos (FT30/TRUSTED30/TF/20%)
+rotate — re-check checkout. All accounts simulated/virtual.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes copy-algo model, 8%/6% Challenge + 30% Ph2 pay, 51010/510Zero
+buying-power ladder, 50/75/90% ramp, 20%/2% consistency pair, $1M scale.
+RAW EXCERPTS (official wording, verbatim):
+[1] Model: "Our clients receive simulation accounts with virtual funds for
+trading in the virtual world. Additionally, our exclusive algorithms will copy
+the client's trades to our live trading accounts."
+[2] Clone: "Clients are provided with a simulated account. Their trading activity
+on this account is replicated in real-time by our exclusive algorithms to our
+live firm trading account, generating actual cash flow."
+[3] Hero: "Trade Virtually Earn Real Rewards" | "Best Instant Funding APAC 2026".
+[4] Challenge: "You need to achieve a 8% performance-based rewards during this
+challenge phase" | "In this phase, you need to achieve a 6% performance-based
+rewards." | "You will earn up to 90% of the performance-based rewards".
+[5] Challenge pricing: "Phase 1 $45/per time | Phase 2 N/A/per time | Funded
+Refund/per time" (10K) | "$100" (25K) | "$175" (50K) | "$320" (100K) |
+"Maximum Daily Loss 5%" | "Maximum Overall Loss 10%" | "Reward Share N/A / 30% / 90%"
+| "Leverage 1:100" | "Reset Discount 30%".
+[6] Instant: "we fund you $5,000 ... Buying Power $500,000 ... Daily Loss $250 (5%)
+... Max Loss $500 (10%)" through "$400,000 ... $40,000,000 ... $8,000 (2%) ...
+$16,000 (4%)" | "Profit Target To Withdraw 10% / 6% / N/A".
+[7] Freedom: "No limit on news, swing, or scalp trading, no contract size limits"
+| "Hold trades overnight and over the weekend with no restrictions" |
+"Trade the news freely".
+[8] Payouts: "Enjoy hassle-free payouts ... Because you shouldn't wait for your
+money." | "24h Avg Payout Time | 1d Daily Payout | 24/5 Customer Support" |
+"We support payouts via USDC and other stablecoins" | "Bank Transfer — Money in
+the bank within hours".
+[9] Entities: "WeMasterTrade LTD Registration Number 2025-00321 ... Rodney Bay,
+Gros-Islet, Saint Lucia." | "Payments are collected ... by Wecopy Fintech LTD
+(Company Number: 14905703) ... acting as a Payment Agent".
+[10] Bans: "WeMasterTrade does not provide trading accounts service to residents
+of the Vietnam, Israel, Russia, North Korea, Iran and some other countries."
+| "Metatrader 5 platform does not provide ... Vietnam, USA, Canada, Israel,
+Russia, North Korea, Iran ...".
+[11] Risk: "This is not an investment opportunity. You do not deposit any funds
+for investment." | "At no time do you risk your own capital."
+[12] Complaints: "contact support@wemastertrade.com within 7 days ... review and
+respond within 5 business days ... processed within 14 business days." |
+"Compensation is limited to the value of the service fee paid".
+================================================================================
+END OF FILE — WeMasterTrade COMPLETE. Next firm is a separate task (not started).
+================================================================================

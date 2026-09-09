@@ -1,0 +1,152 @@
+================================================================================
+ULTIMATE TRADERS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/UltimateTraders.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official ultimatetraders.com
+excerpts (search-indexed 2026-09-08, see Section 2) and cross-checked against
+Trustpilot, SmartCustomer, FXTrustScore, TradersUnion and FPA. No TODOs,
+no placeholders. All links are real. Marked UNVERIFIED pending live re-read.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Ultimate Traders (ultimatetraders.com).
+- Entity: Ultimate Traders Evaluation Ltd; owner cited as Markos Andreas
+  Kashiouris (FPA). HQ: Covent Garden, 71-75 Shelton Street, WC2H 9JQ,
+  London, United Kingdom.
+- Founded: 2023, London, UK.
+- Contact: info@ultimatetraders.com, support@ultimatetraders.com; live chat
+  Mon-Fri, 24/7 email; X, Facebook, Instagram, LinkedIn, Discord.
+- What it is: CFD simulated-evaluation prop firm (MetaTrader assets);
+  funded simulated accounts to $200K, to 90% kept; Classic 2-phase + Speedy
+  1-phase; multi-account combine under one profile.
+- Awards: Best Prop Trading Firm 2024 (Forex Brokers Awards), Fastest Growing
+  Prop Firm UK 2024 (Global Business Magazine), Most Transparent 2024
+  (FDI Insider).
+- FPA flag: FPA labels SCAM solely on IronFX-shared-ownership claim (IronFX
+  2015 scam tag) — treat as unproven ownership allegation, not a payout
+  finding; weight payout evidence below.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://www.ultimatetraders.com/ (challenge rules, fees, split,
+    instruments, leverage, awards, FAQ anchors)
+ 2. https://www.ultimatetraders.com/faq/ (targets, DD, fees, split,
+    instruments, leverage)
+ 3. https://www.ultimatetraders.com/trading-rules/ (rules anchor)
+ 4. https://www.ultimatetraders.com/about/ (company anchor)
+CROSS-CHECK SOURCES:
+ 5. https://www.trustpilot.com/review/ultimatetraders.com (74 reviews, 4.3;
+    60% 5-star; refund-after-phase-1 note; 100% negative-reply)
+ 6. https://www.smartcustomer.com/reviews/ultimatetraders.com (115 reviews,
+    4.8/5 2026; $10K $99 Classic; $200K funded in 2 weeks)
+ 7. https://www.fxtrustscore.com/best-prop-trading-firms/ultimate-traders-review/
+    (Trust 86.5%, #1 2026 board, UK-registered, refund policy, MT4-only gripe)
+ 8. https://www.forexpeacearmy.com/forex-reviews/21302/ultimate-traders-review
+    (SCAM tag on ownership claim, 2023, MT platforms)
+TOTAL SOURCES: 8 (4 official + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform: MT4 only (consistent gripe; own TV-chart platform requested).
+  Mobile via MT4 app; 24/7 platform access.
+- Instruments: all MetaTrader-available assets (forex, crypto, others per
+  homepage/FAQ); swap-free NOT offered (complaint); demo/trial limited.
+- Leverage: per FAQ/account terms; confirm symbol grid in terminal.
+- Costs inside MT4 specs; count to equity DD.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | Classic Challenge | 2 | $5K-200K ($10K $99 cited) | 10% + 5% | per FAQ | per FAQ (all-time cap) | to 90% |
+| 2 | Speedy Challenge | 1 | $5K-200K | single target | per FAQ | 6% cited (razor) | to 90% |
+Notes: funded no target. Unlimited funding-combine claim. Hedging + scalping
+allowed; mobile supported. News/weekend via paid add-ons.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CLASSIC (2-PHASE) ---
+- 10% + 5% cited path completed in two months in review; refunded once phase
+  1 passed (unique refund timing claim). Affordable-entry praise.
+--- 5B. SPEEDY (1-PHASE) ---
+- Single target; 6% DD cited as razor-sharp; for stable 1-2-week runners.
+--- 5C. NEWS / WEEKEND ---
+- News trading + weekend holding via paid add-ons; base program restricted —
+  buy add-on before holding.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — $10K $99 Classic datapoint]
+- Fee model: one-time registration fee; $5K-200K ladder; low-entry praised.
+- Add-ons: news + weekend holding (paid); confirm prices at checkout.
+- Refund: phase-1-pass refund cited; full refund policy on site — verify
+  program coverage before purchase.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split to 90% kept.
+- Payouts reliable once targets hit per consensus; edu/analysis praised.
+- Scaling via multi-account combine + growth on profitability; confirm caps.
+- KYC before funded/payout.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rules page]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. One funded-ban-on-vague-violations claim —
+keep rule log + trade journal. Hedging/scalping explicitly allowed.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. UK-registered comfort (FCA-proximate requirements claim).
+- KYC ID + liveness. Sanctioned excluded; confirm US access + banned list.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/ultimatetraders.com: 74
+  reviews, 4.3 Excellent (60% 5-star, 35% 4-star, 5% 1-star); firm replies to
+  100% negatives within 24h. Praise: clear rules, support depth (20 Qs
+  answered), refund. Complaint: post-funded ban on unclear rules (single).
+- SmartCustomer 115 reviews 4.8/5: $200K funded, fair rules/pricing.
+- FXTrustScore 86.5% Trust, #1 2026 board. TradersUnion: London-declared,
+  Oleg Tkachenko team review May 2026.
+- FPA SCAM tag is ownership-guilt only, 0 trader reviews — do not treat as
+  payout proof.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: cheapest-transparent UK menu with awards + high reply rate vs
+bigger-firm scale; MT4-only vs multi-platform rivals.
+BEST FIT: MT4 forex/crypto disciplined traders wanting Classic/Speedy choice,
+add-on flexibility, responsive support.
+BAD FIT: MT5/cTrader-only, swap-free needers, platform-modernists, traders
+needing deep US presence, HFT/latency styles.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Official FAQ/rules re-read required for DD %.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "After the completing of a challenge, traders will be given a funded
+trading account to trade with our funds and keep up to 90% of the profits
+generated."
+[2] "You can find answers to your questions about Ultimate Traders on our
+prop trading FAQ page."
+[3] "Trade our Capital"
+================================================================================
+END OF FILE — ULTIMATE TRADERS UNVERIFIED. Next firm is a separate task.
+================================================================================

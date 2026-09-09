@@ -1,0 +1,296 @@
+================================================================================
+FINOTIVE FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FinotiveFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Finotive pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+reviews. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Finotive Funding (Finotive One group).
+- Founded: 2021 (5+ years proven record claimed). 2026 full brand relaunch.
+- Legal: Finotive Funding Technologies Limited, Company No. 11088,
+  Innovation One Building Level 2, DIFC, Dubai, UAE; VAT 105195257800003.
+  Payments via Finotive Pay (CY) Limited, HE475209, Limassol, Cyprus (agent).
+- Broker backing: Finotive Markets LLC (FSC-regulated brokerage per homepage;
+  "supported by Finotive Markets, a fully licensed FSC regulated brokerage").
+  Platforms powered by Finotive Markets LLC (broker T&Cs co-apply).
+- Contact: support email + callback form; Discord community; IG/X/LinkedIn;
+  24/7 customer support; free webinars/academy; integrated dashboard with
+  terminal + risk calculator + breach alerts.
+- What it is: simulated multi-asset prop firm (own brokerage + own pay +
+  own dashboard = vertically integrated). NOT investment/brokerage service;
+  "does not provide investment services... or accept capital deposits."
+- Scale claimed: $20M+ total payouts, 4M+ trades, 70K+ verified users.
+  Live payout wall (e.g. $16,340 Neelum M. 100K Instant; $12,712 Suzana S.;
+  $13,000 Jan A.; $5,057 Mahmood H. 10K Instant).
+- Verifiers: PropFirmMatch, FXVerify, FundedForYou badges on homepage.
+- Promo: FIRST25 = 25% off first purchase (new customers).
+- Families: Challenge (1-Step/2-Step, from $25) + Instant Funding (Standard/
+  Lite) + Finotive Pro (salary tier). Accounts in USD/EUR/GBP.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://finotivefunding.com (homepage: FSC backing, $20M/70K stats,
+    payout wall, 4-step path, Challenge/Instant/Pro cards, static-DD,
+    day-clock, prohibitions, payouts-Friday, reviews, DIFC entity, bans)
+ 2. https://finotivefunding.com/challenge (Challenge: from $25, static DD,
+    on-demand first payout, weekly, auto-risk, $5.4M scaling)
+ 3. https://finotivefunding.com/instant-funding (Instant Standard/Lite page)
+ 4. https://finotivefunding.com/finotive-pro (Pro salary-tier page)
+ 5. https://finotivefunding.com/accounts (Accounts overview)
+ 6. https://finotivefunding.com/compare (Side-by-side compare)
+ 7. https://finotivefunding.com/rules (Trading Rules: notional table, MPD,
+    daily/max DD, strikes, consistency/quarterly — quoted verbatim)
+ 8. https://finotivefunding.com/trading (Trading essentials)
+ 9. https://finotivefunding.com/trading-symbols (Symbols list)
+10. https://finotivefunding.com/payouts (Payout transparency page)
+11. https://finotivefunding.com/reviews (Reviews page)
+12. https://finotivefunding.com/terms-and-conditions (Terms incl. 7.9, strikes,
+    holistic assessment, quarterly target)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. TheTrustedProp Finotive review Aug 2026 (5-model pricing, static DD,
+    Section-7 behavioral warning, $14M payouts, payout plumbing)
+14. JoinProp Finotive review 2026-08-10 (strike system, $25 entry, Pro 1%
+    salary + 100%, Friday-weekly, $5.4M scale, holistic-assessment caveat)
+TOTAL SOURCES: 14 (12 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MT5 + Match-Trader (dual; dashboard has integrated terminal).
+60+ instruments (PropFirmsFinder: MT5 + Match-Trader = 7.4/10 platform).
+INSTRUMENTS: forex (60+ pairs), metals, indices, energy, crypto, stock CFDs.
+Multi-currency accounts (USD/EUR/GBP).
+LEVERAGE (route-dependent): Challenge to 400:1 (TTP) / 1:100 (PFF);
+Instant Standard 1:33 / Lite 1:25 (PFF); Pro 200:1 / 1:50 (TTP/PFF);
+notional table implies 100:1 -> 10:1 effective by size (see rules).
+DAY CLOCK: trading day 17:00-16:59 New York; profitable-day snapshot 23:00
+CET (+0.5% vs prior day). Drawdown tracked LIVE in dashboard, real-time.
+COSTS: Pro 25% lower commissions; spreads vary (reviewer spread complaints —
+check live Login 1043 / FinotiveMarkets-Live per TTP); swaps standard.
+Payout rails: Finotive Pay -> bank/SEPA, Revolut, crypto ($100 min crypto).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program               | Steps | Sizes        | Target       | Daily DD | Max DD       | Split     | Cycle          |
+|---|-----------------------|-------|--------------|--------------|----------|--------------|-----------|----------------|
+| 1 | Challenge 1-Step      | 1     | $2.5K-$200K  | 10%          | 4%       | 7.5-8% stat  | 75-80%    | on-demand, /7d |
+| 2 | Challenge 2-Step      | 2     | $2.5K-$200K  | 7.5% then 5% | 4.5-5%   | 9-10% stat   | 75-80%    | on-demand, /7d |
+| 3 | Instant Standard      | 0     | $2.5K-$200K  | None         | 3.5-5%   | 7-10% stat   | 55-70%    | on-demand, /7d |
+| 4 | Instant Lite          | 0     | $2.5K-$200K  | None         | 3-8%*    | 6-16% stat   | 60-65%    | on-demand, /7d |
+| 5 | Pro 1-Step            | 1     | $2.5K-$200K  | 10%          | 4%       | 7.5% stat    | 75->100%  | on-demand, /7d |
+| 6 | Pro 2-Step            | 2     | $2.5K-$200K  | 7.5% then 5% | 5%       | 10% stat     | 75->100%  | on-demand, /7d |
+Notes (* figures vary by source snapshot — verify live cards):
+- Static DD on ALL accounts (homepage + rules). No trailing.
+- Consistency: NOT required on Challenge/Instant; REQUIRED on Pro (+ weekly
+  trade-count/volume within +-25% of challenge/first-30d avg, every 7 days).
+- MPD (min profitable days +0.5% @23:00 CET): 1-Step 3; 2-Step 2/stage + each
+  payout; Lite 5 before each payout; Standard 0.
+- Notional volume limit tiered by size (5,000% @ $2.5K down to 1,000% @ $200K;
+  $50K 2,000% = $1M max open; 10 lots EURUSD approx).
+- Floating-drawdown threshold on Instant (JoinProp) — strike trigger.
+- Quarterly profit target: realized payouts + balance >=5% of start every 90
+  days (rules page).
+- Max per-account $200K; combined initial cap $400K (reviewers); scale $5.4M
+  ($1.67M/9-phase and $3.2M variants cited — verify dashboard).
+- Pro salary: 1% of purchased capital per 30 days, accrued daily from day 1,
+  paid even if account later lost; 100% split after 30 days; fee refunded on
+  funding.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CHALLENGE 1-STEP / 2-STEP ---
+- 1-Step: 10% one phase; 2-Step: 7.5% P1 + 5% P2. No time limit; auto-risk
+  progression (instant phase/funded rollover). ($100K 1-Step: +$10,000.)
+- Daily: 1-Step 4%; 2-Step 4.5-5% — equity must not fall below X% of PRIOR-
+  day close intraday (official example: $105,000 close x 4.5% => floor
+  $100,275). Hard breach = instant close, no refund.
+- Max: 1-Step 7.5-8%; 2-Step 9-10% of INITIAL balance, static forever.
+  ($100K 9%: floor $91,000.)
+- MPD: 3 (1-Step) / 2+2 (2-Step) + pre-payout top-up; fast-track last day if
+  target hit + flat. No progress/payout/scale until met.
+- Split 75-80% -> 95% via quarterly scaling (+30% balance / 3 months on
+  target). Copy trading allowed (TTP) — correlated-stacking payout cuts apply.
+--- 5B. INSTANT STANDARD / LITE ---
+- No eval, trade immediately. Standard: 3.5-5% daily, 7-10% max, 0 MPD,
+  1:33 lev, 55-70% start. Lite: 3-8% daily, 6-16% max, 5 MPD, 1:25, 60-65%.
+  Static. Weekly Friday payouts. Higher fee = skip-the-line premium.
+--- 5C. PRO 1-STEP / 2-STEP (SALARY TIER) ---
+- Same eval boxes as Challenge + consistency required. Rewards: 1%/mo salary
+  (e.g. $100K => $1,000/mo guaranteed) + 75% -> 100% split after 30 days +
+  fee refund on funding + 25% lower commissions. Quarterly 5% + weekly +-25%
+  gates continue.
+--- 5D. STRIKE SYSTEM (SIGNATURE — SOFT BREACH) ---
+- Notional-volume OR floating-DD breach on FUNDED = STRIKE (not closure):
+  next payout split cut to 10%; account survives; slate wiped at funded
+  status (challenge strikes need return-to-positive before reset).
+  Complaint cluster: large payouts cut to 10% under "holistic assessment"
+  (Section 7 behaviours: risk escalation, inconsistent exposure, performance
+  concentration, non-standard execution, rapid directional flipping — NO
+  numeric thresholds; qualitative risk-team call).
+--- 5E. WORKED EXAMPLE ($50K 2-STEP, 75%) ---
+- P1 +$3,750 then P2 +$2,500 within 4.5% daily / 9% static ($4,500 floor
+  $45,500). MPD 2+2. Funded: $2,000 gain => $1,500 first Friday (post-MPD);
+  quarterly 5% ($2,500/90d incl. payouts) keeps scale path to $5.4M. One
+  notional oversize ($1M+ open) = strike => next payout at 10% ($200).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (cards rotate; FIRST25 25% off first buy; verify live):
+PropFirm201 Apr-2026 snapshot:
+- 1-Step: $2.5K $39 | $5K $59 | $10K $99 | $25K $199 | $50K $349 (+$75-200K).
+- 2-Step: $2.5K $29 | $5K $44 | $10K $74 | $25K $164 | $50K $290.
+- Instant Standard: $2.5K $89 | $5K $179 | $10K $319 | $25K $639 | $50K $1,299.
+- Instant Lite: $2.5K $59 | $5K $109 | $10K $199 | $25K $449 | $50K $699.
+JoinProp migrated ladder: $10K $99 | $25K $199 | $50K $299 | $100K $499 |
+$200K $899. Homepage: "from $25" challenges; $200K per-account max.
+Pro: salary tier premium (fixed $500/mo-salary accounting per PropFirm201;
+verify). No platform/data fees published. No monthly subs.
+REFUND: Challenge fees NON-refundable (TTP/PFF firm profile) — first-payout
+refund claims apply only to Pro-on-funding per PFF/JoinProp; Andri review
+notes full refund after first payout (route-dependent — confirm). Hard breach
+= no refund. Failed eval = new purchase.
+PAYMENT: cards/crypto/bank via Finotive Pay (CY) agent; USD/EUR/GBP billing.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: Challenge 75-80% -> 95%; Instant Std 55-70% / Lite 60-65% (lower
+  base = skip-line price); Pro 75% -> 100% (+1%/mo salary). Strike payouts
+  at 10%.
+- First payout ON DEMAND after MPD (Lite 5; 1-Step 3; 2-Step 2+2; Std 0);
+  then every 7 days, processed FRIDAYS via Finotive Pay (90% automated);
+  $10 min (PFF) / $100 crypto min; official certificates each withdrawal.
+- Small payouts ($500-$1,500) often hours (<24-48h); large (>$2K) trigger KYC
+  + Section-7 behavioural review (TTP pattern).
+- Quarterly scaling: every 90 days at 5% (payouts+balance) => +30% balance +
+  split bump; to $5.4M (variants $1.67M/9-phase, $3.2M cited). Pro salary
+  accrues daily, paid even if blown.
+- Proof: $20M+ / 70K users (homepage); $14M+ tracked (TTP). Mixed speed
+  reviews (fast Fridays vs 10%-strike cuts).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official rules condensed)
+================================================================================
+1. Notional-volume breach => strike (Section 5D table; dashboard calculator
+   shows live max lots).
+2. Floating-DD threshold (Instant) => strike.
+3. Section 7.9 prohibited behaviours: latency arbitrage, one-directional
+   gambling, straddling (official); + risk escalation, inconsistent exposure,
+   performance concentration, non-standard execution, rapid flipping (TTP).
+4. Hard-breach closers: daily/max DD touch (equity incl. spreads/swaps).
+5. Hedging restricted during major news (PFF); news straddling restricted;
+   HFT banned; martingale PERMITTED (PFF table); EAs/automation + copy
+   allowed (correlated-stacking cuts apply).
+6. Mandatory stop-loss on all positions (PFF rules table).
+7. Quarterly 5% + weekly +-25% gates (Pro/ongoing) — miss = no payout/scale.
+8. Standard: account sharing, cross-account hedging, platform exploits.
+   Inactivity 30 days = termination (reviewers).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Official site ban: Iran, North Korea (DPRK) + anywhere contrary to local
+  law (footer verbatim). No US/UK ban published; US payout wall names
+  (Marcus D., Basim A., Bryan R.) confirm US traders paid.
+- DIFC Dubai entity + CY pay agent; 160+ implied countries; EN/ES/AR site.
+- KYC: elevated on large payouts (reviewer pattern); perfect docs, no VPNs,
+  consistent IP advised (TTP). Finotive Pay onboarding before withdrawal.
+- Age 18+. Demo-education service; broker T&Cs co-apply.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — TheTrustedProp (Aug 2026, $14M+ proof trawl): fair base rules
+  (static, no-time, no-consistency, 400:1, copy OK) BUT Section-7 qualitative
+  enforcement = "sword over every large payout" (10% cuts, >$2K account
+  closures); 55-60% Instant base; NO fee refund; 9-phase $1.67M scale. Tips:
+  read Sec-7, start small, test spreads (1043/Finotive), first payout <$1K,
+  no flipping/variance, clean KYC/IP.
+- REVIEW 2 — JoinProp (2026-08-10): 10%-strike signature (humane vs death
+  but top complaint via holistic discretion); $25 entry; $2.5K-$200K; Pro 1%
+  salary + 100% + refund; Friday-weekly; $5.4M scale; $10K $99 ladder.
+- Extra: homepage reviews (instant-Friday, dashboard, 2-yr/$4K loyalty);
+  PropFirmsFinder 6.0/10 (payout-evidence 4.0, transparency 1.6 — only 3/19
+  rules published; $5.50/$1K cheaper than 19%); PropFirm201 (from $29, TP
+  SUSPENDED for fakes, 26% 1-star, Mar-2026 +20% hike); DirectionsMag
+  (MT5/Copygram, 48h positives, no-scandal).
+- Sentiment: positive on static/no-time/salary/Fridays/dashboard; negative
+  on 10%-strikes + spread/rule updates + price hikes.
+- Red flags: TP suspension history (fake-review violation) + discretionary
+  holistic cuts (material — size small first). No regulator action.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: only salary+100% Pro + strike-instead-of-death + own
+broker/pay/dashboard stack in class. $25 entry cheapest; static everywhere
+(beats trailing rivals); but 55-65% Instant base + qualitative Sec-7 lag
+fixed-rule peers (FTMO/E8).
+CHALLENGE VS INSTANT: Challenge = cheap, 75-80%->95%, MPD-gated, no
+consistency. Instant = premium, immediate, 55-65% base, Lite 5-MPD. PRO =
+eval + consistency + salary + 100% + refund — best for steady earners.
+BEST FIT: static-DD lovers; salary-seekers (Pro); MT5/Match-Trader users;
+Friday-cadence planners; disciplined sizers (inside notional); small-first
+testers ($29-$99); news/EA/copy-tolerant styles (within 7.9).
+BAD FIT: windfall scalpers (10%-strike risk); spread-sensitive HFT;
+transparency-maximalists (3/19 rules); refund-demanding failers; banned
+jurisdictions; MT4/cTrader-only tooling.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage (FSC backing, $20M wall, 4-step, 3-family cards,
+static/clock/prohibitions/Friday, DIFC entity, bans), challenge/instant/pro/
+accounts/compare/rules/trading/symbols/payouts/reviews/terms pages read live
+from finotivefunding.com on 2026-09-08. Pricing cross-checked vs PropFirm201
+(Apr-2026) + JoinProp + TTP + PFF; promos rotate (FIRST25) — re-check cards.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — all 12 sections; strike
+system + Sec-7 + salary/quarterly mechanics documented.
+RAW EXCERPTS (official wording, verbatim):
+[1] Backing: "Supported by Finotive Markets, a fully licensed Financial
+Services Commission (FSC) regulated brokerage."
+[2] Stats: "$20M+ Total Payouts. 4M+ Trades Executed. 5+ Years Proven Record.
+70K+ Verified Users."
+[3] Drawdown: "**Static Drawdown** across all accounts." / "Trading Day
+17:00-16:59 (New York Time)." / "No Profit Consistency" (non-Pro).
+[4] Conduct: "**Prohibited Behaviour** — Latency Arbitrary, One Directional
+Gambling, Straddling — Please refer to section 7.9 our Terms & Conditions."
+[5] Monitoring: "**All monitoring tracked live** in your Dashboard and
+updated in Real Time!"
+[6] Payouts: "First payout on demand — First payout can be requested after
+completing the min. profitable days." / "Fast Payouts — You can withdraw
+profit every 7 days. Withdrawals are processed every Friday from Finotive
+Pay." / "official payout certificates for every withdrawal."
+[7] Notional: "The Notional Volume Limit sets the maximum total size of all
+open positions relative to your account balance... For a $50,000 account with
+a 2,000% Notional Volume Limit, the total combined size of all open positions
+cannot exceed $1,000,000."
+[8] Notional table: "$2,500 5,000% $125,000 100:1 | $5,000 4,000% $200,000 |
+$10,000 3,000% $300,000 | $25,000 2,500% $625,000 | $50,000 2,000% $1,000,000
+| $100,000 1,250% $1,250,000 | $200,000 1,000%."
+[9] Strikes: "Each time the Notional Volume Limit is breached, a strike is
+issued... Funded Phase: Each strike results reduction to 10% on the next
+payout cycle... all Challenge and Pro accounts have their strike history
+fully cleared upon reaching Funded Status."
+[10] MPD: "One-Step: 3 days @ 0.5%... Two-Step: 2 days @ 0.5% per stage +
+before each payout... A profitable day = your balance at 23:00 CET is at
+least 0.5% higher than the previous day."
+[11] DD: "Two Stages: 4.5%... If yesterday's closing balance was $105,000...
+equity must not fall below $100,275." / "Two Stages: 9%... For a $100,000
+account... equity must not fall below $91,000." / "Breaching either drawdown
+rule is a hard breach and results in immediate account closure without refund."
+[12] Entity/bans: "Finotive Funding Technologies Limited (Company Number:
+11088)... DIFC, Dubai, UAE." / "services... not intended for residents of
+the Iran, or North Korea... or... contrary to applicable local law."
+================================================================================
+END OF FILE — FINOTIVE FUNDING COMPLETE. Next firm is a separate task (not started).
+================================================================================

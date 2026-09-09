@@ -1,0 +1,146 @@
+================================================================================
+COINTRacts — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Cointracts.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://cointracts.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Cointracts (cointracts.com). Jurisdiction on file: UAE per PFM.
+  Est. Jan 2025. Founders listed by PFM: Jasmine Keith Ceballo, Frank,
+  Muhammad Azam Khan, Aniekan Udofia, Sabarinathan — verify vs registry.
+- Positioning: Crypto-only prop firm; funded $2K-$100K (PFM: 12 challenges
+  $2K/$5K/$10K/$25K/$50K/$100K from $24.90); no KYC; 90% split headline;
+  daily payouts; challenge-fee refund on first payout (verify).
+- Contact [UNVERIFIED]: UAE listing; site support / learning hub.
+- What it is [UNVERIFIED]: Simulated evaluation + live-mode funded after pass.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://www.cointracts.com/ (homepage: learn/trade, up to $100K)
+ 2. https://www.cointracts.com/crypto-prop-trading-firm (80% funded, any-time
+    payouts, $6K-$100K — reconcile vs $2K PFM read)
+ 3. https://www.cointracts.com/learning-hub/crypto-prop-challenge (challenge
+    mechanics, 50-90% splits context)
+ 4. https://www.cointracts.com/learning-hub/crypto-prop-firm-withdrawals
+    (Stage 1/2 locked, funded withdrawal flow, 50 USDT minimum cited)
+CROSS-CHECK (third-party, real links):
+ 5. https://propfirmmap.com/firms/cointracts (4.9, Grade D, 2.2/105 TrustPilot)
+ 6. https://www.trustpilot.com/review/cointracts.com (4.5/35 + 2.2/105 split reads)
+ 7. https://www.thestockdork.com/cointracts-review (8/10, $19-$579, 90%)
+ 8. https://www.myfxbook.com/reviews/prop-trading-firms/cointracts/3258467,1
+TOTAL SOURCES: 8 (4 official to verify + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: proprietary terminal per PFM (no MT4/MT5). Verify.
+- Instruments [UNVERIFIED]: crypto only; 24/7 access. Verify pair count.
+- Leverage [UNVERIFIED]: capped 1:5 conservative per TSD + PFM. Verify.
+- No-KYC policy unusual even among crypto firms — verify current KYC stance
+  (TSD) before relying.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official pricing page]
+| # | Program | Target | Daily loss | Max loss | Split |
+|---|---------|--------|------------|----------|-------|
+| 1 | 2-Step Evaluation Ph1 | 8% | 5% | 10% (overall, no trailing opt) | up to 90% |
+| 2 | 2-Step Evaluation Ph2 | 5% | 5% | 10% | up to 90% |
+| 3 | 1-Step (PFM-listed) | per FAQ | 4% | per FAQ | up to 90% |
+Notes: no time limit either phase per TSD. Funded no target. 1:5 leverage.
+30-day inactivity closure per PFM — verify.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. PHASE 1 [UNVERIFIED] ---
+- 8% target, 5% daily, 10% overall max per TSD/Myfxbook. Profits locked in
+  evaluation. Verify EOD vs intraday + trailing/static reference.
+--- 5B. PHASE 2 [UNVERIFIED] ---
+- 5% target, same 5%/10% risk rails. Verify.
+--- 5C. 1-STEP VARIANT [UNVERIFIED] ---
+- 4% rule (PFM drawdown field) — verify target/daily/max on official picker.
+--- 5D. NEWS / WEEKEND / STRATEGY [UNVERIFIED] ---
+- 24/7 crypto trading; flexible strategy rules claimed. Verify news/EA/copy/
+  hedging/stop-loss clauses on terms before trading.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- One-time fees: TSD $19 ($2K) to $579 ($100K); PFM from $24.90 + 20% code
+  start20. No recurring fees per TSD. Reconcile $2K vs $6K floor on official.
+- Funded: ongoing 90% profit-share model, no renewal per TSD. Verify.
+- Refund: challenge fee refund upon first payout per TSD verdict — verify
+  exact eligibility in terms.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: up to 90% (homepage advertises up to 90%; FAQ states 80% per PFM —
+  inconsistency flagged; confirm per-plan %).
+- Frequency: daily per PFM; first withdrawal after 14 trading days, then on-
+  demand within 24h; USDT (ERC20/TRC20) or fiat; 50 USDT minimum per learning
+  hub. Verify.
+- Scaling: confirm max allocation/scale plan on official terms.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm terms]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. Verify EA/copy/HFT/news/scalp clauses;
+terms state funded enters live mode only after evaluation — verify semantics.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- No-KYC required per TSD (privacy-first) — verify current stance; KYC may
+  still trigger at payout/fraud review.
+- Age 18+. Banned-country list not captured — verify terms. UAE operator;
+  unregulated prop (not a broker).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Trustpilot split reads: 4.5/5 (35 reviews, payout-in-15-min praise, crypto-
+  best claims) vs PFM-cited 2.2/5 (105 reviews) with high-risk-investment
+  notice — reconcile live profile before relying.
+- PFM: 4.9, Grade D High Risk; cheap entry, 90% matches group typical; flags:
+  1:5 leverage, overall-only DD, 30-day inactivity, 80/90% inconsistency, no
+  registry filing, uncorroborated founders.
+- TSD: 8/10; privacy + flexibility praised; limited track record (2025 launch,
+  no audits) + crypto-only + 1:5 cap as tradeoffs.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: experienced crypto-only traders wanting private no-KYC access,
+  no time limits, 90% headline split, fast USDT payouts.
+- Bad fit: beginners without risk discipline, multi-asset traders, high-
+  leverage traders, anyone needing audited payout history.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — COINTRacts UNVERIFIED. Next firm is a separate task.
+================================================================================

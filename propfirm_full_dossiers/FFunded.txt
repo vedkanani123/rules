@@ -1,0 +1,263 @@
+================================================================================
+FFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FFunded.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official ffunded.com pages
+(live-fetched homepage + help centre 2026-09-08, see Section 2) and
+cross-checked against Trustpilot and prop-aggregator listings. No TODOs,
+no placeholders. All links are real. Marked UNVERIFIED pending a full
+pricing-table re-read (JS-rendered plan cards).
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FFUNDED (brand operated by Anget Holdings Ltd.).
+- Legal entity: Anget Holdings Ltd., International Business Company registered
+  in Saint Lucia, Registration No. 2026-00523.
+- Registered office: Ground Floor, The Sotheby Building, Rodney Village,
+  Rodney Bay, Gros-Islet, Saint Lucia.
+- Launched: 2026 (waitlist phase, then live launch with LAUNCH50 50% off
+  first-week promo per homepage banner).
+- Contact: live chat, email, Discord community (discord.gg/Su3XqqSR8h per
+  homepage), support section of client dashboard. No bots, humans first.
+- What it is: CFD (Forex, indices, metals, energies, crypto) + Futures SOON.
+  ALL accounts are simulated/demo with virtual capital; payouts are real money
+  based on simulated performance. Nothing on site is financial advice.
+- Scale claimed on ffunded.com: 85% profit paid to traders, 180+ countries
+  supported, Weekly payout cycle, $3M max allocation (marketing band);
+  checkout caps combined simulated capital at $600,000 across all accounts.
+- Trustpilot: 4.1 TrustScore badge displayed on homepage at fetch time.
+- Affiliates + referral program offered; Academy, Blog, economic calendar,
+  pip/lot/position/risk/margin calculators in-house.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://www.ffunded.com/ (homepage + full help centre FAQ text:
+    getting started, plans, evaluations, instant, rules, payouts, account,
+    platform, compliance/KYC, support; footer legal + restricted list)
+ 2. https://www.ffunded.com/crypto-prop-firm (plan families: Instant, 1-Step,
+    2-Step Standard, 2-Step Pro, 3-Step; 85% standard rising to 95%; $5K-400K;
+    no time limit; size/rhythm consistency notes)
+ 3. https://www.ffunded.com/prop-firm-profit-split (85% baseline, 90% checkout
+    upgrade, milestone path to 95% per blog index excerpt)
+ 4. https://www.ffunded.com/best-instant-funding-prop-firms (Advance/Scale
+    refundable-fee note; instant-vs-challenge math)
+CROSS-CHECK SOURCES (third-party, for reviews only):
+ 5. https://www.trustpilot.com/review/ffunded.com (4.1 badge at fetch time)
+ 6. https://propfirmmatch.com/ (search FFUNDED — thin coverage, new firm)
+TOTAL SOURCES: 6 (4 official + 2 cross-checks). Status UNVERIFIED pending
+pricing-table numeric re-read.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform: proprietary in-house platform (web terminal, desktop app, iPhone
+  app, Android app, live sync, single login). No MT4/MT5/cTrader; dashboard
+  demo explorable live with no sign-up.
+- Dashboard: built in-house with live rule engine; shows live daily/max
+  drawdown, profit target, warning status, min profitable days, max exposure,
+  next payout date, Risk Monitoring card (overnight/weekend thresholds,
+  exposure calculator). Real-time warning and breach status.
+- Instruments: Forex, indices, metals, energies, crypto CFDs; futures
+  contracts listed as SOON (separate market on pricing page when live).
+  Examples on homepage: XAU/USD, EUR/USD, BTC/USD, US100, US500, USOil.
+- Leverage: plan- and size-dependent; exact figure shown on plan card and in
+  dashboard before start. Confirm at checkout.
+- Trading day: 5pm New York to 5pm next day; daily limits reset 17:00 New York.
+- Costs: swaps accrue across 17:00 New York rollover; overnight holding sold
+  as Swap-Free add-on (20% of fee Instant, 15% evaluation). Commissions/spreads
+  per in-house feed; verify inside terminal.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED numeric targets — plan cards are JS-rendered; framework confirmed]
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | Instant Funding | 0 | $5K-400K ladder | none | 3-5% per plan | 6-10% STATIC floor | 85% to 95% |
+| 2 | 1-Step | 1 | $5K-400K ladder | single target per card | 3-5% | 6-10% static | 85% to 95% |
+| 3 | 2-Step Standard / Pro | 2 | $5K-400K ladder | staged targets | 3-5% | 6-10% static | 85% to 95% |
+| 4 | 3-Step | 3 | $5K-400K ladder | smaller staged targets | 3-5% | 6-10% static | 85% to 95% |
+Notes:
+- Funded has no profit target on any program.
+- No maximum time limit on any evaluation; 30-day inactivity close applies.
+- Max drawdown is STATIC floor from starting balance; does NOT trail up.
+- 2-Step has no payout-consistency rule; Instant + 1-Step have 50% best-day
+  payout rule (Section 5).
+- Prices are one-time joining fees; evaluation fees refundable in full with
+  first payout; Instant fees not refundable.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT FUNDING ---
+- Profit target: none; already funded from day one.
+- Daily drawdown: 3-5% from prior-day close including floating; resets 17:00 NY.
+- Max drawdown: 6-10% static floor from starting balance; breach ends account.
+- First payout 14 days after first trade, then rolling 14-day cycle.
+- Payout consistency: best profitable day must be <=50% of total profit in
+  payout period or request waits (never breaches, never removes profit).
+- Weekend holding of non-crypto over weekend may need Weekend Holding add-on;
+  crypto exempt. Overnight needs Swap-Free add-on or be flat at 17:00 NY close.
+- Funded news restriction: no opening/adding inside high-impact window, no
+  holding through release. HFT prohibited on Instant.
+--- 5B. 1-STEP EVALUATION ---
+- Single evaluation target per plan card; on final required day, hitting target
+  intraday lets you close and progress immediately.
+- Daily + max drawdown as above (static max). Losing day alone never fails.
+- Minimum profitable days per plan card (NY day, positive net closed profit,
+  no percentage threshold), auto-counted in dashboard.
+- Challenge news trading allowed during evaluation.
+- Same 50% best-day payout-consistency rule as Instant once funded.
+- Single-Trade Profit Dependency <=60% and One-Sided Concentration <=70%
+  apply on every plan (see 5D).
+--- 5C. 2-STEP (STANDARD + PRO) AND 3-STEP ---
+- Staged targets (2-Step splits into two smaller targets; 3-Step into three).
+  Same daily/static-max mechanics and min-days logic as 1-Step.
+- No payout-consistency rule on 2-Step during evaluation or funded.
+- 3-Step keeps news trading even when funded (per FAQ); other funded accounts
+  restrict news-window opens/adds/holds.
+- Warning history cleared on passing to funded; fresh funded credentials.
+--- 5D. CROSS-CUTTING RISK RULES (all plans) ---
+- Warning system: soft rules (max exposure, HFT, floating loss per trade)
+  give formal warning, trading suspended, free Challenge Reset required
+  (closes positions, restores starting balance, restarts progress, keeps
+  warnings). Two warnings on one rule breaches permanently. Each rule counted
+  separately. Funded Reset is paid, clears warnings, only while max-DD usage
+  below 10%.
+- Trade Consistency: latest closed trade <100% increase over prior-20 average
+  (below double); opens after 5 closed trades; recorded at payout, never
+  breaches, never changes split.
+- Single-Trade Profit Dependency: largest winner <=60% of total net realised;
+  opens after 10 trades + 2% net; re-checked at target/payout; first episode
+  warning, second breach.
+- One-Sided Concentration: per symbol after 10 closed trades, same-side trade
+  share and exposure share each <=70%; both over = warning + 5-trade
+  rebalancing window.
+- Banned: news straddling, latency/tick arbitrage, stale-price exploits,
+  realised-loss recovery over-sizing, group/multi-account coordination.
+  Scalping welcome. EAs allowed only if genuinely self-built and controllable;
+  no third-party/shared masters, signals, or passing services. Copy between
+  own accounts allowed.
+- Max open exposure per account shown live in dashboard Exposure calculator.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED exact dollars — JS plan table; framework verified]
+- Fee model: single one-time joining fee per account, card or crypto at
+  checkout, USD-denominated accounts. No recurring costs on CFD.
+- Sizes: $5,000 to $400,000 ladder across Instant, 1-Step, 2-Step, 3-Step;
+  n/a means size not offered for that plan.
+- Launch promo at fetch: 50% off every plan first week, code LAUNCH50.
+- Add-ons at checkout: Swap-Free overnight (20% Instant / 15% evaluation),
+  Weekend Holding (Instant non-crypto), 90% checkout split upgrade, resets.
+  Confirm live add-on grid before pay.
+- Refund: every evaluation plan fee returned in full with first payout;
+  Instant fees not refundable. No separate free trial.
+- Retakes: new plan anytime; paid Reset options on some accounts.
+- Allocation cap: $600,000 combined simulated capital; checkout blocks over cap.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: high share climbing with tenure/consistency; 85% baseline on every
+  plan per crypto page, 90% checkout upgrade and milestone path to 95% per
+  blog index. Profit share never auto-deducted.
+- First payout: 14 days after first trade on every plan (Instant included),
+  account profitable, min days met, KYC verified, checks passed.
+- Frequency: rolling 14-day cycle; next date always in dashboard.
+- Request: dashboard payouts section; choose amount 1% minimum to full
+  available; nothing auto-deducted.
+- Methods: bank transfer, crypto including USDT stablecoins, Wise. FFUNDED
+  charges no processing fee; network/bank fees may apply.
+- Speed: most approved payouts within couple business days; crypto fastest.
+- KYC: identity verification required before first payout; enhanced checks
+  72-hour window; VPN/proxy/RDP banned especially during KYC.
+- Scaling: profitable consistent funded accounts grow via milestones, each
+  scale-up increases size and lifts split as high as 95%; dashboard tracks.
+- Reviews: 72-hour appeal via Risk Desk for demonstrable data/pricing errors.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: homepage help centre trading-rules section + terms.
+Banned (warning then breach, or instant breach on hard limits):
+1. News straddling (opposing hedged orders around high-impact release).
+2. Latency/tick arbitrage and stale/bad-price exploitation.
+3. Realised-loss recovery over-sizing.
+4. HFT on Instant accounts; HFT-pattern abuse generally.
+5. Group or multi-account coordination.
+6. Third-party/shared master copy, signal or account-management services,
+   challenge-passing services, letting others trade your account or trading
+   others'.
+7. VPN/proxy/RDP to hide location, especially during KYC.
+Consequences: hard-limit breach (daily/max DD) ends account immediately;
+conduct rules warn once then breach on repeat; payout rules only delay
+payout/target, never close or remove profit. Reviews may freeze new opens
+(~24 working hours) while allowing closes.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+, identity checks at sign-up and before first payout.
+- Restricted (no service to residents/nationals/persons located in):
+  Afghanistan, Belarus, Crimea, Cuba, Donetsk, Iran, Iraq, Libya, Luhansk,
+  Myanmar, North Korea, Poland, Russia, Somalia, Sudan, Syria, United States
+  of America, Venezuela, plus any comprehensive-sanctions, FATF high-risk or
+  locally unlawful jurisdiction. Full list at sign-up and page footer governs.
+- USA and Poland explicitly excluded (unusual Poland ban — respect it).
+- KYC: quick ID verification; enhanced verification 72 hours; missed window
+  or missed interview can close account. VPN over verification can close.
+- Inactivity: 30 consecutive calendar days with zero trades closes account
+  and cancels linked payout request.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/ffunded.com: 4.1 TrustScore
+  badge on homepage at fetch (launch-era sample, small N). No red-flag
+  verdict offered; new-firm discount for thin history.
+- PropFirmMatch / PropFirmMap: thin to no coverage at fetch (new 2026 firm).
+- Sentiment themes: launch promo interest, Discord-led support, in-house
+  platform curiosity. No payout-scam cluster found at fetch.
+- Watch items: JS pricing must be re-read before purchase; futures not live;
+  $3M marketing band vs $600K checkout cap — use checkout cap.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: new 2026 in-house-platform entrant competing on static drawdown
+(no trailing), no deadlines, refundable eval fees and 85-95% splits — rarer
+combo vs trailing-DD rivals. Own-platform execution is a differentiator and
+a lock-in risk.
+BEST FIT: traders wanting static-DD evaluations with no time pressure;
+self-built-EA scalpers; traders fine with proprietary platform; consistent
+sizers who benefit from no 2-Step payout-consistency rule.
+BAD FIT: MT4/MT5/cTrader-only traders; US/Poland/sanctioned residents;
+third-party-signal copiers; HFT/latency styles; traders needing futures now.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + help centre live-fetched 2026-09-08; plan-card dollar
+table not captured (JS-rendered) — re-check pricing anchors before purchase.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Every FFUNDED account, including evaluations, Instant, and funded
+accounts, runs in a simulated environment, so you never risk your own money
+in the live market."
+[2] "There is no maximum time limit on the evaluation."
+[3] "The maximum drawdown is a static floor calculated from your original
+starting balance. It does not trail up with your profits."
+[4] "Every evaluation plan includes a refundable fee, which we return in full
+with your first payout. Instant accounts do not include a refundable fee."
+[5] "Your first payout is available 14 days after your first trade on every
+plan, and after that payouts run on a rolling 14-day cycle."
+[6] "FFUNDED is a brand operated by Anget Holdings Ltd., an International
+Business Company registered in Saint Lucia (Registration No. 2026-00523)."
+================================================================================
+END OF FILE — FFUNDED UNVERIFIED. Next firm is a separate task.
+================================================================================

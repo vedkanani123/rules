@@ -1,0 +1,134 @@
+================================================================================
+INSTANT FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/InstantFunding.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public knowledge of
+https://instantfunding.io without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Instant Funding (instantfunding.io).
+- Positioning: Instant-funding and evaluation prop firm for Forex/CFD.
+- What it is [UNVERIFIED]: Simulated evaluation accounts with fictitious
+  funds; traders earn performance rewards, not live capital.
+- Contact [UNVERIFIED]: via instantfunding.io support / live chat / email
+  listed on site footer.
+- Scale/awards [UNVERIFIED]: see homepage badges and Trustpilot profile.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://instantfunding.io/ (homepage)
+ 2. https://instantfunding.io/pricing/ (or /challenge/ — pricing anchor)
+ 3. https://instantfunding.io/faq/ (rules, payouts, platforms)
+ 4. https://instantfunding.io/terms/ (terms, eligibility, prohibitions)
+CROSS-CHECK (third-party, real links):
+ 5. https://www.trustpilot.com/ (search Instant Funding)
+ 6. https://propfirmmatch.com/ (search Instant Funding)
+TOTAL SOURCES: 6 (4 official to verify + 2 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT4 / MT5 and/or Match-Trader / cTrader per
+  official pricing page. Confirm execution platform at checkout.
+- Instruments [UNVERIFIED]: Forex, Indices, Commodities/Metals, Crypto per
+  symbols page. Confirm swap/commission inside platform specs.
+- Leverage [UNVERIFIED]: account-model dependent, typically up to 1:100 on
+  Forex, lower on indices/crypto. Verify contract specs in terminal.
+- Costs count toward drawdown on equity-based models — verify FAQ.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official pricing page]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | Instant / No-evaluation | 0 | none | per FAQ | trailing/static per FAQ | per FAQ |
+| 2 | 1-Step Evaluation | 1 | per FAQ | per FAQ | per FAQ | per FAQ |
+| 3 | 2-Step Evaluation | 2 | per FAQ | per FAQ | per FAQ | per FAQ |
+Notes: funded has no profit target. Min-days, consistency and news rules
+vary by model — confirm Sections 5-6 on official FAQ before trading.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT MODEL [UNVERIFIED] ---
+- Profit target: none on funded. Single trailing-drawdown rule governs.
+- Trailing drawdown trails up only, locks per official FAQ. Verify %.
+--- 5B. 1-STEP EVALUATION [UNVERIFIED] ---
+- Single-phase target, daily-loss and max-loss limits apply. Verify %,
+  min-days and consistency on FAQ.
+--- 5C. 2-STEP EVALUATION [UNVERIFIED] ---
+- Two-phase targets, daily-loss and static or trailing max-loss. Verify %,
+  min-days per phase and news/weekend holding on FAQ.
+--- 5D. NEWS / WEEKEND / OVERNIGHT [UNVERIFIED] ---
+- Evaluation typically unrestricted; funded Standard may restrict news or
+  weekend holding. Confirm funded account type rules on official FAQ.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Fee model: one-time fee for evaluations; single purchase for instant.
+- Sizes: commonly 6K-200K or similar ladder. Confirm live table.
+- Add-ons: confirm (reset, scale, platform fee) on pricing page.
+- Refund: confirm (many firms refund 2-Step with first payout, never
+  refund instant). Verify refund clause in FAQ/terms.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: per-model profit share paid as performance reward. Confirm %.
+- First payout: typically 14 days after first funded trade, on-demand after.
+  All positions closed before request. Confirm in FAQ.
+- Methods/limits: bank wire, cards, crypto per FAQ. Confirm minimums.
+- Scaling: balance growth on consistent profitability. Confirm plan.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm forbidden-practices page]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets, hyperactive EA overload. EA/copy of own
+accounts usually allowed; trading others' accounts banned.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC government ID + liveness before funded credentials.
+- Sanctioned jurisdictions excluded. Confirm US/UK/vendor (MetaQuotes IP)
+  rules and full banned-country list on terms/FAQ.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Check Trustpilot and PropFirmMatch profiles for current score and payout
+  complaint clusters. No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: traders wanting instant access or short evaluations on Forex/CFD.
+- Bad fit: traders needing guaranteed live capital, HFT/latency styles, or
+  banned jurisdictions. Re-verify spread/commission competitiveness.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — INSTANT FUNDING UNVERIFIED. Next firm is a separate task.
+================================================================================

@@ -76,7 +76,7 @@ export const GoatV3QuickDecision: React.FC<GoatV3QuickDecisionProps> = ({
                 <div className="p-2.5 rounded-lg bg-black/30 border border-white/[0.04] mb-3">
                   <div className="text-xs font-bold text-blue-400 flex items-center gap-1.5">
                     <Target className="w-3.5 h-3.5" />
-                    {rec.bestModelName} (${rec.accountSizeRecommendation.toLocaleString()})
+                    {rec.bestModelName} (${(rec.accountSizeRecommendation || 100000).toLocaleString()})
                   </div>
                   <p className="text-xs text-slate-300 mt-1 leading-relaxed">
                     {rec.whyRecommended}
@@ -92,7 +92,7 @@ export const GoatV3QuickDecision: React.FC<GoatV3QuickDecisionProps> = ({
                         Criteria & Assumptions Used:
                       </div>
                       <ul className="list-disc list-inside text-slate-400 space-y-0.5 text-[11px] pl-1">
-                        {rec.assumptionsUsed.map((item, idx) => (
+                        {(rec.assumptionsUsed || []).map((item, idx) => (
                           <li key={idx}>{item}</li>
                         ))}
                       </ul>
@@ -104,7 +104,7 @@ export const GoatV3QuickDecision: React.FC<GoatV3QuickDecisionProps> = ({
                         Risks & Trade-offs:
                       </div>
                       <ul className="list-disc list-inside text-slate-400 space-y-0.5 text-[11px] pl-1">
-                        {rec.risksAndLimitations.map((risk, idx) => (
+                        {(rec.risksAndLimitations || []).map((risk, idx) => (
                           <li key={idx}>{risk}</li>
                         ))}
                       </ul>
@@ -132,7 +132,7 @@ export const GoatV3QuickDecision: React.FC<GoatV3QuickDecisionProps> = ({
                 </button>
 
                 <button
-                  onClick={() => onSelectModelById(rec.bestModelId)}
+                  onClick={() => onSelectModelById(rec.bestModelId || rec.recommendedModelId || '')}
                   className={`px-3 py-1 rounded-md text-[11px] font-semibold flex items-center gap-1 transition-all cursor-pointer ${
                     isSelected
                       ? 'bg-blue-600/30 text-blue-300 border border-blue-500/40'

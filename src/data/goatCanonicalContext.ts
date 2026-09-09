@@ -133,7 +133,7 @@ export interface CanonicalSelectedModelRules {
     maxDDPct: number;
     maxDDDollars: number;
     maxDDFormatted: string;
-    maxDDType: 'static' | 'trailing_eod' | 'trailing_intraday' | 'trailing_locked';
+    maxDDType: 'static' | 'trailing_eod' | 'trailing_intraday' | 'trailing_locked' | 'eod' | 'eod_trailing';
     maxDDTypeLabel: string;
     maxDDFloorDollars: number;
     maxDDFloorFormatted: string;

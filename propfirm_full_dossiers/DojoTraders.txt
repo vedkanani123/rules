@@ -1,0 +1,12 @@
+================================================================================
+DOJO TRADERS — COMPLETE FIRM DOSSIER
+================================================================================
+Website: https://dojotraders.com
+Status: UNKNOWN / UNREACHABLE
+
+--- FETCH RESULT ---
+- Transport error when fetching https://dojotraders.com
+- Website could not be reached
+- Recommend visiting directly to verify status
+
+================================================================================

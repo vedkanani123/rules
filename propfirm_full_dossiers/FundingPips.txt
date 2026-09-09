@@ -1,0 +1,440 @@
+================================================================================
+FUNDINGPIPS — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundingPips.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FundingPips pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundingPips (operator: FundingPips Corp).
+- Founded: August 2022, Dubai, UAE. Founder/CEO: Khaled Ayesh.
+- Registered address: Premises NO. 19948-001, IFZA Business Park, DDP Dubai, UAE.
+- Operating entity: FundingPips Corp, Comoros Union company HY01223081,
+  Bonovo Road, Fomboni, Island of Moheli, Comoros. Holds International
+  Brokerage and Clearing House License IBC Regulation Act 2014 (No. BFX2024004);
+  firm states it does NOT conduct live brokerage on this site — all accounts
+  are simulated/demo for evaluation purposes only.
+- Support offices: FundingPips Services Ltd, Cyprus (HE 450941), Anastasio
+  Building 6th Floor Office 601, Strovolos, Nicosia; plus Bay View Tower,
+  Business Bay, Dubai. 200+ employees, 5 global offices, 24/7 human support
+  (live chat + Discord 220,000+ members).
+- Contact: live chat 24/7, help center https://help.fundingpips.com,
+  Discord https://discord.gg/fundingpips.
+- What it is: CFD simulated-evaluation prop firm. ALL accounts are DEMO
+  accounts with fictitious funds; trading is simulated. Funded ("Master")
+  traders receive real-money Rewards (profit splits), not live capital.
+- Scale claimed on fundingpips.com: 3,000,000+ traders, $303M+ total Rewards
+  distributed, 195+ countries serviced. Homepage Trustpilot badge: Excellent
+  4.8 rated / 67,819 reviews (site widget; live Trustpilot profile reads 4.5).
+- Sister/affiliated entities:
+  * PRIME (https://fundingpips.com/prime) — progression path: Sim Master ->
+    PRIME capital up to $2,000,000, 80% daily Rewards, up to 1:2000 leverage,
+    path to fund-manager status with investor capital.
+  * Tradin (https://fundingpips.com/tradin, tradin.com) — regulated retail
+    broker built by the FundingPips team (Raw / Standard / Swap-Free accounts).
+  * FundingTicks (futures arm) — CLOSED permanently 18 January 2026. Do NOT
+    purchase; historical reference only (see _CLOSED/ note below).
+- Key distinction: 5 live models — 1-Step Flex (1 phase), 2-Step Standard,
+  2-Step Flex, 2-Step Pro (2 phases each), and Zero (instant Master, no eval).
+  Reward split is fixed by model + reward cycle chosen at purchase and LOCKS
+  for the life of the account. Never mix model rules.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fundingpips.com (homepage: stats, products, pricing widget,
+    leverage 1:100, platforms MT5/cTrader/Match-Trader, footer disclaimer,
+    Comoros license, restrictions incl. FATF/EU/UN sanctions lists + Vietnam
+    + UAE, CEO22 22%-off promo note)
+ 2. https://fundingpips.com/trading-objectives (2-Step Flex full rule stack:
+    sizes, 10%/6% targets, 12%/4% limits, leverage table, news/weekend rules,
+    reward cycles 85%/95%/100%)
+ 3. https://fundingpips.com/2-step-standard (Standard rule table via index:
+    8%+5% targets, 10%/5% limits, 3 days/phase, cycles 60/80/100/90%)
+ 4. https://fundingpips.com/2-step-pro (Pro: 6%+6%, 6%/3%, 1 day/phase, 80%)
+ 5. https://fundingpips.com/1-step-flex (1-Step Flex: 1 phase 12% static)
+ 6. https://fundingpips.com/zero (Zero instant Master page)
+ 7. https://fundingpips.com/rewards (reward cycles, methods, min 1%/2%)
+ 8. https://fundingpips.com/prime (PRIME scaling to $2M)
+ 9. https://fundingpips.com/terms-and-conditions (fees non-refundable,
+    simulated environment, prohibitions)
+10. https://help.fundingpips.com (FAQ/help-center index)
+11. https://help.fundingpips.com/hc/en-us/articles/34501809112081-2-Step-Standard
+12. https://help.fundingpips.com/hc/en-us/articles/34502157694865-FundingPips-Zero
+    ("Master Account from day one ... 7 days with net profit of 0.25% or more
+    ... within each rolling 30-day period to be eligible for rewards")
+13. https://help.fundingpips.com/hc/en-us/articles/34504137479441-News-Trading-Weekend-Holding
+CROSS-CHECK SOURCES (third-party, for pricing/reviews/closure only):
+14. PropDataLab FundingPips rules & live-checkout prices 2026-08-26
+    (checkout table 1-Step Flex / Standard / Pro / Flex / Zero; US reopened
+    2026-08-06 Match-Trader only; refund at 4th reward Standard/1-Step)
+15. PropTradingVibes FundingPips review 2026-09-04 (rating 3.6/5, 64.2K reviews
+    at 4.5; full model comparison; code VIBES 20% off) + account-types guide
+    2026-08-28 + 2-Step guide 2026-08-25 + rules guide 2026-03-30
+16. TradeTanto FundingPips rules 2026-08-12 (commissions $5/lot FX/metals,
+    $7 Zero; indices/energies commission-free; resets discounted)
+17. LuneFi FundingPips evaluation 2026-06-28 (22 challenge variants catalog)
+18. Trustpilot https://www.trustpilot.com/review/fundingpips.com
+    (4.5/5, ~67,814 reviews Sep 2026; 82% 5-star, 8% 1-star)
+19. PropFirmMatch https://propfirmmatch.com/prop-firms/funding-pips/reviews
+    (4.2 stars from 1,193 verified traders)
+20. PropFirmMap https://propfirmmap.com/firms/fundingpips (Grade A+, 4.5 stars
+    from 67,684 reviews verified 2026-09-05)
+21. PropFirmElite FundingTicks closed notice + FundedProgram closure report
+    ("FundingTicks officially shut down on January 18, 2026 ... Do not
+    purchase evaluations"; Trustpilot fell from 4+ to below 3 stars).
+22. Tradzu FundingPips review 2026-05-23 (54K+ reviews at 4 stars; June-2024
+    Trustpilot suspension note via Finance Magnates).
+TOTAL SOURCES: 22 (13 official + 9 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase):
+- MetaTrader 5 (MT5) — flagship, EA support, deep symbol set.
+- cTrader — cTrader Automate (C#), advanced order types.
+- Match-Trader (MatchTrader) — web-based; ONLY platform available to US
+  traders after 2026-08-06 US reopening.
+- TradeLocker (per PropFirmMatch reviewer reports) on select models.
+INSTRUMENTS: FX (forex pairs), Metals, Energies, Indices, Crypto. Raw 0.0-pip
+spreads advertised. Weekend/overnight holding ALLOWED in evaluation on all
+models; on Master, allowed except news-restricted windows (see Section 5).
+LEVERAGE (official trading-objectives table, 2-Step Flex shown; same ladder
+applies across eval models):
+- Standard evaluation: FX 1:100, Metals 1:30, Energies 1:10, Indices 1:20,
+  Crypto 1:2.
+- Swap-Free evaluation: FX 1:30, Metals 1:10, Energies 1:5, Indices 1:5,
+  Crypto 1:1. Swap-Free is a +10% fee add-on selected at purchase.
+COMMISSIONS (third-party confirmed): $5 per lot FX/metals on standard models
+($7 on Zero); indices/energies commission-free. Commissions + swaps + spreads
+COUNT toward daily/max loss (equity-based).
+MAX ALLOCATION: $400,000 combined across ALL active accounts (evals included).
+PRIME progression scales to $2,000,000.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program          | Steps | Sizes          | Target            | Daily loss | Max loss              | Min days        | Split (locked by cycle) |
+|---|------------------|-------|----------------|-------------------|------------|-----------------------|-----------------|-------------------------|
+| 1 | 1-Step Flex      | 1     | 5K/10K/25K/50K/100K | 12% (eval only) | 3% (PTV table; help-center lists 1-Step Flex DD stack) | 12% STATIC | 1 day (pass in 1 day) | 85% bi-weekly |
+| 2 | 2-Step Standard  | 2     | 5K/10K/25K/50K/100K (+2.5K select regions) | 8% Ph1 + 5% Ph2 | 5% (higher of opening balance/equity) | 10% STATIC floor | 3 per phase | 60% Weekly / 80% Bi-weekly / 100% Monthly / 90% On-Demand |
+| 3 | 2-Step Flex      | 2     | 5K/10K/25K/50K/100K | 10% Ph1 + 6% Ph2 | 4% | 12% STATIC (widest) | 1 day (85% option: 0 min on Master path; 95% option: 3 profitable days) | 85% or 95% Bi-weekly (chosen at purchase, locked) |
+| 4 | 2-Step Pro       | 2     | 5K/10K/25K/50K/100K/200K | 6% Ph1 + 6% Ph2 | 3% | 6% STATIC (tightest) | 1 per phase (fastest pass) | 80% Weekly |
+| 5 | Zero (instant)   | 0     | 5K/10K/25K/50K/100K/200K | NONE (Master day one) | 3% | 5% TRAILING + max 1% open-risk rule | 7 profitable days (0.25%+) per rolling 30 days for reward eligibility | 95% Bi-weekly |
+| X | FundingTicks (futures) | — | — | CLOSED 2026-01-18. Historical only. Moved to _CLOSED/. Do not buy. | | | | |
+Notes:
+- No time limit on ANY evaluation (Trading Period: Unlimited). Inactivity rule:
+  at least 1 trade every 30 days or account closed (eval AND Master).
+- Funded (Master) has NO profit target on any model.
+- "If more than 60% of the profit target is achieved in one trade idea in any
+  phase, a minimum of 4 profitable days will be applied to the Master account."
+- Risk-Per-Trade-Idea cap is LIVE only on 2-Step Flex (3% at $25K, 2% above;
+  none below $25K) and Zero (3% below $50K, 2% at $50K+); not applicable on
+  1-Step Flex / Standard / Pro evals. Covers all correlated positions in one
+  idea; breach closes the account immediately.
+- 1.2% risk guideline: explicitly "No Restrictions ... on this model"
+  (2-Step Flex page); Striking System 1% trigger applies on 1-Step Flex and
+  post-2026-08-15 Standard Monthly.
+- $2.5K size exists on Standard and Pro in select countries only.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP FLEX (1 phase, 5K-100K) ---
+- Profit target: 12% of initial, evaluation only. No target on Master.
+  ($100K: +$12,000. $50K: +$6,000.)
+- Max Loss: 12% STATIC floor from starting size, eval + Master. ($100K: floor
+  $88,000 flat. $50K: $44,000 flat.) Touching = breach even if trade recovers.
+- Daily Loss: 3%. Floating + closed P/L count.
+- Min trading days: 1 day total (pass in as little as one day). 0.01 lots
+  counts for a min day. No consistency rule on eval.
+- Master split: 85% bi-weekly (locked). Reward every 14 calendar days, min
+  reward 1% of Master size ($100K: $1,000 min).
+- News/overnight/weekend: allowed in eval. On Master follows model news rule.
+- DD calc + example ($50K): start $50,000, floor $44,000. Day opens $51,000,
+  daily room 3% = $1,500 → limit $49,500 intraday. Close Day1 $52,000 → floor
+  still $44,000 (static, never moves).
+--- 5B. 2-STEP STANDARD (2 phases, 5K-100K; the widest cycle menu) ---
+- Profit target: 8% Phase 1 + 5% Phase 2 (10% variant withdrawn 2026-07-24
+  06:00 Server Time UTC+3). No target on Master. ($50K: $4,000 then $2,500;
+  combined 13%. $100K: $8,000 then $5,000.)
+- Max Loss: 10% STATIC floor, never moves, shared across both phases + Master.
+  ($50K: $45,000 flat. $100K: $90,000 flat.)
+- Daily Loss: 5% of the HIGHER of day-opening balance vs day-opening equity;
+  floating + closed count. ($50K: $2,500/day room — widest daily budget.)
+- Min trading days: 3 per phase (eval only); none on Master.
+- Master cycles (LOCKED at purchase): Weekly 60% / Bi-weekly 80% /
+  Monthly 100% / On-Demand 90%. On-Demand requires 35% Consistency Score +
+  2% min request. For Masters purchased on/after 2026-08-15, Monthly adds:
+  35% Consistency Score or lower + 7 profitable days of >=0.5% of starting
+  Master size + 1% Striking System trigger.
+- DD calc + example ($50K Standard): start $50,000, floor $45,000. Phase 1
+  target $54,000. Day opens $52,000 balance / $51,800 equity → daily base is
+  $52,000 → limit $49,500. Close $54,000 with 3+ days → Phase 2 at same
+  $45,000 floor (drawdown NOT reset).
+--- 5C. 2-STEP FLEX (2 phases, 5K-100K; biggest max loss) ---
+- Profit target: 10% Phase 1 + 6% Phase 2, eval only. ($100K: $10,000+$6,000.)
+- Max Loss: 12% STATIC (widest static floor). ($100K: $88,000. $50K: $44,000.)
+- Daily Loss: 4%. ($100K: $4,000/day. $50K: $2,000/day.)
+- Min trading days: 1 day per phase on eval.
+- Master split (locked at purchase): 85% bi-weekly (request every 14 days,
+  min 1%) OR 95% bi-weekly (request every 14 days after 3 profitable days,
+  min 1%); Monthly 100% option (every 30 days, 35% consistency + 1% Striking
+  System + 7 days of >=0.5%).
+- Risk Per Trade Idea (Master): none below $25K; 3% at $25K; 2% above $25K.
+  ($100K: max $2,000 risk per idea incl. all correlated legs.)
+- Master news rule: RESTRICTED — "Not allowed to open or close a position
+  5 min before/after high-impact (red folder) news events on affected
+  currencies. News profits will be deducted. Trades opened 5 hours before a
+  high impact news event or speech are excluded."
+- Overnight/weekend holding: ALLOWED (eval + Master).
+- DD calc + example ($100K Flex 95%): start $100,000, floor $88,000. Day
+  opens $104,000 → daily limit $100,000. Risk-per-idea cap $2,000 — a
+  correlated EURUSD+GBPUSD basket risking $2,500 combined = breach.
+--- 5D. 2-STEP PRO (2 phases, 5K-200K; lowest target, fastest pass) ---
+- Profit target: 6% Phase 1 + 6% Phase 2 (lowest combined ask). ($100K:
+  $6,000+$6,000. $50K: $3,000+$3,000.)
+- Max Loss: 6% STATIC (tightest floor). ($100K: $94,000. $50K: $47,000.)
+- Daily Loss: 3%. ($100K: $3,000/day. $50K: $1,500/day.)
+- Min trading days: 1 per phase — fastest pass in the lineup.
+- Master split: 80% Weekly (locked). Reward every 7 calendar days, min 1%.
+- No Risk-Per-Trade-Idea cap ("removed" wording on Pro page).
+- DD calc + example ($50K Pro): start $50,000, floor $47,000, Phase 1 target
+  $53,000. One -$1,500 day = daily stop; -$3,000 total = full breach.
+--- 5E. ZERO (instant Master, 5K-200K; no evaluation) ---
+- Profit target: NONE. Master from day one.
+- Max Loss: 5% TRAILING (only trailing model in lineup). Max 1% open-risk
+  rule also applies.
+- Daily Loss: 3%.
+- Eligibility: "at least one trade every 30 days to avoid inactivity, and
+  you need 7 days with net profit of 0.25% or more of your Master Account
+  Size within each rolling 30-day period to be eligible for rewards."
+  ($100K: seven +$250 days per 30-day window. $50K: seven +$125 days.)
+- Master split: 95% bi-weekly (locked), min reward 1%.
+- Risk-Per-Trade-Idea: 3% below $50K, 2% at $50K and above.
+- DD calc + example ($50K Zero): start $50,000, trailing cap 5% = $2,500.
+  Balance peaks $52,000 → cap trails to $49,500 lock region; never trails
+  back down.
+--- 5F. NEWS / WEEKEND / OVERNIGHT (cross-model) ---
+- Evaluation: news trading ALLOWED on all models ("No scheduled-news window
+  restriction during evaluation; intentionally exploiting news is prohibited").
+  Weekend holding permitted during evaluation.
+- Master (Flex shown verbatim): 5-min blackout around red-folder news on
+  affected currencies; news profits deducted; trades opened 5h before high-
+  impact news/speech excluded. Standard/Pro/Zero follow their help-center
+  news articles (same red-folder logic; Zero tightest enforcement).
+- Overnight/weekend holding ALLOWED on Master (Flex page verbatim).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (USD, single payment, no subscription; homepage "Starting at
+$29"; from live-checkout read 2026-07-14 via PropDataLab + pricing-page read
+2026-07-30 via PTV; schema.org page prices are STALE — trust checkout):
+| Size  | 1-Step Flex | 2-Step Standard | 2-Step Pro | 2-Step Flex | Zero (instant) |
+|-------|-------------|-----------------|------------|-------------|----------------|
+| $5K   | $59         | $32 ($36 checkout) | $29     | $32         | $60 ($69 Lune) |
+| $10K  | $99         | $59 ($66 checkout) | $55     | $59         | $88 ($99 Lune) |
+| $25K  | $210 ($199 Lune) | $159 ($177/$156 checkout) | $134 ($109 Lune) | $159 | $188 |
+| $50K  | $322 chk ($379 schema) | $269 | $219 | official flex table | $244 chk ($349 schema) |
+| $100K | $499–$555 (promo $499; page $529–$555) | $499 | ~$422 (case-study receipt $422 for $100K 2-Step Pro) | official flex table | ~$499–$998 ladder top |
+| $200K | n/a         | n/a             | ~$798      | n/a         | ~$998 |
+- $2.5K size exists on Standard + Pro in select countries (price ~$29 band).
+- Add-ons: Swap-Free +10% at purchase (all sizes). No other add-ons sold.
+- Resets (eval breach, same account): Phase 1 −15%, Phase 2 −10%, Master
+  reset −7% (excl. $100K+), Zero −20% — each ONLY within 7 calendar days of
+  breach. No resets on Master/Zero breach → buy new challenge.
+- Free Trial: $0 available (top-nav link).
+- Promo at fetch: CEO22 22% off 24h (100K excluded); evergreen code VIBES 20%.
+- REFUND: fees are service fees, NON-REFUNDABLE once paid (footer T&C).
+  Exception: registration fee refunded at the 4th reward on 1-Step Flex and
+  2-Step Standard ONLY; NOT offered on Pro, Flex, or Zero.
+- Payment methods: card, crypto (USDT/USDC), Rise, bank transfer (reward
+  rails double as payment rails); crypto payment credential delays reported
+  (see Section 10).
+- FundingTicks: no pricing — CLOSED 2026-01-18. Any "FundingTicks checkout"
+  is a scam; do not pay.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+REWARD BASICS (Master = funded; "Rewards" = payouts; "Zero Reward Denial"
+marketing claim):
+- Split LOCKS with model + cycle at purchase; cannot change afterwards.
+  1-Step Flex 85% bi-weekly | Standard 60/80/100/90 | Flex 85 or 95 |
+  Pro 80% weekly | Zero 95% bi-weekly | PRIME 80% daily.
+- Min reward: 1% of Master size (2% for On-Demand). ($100K: $1,000; $50K:
+  $500; $5K: $50.) Avg first rewards advertised: $389 ($5K) / $743 ($10K) /
+  $1,661 ($25K) / $2,471 ($50K) / $5,020 ($100K).
+- Frequency: Weekly / Bi-weekly (14 calendar days) / Monthly (30) / On-Demand
+  per cycle; intervals are CALENDAR days, not trading days.
+- Processing: 1–3 working days after approval + 1–2 days to land; Pay-to-Card
+  in 14 supported countries = instant–30 min (up to 48h bank checks).
+- Methods: card (Pay to Card), crypto USDT/USDC, Rise, bank transfer, Tradin
+  internal.
+- First-reward case study (homepage): $100K 2-Step Pro bought Jul 4 ($422),
+  Phase 1 same day, Phase 2 Jul 9, first $4,050.90 reward Jul 21 via Rise in
+  9 hrs (ROI 6,118% narrative).
+- Eligibility gates: Zero 7×0.25% days/30d; Flex-95% 3 profitable days;
+  Standard Monthly (post-2026-08-15) 35% consistency + 7×0.5% days + 1%
+  Striking System; On-Demand 35% consistency.
+- KYC: after passing eval, before Master issued — government photo ID +
+  proof of address (<3 months) + selfie; contract signing.
+SCALING: max allocation $400K combined (evals count). PRIME path scales to
+$2,000,000 with 80% daily Rewards then fund-manager/investor-capital stage.
+MAXIMA: day-one max $200K (Pro/Zero); $100K (Flex/Standard/1-Step).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: Terms & Conditions + help-center news/risk articles.
+BANNED (breach = profit deduction, account closure, forfeiture):
+1. Intentionally exploiting news (eval) / red-folder blackout violation
+   (Master: no open/close 5 min around high-impact news on affected
+   currencies; 5h-exclusion rule; news profits deducted).
+2. Exceeding Risk Per Trade Idea caps (Flex ≥$25K: 3%/2%; Zero: 3%/2%
+   ladder; all correlated legs count as one idea).
+3. Striking System 1% trigger violation (1-Step Flex + new Standard Monthly).
+4. Copy-trading / signal-copying others' trades; account sharing; one person
+   per account; Device-ID/IP-match enforcement (false-positive complaints
+   exist — see Section 10).
+5. Shared-wallet/address reuse across accounts (Bitget-wallet suspension case).
+6. Latency/data-feed exploitation, EA hyperactivity abuse, platform-error
+   exploitation.
+7. Martingale/gambling-style all-in bets flagged under risk guidelines where
+   the 60%-in-one-idea rule reroutes you to 4-profitable-day Master terms.
+8. Hedging across connected accounts / firms to game targets.
+ALLOWED: EAs, algos, discretionary; overnight + weekend holding; news trading
+in evaluation (non-exploitative); 0.01-lot min days; unlimited trading period.
+Consequences ladder: news-profit deduction → account closure → fee forfeiture
+(no Master/Zero resets).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals only; one account per person (Device-ID enforced).
+- USA: REOPENED 2026-08-06 — Match-Trader platform ONLY.
+- UK: served normally (no UK ban published).
+- HARD RESTRICTIONS (footer verbatim): "Services are not offered to residents
+  of certain jurisdictions, including countries on the FATF and EU/UN
+  sanctions lists, Vietnam, and UAE." UAE residents excluded despite Dubai
+  registered address.
+- Syria: accepted in practice (PropFirmMatch verified reviewer from Syria
+  trading $5K 2-Step; "traders from Syria are accepted unlike most prop
+  firms"). Always re-check checkout geo-block before paying.
+- KYC: government photo ID (passport/national ID) + proof of address dated
+  within 3 months + clear selfie, after eval pass and before Master issued.
+- Inactivity: 1 trade per 30 days (eval + Master + Zero) or closure.
+- VPN/travel: not explicitly banned; Device-ID/IP-match system means shared
+  networks/devices risk false flags — use a personal device + connection.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundingpips.com: 4.5/5,
+  ~67,814 reviews (Sep 2026; homepage widget shows 4.8/67,819 — widget lags
+  live profile). Distribution: 82% 5-star, 7% 4-star, 2% 3-star, <1% 2-star,
+  8% 1-star. 37,384 reviews in last 12 months. Company replies actively.
+  Themes: fast payouts ("within minutes" via crypto/Rise), smooth MT5/cTrader
+  execution, low spreads, helpful Discord/24-7 support. Complaints: trade-
+  copier/IP/Device-ID false accusations closing funded accounts without reply;
+  crypto-payment credential delays; 8% 1-star cluster is copier/enforcement
+  heavy. History: profile temporarily suspended June 2024 after review surge
+  tied to media attention (Finance Magnates via Tradzu); restored since.
+- PropFirmMatch https://propfirmmatch.com/prop-firms/funding-pips/reviews:
+  4.2 stars from 1,193 verified traders. Praise: 12% Flex drawdown ("biggest
+  drawdown in the market"), fair rules, sub-24h Rise payouts. Complaints:
+  Device-ID/wallet-match terminations with "internal review ... final" no-
+  evidence responses; trailing-drawdown on Zero should be static.
+- PropFirmMap https://propfirmmap.com/firms/fundingpips: Safety Grade A+,
+  4.5 stars from 67,684 reviews (verified 2026-09-05); 10/10 safety checks.
+- PropTradingVibes: firm rating 3.6/5 (deduction for permanent cycle lock +
+  model-specific rule maze: "hard to hold in your head").
+- Red flags: NONE systemic on payouts ($303M paid narrative consistent with
+  reviews). Watch items: enforcement false positives (copier/Device-ID);
+  cycle lock is permanent; Zero trailing + 1% open-risk is strict.
+- FundingTicks closure: 2026-01-18 permanent shutdown; Trustpilot collapsed
+  4+ → sub-3. Retained for historical reference only — file in _CLOSED/.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest entry ($29–$32) + widest drawdown menu (6%/10%/12%
+static, 5% trailing) + cycle-locked splits to 100%. Unlimited time on all
+evals. $400K cap mid-range; PRIME-to-$2M path rivals scaling leaders.
+MODEL PICK: widest daily room → Standard (5%). Widest max loss → Flex (12%).
+Fastest/cheapest pass → Pro (6%+6%, 1 day/phase, from $29). One phase →
+1-Step Flex (12%, 1 day). No eval → Zero (5% trailing, 95%).
+BEST FIT: rule-tolerant scalpers/day traders; traders wanting weekly cash
+flow (Pro 80% weekly); Monthly grinders chasing 100% (Standard); Syrians and
+other sanction-adjacent traders blocked elsewhere; Discord-community traders.
+BAD FIT: traders needing changeable payout cycles; >$400K combined capital;
+news-straddlers on Master (5-min blackout + deduction); anyone reusing
+devices/wallets/IPs across accounts (enforcement risk); futures traders
+(FundingTicks is dead — see FXIFY Futures / E8 / FTMO Futures instead).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, cycles, bans and closure facts above were read
+from the 13 official URLs in Section 2 on 2026-09-08. Checkout prices
+($29–$555) confirmed via 2026-07-14 live-checkout read + 2026-07-30 pricing-
+page read (schema.org prices are stale — e.g. 1-Step $50K $379 schema vs
+$322 checkout). Promos (CEO22/VIBES) rotate — re-check checkout before paying.
+All accounts simulated/demo per footer disclaimer.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 5-model table, cycle-locked splits, Risk-Per-Idea ladder,
+Striking System, FundingTicks 2026-01-18 closure note.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated environment: "All accounts provided by FundingPips are demo
+accounts operating exclusively in a simulated trading environment. No actual
+trades are executed on live financial markets."
+[2] Fees: "all fees paid to the Company are strictly service fees. Program
+fees are not deposits, do not represent client funds, and should not be
+considered investments under any circumstances. These fees are non-refundable
+once paid, except where required by applicable law."
+[3] License: "FundingPips Corp is a limited liability company incorporated
+under the laws of the Comoros Union with company number: HY01223081 ...
+holds an International Brokerage and Clearing House License, Ibc Regulation
+Act 2014 (License No. Bfx2024004)."
+[4] Restrictions: "Services are not offered to residents of certain
+jurisdictions, including countries on the FATF and EU/UN sanctions lists,
+Vietnam, and UAE."
+[5] 2-Step Flex eval: "Reach 10% profit while staying inside 12% max loss
+and 4% daily loss." / "Reach 6% profit with the same drawdown rules." /
+"Trading Period: Unlimited" / "Min Trading Days 1 day".
+[6] 60%-idea rule: "if more than 60% of the profit target is achieved in one
+trade idea in any phase, a minimum of 4 profitable days will be applied to
+the Master account."
+[7] Flex risk ladder: "Accounts below $25K No Restrictions / Accounts $25K
+3% / Accounts above $25K 2%".
+[8] Flex news rule: "Not allowed to open or close a position 5 min
+before/after high-impact (red folder) news events on affected currencies.
+News profits will be deducted. Trades opened 5 hours before a high impact
+news event or speech are excluded."
+[9] Flex cycles: "Bi-Weekly 85% Split Request every 14 days. Minimum Reward:
+1%" / "Bi-Weekly 95% Split Request every 14 days after 3 profitable days."
+/ "Monthly 100% Split Request every 30 days Consistency: 35% Striking
+System: 1% Min Profitable Days: 7 days of at least 0.5%".
+[10] Zero eligibility: "FundingPips Zero is a Master Account from day one.
+The only time-related rules are that you must complete at least one trade
+every 30 days to avoid inactivity, and you need 7 days with net profit of
+0.25% or more of your Master Account Size within each rolling 30-day period
+to be eligible for rewards."
+[11] Standard stack: "Profit Target – $8.000 (8%) + / $5.000 (5%) | Maximum
+Loss 10% | Maximum Daily Loss 5% | Minimum Trading Days 3 days | Leverage
+1:100".
+[12] FundingTicks closure: "FundingTicks officially shut down on January 18,
+2026, ending futures prop evaluations and funded accounts. ... Do not
+purchase evaluations or send funds through any site claiming to be
+FundingTicks."
+[13] Homepage scale: "Join over 3,000,000 traders in the world's leading
+firm." / "$303M+ Total Rewards" / "195+ Countries" / "Raw 0.0 pips spreads"
+"b/ Leverage up to 1:100".
+================================================================================
+END OF FILE — FUNDINGPIPS COMPLETE. Next firm is a separate task (not started).
+================================================================================

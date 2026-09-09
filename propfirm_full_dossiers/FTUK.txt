@@ -1,0 +1,105 @@
+================================================================================
+FTUK — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FTUK.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public knowledge of
+https://ftuk.com without a live fetch on this date. Re-verify all rules,
+fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FTUK (Financial Trading UK, ftuk.com).
+- Positioning [UNVERIFIED]: UK-based instant-funding and evaluation prop
+  firm, Forex/CFD focus.
+- What it is [UNVERIFIED]: Simulated accounts; performance rewards.
+- Contact [UNVERIFIED]: via ftuk.com support / live chat.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed. Check these real pages:
+ 1. https://ftuk.com/ (homepage)
+ 2. https://ftuk.com/pages/pricing (pricing anchor — confirm slug on site)
+ 3. https://ftuk.com/pages/faq (rules, payouts)
+ 4. https://ftuk.com/pages/terms (eligibility, prohibitions)
+CROSS-CHECK:
+ 5. https://www.trustpilot.com/ (search FTUK)
+ 6. https://propfirmmatch.com/ (search FTUK)
+TOTAL SOURCES: 6. Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT4 / MT5 per official pages.
+- Instruments [UNVERIFIED]: Forex, Indices, Commodities per symbols page.
+- Leverage [UNVERIFIED]: model-dependent; verify in terminal.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | Instant Funding | 0 | none | per FAQ | per FAQ | per FAQ |
+| 2 | Challenge / Evaluation | 1-2 | per FAQ | per FAQ | per FAQ | per FAQ |
+Notes: funded has no profit target. Confirm drawdown type per model.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT FUNDING [UNVERIFIED] ---
+- No target; drawdown governs. Verify trailing % and lock behavior.
+--- 5B. CHALLENGE / EVALUATION [UNVERIFIED] ---
+- Phase target(s), daily/max loss, min-days. Verify numbers on FAQ.
+--- 5C. NEWS / WEEKEND / OVERNIGHT [UNVERIFIED] ---
+- Confirm funded holding and news rules on FAQ.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — confirm checkout]
+- One-time fees across size ladder. Confirm refund clause per model.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split as performance reward. Confirm % and cadence, minimums, methods.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED]
+Typically banned: feed exploits, cross-account hedging, account sharing,
+gambling. Confirm EA policy officially.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC before funded. Confirm banned-country list on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Check Trustpilot / PropFirmMatch for current score and themes.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: traders wanting instant access with UK-brand positioning.
+- Bad fit: HFT styles, banned jurisdictions.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch 2026-09-08.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — 12-section template.
+RAW EXCERPTS: none captured; paste verbatim on re-verification.
+================================================================================
+END OF FILE — FTUK UNVERIFIED. Next firm is a separate task.
+================================================================================

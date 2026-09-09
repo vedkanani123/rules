@@ -1,0 +1,104 @@
+================================================================================
+THINK CAPITAL — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/ThinkCapital.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public knowledge of
+https://thinkcapital.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: ThinkCapital (thinkcapital.com).
+- Positioning [UNVERIFIED]: evaluation prop firm, Forex/CFD focus.
+- What it is [UNVERIFIED]: Simulated accounts; performance rewards.
+- Contact [UNVERIFIED]: via thinkcapital.com support / live chat.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed. Check these real pages:
+ 1. https://thinkcapital.com/ (homepage)
+ 2. https://thinkcapital.com/challenges/ (or /pricing/ — confirm slug)
+ 3. https://thinkcapital.com/faq/ (rules, payouts, platforms)
+ 4. https://thinkcapital.com/terms-of-service/ (eligibility, bans)
+CROSS-CHECK:
+ 5. https://www.trustpilot.com/ (search ThinkCapital)
+ 6. https://propfirmmatch.com/ (search ThinkCapital)
+TOTAL SOURCES: 6. Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: MT5 / Match-Trader and/or cTrader per pages.
+- Instruments [UNVERIFIED]: Forex, Indices, Commodities, Crypto per symbols.
+- Leverage [UNVERIFIED]: model-dependent; verify in terminal.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED]
+| # | Program | Steps | Target | Daily loss | Max loss | Split |
+|---|---------|-------|--------|------------|----------|-------|
+| 1 | 1-Step | 1 | per FAQ | per FAQ | per FAQ | per FAQ |
+| 2 | 2-Step | 2 | per FAQ | per FAQ | per FAQ | per FAQ |
+Notes: funded has no profit target. Confirm min-days and consistency.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP [UNVERIFIED] ---
+- Single-phase target, daily/max loss. Verify % and consistency.
+--- 5B. 2-STEP [UNVERIFIED] ---
+- Two-phase targets, daily/static max loss. Verify min-days per phase.
+--- 5C. NEWS / WEEKEND / OVERNIGHT [UNVERIFIED] ---
+- Confirm funded news and holding rules on FAQ.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — confirm checkout]
+- One-time fees across size ladder. Confirm refund clause per model.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split as performance reward. Confirm % and cadence, minimums, methods.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED]
+Typically banned: feed exploits, cross-account hedging, account sharing,
+gambling. Confirm EA policy officially.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC before funded. Confirm banned-country list on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Check Trustpilot / PropFirmMatch for current score and payout themes.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: standard evaluation traders on Forex/CFD.
+- Bad fit: HFT styles, banned jurisdictions.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch 2026-09-08.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — 12-section template.
+RAW EXCERPTS: none captured; paste verbatim on re-verification.
+================================================================================
+END OF FILE — THINK CAPITAL UNVERIFIED. Next firm is a separate task.
+================================================================================

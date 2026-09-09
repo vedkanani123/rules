@@ -1,0 +1,173 @@
+================================================================================
+LEGENDSTRADING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/LegendsTrading.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Legends Trading pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Legends Trading (TheLegendsTrading.com; Legends Trading LLC).
+- Founded: 2023-2024, USA (trader-built team: ex-traders, risk managers,
+  brokers, CTAs, algo desks).
+- Address: USA, online-only (app portal + knowledge base + support desk).
+- Contact: https://app.thelegendstrading.com portal, Knowledge Base
+  https://knowledge.thelegendstrading.com, email support.
+- What it is: Futures-only 1-step Apprenticeship eval -> Master (funded) ->
+  Live funded after 2nd payout (90/10 kept — industry-unique live retention).
+- Scale: sizes 25K-150K; Apprentice $165-320/mo showcase; Elite one-day pass
+  line; up to $1.5M across multiple accounts; 90/10 payouts twice monthly.
+- Key distinction: NO daily loss limit; EOD trailing (intraday pressure off);
+  30% Apprentice / 40% Elite consistency (excess adjusts target, no fail);
+  positive-balance rollover at renewal; live-evaluation environment.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://thelegendstrading.com (homepage: Get Funded in 1 Day, plans, splits)
+ 2. https://thelegendstrading.com/plans (Apprentice/Elite pricing, 30%/40% rules)
+ 3. https://app.thelegendstrading.com/plans (portal plans: $165-320/mo showcase)
+ 4. https://knowledge.thelegendstrading.com/evaluation-guidelines (5 days, EOD, products)
+ 5. https://thelegendstrading.com/faq (payouts, activation, live path reference)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. TradingPilot Legends Challenges ($59-347 cards, 80-90% splits, 0-1 days)
+TOTAL SOURCES: 6 (5 official + 1 third-party cross-check).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- NinjaTrader, Tradovate, Rithmic, Sierra Chart, Quantower (TradingPilot-tracked).
+- Live Evaluation account environment; Performance Center analytics.
+INSTRUMENTS: US futures — S&P, Nasdaq, Crude, Gold, Nano, Bitcoin futures
+  (e.g. ES NQ CL GC MES MNQ MGC MCL MYM RTY). No forex/CFD spot, no stocks.
+CONTRACT SIZING (max open):
+  Apprentice: 25K 4 / 40 micros | 50K 10 / 50 | 100K 14 / 70 | 150K 17 / 85.
+  Elite: per-card caps (same ladder, tighter DD variants).
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: exchange + execution counted in net P/L; data per plan.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss (EOD-trail) | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|----------------------|-----|-----------|-------------|-------|-----------|
+| 1 | Apprentice Evaluation | 1 | 25K/50K/100K/150K | $1.5K/$3K/$6K/$9K | $1.5K/$2K/$3K/$4K EOD | NONE | 4/10/14/17 | 30% | 90/10 | $165/$185/$225/$320/mo (80% off LTG) + $99-199 activation |
+| 2 | Elite Evaluation | 1 | 25K/50K/100K/150K | $1.5K/$2.7K/$6K/$9K | $1.25K/$2.2K/$3K/$4.5K EOD | NONE | per card | 40% | 90/10 | one-time/promo per card + activation |
+| 3 | Master (funded) -> Live | funded | same | none | EOD-trail | NONE | same caps | 30-40% to payout | 90/10 (live kept) | $0 after activation |
+Notes:
+- Min 5 days (Guidelines) / 10-day refs on quick-start cards; 0-1-day Elite
+  instant cards (TradingPilot); no max days; rollover at renewal.
+- Trading hours: market open to 1 min before close; no blackout days.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. APPRENTICE EVALUATION ---
+- Targets/DD per table; EOD trailing (close-based; intraday wicks ignored).
+- Consistency 30%: best day <30% of total goal; excess adjusts target upward
+  (no deactivation/penalty).
+- 5+ min days; permitted-products only; max-open cap across products.
+- Renewal without target = positive balance ROLLS OVER (keeps cushion).
+--- 5B. ELITE EVALUATION ---
+- Tighter DD ($1.25K/25K, $2.2K/50K), 40% consistency, no DLL; 1-day pass
+  positioning on promo cards.
+--- 5C. MASTER (FUNDED) -> LIVE ---
+- Twice-monthly payouts once consistency met; 90/10 split kept INTO live
+  after 2nd payout (unique retention); live evaluation-to-live path.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+APPRENTICE MONTHLY (LTG 80%-off positioning; showcase list):
+- 25K: $165/mo (save $132 LTG). Target $1.5K, DD $1.5K, 4 lots. Activation $99.
+- 50K: $185/mo (save $148 LTG). Target $3K, DD $2K, 10 lots. Activation $99.
+- 100K: $225/mo. Target $6K, DD $3K, 14 lots. Activation $149.
+- 150K: $320/mo. Target $9K, DD $4K, 17 lots. Activation $199.
+ELITE (TradingPilot cards promo): 50K $29.50 | 100K $53.50 | 150K $69-277.
+REFUND: eval fees NOT refunded; rollover preserves balance (not cash).
+PAYMENT: cards via app portal; LTG code at checkout.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 90/10 from Master through Live (kept after 2nd payout).
+- Cadence: up to twice per month once consistency met.
+- Methods: bank/ACH/wire per funded terms.
+- Scaling: to $1.5M across multiple accounts; size up via larger plans.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. EOD-trailing / contract breach = liquidation (reset/rebuy).
+2. Consistency gates advancement/payout (30%/40%) — excess extends target.
+3. Permitted US-futures products only; pre-close flat (1 min before close).
+4. Weekend-hold rules per plan (verify card; TradingPilot flags no-weekend).
+5. Copy/account-share/HFT exploits banned.
+Consequences: eval liquidation (rebuy), Master removal, payout hold.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED; international where data feeds permitted.
+- KYC: ID + payout-method verification before first payout.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- TradingPilot cards: 80-90% splits, $59-347 range, 0-1-day Elite gate;
+  cautions: relative-balance DD math, 40% consistency disqualifier, no-weekend,
+  no-refund.
+- Homepage social proof: No-DLL + EOD + fair-consistency + twice-monthly +
+  live-retention positioning; trader-built credibility (no Trustpilot-scale
+  pool yet — young firm).
+- Red flags: NONE systemic found. Watch: LTG-promo vs list gap, Elite DD
+  tightness, twice-monthly (not daily) rhythm.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP/TOF: Legends no-DLL + rollover kinder than DLL peers; TOF daily vs
+  Legends twice-monthly; Topstep history vs Legends youth.
+VS DAYTRADERS: DT daily Plane + 100% vs Legends twice-monthly 90% + live kept.
+BEST FIT: futures traders wanting no daily limit, EOD calm, fair consistency
+  (no fail), balance rollover, live retention at 90/10.
+BAD FIT: traders needing daily payouts, static drawdown, cheapest entry, or
+  weekend holds.
+RULE OF THUMB: start Apprentice 25K (LTG); grind 5+ balanced days under 30%;
+  ride rollover rather than forcing target into renewal.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Apprentice/Elite targets, EOD DDs, contracts, splits, fees
+above were read from the 5 official URLs in Section 2 on 2026-09-08.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes no-DLL EOD ladder, 30/40% fair consistency, rollover,
+live-kept 90/10.
+RAW EXCERPTS (official wording, verbatim):
+[1] Days: "candidates must achieve the targeted profit goals ... and trade for
+ a minimum of 5 days" / "Maximum trading days are not designated."
+[2] Consistency: "Best Trading day is less then 30% of total profits goal."
+[3] Trail: "The Trailing Max Loss is the minimum account balance that trails
+ with your profits."
+[4] Blackout: "There are no blackout days on the Legends Trading platform."
+[5] Products: "Trade US futures markets like S & P, Nasdaq, Crude Oil, Gold,
+ Nano, Bitcoin, and others" via "NinjaTrader and Tradovate."
+[6] Times: "Execute your trades from market open to one minute before the
+ market closes."
+[7] Plans: "$25,000 ... $1,500 profit goal ... $1,500 EOD trailing max loss"
+ / "$50,000 ... $3,000 ... $2,000" / "$100,000 ... $6,000 ... $3,000" /
+ "$150,000 ... $9,000 ... $4,000."
+[8] Perks: "No daily loss limit" / "End-of-Day Max Trailing Drawdown" /
+ "Flexible Payouts ... up to twice per month" / "90/10 profit split" /
+ "Join live funded after 2nd payout, and keep your 90/10 split."
+[9] Rollover: "Traders who reach their subscription renewal date without
+ achieving the profit threshold will roll over the positive balance."
+[10] Promo: "80% off Code: LTG" / "Get Funded in 1 Day" (Elite cards).
+================================================================================
+END OF FILE — LEGENDSTRADING COMPLETE. Next firm is a separate task (not started).
+================================================================================

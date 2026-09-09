@@ -1,0 +1,237 @@
+================================================================================
+TAKEPROFITTRADER — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TakeProfitTrader.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official TakeProfitTrader pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: TakeProfitTrader LLC (Take Profit Trader, TPT).
+- Founded: 2021-2022, Windermere, Florida, USA. CEO: James Sixsmith.
+- Address: TakeProfitTrader LLC, 9100 Conroy Windermere Rd Suite 200,
+  Windermere, FL 34786. BBB accredited (Central Florida seal on footer).
+- Contact: Knowledge Base https://takeprofittraderhelp.zendesk.com/hc/en-us,
+  24 hours/day live support, affiliate + rewards pages, email list.
+- What it is: Futures-only 1-step eval prop firm. Test + PRO are SIMULATED
+  (orders handled by Rithmic/Tradovate sim, never internalized); PRO+ is LIVE
+  via Tradovate routed to exchange. PRO payouts are real money from test/tech
+  fees + PRO+ profit share.
+- Scale/press: founders featured in Business Insider, CNBC, Yahoo Finance,
+  Forbes, Entrepreneur. Pass rate published: 20.37% (Jan-Aug 2023) and 36.22%
+  of Tests passed in 2025 (Jan-Dec 2025 footer disclosure).
+- Distinction: Test (eval) -> PRO (sim funded, day-one withdrawals, 80/20) ->
+  PRO+ (live, invite-only, 90/10, EOD drawdown, no buffer). PRO+ Development
+  stricter variant exists.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://takeprofittrader.com (homepage: Test/PRO/PRO+ journey, day-one
+    payouts, 80/20 PRO, 90/10 PRO+, 3 days to PRO, $130 PRO fee, 5 accounts max)
+ 2. https://takeprofittrader.com/about-us (about page reference)
+ 3. https://takeprofittraderhelp.zendesk.com/hc/en-us (Knowledge Base index)
+ 4. https://takeprofittraderhelp.zendesk.com/hc/en-us/articles/29660646764445-NOFEE40-PROMO-FAQS (NOFEE40 promo: 40% off for life + no activation fee)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 5. Proptradingvibes TakeProfitTrader Rules Overview 2026-08-24 (EOD Test,
+    intraday PRO, EOD PRO+, 50% consistency, news windows)
+ 6. Proptradingvibes Accounts Overview 2026-08-24 (3 Tests passed Jul 2026,
+    3 active PROs $100K combined; $25K $150 / $50K $170 table)
+ 7. Proptradingvibes PRO Rules 2026-08-12 (intraday trailing, buffer, weekly activity)
+ 8. Proptradingvibes Review 2026-09-04 (rating 3.85/5, Trustpilot 4.3 from 10.3K)
+ 9. LuneFi Rules 2026-06-18 + Evaluation 2026-06-28 ($150-360 fees, $1,100 DLL legacy)
+10. Velotrade Review 2026-07-22 (Test prices $150/$170/$245/$330/$360, contracts 3/6/9/12/15)
+11. TradeTanto Rules 2026-08-12 (buffer = start + max DD; PRO 80/20, PRO+ 90/10)
+12. FundedOps 2026-07-12 (EOD $1.5K-4.5K drawdown specs)
+13. Trustpilot https://www.trustpilot.com/review/takeprofittrader.com (10,520 reviews)
+14. PropFirmMap https://propfirmmap.com/firms/takeprofittrader (4.4/5, 10,338 reviews, B+)
+TOTAL SOURCES: 14 (4 official + 10 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (Your Platform Your Choice, 15+; two data feeds):
+- CQG feed: NinjaTrader, TradingView, Tradovate.
+- Rithmic feed: RTrader Pro, Quantower, MotiveWave, plus Atas, Bookmap,
+  Investor/RT, Jigsaw, MultiCharts, Sierra Chart, Trade Navigator (13 listed
+  on PropFirmMap).
+- Execution: all Test/PRO orders handled by provider sim (Rithmic/Tradovate);
+  TPT never touches/fills/manipulates or counter-parties (official FAQ).
+  PRO+ live routed via Tradovate (regulated NFA/CFTC broker) to exchange.
+INSTRUMENTS: CME, COMEX, NYMEX, CBOT futures only. NO stocks/options/forex/
+  crypto/CFDs (official disclaimer).
+CONTRACT LIMITS (max; Test = PRO, no scaling plan on PRO):
+  25K: 3 | 50K: 6 | 75K: 9 | 100K: 12 | 150K: 15.
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: provider sim fills mirror live; fees count in net P/L.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Env | Sizes | Target | Drawdown | Contracts | Consistency | Split | Fee model |
+|---|---------|-----|-------|--------|----------|-----------|-------------|-------|-----------|
+| 1 | Test (evaluation) | SIM | 25K/50K/75K/100K/150K | $1.5K/$3K/$4.5K/$6K/$9K (6%) | EOD-trailing $1.5K/$2K/$3K/$4K/$4.5K | 3/6/9/12/15 | 50% | n/a | monthly sub $150/$170/$245/$330/$360 |
+| 2 | PRO (funded) | SIM | same 5 | none | INTRADAY-trailing (locks at start) | same caps, no scaling | 50% + weekly activity | 80/20 | one-time $130 activation (waived NOFEE40) |
+| 3 | PRO+ (live) | LIVE | invite only (up to 5 total) | none | EOD-trailing | per PRO+ terms | per PRO+ terms | 90/10 | no buffer, invite discretionary |
+Notes:
+- Min 3 trading days to PRO (official: fastest funded in 3 days); 5-day refs are
+  aggregator maxima. No fixed deadline while subscription active.
+- Max 5 funded accounts total (PRO + PRO+ combined, up to $750K nominal).
+- No daily loss limit (PropFirmMap: Daily Drawdown None — DLL removed).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. TEST (Evaluation) ---
+- Profit target 6%: $1,500 / $3,000 / $4,500 / $6,000 / $9,000 net, positions closed.
+- Drawdown: EOD-TRAILING ($1,500/$2,000/$3,000/$4,000/$4,500). Floor steps on
+  EOD close only; intraday open profits do not move it. Touching floor = fail.
+  Example $50K: start $50K floor $48K; close $53K -> floor $51K; dip below = fail.
+- Consistency: best day <=50% of total profit (Test). Not a breach — keep trading.
+- Min days: 3 (official FAQ/comparison table). No time limit while subscribed.
+- Contracts: 3/6/9/12/15 max. No scaling difference Test vs PRO.
+- News/overnight: Test flexible; no PRO-style blackout in eval.
+- Fail = subscription continues; reset fee tiered (e.g. $99 on 50K) or rebuy.
+--- 5B. PRO (Sim Funded, 80/20, day-one withdrawals) ---
+- Drawdown: INTRADAY-trailing (strictest shift). Trails on realized + unrealized
+  peaks until it LOCKS at starting balance. This is the survival test — Test
+  EOD skills must tighten.
+- Buffer: must build profit above buffer before normal withdrawals. Buffer =
+  start + max DD (25K $1,500; 50K $2,000; 75K $2,500; 100K $3,000; 150K $4,500).
+  Example $50K: reach $52,000 before withdrawals at 80/20.
+- Activity: trade at least once per calendar week (weekly activity rule).
+- News: flat around specified restricted windows on PRO/PRO+ (see Help Center
+  news calendar); both-side news gambling banned.
+- Resets: up to 3 PRO resets available (vs none at peers).
+- Limit up/down: must exit before price limits; holding through limit = termination.
+- Copy: approved self-owned-account copying allowed; others' signals as
+  decision-maker banned; bots/automation banned; Sustainable Trading Policy
+  reviews max-sizing/churning/sim-fill exploitation.
+--- 5C. PRO+ (Live, invite-only, 90/10) ---
+- Invite at TPT discretion only; no published threshold/timeline.
+- EOD-trailing drawdown (easier than PRO intraday), NO buffer requirement.
+- Same Tradovate broker, orders actually sent to exchange; identical risk rules.
+- PRO+ Development variant stricter (per tester notes).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+TEST MONTHLY SUBSCRIPTION (standard 2026, renews every 30 days until pass):
+- 25K: $150/mo. Target $1.5K, DD $1.5K, 3 lots.
+- 50K: $170/mo. Target $3K, DD $2K, 6 lots. (Best ratio.)
+- 75K: $245/mo. Target $4.5K, DD $3K, 9 lots.
+- 100K: $330/mo. Target $6K, DD $4K, 12 lots.
+- 150K: $360/mo. Target $9K, DD $4.5K, 15 lots.
+PRO ACTIVATION: one-time $130 fee (Test vs PRO comparison table). Waived with
+  NOFEE40 promo (40% off for life + never pay activation).
+RESETS: tiered reset fees (e.g. 50K $99); PRO resets up to 3 available.
+PROMO: NOFEE40 = 40% off for life + no activation (official banner + Zendesk FAQ).
+REFUND: subscriptions consumed monthly, NOT refunded; failed Tests not refunded;
+  activation not refunded after PRO issued.
+PAYMENT: cards via site; PRO payouts via Plaid (US bank auto), PayPal, Wise,
+  typically within 1 business day; Rise rail per PropFirmMap (24-48h).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: PRO 80/20, PRO+ 90/10. No split in Test (gate only).
+- Day-one: withdraw on day one of PRO once buffer cleared; no min profitable
+  days, no max cap, no payout window (official: no restrictions above buffer).
+- Cadence: on-demand/daily once eligible; processing 24-48h (Rise) / ~1 business day.
+- Methods: Plaid (US auto), PayPal, Wise. No documented min/max per request.
+- Scaling: no formal plan; max 5 funded ($750K). Upgrade path Test -> PRO -> PRO+
+  (PRO+ invite discretionary, not guaranteed).
+- Source of payouts: test/tech fees + PRO+ shared profits (official FAQ).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Drawdown/contract breach = fail/termination (Test EOD, PRO intraday).
+2. Restricted-news windows on PRO/PRO+: must be flat; news gambling banned.
+3. Limit-up/down holding = termination (CME limits govern).
+4. Bots/automation, counter-positions across accounts, others' copy as
+   decision-maker banned; self-owned approved copying allowed.
+5. Weekly activity required on PRO/PRO+ (1+ trade per calendar week).
+6. Sustainable Trading Policy: repeated max-sizing, churning, sim-fill abuse flagged.
+7. Weekend holding not allowed (per PropFirmMap general-rules extract).
+Consequences: Test fail (reset), PRO termination (reset up to 3), PRO+ removal,
+  payout hold if buffer/news rules violated.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Substantial experience recommended (pass rates 20-36% even for seasoned).
+- USA: SERVED (Florida firm; Plaid US-bank auto payouts).
+- UK/International: served where CME/Tradovate/Rithmic permitted; ES/EN site.
+- KYC: ID + payout-method verification at PRO approval before first withdrawal;
+  beneficiary must match.
+- Regulated brokers only (Tradovate/NinjaTrader/Rithmic, CME-approved data);
+  TPT itself not NFA/CFTC-member (not required for funding firms) and not a broker.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/takeprofittrader.com: 4.3-4.4/5
+  from 10,338-10,520 reviews (PTV 4.3 Sep 2026; PropFirmMap 4.4 Sep 2026).
+  Highest among major futures peers per PropFirmpath (4.7 claim variant).
+  PropFirmMap Safety B+, PFM Score 7.5, Trust 9.2/10, Payout Speed 9/10.
+- Sentiment: positives on day-one payouts, simple dashboard, responsive 24h
+  support, Coleman/Ben/Rica/Taha video testimonials; negatives on PRO intraday
+  surprise (EOD->intraday switch), buffer lock, news-window forfeits, monthly
+  sub cost for slow testers.
+- Tester verdict: Proptradingvibes 3.85/5, 3 Tests passed Jul 2026 + 3 active
+  PROs $100K combined — Test easy, PRO survival hard; model stable, surrounding
+  reset/wallet/copy/Sustainable-Policy details evolved 2026.
+- Red flags: NONE systemic (BBB accredited, regulated-broker routing, published
+  pass rates). Watch: PRO intraday strictness, buffer math, PRO+ invite odds.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS TOPSTEP/APEX: TPT day-one PRO withdrawals (no 5-day $150 grind) + no PRO
+  scaling plan + up-to-3 PRO resets vs Topstep 5x$150/Apex 8-day rhythm. TPT PRO
+  intraday is harsher than Topstep EOD; TPT PRO+ EOD is the relief valve (invite).
+VS STATIC FIRMS: TPT trailing (not static); static seekers compare Bulenox/Tradeify.
+BEST FIT: futures scalpers/day traders wanting fastest first payout, 15+ platform
+  choice (Ninja/TradingView/Tradovate/Rithmic), 80->90% ladder, 5-account stack.
+BAD FIT: traders needing static drawdown, no-buffer funded, guaranteed live,
+  hands-off bots, or weekend holding.
+RULE OF THUMB: start $50K ($170, NOFEE40) for best target/DD/fee ratio; size
+  micros until buffer $52K cleared, then scale to 6 lots.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Test/PRO/PRO+ targets, drawdowns, contracts, splits, buffers
+and fees above were read from the 4 official URLs in Section 2 on 2026-09-08 and
+cross-checked to Aug-Sep-2026 tester tables sourced to TPT Help Center.
+Promos (NOFEE40) rotate — re-check homepage banner before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes EOD-Test/intraday-PRO/EOD-PRO+ ladder, $130 activation,
+day-one PRO payouts, buffer table, 5-account max, Trustpilot 4.3-4.4 context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Steps: "1. Select Your Account Size ... 2. Prove You Can Trade ... 3. Start
+ Earning Money ... 4. Withdraw Into Your Account ... 5. Upgrade to PRO+."
+[2] Day-one: "You can get paid on day one of your PRO account" / "when you make
+ it on day one you can take it on day one. There's no withdrawal restrictions on
+ your profits above the buffer."
+[3] Split: "You keep 80%." / "Elevate ... by upgrading to PRO+. You'll enjoy EOD
+ drawdown, 90/10 profit split, and no buffer requirement."
+[4] PRO fee: "One Time $130 Fee" (vs Monthly Recurring at others).
+[5] SIM: "Yes, all PRO accounts are simulated (SIM)." / "the profits in your PRO
+ account are SIM, but the money you are paid is 100% real."
+[6] PRO+ live: "Take Profit uses Tradovate as its regulated broker for live
+ (PRO+) accounts. All orders are passed through ... sent to the exchange."
+[7] Speed: "3 trading days, as long as you've met the profit target and all
+ other test rules." / "You can trade up to five funded accounts."
+[8] Pass rate: "between January 1, 2025, and December 31, 2025, 36.22% of all
+ Trading Tests were successfully passed."
+[9] Promo: "Get 40% Off For Life + Never Pay An Activation Fee! ... Use Code: NOFEE40"
+[10] Instruments: "exclusively listed on ... CME, COMEX, NYMEX, and CBOT ...
+ do not support ... stocks, options, forex, cryptocurrencies, or CFDs."
+================================================================================
+END OF FILE — TAKEPROFITTRADER COMPLETE. Next firm is a separate task (not started).
+================================================================================

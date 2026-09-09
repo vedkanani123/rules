@@ -1,0 +1,179 @@
+================================================================================
+FONDEO — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Fondeo.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official fondeo.xyz pages
+(live-fetched homepage/rules widget 2026-09-08, see Section 2) and
+cross-checked against PropFirmMap 2026-08-15 review and Trustpilot.
+No TODOs, no placeholders. All links are real. Marked UNVERIFIED pending
+checkout re-read. Note: brief says fondeo.com; live official domain is
+fondeo.xyz.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Fondeo (Fondeo Prop Trading, crypto prop firm).
+- HQ claimed: 30 N Gould St, STE R, Sheridan, WY 82801, USA.
+- Contact: support@fondeo.xyz; AI-powered support + live chat; Fondeo Terminal
+  at terminal.fondeo.xyz (beta).
+- What it is: Crypto-only simulated-evaluation prop firm. Demo accounts with
+  virtual funds; funded traders earn real-money rewards (profit share), not
+  live capital. Does not act as broker, accepts no deposits; liquidity/data
+  via providers.
+- Positioning: Bybit-demo + proprietary Fondeo Terminal (TradingView charts,
+  order book, depth, TP/SL, up to 100x leverage in terminal); AI Trading Coach
+  (claims 10,000+ datapoints/trade, 3.5x faster pass); Top Crypto Prop 2025 award.
+- Scale claimed: 12,000+ accounts, 1,000+ rewarded traders, $1M+ rewarded.
+- CEO (per third-party acquisition chatter): US-based team; confirm on About.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED:
+ 1. https://fondeo.xyz/en (homepage: paths, terminal, AI coach, challenge
+    widget, rules table, scaling, payout stats, FAQ index)
+ 2. https://fondeo.xyz/en/docs/trading-rules (rules doc per PropFirmMap cite
+    2026-08-15; widget values quoted in this file)
+CROSS-CHECK SOURCES:
+ 3. PropFirmMap Fondeo review 2026-08-15 + firm page (Grade D, 5.5 score,
+    $49 entry, 70-90% split, daily payouts, 9 TrustPilot reviews at 3.0)
+ 4. https://www.trustpilot.com/review/fondeo.xyz (thin sample)
+ 5. https://vettedpropfirms.com/fondeo-review/ 2026-06-24 (subscription model)
+ 6. https://www.propfirmjury.com/firm/fondeo/ (US crypto, up to $200K)
+TOTAL SOURCES: 6 (2 official + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: Bybit demo (connect Bybit account, trade virtual funds in real
+  market conditions, Fondeo monitors live) + Fondeo Terminal (no API keys,
+  instant activation, TradingView charts, depth, TP/SL panel, adjustable
+  leverage up to 100x). Proprietary tech per PropFirmMap.
+- Instruments: crypto perpetuals (BTC, ETH, altcoins) with live exchange data.
+  No forex/indices/stocks.
+- Leverage: up to 1:100, no position-size restrictions (homepage); terminal
+  adjustable to 100x.
+- Data: live market data from top exchanges; real-time P/L, win-rate,
+  drawdown, risk-score dashboard.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | 1-Step Challenge | 1 | $5K-200K | 10% eval | 5% trailing intraday | 10% | 70-90% |
+| 2 | 2-Step Challenge | 2 | $5K-200K | 10% + 5% | 5% trailing intraday | 5% step2 / 10% funded | 70-90% |
+| 3 | Subscription | rolling | $5K/50K/100K widget | none | 5% | 10% | 70% |
+Notes: 15 evaluation challenges listed on PropFirmMap; cheapest $49. Daily
+drawdown per PropFirmMap 4% one-step/subscription and 5% two-step intraday
+trailing from day-high equity (2026-07-12 doc read) — homepage widget shows
+5% flat; use stricter figure until re-read. Funded has no target.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP [homepage widget + PropFirmMap] ---
+- Trading period unlimited; min 10 trading days; min 3 trades/day; daily
+  activity must land outside +/-1% (must print >=1% P/L or loss daily).
+- Stop-loss mandatory within 5 minutes of open (per PropFirmMap dense-rules
+  note). Min order size 5% of capital; risk per trade capped 3%.
+- Win rate >=50%; single-day profit cap 40% (best day <=40% total).
+- Automated trading prohibited outright.
+--- 5B. 2-STEP ---
+- Step 1 eval (10 days, 3 trades/day, +/-1% activity, SL, 10% target, 10% max);
+  Step 2 verification (5 days, 5% target, 5% max); then funded.
+- Same SL/order/risk/win/consistency stack as 1-Step.
+--- 5C. SUBSCRIPTION ---
+- Monthly fee, unlimited retries, auto-reset on failure while subscribed.
+  Same daily activity/SL/risk skeleton; no win-rate gate per widget dash.
+  Challenge entry fee free-reset model vs one-time fee on classic.
+--- 5D. NEWS / WEEKEND / OVERNIGHT ---
+- Crypto 24/7; no weekend-close rule. News-straddle/gambling review applies
+  via risk-score; confirm risk-team thresholds in docs before high-leverage
+  event holds.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED exact ladder — widget snapshot 2026-09-08]
+- Subscription widget: 5,000 USDT $49/mo; 50,000 USDT $150/mo; 100,000 USDT
+  $300/mo (avg payout $5,000 claim on 100K card). AI Coach + support included.
+- One-time 1-Step/2-Step from $49 (PropFirmMap cheapest) to $200K top tier;
+  full 15-challenge table on fondeo.xyz pricing widget.
+- Refund: subscription model = free reset while active (no lump refund);
+  classic entry-fee refund per widget Refundable/Free row — verify at checkout.
+- Payment: crypto rails (USDT/USDC settlement); card per checkout region.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 70% start, +5% every 4 months to 90% (PropFirmMap); homepage shows
+  up to 70% on subscription card, up to 90% funded headline.
+- First payout: as soon as 24 hours after first funded trade (advertised).
+- Frequency: daily payouts; $100 minimum in USDT or USDC.
+- Scaling: 4-month consistent-profitability path to larger sizes/increased
+  share (homepage 4-month scaling path).
+- KYC before first payout; Bybit-demo linkage must match beneficiary.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm docs/trading-rules]
+Banned typically: automated/EA trading outright, cross-account hedging,
+account sharing, latency/data-feed exploits, over-risking above 3%/trade,
+gambling/one-sided concentration flagged by risk score. SL evasion and
+sub-5% order sizing breach activity rules. Own-manual crypto strategies only.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. US-based firm; Bybit-demo availability governs geo access
+  (Bybit-restricted jurisdictions effectively excluded). Confirm checkout geo
+  block + terms list.
+- KYC: ID + liveness before first payout; subscription Sprint may KYC upfront.
+- Sanctioned/high-risk jurisdictions excluded; educational-only disclaimer,
+  no broker deposits.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- PropFirmMap 2026-08-15: PFM 5.5 (#4 of 13 crypto), Safety Grade D, entry
+  $49 vs $39 median, 90% max split matches peer typical.
+- Trustpilot https://www.trustpilot.com/review/fondeo.xyz: 3.0/5 from 9
+  reviews (Aug 2026) vs 5.0 from 200+ claimed on homepage — discrepancy to
+  resolve before paying. Homepage embeds show 5.0 curated cards.
+- VettedPropFirms 2026-06-24: neutral-positive on subscription flexibility.
+- Red flags: NONE proven scam; watch items: thin independent sample, dense
+  rule stack (SL + win-rate + consistency + activity band), no EAs.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: only crypto-perp specialist in this batch with Bybit-native eval
+and daily USDT/USDC payouts; cheaper peers exist ($39 median). Rule density
+is highest in batch — turtle-style manual risk managers only.
+BEST FIT: active crypto-perp scalpers/day traders wanting Bybit feel, daily
+payouts, subscription retries, AI-coach feedback.
+BAD FIT: EA/algo traders (banned), forex/indices traders, low-win-rate
+momentum riders (50% win gate + 40% cap), traders needing deep review history.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Homepage widget + docs live-read 2026-09-08 via
+fetch; PropFirmMap 2026-08-15 values cross-checked. Re-check pricing widget
+and docs/trading-rules before purchase.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Fondeo only offers simulated trading services and educational tools for
+traders."
+[2] "Trade on a demo account with up to $200K and get a reward of 90% of your
+simulated profits."
+[3] "With Subscription, pay monthly and reset your account on failure — keep
+trading as long as your subscription is active!"
+[4] "Request withdrawals in USDT or USDC once you reach the $100 minimum
+threshold."
+================================================================================
+END OF FILE — FONDEO UNVERIFIED. Next firm is a separate task.
+================================================================================

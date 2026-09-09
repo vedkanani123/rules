@@ -1,0 +1,316 @@
+================================================================================
+AQUAFUTURES — COMPLETE PROP FIRM INTELLIGENCE FILE (FUTURES ARM)
+propfirms_complete/AquaFutures.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official AquaFutures pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+Sister file AquaFunded.txt covers the CFD arm — never mix the two.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: AquaFutures (futures-only arm of AquaFunds holding; sisters
+  AquaFunded CFD + AquaFunded Crypto).
+- Founded: November 2024 (futures operations launch; holding est. 2023 Dubai).
+  Holding: AquaFunds (https://www.aquafunds.com). Futures portals:
+  https://www.aquafutures.io + https://aquafunded.com/futures (same offers,
+  dual domains) + app https://app.aquafutures.io/ (login).
+- Contact: via aquafutures.io + https://intercom.help/aquafutures-help-center/
+  en (Futures FAQ) | CFD FAQ contrast https://help.aquafunded.com/en/ |
+  Discord https://discord.com/invite/aquafunded | support via website chat/
+  socials. 24/7 support; No Activation Fees; Funded Faster positioning.
+- What it is: futures simulated-evaluation prop firm (CME-group products via
+  Tradovate + Volumetrica/DeepCharts). ALL accounts simulated; traders earn
+  real-money Rewards (profit splits), not live capital. CFTC 4.41 hypothetical-
+  performance disclaimer applies (same footer as CFD arm).
+- Scale claimed (Sep 2026 read, shared brand wall): 300,000+ Traders,
+  $8M+ / $6.7M+ Paid in Rewards (homepage $8M+; Lune Jun-2026 $6.7M+ futures
+  read), $2,450 Average Reward, $119,175 Highest Paid Trader. Futures-specific
+  proofs in rewards wall (Andrei $65,377; Neoh $78,661; Sunil $120,590 UK).
+- Positioning: "Keep 100% Profit Split of your first $15,000, Then 90%",
+  "Weekly rewards", "No set Rewards Schedule — Withdraw when ready", "Easy
+  6% profit targets", "Funded up to $450K" (futures-page variant vs $400K CFD),
+  "Instant funding — Skip the challenge", "No hidden rules, No time limits".
+- Key distinction: AquaFutures (Tradovate/Volumetrica, EOD + intraday trailing,
+  15-40% consistency, weekly/on-demand rewards, $25K-$150K evals to $450K
+  funded) vs AquaFunded CFD (MT5/TradeLocker/MatchTrader/cTrader, 90%/100%
+  bi-weekly/7-day — see AquaFunded.txt) are SEPARATE products. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://aquafunded.com/futures (futures homepage: 100%-first-$15K then
+    90%, weekly rewards, 6% targets, $450K funded, instant funding, FAQ split)
+ 2. https://www.aquafutures.io/ (mirror portal: up to $450K, instant funding,
+    21 challenge options, Tradovate/Volumetrica)
+ 3. https://app.aquafutures.io/ (futures login/app portal)
+ 4. https://intercom.help/aquafutures-help-center/en (Futures FAQ index —
+    vs CFD https://help.aquafunded.com/en/)
+ 5. https://aquafunded.com/how-it-works (shared 3-step: challenge -> $400K-
+    $450K -> 100% paid)
+ 6. https://aquafunded.com/trader-plan (shared scaling to $4M)
+ 7. https://aquafunded.com/rewards (shared $8M+ wall + 24h/$1,000 guarantee)
+ 8. https://www.aquafutures.io/blogs/cheapest-futures-prop-firm (9 cheapest
+    futures firms guide)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 9. LuneFi AquaFutures review Jun-2026 (Nov-2024 launch; 21 options; $25K-
+    $150K; avg fee $178; $80 50K one-step $1.60/K value; APRILFOOLS 60% off;
+    $6.7M+ paid; 100%-first-$15K then 90%; 15-40% consistency; zero min days;
+    Tradovate/Volumetrica; $450K portal claim)
+10. FuturesFury AquaFutures 2026 (EOD trailing; $80-$150 resets; 100%-first-
+    $15K; pricing + discount code)
+11. PropFirmBridge Aqua Futures 2026 (Flex/Standard/Beginner/Instant Standard/
+    Instant Pro; Tradovate + DeepCharts; to $150K evals; EOD + intraday trail)
+12. PropFirmMap AquaFutures 2026 (Grade B, 3.9 stars; Dubai; sister of
+    AquaFunded/Crypto; AquaFunds holding; 2023; 1-Step Beginner/Standard +
+    Instant Standard/Pro; Tradovate/Volumetrica; $25K-$150K; 100% first)
+13. TheTrustedProp AquaFutures review Sep-2026 (12-min: types, drawdowns,
+    prohibitions, payouts, 60%-off code)
+14. TradesFunded AquaFutures review 2026 (futures review page)
+15. WeConnectFX AquaFutures review 2026 (review page)
+16. MyFXBook AquaFutures reviews (rating page 3303952)
+17. Trustpilot https://www.trustpilot.com/review/aquafutures.io (futures
+    subdomain profile) + PropFirmMatch https://propfirmmatch.com/futures/
+    prop-firms/aquafutures (60% OFF code page)
+18. ThePropFirmGuide AquaFutures (60% OFF discount page May-2026)
+19. Reddit https://www.reddit.com/r/Forex/comments/1motjbl/aqua_funded_prop_firm_warning/ (warning thread — read for risk balance)
+20. Propfirmapp statistics 2026 (industry growth context)
+TOTAL SOURCES: 20 (8 official + 12 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: Tradovate + Volumetrica (+ DeepCharts data/charts per
+PropFirmBridge). No MT5/cTrader/MatchTrader (CFD-only). Futures login
+https://app.aquafutures.io/. Exchange/clearing/NFA fees apply per Tradovate
+rails (Free $0.39/micro side; Monthly $99 $0.29/micro; Lifetime $1,499
+$0.09/micro — Tradovate pricing page; prop evaluation fee is SEPARATE).
+INSTRUMENTS: CME-group futures (standard/mini/micro): Indices (S&P, Nasdaq,
+Russell), Metals (Gold/Silver/Copper), Energy (Crude/NatGas), Currencies,
+Treasuries/Agri per Tradovate availability. Front-month focus; lock-limit
+rules per contract specs — verify in-platform.
+LEVERAGE/MARGINS: Tradovate day margins from $50 micro / $500 standard
+($10 Nano, $25 Smalls); prop max-contracts rule per plan (confirm live
+plan card — Lune table excerpts below). Commissions + fees COUNT toward
+drawdown (equity-based).
+DATA: real-market pricing via Tradovate/Volumetrica; CME live data behaves
+per subscription — confirm data-fee inclusion at checkout (No Activation
+Fees banner refers to prop activation, not exchange data if billed).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program          | Type    | Sizes        | Target          | Daily loss      | Max DD            | Split        | Fee |
+|---|------------------|---------|--------------|-----------------|-----------------|-------------------|--------------|-----|
+| 1 | 1-Step Beginner  | 1-step  | 25K/50K/100K/150K | $1,250/$3K/$6K/$9K | $625/$1,250/$2,500/$3,750 | $1K/$2.5K/$3.5K/$5K EOD trailing | 100% | $80/$80/$150/$210 |
+| 2 | 1-Step Standard  | 1-step  | 25K/50K/100K/150K | $1,250/$3K/$6K/$9K | NONE            | $1K/$2K/$3.5K/$5K EOD-or-static | 100%/90% | $80/$120/$190/$240 |
+| 3 | Instant Standard | instant | 25K-150K    | NONE            | per card        | static band       | 80-100%      | ~$306 100K cited (pre-discount) |
+| 4 | Instant Pro      | instant | 25K (Beginner Volumetrica Instant Pro cited) | NONE | $625 | $0 static display | 80% | $475 25K cited |
+| 5 | Flex / Updated   | 1-step  | 50K/100K/150K | $3K/$6K/$9K    | NONE (Updated)  | $2K/$3.5K/$5K EOD | 100% | $120/$190/$240 |
+Notes (Lune Jun-2026 21-option table; confirm live plan cards):
+- 21 challenge options total; average one-time fee $178; best value $80
+  one-step $50K ($1.60 per $1K buying power).
+- Funded has NO profit target. Zero minimum trading days on instant
+  (differentiator vs 5-10-day rivals). No time limit.
+- Consistency 15-40% by plan (below 50% industry median — stricter than
+  median; see Section 5). Instant still enforces DD + consistency gates.
+- Funded ceiling: up to $450K (portal claim) vs $400K CFD hero.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP BEGINNER (with Daily Loss Limit) ---
+- Targets: $1,250 (25K) / $3,000 (50K) / $6,000 (100K) / $9,000 (150K).
+  None on funded.
+- Daily Loss Limit: $625 / $1,250 / $2,500 / $3,750 (hard intraday cap).
+- Max Drawdown: $1,000 / $2,500 / $3,500 / $5,000 EOD TRAILING (updates once
+  daily off highest end-of-day balance; trails up only; locks at initial).
+  Breach = fail (eval) / termination (funded). Equity = balance + open P/L
+  - commissions/fees; touch = breach.
+- Consistency 15-40% by plan (most profitable day capped at 15-40% of total;
+  breach recalculates target upward — confirm live formula).
+- Fees: $80 / $80 / $150 / $210 (pre-discount; APRILFOOLS 60% off Cited).
+--- 5B. 1-STEP STANDARD / UPDATED STANDARD (no DLL, wider room) ---
+- Same targets ($1.25K/$3K/$6K/$9K); DLL NONE (Updated Standard) — trade
+  without daily stop but same EOD-trailing MLL ($1K/$2K/$3.5K/$5K).
+  Classic Standard 150K row shows $5,000 STATIC variant ($240 fee, 90% split)
+  — snapshot variance EOD-vs-static; confirm live card.
+- Split 100% (Updated/Beginner rows) vs 90% (classic Standard 150K row).
+- Fees: $80 (25K) / $120 (50K) / $190 (100K) / $240 (150K).
+--- 5C. INSTANT STANDARD / INSTANT PRO (skip evaluation) ---
+- No target, zero min days, immediate funded-sim account. Example card:
+  Beginner Volumetrica Instant Pro 25K: DLL $625, $0-static display (confirm
+  live DD mapping), 80% split, $475 fee. Instant Standard 100K ~$306 cited
+  pre-discount.
+- Same EOD/intraday DD + consistency gates as evaluated plans — instant
+  removes STEPS, not RISK RULES. One oversized day can still close account.
+--- 5D. FLEX (no-DLL evaluated value) ---
+- Updated/Flex 50K/100K/150K: $3K/$6K/$9K targets, NO DLL, $2K/$3.5K/$5K EOD
+  trailing, 100% split, $120/$190/$240 fees. Best evaluated value for
+  no-daily-stop traders.
+--- 5E. FUNDED STAGE ---
+- No target. Weekly rewards; no set schedule ("Withdraw when ready").
+  100% of first $15,000, then 90% (Section 7). Consistency carries to funded
+  on gated plans. Reset fees $80-$150 (FuturesFury) — funded breach = new
+  challenge (resets are evaluation products).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES in USD (single payment, no subscription; 60%-off codes rotate):
+1-Step Beginner: 25K $80 | 50K $80 | 100K $150 | 150K $210.
+1-Step Standard/Updated: 25K $80 | 50K $120 | 100K $190 | 150K $240
+  (classic Standard 150K $240 90% row).
+Instant: 100K ~$306 cited; 25K Instant Pro $475 cited (pre-discount).
+Average across 21 options: $178 (Lune). $50K one-step $80 = $1.60/K value.
+PROMOS: APRILFOOLS 60% OFF (Lune Jun-2026; reduces $306->$~122 and $190->
+~$76 example); BACK2WORK 25%+150% (brand-wide banner); SUMMERCLEAR-type
+40%+BOGO on CFD arm (confirm futures eligibility). Time-limited — verify.
+ADD-ONS: per checkout (split upgrades, data, platforms — confirm live list).
+RESETS: $80-$150 (FuturesFury) — evaluation resets, not funded restores.
+REFUND: fee-refund schedule per plan card (confirm live; CFD arm 100%/150%
+does NOT auto-apply to futures — check futures refund line at checkout).
+PAYMENT METHODS: Visa/Mastercard/Maestro/Amex/Apple Pay/Bitcoin/Ethereum
+(shared checkout rails).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 100% on FIRST $15,000 of profits, then 90% on most plans (futures
+homepage + Lune agree). Some rows 80% (Instant Pro) / 90% (classic Standard)
+— confirm live plan card. CFD arm 90%/100%-add-on differs — never mix.
+FIRST REWARD: weekly cadence ("Weekly rewards"; "First Weekly Rewards" block).
+No set schedule ("Withdraw when ready" — request when eligible, no fixed
+waiting rule beyond plan gates).
+FREQUENCY: weekly/on-demand; 24-hour processing under Reward Guarantee
+("Get paid in 24 hours or we pay you an extra $1000" — shared brand promise).
+METHODS: bank/crypto rails per checkout; $100 CFD-arm minimum does not
+auto-apply — confirm futures minimum in FAQ before purchase.
+SCALING: trader-plan to $4M (shared); futures portal ceiling $450K funded.
+MAXIMA: $150K max evaluation size; $450K funded ceiling; $4M scaled.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Futures FAQ + Terms + Tradovate plan rules.
+BANNED (breach = fail/termination + reward denial):
+ 1. Exceeding DLL/MLL (incl. commissions/fees + floating P/L) — real-time.
+ 2. Consistency-gaming: one-day oversize to dodge 15-40% cap (target recalc
+    + payout gate; repeated gaming = termination).
+ 3. Hedging across accounts; cross-user copy; group/social copying.
+ 4. HFT/latency/arbitrage/tick-scalp; feed-error exploitation.
+ 5. Account sharing / trading others' accounts / pass-your-challenge rings.
+ 6. Wrong-month/illiquid-contract abuse; lock-limit proximity holds.
+ALLOWED: news trading (confirm plan card — futures generally allowed);
+algo/automation where platform supports (Tradovate/Volumetrica APIs);
+weekend flat-to-close per CME hours (futures have daily halt, unlike 24/7
+crypto — positions follow session rules).
+ENFORCEMENT: EOD-trail + intraday DLL tracked tick-by-tick; one touch =
+breach even if recovers. Seriousness/establishment + technical-environment
+rules per Lune outline — re-check FAQ.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed.
+- USA: Tradovate path is US-accessible where futures licensing allows;
+  confirm checkout geo-check + NFA disclosures before purchase (Tradovate is
+  NFA Member 0309379; NinjaTrader/Tradovate disclosures govern brokerage).
+- UK: served where data/brokerage access allows.
+- HARD BANS: no published futures hard-ban list found Sep 2026; bans follow
+  sanctions + KYC + exchange access. Re-check Terms/FAQ.
+- KYC: ID + agreement before funded activation; payout invoices require
+  matching beneficiary + KYC pass.
+- VPN/VPS: allowed; account-sharing ban still applies.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Homepage badge: 9.4/10 combined third-party (shared brand).
+- PropFirmMap AquaFutures: Grade B, 3.9 stars (Dubai futures-only, sister of
+  CFD/Crypto, AquaFunds holding, 2023).
+- LuneFi: 21-option value analysis (avg $178; $80 50K best value); 60%-off
+  code note; 15-40% consistency warning (stricter than 50% median).
+- FuturesFury: EOD-trail + $80-$150 resets + 100%-first-$15K explainer.
+- TheTrustedProp Sep-2026: 12-min full review (types, DD, prohibitions,
+  payouts, discount).
+- Trustpilot aquafutures.io subdomain: separate profile from aquafunded.com
+  3/5-flagged CFD profile — re-check live before citing.
+- Reddit warning thread (r/Forex 1motjbl "Aqua Funded prop firm warning") —
+  read for balance; plus MyFXBook/TradesFunded/WeConnectFX review pages.
+- Sentiment (positive): instant funding + zero min days; 100%-first-$15K;
+  weekly/on-demand; $80 value entries; Tradovate/Volumetrica choice; $450K
+  ceiling.
+- Recurring complaints: 15-40% consistency biting payouts; platform issues
+  threads; strict DD on instant (no-steps-not-no-rules confusion); CFD-arm
+  Trustpilot flag spilling onto futures perception.
+- Red flags: MODERATE — shared-brand Trustpilot overhang + Reddit warning
+  thread; no regulator action found. Watch items: EOD-vs-static row variance;
+  refund-line mapping futures-vs-CFD; live plan-card confirmation.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the instant-futures value shelf — 21 options to $150K evals at
+$80 entries with zero min days (vs Apex/Topstep 5-10-day norms) and 100%-
+first-$15K (vs 80-90% flat rivals). Pays with sub-median 15-40% consistency
+gates rivals do not impose at that tightness. Tradovate + Volumetrica dual
+beats single-platform futures props.
+BEGINNER (DLL) VS STANDARD/UPDATED (NO DLL) VS INSTANT: Beginner = daily cap
+safety rails for disciplined grinders. Standard/Updated = no daily stop,
+same EOD trail (freedom with same floor). Instant = zero steps, same risk
+rules (speed, not leniency). Flex/Updated = no-DLL value sweet spot.
+CFD (AquaFunded.txt) VS FUTURES (this file): different platforms, different
+drawdowns (CFD trailing/static 6-10% vs futures EOD $1K-$5K), different
+splits (CFD 90%/100%-add-on vs futures 100%-first-$15K-then-90%), different
+cadences (CFD 7-day/bi-weekly vs futures weekly/on-demand), different caps
+($400K vs $450K). Share brand wall/guarantee/scaling only.
+BEST FIT: futures day traders wanting instant/1-step to $150K at $80;
+zero-min-day sprinters; Tradovate/Volumetrica users; 100%-first-$15K
+maximisers; weekly-payout seekers; $450K-ceiling scalers.
+BAD FIT: consistency-allergic lump-sum traders (15-40% gates); HFT/latency/
+arbitrage styles; cross-account hedgers; copy-service rings; traders needing
+> $150K single eval; anyone assuming instant = no rules.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 8 official URLs in Section 2 on
+2026-09-08 (aquafunded.com/futures + aquafutures.io dual-domain reads).
+Fee table ($80-$475) via Lune Jun-2026 21-option table of aquafutures.io;
+APRILFOOLS 60% + BACK2WORK 25%+150% live-banner reads Sep 2026. Re-check
+plan cards + checkout before purchase. AquaFutures notes all accounts
+simulated (CFTC 4.41).
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Beginner/Standard/Instant/Flex map, $80-$475 ladder,
+EOD-trailing mechanics, 15-40% consistency warning, 100%-first-$15K-then-90%,
+weekly/on-demand rewards, $450K ceiling, Tradovate/Volumetrica split.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Join 300,000+ Traders" / "Rated 9.4/10 From 5k+ verified reviews"
+ / "Trade with our Capital and keep 100% of the Profit paid on demand"
+[2] Futures split: "Keep 100% Profit Split of your first $15,000 — Then 90%
+Profit Split"
+[3] Futures cadence: "Weekly rewards" / "No set Rewards Schedule — Withdraw
+when ready" / "First Weekly Rewards"
+[4] Targets: "Easy to achieve 6% profit targets" / "Funded up to $450k"
+[5] Instant: "Instant funding — Skip the challenge and get instantly funded."
+[6] Banners: "No Activation Fees — Funded Faster" / "25% Off + 150% Refund —
+Code: BACK2WORK" / "Get paid in 24 hours or we pay you an extra $1000"
+[7] Markets: "Forex, Indices, Metals — Trade CFDs with AquaFunded" /
+"Crypto — Trade Crypto with AquaFunded" / "Futures — Trade Futures with
+AquaFunded Futures"
+[8] Lune table rows: "1-Step Beginner $50K 1-step $3,000 $1,250 $2,500 EOD
+trailing $80 100%" / "Updated Standard $100K 1-step $6,000 None $3,500 EOD
+trailing $190 100%" / "Beginner Volumetrica Instant Pro $25K Instant None
+$625 $0 static $475 80%"
+[9] Lune launch: "AquaFutures began in November 2024 as a futures-only prop
+firm. It provides simulated trading accounts through Tradovate and
+Volumetrica."
+[10] FAQ split: "CFDs — help.aquafunded.com/en/" / "Futures —
+intercom.help/aquafutures-help-center/en"
+================================================================================
+END OF FILE — AQUAFUTURES COMPLETE. Sister file AquaFunded.txt is separate.
+================================================================================

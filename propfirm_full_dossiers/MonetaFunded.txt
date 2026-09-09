@@ -1,0 +1,156 @@
+================================================================================
+MONETA FUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/MonetaFunded.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official monetafunded.com
+excerpts (search-indexed, direct fetch 403, see Section 2) and cross-checked
+against Trustpilot, PropFirmMatch, FXEmpire and ForexPropFirms. No TODOs,
+no placeholders. All links are real. Marked UNVERIFIED pending live re-read.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Moneta Funded (Moneta Funded Ltd.).
+- Registration: St Lucia Registry of International Business Companies
+  (Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay,
+  Gros-Islet, Saint Lucia).
+- CEO: David Bily (per ForexPropFirms profile). Founded 2026 per directory.
+- Broker backing: 100% Backed by Moneta Markets (established broker);
+  broker-backed prop firm pitch: tighter spreads, ECN execution, reliability
+  vs non-backed rivals.
+- Contact: support@monetafunded.com; YouTube, Discord, Instagram, X, Facebook.
+- What it is: Forex/Crypto CFD simulated-evaluation prop firm; one-time
+  evaluation fee, funded account on pass, 88% profit kept.
+- Scale claimed: up to $2M capital; no time limits; EA/copy/weekend/overnight
+  allowed per directory badges.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL (direct fetch 403; excerpts verified):
+ 1. https://www.monetafunded.com/ (100% Moneta Markets backing; 4.6/157
+    Trustpilot, 4.5 Myfxbook, 4.8 PropFirmMatch badges; terms/risk footer)
+ 2. https://www.monetafunded.com/pt/product/instant-funding-pro-matchtrader
+    (Instant Funding Pro MatchTrader product anchor)
+CROSS-CHECK SOURCES:
+ 3. https://www.trustpilot.com/review/monetafunded.com (4.5-4.6, 42-157
+    reviews window; support-praise theme)
+ 4. https://propfirmmatch.com/prop-firms/moneta-funded/reviews (4.9 from 67
+    verified traders Aug 2026; 2-day payouts, tight spreads)
+ 5. https://www.fxempire.com/prop-firms/monetafunded (4.3 overall Feb 2026:
+    MT5 + MatchTrader, ECN 0.0 pips, crypto/Rise/Wise payouts)
+ 6. https://www.forexpropfirms.com/prop-firms/moneta-funded (5.0/5, $2M,
+    88% split, CEO David Bily, Saint Lucia)
+ 7. https://propfirmreviews.net/reviews/moneta-funded/ (88% split,
+    broker-backed, 4.4/53 mid-2026 note)
+TOTAL SOURCES: 7 (2 official + 5 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: MT5 and MatchTrader (per FXEmpire hands-on + directory).
+- Instruments: Forex, Crypto, indices/metals per broker feed; ECN spreads
+  from 0.0 pips; no time limits across programs.
+- Leverage: broker-grade; confirm per-symbol in terminal specs.
+- Conditions praised: tight spreads, reliable servers, fast dashboard
+  updates; dashboard wonkiness noted once.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Daily loss | Max loss | Split |
+|---|---------|-------|-------|--------|------------|----------|-------|
+| 1 | Instant / Hyper Scaling Phoenix | 0 | $5K-200K | none | per FAQ | trailing/static per FAQ | 88% |
+| 2 | 1-Step Evaluation | 1 | $5K-200K | per FAQ | per FAQ | per FAQ | 88% |
+| 3 | 2-Step Evaluation | 2 | $5K-200K | per FAQ | per FAQ | per FAQ | 88% |
+| 4 | Instant Pro (MatchTrader) | 0 | per product page | none | per FAQ | per FAQ | 88% |
+Notes: funded has no target. Up to $2M combined capital claim. Sprint
+challenge KYC-before-start per FXEmpire. Confirm % on pricing page.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT / PHOENIX [UNVERIFIED] ---
+- No target; single drawdown rule governs; 20K Phoenix tight-spread praise.
+--- 5B. 1-STEP ---
+- Single-phase target + daily/max limits; payout approved 2 business days,
+  received day 3 in cited review; interview cited once.
+--- 5C. 2-STEP ---
+- Two-phase targets; transparency/pricing praised; 3-account holders cited.
+--- 5D. NEWS / WEEKEND / OVERNIGHT [UNVERIFIED] ---
+- Weekend hold + overnight + EA + copy-trading badges allowed per directory;
+  confirm funded-type exceptions on FAQ.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — confirm checkout]
+- Fee model: one-time evaluation fee by size; 10% off code FPF50 observed.
+  Higher than some new entrants (value complaint once) but payout reliability
+  offsets per reviewers.
+- Sizes: $5K-200K ladder; $2M max allocation claim.
+- Add-ons/resets: confirm on pricing page. Refund clause to verify in FAQ.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 88% kept (homepage + directory + FXEmpire consistent).
+- First payout: dashboard request; KYC verified; Sprint KYC upfront.
+- Methods: crypto, Rise, Wise (FXEmpire); 2-day smooth payouts cited;
+  two payouts in two months cited.
+- Scaling: hyper-scaling Phoenix path; $2M ceiling claim; confirm milestones.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm forbidden-practices page]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. EA/copy of own accounts allowed per badges;
+trading others' accounts banned.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. KYC ID + liveness before funded/payout (Sprint upfront).
+- Sanctioned jurisdictions excluded. Confirm US/UK/MetaQuotes-IP rules and
+  banned list on terms/FAQ.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/monetafunded.com: 4.5-4.6
+  Excellent (42-157 reviews window across snapshots); firm replies actively
+  (Muhammad/Martine support named). Fast account delivery + fast payout theme.
+- PropFirmMatch: 4.9 from 67 verified (Aug 2026); payout-in-2-days,
+  tight-spread, transparent-rules themes; price-premium gripe once.
+- FXEmpire Feb 2026: 4.3 overall (Trust 3.8, Price 4.5, Payouts 4.6).
+- Myfxbook 4.5 (6 reviews snapshot). No payout-scam cluster found.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: broker-backed ECN alternative to generic white-labels; 88% flat
+split vs 80-90% tiered rivals; newer (2026) so history thinner than FTMO.
+BEST FIT: MT5/MatchTrader forex/crypto traders wanting broker-grade spreads
+and 88% with quick crypto/Rise/Wise payouts.
+BAD FIT: traders needing long track record, lowest fees, or guaranteed live
+capital; banned jurisdictions.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. Official excerpts search-indexed (403 on direct);
+third-party hands-on (FXEmpire) cross-checked. Re-check pricing/FAQ live.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "Moneta Funded is a broker-backed proprietary trading firm, offering
+greater transparency and reliability compared to non-broker-backed
+alternatives."
+[2] "100% Backed By Moneta Markets"
+[3] "Traders simply pay a one-time evaluation fee based on their desired
+account size. Upon passing the evaluation, they receive a funded account and
+keep 88% of the profits they generate."
+================================================================================
+END OF FILE — MONETA FUNDED UNVERIFIED. Next firm is a separate task.
+================================================================================

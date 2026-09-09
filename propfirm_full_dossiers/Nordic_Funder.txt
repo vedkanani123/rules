@@ -1,0 +1,91 @@
+================================================================================
+NORDIC FUNDER — COMPLETE FIRM DOSSIER
+================================================================================
+Website: https://nordicfunder.com
+Status: ACTIVE
+
+--- COMPANY OVERVIEW ---
+- Tagline: "Scandinavia's Funded Trader Programme. Trade up to $500,000."
+- Type: CFD + Crypto + Equities + Instant Funding. Broker-backed affiliate model.
+- Platforms: DXtrade, Match-Trader, cTrader (all integrated via GooeyTrade;
+  you pick your platform at checkout).
+- Asset classes: FX & CFDs (5 tracks), Crypto (1-Step, 2-Step), Equities
+  (One-Step Daily), Instant Funding (Lite, no assessment).
+- Max funded account: $500,000. Profit split: 80% standard, 90% with add-on.
+- Support: support@ (contact form), Blog, FAQ, Discord-style community.
+- Reviews: Trustpilot 4.3/5 "Excellent"; Listed on PropFirmMatch.
+- Legal structure: Nordic Funder is an affiliate of Prop Account, LLC. All
+  funding assessments are provided by Prop Account, LLC and all assessment
+  fees are paid to Prop Account, LLC. If qualified for a Funded Account, you
+  enter a Trader Agreement with Prop Account LC. Neither Prop Account, LLC nor
+  Prop Account LC provides trading education; all such services are provided
+  by Nordic Funder. Terms: dashboardanalytix.com/client-terms-and-policies.
+- Disclaimer: Trading carries risk. All assessments are conducted in a
+  simulated environment. Nothing on this site is investment advice or an offer
+  of employment. © 2026 Nordic Funder.
+- Contact: portal.nordicfunder.com (portal), info via support page.
+
+--- KEY FEATURES ---
+- Pass once, pay once, keep up to 90% of profits. Accounts from $25.
+- One configurator: pick asset class, track, account size — one price, one
+  rule set. Same records drive the configurator and program pages (single
+  source of truth).
+- No time limit on assessment (only clock is inactivity limit: 30 days on
+  staged FX, 14 days on crypto/equities/instant).
+- Raw spreads, $7 round-turn commission on FX & Metals; $0 commission on
+  Indices, Oil & Crypto.
+- EA/algo trading allowed on every account, no approval step, no surcharge.
+- Customisable add-ons at checkout: raise split to 90%, hold over weekend,
+  double leverage.
+- Aggregated tier-1 liquidity (multiple banks, prime brokers, market makers);
+  no spread widening, no markup, no swap adjustment beyond broker-set.
+- Start from $25 (One-Step Lite $2,500 account).
+- Four steps: choose challenge → pass assessment → trade funded → get paid.
+- First payout with no delay, then every 14 days (rolling cycle).
+- Support is human (can look at your actual account).
+
+--- FX & CFDs TRACKS ---
+| Track         | Fee from | Account sizes  | Profit target     | Max DD | DD type | Max daily loss | Daily loss type | Consistency | Min days | Inactivity | Refundable |
+|---------------|----------|----------------|-------------------|--------|---------|----------------|-----------------|-------------|----------|------------|------------|
+| One-Step      | $42.50   | $5K–$500K      | 10%               | 6%     | Trailing| 5%             | EOD balance     | —           | —        | 30 days    | No         |
+| Two-Step      | $60.00   | $5K–$500K      | P1 10% · P2 5%    | 8%     | Static  | 4%             | EOD balance     | —           | —        | 30 days    | No         |
+| Three-Step    | $42.00   | $5K–$500K      | P1 5% · P2 5% · P3 5% | 5% | Static | 5%             | EOD balance     | —           | —        | 30 days    | No         |
+| One-Step Lite | $25.00   | $2.5K–$100K    | 10%               | 5%     | Static  | 2.5%           | Intraday trailing | 0% eval / 50% funded | 3 profitable days of 1% | — | No |
+| Two-Step Lite | $25.00   | $2.5K–$100K    | P1 12% · P2 6%    | 6%     | Static  | 3%             | Intraday trailing | 0% eval / 50% funded | 3 profitable days of 1% | — | No |
+
+FX Trading conditions (all tracks): Leverage 20:1 Forex & Metals · 10:1 Indices ·
+5:1 Oil · up to 2:1 Crypto. Commission $7/lot FX & Metals · $0 Indices, Oil & Crypto.
+Spreads: Raw. EA/algo: Allowed. Profit split: 80%.
+
+--- CRYPTO TRACKS ---
+| Track    | Fee from | Account sizes  | Profit target  | Max DD | DD type | Max daily loss | Daily loss type | Consistency | Min days | Inactivity | Refundable |
+|----------|----------|----------------|----------------|--------|---------|----------------|-----------------|-------------|----------|------------|------------|
+| One-Step | $25.00   | $2.5K–$100K    | 10%            | 5%     | Static  | 2.5%           | Intraday trailing | 25% funded  | 3 profitable days of 1% | 14 days | No |
+| Two-Step | $25.00   | $2.5K–$100K    | P1 12% · P2 6%  | 6%     | Static  | 3%             | Intraday trailing | 25% funded  | 3 profitable days of 1% | 14 days | No |
+
+Crypto conditions: Leverage 2:1 all instruments (4:1 with Double Leverage add-on).
+Commission $0 Crypto. Spreads: Raw. EA/algo: Allowed. Profit split: 80%.
+
+--- EQUITIES TRACK ---
+| Track         | Fee from | Account sizes  | Profit target | Max DD | DD type | Max daily loss | Daily loss type | Consistency | Min days | Inactivity | Refundable |
+|---------------|----------|----------------|---------------|--------|---------|----------------|-----------------|-------------|----------|------------|------------|
+| One-Step Daily| $25.00   | $2.5K–$100K    | 10%           | 3%     | Static  | 1.5%           | Intraday trailing | 40% eval / 20% funded | 3 profitable days of 1% | 14 days | No |
+
+Equities conditions: Leverage 2:1 all instruments (4:1 with Double Leverage
+add-on). Spreads: Raw. EA/algo: Allowed. Profit split: 80%.
+
+--- INSTANT FUNDING TRACK ---
+| Track             | Fee from | Account sizes  | Profit target | Max DD | DD type | Max daily loss | Daily loss type | Consistency | Min days | Inactivity | Refundable |
+|-------------------|----------|----------------|---------------|--------|---------|----------------|-----------------|-------------|----------|------------|------------|
+| Instant Funding Lite | $45.00 | $2.5K–$100K  | None — funded from day one | 3% | Static | 1% | Intraday trailing | 20% funded | — | 14 days | No |
+
+Instant conditions: Leverage 30:1 (60:1 with Double Leverage add-on). Spreads: Raw.
+EA/algo: Allowed. Profit split: 80%. Minimum payout: 1% (Instant Funding Lite).
+
+--- PAYOUTS ---
+- First withdrawal: no delay — request as soon as you qualify.
+- Then every: 14 days (rolling cycle from first withdrawal).
+- Profit split: 80% standard, 90% with profit-share add-on (applied at checkout).
+- Payout on breach: No. Lock on payout: Yes.
+- Minimum payout: 1% (Instant Funding Lite).
+- Max funded account: $500,000. Up to 90% split with add-on.

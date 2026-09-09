@@ -1,0 +1,154 @@
+================================================================================
+KLEIN FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/KleinFunding.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://kleinfunding.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Klein Funding (kleinfunding.com). Contact: support@kleinfunding.com;
+  71-75 Shelton Street, Covent Garden, London WC2H 9JQ per Trustpilot.
+- Positioning: Crypto-native prop firm with two data programs: Bybit-data
+  program (750+ pairs, up to 1:100) and Binance-data CLEO program (no stability
+  rule, daily payouts). Incorp 25 Nov 2024 London per CPT.
+- What it is [UNVERIFIED]: Simulated evaluation accounts with fictitious
+  funds; traders earn performance rewards, not live capital.
+- CEO cited in press [UNVERIFIED]: Dexter (per FinanceMagnates partnership
+  coverage). Verify current leadership on site.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://kleinfunding.com/ (homepage: customizable evals, up to 100% split)
+ 2. https://kleinfunding.com/pricing (plan picker: Cleo / One-Step / Flex)
+ 3. https://kleinfunding.com/cleo-prop-firm (Binance-data CLEO program)
+ 4. https://kleinfunding.com/bybit-prop-firm (Bybit native program)
+ 5. https://kleinfunding.com/trading-platforms (Bybit + Cleo platforms)
+ 6. https://kleinfunding.com/faqs (full FAQ index)
+CROSS-CHECK (third-party, real links):
+ 7. https://www.trustpilot.com/review/kleinfunding.com (281 reviews; breach flag)
+ 8. https://cryptoproptrader.com/crypto-prop-firm/klein-funding/ (4.1/5, 10 rev)
+ 9. https://www.financemagnates.com/forex/klein-funding-prop-firm-partners-with-worlds-third-largest-crypto-exchange
+TOTAL SOURCES: 9 (6 official to verify + 3 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: Bybit (real Bybit infra per firm) + CLEO by CLFNCE OU
+  (licensed integration; Binance market data feed). No MT4/MT5.
+- Instruments [UNVERIFIED]: 750+ Bybit pairs (USDT Perps only — USDC/spot/
+  futures/options breach per FAQ); Binance-data program covers Binance feed.
+- Leverage [UNVERIFIED]: Bybit program up to 1:100; CLEO program BTC/ETH 1:5,
+  alts 1:2. Verify per-plan table.
+- Drawdown type [UNVERIFIED]: static balance-based per firm; Bybit 6-10%,
+  CLEO 3-8%. Verify.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official pricing page]
+| # | Program | Data feed | Target | Max DD | Daily DD | Split |
+|---|---------|-----------|--------|--------|----------|-------|
+| 1 | One-Step (Bybit) | Bybit | 6-10% | 6-10% static | per FAQ | up to 90% |
+| 2 | Two/Three-Step (Bybit) | Bybit | 6-10%/phase | 6-14% per CPT | per FAQ | up to 100% opt |
+| 3 | One-Step / Flex (CLEO) | Binance | 9-14% | 3-8% static | per FAQ | up to 90% |
+Notes: Bybit program 3-4 min days + 30%/45% stability (verify); CLEO program
+no stability rule, no min days, daily payouts. Funded has no target.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. BYBIT-DATA PROGRAM [UNVERIFIED] ---
+- Target 6-10%; static drawdown; min days 3-4; stability 30%/45% per official
+  comparison table. USDT-Perps ONLY rule (USDC/spot/borrow/demo-funds = breach).
+  Inactivity: Bybit sub-account API 90-day window flagged — verify.
+--- 5B. BINANCE-DATA CLEO PROGRAM [UNVERIFIED] ---
+- Target 9-14%; static 3-8% balance-based never trailing; zero stability rule;
+  zero min days; single session pass allowed per firm. BTC/ETH 1:5, alts 1:2.
+--- 5C. FLEX / MULTI-PHASE [UNVERIFIED] ---
+- Lowest target / most affordable per homepage; 6-14% drawdown range + up to
+  100% split options per CPT. Verify phase count and per-phase %.
+--- 5D. NEWS / WEEKEND / AUTOMATION [UNVERIFIED] ---
+- Banned per CPT: copy trading, arbitrage, latency/HFT, tick scalping, order-
+  book spam, EAs/bots, account sharing, multi-account. Verify news/weekend
+  holding on FAQ (crypto 24/7 assumed — confirm).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Fee model: one-time fee. Sizes include $5K starter and $200K max starter
+  (Bybit page); scaling to $2M claimed. Confirm live grid.
+- Add-ons: drawdown customization + split options referenced — verify.
+- Refund: up to 125% refund claimed on Bybit page — verify exact conditions
+  and which programs qualify before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: up to 90% standard; up to 100% options/configurations per homepage
+  and CPT. Confirm per-plan %.
+- Frequency: Bybit on-demand from 4% profit (USDT/USDC, same-day claimed);
+  CLEO daily in USDT/USDC. Confirm minimums and processing SLA.
+- Methods: USDT/USDC crypto rails. Confirm.
+- Scaling: to $2M (Bybit page); CPT lists $200K scaling plan — reconcile on
+  official scaling terms before relying.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm FAQ/rules]
+Banned per third-party reads of official rules: non-USDT-Perp markets on
+Bybit, USDC/spot/futures/options/margin, borrowing USDT cross-market, demo-
+fund requests post-API, copy/arbitrage/latency/HFT/tick-scalp/spam/EAs,
+account sharing, multi-account, demo exploits. Verify verbatim list.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Firm claims no country bans (Bybit page + CPT: no restrictions). Verify
+  against current terms — crypto-exchange geo-fencing may still apply.
+- Age 18+. KYC before funding/payout (verify ID/selfie/POA set).
+- All trading simulated/notional per firm disclaimer — verify.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Trustpilot https://www.trustpilot.com/review/kleinfunding.com: 281 reviews,
+  ~96% 5-star theme (support speed, crypto focus) BUT profile carries breach-
+  of-guidelines warning with fake reviews removed — discount accordingly.
+- CPT: 4.1/5 (10 reviews), CPT rating 3.3/5; leverage/liquidity praised,
+  EA/copy/HFT bans noted.
+- FinanceMagnates (Jan 2025): Bybit-exchange partnership coverage.
+- No red-flag verdict offered without live re-read; guideline-breach flag is
+  the watch item.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: crypto-perp traders wanting exchange-native data (Bybit 750+
+  pairs/high leverage) or maximum freedom (Binance/CLEO: no stability, no min
+  days, daily cash flow).
+- Bad fit: EA/bot/copy traders (banned), MT4/MT5-only traders, USDC/spot
+  traders on Bybit track. Verify SIM-vs-live semantics before sizing.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — KLEIN FUNDING UNVERIFIED. Next firm is a separate task.
+================================================================================

@@ -1,0 +1,13 @@
+================================================================================
+ALPHA TRADER FIRM (Alpha Funded) — COMPLETE FIRM DOSSIER
+================================================================================
+Website: https://alphafunded.com
+Status: ACTIVE (fetch returned limited content - page is JS-rendered)
+
+--- COMPANY OVERVIEW ---
+- Tagline: "Simulated Funded Accounts Up To $4,000,000"
+- Max Funding: $4,000,000
+- Type: Simulated funded accounts
+- Note: Website content is JavaScript-rendered; detailed rules/pricing could not be fully extracted via web fetch. Recommend visiting https://alphafunded.com directly for complete current rules.
+
+================================================================================

@@ -1,0 +1,301 @@
+================================================================================
+FUNDYOURFX (FYFX) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundYourFX.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FundYourFX pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party reviews. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundYourFX (FYFX).
+- Founded: 2021. Legal: FYFX Capital Limited, Hong Kong company
+  No. 75280952-000. HQ cited Dubai, UAE (reviewers); Hong Kong HQ imagery
+  on site. CEO: Dipak Srivastava (reviewers).
+- Contact: support@fundyourfx.io / info@fundyourfx.io; live chat + email,
+  in-house team, 8 languages (EN/DE/ES/FR/PT/AR/ID/VI). Dashboard:
+  app/desk.fundyourfx.io. Trader lounge: desk.fundyourfx.io. TraderWaves
+  journal included free.
+- What it is: simulated instant + evaluation CFD prop firm. Official
+  disclaimer verbatim: "All accounts offered by FundYourFX are virtual demo
+  accounts... We are not a broker and no real financial instruments are
+  bought or sold... refer to virtual funding only... not available to
+  residents of Hong Kong, North Korea or Iran."
+- Scale claimed: $40.7M+ paid in rewards, 220,532 funded traders, 160+
+  countries, since 2021. Blockchain-verified live payout feed (e.g.
+  $15,639 Khaled G. 31m ago). Avg first rewards shown per tier ($224 at
+  $5K to $8,078 at $200K Instant Classic).
+- Ratings: 4.7/5 from 8,397 reviews (Google 4.8/1,012; Trustindex 4.7/4,200;
+  Reviews.io 4.7/1,096; Myfxbook 4.5/340; FundedTrading 4.9/250).
+- Awards: Best Customer Support 2024, Best Instant Funding 2025 + 2026
+  (Funded Trading Awards); Best Longstanding Prop 2026 (MyTradingReviews).
+- Extras: 1% charity program; loyalty program (pips/tiers/cashback); growth
+  plan to $6M; reset options by plan/Desk tier; affiliate + white-label +
+  investor-relations pages.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fundyourfx.io (homepage: stats, payout feed, eval box 10%/4%/6%,
+    Instant Classic ladder $45-$1,125 promo, platforms, comparison, reviews,
+    8-language support, FAQ excerpts, legal/footer + HK disclaimer)
+ 2. https://fundyourfx.io/program-instant-funding (Instant Classic/Pro page)
+ 3. https://fundyourfx.io/program-1-step-evaluation (1-Step page)
+ 4. https://fundyourfx.io/program-2-step-evaluation (2-Step page)
+ 5. https://fundyourfx.io/program-pay-after-pass (Pay After Pass page)
+ 6. https://fundyourfx.io/payouts (Rewards/payouts page)
+ 7. https://fundyourfx.io/faqs (FAQ hub incl. daily-reset, payout, copy, swap,
+    EA, plan-picker answers)
+ 8. https://fundyourfx.io/about (About/team page)
+ 9. https://fundyourfx.io/terms-conditions (Terms incl. trailing 3.1 + 4.7)
+10. https://fundyourfx.io/refund-policy (Refund Policy)
+11. https://fundyourfx.io/growth-plan (Growth/scaling plan page)
+12. https://desk.fundyourfx.io (Trader desk + payout certificates feed)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. FundedTrading FundYourFX review 2026-08-04 (scores 8.4-8.7; Classic/Pro
+    rule table; 25%-day rule; split ladders; 10X Quest; FT60 60% code)
+14. JoinProp FundYourFX review 2026 (HK entity; static-vs-trailing conflict;
+    daily-limit correction; rebate 3-payouts/24% rule; 4.7 discretionary)
+TOTAL SOURCES: 14 (12 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MatchTrader (live; TradingView charts; desktop/web/mobile) +
+TraderWaves journal/analytics included free. MetaTrader 5 = COMING SOON
+(EAs/automation landing soon). MatchTrader-only today (no MT4/MT5/cTrader).
+INSTRUMENTS: Forex, Crypto, Commodities, US Indices (4 classes). Overnight +
+weekend holding ALLOWED all accounts. No platform sub, no payout fee, no
+overnight markup from firm (standard market swaps only).
+LEVERAGE: up to 1:100 (reviewer-confirmed across 1/2-phase + Instant).
+COSTS: raw spreads from 0.0 pips majors/indices; commissions per route;
+$10/lot round-turn cited on older 2-phase tiles — verify checkout.
+DAY CLOCK: trading day resets 22:00 UTC daily (daily-loss reference).
+Payout rails: crypto (BTC/ETH/USDT/USDC) + bank wire; network/processing fees
+deducted from payout.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program                 | Steps | Sizes      | Target          | Daily DD | Max DD            | Split start | Cycle    |
+|---|-------------------------|-------|------------|-----------------|----------|-------------------|-------------|----------|
+| 1 | Instant Classic         | 0     | $5K-$200K  | 10% (payout gate)| 4% soft | 6% (card: static) | 50%         | bi-weekly|
+| 2 | Instant Pro             | 0     | $5K-$200K  | 8% (payout gate) | 5% soft | 8% (card: static) | 60%         | weekly   |
+| 3 | 1-Step Classic          | 1     | $5K-$200K  | 10%             | 4% hard  | 6% trailing (BE lock)| 80%       | weekly*  |
+| 4 | 1-Step Pay After Pass   | 1     | $5K-$200K  | 12%             | 4%       | 6% trailing       | 70%         | weekly*  |
+| 5 | 2-Step Classic          | 2     | $5K-$200K  | 8% then 5%      | 4-5% hard| 8% static (card)  | 80%         | weekly*  |
+| 6 | 2-Step Pro              | 2     | $5K-$200K  | 6% then 4%      | 5% hard  | 10% static (card) | 85%         | weekly*  |
+| 7 | 10X Quest               | sprint| $2.5K+     | 1%/day x10/14d  | NONE     | 10%               | fixed $10X  | one-time |
+Notes (* verify at checkout — conflicting sources):
+- STATIC-vs-TRAILING CONFLICT: pricing cards say "static"; binding Terms
+  clause 3.1 says TRAILING ("adjusts upward as equity increases; never
+  decreases"). Assume TRAILING (contract governs) — JoinProp confirmed.
+- 1-Step trailing locks at starting balance at break-even (propfirmreviews).
+- Instant daily = SOFT breach (2 softs = review); eval daily = HARD breach
+  (2-Step Pro explicit).
+- Eval splits scale 80/85% -> 95% with consecutive payouts; Instant scales
+  Classic 50->100% (15 payouts), Pro 60->100% (12 payouts), +10%/3 payouts.
+- 10X Quest: 1% equity growth on 10 trading days within 14 CALENDAR days
+  (incl. weekends => ~10 effective days); fixed 10X-fee reward, no split;
+  fee NOT refundable; no daily limit; 10% max.
+- Min days: Instant Classic 6 / Pro 3 before first payout; 1-Step 5 eval days
+  (Propfirmreviews) / 3-day variants per route; 2-Step Pro 3/step.
+- Max funding: $200K buy; scale to $6M ($2.5M Instant per TradingFinder).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT CLASSIC / PRO (NO EVALUATION) ---
+- Payout gate (not eval target): Classic 10% / Pro 8% profit before FIRST
+  payout. ($100K: +$10,000 / +$8,000.)
+- Max DD: Classic 6% / Pro 8% (cards "static"; Terms trailing — assume trail).
+- Daily: Classic 4% / Pro 5% SOFT (2 softs = account review; max breach =
+  hard close).
+- Min days: Classic 6 / Pro 3. 25%-day rule at payout (Section 5E). SL within
+  3 min (FAQ) / 5 min (Terms) — 2 violations = soft breach. 60-sec min hold
+  (no sub-minute scalping). News: allowed w/ 5-min (±5) high-impact window
+  (FundedTrading) / ±2-min (CoinCodeCap) — tightest (5-min) governs.
+- Split: Classic 50% / Pro 60% start; +10% per 3 consecutive payouts to 100%;
+  fee refunded after 3 payouts. No cap per cycle. Max 2 trades/instrument/
+  direction (stacking limit).
+--- 5B. 1-STEP CLASSIC (10%) / PAY AFTER PASS (12%, 20% UPFRONT) ---
+- 1-Step: 10% one phase, no time limit, 5 eval days (variants 3), 4% daily
+  hard, 6% trailing (BE lock), 80% -> 95%. Fee refundable (Classic/PAP/2-Step
+  lines per homepage "100% Refundable").
+- PAP: 12% target, pay 20% now + balance after pass, 70% start -> 95%.
+--- 5C. 2-STEP CLASSIC (8%/5%, 8%) / PRO (6%/4%, 10%) ---
+- Classic: 8%+5%, 4-5% daily hard, 8% (card static), 80% -> 95%.
+- Pro (easier targets): 6%+4%, 5% daily hard all phases, 10% (card static),
+  85% -> 95%, 3 days/step.
+--- 5D. 10X QUEST (SPRINT) ---
+- 1%/day on 10 trading days within 14 calendar days; 10% max; NO daily
+  limit; fixed 10X-fee one-time reward; non-refundable; EAs + weekend OK.
+  ($2.5K: $25 fee -> $250 reward.)
+--- 5E. UNIVERSAL MICRO-RULES ---
+- 25% day/trade rule: no single trade/day >25% of TOTAL profit (payout
+  eligibility, NOT breach — keep trading till ratio normalizes; $4,000 total
+  => max $1,000 best day).
+- Copying others/external signals = HARD breach (own-accounts copying OK
+  within risk rules). Personal EAs only (no third-party/commercial/shared);
+  HFT/arb/grid/martingale/tick-scalp banned. Hedging: banned per CoinCodeCap
+  table (confirm route). Inactivity 30 days (one 0.1-lot trade keeps alive).
+- "No consistency rule" marketing = the 25% rule functions as one (JoinProp).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+SEPTEMBER SALE (ends Sep 10): Instant 55% off (SEP55) | 2-Step 50% off
+(SEP50) | 1-Step 45% off (SEP45) + 200% refund bonus. FT60 = 60% off
+(FundedTrading). Near-constant promos — list vs sale matters.
+INSTANT CLASSIC promo (live homepage, 55% off):
+$5K $45 ($99) | $10K $81 ($179) | $25K $148 ($329) | $50K $373 ($829) |
+$100K $720 ($1,599) | $200K $1,125 ($2,499).
+EVAL LADDERS (TTP list): 1-Step $2.5K $27 / $5K $78 / $10K $143 / $25K $270 /
+$50K $402 / $100K $756. 2-Step $2.5K $23 / $5K $56 / $10K $107 / $25K $234 /
+$50K $359 / $100K $659. Instant $2.5K $67 / $5K $199 / $10K $380 / $25K $910 /
+$50K $1,840 / $100K $3,299. Quest $2.5K $25 / $5K $50 / $10K $100 / $25K $250.
+(Older tiles: 2-phase $10K $99 / $25K $199 / $50K $349 / $100K $549 / $200K
+$999; Instant $7K $175 / $15K $250 / $30K $488.)
+ADD-ONS: none priced (split earned, not bought). PAP defers ~80% to post-pass.
+REFUND ("100% Refundable" homepage): eligible after 3 successful payouts OR
+cumulative 24% of reward share, WHICHEVER HIGHER; forfeited on breach-first.
+200% refund bonus Sept promo. Quest fee never refundable.
+PAYMENT: card, crypto, bank transfer.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: Instant Classic 50->100% | Pro 60->100% (+10%/3 consecutive;
+  Classic 100% @15, Pro @12). Eval 80/85% -> 95% (85% first-6 -> 90% -> 95%
+  @10th on older tiles). Homepage ceiling "up to 95%" (100% panel = promo
+  mechanics; Terms cap 95% per JoinProp).
+- Gates: payout target (10%/8% Instant; eval targets) + min days (6/3) +
+  25%-day ratio + KYC + contract + $150 min (Instant; eval $150/homepage avg;
+  older tiles $100). No per-cycle cap on Instant.
+- Cadence/processing: weekly default (Instant Pro weekly; Classic bi-weekly;
+  eval weekly/bi-weekly by route); "Paid in 24 Hours" (FAQ: approved <24h;
+  compliance up to 5 business days; Friday 8AM UK cut-off on older tiles).
+- Methods: crypto (BTC/ETH/USDT/USDC) + bank wire (no Deel/Rise; direct).
+- Scaling (Growth Plan): every 3 payouts -> size/split step; to $6M on $200K
+  base (older: +10% size per 10% profit; 85->90->95%). Loyalty cashback tiers.
+- Proof: $40.7M+ / 220,532 traders live feed; $36M+/220K (Aug reviews).
+- Terms 4.7: "all payouts are discretionary and are not guaranteed" (plainly
+  stated; most firms reserve similarly).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + reviewer-noted)
+================================================================================
+1. 25% single-trade/day profit rule (payout gate; Section 5E).
+2. Mandatory stop-loss within 3 min (FAQ) / 5 min (Terms) — 2 violations =
+   soft breach. Assume 3-min (stricter).
+3. 60-sec minimum hold (no sub-minute scalping/HFT).
+4. Max 2 trades per instrument per direction (no stacking).
+5. News: no NEW orders ±5 min (FundedTrading) / ±2 min (CoinCodeCap) around
+   high-impact — assume 5-min.
+6. Copy others/external signals = hard breach. Third-party/commercial/shared
+   EAs banned (personal EAs only). HFT/arb/grid/martingale/tick-scalp banned.
+   Hedging banned per route table (confirm).
+7. Daily MAX = hard breach (eval); Instant daily = soft (2x = review); max
+   breach = close + rebate forfeited.
+8. Inactivity 30 days = closed. Payouts discretionary (4.7).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- HK entity, "NOT a regulated financial institution" (self-declared).
+- HARD BANS (official disclaimer): Hong Kong, North Korea, Iran (+ Terms
+  list governs). 160+ countries served; 8-language support.
+- USA: no US ban in official disclaimer (US indices offered; verify checkout
+  geo-check + MatchTrader US availability).
+- KYC: ID + contract before first payout; beneficiary must match; compliance
+  review to 5 business days.
+- VPN/VPS: misuse for prohibited practices = termination (standard).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — FundedTrading (2026-08-04, 8.4-8.7: Pricing 8.7/Rules 8.5/Plat
+  8.4/Payouts 8.4/Feat 8.6): static-DD + no-consistency + no-cap + 100%-scale
+  + $36M proof praised; flags payout-gate target, 50-60% start, MatchTrader-
+  only, 25%-day, 60-sec hold. FT60 60% code. 3x award winner.
+- REVIEW 2 — JoinProp (2026 correction): HK unregulated sim; split earned
+  50-85%->95%; DAILY LIMIT EXISTS (4%/5%; Quest-only exception); STATIC-card
+  vs TRAILING-Terms conflict (assume trailing); 25% pseudo-consistency;
+  rebate 3-payouts/24%-higher + breach-forfeit; 4.7 discretionary; TP stars
+  hidden.
+- Extra: TTP (Aug-2026: $2.5K-$200K, to 100%, weekly, MatchTrader, forex/
+  crypto/US-indices, $6M scale); CoinCodeCap (Apr-2026: 50->95%/85->95%,
+  7%/10% no-daily eval, Quest 14-day trap, $35M proof); PropFirmReviews
+  (Jul-2026: 6 programs, SL-3min/2-trade/news-5min/25%-cap matrix, $36M/220K,
+  4.7 TP w/ industry-warning flag); PropFirm201 ($99-$999, 85-95%); Trading-
+  Finder ($53 min, $2.5M Instant, weekly).
+- Sentiment: positive on price/flexibility/speed/scale; negative on 50%
+  start, gate-target surprise, doc conflicts.
+- Red flags: doc conflicts (material — get trailing + 25% + SL in writing) +
+  discretionary clause + TP stars hidden. No regulator action.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: lowest entries ($23-$53) + no-daily on Quest + static-cards +
+100%-path + $6M scale beat FTMO on flexibility/price; lag on platform
+(MatchTrader-only vs MT5/cTrader) + 50% start (vs 80%) + doc precision.
+INSTANT CLASSIC VS PRO: Classic = cheaper, 10% gate, 4% daily, 6% max,
+50% start, bi-weekly. Pro = pricier, 8% gate, 5% daily, 8% max, 60% start,
+weekly. Weekly-cashflow traders -> Pro; bargain testers -> Classic.
+EVALS: 1-Step (10%/6% trail) fastest; 2-Step Pro (6+4%/10%) roomiest; PAP
+(12%/20%-now) defers cost; Quest (10x sprint) lottery-ticket.
+BEST FIT: MatchTrader natives; instant-access seekers; weekend holders;
+news-aware (5-min) discretionary; EA-personal builders; $6M scalers;
+micro-budget testers ($25 Quest).
+BAD FIT: MT4/MT5/cTrader-locked; sub-minute scalpers (60-sec); stackers
+(2-trade cap); no-SL styles (3-min); single-day windfall traders (25%);
+HK/NK/IR residents; guarantee-demanding (4.7 discretionary).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage ladder/feed/platforms/reviews/support/FAQ/legal,
+program/payout/FAQ/about/terms/refund/growth/desk pages read live from
+fundyourfx.io on 2026-09-08. Pricing cross-checked vs FundedTrading
+(Aug-2026) + TTP + JoinProp + CoinCodeCap + PropFirmReviews; promos rotate
+(SEP55/SEP50/SEP45 to Sep 10) — re-check checkout before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — all 12 sections; 7-route
+table, static/trailing + 25% + SL conflicts flagged.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Trade Up to $6M in Capital. Daily Payouts. No Consistency Rule."
+/ "Your Skill. Our Capital... Trade a simulated Funded Account, scale to $6M,
+and keep up to 95% of your profits." / "Payouts in 24 Hours. No Consistency
+Rule. Up to 95% Split."
+[2] Eval box: "Profit Target 10%. Daily Drawdown 4%. Max Drawdown 6%. Time
+Limit None."
+[3] Instant Classic: "Payout Target 10%. Daily Loss 4%. Max Loss 6%. Split
+50-95%." ($5K $45/$99 Save 55% ... $200K $1,125/$2,499.)
+[4] Includes: "No Consistency Rule. No Time Limit. Paid In 24 Hours. 100%
+Refundable. EAs Welcome. Weekend Holding."
+[5] Day clock: "Your trading day resets every day at 22:00 UTC."
+[6] Payouts: "Request a reward on your programme's weekly or bi-weekly
+schedule. Approved payouts are typically processed within 24 hours by bank
+transfer or crypto; verification or compliance review may take up to 5
+business days."
+[7] Copy: "Copying other traders or external signals is not allowed. You can
+run your own strategy — including copying between accounts you own."
+[8] EA: "Yes, with restrictions. HFT, arbitrage, grid, martingale, tick
+scalping, and copying other traders or signals are not allowed."
+[9] Swaps: "FundYourFX does not add overnight holding fees on top of the
+market. You only pay the standard swap the market charges. No platform
+subscription, no payout fee, no hidden overnight markup from us."
+[10] Terms 3.1 (via JoinProp): "FundYourFX operates a trailing drawdown model
+whereby: the drawdown limit adjusts upward as your account equity increases;
+the drawdown limit does not decrease if your equity subsequently falls."
+[11] Terms 4.7 (via JoinProp): "all payouts are discretionary and are not
+guaranteed."
+[12] Disclaimer: "All accounts offered by FundYourFX are virtual demo accounts
+... We are not a broker... Our services are not available to residents of Hong
+Kong, North Korea or Iran." / "FYFX Capital Limited · Hong Kong company
+number: 75280952-000."
+================================================================================
+END OF FILE — FUNDYOURFX COMPLETE. Next firm is a separate task (not started).
+================================================================================

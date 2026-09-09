@@ -1,0 +1,302 @@
+================================================================================
+BEMFunding — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/BEMFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official BEM Funding pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: BEM Funding (BEMFunding, site bemfunding.com).
+- Legal entities: Bex Software Development LLC-FZ (BEM Funding), Dubai UAE,
+  Meydan Grandstand 6th floor, Meydan Road, Nad Al Sheba, Dubai; BEM Ltd.,
+  Saint Lucia registration 2026-00240 (operates MT5 platform).
+- Leadership: CEO Murat Kaya (aka ddfinance on X, Turkish trading community).
+- Founded: June 2024 (UAE tech + education company). Effective terms date 13/04/2026.
+- Contact: contact@bemfunding.com | 24/7 live chat (1-2 min responses reported) |
+  Discord discord.gg/bemfunding | X @BemFunding | Instagram @bemfundingofficial |
+  YouTube @bemfunding | Facebook + LinkedIn company pages.
+- What it is: CFD simulated-evaluation prop firm. ALL accounts are simulated for
+  educational use, evaluating proficiency/risk management; no client deposits,
+  none of trader's money on line. Funded traders receive hypothetical-performance
+  Rewards (profit splits), not live capital. Live CEX data mirrored.
+- Scale claimed: 20,000+ funded traders, 160+ countries, $3M+ paid out,
+  5-star PFM badge, 80% profit split, challenge refund. Homepage hero: up to
+  $200K, keep 80% (up to 90% via scaling), avg 6 hours payout, from $24.
+- Press/listings: PropFirmMatch crypto/prop-firms badge; Leaderboard, Blog,
+  Trading Updates, Lexicon, Symbols pages.
+- Trustpilot: 4.2-4.4/5 from 203-215 reviews (4.4/203 Nov 2025; 4.2/215 May 2026;
+  4.2/213 PropFirmMap). Replied to 100% of negatives. PropFirmMap Safety B,
+  PFM Score 6.3, Payout Reliability A. TheTrustedProp Trust 38/100, 3.6/1 review.
+- Key distinction: FIVE models (BEM One 1-step, BEM One Only, Classic Normal
+  2-step, Classic Swing 2-step swap-free, Extended 2-step crypto). Platform split
+  by entity: DXtrade + cTrader via UAE entity; MT5 via Saint Lucia entity
+  (US-restricted). Max $200K advertised ($100K cap per some reviews).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://bemfunding.com (homepage: MT5-live promo, BEM One $47->$32.90,
+    20K+/ $3M+ stats, footer entities + jurisdictional bans)
+ 2. https://bemfunding.com/one-step-challenges (1-Step range)
+ 3. https://bemfunding.com/two-step-challenges (2-Step range)
+ 4. https://bemfunding.com/all-challenges (full ladder)
+ 5. https://bemfunding.com/terms-of-use/bem-one (BEM One full rules)
+ 6. https://bemfunding.com/terms-of-use/bem-classic-normal (Classic rules)
+ 7. https://bemfunding.com/prohibited-trading-practices (prohibitions)
+ 8. https://bemfunding.com/terms-and-conditions (general terms)
+ 9. https://bemfunding.com/faq (FAQ: payouts, scaling, refund)
+10. https://bemfunding.com/symbols (70+ tickers, 180+ on Extended)
+11. https://bemfunding.com/leaderboard (leaderboard)
+12. https://dashboard.bemfunding.com/sign-in + https://checkout.bemfunding.com/ (dashboard/checkout)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. TheTrustedProp BEM review Jun 2026 (Trust 38/100, 4-model pricing table)
+14. Propvator BEM review Aug 2026 + payout-methods Jul 2026 (USDC/Rise split)
+15. PropFirmMap BEM firm page (Grade B, 6.3 score, 20-challenge table)
+16. PropFirmReviews.net Bem review 2026 (7.0/10, 0.5% daily-floor analysis)
+17. PropFirmPickr Bem review Jul 2026 (4.0/5, challenge price list)
+18. SelectPropFirms BEM page Jun 2026 (3-day/0.5% funded rule)
+19. Trustpilot https://www.trustpilot.com/review/bemfunding.com (4.4/203)
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (entity-split — choose at purchase):
+- DXtrade (UAE entity) — includes TradingView charting integration.
+- cTrader / Bem Terminal (UAE entity) — credentials auto-created under email.
+- MetaTrader 5 MT5 (Saint Lucia BEM Ltd. entity) — newly live, 40% off code MT5LIVE.
+- NO MT4. TradingView is charting inside DXtrade, not standalone execution.
+INSTRUMENTS: 70+ tickers standard (Forex, Crypto incl BTC+ETH/DeFi/Altcoins,
+Energy, Indices, Metals); 180+ symbols on Extended (100+ crypto pairs).
+Live CEX data mirrored; simulated accounts. Near-zero spreads via Tier-1
+liquidity (praised); isolated spread-widening complaints.
+LEVERAGE: 1:100 Classic Normal/Extended; 1:30 BEM One/Swing (One-Only 1:1
+risk-to-DD variant). Swap-free overnight on Swing. Per-symbol lower on crypto.
+COMMISSIONS: Amount 0 per SelectPropFirms (spread-based); swaps waived on Swing.
+All costs COUNT toward equity-based daily/max loss.
+HOLDING: Overnight + weekend holding permitted (Swing fully; others per terms);
+news allowed in eval, restricted on funded (see 5F).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Steps | Sizes      | Target          | Daily loss | Max loss       | Type     | Split | Fee model      |
+|---|--------------------|-------|------------|-----------------|------------|----------------|----------|-------|----------------|
+| 1 | BEM One            | 1     | 5K-200K    | 9%              | 3%         | 6% (5% trail variant) | Dynamic/trailing | 80% | $47-$520+ ($32.90 promo 5K) |
+| 2 | BEM One Only       | 1     | 5K+        | 6%              | 3%         | 1:1 risk-to-DD | Trailing | 80%   | from ~$24      |
+| 3 | Classic Normal     | 2     | 5K-200K    | 9% + 4.5%       | 4.5%       | 9% balanced static | Static | 80%   | $39-$519+      |
+| 4 | Classic Swing      | 2     | 5K-200K    | 9% + 5%         | 5%         | 9% balanced static | Static | 80%   | $69-$890       |
+| 5 | Extended           | 2     | 5K-200K    | 10% + 5%        | 4%         | 8% trailing    | Trailing | 80%   | $39-$499       |
+Notes:
+- BEM One: pass in 1 trade, no consistency on eval, no min days, on-demand payouts.
+- Classic Normal HAS consistency rule; Swing/Extended/One have NONE on eval
+  (One HAS 35% funded consistency + 0.5% daily floor — see 5F).
+- Unlimited time (no time limits). Max $200K advertised; some tables cap $100K
+  per account — confirm checkout for 200K availability.
+- Drawdown equity-based (floating PnL counts even unclosed).
+- Challenge fee refunded on FIRST payout (all programs).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. BEM ONE (1-step, most popular) ---
+- Target 9% single phase. Daily 3% of initial, max 6% dynamic (5% trailing
+  variant per SelectPropFirms). No consistency on eval, no min days, pass in
+  1 trade possible. News + weekend hold allowed in eval.
+- Funded: consistency YES (35%: no single day >35% of lifetime realized profit),
+  min 3 trading days each 0.5%+ realized, Reward on Demand. Daily payouts.
+  ($100K: +$9,000 to pass; $3,000/day room; $6,000 max.)
+--- 5B. BEM ONE ONLY (1-step 6%) ---
+- Target 6% with 1:1 risk-to-drawdown ratio. Otherwise same One mechanics.
+  From ~$24 entry. Reward on Demand.
+--- 5C. CLASSIC NORMAL (2-step) ---
+- Targets 9% Ph1 + 4.5% Ph2. Daily 4.5% starting-balance, max 9% BALANCED STATIC
+  (fixed to starting balance, never trails). HAS consistency rule. Weekly payouts.
+  1:100 leverage. ($50K: +$4,500/$2,250; $2,250/day; $4,500 max.)
+--- 5D. CLASSIC SWING (2-step swap-free) ---
+- Targets 9% + 5%. Daily 5%, max 9% static. NO consistency rule. Swap-free
+  overnight, weekend hold OK. 1:30 leverage. Priciest ($100K $890 vs $519 Normal).
+--- 5E. EXTENDED (2-step crypto) ---
+- Targets 10% + 5%. Daily 4%, max 8% TRAILING (trails equity up). NO consistency
+  on eval. 180+ symbols / 100+ crypto. 1:100 leverage. Weekly payouts.
+--- 5F. SHARED FUNDED RULES ---
+- Funded daily floor: Classic/Extended require 0.5% MINIMUM realized profit
+  EVERY day traded (e.g. $250 on $50K; flat/small-loss day = breach).
+- Funded consistency (One): 35% best-day cap at payout request.
+- Funded news: restricted 4-min window before/after high-impact (post-funded);
+  eval news allowed on most models.
+- Trade splitting/structuring to dodge risk limits = funded denial (monitored;
+  martingale-via-splits flagged). Per-trade risk >2% flagged in disputes.
+- Min trading: at least 3 days at 0.5%+ each (One); 4-10 days variants cited.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (USD list; promos auto-applied):
+BEM ONE 1-step: 5K $47 ($32.90 w/ 30% ONE code) | 10K $89 ($62.30) |
+  25K $194 ($135.80) | 50K $285 ($199.50) | 100K $520.
+BEM ONE ONLY: from ~$24 (5K).
+CLASSIC NORMAL 2-step: 5K $39 | 10K $99 | 25K $211 | 50K $321 | 100K $519.
+CLASSIC SWING 2-step: 5K $69 | 10K $155 | 25K $296 | 50K $447 | 100K $890.
+EXTENDED 2-step: 5K $39 | 10K $95 | 25K $199 | 50K $299 | 100K $499.
+200K pricing: up to $200K per hero (confirm checkout; some tables stop at $100K).
+PROMOS: MT5LIVE 40% off MT5 this week; ONE 30% auto-discount on BEM One;
+rotating short codes; 25% code PICKR (Pickr). No stable universal code.
+ADD-ONS: 7-day payout add-on (2-step); platform select (DXtrade/cTrader/MT5);
+no split/DD add-ons (flat 80%).
+REFUND: challenge fee refunded ON FIRST PAYOUT (all programs). Failed evals
+non-refundable. Payments for educational software/services, non-refundable
+unless unused.
+Payment methods (purchase): cards, crypto, PayPal, Stripe. No hidden platform fee.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: flat 80% standard, NO add-on to raise. Scales to 90% via scaling plan
+  (criteria NOT publicly detailed — ask support before buying).
+- First payout: BEM One = ON DEMAND once eligible (no wait); 2-Step =
+  14 days after first trade (Propvator) / after min 3 funded days (reviews).
+- Frequency: BEM One = Reward on Demand (incl daily payouts marketing);
+  Classic/Swing/Extended = WEEKLY (every 7 days); 14-day cycle cited on some
+  2-step docs + 7-day add-on available.
+- Minimum: $150 (Propvator) / 1% of initial (Pickr variant) — confirm dashboard.
+- Methods: USDC on ERC-20 for rewards <$1,500; Rise Works for $1,500+
+  (bank + crypto rails). No direct bank/PayPal withdrawals. Reviewed ~3 business
+  days, paid within hours after approval; 1-2 business days typical; avg 6h marketed.
+- KYC required before first payout. Challenge refund with first payout.
+- Scaling: consistent-trader plan to 90% + larger allocation (rules undisclosed).
+  Max $200K advertised (per-account $100K in some tables).
+- Verified paid: $3M+ to traders (homepage + PropFirmReviews).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: /prohibited-trading-practices + Terms of Use.
+BANNED (breach = denial of funded account, suspension, termination):
+1. Trade splitting/structuring to circumvent risk limits (multi small-lot splits
+   building martingale exposure).
+2. Exceeding per-trade risk discipline (>2% flagged; 0.5%-floor evasion).
+3. HFT / latency arbitrage / slow-feed exploits; server spamming.
+4. Hedging across accounts/firms; third-party copy; account sharing.
+5. Post-funded news-strategy abuse (4-min window); exploiting platform errors.
+6. Martingale-style exposure buildups via monitored patterns.
+7. KYC/identity fraud; chargebacks.
+8. Prohibited per full /prohibited-trading-practices page (read before purchase).
+HUMAN REVIEW: decisions reviewed by traders not scripts, clear reasons given;
+platform-error losses refunded (trade-level; chain-reaction drawdown disputes noted).
+Consequences ladder: funded denial + replacement-eval offer, suspension, termination.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; educational-use accounts only.
+- USA: NO services (jurisdictional ban list includes USA, UAE, Qatar, Saudi
+  Arabia, Belarus, Cuba, Iran, Iraq, North Korea, Syria, Myanmar, Russia-adjacent
+  + 50+ states/islands). MT5 access denied to US citizens/residents.
+- UK/EU: served (EN/DE/NL site). UAE residents banned despite Dubai entity.
+- Saint Lucia entity operates MT5; UAE entity operates DXtrade/cTrader.
+- FULL BAN LIST (footer): Afghanistan, Kiribati, Seychelles, Antigua and Barbuda,
+  Lesotho, Sierra Leone, Belize, Liberia, Solomon Islands, Bhutan, Malawi, Somalia,
+  Bouvet Island, Mali, South Sudan, Burundi, Marshall Islands, Syria, Cape Verde,
+  Myanmar, Timor-Leste, Central African Republic, Niue, Tokelau, Chad, North Korea,
+  Tonga, Comoros, Qatar, Tuvalu, Cook Islands, Belarus, UAE, Cuba, Congo, USA,
+  Djibouti, Saint Barthelemy, Vanuatu, Eritrea, Saint Kitts and Nevis, Venezuela,
+  Eswatini, Saint Lucia, Western Sahara, Fiji, Saint Vincent and Grenadines, Iran,
+  Sao Tome and Principe, Iraq, Saudi Arabia.
+- KYC: ID + liveness + AML before first payout; matching beneficiary.
+- VPN/VPS: single-consistent IP advised; sharing flags risk denial.
+- Languages: English, Deutsch, Dutch.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/bemfunding.com: 4.4/5, 203 reviews
+  (Nov 2025); 4.2/215 (May 2026); 4.2/213 (PropFirmMap). 178x5*, 21x1*. Replied
+  to 100% negatives with risk-reasoning. Praise: $17,418/2-day payout, 26h
+  approval, zero-denial track claimed, low spreads, 1-2 min support. Complaints:
+  funded denial after passing (splitting/risk rules unclear pre-purchase),
+  0.5%-floor surprise, platform-error chain drawdown, above-average spreads spell.
+- PropFirmMap: Safety B, Score 6.3, Payout Reliability A, $32.90 entry undercuts
+  $40 CFD median; 80% trails 90% typical.
+- TheTrustedProp: Trust 38/100, 3.6/1 review; NOT verified; Swing $890 vs FTMO
+  $570 flagged above-market.
+- Propvator: 4/5 sentiment; reliable-fast payer consensus, isolated contract-
+  penalty dispute.
+- PropFirmReviews.net: 7.0/10; $3M+/20K-trader scale; denial-after-pass pattern noted.
+- PropFirmPickr: 4.0/5; young-firm + 51-country + 80%-base caveats.
+- Red flags: NONE systemic (no regulator action, no mass-termination). Watch:
+  2024 vintage (limited history); scaling criteria undisclosed; rules split across
+  pages (easy to miss 0.5% floor / splitting clause); 5* brevity vs 1* detail skew.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest 5K ($32.90-$39) + on-demand 1-step payouts + swap-free
+Swing + 100-crypto Extended differentiate vs single-track rivals. Static 9%
+Classic is roomier than 6-8% rivals. But $890 Swing $100K is ~60% above FTMO/
+FundedNext; flat 80% (no add-on) trails 90-100% rivals; $100-200K cap trails
+$200-400K rivals; no MT4.
+BEST FIT: low-spread scalpers (Normal, no-hold discipline); swing holders
+(Swing swap-free + weekend OK); crypto traders (Extended 100+ pairs); One-phase
+speed seekers (pass in 1 trade, daily on-demand); DXtrade+cTrader+MT5 tri-platform
+users; disciplined 0.5%+/day grinders.
+BAD FIT: traders unable to clear 0.5% EVERY traded day; splitters/martingale
+sizers; news-spike strategists (4-min funded ban); MT4-locked; >$100-200K
+seekers; US/UAE/Qatar/Saudi + 50 banned residencies; anyone needing published
+scaling math before paying.
+RULE OF THUMB: need Room => Classic Normal 9% static; need Freedom => Swing
+(no consistency); need Crypto => Extended; need Speed => BEM One on-demand.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + 1-step/2-step/all-challenges + both Terms of Use +
+prohibitions + general terms + FAQ/symbols/leaderboard + checkout/dashboard read
+2026-09-08; pricing cross-checked Jun-2026 TrustedProp, Jul-2026 Propvator/Pickr,
+Aug-2026 PropFirmMap tables. Promos (MT5LIVE/ONE/PICKR) rotate — re-check
+checkout. All accounts simulated/educational.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 5-model table, static-vs-trailing map, 35%/0.5% funded rules,
+USDC/Rise payout split, 51-jurisdiction ban list.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "The prop firm that pays." | "Trade up to $200K and keep 80% of your
+trading rewards." | "MT5 is live on BEM. Get up to 40% off with code MT5LIVE."
+[2] One: "BEM One $47 $32.90" | "Profit Target Phase 1 9% | Max Drawdown 6% |
+Daily Drawdown 3% | Drawdown Type Dynamic | Tickers 70+ | Payouts On-demand |
+Consistency Evaluation No / Funded Yes."
+[3] Why One: "One good trade shouldn't need thirty good days. BEM One is one
+phase, with no consistency rule on eval and no minimum days. Hit your target,
+trade the news, hold the weekend. Funded in as little as a day."
+[4] How: "Pass the Challenge — Our most relaxed challenge: 1-Step, no consistency
+rule, no minimum days, with funding possible in as little as a single day."
+| "Get Rewarded — You are now a BEM Trader." | "Earn Up to 90%".
+[5] Speed: "Paid in hours, not weeks. Request on-demand on 1-Step accounts."
+| "Avg. 6 hours payout" | "Payouts in 1-2 days. No time limits. Keep up to 80%."
+| "Join 20,000+ funded traders worldwide."
+[6] Data: "Simulated accounts. Real market data. Every quote mirrors the live
+exchange. What you see is what the market does, with no deposit and none of
+your money on the line."
+[7] Entities: "Bex Software Development LLC-FZ ... Meydan Grandstand, 6th floor,
+Meydan Road, Nad Al Sheba, Dubai, U.A.E." | "BEM Ltd. ... registration number
+2026-00240 ... Saint Lucia" | "BEM Funding solely operates ... DXtrade, and
+cTrader" | "BEM Ltd. operates ... MT5".
+[8] Bans: "BEM Funding does not offer services to residents of [51 listed
+jurisdictions incl] United Arab Emirates ... United States of America ..."
+| "Access to MT5 ... restricted to US citizens ..."
+[9] Refund: "All payments ... are for access to educational software and services,
+and are non-refundable unless unused."
+[10] Funded rule (via Select cite): "Maximum daily loss: 3% ... Maximum trailing
+drawdown: 5% ... Minimum trading requirement: At least 3 trading days, with each
+... minimum realized profit of 0.5%".
+[11] Payout split (via Propvator cite): "USDC on the ERC-20 network for rewards
+below $1,500, and through Rise Works for rewards of $1,500 or more." |
+"minimum payout is $150".
+[12] Support: "Support that's actually there. Real people on live chat, 24/7."
+| "Decisions are reviewed by traders, not scripts."
+================================================================================
+END OF FILE — BEMFunding COMPLETE. Next firm is a separate task (not started).
+================================================================================

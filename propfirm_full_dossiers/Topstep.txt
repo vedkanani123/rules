@@ -1,0 +1,312 @@
+================================================================================
+TOPSTEP — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Topstep.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Topstep pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Topstep (Topstep LLC group; eval operator TopstepTrader LLC;
+  live prop operator TopstepFunded LLC; brokerage Topstep Brokerage LLC).
+- Founded: 2012, Chicago, USA. Founder/CEO: Michael Patak. 15 years operating;
+  the original futures prop firm.
+- Address: Chicago, Illinois, USA (operates online; support via help.topstep.com,
+  contact-support page, Discord 174,000+ members, Reddit r/TopstepCommunity).
+- Contact: help.topstep.com Help Center, Trader Support form, status.topstep.com,
+  Discord, 24/7 support claimed with sub-10-minute average response.
+- What it is: Futures-only simulated-evaluation prop firm. Trading Combine and
+  Express Funded Account are SIMULATED with real market data; Live Funded
+  Account trades real capital. Traders earn real payouts from simulated
+  performance.
+- Scale claimed on topstep.com/topstep-prop (Sep 2026): $1.5B+ paid out all time
+  (homepage $1.4B+ variant), 7,000+ traders paid weekly, 750,000+ traders,
+  140+ countries, 99.26% payout approval, instant payouts averaging under
+  9 seconds (US RTP/Aeropay auto-approved).
+- 2025 Trader Performance Statistics (official footer): Jan-Dec 2025 (a) 16.8%
+  of Combines completed to Funded Level, (b) 51.8% of participants advanced
+  at least once, (c) 33.3% of Funded Level participants received a payout,
+  (d) 0.71% of Express Funded participants called up to Live Funded.
+- Entities: TopstepTrader LLC (Combine + Express Funded + Labs simulations),
+  TopstepFunded LLC (Live Funded prop), Topstep Brokerage LLC (NFA ID 0567079
+  introducing broker), TopstepX platform by ProjectX Trading LLC, TopstepTV LLC
+  media network, The Futures Desk (TS TFD Buyer LLC, sister eval firm).
+- Key distinction: Topstep is FUTURES ONLY (CME group). No forex/CFD/crypto
+  spot. One evaluation (Trading Combine, 1-step, subscription) -> Express
+  Funded Account (simulated funded) -> Live Funded Account (invite, 0.71%).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://topstep.com (homepage: $1.4B+ paid, 7,000+ weekly, entities, stats)
+ 2. https://topstep.com/topstep-prop (pricing $49/$99/$199, targets, MLL,
+    contracts, Standard vs Consistency payout paths, activation $149)
+ 3. https://topstep.com/our-program (program overview reference)
+ 4. https://topstep.com/live-funded-account-rules (Live Funded rules index)
+ 5. https://topstep.com/express-funded-account-rules (Express Funded rules index)
+ 6. https://topstep.com/topstepx (TopstepX proprietary platform)
+ 7. https://help.topstep.com/en/articles/8284197-trading-combine-parameters
+    (Combine parameters: consistency target)
+ 8. https://help.topstep.com/en/articles/8284233-topstep-payout-policy
+    (payout policy reference)
+ 9. https://help.topstep.com/en/articles/8284204-what-is-the-maximum-loss-limit
+    (MLL explainer reference)
+10. https://topstep.com/blog/prop-firm-drawdown-rules (EOD vs intraday drawdown)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. QuantCrawler Topstep Rules 2026 (EOD trailing table $2K/$3K/$4.5K)
+12. PropDataLab Topstep Rules & Pricing 2026-07-16 (standard vs no-activation paths)
+13. Proptradingvibes Topstep Combine Rules 2026-08-04 (tested, discounts, caps)
+14. Proptradingvibes Topstep Rules Overview 2026-08-04 (XFA dual-path, $150 day)
+15. Proptradingvibes Topstep Trustpilot 2026-08-04 (3.6/5 from 14,532 reviews)
+16. Trustpilot https://www.trustpilot.com/review/topstep.com (live review feed)
+17. QuantCrawler Topstep Review 2026-06-25 (90% split, weekly payouts)
+TOTAL SOURCES: 17 (10 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- TopstepX: proprietary flagship platform built by ProjectX Trading LLC.
+  Trader-built risk tools, performance analytics, 99.9% uptime claimed.
+  Default platform for Combine and Express Funded.
+- Tradovate: connectable (dashboard Platforms section, authorize connection).
+- NinjaTrader: supported via ProjectX/Rithmic routing (community-confirmed).
+- Rithmic / ProjectX execution: execution broker layer; automation tools
+  (e.g. Ghost webhooks) connect via ProjectX on eval and funded.
+- TradingView: alert-to-execution bridges via ProjectX supported by third-party
+  automation; no native TradingView broker integration claimed.
+- Data: CME live market data included; Level 2 data suspensions reported in
+  isolated Trustpilot complaints (see Section 10).
+INSTRUMENTS: CME-group futures only — ES, NQ, CL, GC, MES/MNQ/MGC/MCL micros
+  and minis. No forex, stocks, crypto spot. All trading simulated except Live
+  Funded.
+CONTRACT SIZING: shared mini/micro pool at 10 micros = 1 mini.
+  50K: 5 mini / 50 micro max. 100K: 10 mini / 100 micro. 150K: 15 mini / 150 micro.
+  Maximum Position Size = max open contracts at one time per account.
+LEVERAGE: futures margin set by exchange; buying power label ($50K/$100K/$150K)
+  is a risk-limit label, not deposited capital. No per-symbol leverage table;
+  contract limit + MLL govern exposure.
+COMMISSIONS/FEES: exchange + execution fees apply inside simulation and count
+  toward MLL/profit target (net P/L). No separate platform fee beyond
+  subscription + activation.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Steps | Sizes          | Target         | Max Loss (One Rule) | Daily Loss (opt) | Contracts      | Consistency   | Split  | Fee model          |
+|---|----------------------|-------|----------------|----------------|---------------------|------------------|----------------|---------------|--------|--------------------|
+| 1 | Trading Combine      | 1     | 50K/100K/150K  | $3K/$6K/$9K    | $2K/$3K/$4.5K EOD-trailing | $1K/$2K/$3K optional | 5/10/15 minis | 50% of target | n/a (eval) | monthly sub $49/$99/$199 |
+| 2 | Express Funded (XFA) | funded| 50K/100K/150K  | none           | EOD-trailing, locks at $0 | same DLL carries | same caps      | Standard or 40% Consistency path | 90/10 | $149 activation (Standard path) |
+| 3 | Live Funded (LFA)    | funded| invite only    | none           | per Live rules      | per Live rules   | per Live rules | per Live rules | 90/10 | invite, no purchase |
+Notes:
+- Minimum 2 trading days to pass Combine; NO maximum time limit; subscription
+  rebills monthly until pass/breach/cancel, cannot be paused.
+- Combine pass condition: hit Profit Target WITHOUT breaching MLL/DLL, keep
+  best day <=50% of Profit Target (Consistency Target), respect contract limit.
+- Two purchase paths: Standard Path (lower monthly + $149 activation per XFA)
+  vs No-Activation-Fee Path ($95/$149/$229/mo, $0 activation).
+- Responsible Trading Advantage: adding DLL at checkout unlocks DOUBLE payout
+  caps + $10/$20/$30 monthly discount on No-Activation path.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. TRADING COMBINE (Evaluation, 50K/100K/150K) ---
+- Profit Target: $3,000 (50K) / $6,000 (100K) / $9,000 (150K) net, positions
+  closed. Must be reached without any rule breach.
+- Maximum Loss Limit (THE One Rule): EOD-TRAILING. Formula: account high minus
+  drawdown amount = floor, recalculated at end of each day. Initial floors:
+  $48,000 / $97,000 / $145,500. Floor moves UP only on closed EOD balance,
+  never down. Intraday open profits do NOT move the floor. Breach is checked
+  in REAL TIME including unrealized P/L — touching the floor = fail even
+  though the floor only steps at EOD.
+  Example ($50K): start $50K floor $48K; close $54K -> floor $52K; dip to
+  $51,900 intraday -> FAILED despite prior profit.
+- Daily Loss Limit (optional, added at checkout): $1,000 / $2,000 / $3,000.
+  Safety net, NOT a breach — platform blocks further trades until next market
+  open. One bad day cannot blow the account if DLL enabled.
+- Consistency Target: best single day must stay <=50% of Profit Target
+  ($1,500 / $3,000 / $4,500). If exceeded, Consistency Target increases
+  (must grow total to rebalance). No minimum days beyond 2.
+- Max Contracts: 5 / 10 / 15 minis (50 / 100 / 150 micros), shared pool.
+  Holding more than allowed = breach.
+- News/weekend: no blackout; trade through news, hold overnight per CME hours.
+  No intraday trailing beyond MLL mechanics.
+- Reset: $49 / $99 / $199 per reset; one free Reset Credit on each rebill.
+--- 5B. EXPRESS FUNDED ACCOUNT (XFA, simulated funded) ---
+- Activation: $149 on Standard Path; $0 on No-Activation path. Paid once per
+  XFA after Combine pass.
+- MLL: same EOD-trailing engine, LOCKS at $0 (breakeven) once reached.
+- Two payout-eligibility paths (since Feb 5, 2026):
+  Standard: minimum 5 winning days of $150+ net each; maintain balance between
+    payouts; no cumulative profit minimum (removed Apr 28, 2026).
+  Consistency: minimum 3 trading days (1+ trade each), best day <=40% of total
+    profit; no cumulative minimum.
+- Payout request cap per request (since Apr 28, 2026): capped at 50% of
+  account balance, up to $2K/$3K/$5K Standard or $3K/$4K/$6K Consistency by
+  size (50K/100K/150K). With Responsible Trading DLL at checkout: DOUBLE caps
+  ($4K/$6K/$10K-class and $6K/$8K/$12K-class; 150K Consistency $12K max).
+- Back2Funded: blown XFA can be reactivated to continue without new Combine.
+- Breach of MLL on XFA = loss of that XFA (Back2Funded available).
+--- 5C. LIVE FUNDED ACCOUNT (LFA, real capital, invite only) ---
+- Invite only at TopstepFunded discretion; 0.71% of XFA traders called up
+  in 2025. No purchase path. Separate Live Funded Account Rules apply.
+- Remaining on XFA indefinitely with payouts is normal; do not buy a Combine
+  expecting a Live invite.
+--- 5D. SESSION / OPERATIONAL NOTES ---
+- Trading day boundary follows CME session; MLL steps at EOD close.
+- VPN hard-banned per tester reports; copy-trading others' signals as
+  decision-maker risks closure (see Section 8). Automation via ProjectX
+  permitted.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+STANDARD PATH (lower monthly + $149 activation per XFA):
+- 50K: $49/mo. Target $3K, MLL $2K, DLL $1K opt, 5 minis. Reset $49.
+- 100K: $99/mo. Target $6K, MLL $3K, DLL $2K opt, 10 minis. Reset $99.
+- 150K: $199/mo. Target $9K, MLL $4.5K, DLL $3K opt, 15 minis. Reset $199.
+NO-ACTIVATION-FEE PATH (higher monthly, $0 activation):
+- 50K: $95/mo (or $85 with Responsible Trading DLL discount, -$10).
+- 100K: $149/mo (or $129 with discount, -$20).
+- 150K: $229/mo (or $199 with discount, -$30).
+CURRENCY: USD; AUD/CAD/COP/EUR/GBP/JPY/MXN/CHF selectable at checkout.
+ADD-ONS: Responsible Trading Advantage (DLL) included in pricing above;
+  Monthly Reset Credit included on each rebill; Back2Funded reactivation fee
+  per help center (verify at purchase).
+REFUND: subscriptions are NOT refunded (service consumed monthly). Activation
+  $149 is NOT refunded after XFA issued. Failed/breached Combines are not
+  refunded; resubscribe or reset.
+PAYMENT: cards via dashboard.topstep.com/register; rebills monthly until
+  pass/breach/cancel; subscription cannot be paused.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 90/10 trader/Topstep flat from $1 for dashboard joiners on/after
+  Jan 12, 2026. Pre-Jan-12-2026 joiners grandfathered: 100% of first $10K
+  lifetime, then 90/10. Old 50/50-first-$5K claims are outdated.
+- Speed: approved instant payouts average under 9 seconds (US RTP/Aeropay
+  auto-approved; bank-dependent, else 1-3 business days). 99.26% approval.
+- Cadence: funded traders can request in as little as 3 days once eligible
+  (5x $150 winning days Standard, or 3-day 40% Consistency).
+- Caps per request: 50% of balance up to $2K/$3K/$5K Standard, $3K/$4K/$6K
+  Consistency (50K/100K/150K); DOUBLE with checkout DLL ($12K max on 150K
+  Consistency). Up to $12,000 per account advertised.
+- Methods: RTP/Aeropay (US instant), Wise (international tester-confirmed),
+  bank wire, ACH. Minimums per payout policy; maintain balance between payouts.
+- Scaling: no formal scaling plan; size up by buying larger Combine or holding
+  multiple XFAs. Max advertised buying power $150K per account.
+- Live Funded: same 90/10; real-capital trading after invite.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. MLL breach = fail/termination (real-time enforcement incl. unrealized P/L).
+2. Contract limit breach = fail (5/10/15 minis shared with micros 10:1).
+3. Copy-trading: trading others' accounts or letting others trade yours banned;
+   accused copy-trading closures reported (appeal via support with evidence).
+4. VPN/VPS to obscure location hard-banned per tester guides.
+5. Exploits: latency/data-feed abuse, error exploitation, hedging across
+   accounts to game payouts banned.
+6. One Combine per subscription; multiple Combines allowed via separate
+   subscriptions. Payout balance maintenance required (cannot drain below
+   buffer and continue same XFA).
+7. Responsible Trading Program (Risk Team imposed) separate from checkout DLL
+   discount — do not confuse.
+Consequences: Combine fail (reset needed), XFA termination (Back2Funded),
+  LFA removal, payout denial if rules violated.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Futures knowledge required; Combine is difficult even for
+  experienced traders (official disclosure).
+- USA: SERVED (Chicago firm, US instant payouts via RTP/Aeropay).
+- UK/International: served in 140+ countries; CME futures subject to exchange
+  permissions.
+- KYC: government ID + payout-method verification before first payout;
+  beneficiary details must match; wire confirmations (MT103/UETR on request).
+- VPN ban means travel/VPN logins risk flags — trade from home IP.
+- Entities only via Live Funded negotiation; Combine/XFA are natural persons.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/topstep.com: 3.6/5 from 14,532
+  reviews (checked Aug 2, 2026 per Proptradingvibes; 13,690-14,448 in adjacent
+  snapshots; 3.4 in Apr 2026 snapshots). Lowest among mature futures peers
+  (Lucid 4.5-4.6, Tradeify 4.6-4.9, FundedNext 4.5-4.78) but largest review
+  pool. Paid Trustpilot subscription, claimed profile since Dec 2020.
+- Sentiment split: positives cluster on payouts arriving when eligible, fast
+  named-agent support, TopstepX tools, community; negatives cluster on
+  TopstepX glitches/freezes, support delays in busy periods, dashboard
+  migration friction, trailing-MLL surprise fails, Apr-2026 payout-cap cuts,
+  subscription rebill complaints, isolated wire-misroute (Aug 2026 $4,470 case
+  pending recall) and copy-trading closure disputes.
+- Third-party verdicts: QuantCrawler positive on 13-year record + $1.1B paid
+  but flags hardest trailing model + 30-50% consistency; PropDataLab neutral
+  pricing explainer; Proptradingvibes hands-on positive (6 Combines, multiple
+  Wise payouts since 2023) — pays if rules respected.
+- Red flags: NONE systemic (no regulator action, no payout-scam cluster;
+  $1.5B paid + 99.26% approval + NFA brokerage affiliate support legitimacy).
+  Watch items: trailing MLL unforgiving, caps cut Apr 2026, TopstepX stability.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX: Topstep EOD-trailing (forgiving intraday, locks on close) vs Apex
+  intraday-trailing (fails on wicks). Topstep pricier monthly ($49-199 sub)
+  vs Apex cheap one-time promos; Apex static-style caps often larger. Disciplined
+  EOD-swing traders -> Topstep; aggressive wick-traders -> Apex.
+VS TRADEIFY/LUCID: those offer static drawdown + higher Trustpilot (4.5+);
+  Topstep offers 15-year history + $1.5B proof + education + TopstepX.
+BEST FIT: futures day traders wanting longest track record, EOD-trailing
+  fairness, coaching/community, weekly instant payouts, 90% split.
+BAD FIT: traders needing static drawdown, one-time fee (no subscription),
+  forex/CFD variety, guaranteed Live capital, or VPN-dependent setups.
+RULE OF THUMB: start $50K Standard Path ($49 + $149 activation) with checkout
+  DLL for double caps; pass in 2+ days keeping best day under $1,500.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Combine/XFA pricing, targets, MLL/DLL, contracts, splits and
+caps above were read from the 10 official URLs in Section 2 on 2026-09-08.
+Third-party tables cross-checked to help.topstep.com pricing/parameters.
+ promos (Responsible Trading double-caps since Jun 2, 2026; XFA caps cut Apr 28,
+ 2026) rotate — re-check topstep-prop anchors before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes EOD-trailing mechanics, $49/$99/$199 paths, $149 activation,
+Standard vs Consistency payout paths, 90/10 split, Trustpilot 3.6 context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Profit/MLL: "Profit Target: $3,000 ... Max Loss Limit (One Rule): $2,000 ...
+ Max Contract Limit: 5 mini / 50 micro" ($50K card, topstep-prop).
+[2] Floor formula: "Account balance high - maximum drawdown = Maximum Loss
+ Limit (which is set at the end of each day)."
+[3] Daily net: "Daily Loss Limit: Helps limit the amount you can lose in a
+ single day. Hit your limit and the platform won't allow any more trades until
+ the next market open."
+[4] Consistency: "Meet the Consistency Target — your best single day should
+ stay below 50% of your Profit Target" (Combine parameters article).
+[5] Payout paths: "Have at least five (5) $150 winning trading days" (Standard)
+ / "Trade at least three (3) days ... Keep your best day within 40% of total
+ profit" (Consistency).
+[6] Split: "keep 90% of the profits" / "Keep 90% of the profits, with payouts
+ up to $12,000 per account."
+[7] Stats: "From January through December 2025, (a) 16.8% of all Trading
+ Combines initiated were successfully completed ... (d) 0.71% of individual
+ participants trading in an Express Funded Account were called up to a Live
+ Funded Account."
+[8] Simulation: "In the Trading Combine and Express Funded Account, trading
+ takes place in a simulated environment using real market data."
+[9] Drawdown ethos: "Topstep uses End-of-Day Drawdown, giving traders a fair
+ chance to grow" (drawdown-rules blog).
+[10] Entities: "Simulated trading program services, comprising the Trading
+ Combine, and the Express Funded Account ... are operated by TopstepTrader, LLC."
+================================================================================
+END OF FILE — TOPSTEP COMPLETE. Next firm is a separate task (not started).
+================================================================================

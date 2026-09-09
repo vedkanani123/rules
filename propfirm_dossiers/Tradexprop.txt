@@ -1,0 +1,147 @@
+================================================================================
+TRADEXPROP — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TradeXProp.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://tradexprop.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: TradeXProp / TRADEXPROP (tradexprop.com). Founder: Dixon Teo.
+  HQ: Kuching, Sarawak, Malaysia. Founded 2023. Brand: Asia's Best Prop Firm.
+- Positioning: Forex/CFD + Crypto tracks; X-1 Step, X-2 Step + Instant Funded
+  X; sizes $5K-$400K; static balance-based drawdown; cTrader/MatchTrader/
+  DXtrade; up to 90% split; instant first payout then bi-weekly.
+- Claims [UNVERIFIED]: $1.9M+ paid, 5,000+ traders, 100% payout guarantee with
+  zero denials since 2023.
+- What it is [UNVERIFIED]: Demo/simulated evaluation; virtual profit splits.
+- Contact [UNVERIFIED]: Discord https://discord.com/invite/3TkcTKhh5X,
+  24/5 support, WhatsApp per reviewers.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://tradexprop.com/ (homepage: guarantee, products, payouts-after-breach)
+ 2. https://tradexprop.com/about-us (fairness/innovation story)
+ 3. https://tradexpropdashboard.propaccount.com/evaluation (challenge picker)
+ 4. https://tradexpropdashboard.propaccount.com/en/challenges?group=FX (FX grid)
+CROSS-CHECK (third-party, real links):
+ 5. https://www.trustpilot.com/review/tradexprop.com (4.7 theme/83 + 3.8/42 reads)
+ 6. https://propfirmmap.com/firms/tradexprop (Grade B, 5.9, from $35)
+ 7. https://propfirmreviews.net/reviews/tradexprop/ (2023 launch, $5K-$400K, 90%)
+ 8. https://propfirmmap.com/blog/tradexprop-review (Aug 2026 plans/rules/pricing)
+TOTAL SOURCES: 8 (4 official to verify + 4 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: cTrader / MatchTrader / DXtrade. Confirm at checkout.
+- Instruments [UNVERIFIED]: Forex/CFD track + Crypto-only track. Verify symbol
+  lists + weekend-holding add-on mechanics.
+- Leverage [UNVERIFIED]: 50:1 Forex eval, 5:1 crypto cap per PFM reads. Verify
+  per-track table.
+- Drawdown [UNVERIFIED]: static balance-based all evaluations per firm; no
+  min/max days on one-step per PFM. Verify.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official dashboard]
+| # | Program | Target | Daily loss | Max loss | Split |
+|---|---------|--------|------------|----------|-------|
+| 1 | X-1 Step Forex/CFD | 8% (PFM) | 5% | 8% static | 80%/90% add-on |
+| 2 | X-2 Step Forex/CFD | 8% + 5% | 5% | 8% static | 80%/90% add-on |
+| 3 | Crypto 1-Step | per FAQ | 5% | balance-based | up to 90% |
+| 4 | Instant Funded X | N/A | 5% | 8% trailing (verify) | 80%/90% |
+Notes: 45% consistency on Forex/Crypto evals per PFM; funded consistency
+undisclosed. Instant locks upon payout per PFM — verify. Funded no target.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. X-1 STEP [UNVERIFIED] ---
+- Single target (~8%), 5% daily, 8% static, infinite duration, 4 min days
+  (homepage) — reconcile 4-day vs no-min-days reads on official FAQ.
+--- 5B. X-2 STEP [UNVERIFIED] ---
+- 8% + 5% targets, same 5%/8% rails per PFM. Verify min days per phase.
+--- 5C. CRYPTO TRACK [UNVERIFIED] ---
+- 5 min days, 5% daily, balance-based DD, up to 90% per homepage. Verify.
+--- 5D. INSTANT FUNDED X + SHARED [UNVERIFIED] ---
+- No target; 5% daily; 8% trailing (verify static-vs-trailing); EA allowed on
+  instant; 30-day inactivity; flat-for-weekend Yes; lock-upon-payout Yes per
+  homepage table. No stop-loss required; weekend holding allowed (add-ons).
+  45% consistency on evals — verify funded rule.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Entry from $35 ($5K 2-step) per PFM; lineup to $400K Forex ($3,755) per PFM
+  blog. Confirm full matrix on dashboard.
+- Add-ons: weekend-holding + 90%-split add-ons per homepage — verify pricing.
+- Refund: confirm refund clause before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: up to 90% (80% base + add-ons) per homepage/PFM. Verify.
+- Frequency: instant first payout, bi-weekly after per PFM. Verify request
+  flow + minimums.
+- Guarantee: 100% payout guarantee / profits-paid-even-after-breach claims —
+  verify terms fine print before relying.
+- Scaling: $400K max single; verify aggregate cap + scale plan.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rules page]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. EA/copy/hedging/scalping/news details not
+fully disclosed per PFM — confirm verbatim before trading.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Malaysia operator; unregulated prop. Banned list not captured — verify.
+- Age 18+. KYC before funded/payout assumed (reviewers cite KYC help on
+  Discord) — verify ID/selfie/POA set.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Trustpilot https://www.trustpilot.com/review/tradexprop.com: split reads
+  4.7/5 (83, Aug 2026 review page) vs 3.8/5 (42, PFM snapshot); themes: fast
+  payouts, WhatsApp/Discord support, fair rules; one competition-prize delay
+  complaint with firm merge-accounts explanation — verify resolution.
+- PFM: Grade B Average, 5.9; static DD + instant-first-payout praised; 45%
+  consistency + 5:1 crypto cap + young-firm + payout-lock noted.
+- Claims $1.9M+/5,000+ traders — verify proof page.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: Asia-based Forex/CFD + crypto traders wanting static DD, platform
+  choice, instant-first payout, weekend-holding options.
+- Bad fit: traders needing uncapped single payouts, no-consistency models,
+  NFA/regulated protections, or non-locking instant accounts.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — TRADEXPROP UNVERIFIED. Next firm is a separate task.
+================================================================================

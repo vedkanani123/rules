@@ -33,9 +33,11 @@ export type GFTCategory =
   | 'two_step'
   | 'three_step'
   | 'instant'
+  | 'instant_funding'
+  | 'futures'
   | 'legacy';
 
-export type TradingPlatform = 'ctrader' | 'matchtrader' | 'tradelocker' | 'mt5' | 'volumetrica' | 'tradovate' | 'ninjatrader';
+export type TradingPlatform = 'ctrader' | 'matchtrader' | 'tradelocker' | 'mt5' | 'mt4' | 'volumetrica' | 'tradovate' | 'ninjatrader' | 'dxfeed' | 'rithmic' | 'dx-trade' | 'dxtrade' | 'das-trader' | 'wetrader' | 'match-trader' | 'tradingview' | 'r-trader' | 'wealthcharts' | string;
 
 export type TradingStyle =
   | 'conservative'
@@ -60,7 +62,7 @@ export interface GFTModel {
   availableSizes: number[];
   defaultSize: number;
   // Core Targets & Loss Rules
-  targetsByStage: { phase1: number; phase2?: number; phase3?: number; funded: number };
+  targetsByStage: { phase1?: number; phase2?: number; phase3?: number; funded: number };
   dailyLossLimit: {
     pct: number;
     calculationType: 'balance_based' | 'equity_based' | 'trailing' | 'none';
@@ -69,7 +71,7 @@ export interface GFTModel {
   };
   maxDrawdown: {
     pct: number;
-    type: 'static' | 'trailing_eod' | 'trailing_intraday' | 'trailing_locked';
+    type: 'static' | 'trailing_eod' | 'trailing_intraday' | 'trailing_locked' | 'eod_trailing' | 'eod';
     description: string;
     locksAtInitial: boolean;
     resetsAfterPayout: boolean;
@@ -84,7 +86,7 @@ export interface GFTModel {
   consistencyRule: {
     active: boolean;
     maxSingleDayPct?: number; // 15%, 20%, or none
-    consequence: 'delay_payout' | 'breach' | 'none';
+    consequence: 'delay_payout' | 'breach' | 'none' | 'account_breach' | 'payout_withheld' | 'warning';
     description: string;
   };
   dailyProfitCapFunded?: number; // e.g. $3,000 / day
@@ -133,17 +135,27 @@ export interface GFTModel {
 }
 
 export interface GFTPricingEntry {
+  // GFT canonical fields
   modelId: string;
-  accountSize: number;
-  officialListedPrice: number;
-  verifiedCurrentPrice: number;
+  accountSize?: number;
+  officialListedPrice?: number;
+  verifiedCurrentPrice?: number;
   historicalPrice?: number;
   promoPriceBogo40?: number;
   promoCode?: string;
   promoDiscountPct?: number;
-  promoValidity: string;
-  verificationStatus: VerificationStatus;
-  sourceUrl: string;
+  promoValidity?: string;
+  verificationStatus?: VerificationStatus;
+  sourceUrl?: string;
+  // Universal firm pricing fields (used by non-GFT canonical data)
+  id?: string;
+  size?: number; // alias for accountSize
+  price?: number; // alias for verifiedCurrentPrice / standardPriceUsd
+  nominalCapital?: number; // alias for accountSize
+  standardPriceUsd?: number; // alias for officialListedPrice
+  discountedPriceUsd?: number; // sale/promo price
+  currency?: string;
+  isRefundable?: boolean;
 }
 
 export interface GFTRuleDetail {
@@ -198,8 +210,21 @@ export interface GFTWarningItem {
     | 'Community complaint'
     | 'Unverified allegation'
     | 'High-risk condition'
-    | 'Requires direct confirmation';
-  severity: 'high' | 'medium' | 'info';
+    | 'Requires direct confirmation'
+    | 'Important rule'
+    | 'Favorable condition'
+    | 'Standard notice'
+    | 'Beneficial guarantee'
+    | 'Operational standard'
+    | 'Marketing claim'
+    | 'Beneficial rule'
+    | 'Broker backing'
+    | 'Automated safeguard'
+    | 'Regulatory disclosure'
+    | 'Payout mechanic'
+    | 'Risk mechanic'
+    | string;
+  severity: 'high' | 'medium' | 'info' | 'low';
   whoItAffects: string;
   whatTheIssueIs: string;
   whyItMatters: string;
@@ -217,7 +242,7 @@ export interface GFTChangeHistoryItem {
   affectedModels: string[];
   source: string;
   explanation: string;
-  impactLevel: 'breaking' | 'minor' | 'favorable';
+  impactLevel: 'breaking' | 'minor' | 'favorable' | 'major' | 'moderate' | 'unfavorable' | 'neutral';
 }
 
 export interface GFTFuturesModel {
@@ -248,14 +273,20 @@ export interface GFTFuturesModel {
 export interface GFTDecisionRecommendation {
   key: string;
   title: string;
-  bestModelId: string;
-  bestModelName: string;
-  accountSizeRecommendation: number;
-  badge: string;
-  whyRecommended: string;
-  assumptionsUsed: string[];
-  risksAndLimitations: string[];
-  suitabilityScore: number;
+  // GFT canonical fields
+  bestModelId?: string;
+  bestModelName?: string;
+  accountSizeRecommendation?: number;
+  badge?: string;
+  whyRecommended?: string;
+  assumptionsUsed?: string[];
+  risksAndLimitations?: string[];
+  suitabilityScore?: number;
+  // Universal fields used by non-GFT firms
+  targetAudience?: string;
+  recommendedModelId?: string;
+  whyThisModel?: string;
+  tradeoffToAccept?: string;
 }
 
 // ══════════════════════════════════════════════════════════════════════════════════

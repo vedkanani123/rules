@@ -1,0 +1,447 @@
+================================================================================
+FTMO — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FTMO.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FTMO pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FTMO (legal entity: FTMO s.r.o.)
+- Founded: 2015, Prague, Czech Republic. CEO: Otakar Suffner; CTO: Marek Vasicek.
+- Address (Trustpilot profile): Purkynova 2121/3, 11000 Prague, Czech Republic.
+- Contact: support@ftmo.com | +420 910 920 310 | 24/7 live chat, email, WhatsApp.
+- What it is: CFD + Futures simulated-evaluation prop firm. ALL accounts are
+  DEMO accounts with fictitious funds; trading is simulated. Funded traders
+  receive real-money performance Rewards (profit splits), not live capital.
+- Scale claimed on ftmo.com: 4.5M+ customers worldwide, $650M+ paid in rewards,
+  140+ countries served, 300+ team members, support in 21 languages.
+- Awards/press: Deloitte Technology Fast 50 (2019-2023), Best Prop Trading Firm
+  at Finance Magnates London Summit 2023 + 2024, Forbes feature 2024, EY listing.
+- Trustpilot: 4.8/5 displayed on ftmo.com homepage.
+- Sister/affiliated entities:
+  * Australia: services via affiliated entity at https://ftmo.com/au/
+  * USA: services via affiliated entity at https://ftmo.oanda.com (OANDA tie-up)
+  * FTMO Group: https://ftmo.com/en/ftmo-group/ | Quantlane by FTMO (prop arm)
+    and Premium Programme for top performers.
+- Key distinction: FTMO CFD (1-Step / 2-Step, one-time fee) and FTMO Futures
+  Beta (Growth / Pro, monthly subscription) are SEPARATE products with
+  different rules, platforms, payouts and pricing. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://ftmo.com (homepage: products, stats, platforms, Trustpilot badge)
+ 2. https://ftmo.com/en/trading-objectives/ (1-Step + 2-Step rules verbatim)
+ 3. https://ftmo.com/en/faq/ (full FAQ index)
+ 4. https://ftmo.com/en/futures/trading-objectives-and-rules/ (Futures rules)
+ 5. https://ftmo.com/en/symbols/ (CFD instruments page)
+ 6. https://ftmo.com/en/reward-growth-and-scaling-plan/ (Scaling Plan)
+ 7. https://ftmo.com/en/trading-platforms/ (MT4/MT5/cTrader/TradingView)
+ 8. https://ftmo.com/en/faq/how-do-i-withdraw-my-profits/ (CFD payouts verbatim)
+ 9. https://ftmo.com/en/faq/which-instruments-can-i-trade-and-what-strategies-am-i-allowed-to-use/ (EA/copy rules)
+10. https://ftmo.com/en/faq/who-can-join-ftmo/ (country bans verbatim)
+11. https://ftmo.com/en/futures/ (Futures overview, payout caps/frequency)
+12. https://ftmo.com/en/forbidden-trading-practices/ (prohibitions verbatim)
+VERIFIED VIA OFFICIAL EXCERPTS (search-indexed official content):
+13. https://ftmo.com/en/faq/is-the-entry-fee-refunded/ ("1-Step: not refunded.
+    2-Step: may be refunded with the first Reward withdrawal.")
+14. https://ftmo.com/en/futures/faq/how-do-i-withdraw-my-payout-from-a-sim-funded-account/ (Sim-Funded payout flow)
+15. https://ftmo.com/en/futures/comparison-table/ (Growth vs Pro table, via aggregator cite)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+16. PropFirmMap FTMO review 2026-05-26 (Trustpilot 4.8 from 42,594 reviews)
+17. Trustpilot profile https://www.trustpilot.com/review/ftmo.com (4.8, ~51K reviews Sep 2026)
+18. proptradingvibes.com FTMO Futures review 2026-09-01 (Futures fees/rules)
+19. propfirmtrader.com FTMO Futures rules/pricing tables (Sep 2026)
+20. propfirmkey.com FTMO pricing tables (USD 1-Step/2-Step breakdown)
+TOTAL SOURCES: 20 (15 official + 5 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CFD PLATFORMS (choose at purchase; changeable only before first trade, or for
+FTMO Accounts after each Reward withdrawal):
+- FTMO MetaTrader 4 (MT4) — desktop/mobile/web, classic EA support (MQL4).
+- FTMO MetaTrader 5 (MT5) — DOM, 6 pending order types incl. stop-limit,
+  multi-threaded Strategy Tester. Best for systematic/algo traders.
+- FTMO cTrader — modern UI, cTrader Automate (C#/Python), Open API.
+- TradingView — trade via OANDA Broker Profile integration (web/desktop/mobile).
+- Server limits (official FAQ): max 200 orders at a time, max 2000 positions
+  per day; EA hyperactivity (>2,000 server requests/day on orders/modifications)
+  can trigger a warning/account action.
+FUTURES PLATFORMS: NinjaTrader, Tradovate, TradingView (CME live market data).
+CFD INSTRUMENTS (https://ftmo.com/en/symbols/): Forex pairs, Indices,
+Commodities/Metals, Stocks, Crypto (incl. weekend crypto; weekend hours vary by
+platform maintenance — check Trading Updates page). Full live-spread table is
+JS-rendered on the symbols page; contract specs (commission/swap) are inside
+each platform.
+CFD LEVERAGE: default up to 1:100 (aggregator-confirmed; per-symbol leverage
+is lower on stocks/crypto — verify inside platform contract specs).
+FUTURES INSTRUMENTS: CME-group futures (standard/mini/micro). Position cap by
+max-contracts rule: 1 standard/mini = 1 contract; 10 micros = 1 contract.
+COMMISSIONS (indicative, platform specs govern): Forex ~$5 round-trip per
+standard lot; indices/commodities ~0.0025% per side (~$5 per $100K notional).
+Commissions + swaps + spreads COUNT toward daily/max loss (equity-based).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Market | Steps | Sizes              | Target          | Daily loss | Max loss         | Consistency      | Split    | Fee model        |
+|---|----------------------|--------|-------|--------------------|-----------------|------------|------------------|------------------|----------|------------------|
+| 1 | FTMO Challenge 1-Step| CFD    | 1     | 10K/25K/50K/100K/200K | 10% (eval only) | 3%         | 10% EOD-trailing | Best-Day <=50%   | 90%      | one-time, NO refund |
+| 2 | FTMO Challenge 2-Step| CFD    | 2     | 10K/25K/50K/100K/200K | 10% Ch + 5% Ver | 5%         | 10% STATIC       | none             | 80% (90% via Scale/Premium) | one-time, refund w/ 1st Reward |
+| 2a| 2-Step Swing variant | CFD    | 2     | same 5 sizes       | same as 2-Step  | 5%         | 10% static       | none             | same     | same price, no news/weekend limits |
+| 3 | Futures Growth (Beta)| Futures| 1     | 50K/100K/150K      | $3K/$6K/$9K     | NONE (eval)| EOD-trailing $2K/$3.5K/$5K | 40% of total profit (eval) | 90/10 | monthly sub, NO refund |
+| 4 | Futures Pro (Beta)   | Futures| 1     | 50K/100K/150K      | $3K/$6K/$9K     | HARD $1K/$1.5K/$2K | EOD-trailing $3K/$4.5K/$6K | 50% of total profit (eval) | 90/10 | monthly sub, NO refund |
+Notes:
+- 1-Step has NO Verification phase and NO Swing account type (official FAQ:
+  "Swing account type is not offered for the FTMO Challenge: 1-Step").
+- 2-Step Standard vs Swing cost the SAME; Swing removes news + overnight/weekend
+  restrictions on the FTMO Account (eval has no such restrictions either way).
+- Funded (FTMO Account / Sim-Funded) has NO profit target on any program.
+- No time limit on CFD evaluations (homepage: "No time limit"). Minimum trading
+  days: NONE on 1-Step (Best-Day rule instead); 4 days on each 2-Step phase.
+- Max CFD allocation: up to $200K per account; Scaling Plan grows combined
+  FTMO Accounts up to $2,000,000. Futures: max 3 Sim-Funded accounts ($450K).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. FTMO CHALLENGE 1-STEP (CFD) ---
+- Profit target: 10% of initial balance, Challenge phase ONLY. No target on
+  FTMO Account. Must close all positions to book the pass. ($100K: +$10,000.)
+- Maximum Daily Loss: 3% of INITIAL balance. Limit = midnight CE(S)T balance
+  minus 3% of initial. Recalculated daily 00:00 CE(S)T. Equity-based (balance +
+  open P/L +/- swaps - commissions). Breach = fail. Applies on Challenge AND
+  FTMO Account. ($100K: $3,000/day. Day1 limit $97,000; Day2 with $102,000
+  midnight balance = $99,000 limit.)
+- Maximum Loss: 10% EOD-TRAILING. Limit = highest midnight balance seen so far
+  (or initial, if higher) minus 10% of initial. Trails UP only, never down.
+  Resets fully on each new post-Reward FTMO Account (back to 90% of initial).
+  ($100K: Day1 $90,000; Day2 after $104K close = $94,000; Day3 after $103K
+  close stays $94,000.)
+- Best-Day Rule (Challenge + FTMO Account): best single day (closed P/L) must
+  be <=50% of Positive Days' Profit (sum of all profitable days). NOT a breach
+  — you keep trading until ratio is fixed. Shown in Account MetriX.
+  Example (official): days +10K/-2K/-2K/-2K/+6K => positive sum $16,000, best
+  day $10,000 = 62.5% => must grow positive sum to >=$20,000.
+- Minimum trading days: NONE.
+- News: no restriction during Evaluation. On FTMO Account (Standard type):
+  NO opening/closing within 2 minutes around restricted high-impact news on
+  affected symbols (see 5E). Swing n/a (no Swing on 1-Step).
+- Weekend/overnight: no restriction during Evaluation. On FTMO Account
+  Standard: must close before weekend/overnight windows (see 5E).
+- EA/copy/HFT: EAs allowed incl. third-party, BUT duplicate third-party EA
+  strategies across traders risk max-capital-allocation denial; >2,000 server
+  requests/day = hyperactivity warning; HFT/latency/data-feed exploits banned.
+  Copy-trading YOUR OWN accounts is fine; trading others' accounts or letting
+  others trade yours is banned (see Section 8).
+--- 5B. FTMO CHALLENGE 2-STEP (CFD, Standard + Swing) ---
+- Profit target: 10% Challenge Phase 1, 5% Verification Phase 2, none on FTMO
+  Account. ($100K: $110,000 then $105,000, all positions closed.)
+- Maximum Daily Loss: 5% of INITIAL balance, same midnight-recalc mechanics as
+  1-Step. Applies Challenge + Verification + FTMO Account.
+  ($100K: $5,000/day. Day1 $95,000; Day2 after $102K = $97,000.)
+- Maximum Loss: 10% STATIC. Limit = initial minus 10%, fixed forever
+  (no trailing). ($100K: $90,000 flat.)
+- Minimum Trading Days: 4 per phase (Challenge AND Verification), none on
+  FTMO Account. A day counts if >=1 position OPENED 00:00:00-23:59:59 CE(S)T.
+  (Official example: opens on 12th, 18th, 18th, 24th = only 3 days => fail.)
+- Consistency/Best-Day: NONE on 2-Step.
+- News (funded Standard only): same 2-minute restricted-news rule as 1-Step.
+  Swing: no news restriction at all. Evaluation: no restriction either type.
+- Weekend/overnight (funded Standard only): positions must be closed per
+  weekend/overnight rule; Swing: hold freely. Evaluation: hold freely.
+- EA/copy/HFT: same as 1-Step.
+--- 5C. FTMO FUTURES GROWTH (Beta, 50K/100K/150K) ---
+- Profit target (Evaluation only): $3,000 / $6,000 / $9,000 (balance > initial
+  + target, positions closed). None on Sim-Funded.
+- Max Drawdown: EOD-TRAILING $2,000 / $3,500 / $5,000. Calculated at start of
+  each trading day (day = 6:00pm ET to 4:10pm ET next day) off highest prior
+  close (or initial). Trails up only; LOCKS at initial once reached.
+  Breach in Evaluation = fail (new account next billing date); on Sim-Funded =
+  termination. Equity = balance + open P&L - commissions; equity TOUCHING the
+  limit = breach.
+- Daily Loss Limit: NONE in Evaluation. SOFT $1,000/$2,000/$3,000 on Sim-Funded
+  (soft = trading paused, not auto-terminated — per third-party rule tables).
+- Consistency (Evaluation only): best day <=40% of TOTAL profit (all days net).
+  Not a breach; keep trading till ratio fixed. None on Sim-Funded.
+- Max contracts (Evaluation): 5 / 10 / 15 (1 std/mini = 1; 10 micros = 1).
+  Sim-Funded scales 2->5 / 4->10 / 6->15 with EOD profit milestones.
+- News: allowed. No intraday trailing. No activation fee. No consistency rule
+  on Sim-Funded.
+--- 5D. FTMO FUTURES PRO (Beta, 50K/100K/150K) ---
+- Same targets ($3K/$6K/$9K) and EOD-trailing mechanics as Growth, but WIDER
+  drawdown: $3,000 / $4,500 / $6,000.
+- Daily Loss Limit: HARD $1,000 / $1,500 / $2,000 in Evaluation AND Sim-Funded.
+  Limit = start-of-day balance minus amount; can move up AND down day to day.
+  Touching it = fail/termination.
+- Consistency (Evaluation only): best day <=50% of total profit (looser than
+  Growth's 40%). Not a breach. None on Sim-Funded.
+- Max contracts: same 5/10/15. Withdrawals: 100% of profit (vs 50% Growth).
+  Higher payout caps (see Section 7).
+--- 5E. NEWS / WEEKEND / OVERNIGHT (CFD FUNDED STANDARD — verbatim logic) ---
+- "Restrictions for trading during selected high-impact news apply only to the
+  Standard account type" and "only once you start trading on an FTMO Account.
+  They do not apply during the Evaluation Process." Swing has no restrictions.
+- Standard funded rule: no opening/closing positions on the affected symbol
+  from 2 minutes before until 2 minutes after the restricted release; affected
+  instruments published in FTMO calendar/FAQ. Breach can forfeit profits of
+  those trades and repeated abuse risks the account.
+- Standard funded: positions must be closed before weekend close and within
+  overnight restricted windows (crypto weekend hours vary by platform
+  maintenance); Swing: hold over weekends/overnight freely.
+- Futures: news trading allowed on both Growth and Pro; flat-to-close times
+  follow CME/day boundaries (6pm ET-4:10pm ET trading day).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CFD ONE-TIME FEES (single payment, no recurrence, no hidden platform fee):
+1-STEP (USD checkout): 10K $79 | 25K $199 | 50K $319 | 100K $499 | 200K $999.
+1-STEP (EUR display): 10K EUR79 | 25K EUR199 | 50K EUR319 | 100K EUR499 |
+  200K EUR999. (Homepage promo at fetch time: 20% off $100K 1-Step.)
+2-STEP (USD checkout): 10K $89 | 25K $250 | 50K $345 | 100K $540 | 200K $1,080.
+2-STEP (EUR display): 10K EUR155 (older EU display) / EUR89 (current promo
+  display) | 25K EUR250 | 50K EUR345 | 100K EUR540 | 200K EUR1,080.
+  GBP equivalents approx: 135 / 220 / 300 / 470 / 940. CZK/CAD/AUD/CHF also
+  supported at FX parity.
+Swing vs Standard 2-Step: SAME price (no add-on fee for Swing).
+Add-ons/retakes: NO add-ons sold. Fail = buy a new Challenge at full price.
+  Free Trial: $0 unlimited. No monthly data/platform fee on CFD.
+REFUND: 1-Step fee is NEVER refunded (official FAQ). 2-Step fee is refunded
+  WITH THE FIRST REWARD WITHDRAWAL (same payment method), provided the FTMO
+  Account is in profit and Agreement followed; after ~14 days of funded
+  trading. Failed evaluations are not refunded.
+FUTURES MONTHLY SUBSCRIPTION (USD, recurring until passed; NEVER refunded;
+no activation fee):
+Growth: 50K $119/mo (reset $109) | 100K $169/mo (reset $159) |
+  150K $229/mo (reset $219).
+Pro: 50K $139/mo (reset $129) | 100K $199/mo (reset $189) |
+  150K $269/mo (reset $259).
+  Breached Evaluation: subscription continues; fresh account issued next
+  billing date (effectively the reset is built into continued billing; paid
+  standalone resets also available at prices above).
+Payment methods (checkout): cards, bank transfer, Skrill, crypto and regional
+  options per https://ftmo.com/en/faq/what-payment-methods-are-available/.
+  FTMO charges no extra payout commission; third-party transfer fees may apply.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CFD PAYOUTS (FTMO Account):
+- Split: 1-Step 90% from day one. 2-Step 80% base, 90% once Scaling Plan or
+  Premium Programme conditions met. Rollover option on 2-Step: leave profit on
+  account to grow buffer (min rollover EUR20/$20/GBP20/AUD20/CAD20/CHF20/CZK500).
+  1-Step profits cannot be left to grow the balance.
+- First payout: claim in Account MetriX on the 14th day (or any later day)
+  after the FIRST trade on that FTMO Account. All positions/orders must be
+  closed before the request. Review in 1-2 business days, money sent 1-2
+  business days after invoice approval.
+- Frequency: on-demand after day 14 (bi-weekly rhythm in practice).
+- Methods/limits: bank wire (min $20 closed profit), Visa Direct/Mastercard
+  Send instant transfer (up to $20,000), Skrill (up to $3,000), crypto
+  (min $50). FTMO charges no payout commission.
+- Guarantee: none contractual; 2-Step entry fee refunded with first Reward.
+SCALING PLAN (CFD): every 4 months, +25% balance if (a) 4+ months traded on the
+  same order / since last scale-up, (b) +10% net profit in prior 4 months,
+  (c) 2+ processed Rewards in that window, (d) positive balance at scale-up.
+  Scales combined FTMO Accounts up to $2,000,000; 2-Step split rises to 90%.
+  Compatible with Premium Programme.
+PREMIUM PROGRAMME: Prime/Supreme status for elite FTMO Traders (better splits,
+  perks, Quantlane path). 1-Step traders start at 90% from the beginning under
+  Premium terms. Details: https://ftmo.com/en/premium-programme/.
+FUTURES PAYOUTS (Sim-Funded, 90/10 ratio both products):
+- Growth: payout every 4 qualifying days; qualifying day = closed EOD profit
+  >= $150 (50K) / $250 (100K) / $300 (150K). Withdraw up to 50% of available
+  profit per request. Caps: $2,500 / $3,000 / $4,000. Min payout $20.
+- Pro: payout every 5 qualifying days; thresholds $200 / $300 / $500.
+  Withdraw up to 100% per request. Caps: $5,000 / $6,000 / $8,000.
+- Methods: USD via Wise, Revolut bank wire, Visa Direct / Mastercard Send
+  (Mastercard Send NOT available to US traders). No activation fee.
+- Live Funded Account: invite-only, at Trading Department discretion; traders
+  are contacted directly. Remaining Sim-Funded indefinitely with payouts is
+  normal — do not count on a Live invite when buying.
+MAXIMA: CFD max start $200K -> $2M scaled. Futures max 3 Sim-Funded ($450K).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: https://ftmo.com/en/forbidden-trading-practices/ (+ instruments FAQ).
+BANNED (breach can mean trade removal, platform restriction, disqualification,
+Reward forfeiture, or full termination):
+1. Exploiting platform/data errors: price-display errors, stale/slow feeds,
+   latency arbitrage.
+2. Coordinated manipulation incl. across connected accounts / other firms /
+   other people: e.g. opposite positions across accounts (hedging across
+   accounts). Exception: opposite positions inside ONE single account are OK.
+3. Violating FTMO General T&Cs, FTMO Account Agreement, or platform T&Cs.
+4. Unfair-tech edge: software/AI/ultra-high-speed/mass-data-entry tools that
+   manipulate or grant unfair advantage.
+5. Gap trading: opening trades around scheduled major news/earnings affecting
+   the market, or within 2 hours before a market closes for 2+ hours.
+6. Non-replicable "real market" abuse: overleveraging, overexposure, one-sided
+   bets, account rolling/gambling (detailed in FTMO gambling blog).
+7. Hyperactive EAs: >2,000 server requests/day (order open/modify/close) that
+   overload the server.
+8. Best-Day circumvention: artificially spreading one trade idea across days
+   (hedging same/highly-correlated symbols, partial-close management across
+   days) to dodge the Best-Day/consistency rule.
+RISK-MGMT RULES (must be replicable with own money): no substantially larger
+sizes vs your other trades, no abnormal position counts, no stacked cumulative
+exposure per symbol/correlated basket ("Risk per Trade Idea").
+ACCOUNT SHARING (personal use only): nobody else may trade your account; you
+may not trade anyone else's; no signal-copying someone else's trades onto your
+FTMO account as the decision-maker; legal entities: only top management may
+access. Third-party EAs used by many traders at once risk allocation denial.
+Consequences ladder: conflicting-position removal, rebalance, leverage cut,
+disqualification, Reward loss, termination of all agreements.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. Natural persons (Futures: natural persons
+  only; entities contact support@ftmo.com).
+- USA: SERVED via affiliated entity https://ftmo.oanda.com (separate flow).
+- UK: served normally under FTMO s.r.o. (UK trader stories/payouts on homepage).
+- Australia: via https://ftmo.com/au/.
+- HARD BANS (nationals AND residents): Iran, Syria, Myanmar, North Korea +
+  sanctioned persons, financial-crime/terrorism convictions, previously banned
+  for breach, company-trust structures.
+- Conditional: Iranian/Syrian/Myanmar nationals accepted ONLY with EEA
+  residency proof + own traditional (non-fintech) EEA bank account.
+- ~70 risk-management exclusions incl. Russia, Belarus, Cuba, Iraq, Venezuela,
+  Indonesia, Kazakhstan, African/conflict states and occupied Ukrainian regions
+  (Crimea, Sevastopol, Donetsk, Kherson, Luhansk, Zaporizhzhia). Full list in
+  Section-2 source #10; map on FAQ page governs and can change.
+- KYC (FTMO Identity): government ID + liveness/contract signing after passing
+  evaluation, before FTMO Account credentials. Payout invoices require matching
+  beneficiary details.
+- VPN/VPS/travel: allowed; account sharing still banned — logins must be yours.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/ftmo.com: 4.8/5 "Excellent",
+  ~51,000 reviews (Sep 2026 reads; 51,406 on 2026-09-07 per PropNavi weekly
+  re-read; 42,594 in PropFirmMap's May-2026 DB snapshot). ~92% five-star,
+  ~3% one-star. Profile invites reviews, no guideline-breach/suspension notice.
+  FTMO "hasn't replied to negative reviews" (Trustpilot company-activity note).
+- PropFirmMap: Safety Grade A+ (highest), PropFirmMap Score 7.8/10, verdict
+  8.4/10. Not an affiliate partner (editorially independent link).
+- PropFirmMatch (via PropFirmScope cross-check): ~191 reviews averaging
+  4.61/5; no Dec-2025-to-Apr-2026 cluster of payout-denial / surprise-rule-change
+  / mass-termination complaints in the 50 most recent aggregator reviews.
+- PropFirmsFinder composite: 9.70/10. CapitalCritic (Futures): 4.7/5 (209
+  reviews). FXEmpire 2026: positive, cites multi-payout reliability (max 4 days).
+- Sentiment themes (positive): fast payouts (<24h reports), fee refund honored
+  on 2-Step, clear rules, responsive 21-language support, 5-year+ user loyalty.
+- Recurring complaints (negative 3%): Best-Day/consistency-40/50% confusion,
+  Standard-account 2-minute news-window forfeits, fee loss on failed attempts,
+  new-login-credentials after each withdrawal (minor gripe), EUR-priced fees.
+- Red flags: NONE material found (no payout-scam cluster, no regulator action,
+  no Trustpilot suspension). Watch items only: Futures is still BETA;
+  invite-only Live Funded must not be assumed; 1-Step fee non-refundable.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the reference 2-Step benchmark (most-proven payout record). Fees
+mid-range (cheaper than The Funded Trader, pricier than Apex promos) but 90%
+top split offsets cost for profitable traders. Unlimited-time evaluation is
+rarer and valuable vs 30/60-day rivals.
+1-STEP VS 2-STEP: 1-Step is cheaper at every size ($41 less at 100K), has no
+min days, starts at 90% — but daily room is tighter (3% vs 5%), drawdown
+TRAILS (vs static 10%), Best-Day-50% applies on funded too, and fee is never
+refunded. 2-Step costs more and needs 4 days/phase but gives 5% daily room,
+static 10% max loss, zero consistency rule, fee refund, and Swing freedom.
+Rule of thumb: news/swing/overnight traders -> 2-Step Swing. Conservative
+intraday scalpers wanting max split fast -> 1-Step.
+FUTURES GROWTH VS PRO: Growth = cheaper, no eval daily stop, but tighter DD
+and 40% consistency + 50%-withdrawal + lower caps. Pro = +$20-40/mo, wider DD,
+looser 50% consistency, 100% withdrawals, 2x caps — but a hard daily stop can
+kill the account in one session. Lumpy-intraday traders -> Growth; steady
+risk-capped traders -> Pro.
+BEST FIT: forex/indices/commodities CFD traders wanting a 10-year proven
+payer; patient traders using unlimited time; EAs (self-built); swing traders
+(2-Step Swing); futures day traders fine with EOD-trailing + caps.
+BAD FIT: traders needing >$200K day-one CFD capital; HFT/latency-gap-news
+styles; anyone needing a guaranteed Live futures account; traders in banned
+jurisdictions; traders who cannot survive a 3%-daily / Best-Day regime.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all CFD/Futures rules, fees, payouts, bans and prohibitions above
+were read from the 15 official URLs in Section 2 on 2026-09-08. Futures monthly
+fees ($119-$269) confirmed via official objectives page excerpts + Sep-2026
+aggregator tables sourced to https://ftmo.com/en/futures/comparison-table/.
+Pricing promos (e.g. 20% off $100K 1-Step) rotate — re-check #pricing anchors
+before purchase. FTMO notes all accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 1-Step Best-Day-50% rule, trailing-vs-static DD split,
+1-Step non-refund vs 2-Step refund, Futures Growth/Pro full tables.
+RAW EXCERPTS (official wording, verbatim):
+[1] 1-Step Max Daily Loss: "The Maximum Daily Loss Limit is recalculated daily
+at 00:00 CE(S)T as the difference between: the account balance recorded at
+00:00 CE(S)T of the current day and the Maximum Daily Loss Amount, which is 3%
+of the Initial Simulated Capital."
+[2] 1-Step Max Loss: "The Maximum Loss rule establishes an end-of-day trailing
+limit (the Maximum Loss Limit) below which your account equity (i.e., Balance
++ Open Positions P/L +/- Swaps - Commissions) cannot drop... The Maximum Loss
+Amount, which is 10% of the Initial Simulated Capital... The limit can only
+increase, but never decrease."
+[3] 2-Step Max Loss: "The Maximum Loss rule establishes a static limit (the
+Maximum Loss Limit) below which your account equity ... cannot drop."
+[4] Best-Day Rule: "the Best Day Rule requires that your Best Day does not
+represent more than 50% of your Positive Days' Profit... Exceeding the Best Day
+limit is not treated as a rule breach. However, you need to continue trading
+to generate additional profit until your Best Day ... represents 50% or less."
+[5] News rule: "Restrictions for trading during selected news releases apply
+only to the Standard account type... apply only once you start trading on an
+FTMO Account. They do not apply during the Evaluation Process."
+[6] Refund: "FTMO Challenge: 1-Step — The entry fee is not refunded. FTMO
+Challenge: 2-Step — The entry fee may be refunded with the first Reward
+withdrawal. The fee is refunded using the initial payment method."
+[7] Payout claim: "You can request a Reward claim in the Account MetriX on the
+14th or any following day after the first placed trade on the specific
+account. All open positions and pending orders must be closed."
+[8] Splits: "FTMO Challenge: 1-Step: You receive 90% of the profit...
+FTMO Challenge: 2-Step: You receive 80% of the profit (increases to 90% if
+Scaling Plan or Premium Programme conditions are met)."
+[9] Strategy freedom: "Your trading style is up to you. As long as your trading
+is legitimate (in line with proper risk management), conforms to the real
+market conditions, and does not resemble forbidden practices, we have no
+reasons for limiting or restricting your trading strategy, whether it's
+discretionary trading, algorithmic trading, EAs, etc."
+[10] Forbidden core: "you must not: knowingly or unknowingly use trading
+strategies that exploit errors in our Services, such as errors in the display
+of prices or delays in their updates, or an external or slow data feed;
+perform, alone or in concert with other persons ... simulated trades ...
+for manipulative purposes, for example by simultaneously entering into
+opposite positions (with the exception of entering into such positions on a
+single simulated account)."
+[11] Futures DD: "The Maximum Drawdown Limit is calculated at the start of each
+trading day as the difference between the highest account balance recorded at
+the close of any preceding trading day (or the Initial Simulated Capital if
+higher) and the applicable Maximum Drawdown Amount... Once the Maximum
+Drawdown Limit reaches the Initial Simulated Capital, it locks permanently."
+[12] Futures ratio: "FTMO Futures operates on a 90/10 ratio. You may withdraw
+90% of the amount you requested for withdrawal after applying the other
+applicable Payout conditions such as the Payout Cap."
+[13] Futures subscription: "Access to your FTMO Futures Growth Evaluation
+Account is billed on a monthly subscription basis. There is no activation fee.
+Your subscription remains active even if the Evaluation Account is breached."
+[14] Eligibility: "Apart from the exceptions listed below, we accept clients
+globally... FTMO does not provide services to the following categories...
+Persons (both nationals and residents) from Iran, Syria, Myanmar, and North
+Korea."
+[15] Demo disclaimer (every official page): "Please note that all accounts we
+provide to our clients are demo accounts with fictitious funds and any trading
+is in a simulated environment only."
+================================================================================
+END OF FILE — FTMO COMPLETE. Next firm is a separate task (not started).
+================================================================================

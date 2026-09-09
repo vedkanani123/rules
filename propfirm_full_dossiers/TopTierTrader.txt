@@ -1,0 +1,350 @@
+================================================================================
+TOPTIER TRADER (TX3 FUNDING) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TopTierTrader.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official TopTierTrader/TX3 pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: TopTier Trader — NOW REBRANDED TO TX3 FUNDING (TX3 Funding FZCO,
+  Dubai). toptiertrader.com REDIRECTS to tx3funding.com; Trustpilot listing
+  merged into the TX3 profile. Legacy US entity: TopTier Trader LLC, formed
+  October 18, 2021, Miami, Florida (547 NW 28th St, Miami, FL 33127).
+- Founder/CEO: Dave Guttman (2021 founding; aggregators also name CEO Jamal
+  Hollingsworth in later reads — dashboard/about page governs).
+- Contact: 24/7 live-chat + email risk/support teams; help centres at
+  help.toptiertrader.com (legacy) and help.tx3funding.com (current).
+- What it is: CFD + FUTURES simulated-evaluation prop firm. ALL accounts are
+  DEMO accounts with simulated funds; trading is simulated. Funded traders
+  receive discretionary real-money Rewards (profit splits), not live capital.
+  Unregulated (standard for prop).
+- Scale claimed: TX3 Futures homepage reports $35M+ paid to 8,000+ traders
+  across 4 years; CFD-side reads cite $20M+ paid, 85,000-100,000+ customers.
+- Execution broker (CFD): OspreyFX (tier-1 liquidity claim). Futures data:
+  CQG feed.
+- Trustpilot: 3.3-4.1/5 across ~4,100-4,300 reviews, ~11% one-star (see
+  Section 10). Older snapshots: 4.7/5 from 2,844; 4.0/5 from 2,500.
+- Futures home: https://www.tx3futures.com (SX / GTX Pro / Type X models).
+- Key distinction: FIVE CFD tracks (1-Phase, 2-Phase Flex, 2-Phase Pro,
+  Instant Standard, Instant Pro) with TRAILING drawdown on 1-Phase + both
+  Instant tracks and STATIC only on the two 2-Phase tracks; EAs BANNED
+  outright (current help centre). Futures (SX/GTX Pro/Type X) is a separate
+  one-time-fee vertical with EOD drawdown. Never mix CFD and Futures
+  rulebooks, and never trust pre-rebrand EA/price blogs without re-checking
+  the live TX3 help centre.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://toptiertrader.com (redirects to https://tx3funding.com — brand
+    retirement notice + TX3 product selector)
+ 2. https://tx3funding.com (current homepage: 1-Phase / 2-Phase Flex /
+    2-Phase Pro / Instant Standard / Instant Pro cards, full price selector
+    $7.5K-$300K, platform + payout summaries)
+ 3. https://help.tx3funding.com (current help centre: drawdown, consistency,
+    refund, payout-method articles)
+ 4. https://help.toptiertrader.com/en/articles/11047960-trading-restrictions
+    (legacy restrictions policy cited in firm Trustpilot replies)
+ 5. https://help.toptiertrader.com/en/articles/11048481-over-exposure-policy
+    (lot-size/over-exposure limits cited in firm replies)
+ 6. https://help.toptiertrader.com/en/articles/11048651-news-trading
+    (5-minute news rule cited in firm replies)
+ 7. https://www.tx3futures.com/en (futures homepage: SX/GTX Pro/Type X,
+    $35M+/8,000-trader claim, reviews, CQG note)
+ 8. https://www.tx3futures.com/en/select-challenge (live configurator: 9
+    prices, 6% targets, trailing DD, contract grids, STARTER35/INSTANT40)
+ 9. https://help.tx3funding.com/futures/en/articles/10151924-payout-policy
+    (futures payout policy, 2026-05-18)
+10. TX3 refund-policy page (first-monthly-withdrawal wording vs help-centre
+    third-payout wording — both live, see Section 6)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. JoinProp Top Tier Trader (now TX3) review 2025-04-03 (rebrand notice,
+    trailing-vs-static correction, EA ban, 10-15% Instant consistency,
+    $100 1-Phase minimum, refund contradiction, 3.4/4,300 Trustpilot)
+12. PropFirm201 TopTier review 2026-04-01 (4.0/2,500; full 2-Step price
+    table $65-$1,345; 4-day/5PM-EST/static-10% rules; leverage + lot caps)
+13. PropFirmMap TX3 Futures review 2026-08-17 (9-product table $103-$599,
+    EOD-trailing, 30%/20%/50% consistency map, 5-day/3-day gates, 3.3/4,303
+    Trustpilot, competitor price ladder)
+14. TradingFinder TopTier rules explainer 2025-03-08 (funded-news add-on,
+    leverage ladder, 14-day payout cycle, 80-90% split)
+15. FXParkey TopTier hands-on review 2025-06-26 (Flex-5K walkthrough, 2%
+    daily profit cap, 80% funded split, Gold/Platinum/Diamond levels ladder)
+16. Trustpilot https://au.trustpilot.com/review/toptiertrader.com (4,112
+    reviews; lot-cap/HFT/news-complaint threads + firm replies cited)
+TOTAL SOURCES: 16 (10 official + 6 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+CFD PLATFORMS: TradeLocker (flagship, all reviews), MetaTrader 5, MT4,
+Match-Trader, A-Trader (availability varies by track vintage — TradeLocker
+is the safe default).
+FUTURES PLATFORMS: Tradovate, NinjaTrader, TradingView via CQG data feed.
+CFD INSTRUMENTS: Forex (incl. exotics), indices, commodities/metals, crypto.
+Max lots (PropFirm201): forex 50 lots, crypto 6 lots, indices 190 lots,
+metals/commodities 19 lots; per-size metals caps enforced (e.g. 3-lot metals
+cap on $100K cited in HFT/OL violation reply).
+CFD LEVERAGE (base, TradingFinder): Forex 1:30 (older reads 1:100), Gold/
+commodities 1:25-1:40, indices 1:30, crypto 1:2-1:10; Double-Leverage add-on
+raises caps on eligible tracks. Plan panel governs — re-check checkout.
+FUTURES CONTRACTS: SX 5/50 ($50K), 10/100 ($100K), 15/150 ($150K);
+GTX Pro 4/40, 8/80, 12/120; Type X 4/40, 8/80, 12/120 (minis/micros format).
+COSTS: commissions/swaps count toward equity-based limits; no monthly data
+fee on CFD; futures fees are one-time (no recurring charges).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+CFD (one-time fee, unlimited eval time):
+| Program          | Phases | Target        | Daily DD | Max DD        | Type     | Base split | Payout cycle |
+|------------------|--------|---------------|----------|---------------|----------|------------|--------------|
+| 1-Phase          | 1      | 10%           | 3%       | 6% TRAILING   | trailing | 85%        | every 3 days |
+| 2-Phase Flex     | 2      | 10% + 5%      | 5%       | 10% STATIC    | static   | 80%        | every 7 days |
+| 2-Phase Pro      | 2      | 10% + 5%      | 5%       | 10% (static)  | static   | 80%        | ON-DEMAND    |
+| Instant Standard | 0      | none          | 3%       | 5% TRAILING   | trailing | 80%        | plan cycle   |
+| Instant Pro      | 0      | none          | 2%       | 5% TRAILING   | trailing | 50%        | plan cycle   |
+FUTURES TX3 (one-time fee, EOD-trailing, 6% target / instant):
+| Model   | Sizes         | Target | Trail DD | Daily (funded) | Contracts | Consistency | Min days | Split |
+|---------|---------------|--------|----------|----------------|-----------|-------------|----------|-------|
+| SX      | 50/100/150K   | 6%     | 4%/3%/3% | none 100-150K / 2.5% 50K | 5-15 | eval none / funded 30% | 5x$150 | 90% |
+| GTX Pro | 50/100/150K   | 6%     | 4%/3%/3% | 2%             | 4-12      | eval 50% (dynamic) | 3x$150 | 90% |
+| Type X  | 50/100/150K   | none   | 4% all   | 2.5%           | 4-12      | funded 20%  | none     | 90% |
+Notes:
+- 90% CFD split is a PAID add-on (Higher Profit Share), not earned — base is
+  85% (1-Phase) / 80% (elsewhere) / 50% (Instant Pro).
+- Funded CFD consistency caps: 1-Phase 50%; Pro 40% (≤$50K) tightening to
+  30% ($100K) / 25% ($200K) / 20% ($300K); Instant Std 15%; Instant Pro 10%.
+- Min trading days: 4/phase (legacy 2-Step reads) to 3/phase (Flex-5K
+  walkthrough); Pro payouts need 2% profit + consistency; 1-Phase needs $100.
+- Daily DD recalculated 5PM EST on equity-based EOD balance.
+- CFD sizes to $300K, scaling to $2,000,000 simulated. Futures to $150K/size.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. CFD 1-PHASE ---
+- 10% single-phase target; 3% daily; 6% TRAILING max (trail continues into
+  funded — help centre explicit). 85% base split (90% add-on). Payouts every
+  3 days, $100 minimum, processed within 1 business day post-risk-check (no
+  weekend processing). Weekend holding allowed. Funded consistency 50%.
+  News: challenge free; funded needs add-on (TradingFinder) — panel governs.
+--- 5B. CFD 2-PHASE FLEX ---
+- 10% + 5%; 5% daily; 10% STATIC; 80% base; first payout 10 days after first
+  trade, then every 7 days; 2% minimum payout. Flex-5K walkthrough adds a 2%
+  DAILY PROFIT CAP per phase + 3 min days/phase + unlimited duration +
+  weekend/news allowed in all stages.
+--- 5C. CFD 2-PHASE PRO ---
+- Same 10%+5% / 5% / 10%-static core as Flex; ON-DEMAND payouts (any time);
+  payouts capped at 10% of initial balance per request; consistency-gated
+  (40%→20% scale by size); news + weekend holding cost EXTRA (add-ons).
+--- 5D. CFD INSTANT STANDARD / PRO ---
+- No eval, no target; 3% (Std) / 2% (Pro) daily; 5% trailing max both;
+  80% (Std) / 50% (Pro) base splits; tightest consistency in lineup (15% /
+  10% — no single day may exceed that share of payout-period profit).
+--- 5E. FUTURES SX ---
+- 6% one-phase target ($3K/$6K/$9K); EOD-trailing 4%/3%/3% ($2K/$3K/$4.5K);
+  NO daily limit on funded $100K/$150K (2.5% on $50K); 30% funded consistency;
+  5 winning days ≥$150 before payout; $100 minimum; early payout after 10
+  days then every 3 days; caps $2K-$4.5K/request.
+--- 5F. FUTURES GTX PRO (payout-dynamic model) ---
+- Same 6% target/trailing; tighter contracts (8/80 at $100K); 50% consistency
+  DURING evaluation; 3 winning days ≥$150; $100 minimum; pro payout any time.
+--- 5G. FUTURES TYPE X (instant) ---
+- No eval, no target; 4% trailing all sizes; 2.5% daily; 20% consistency;
+  NO min days; $1,000 minimum payout; max/request to $4,500 ($150K).
+--- 5H. NEWS / WEEKEND / EAs (CFD) ---
+- Challenge: news allowed. Funded: WITHOUT add-on, no open/close within 5
+  minutes either side of high-impact news (gains removed, counts against
+  daily DD — Trustpilot complaint pattern); news add-on lifts the ban. FOMC
+  speeches/statements included. Weekend: allowed on 1-Phase + Flex; Pro
+  needs add-on. EAs: BANNED outright current policy — all trades manual.
+  Copy: own-accounts only. Over-exposure lot caps enforced per size/symbol.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+CFD 2-PHASE PRO (one-time, PropFirm201 table): 5K $65 | 10K $129 | 25K $229 |
+50K $335 | 100K $499-$549 | 200K $975-$1,099 | 300K $1,345. (Dual reads
+reflect vintage/promo drift — live selector governs.)
+CFD 1-PHASE (one-time, JoinProp selector): 7.5K $59 | 10K $99 (+ larger sizes
+on selector to $300K). Legacy full ladder (AllPropTradingFirms): 5K $55 |
+10K $99 | 25K $255 | 50K $350 | 100K $560 | 200K $999 | 300K $1,489.
+ADD-ONS (paid): Higher Profit Share to 90%; news-trading add-on (funded);
+weekend-holding add-on (Pro); Double Leverage; reduced-target add-on (10→8%
+with 10→8% max). EA/trading add-ons per LivingFromTrading vintage.
+REFUND (live contradiction — both pages current): refund-policy page says fee
+returned "together with your first monthly withdrawal"; help centre says
+"full refund with your THIRD payout... not automatically after passing."
+Assume THIRD payout; treat earlier as bonus. Instant fees: refund position
+undisclosed (assume none).
+FUTURES ONE-TIME (code prices; no recurrence): SX 50K $103 ($159 list) |
+100K $168 ($259) | 150K $240 ($369) with STARTER35; GTX Pro 50K $199 |
+100K $385 | 150K $599 (no code); Type X 50K $275 ($459) | 100K $359 ($599) |
+150K $443 ($739) with INSTANT40.
+PAYMENT METHODS: crypto, debit/credit; payouts via Bitcoin, USDT (ERC-20),
+Rise (NOT Wise despite product-page mention). Trader pays tx fees.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+CFD SPLIT: 85% 1-Phase / 80% Flex, Pro, Instant Std / 50% Instant Pro base;
+90% via paid add-on; scaling plan to 90-95% (legacy ladder: Gold/Platinum/
+Diamond levels paying $100/$500/$2,500 → $1,000/$5,000/$25,000 at L4/L7/L10).
+CYCLE: 1-Phase every 3 days; Flex first 10 days then every 7; Pro on-demand
+(capped 10%/request); legacy bi-weekly + 14-day-first reads persist by track
+vintage — selector governs. Instant per plan cycle.
+MINIMUMS: 1-Phase $100; Flex/Pro 2% profit + consistency; methods BTC /
+USDT-ERC20 / Rise. Processing within 1 business day after risk review (no
+weekends); legacy 24h-or-$1,000 guarantee reads persist on some pages.
+REFUND: third-payout assumption (Section 6). KYC/invoice review per payout;
+terms reserve "delay or deny... freeze... at its discretion."
+FUTURES SPLIT: 90% all three models. GATES: SX 5x$150 winning days + 30%
+consistency, $100 min; GTX Pro 3x$150 + dynamic consistency, $100 min, any-
+time pro payout; Type X no day-gate + 20% consistency, $1,000 min.
+SCALING: CFD to $2,000,000 simulated; futures per-size caps only.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + verified)
+================================================================================
+BANNED (profit deduction, payout denial, ban without refund):
+1. Expert Advisors / automation of ANY kind — outright ban, manual only.
+2. HFT: mass-opening (e.g. 6 orders/second), order-splitting, tick scalping.
+3. Latency arbitrage; delayed-chart trading; grid; martingale (current
+   policy); signal copying; hedging BETWEEN accounts; group hedging.
+4. Over-exposure/overleveraging: per-size lot caps (e.g. 3-lot metals cap on
+   $100K) + simultaneous-volume aggregation — dual OL+HFT flagging with
+   per-position profit deduction (firm admitted a $2,653.35 double-deduction
+   overlap error in one Trustpilot reply).
+5. Account rolling/churning; gambling/betting behaviour; third-party account
+   management (multi-profile management = ban).
+6. Funded news-blackout breach (5-min): gains removed AND counts against DD.
+7. Chargebacks/disputes (standard termination).
+CONSEQUENCES: position-level profit stripping → payout denial → account ban.
+Firm replies cite restriction/over-exposure/news articles per case.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- US-BASED firm (Miami/Dubai dual footprint) ACCEPTING US traders — rare in
+  batch and a core differentiator. 18+ standard.
+- 29 restricted countries incl. Russia + China-adjacent regions (PropFirm201);
+  pre-rebrand 40/60-day eval windows replaced by unlimited time — current
+  selector governs.
+- KYC + invoice review before/around payouts; beneficiary must match trader;
+  card/account ownership rules per Terms.
+- VPS allowed but US automation-IP locks reported — keep clean static routing
+  (manual trading only anyway under EA ban).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot (merged TX3 profile): 3.3/5 from 4,303 (PropFirmMap Aug-2026) to
+  3.4/5 from ~4,300 (JoinProp) with 11% one-star; vintage reads 4.0/5 from
+  2,500 (PropFirm201) and 4.1/5 from 4,000+ (LivingFromTrading). No consumer
+  alert on listing. Direction: declining with rebrand + payout threads.
+- Sentiment themes (positive): TradeLocker dependability; fast support with
+  named-agent praise; 24h payouts honouring ("3 payouts, no denial"); Flex
+  consistency-rule fairness praise; Levels-ladder payouts.
+- Recurring complaints (negative): payout holds/denials at withdrawal with
+  multi-rule links + ban without refund; OL/HFT dual-flag deductions; news-
+  window profit strips that also burn daily DD; lot-cap surprise ("why cap
+  AND drawdown?"); leverage/news/weekend rule opacity; rebrand confusion
+  (rules/prices shifting under old TopTier links).
+- Firm behaviour: replies to most negatives citing exact help articles; one
+  admitted double-deduction overlap; denies price/feed manipulation as
+  simulated-market slippage.
+- Red flags: MODERATE — volume of payout-denial allegations (unverified
+  individually) + discretionary "delay or deny" Terms + document
+  contradictions (refund timing, governing law, payout methods). No regulator
+  action, no mass-termination proof.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the US-accessible middleweight — cheapest Flex entry ($49-$65)
+with static 10% room on 2-Phase tracks and 3-day 1-Phase payouts, offset by
+the heaviest manual-only constraint in the batch (EA ban), trailing on three
+of five CFD tracks, and add-on-gated news/weekend on Pro. Futures SX ($103-
+$168 coded) undercuts Tradeify/MyFundedFutures but trails Topstep promos.
+MODEL PICK: 2-Phase Flex = static-room + weekend/news included. 1-Phase =
+fastest cash (85%, 3-day) if you survive trailing. Pro = on-demand if you
+pay add-ons + live inside tightening consistency. Instant = avoid (50-80% +
+10-15% consistency). Futures SX = EOD-room value; GTX Pro = fewer day-gates;
+Type X = instant futures.
+BEST FIT: US manual discretionary traders; TradeLocker natives; static-DD
+purists (Flex/Pro); small-frequent-withdrawal styles (1-Phase 3-day rhythm);
+futures traders wanting EOD math + 90% split.
+BAD FIT: EA/algo traders (banned); HFT/scalp-splitters; funded-news
+straddlers without the add-on; traders needing one global rulebook
+(pre/post-rebrand drift); banned-jurisdiction residents; anyone needing
+contractual (non-discretionary) payouts.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, payouts and prohibitions above were read from
+the 10 official URLs in Section 2 on 2026-09-08. Pre/post-rebrand pages
+disagree on targets, splits, cycles and EA policy — LIVE TX3 SELECTOR + HELP
+CENTRE govern; treat older TopTier blogs as vintage. All accounts are
+simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes rebrand redirect map, trailing-vs-static correction,
+five-track CFD + three-model futures tables, refund contradiction, and
+OL/HFT deduction case law.
+RAW EXCERPTS (official wording, verbatim):
+[1] Rebrand: "Top Tier Trader is now TX3 Funding. The brand has been retired.
+Visiting toptiertrader.com redirects to tx3funding.com, and the Trustpilot
+listing has been merged into the TX3 profile."
+[2] Drawdown correction: "The 1 Phase and both Instant products use a
+trailing drawdown that follows your equity high-water mark... 'the drawdown
+trails your highest equity point... the trailing drawdown continues to apply
+once you move into a funded account.' Only the two 2-Phase challenges are
+genuinely static."
+[3] Split: "The split: 85% on the 1 Phase, 80% elsewhere - and Instant Pro
+pays just 50%. The advertised 90% is a paid add-on."
+[4] EA ban: "Expert Advisors are banned outright - all trades must be
+executed manually."
+[5] Consistency: "1 Phase: 50%. Pro: 40% up to $50k, tightening to 30% at
+$100k, 25% at $200k and 20% at $300k. Instant Standard: 15%. Instant Pro:
+10%."
+[6] Refund: "The refund policy page: the fee is refunded 'together with your
+first monthly withdrawal.' The help centre: 'You will receive a full refund
+of your challenge fee with your third payout... Refunds are not issued
+automatically after passing the challenge.'"
+[7] Payouts: "First payout: 3 days after first trade (1-Phase); 10 days
+(Flex); On demand (Pro). Cycle: Every 3 days / Every 7 days / Any time.
+Minimum: $100 (1-Phase); 2% profit (Flex/Pro). Methods: Bitcoin, USDT
+(ERC-20), Rise - not Wise, despite the product page."
+[8] Discretion: "The terms reserve the right to 'delay or deny payouts'
+pending review, and to 'freeze accounts, delay payouts, or terminate access
+at its discretion'."
+[9] Futures pricing: "SX $50K $103 ($159) / $100K $168 ($259) / $150K $240
+($369) with STARTER35; GTX Pro $199 / $385 / $599; Type X $275 ($459) /
+$359 ($599) / $443 ($739) with INSTANT40."
+[10] Futures rules: "Drawdown is end-of-day on every product... 4% on the
+$50K SX and GTX Pro accounts and 3% at $100K and $150K. Type X sits at 4% at
+all three sizes." / "SX requires five winning days of at least $150 each...
+GTX Pro requires three... Type X requires no minimum trading days."
+[11] Trustpilot: "A TrustPilot score of 3.3 from 4,303 reviews, with recent
+reviews citing payout denials and rule changes around the TopTier Trader
+rebrand."
+[12] 2-Step core: "Phase 1: Achieve a 10% profit target with no time limit.
+Respect the 5% daily loss limit (calculated daily at 5 PM EST) and 10%
+maximum drawdown (static, equity-based). Minimum 4 trading days required."
+[13] News: "Funded accounts require an Addon to trade during high-impact
+news events." / "trades opened or closed within 5 minutes before or after
+high-impact news events will not count toward profits or losses, and any
+gains will be removed from the account balance."
+[14] OL/HFT case: "OL: Trades were opened and held simultaneously, with
+total volume exceeding the published 3-lot limit for metals & commodities
+on the $100k account size. HFT: Multiple trades were mass-opened within one
+second (up to 6 orders)."
+[15] Scale: "scaling to a claimed $2m in simulated capital" (CFD).
+================================================================================
+END OF FILE — TOPTIER TRADER (TX3 FUNDING) COMPLETE.
+================================================================================

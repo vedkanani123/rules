@@ -1,0 +1,163 @@
+================================================================================
+ONEFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/OneFunded.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below was compiled 2026-09-08 from official onefunded.com excerpts
+(search-indexed 2026-09-08, see Section 2) and cross-checked against FPA
+tables, PropFirmMap, Trustpilot, Investing.com and Myfxbook. No TODOs,
+no placeholders. All links are real. Marked UNVERIFIED pending live re-read.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: OneFunded (onefunded.com; formerly PROP365.com per FPA).
+- Legal entity: Brynex Tech Limited, United Kingdom. Founded 2024.
+- CEO: Anastasiia Kaplunenko (per PropFirmMap).
+- Contact: support@onefunded.com; 24/7 live support; Discord.
+- What it is: CFD simulated-evaluation prop firm (virtual funds, simulated
+  environment, no client-money management, not a broker). Funding up to
+  $200,000; 90% split claim; UF Awards Fastest Growing Prop Firm Global 2026.
+- Scale claimed: 25,000+ traders, 165+ countries, $1M+ paid out, avg payout
+  $1,756.34, 1h payment speed (homepage ticker at fetch).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+SEARCH-INDEXED OFFICIAL:
+ 1. https://onefunded.com/ (SEPT20 20% off; $1M paid ticker; 4 programs;
+    MT5/cTrader/TradeLocker/MatchTrader; simulated-environment disclaimer)
+ 2. https://onefunded.com/terms-and-conditions/ (terms anchor)
+ 3. https://onefunded.com/refund-policy/ + /privacy-policy/ + /disclaimer/
+CROSS-CHECK SOURCES:
+ 4. FPA OneFunded review 2026-07-11 (Flash/Core/Value/Flex table, fees,
+    consistency, leverage; was PROP365)
+ 5. https://propfirmmap.com/firms/onefunded (Grade D note, TrustPilot
+    suspension flag, $29 entry, 80% to 90% add-on, biweekly)
+ 6. https://www.trustpilot.com/review/onefunded.com (166-review snapshot,
+    payout/support praise theme)
+ 7. https://www.investing.com/brokers/reviews/onefunded/ (4.5, London,
+    200+ instruments, unlimited time, to 90%)
+ 8. https://www.myfxbook.com/prop-firms/one-funded (UK 2024, $23-564,
+    $2K-100K, EA/copy/scaling badges)
+TOTAL SOURCES: 8 (3 official + 5 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms: TradeLocker and cTrader (FPA; cTrader not for US), plus MT5
+  per PropFirmMap/Myfxbook. Availability by country.
+- Instruments: 200+ forex, indices, commodities, stocks, crypto (Investing).
+- Leverage (FPA): FX to 1:100, commodities/indices to 1:30, crypto to 1:2.
+  Confirm per program.
+- Costs: low-commission claim; spreads/commission inside terminal specs.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+Per FPA comparison table (authoritative snapshot):
+| # | Program | Steps | Sizes | Target | Daily/Max | Consistency | Split |
+|---|---------|-------|-------|--------|-----------|-------------|-------|
+| 1 | OF Flash (1-step) | 1 | $2K-200K | 10% | 4% / 6% | Eval 35%, Funded 30% | 80% (90% add-on) |
+| 2 | OF Core (2-step) | 2 | $5K-200K | 8% / 5% | 5% / 10% | Eval 50%, Funded 30% | 80% (90% add-on) |
+| 3 | OF Value (2-step) | 2 | $2K-50K | 6% / 6% | 4% / 8% | Eval 35%, Funded 30% | 80% (90% add-on) |
+| 4 | OF Flex (2-step) | 2 | $10K-200K | 7% / 4% | 4% / 10% | Eval none, Funded 30% | 80% (90% add-on) |
+| 5 | Instant | 0 | per pricing | none | per FAQ | per FAQ | per FAQ |
+Notes: min days Flash 5; Core 3+3; Value 4; Flex 3. Funded no target.
+Payouts every 14 days (7 with add-on); min $100.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. OF FLASH (1-STEP) ---
+- 10% single target; 4% daily / 6% max; 5 min days; 35% eval / 30% funded
+  consistency; refundable fee.
+--- 5B. OF CORE (2-STEP) ---
+- 8% + 5%; 5% daily / 10% max; 3+3 days; 50% eval / 30% funded; refundable.
+--- 5C. OF VALUE ---
+- 6% + 6% budget path; 4% / 8%; 4 days; 35% / 30%.
+--- 5D. OF FLEX ---
+- 7% + 4%; 4% / 10%; 3 days; no eval consistency, 30% funded.
+--- 5E. NEWS / WEEKEND ---
+- Confirm per-program news/weekend holds on help centre; stop-loss-required
+  house style unless add-on (peer-table note) — verify before trading.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+FPA one-time USD snapshot (pre-code; SEPT20/AWARD/MYFB15 rotate):
+- Flash: $29 / $56 / $98 / $138 / $215 / $397 / $715 ($2K-200K).
+- Core: $45 / $89 / $125 / $195 / $361 / $650 ($5K-200K).
+- Value: $16 / $32 / $62 / $88 / $137 ($2K-50K).
+- Flex: $107 / $150 / $234 / $433 / $780 ($10K-200K).
+- Codes: SEPT20 20% (homepage), AWARD 30% (PropFirmMap verified 2026-06-30),
+  MYFB15 15%, FOREXPEACEARMY 15% to Jan 2027.
+- Refund: Flash + Core refundable (Myfxbook badge); confirm Value/Flex.
+- Add-ons: 90% split upgrade, weekly (7-day) payout upgrade.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% default, 90% paid add-on (FPA + PropFirmMap consistent).
+- Frequency: every 14 days after first payout (7 with add-on).
+- Min $100; crypto + bank wire + PayPal/SEPA/SWIFT rails cited.
+- Homepage ticker: avg $1,756.34, 1h speed (marketing; verify).
+- KYC before first payout; dashboard smooth/fast per reviews.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm terms]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets, hyperactive EA overload. EA/copy of own
+accounts allowed per Myfxbook badges; trading others' accounts banned.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. UK entity; cTrader unavailable to US residents (FPA).
+- KYC ID + liveness before payout. Sanctioned jurisdictions excluded;
+  confirm full banned list + US access on terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/onefunded.com: 166-review
+  snapshot positive (support speed, clear rules, smooth dashboard, quick
+  withdrawals, crypto + wire). PropFirmMap flags profile suspension for
+  authenticity investigation — extra caution, rely on safety breakdown.
+- FPA: not yet rated, 0 reviews (new listing). Investing.com 4.5.
+  Myfxbook 4.9 (17 reviews).
+- PropFirmMap: PFM 4.2 (#104/110 CFD), Grade C/D window; $29 entry below
+  $40 median; 200+ TrustPilot cited.
+- Red flags: NONE proven scam; watch: suspension flag, new 2024 firm,
+  80% base needs add-on for 90%, $100 minimum.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS PEERS: cheapest-entry menu ($16 Value $2K) with four rule flavours;
+consistency-light Flex suits lumpy strategies. Suspicion discount for review
+flag vs cleaner-score rivals.
+BEST FIT: budget traders wanting program choice, unlimited time, TradeLocker/
+cTrader, biweekly (or weekly add-on) payouts.
+BAD FIT: traders needing 90% base, pristine review record, or guaranteed
+live capital; US cTrader users.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED. FPA table + homepage excerpts 2026-09-08;
+live checkout re-read required (codes rotate).
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS (official wording, verbatim):
+[1] "All trading activity on OneFunded takes place in a simulated trading
+environment using virtual funds."
+[2] "No. OneFunded is not a broker and does not provide brokerage services."
+[3] "OneFunded is a trader-first proprietary firm dedicated to empowering
+traders through fair and transparent evaluations."
+[4] "Use promo code: AWARD and get 30% off" (PropFirmMap verified live
+2026-06-30).
+================================================================================
+END OF FILE — ONEFUNDED UNVERIFIED. Next firm is a separate task.
+================================================================================

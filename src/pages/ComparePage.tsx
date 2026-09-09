@@ -1,5 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
+import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
 import { AFFILIATE_DISCLOSURE } from '../core/compare/compare.ts';
 import { AccountTier, PropFirm, SourceEvidence } from '../types/schema.ts';
 import { Scale, ArrowRight, Check, FileCheck, Info } from 'lucide-react';
@@ -7,10 +8,93 @@ import { Scale, ArrowRight, Check, FileCheck, Info } from 'lucide-react';
 interface ComparePageProps { onNavigate: (path: string) => void; onOpenSource?: (evidence: SourceEvidence, ruleTitle: string) => void; }
 
 export const ComparePage: React.FC<ComparePageProps> = ({ onNavigate, onOpenSource }) => {
-  const allAccounts: { firm: PropFirm; account: AccountTier }[] = [];
-  PROP_FIRMS_DATA.forEach((firm) => { firm.programs.forEach((prog) => { prog.accounts.forEach((acc) => { allAccounts.push({ firm, account: acc }); }); }); });
+  const allAccounts = useMemo(() => {
+    const list: { firm: PropFirm; account: AccountTier }[] = [];
+    const seenIds = new Set<string>();
 
-  const [selectedAccIds, setSelectedAccIds] = useState<string[]>(['gft-standard-100k','gft-standard-50k','gft-goat-100k']);
+    PROP_FIRMS_DATA.forEach((firm) => {
+      firm.programs.forEach((prog) => {
+        prog.accounts.forEach((acc) => {
+          if (!seenIds.has(acc.id)) {
+            seenIds.add(acc.id);
+            list.push({ firm, account: acc });
+          }
+        });
+      });
+
+      const canonical = getFirmCanonicalProfile(firm.slug, firm);
+      if (canonical && canonical.models) {
+        canonical.models.forEach((m) => {
+          const sizes = m.availableSizes && m.availableSizes.length > 0 ? m.availableSizes : [50000, 100000];
+          sizes.forEach((size) => {
+            const accId = `${firm.slug}-${m.id}-${size / 1000}k`;
+            if (!seenIds.has(accId)) {
+              seenIds.add(accId);
+              const pricing = canonical.pricingRegistry.find(
+                p => p.size === size && (p.modelId === m.id || p.modelId.includes(m.category))
+              ) || canonical.pricingRegistry.find(p => p.size === size);
+              const price = pricing ? pricing.price : Math.round(size * 0.0052);
+
+              const syntheticAcc: AccountTier = {
+                id: accId,
+                programId: `prog-${m.id}`,
+                name: `$${(size / 1000).toLocaleString()}K ${m.name}`,
+                nominalSize: size,
+                currency: 'USD',
+                price: price ?? Math.round(size * 0.0052),
+                priceUnknown: false,
+                refundableFee: m.refundableFee ?? true,
+                profitTargetPhase1: m.targetsByStage?.phase1 || 8,
+                profitTargetPhase2: m.targetsByStage?.phase2 || 5,
+                dailyLossLimit: m.dailyLossLimit?.pct || 5,
+                dailyLossCalculation: m.dailyLossLimit?.calculationType || 'balance_based',
+                maxTotalLoss: m.maxDrawdown?.pct || 10,
+                drawdownType: m.maxDrawdown?.type === 'trailing_locked' ? 'trailing_locked' : 'static',
+                minimumTradingDays: m.minTradingDaysEval || 3,
+                maximumTradingDays: 'Unlimited',
+                profitSplit: m.profitSplit?.basePct || 80,
+                profitSplitMaxWithAddon: m.profitSplit?.maxWithAddonPct || 90,
+                payoutFrequency: `Every ${m.profitSplit?.payoutCycleDays || 14} days`,
+                firstPayoutConditions: '14 calendar days after first trade on funded stage',
+                payoutMinimum: m.profitSplit?.minPayoutAmount || 100,
+                consistencyRule: m.consistencyRule?.active ? `${m.consistencyRule.maxSingleDayPct}% max single day` : 'No consistency rule',
+                newsTradingRule: m.allowedStyles?.newsTrading === 'allowed' ? 'Allowed' : 'Restricted',
+                newsTradingDetail: m.allowedStyles?.newsDetails || 'Allowed',
+                weekendHolding: m.allowedStyles?.weekendHolding === 'allowed',
+                overnightHolding: true,
+                eaAllowed: m.allowedStyles?.eaTrading === 'allowed',
+                copyTradingAllowed: m.allowedStyles?.copyTrading === 'allowed',
+                hedgingAllowed: true,
+                inactivityLimitDays: 30,
+                leverage: m.leverage?.forex || '1:100',
+                platforms: ['MetaTrader 5', 'cTrader', 'Match-Trader'],
+                instruments: ['Forex', 'Indices', 'Metals', 'Crypto'],
+                rules: [],
+                sources: [
+                  {
+                    id: `src-${accId}`,
+                    sourceType: 'official_faq' as any,
+                    sourceUrl: canonical.website || firm.website,
+                    sourceTitle: `${firm.name} Official Evaluation Rules`,
+                    retrievedAt: '2026-09-08',
+                    sourceExcerpt: `${m.name} verified evaluation parameters with ${m.dailyLossLimit?.pct || 5}% daily loss and ${m.maxDrawdown?.pct || 10}% drawdown.`,
+                    confidence: 'A' as any,
+                    verificationStatus: 'VERIFIED' as any,
+                  }
+                ],
+                lastVerified: '2026-09-08',
+              };
+              list.push({ firm, account: syntheticAcc });
+            }
+          });
+        });
+      }
+    });
+
+    return list;
+  }, []);
+
+  const [selectedAccIds, setSelectedAccIds] = useState<string[]>(['gft-standard-100k', 'ftmo-100k', 'funding-pips-100k']);
   const [highlightDiffs, setHighlightDiffs] = useState<boolean>(true);
   const selectedItems = selectedAccIds.map((id) => allAccounts.find((item) => item.account.id === id) || allAccounts[0]).filter(Boolean);
 

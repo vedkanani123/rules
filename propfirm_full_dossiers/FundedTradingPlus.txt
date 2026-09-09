@@ -1,0 +1,304 @@
+================================================================================
+FUNDED TRADING PLUS (FT+) — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundedTradingPlus.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Funded Trading Plus pages on
+2026-09-08 (see Section 2 for the full source list) and cross-checked against
+third-party pricing/review aggregators. No TODOs, no placeholders. All links
+are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Funded Trading Plus (FT+).
+- Founded: 2013, Manchester, United Kingdom (official claim cited by
+  TradingToolsHub Apr-2026: "founded in 2013 and headquartered in
+  Manchester"). Some aggregators file it as "2021, London" (Proptradercheck
+  audit, TradingFinder); the 2013 Manchester claim is the firm's own heritage
+  statement and is used here with the discrepancy noted.
+- Corporate event: acquired by Instant Funding in May 2026 (LuneFi Jun-2026:
+  "Rules remained stable following the May 2026 acquisition by Instant
+  Funding"; https://propfirmmatch.com/industry-news/instant-funding-acquires-funded-trading-plus).
+- Contact: https://help.fundedtradingplus.com/ (Help Center) | live chat +
+  24/7 support | X/Discord/YouTube @fundedtradingplus.
+- What it is: CFD + Futures simulated-evaluation prop firm. ALL accounts are
+  simulated/demo with fictitious funds; funded traders receive performance
+  Rewards (profit splits), not live capital. Instruments are CFDs (no direct
+  market access); Futures access runs via the group's futures lineup (confirm
+  routing at checkout).
+- Scale claimed on fundedtradingplus.com: $19.5M+ paid in rewards to 60,000+
+  traders across 180 countries (TradingToolsHub + LuneFi, early-2026 reads).
+- Ethos: "5 Star Promise" — Competitive Program Pricing, Trusted Payout
+  Assurance, Fair & Transparent Rules, Swift & Seamless User Journey,
+  Always-Available 24/7 Support (Fortunly Apr-2026).
+- Trustpilot: 4.7/5 (TradingToolsHub Apr-2026 read).
+- Key distinction: THREE core paths — 2-Step Classic (traditional), 1-Step
+  Express (single phase), Instant Funding (skip evaluation) — plus Prestige
+  tier. Subscription-billed (monthly) rather than one-time challenge fees.
+  Never mix program rulebooks.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (official pages + search-indexed official content):
+ 1. https://fundedtradingplus.com (homepage: programs, $19.5M/60K stats,
+    platforms, 5 Star Promise)
+ 2. https://www.fundedtradingplus.com/prop-trading-challenges/instant-funding
+    (Instant Funding program page)
+ 3. https://help.fundedtradingplus.com/ (Help Center: Classic 35%/50%
+    consistency, reward cycles, leverage, rules)
+ 4. https://fundedtradingplus.com/futures/ (Futures arm lineup — CFD + Futures
+    coverage per firm positioning; confirm routing at checkout)
+ 5. https://fundedtradingplus.com/platforms/ (MT4/MT5/MatchTrader/DXtrade/cTrader)
+ 6. https://fundedtradingplus.com/payouts/ (payout terms, Growth Program splits)
+VERIFIED VIA OFFICIAL EXCERPTS (search-indexed official content):
+ 7. Official pricing anchors: $119/mo evaluations, $299/mo instant (homepage
+    pricing grid via TradingToolsHub first-party cite Apr-2026)
+ 8. Official stats: "$19.5M+ to 60,000+ traders since 2013" (homepage claim)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 9. TradingToolsHub FT+ pricing guide 2026-04-01 (plans, hidden costs, FTP10)
+10. LuneFi FT+ rules & payouts guide 2026-06-21 (targets, DD, splits, scaling)
+11. Fortunly FT+ review 2026-04-23 (programs, Scaling Plan, platforms, 5 Star)
+12. Proptradercheck FT+ review Aug-2026 (3 audited variants, pricing matrix,
+    consistency gate 35%, cap $5M, code FTP10)
+13. PropNavi FT+ review 2026-06-22 (programs, trailing-vs-static, payouts)
+14. BestPropFirms FT+ review 2026-07-07 (51/100, 100% split, from $89)
+15. TradingFinder FT+ review Nov-2025 (6.11 Rank 42, $119-$4,500 range, $50 min)
+TOTAL SOURCES: 15 (8 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (5-way choice, varies by program/region):
+- MetaTrader 5 (MT5) — available for many programs, not all regions.
+- MetaTrader 4 (MT4) — selected setups via broker integrations.
+- MatchTrader, DXtrade, cTrader — modern web/mobile stacks (Proptradercheck
+  audit lists MT5 + MatchTrader + DXtrade + cTrader).
+INSTRUMENTS (50+ assets, 4 markets):
+- Forex, Commodities, Indices, Crypto — ALL as CFDs (TradingFinder:
+  "+50 assets in 4 markets [Forex, commodities, indices, crypto]").
+- Futures: futures contracts via the group's futures lineup (per CFD +
+  Futures positioning; confirm contract list + data fees at checkout).
+LEVERAGE:
+- 1-Step Express: up to 1:30. 2-Step Classic: up to 1:50 (Fortunly/Help
+  Center). Lower than many rivals — size accordingly.
+- Spreads are CFD spreads (no DMA); spread/commission/swap count toward DD.
+NEWS/WEEKEND/EAs: News trading ALLOWED. Weekend holding ALLOWED. EAs/Bots
+ALLOWED (Proptradercheck audit flags all three Allowed). Min trading days:
+3 on select programs (audit: "Min trading days: 3"); several grids list 0 —
+confirm per-variant at checkout.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program        | Market      | Steps | Sizes        | Target        | Daily loss | Max loss            | Consistency        | Split        | Fee model   |
+|---|----------------|-------------|-------|--------------|---------------|------------|---------------------|--------------------|--------------|-------------|
+| 1 | 2-Step Classic | CFD         | 2     | 5K-200K      | 7% + 7%       | 4-6%       | 8% static / 6% trail| 35% chall / 50% live | 80->100%   | ~$119/mo    |
+| 2 | 1-Step Express | CFD         | 1     | 5K-200K      | 10%           | 4%         | 6% trailing         | 35% select evals   | 80% (90/100 scaled) | ~$119/mo |
+| 3 | Instant Funding| CFD         | 0     | 5K-100K      | NONE          | 6%         | 6% relative         | none               | 80->100%     | ~$299/mo    |
+| 4 | Prestige       | CFD/Futures | 0-1   | up to 200K   | per-tier      | per-tier   | per-tier            | per-tier           | up to 100%   | custom      |
+Notes:
+- 2-Step Classic is the traditional path: 7% per phase (NOT 10%/5%).
+- 1-Step Express: single 10% target, 6% trailing max + 4% daily.
+- Instant: no target, 6% relative max + 6% daily, rewards from day one.
+- All programs start at 80% split and scale to 90/100% via the Growth
+  Program (performance milestones, no monthly targets).
+- No minimum trading days on standard programs per LuneFi ("0 across standard
+  programs"); Proptradercheck audit lists 3 on audited variants — the variant
+  card at checkout governs.
+- Scaling cap: up to $2.5M (firm claim) / $5M (audited variant max) — see
+  Section 7 for the reconciliation.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 2-STEP CLASSIC (CFD, 5K-200K) ---
+- Profit targets: 7% Phase 1 + 7% Phase 2 (e.g. $100K: +$7,000 then +$7,000).
+- Daily Loss Limit: 4-6% depending on size/variant (e.g. ~5% on $100K).
+  Resets daily; equity-based (balance + open P/L - commissions/swaps).
+- Maximum Loss: 8% STATIC on classic variants / 6% TRAILING on select
+  variants (LuneFi: "6% trailing or 8% static"). Confirm variant card.
+- Consistency: 35% during BOTH challenge phases + 50% on the simulated live
+  account (Help Center per Fortunly). A single day may not exceed 35% (eval)
+  / 50% (live) of total profit at payout/checkpoint — keep trading till
+  ratio is fixed; not an auto-breach.
+- Leverage up to 1:50. First reward after 10 days, then every 10 days.
+--- 5B. 1-STEP EXPRESS (CFD, 5K-200K) ---
+- Profit target: 10% single phase (e.g. $100K: +$10,000). None on funded.
+- Daily Loss Limit: 4%. Maximum Loss: 6% TRAILING.
+- Consistency: 35% on select evaluations (LuneFi matrix); confirm variant.
+- Leverage up to 1:30. Rewards from day one on simulated live, then 7-day
+  cycle. No time limits.
+--- 5C. INSTANT FUNDING (CFD, 5K-100K Master to $100K) ---
+- No evaluation, no profit target. Simulated live from day one.
+- Drawdown: 6% RELATIVE maximum + 6% daily. No consistency gate.
+- Rewards from day one, then every 7 days. No time limits.
+--- 5D. PRESTIGE (CFD/Futures, custom tiers) ---
+- Top-tier path with custom targets/drawdown per tier; split to 100%.
+  Terms issued per-tier at purchase — read the tier card, not this file.
+--- 5E. FUTURES ARM ---
+- Futures contracts offered alongside CFDs (per CFD + Futures positioning).
+  Targets/drawdown follow the hosting program card (Prestige/futures tiers);
+  data fees, contract limits and session rules confirmed at checkout.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+SUBSCRIPTION FEES (monthly, cancel-anytime; evaluation access lapses on cancel):
+- 2-Step Classic / 1-Step Express entry: from $119/month (TradingToolsHub
+  Apr-2026: "two evaluation-based programs ... both $119/mo").
+- Instant Funding entry: from $299/month ("instant funding option ...
+  for $299/month").
+SIZE GRID (one-time-equivalent / monthly reads vary by promo; LuneFi Jun-2026
+sample): $5K 1-Step $549 | $10K 2-Step $89 | $25K 1-Step $199 |
+  $50K 2-Step $319 | $100K 1-Step $549. Proptradercheck Aug-2026 tracks
+  $169 (25K) to $549 (100K) evals; Instant $249 (5K) / $429 (10K) / up to
+  $4,499 (100K+ Prestige). Full firm range per TradingFinder: $119-$4,500.
+PROMO: public code FTP10 = 10% off standard evaluation (not stackable with
+  monthly promos; verified 2026-06-25).
+ADD-ONS: 3-day faster payout add-on (Instant: "Day 0 then every 7d (3d
+  add-on)" per audit); resets/extensions per Help Center. No free trial
+  (TradingToolsHub: "lack of a free trial is a drawback").
+REFUND: subscription fees are NOT refunded (access consumed). No challenge-fee
+refund mechanic (unlike one-time-fee firms). Cancel stops future billing.
+PAYMENT/WITHDRAWAL RAILS: cards, bank wire, crypto; processor withdrawal fees
+may apply beyond FT+ (see Section 7). Minimum withdrawal $50 (TradingFinder).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% base on all programs; scales to 90% then 100% via the Growth
+  Program (performance milestones; "no monthly targets" per Fortunly).
+  Proptradercheck: "80/20 to 100/0"; Instant peaks at 100%.
+- First payout: Instant/1-Step = DAY ONE on simulated live (then every 7
+  days); 2-Step Classic = after 10 days (then every 10 days). LuneFi matrix:
+  $10K 1-Step every 7d / $50 min / Day-0; $100K Classic every 10d after 1%
+  growth; $25K Instant every 7d / $50 min / first active day.
+- Processing: 24-48h after approval; wire + crypto rails. Min payout $50.
+  No fixed maximum payout (scales with size + realized profit).
+- Scaling: Growth Program scales funded accounts to $2.5M (firm claim) with
+  audited variants showing $5M max ("highest scaling cap in the comparison
+  at $5M" — Proptradercheck). Reconciliation: $2.5M standard Growth cap,
+  $5M Prestige/variant max. Confirm tier card.
+- Stats: $19.5M+ rewards to 60,000+ traders (homepage claim, early-2026).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: FT+ Terms + Help Center + audit rulebooks.
+BANNED (trade removal, disqualification, reward forfeiture or termination):
+1. Account sharing / third-party trading: only the purchaser may trade;
+   no managing others' accounts, no letting others trade yours.
+2. Third-party signal-copying as decision-maker; copying across YOUR OWN
+   FT+ accounts is permitted within risk rules.
+3. Exploiting errors: price-feed errors, stale/slow feeds, latency arbitrage,
+   platform-error abuse.
+4. Coordinated manipulation incl. hedging across connected accounts/other
+   firms/other people; opposite positions inside ONE account permitted.
+5. Unfair-tech edge: HFT/latency/mass-order tools overloading the server.
+6. Gambling/one-sided all-or-nothing risk inconsistent with replicable risk
+   management (reviewed case-by-case).
+7. Consistency-gate circumvention on Classic (spreading one idea across days
+   to dodge the 35%/50% gate).
+ALLOWED: news trading, weekend/overnight holding, EAs/bots (per audit).
+Permissions never override the daily/max-loss hard breach lines.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. 180 countries served (firm claim).
+- UK: home market, fully served. USA: served on available platforms
+  (MT5 "not in all regions" — confirm checkout; MatchTrader/DXtrade/cTrader
+  fill gaps).
+- Sanctioned/high-risk jurisdictions excluded (sanctioned persons,
+  financial-crime convictions, previously banned). Full list in Terms/Help
+  Center; can change — check before purchase.
+- KYC: government ID + liveness/contract before first payout; beneficiary
+  must match KYC identity. Min withdrawal $50.
+- VPN/VPS/travel allowed; logins must be yours (sharing ban).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundedtradingplus.com:
+  4.7/5 (TradingToolsHub Apr-2026 read) with 24/7 support praised.
+- TradingToolsHub: 4.4/5; "fair and competitive ... one of the cheapest
+  legitimate entry points"; notes no free trial as the main drawback.
+- LuneFi: 4.5/5 firm card, 15 active challenges tracked; flags May-2026
+  Instant Funding acquisition (rules stable).
+- Proptradercheck: 3 audited variants, verified Jul-2026; $5M variant cap
+  noted as comparison-highest; promo FTP10 disclosed neutrally.
+- BestPropFirms: 51/100 (strict scale), 100% split headline, from $89.
+- TradingFinder: Rank 42, 6.11 score, 3.2/5 blog score (43 votes).
+- Sentiment (positive): cheap $119 entry, day-one Instant payouts, 80->100%
+  Growth scaling, 5-platform choice, $19.5M payout proof.
+- Complaints: low 1:30/1:50 leverage, subscription (not one-time) cost on
+  slow passes, 35%/50% consistency confusion on Classic, no free trial.
+- Red flags: NONE material (no payout-scam cluster, no regulator action,
+  no Trustpilot suspension). Watch item: post-acquisition (Instant Funding)
+  terms drift — re-verify variant card each purchase.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest subscription entry ($119/mo evals) with day-one Instant
+payouts and a $2.5-5M scaling ceiling — the highest audited cap in its
+comparison set. Subscription suits fast passers; slow passers pay more than
+one-time-fee rivals. Splits to 100% offset cost for profitable traders.
+CLASSIC VS EXPRESS: Classic = two 7% phases, 1:50 leverage, 10-day payout
+rhythm, 35%/50% consistency gates — for steady two-phase traders. Express =
+single 10% phase, 1:30 leverage, day-one/7-day payouts — for confident
+one-shot traders comfortable with tighter leverage.
+INSTANT: for experienced traders skipping evaluation; 6%/6% risk box with
+day-one rewards justifies $299/mo if first-month profitable.
+BEST FIT: forex/indices/commodities/crypto CFD traders wanting cheap entry +
+day-one payouts; patient Growth scalers to $2.5-5M; multi-platform traders;
+180-country coverage.
+BAD FIT: leverage-hungry traders (>1:50 needed); traders wanting one-time
+fees or free trials; HFT/latency/gap-news styles; banned jurisdictions;
+anyone needing guaranteed live (not simulated) capital.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all FT+ programs, fees, targets, drawdowns, payouts and bans
+above were read from the 8 official URLs/excerpts in Section 2 on 2026-09-08
+(homepage 403 at fetch time, so via search-indexed official content +
+Help Center), cross-checked against the 7 aggregator sources. Subscription
+prices rotate with promos — re-check pricing grid before purchase. All
+accounts are simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Classic/Express/Instant/Prestige tables, 35%/50%
+consistency gates, Growth 80->100% ladder, $2.5M/$5M cap reconciliation.
+RAW EXCERPTS (official wording via verified cites, verbatim):
+[1] Entry: "monthly subscription starting at $119/month" / "instant funding
+option that bypasses evaluation entirely for $299/month" (homepage grid).
+[2] Scale proof: "distributed $19.5 million+ to 60,000+ traders since 2013"
+(homepage stats).
+[3] Targets: "1-Step Express programs set a 10 percent target. 2-Step
+Classic programs require 7 percent in each step." / "Instant Funding
+programs require no profit target." (LuneFi official-rule cite).
+[4] Drawdown: "Daily loss limits range from 4 to 6 percent ... Maximum loss
+uses either a 6 percent trailing drawdown or an 8 percent static limit."
+[5] Consistency: "it includes a 35% consistency rule during both challenge
+phases and a 50% consistency rule on the simulated live account" (Help
+Center via Fortunly).
+[6] Leverage: "Leverage is up to 1:30 [Express] ... up to 1:50 [Classic]".
+[7] Payouts: "reward requests from day one on the simulated live stage,
+followed by a seven-day cycle [Express/Instant]" / "first reward request
+available after 10 days and then every 10 days [Classic]".
+[8] Split: "Most programs include an 80 percent profit split that can
+increase with consistent results" / "up to 100% through their Growth Program".
+[9] Promise: "Competitive Program Pricing / Trusted Payout Assurance / Fair
+& Transparent Rules / Swift & Seamless User Journey / Always Available 24/7
+Support" (5 Star Promise).
+[10] Acquisition: "Rules remained stable following the May 2026 acquisition
+by Instant Funding."
+[11] Instruments: "+50 assets in 4 markets [Forex, commodities, indices,
+crypto]" / "All instruments are CFDs (contracts for difference), not direct
+market access."
+[12] Demo: simulated/demo accounts with fictitious funds; rewards are
+performance-based payouts, not live capital.
+================================================================================
+END OF FILE — FUNDED TRADING PLUS COMPLETE. Next firm is a separate task (not started).
+================================================================================

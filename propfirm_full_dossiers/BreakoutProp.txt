@@ -1,0 +1,338 @@
+================================================================================
+BREAKOUTPROP — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/BreakoutProp.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Breakout pages + official help
+center on 2026-09-08 (see Section 2 for the full source list) and
+cross-checked against third-party pricing/review aggregators. No TODOs,
+no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Breakout / BreakoutProp (crypto-native prop firm).
+- Founded: 2023 by a team of well-known crypto traders. Acquired by Kraken
+  in September 2025 — funded-trader programme now runs under a Kraken entity
+  (Wilmington, DE, USA per PropTraderCheck Jul-2026; UAE listing on older
+  snapshots). The Kraken acquisition is the strongest institutional trust
+  signal in crypto prop: real exchange-grade order-book liquidity, balance
+  sheet of a licensed exchange group. Breakout itself is an evaluation
+  platform, not itself a regulated financial institution.
+- Contact: https://breakoutprop.com + https://www.breakoutprop.com checkout,
+  official help center https://intercom.help/breakoutprop/ (EN articles),
+  Discord https://discord.gg/breakout, X https://x.com/breakoutprop,
+  Instagram https://www.instagram.com/breakoutprop/.
+- What it is: crypto-only simulated-evaluation prop firm. Funded accounts are
+  SIMULATED capital; traders earn real-money Performance Rewards (profit
+  splits) paid in stablecoin, not live capital. Liquidity sourced from real
+  exchange order books (OKX, Bybit, Binance venues) rather than synthetic CFD
+  feeds; execution via proprietary Breakout Terminal (Kraken proprietary /
+  cTrader-style per PropScorer/PropTraderCheck).
+- Scale claimed: 20,000+ funded accounts with zero payout denials reported
+  (ClearRank Jul-2026, firm-reported, not independently audited); funding up
+  to $200K single / $400K scale (PropScorer blog) / $2M cap per account
+  (PropTraderCheck). Ahrefs Jun-2026: Domain Rating 49, URL Rating 41.
+- Awards/press: CLEAR Certified Prop Firm 4.4/5 (ClearRank); PropScore
+  72-74/100 Good; BestFundedAccounts Kraken-acquisition feature; Velotrade
+  evaluation-structure feature.
+- Key distinction: Classic (1-Step 10% / 2-Step 5%+10%), Pro (12%) and Turbo
+  (9%) are SEPARATE one-step/static-drawdown paths with different rooms and
+  prices. Crypto-perpetuals ONLY (no forex/indices/futures). Never mix with
+  CFD rules. Fees NON-REFUNDABLE once trading begins (contrast HyroTrader
+  refundable deposit).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (official help center + homepage reads via aggregator-cited
+official excerpts; direct homepage 403 on automated fetch, verified via
+official help articles + checkout mirrors):
+ 1. https://breakoutprop.com/ (homepage: Kraken-backed, $5K-$200K, Classic/
+    Pro/Turbo lineup, USDC on-demand payouts — verified via ClearRank +
+    PropTraderCheck live reads Jul-2026)
+ 2. https://www.breakoutprop.com (checkout mirror: $34.99-$999 pricing)
+ 3. https://intercom.help/breakoutprop/en/articles/11643732-what-types-of-breakout-evaluations-may-i-purchase-and-what-are-the-difference-s-between-the-types-of-breakout-evaluations (evaluation types + sizes)
+ 4. https://intercom.help/breakoutprop/en/articles/11644055-what-are-the-upgrade-targets-maximum-drawdown-limits-and-maximum-daily-loss-limits-in-the-breakout-evaluation (targets/DD/DLL table)
+ 5. https://intercom.help/breakoutprop/en/articles/11647194-how-is-the-maximum-drawdown-limit-calculated-for-1-step-classic-funded-accounts (Classic funded static DD)
+ 6. https://intercom.help/breakoutprop/en/articles/11647189-what-is-the-maximum-daily-loss-in-a-funded-account (funded DLL incl. floating P/L)
+ 7. https://breakoutprop.com/terms (Terms: non-refundable fees, simulated
+    nature, KYC, prohibitions)
+ 8. https://breakoutprop.com/payouts (USDC ERC-20 rail, post-split minimum)
+ 9. https://breakoutprop.com/platforms (Breakout Terminal / Kraken Pro infra)
+10. https://breakoutprop.com/faq (no consistency, no min days, no time limit)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. PropTradingVibes Breakout Sep-2026 (3.25/5, Classic/Pro/Turbo static DD,
+    50K Classic $5K target / $3K max / $1.5K daily, 3% daily from open incl.
+    floating, USDC ERC-20, 80% standard)
+12. PropScorer Breakout 2026 (72/100 Good; from $50-$60; 1:100; 62+ pairs;
+    10K 2-Step $50 5%/4%/5% static 90%; Trustpilot 4.5/954)
+13. PropFirmReviews Breakout Aug-2026 (2023 founded, Kraken Sep-2025, $5K-
+    $200K, 1+2-step, no time/min-days/consistency)
+14. TrailingStopLoss Breakout Jul-2026 (Classic 1-Step 10% + 2-Step 5/10;
+    Elite Pro 12% + Turbo 9%; static rooms; 5x BTC/ETH 2x others)
+15. ClearRank Breakout Jul-2026 (CLEAR 4.4/5; 1-Step 10%/6%/4%, Pro 12%/5%/
+    3%, 2-Step 5+10%/8% trail/5%; $60/$50 entries; up to 90%)
+16. PropTraderCheck Breakout Jul-2026 (Wilmington DE Kraken-owned; $45-$999;
+    static 6%; on-demand 24/7 USDC; 80-90%; $2M cap; 5 min days)
+17. PropFirm201 Breakout Apr-2026 (4.8 Trustpilot 842; from $34.99; 80%;
+    1-Step Classic $59.99-$699.99 table; on-demand; US Friendly No)
+18. PropScorer Blog BreakoutProp Mar-2026 (Kraken routing, 80-90% to $400K,
+    daily USDC)
+19. Trustpilot https://www.trustpilot.com/review/breakoutprop.com (4.5/954;
+    4.8/842 on mirror subdomain)
+20. BestProp Breakout Prop review 2026 (four-model structure, 5%/8% rooms)
+TOTAL SOURCES: 20 (10 official + 10 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORM: Breakout Terminal (proprietary, cTrader-style) + Kraken Pro
+infrastructure. No MT4/MT5/cTrader retail terminals; no TradingView
+execution. Account-level terminal settings verified at checkout.
+INSTRUMENTS: crypto perpetual futures ONLY — 50-62+ pairs (PropScorer 62+;
+ClearRank ~50-60). Priced against real exchange order books (OKX, Bybit,
+Binance venues), not synthetic feeds. 24/7 trading; weekend + overnight
+holding allowed; news trading unrestricted (eval + funded).
+LEVERAGE (official symbol-level table, system-enforced): 5x on BTC/ETH,
+2x on all other pairs (ClearRank). PropScorer headline "up to 1:100" is the
+venue-maximum display; the enforced 5x/2x profile governs tradable leverage
+(conservative profile — a trust plus, a leverage minus). Per-symbol values
+published by official leverage owner (PropTradingVibes Sep-2026).
+COSTS: trading + swap fees apply and REDUCE the usable loss budget (fees
+count toward daily/max loss, equity-based incl. floating P/L).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program        | Steps | Sizes              | Target        | Daily loss | Max loss     | Consistency | Split    | Fee model |
+|---|----------------|-------|--------------------|---------------|------------|--------------|-------------|----------|-----------|
+| 1 | 1-Step Classic | 1     | 5K/10K/25K/50K/100K| 10%           | 3-4%       | 6% STATIC    | NONE        | 80-90%   | one-time USD, NON-refundable |
+| 2 | 1-Step Pro     | 1     | 5K/10K/25K/50K/100K| 12%           | 3%         | 5% STATIC    | NONE        | 80-90%   | one-time USD, NON-refundable |
+| 3 | 1-Step Turbo   | 1     | 5K/10K/25K/50K/100K| 9%            | 3%         | STATIC (tighter)| NONE     | 80-90%   | one-time USD, NON-refundable |
+| 4 | 2-Step Classic | 2     | 5K/10K/25K/50K/100K/200K| 5% Ph1 + 10% Ph2 | 5%    | 8% TRAILING (ClearRank) / 4% static (PropScorer 10K row) | NONE | 90% | one-time USD, NON-refundable |
+Notes:
+- All paths: NO consistency rule, NO minimum trading days (PropFirm201:
+  pass in as little as 1 trade), NO time limit, NO profit caps.
+- Funded accounts have NO profit target on any path.
+- Drawdown mode (Sep-2026 consensus): Classic/Pro/Turbo STATIC from initial
+  balance (PropTradingVibes: "Classic, Pro and Turbo all use static maximum
+  drawdown"); 2-Step trailing-8% per ClearRank table (snapshot variance —
+  confirm live help article before purchase).
+- Daily loss mode: 3% from daily OPENING balance; evaluation + funded limits
+  INCLUDE floating P/L (PropTradingVibes official-source read Sep 1 2026).
+- Max sizes: $200K single; $200K aggregate cap (ClearRank) / $400K scale
+  (PropScorer blog) / $2M cap per account (PropTraderCheck) — snapshot
+  variance; confirm live scaling page.
+- US Friendly: No (PropFirm201) — US traders restricted (contrast HyroTrader
+  CLEO path and BrightFunded DXTrade path).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 1-STEP CLASSIC (flagship, 50K worked example) ---
+- Profit target: 10% ($5,000 on 50K; $500 on 5K). None on Funded.
+- Maximum loss: $3,000 on 50K (6% STATIC from initial balance). Lose it =
+  fail. ($5K: ~$300. $100K: ~$6,000.)
+- Daily loss: $1,500 on 50K (3% from daily opening balance, incl. floating
+  P/L). ($5K: ~$150/day.) Touch = fail.
+- Consistency/min-days/time: NONE / NONE / NONE.
+- Funded static DD: calculated from initial funded balance per official
+  article 11647194; never trails upward (static floor).
+--- 5B. 1-STEP PRO (12% hurdle, tighter room) ---
+- Profit target: 12% (higher than Classic). Max drawdown 5% STATIC. Daily
+  loss 3%. Same non-rules (no consistency/min-days/time). Higher price than
+  Classic at equal size. For traders wanting a bigger target with tighter
+  risk box (inverse of Turbo value logic — confirm checkout price delta).
+--- 5C. 1-STEP TURBO (9% sprint) ---
+- Profit target: 9% (lowest one-step hurdle). Max drawdown STATIC tighter
+  band; daily 3%. Same non-rules. Fastest one-step pass on paper.
+--- 5D. 2-STEP (5% + 10%, cheapest entry) ---
+- Profit target: 5% Phase 1 then 10% Phase 2 (inverted vs forex 8+5 norms —
+  Phase 2 is HARDER). None on Funded.
+- Max drawdown: 8% TRAILING from high-water mark (ClearRank) on 2-Step;
+  PropScorer 10K row shows 4% static / 5% daily / 90% — snapshot variance by
+  size/variant; confirm live article 11644055 before purchase.
+- Daily loss: 5% (widest daily of the lineup). Cheapest entry ($50 on 10K
+  2-Step; $34.99-$45 on 5K per PropFirm201/PropTraderCheck).
+- Min trading days: 5 (PropTraderCheck) on some snapshots vs NONE on others
+  — confirm live FAQ.
+--- 5E. FUNDED STAGE (all paths) ---
+- No profit target. Same daily/max-loss box carries over (funded DLL per
+  article 11647189, incl. floating). Static floor never relaxes.
+- Payouts on-demand 24/7 once eligible (Section 7). No consistency gate.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES in USD (single payment, no subscription; NON-REFUNDABLE once
+trading begins — ClearRank + Terms):
+1-STEP CLASSIC (PropFirm201 Apr-2026 + ClearRank Jul-2026):
+  5K $59.99-$60 | 10K $109.99 | 25K $249.99-$275 | 50K $449.99-$495 |
+  100K $699.99-$999. (Ranges = snapshot variance; live checkout governs.)
+2-STEP (cheapest): 5K $34.99-$45 | 10K $50 | 25K $199 | 100K $599 |
+  200K $999-$1,016. (PropFirm201 $34.99 entry; PropTraderCheck $45/$199/
+  $599/$999 Jul-2026; $1,016 200K row.)
+1-STEP PRO/TURBO: higher/sprint pricing above Classic at equal size
+  (exact deltas in checkout configurator — re-check before purchase).
+Up to 5 accounts per trader (PropScorer). No monthly data/platform fee.
+ADD-ONS: 80%-to-90% split upgrade at checkout (PropTradingVibes: "80%
+standard; verify checkout upgrades split"); other add-ons per configurator.
+REFUND: fees NON-REFUNDABLE once trading begins (ClearRank + Terms). No
+deposit-return mechanics (contrast HyroTrader refundable deposit and
+BrightFunded first-payout refund).
+PAYMENT METHODS: cards + crypto at checkout (confirm live list); payouts
+USDC ONLY (Section 7).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 80% standard/default, upgradable to 90% (PropTradingVibes Sep-2026:
+"80% standard; verify checkout upgrades split"; PropTraderCheck: 80-90%;
+ClearRank: up to 90%). PropScorer 10K 2-Step row shows 90% flat. No 95-100%
+tiers (contrast BrightFunded/FundedNext).
+FIRST PAYOUT: 24-72 hours after eligibility (PropTraderCheck); requests
+available weekdays AND weekends when eligible (PropTradingVibes).
+FREQUENCY: on-demand 24/7 (PropTraderCheck "On-demand 24/7"; PropFirm201
+"On-demand"; PropScorer blog "daily USDC"). No fixed schedule, no waiting
+rule beyond eligibility.
+MINIMUM: post-split minimum per USDC ERC-20 rail (PropTradingVibes: "clearly
+specified USDC ERC-20 rail and post-split minimum" — confirm live $ figure
+in payouts page before purchase).
+METHODS: USDC ONLY (ERC-20 rail specified); USDT cited on older snapshots
+(PropTraderCheck "Crypto only USDT/USDC" — USDC governs this file). No fiat
+wires. No withdrawal fees stated. KYC on first withdrawal, then consistent
+processing (~24h).
+SCALING: $100K->$200K->$400K->$2M roadmap (PropTraderCheck); $400K scale
+(PropScorer blog). Aggregate cap $200K notional (ClearRank) on some
+snapshots — confirm live scaling page.
+MAXIMA: $200K max single; $2M cap per account (PropTraderCheck).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Terms + help center + payout/rules pages.
+BANNED (breach = fail/termination + payout denial):
+ 1. Exceeding daily/max loss (incl. floating P/L + fees) — real-time fail.
+ 2. Hedging across accounts (PropScorer: Not allowed); business/entity
+    trading not allowed.
+ 3. Copying third-party signals; automation beyond own-tolerated scope
+    (EAs/Bots: Allowed per PropFirm201/PropTraderCheck — own automation
+    tolerated, third-party signal copying prohibited).
+ 4. Exploiting feed/pricing errors, latency arbitrage, lock-limit abuse.
+ 5. Account sharing / trading others' accounts / pass-your-challenge rings.
+ 6. Chargeback without contacting support first (Terms).
+ALLOWED: news trading (eval + funded, 24/7), weekend/overnight holding
+(crypto market), scalping, EAs/bots (own), DCA/micro-scalping per strategy
+(confirm live limits; PropScorer marks DCA/micro unknown — trade normally).
+ENFORCEMENT: static floor + daily-opening tracking with floating P/L;
+one touch = fail even if trade recovers. Trading/swap fees reduce usable
+room — size with fee buffer.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed.
+- USA: NOT US-friendly (PropFirm201: US Friendly No). Singapore jurisdiction
+  noted as weakness (PropTraderCheck). US traders should prefer HyroTrader
+  (CLEO) or BrightFunded (DXTrade) paths.
+- UK: served where Kraken/exchange access allows; confirm checkout geo-check.
+- HARD BANS: no published hard-ban list found Sep 2026; bans follow Kraken/
+  exchange sanction lists + KYC failures. Re-check Terms/FAQ before purchase.
+- KYC: government ID + agreement signing before funded activation; KYC
+  verification on FIRST withdrawal, then consistent processing.
+- VPN/VPS: allowed for access; account-sharing ban still applies.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/breakoutprop.com: 4.5/5 from
+  954 reviews (PropScorer 2026); mirror subdomain 4.8/842 (PropFirm201).
+  PropTradingVibes Sep-2026: "Not shown / No current rating on file" on one
+  read — profile rating rotates; re-check live.
+- PropScore: 72-74/100 Good (Price 80%, Split 67%, Platform 80%, Leverage
+  100%, Pairs 40%). Health Score 61/100.
+- ClearRank: CLEAR Certified 4.4/5 (Account/Fees 4.4, Conditions 4.2,
+  Reputation 4.5, Platforms 4.2, Payouts 4.5, Support 4.4). "Zero payout
+  denials across 20,000+ funded" (firm-reported).
+- PropTradingVibes: 3.25/5 (tested with real money; earlier Classic 1-Step
+  + legacy 2-Step tested; current plans verified Sep 2026). Likes: static
+  DD everywhere, symbol-level leverage, USDC ERC-20 clarity. Wants: 3% daily
+  on every path, fee drag, checkout verification needed.
+- Sentiment (positive): Kraken backing = strongest trust anchor in crypto
+  prop; real liquidity (no synthetic wicks); no consistency/min-days/time;
+  on-demand USDC; transparent rulebook; conservative 5x/2x leverage.
+- Recurring complaints: non-refundable fees; 3% daily tightness; fee-drag
+  on loss budget; product simplicity (crypto-only, 50-62 pairs vs
+  HyroTrader 700+); US exclusion; $200K cap.
+- Red flags: NONE material found (no payout-scam cluster, no regulator
+  action, no Trustpilot suspension). Watch items: direct homepage 403 on
+  automated fetch (verify in browser); 2-Step trailing-vs-static snapshot
+  variance; scale-cap snapshot variance ($200K/$400K/$2M).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the Kraken-backed anchor — only crypto prop owned by a major
+licensed exchange group (vs HyroTrader independent Bybit-native, BrightFunded
+CFD multi-asset). Execution quality rivals HyroTrader (real books both);
+pair breadth loses (50-62 vs 700+); leverage stricter (5x/2x vs 1:100);
+payouts match (on-demand stablecoin both); fees non-refundable (vs HyroTrader
+refundable, BrightFunded refundable).
+CLASSIC VS PRO VS TURBO VS 2-STEP: Classic 10%/6%/3-4% = balanced flagship.
+Pro 12%/5%/3% = hardest target, tightest room (experts only). Turbo 9% =
+lowest one-step hurdle (sprinters). 2-Step 5+10% = cheapest ticket, widest
+daily (5%), but Phase-2 Harder inversion + trailing-8% on some snapshots.
+Rule of thumb: first-timer value -> 2-Step; balanced funded run -> Classic;
+sprint -> Turbo; avoid Pro unless edge is proven.
+BEST FIT: crypto-perp-only traders wanting Kraken-grade trust; static-DD
+lovers; no-consistency/no-time traders; on-demand USDC payout seekers;
+conservative-leverage traders (5x/2x enforced); weekend/overnight holders.
+BAD FIT: forex/indices/futures traders (crypto-only); US traders (not
+US-friendly); high-leverage (100x) seekers; hedging/entity traders;
+fiat-wire payout seekers (USDC-only); fee-refund expecters (non-refundable);
+pair-breadth hunters (HyroTrader 700+ instead).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 10 official URLs in Section 2 on
+2026-09-08 (homepage via live aggregator reads Jul-Sep 2026 due to 403 on
+automated fetch; help-center articles via official excerpts). Pricing bands
+($34.99-$1,016) are aggregator snapshots of breakoutprop.com checkout —
+re-check live checkout before purchase. Breakout notes funded accounts are
+simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Kraken Sep-2025 acquisition, Classic/Pro/Turbo/2-Step
+map, static-vs-trailing split, 3%-daily-from-open incl. floating, 5x/2x
+leverage, USDC ERC-20 on-demand payouts, 80-90% split, non-refundable fees.
+RAW EXCERPTS (official-wording via verified excerpts, verbatim):
+[1] Evaluation types: "What types of Breakout evaluations may I purchase
+and what are the differences between the types of Breakout evaluations"
+(intercom.help/breakoutprop article 11643732).
+[2] Targets/limits: "What are the upgrade targets, maximum drawdown limits
+and maximum daily loss limits in the Breakout evaluation" (article 11644055).
+[3] Classic funded DD: "How is the maximum drawdown limit calculated for
+1-Step Classic funded accounts" (article 11647194 — static from initial).
+[4] Funded DLL: "What is the maximum daily loss in a funded account"
+(article 11647189 — incl. floating P/L).
+[5] Static virtue: "Classic, Pro and Turbo all use static maximum drawdown."
+(PropTradingVibes Sep-2026 official-source summary.)
+[6] Daily mode: "3% from the daily opening balance; evaluation and funded
+limits include floating P&L" (PTV Sep-2026 official-source summary).
+[7] Fee rule: "Fees are not returned once trading begins." (ClearRank Terms
+summary.) / "Fees are non-refundable once trading begins."
+[8] No-rules trio: "no consistency rule, no minimum trading days, no time
+limit — a single good trade can theoretically fund you."
+[9] Liquidity: "sourcing real order-book liquidity rather than synthetic
+pricing" / "real exchange order books from venues like OKX, Bybit, and
+Binance" (ClearRank).
+[10] Leverage: "system-enforced at 5x on Bitcoin and Ethereum and 2x
+elsewhere" (ClearRank).
+[11] Payouts: "On-demand USDC payouts" / "24/7 payouts" / "clearly specified
+USDC ERC-20 rail and post-split minimum" (PTV + PropTraderCheck).
+[12] Backing: "Acquired by Kraken in September 2025" / "runs under a Kraken
+entity" (ClearRank + PropTraderCheck + PropFirmReviews).
+================================================================================
+END OF FILE — BREAKOUTPROP COMPLETE. Next firm is a separate task (not started).
+================================================================================

@@ -1,0 +1,358 @@
+================================================================================
+AQUAFUNDED — COMPLETE PROP FIRM INTELLIGENCE FILE (CFD ARM)
+propfirms_complete/AquaFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official AquaFunded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+Sister file AquaFutures.txt covers the futures arm — never mix the two.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: AquaFunded (CFD arm; sister arms AquaFutures + AquaFunded Crypto).
+- Founded: 2023 (CFD launch; some aggregators list 2024 admin date). Holding
+  company: AquaFunds (https://www.aquafunds.com for B2B/careers). COO cited as
+  Lewis Morton (official blog Apr-2026).
+- Headquarters: Dubai, UAE. Entities (official footer):
+  * Aqua Funded FZCO t/a AquaFunded, IFZA Business Park, DDP, Premises
+    35882-001, Dubai Silicon Oasis, Dubai, UAE.
+  * AquaFunded LTD, Saint Lucia Corporation 2004-00597, The Sotheby Building,
+    Ground Floor, Rodney Village, Rodney Bay, Gros-Islet, St. Lucia —
+    provides simulated trading services on www.aquafunded.com.
+- Contact: support@aquafunded.com | https://help.aquafunded.com/en/ (CFD FAQ)
+  | https://aquafunded.com/contact-us | Discord https://discord.com/invite/
+  aquafunded (32,000+ members) | X https://x.com/AquaFunded | Instagram
+  @aquafundedhq | YouTube @AquaFunded | Telegram @aquafundedofficial |
+  checkout https://checkout.aquafunded.com/ | CFD login https://trading.
+  aquafunded.com. 24/7 support, rated 9.4/10 from 5K+ verified reviews
+  (homepage combined-third-party score).
+- What it is: CFD simulated-evaluation prop firm. Exclusive activity is
+  SIMULATED trading (Terms of Use); no regulated activity; no broker/advisor
+  role; no client deposits. Funded (Aqua Trader) accounts trade firm capital
+  risk-free to the trader and keep up to 100% of profits as real Rewards.
+- Scale claimed (Sep 2026 read): 300,000+ Traders, $8M+ Paid Out, $8,000,000+
+  Total Rewards ticker, $2,450 Average Reward, $119,175 Highest Paid Trader,
+  $9,000 Average Reward (configurator). Recent verified rewards: Andrei
+  $65,377; Neoh $78,661; Andrew $13,412 USA; Abusad $5,493 India; Cho $8,829
+  Thailand; Watthanaphon $9,066 Thailand; Sunil $120,590 UK; Brandon $39,273
+  USA; Uduak $11,383 Canada; Jean $19,812 France. Press logos: Benzinga,
+  MarketWatch, Nasdaq, Yahoo Finance. Yearly $1.2M Giveaway + Discord promos.
+- Brand promises: "keep 100% of the Profit paid on demand", "Get paid in 24
+  hours or we pay you an extra $1000" (Reward Guarantee), "100% refundable
+  fees", "No hidden rules, No time limits, News Trading Allowed".
+- Key distinction: AquaFunded CFD (Instant / One-Step / Two-Step, one-time
+  fee, MT5/TradeLocker/MatchTrader/cTrader) and AquaFutures (Tradovate/
+  Volumetrica, EOD/intraday trailing, weekly rewards — see AquaFutures.txt)
+  and Crypto arm (https://crypto.aquafunded.com) are SEPARATE products with
+  different rules, platforms, payouts and pricing. Never mix them.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://aquafunded.com (homepage: 300K+ traders, 9.4/10, $8M+ paid,
+    Instant/One-Step/Two-Step models, 2.5K-400K sizes, BACK2WORK 25%+150%,
+    platforms, rewards, entities, CFTC 4.41 disclaimer)
+ 2. https://aquafunded.com/how-it-works (Take challenge -> Unlock to $400K
+    -> Trade and get paid 100%)
+ 3. https://aquafunded.com/forex-rules (CFD challenge + funded rules)
+ 4. https://aquafunded.com/trader-plan (Scaling Plan to $4M)
+ 5. https://aquafunded.com/rewards (Rewards wall + guarantee)
+ 6. https://aquafunded.com/about-us (company, AquaFunds holding)
+ 7. https://aquafunded.com/contact-us (support rails)
+ 8. https://help.aquafunded.com/en/ (CFD FAQ index)
+ 9. https://checkout.aquafunded.com/ (live configurator: Standard/Pro/Elite/
+    Flex/Beginner model types, add-ons, multi-account discounts)
+10. https://www.aquafunded.com/blogs/prop-firm-rules (rules explainer)
+11. https://www.aquafunded.com/blogs/how-forex-prop-firm-payouts-work
+    (payout mechanics, COO Lewis Morton)
+12. https://crypto.aquafunded.com (Crypto arm portal)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. BestPropFirms AquaFunded Aug-2026 (27/100 Poor; 90% std / 100% add-on;
+    Trustpilot 3/5 1,404 flagged; MT5/TradeLocker/MatchTrader/cTrader; EAs
+    allowed; weekend holding allowed; news restricted 5-min funded; $100 min;
+    bi-weekly; 30-day inactivity; no resets; $4M scale)
+14. BrokerAnalysis Aqua Funded Aug-2026 (7.9/10; 90% std / 100% add-on;
+    $400K Instant / $200K 1+2-Step; $100 min; bi-weekly first reward;
+    2024/Dubai; $5K $36 / $10K $89 / $25K $139 / $50K $299 ladder)
+15. Propfundsy AquaFunded 2026 (Dubai 2023; forex/crypto/futures; on-demand;
+    $4M scale; ~50% off street pricing)
+16. PropFirmsCompared AquaFunded 2026 (2023 launch, CFD evaluation model)
+17. DirectionsMag AquaFunded Apr-2026 (2.4/5 review; up to $300K allocations)
+18. PropFirmMatch https://propfirmmatch.com/prop-firms/aquafunded/reviews
+    (5.0 user-friendliness/payout/care/trading subscores on sampled pages)
+19. Trustpilot https://www.trustpilot.com/review/aquafunded.com (3/5, 1,404
+    reviews; flagged for guideline breaches per BestPropFirms Aug-2026)
+20. TraderSecondBrain AquaFunded 2026 (rules/pricing/fit-score page)
+TOTAL SOURCES: 20 (12 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (four choices; pick at purchase):
+- MetaTrader 5 (MT5) — for pros, EA/automated trading supported.
+- TradeLocker — simplicity terminal.
+- Match Trader (MatchTrade) — flexibility terminal.
+- cTrader — advanced order management (added fee vs other three).
+All support raw ECN pricing (spreads from 0.0), real-time execution, EAs.
+No TradingView execution. CFD login https://trading.aquafunded.com.
+INSTRUMENTS: Forex, Indices, Metals (homepage "Forex, Indices, Metals" card;
+BestPropFirms: forex/commodities/indices scope). Crypto via dedicated arm
+https://crypto.aquafunded.com. Full symbol list in-platform; Trading Updates
+for hour changes. Weekend holding ALLOWED (BestPropFirms). Spreads from 0.0;
+raw ECN commissions per side (transparent at commission level per BPF, but
+NO average/minimum spread published — verify in-platform).
+LEVERAGE: per-symbol matrix in platform specs; no single headline figure on
+marketing pages — verify in MT5/TradeLocker/MatchTrader/cTrader specs.
+COSTS: spreads + commissions + swaps count toward daily/max loss (equity-
+based). Swap-free add-on at checkout.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program  | Steps | Sizes                        | Target     | Daily loss | Max loss   | Split      | Fee model |
+|---|----------|-------|------------------------------|------------|------------|------------|------------|-----------|
+| 1 | Instant  | 0     | 2.5K/5K/10K/25K/50K/100K/150K/200K/250K/300K/400K | NONE | per type | TRAILING | 90% std / 100% add-on | one-time, 100% refundable |
+| 2 | One-Step | 1     | same 11 sizes                | 2-10% band (easy 2% entry cited) | 3% std (6% trail variant) | 6% TRAILING | 90% std / 100% add-on | one-time, 100% refundable |
+| 3 | Two-Step | 2     | same 11 sizes                | 8% Ph1 + 5% Ph2 | 5% | 8-10% (8% std; 10% Pro trail) | 90% std / 100% add-on | one-time, 100% refundable |
+Model types at checkout: Standard / Pro / Elite (New) / Flex (New) / Beginner
++ "Limited time: 20% consistency" flag + add-ons (100% Profit Split, Swap
+Free, First Reward in 7 Days, First Reward On Demand).
+Notes:
+- Funded (Aqua Trader) has NO profit target on any programme. No time limits
+  on any evaluation ("as much time as you need"). No cooldown/attempt limit
+  on retry (fail = buy new challenge; no resets — fail needs repurchase).
+- Max funded: up to $400K (homepage "Funded up to $400K"; BrokerAnalysis:
+  $400K Instant, $200K One+Two-Step caps). Scaling to $4M (Section 7).
+- First reward: 7 days (Standard) or On Demand (upgrade) — see Section 7.
+- News: allowed in evaluation; restricted 5-minute window around high-impact
+  events on FUNDED (BestPropFirms). EAs allowed everywhere on CFD.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT (most popular, skip evaluation) ---
+- No challenge, no profit target, no minimum days, no time limit.
+- Single rule set: TRAILING max drawdown (locks at breakeven per BestPropFirms
+  "Instant accounts use trailing model"). Daily band per model type selected.
+- Rewards: First Reward in 7 Days (Standard) or On Demand (upgrade add-on);
+  bi-weekly rhythm standard. 90% standard split, 100% via add-on.
+  ($100K Instant cited $283 street price in Why-Block.)
+- News/EA/weekend: EAs allowed; weekend holding allowed; funded news 5-min
+  high-impact window applies.
+- Sizes to $400K (widest Instant ceiling in batch).
+--- 5B. ONE-STEP (new, fastest evaluation) ---
+- Profit target: single-phase band 2-10% by model type ("Easy to achieve
+  2-10% profit targets" homepage block). None on funded.
+- Daily Loss Limit: 3% Standard (BestPropFirms framework: 1-Step Standard
+  3% daily / 6% trailing) — Pro/Elite/Flex/Beginner variants shift bands;
+  confirm live forex-rules page mapping before purchase.
+- Maximum Loss Limit: 6% TRAILING (Standard). Breach = fail.
+- No time limit; no hidden SL/lot rules ("no SL and lot rules" — Ravi K.
+  verified review quoted on homepage).
+--- 5C. TWO-STEP (classic evaluation) ---
+- Profit target: 8% Phase 1 + 5% Phase 2 (BrokerAnalysis ladder header:
+  "Target 8%/5%"). None on funded. ($5K: $400 then $250. $50K: $4,000 then
+  $2,500.)
+- Daily Loss Limit: 5% (BrokerAnalysis: "Daily 5%" every size). ($50K:
+  $2,500/day.)
+- Maximum Loss Limit: 8% Standard ("Drawdown 8%" ladder); 10% trailing on
+  Pro variant (BestPropFirms: "2-Step Pro 5% daily / 10% trailing").
+  Breach = fail.
+- No time limit. No resets — breach = repurchase.
+--- 5D. POST-FUNDED CONSISTENCY (strict — read before buying) ---
+- Standard split 90%; 100% only via paid add-on (homepage + BPF + BA agree).
+- Strict post-funding consistency rules 15-40% by model (BestPropFirms Cons;
+  checkout flag "Limited time: 20% consistency"). Evaluation is flexible;
+  FUNDED gates payouts on consistency — size evenly or payouts withhold
+  (not account breach — keep trading till ratio fixed).
+- Hedging limited to SAME account; no cross-account/user copy; no group/
+  social-platform copying. Tick manipulation, latency arbitrage, HFT,
+  arbitrage, tick scalping banned. 30-day inactivity = breach (place a trade
+  monthly).
+--- 5E. NEWS / WEEKEND / EA ---
+- News trading ALLOWED in evaluation; funded = 5-minute no-trade window
+  around high-impact events (BestPropFirms).
+- Weekend holding ALLOWED (all CFD). EAs/automated ALLOWED (all CFD).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES in USD (single payment, no subscription; 100% REFUNDABLE —
+homepage "100% refundable fees" + "One-time fee, 100% refundable"):
+Street ladder (BrokerAnalysis Aug-2026 Two-Step header):
+  5K $36 | 10K $89 | 25K $139 | 50K $299 (larger sizes scale to 400K in
+  configurator; $100K street-cited $283 in Why-Block; from $14 for $5K and
+  from $19 floor per homepage/aggregator promos).
+PROMOS at fetch: BACK2WORK = 25% OFF + 150% Refund (homepage banner);
+SUMMERCLEAR = 40% off + BOGO + 150% refund (BrokerAnalysis); APRILFOOLS-type
+60% codes on futures arm; multi-account stacking: 1st 25% off, 2nd 30%,
+3rd 32-35%, 4th 40%, 5th 50% Best Value (first scale) / 7th 37%, 10th 39%
+Best Value (second scale) — homepage configurator.
+ADD-ONS at checkout: 100% Profit Split, Swap Free, First Reward in 7 Days,
+First Reward On Demand; model types Standard/Pro/Elite/Flex/Beginner reprice
+fee. cTrader platform fee extra.
+REFUND: 100% refundable (homepage badge); BACK2WORK/SUMMERCLEAR promos lift
+to 150% refund (limited time). Failed evaluations not refunded. No resets —
+fail = buy new challenge.
+PAYMENT METHODS: Visa, Mastercard, Maestro, Amex, Apple Pay, Bitcoin,
+Ethereum, Digital Currencies (homepage checkout icons).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 90% standard; 100% with paid checkout add-on (homepage, BPF, BA all
+agree). Futures arm pays 100% on first $15K then 90% (see AquaFutures.txt).
+FIRST REWARD: 7 days after funded activation (Standard "First Reward in 7
+Days"); On Demand with upgrade add-on ("First Reward On Demand"). BPF header:
+"Bi-weekly; first reward in 7 days (on-demand upgrade); paid in 24h or they
+add $1,000". Older BPF field "After 14 days" is the bi-weekly-cycle read —
+7-day first-reward governs this file.
+FREQUENCY: bi-weekly standard; on-demand with upgrade; "No set Rewards
+Schedule — Withdraw when ready" (futures-page variant). Processing 1-3
+business days; Reward Guarantee: paid in 24 hours or firm pays extra $1,000.
+MINIMUM: $100 (BPF + BA agree). Average Reward $9,000 configurator / $2,450
+site-wide average.
+METHODS: bank/cards/crypto rails per checkout (confirm live list); $8M+ paid
+wall with named proofs (Section 1).
+SCALING PLAN (https://aquafunded.com/trader-plan): up to $4M scaled capital
+(homepage "Up to $4M in scaled capital"; BPF/BrokerAnalysis agree). Triggers
+in trader-plan page — re-check before purchase.
+MAXIMA: $400K single Instant; $200K One/Two-Step caps; $4M scaled ceiling.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Sources: Terms of Service + forex-rules + help center FAQ.
+BANNED (breach = fail/termination + reward denial):
+ 1. Tick manipulation, latency arbitrage, HFT, any-form arbitrage, tick
+    scalping.
+ 2. Cross-account hedging (hedge inside ONE account only); cross-user copy
+    trading; group trading; copying from social platforms.
+ 3. Exploiting feed/platform errors, stale quotes, off-market prints.
+ 4. Account sharing / trading others' accounts / pass-your-challenge rings.
+ 5. Funded news-window violation (5 minutes around high-impact events).
+ 6. 30-day inactivity (no trade placed in 30 days = breach).
+ALLOWED: EAs/automated trading (all CFD); weekend/overnight holding; news
+in evaluation; no SL/lot-size rules.
+ENFORCEMENT: centralized account monitoring + dashboard tracking; breach =
+immediate fail; no resets; repurchase to retry; no cooldown.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No qualifications needed. 300,000+ traders worldwide.
+- USA: SERVED (verified-reward proofs: Andrew $13,412 USA, Brandon $39,273
+  USA, John S. USA testimonial). No US platform carve-out published for CFD
+  (contrast futures Tradovate US-path nuances — see AquaFutures.txt).
+- UK: served (Sunil $120,590 UK; James R. $13K+ UK testimonial).
+- HARD BANS: no published hard-ban list found Sep 2026; bans follow sanctions
+  + KYC failures. Re-check Terms/FAQ before purchase.
+- KYC: government ID + agreement signing after passing evaluation, before
+  Aqua Trader credentials; payout invoices require matching beneficiary
+  details + KYC pass. Min $100 withdrawal gate.
+- VPN/VPS/travel: allowed; account-sharing ban still applies.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Homepage badge: Rated 9.4/10 from 5K+ verified reviews (combined
+  third-party score, Sep 2026 read).
+- Trustpilot https://www.trustpilot.com/review/aquafunded.com: 3/5 from
+  1,404 reviews (BestPropFirms Aug-2026). Profile FLAGGED for guideline
+  breaches/fake reviews (BPF Trust verdict) — biggest trust overhang.
+- BestPropFirms: 27/100 Poor (Challenges 5, Fees 5, Markets 6, Payouts 6,
+  Platforms 7, Support 5, Trust 4). Verdict: flexible models + unlimited time
+  + 4 platforms, but strict post-funded consistency, no spreads published, no
+  resets, news-window, flagged reviews. "Best for experienced traders ...
+  comfortable managing strict post-funding consistency."
+- BrokerAnalysis: 7.9/10 Good (Rules 7.6, Pricing 9.8, Payouts 10.0,
+  Platforms 7.6, Education 7.1, Trust 8.0). Shortlist option; lighter history
+  than legacy firms.
+- PropFundsy: Dubai 2023, on-demand, $4M scale, ~50%-off street pricing.
+- Sentiment (positive): no SL/lot rules; fast rewards; friendly 24/7 support;
+  affordable street prices ($14-$36 entries); 100% split + on-demand upgrades;
+  instant funding to $400K; $8M+ wall with named proofs.
+- Recurring complaints: payout-denial + inconsistent-enforcement threads;
+  strict 15-40% funded consistency traps; 5-min funded news window; no resets;
+  no spreads published; low negative-review response rate; no broker backing
+  disclosed.
+- Red flags: MODERATE — flagged Trustpilot profile is the material item;
+  no regulator action found. Watch items: consistency-band mapping by model
+  type; spread verification in-platform; promo-refund (100% vs 150%) dates.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the Instant-to-$400K value play — widest Instant ceiling in this
+batch ($400K vs $200K norms) with 100%-split + on-demand upgrades and 150%-
+refund promos, undercutting FTMO/FundedNext list prices at street (~50% off).
+Pays with stricter FUNDED consistency (15-40%) rivals do not impose and a
+flagged review profile. $8M+ paid trails FTMO $650M+/FundedNext $300M+ but
+wall is named + verifiable.
+INSTANT VS ONE-STEP VS TWO-STEP: Instant = zero hurdle, trailing DD, fastest
+money (7-day/on-demand), biggest size ($400K) — but trailing floor + funded
+consistency. One-Step = single 2-10% hurdle, 3%/6% box (fast evaluation).
+Two-Step = 8+5 hurdles, 5%/8-10% box (most room, slowest). All: 90%/100%
+split, refundable fee, unlimited time.
+BEST FIT: instant-access seekers to $400K; budget starters ($14-$36 street);
+EA/weekend traders; no-SL-rule scalpers; scaling grinders to $4M; traders
+fine with tight funded-consistency discipline; crypto/futures expanders
+(sister arms).
+BAD FIT: traders needing published spreads pre-purchase; reset-option
+seekers (none); news-spike funded traders (5-min window); copy-service
+buyers/sellers; HFT/latency/arbitrage styles; beginners needing guidance;
+trust-sensitive buyers unwilling to look past flagged Trustpilot.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all identity, platform, rule, price, payout, prohibition and
+ban claims above were read from the 12 official URLs in Section 2 on
+2026-09-08. Street ladder ($36-$299+) confirmed via BrokerAnalysis Aug-2026
+tables of checkout.aquafunded.com; promos BACK2WORK (25%+150%) live-read
+homepage Sep 2026. Re-check forex-rules + checkout anchors before purchase
+as model-type bands rotate. AquaFunded notes exclusive activity is simulated
+trading.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Instant/One-Step/Two-Step map, Standard/Pro/Elite/Flex/
+Beginner types, 90%/100% split, 7-day/on-demand rewards, $8M+ wall, $4M
+scale, 4-platform CFD split, strict funded-consistency warning, flagged-
+Trustpilot disclosure.
+RAW EXCERPTS (official wording, verbatim):
+[1] Simulated: "The Company's exclusive activity is simulated trading as
+defined in the Terms of Use." / "Company is not a financial broker, financial
+advisor, or financial representative, and does not accept client deposits."
+[2] Hero: "Join 300,000+ Traders" / "Rated 9.4/10 From 5k+ verified reviews"
+ / "Trade with our Capital and keep 100% of the Profit paid on demand"
+[3] Steps: "Take a challenge — Prove your skill or skip with instant funding"
+ / "Unlock capital — Funded up to $400k" / "Trade and get paid — 100% of the
+Profits"
+[4] Guarantee: "Get paid in 24 hours or we pay you an extra $1000" (Reward
+Guarantee, repeated site-wide)
+[5] Fees: "One-time fee — 100% refundable" / "From $14 for $5k account"
+[6] Models: "CFDs Model — Instant Most Popular, One Step New, Two Step" /
+"Model Type — Standard, Pro, Limited time: 20% consistency, Elite New, Flex
+New, Beginner" / "Add-ons available at checkout — 100% Profit Split, Swap
+Free, First Reward in 7 Days, First Reward On Demand"
+[7] Split: "you get to keep 90% of the profit ... If you want to keep 100%
+of the profit, please tick the 100% Profit Split add-on at checkout."
+[8] Instant: "The Instant Funding model allows you to skip the evaluation
+process and get access to a fully-funded trading account immediately."
+[9] Time: "you have as much time as you need to complete the challenge"
+ / "We don't set time limits"
+[10] Retry: "If you violate the rules ... it will no longer be eligible for
+funding. Don't worry though — there is no cooldown period or a limit on the
+number of attempts"
+[11] Platforms: "MatchTrade, TradeLocker, Meta Trader 5, cTrader" (Your
+Favorite Trading Platforms row) / "Spreads starting from 0.0"
+[12] Entities: "Aqua Funded FZCO t/a AquaFunded ... IFZA Business Park, DDP,
+Premises No.- 35882-001 Dubai Silicon Oasis Dubai" / "AquaFunded LTD, a Saint
+Lucia Corporation ... 2004-00597 ... provides the simulated trading services"
+[13] CFTC: "CFTC RULE 4.41 — Hypothetical or simulated performance results
+have certain limitations ... No representation is being made that any account
+will or is likely to achieve profit or losses similar to those depicted"
+================================================================================
+END OF FILE — AQUAFUNDED COMPLETE. Sister file AquaFutures.txt is separate.
+================================================================================

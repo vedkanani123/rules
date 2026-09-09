@@ -12,9 +12,12 @@ export type EvidenceClass =
   | 'THIRD_PARTY_ANALYSIS'   // Independent benchmark analysis
   | 'INFERENCE'              // Deterministically calculated interpretation
   | 'UNVERIFIED'             // Cannot currently be verified
-  | 'CONFLICTING';           // Multiple official/semi-official sources disagree
+  | 'CONFLICTING'            // Multiple official/semi-official sources disagree
+  | 'official_faq'           // Alias for OFFICIAL_SUPPORT (legacy)
+  | 'official_terms'         // Alias for OFFICIAL_TERMS (legacy)
+  | 'official_page';         // Alias for OFFICIAL (legacy)
 
-export type ConfidenceRating = 'A' | 'B' | 'C' | 'D' | 'E';
+export type ConfidenceRating = 'A' | 'A+' | 'B' | 'B+' | 'C' | 'D' | 'E';
 // A = direct official source
 // B = official secondary source
 // C = multiple credible third-party sources
@@ -54,7 +57,9 @@ export type DrawdownType =
   | 'static'
   | 'trailing_balance'
   | 'trailing_equity'
+  | 'trailing_locked'
   | 'end_of_day'
+  | 'eod'
   | 'intraday_equity';
 
 export type URLCategory =
@@ -162,7 +167,7 @@ export interface AccountTier {
   profitTargetPhase2?: number; // percentage
   profitTargetPhase3?: number;
   dailyLossLimit: number;      // percentage
-  dailyLossCalculation: 'equity_based' | 'balance_based' | 'higher_of_equity_balance';
+  dailyLossCalculation: 'equity_based' | 'balance_based' | 'higher_of_equity_balance' | 'trailing' | 'none';
   maxTotalLoss: number;        // percentage
   drawdownType: DrawdownType;
   minimumTradingDays: number;

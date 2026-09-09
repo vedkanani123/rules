@@ -1,0 +1,213 @@
+================================================================================
+MYFUNDEDFUTURES — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/MyFundedFutures.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official MyFundedFutures pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: MyFundedFutures (MFFU, My Funded Futures).
+- Founded: Nov 2023, USA. CEO/Founder: Matthew Leech. 2.8-3 years operating.
+- Address: USA (online-only; Discord 72K+ active, 15 channels; Instagram/X/YouTube).
+- Contact: https://help.myfundedfutures.com/en/ FAQ, Discord, support tickets
+  (agents named: Emmanuel, Frank, Miracle, Louis, Psalm, Ike, Anah, Davy, Sony,
+  Kyle, Shadd, Michael, Murphy).
+- What it is: Futures-only one-time/monthly-hybrid eval prop firm. Evaluation ->
+  Sim-Funded (sim with real payouts, up to 90%) -> Live via Blue Row Capital
+  affiliate (invite, discretionary). 100,000+ traders choose MFFU.
+- Scale: highest-rated futures firm 2026 (4.9 Trustpilot, A+ PropFirmMap 8.2,
+  83/100 trust aggregate); payouts in as fast as 1 minute; scale to $100K payouts
+  by plan/performance.
+- Programs: Rapid (daily, 90/10), Pro (bi-weekly, 80/20, live path), Builder
+  (48h, 80/20, cheap), Flex/Core legacy, Rapid EOD one-time $157/365-day.
+- Key distinction: $0 activation every plan; no DLL on Rapid/Pro/Flex; Rapid EOD
+  choice; CLUB 50% + 4 uses; no subscriptions headline (one-time purchases here).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://myfundedfutures.com (homepage: one-time purchases, CLUB 50%, Rapid
+    daily, 90%, $100K scale, platforms, Discord 72K, sim/live footnotes)
+ 2. https://myfundedfutures.com/challenge (challenge picker + CLUB claim)
+ 3. https://myfundedfutures.com/how-it-works (how-it-works reference)
+ 4. https://myfundedfutures.com/why-us (why-us reference)
+ 5. https://help.myfundedfutures.com/en/ (FAQ index)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. Propfirms.net MFFU Review 2026-08-22 (Rapid/Pro/Builder/Flex, EOD vs intraday)
+ 7. PropDataLab MFFU Rules 2026-08-26 (CLUB/BUILDER codes, $105-477 tables)
+ 8. Velotrade MFFU Review 2026-07-16 (Core/Rapid/Pro/Flex/Builder, no DLL)
+ 9. Proptradingvibes MFFU Review 2026-08-25 (PTV 82/100, 4.9/21K, 3yr traded)
+10. Proptradingvibes Pricing 2026-08-06 ($105-477, $0 activation, resets)
+11. TrailingStopLoss MFFU Review 2026-07-22 (Core/Rapid/Pro/Flex/Builder retired Starter)
+12. Trustpilot https://www.trustpilot.com/review/myfundedfutures.com (21,532-21,534 reviews)
+13. PropFirmMap https://propfirmmap.com/firms/myfundedfutures (4.9/21,532, A+, 8.2)
+TOTAL SOURCES: 13 (5 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (9+):
+- TradingView, NinjaTrader, Tradovate, Quantower, Fintevo, Deep-Chart, plus
+  Rithmic/ProjectX-compatible rails via help center. Simple integration,
+  same-workflow promise.
+- Data: CME live included; Live professional data/commissions/platform deducted
+  from Live balance (not upfront).
+INSTRUMENTS: CME futures — NQ, ES, CL, GC etc. Futures only. Positions
+  auto-flatten 4:10 PM ET normal days; holidays must close manually or breach.
+  CME standard-contract violations (wrong contract) can blow account.
+CONTRACT LIMITS: size-tiered minis (micros 10:1); Rapid full size; Builder/Pro
+  per-plan caps; exact caps per checkout product record.
+LEVERAGE: exchange margin; label is eval-size label.
+COMMISSIONS/FEES: exchange + execution in net P/L; $0 activation; Live data/commissions
+  from balance.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Sizes | Target | Drawdown | DLL | Min days | Consistency | Split | Fee model |
+|---|---------|-------|--------|----------|-----|----------|-------------|-------|-----------|
+| 1 | Rapid (intraday) | 25K/50K/100K/150K | $1.5K/$3K/$6K/$9K | intraday-trailing $1K/$2K/$3K/$4.5K (locks $100) | none | 2 | 50% eval, none funded | 90/10 sim | $109/$157/$267/$347 (CLUB 50%: $54.50/$78.50/$133.50/$173.50) |
+| 2 | Rapid EOD (one-time) | 50K only | $3K | $2K EOD-trailing | none | 2 | 50% eval, none funded | 90/10 | $157 one-time, 365 days (EOD code 20%: $125.60) |
+| 3 | Pro (EOD, live path) | 50K/100K/150K | $3K/$6K/$9K | 3% EOD-trailing -> static +$100 after 1st payout | none | 2 | 50% eval (One-Day add-on), none funded | 80/20 | $227/$344/$477 (CLUB: $113.50/$172/$238.50) |
+| 4 | Builder (cheap, 48h) | 25K/50K | $1.5K/$3K | EOD-trailing $1K/$2K ($1.5K $125 variant) | $1K soft-pause | 1 (pass in 1 day) | none eval, 50% payout | 80/20 | $105/$153 ($125 low-MLL) (BUILDER 50%: $52.50/$76.50) |
+| 5 | Flex/Core legacy | 25K/50K | $1.5K/$3K | 4% EOD fixed/max-loss | none | 2 | 40-50% variants | 80/20 | $95/$153 (legacy, not purchasable Aug 2026) |
+Notes:
+- $0 activation every plan/size (verified Aug 2026). Resets match list (Rapid 25K
+  $97 vs $109 list exception); renewal adds 30 days + restores breached eval.
+- Rapid: daily payouts 24h after first funded trade ($500 min). Pro: every 14 days
+  ($1,000 min). Builder: every 48h ($250 25K / $500 50K, $2K/cycle cap, 5 sim
+  payouts then live). Flex: winning-days model.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. RAPID (daily 90/10 flagship) ---
+- Eval EOD, funded INTRADAY (switch confirmed): floor follows real-time equity
+  incl. unrealized; trade running $800 green then flat permanently lifts floor $800.
+- 50% eval consistency (best day <=50%; $1,500 max on $3K target); none funded.
+  2 min days. No DLL. T1 news banned funded (FOMC/CPI/NFP/EIA/ag); eval allowed.
+  Strict hedging ban incl. mini/micro same underlying.
+--- 5B. RAPID EOD (one-time kinder Rapid) ---
+- Same targets but EOD throughout; $157 one-time 365-day access; same 90/10 daily.
+  For retracement holders avoiding intraday leash.
+--- 5C. PRO (EOD live-path) ---
+- 3% EOD throughout -> static +$100 after first payout; no funded consistency;
+  14-day payouts; T1 funded ban same as Rapid; documented Blue Row live path every plan.
+--- 5D. BUILDER (cheapest 1-day) ---
+- No eval consistency, pass in 1 day, unrestricted news even funded; $1K soft-pause
+  DLL (pauses, not breach); 50% at payout; $2K/cycle cap; 5 sim payouts then live.
+  $125 low-MLL variant saves $28 for $500 less room.
+--- 5E. FLEX/CORE (legacy) ---
+- Not purchasable Aug 2026; histories only. Flex $77-favorite refs retired.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+LIST -> PROMO (CLUB 50% first, 4 uses; BUILDER 50% 25K/50K; UNCAPPED 50%; EOD 20%):
+- Rapid: 25K $109->$54.50 | 50K $157->$78.50 | 100K $267->$133.50 | 150K $347->$173.50.
+- Rapid EOD 50K: $157 one-time->$125.60 (EOD 20%), 365 days.
+- Pro: 50K $227->$113.50 | 100K $344->$172 | 150K $477->$238.50.
+- Builder: 25K $105->$52.50 | 50K $153->$76.50 ($125 low-MLL variant).
+- Flex legacy: 25K $95 | 50K $153 (no promo).
+CURRENCY: USD; cards via challenge checkout (?id=70&coupon=CLUB).
+ADD-ONS: $0 activation; Live data/commissions from Live balance; platform costs separate.
+REFUND: eval fees non-refundable (Terms); wrong-account refunds resolved in a day
+  when support contacted (Frank cases); resets = list (Rapid25 $97 exception).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Rapid 90/10 sim-funded (only 90 plan); Pro/Builder/Flex 80/20.
+- Rapid daily ($500 min, 24h after first trade, instant approvals, 6-12h manual);
+  Pro 14-day ($1,000 min); Builder 48h ($250/$500 min, $2K cap, 5 sim then live).
+- Methods: bank/ACH/wire/crypto (Rise-type rails); 1-minute payouts reported
+  (Dohyun THE GOAT; tato <1h bank).
+- Scaling to $100K payouts by plan/performance; 5 accounts max (SmartPropFirm).
+- Live via Blue Row affiliate, invite discretionary + eligibility + affiliate terms.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. DD breach = fail (Rapid funded intraday incl. unrealized; others EOD).
+2. T1 news ban funded Rapid/Pro (FOMC/CPI/NFP/EIA/ag); Builder/Flex funded allowed.
+3. Strict hedging ban incl. mini/micro same underlying (even unintentional).
+4. Overnight auto-flatten 4:10 PM ET; holidays manual close or breach.
+5. CME standard-contract compliance (wrong contract = blow, support may be generous).
+6. 50% eval / 50%-payout (Builder) gate = more days, not breach.
+Consequences: eval fail (reset/renewal), sim breach (account loss), live deferral,
+  payout review hold if news/hedge/contract violated.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. 1-day Builder suits beginners; Rapid needs retracement discipline.
+- USA: SERVED (US firm; ACH payouts; 100K+ traders).
+- International: most countries where CME/Tradovate/Ninja permitted.
+- KYC: ID + payout-method verification at pass + first payout; Discord + ticket
+  support (minutes-hours).
+- Max 5 funded; Live invite extra eligibility + affiliate terms.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/myfundedfutures.com: 4.9/5 from
+  17,493-21,534 reviews (PropFirmMap 4.9/17,493 Jun 2026; Trustpilot 4.9/21,534 Sep
+  2026; 95% 5-star, 2% 1-star; 11,353 last 12mo). Highest of any futures firm.
+  A+ safety (PropFirmMap 8.2, trust 83/100 A Excellent). No suspension; invite
+  method caution (unsupported-invitation notice, not penalty).
+- Sentiment: positives on daily instant payouts, clear stable rules, $0 activation,
+  no DLL, fast named support (Emmanuel/Frank/Ike/Psalm/Anah), fair CLUB pricing;
+  negatives rare on intraday-Rapid surprise, T1 funded ban, Pro 14-day wait,
+  Builder $2K cap + $1K DLL, hedge technicality.
+- Third-party: Proptradingvibes 82/100 (3yr Core/Rapid/Pro traded); SmartPropFirm
+  95/100 A (9.1/10, 145 reviews); PropFirmMap A+ top-rated.
+- Red flags: NONE systemic (2023-2026 clean, 100K+ traders). Watch: Rapid EOD->
+  intraday switch, T1 calendar, 4:10 PM flatten.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX: MFFU daily Rapid 90/10 + $0 activation + no DLL vs Apex 8-day 100%-$25K +
+  activation. Apex cheaper promos ($19.90) + 20 PAs; MFFU higher trust (4.9 vs 4.4).
+VS LUCID/TRADEDAY: MFFU Rapid intraday harsher than Lucid EOD / TradeDay Fast Pass
+  EOD; MFFU Builder 1-day + news-free rivals TradeDay Quick Pay.
+BEST FIT: daily-payout chasers (Rapid), live-path seekers (Pro/Blue Row), cheap
+  1-day triers (Builder $52.50), no-DLL/no-activation purists, 9-platform users.
+BAD FIT: retracement holders (pick Rapid EOD/Pro), T1 news funded traders (pick
+  Builder/Flex), fortnight-impatient (avoid Pro), hedge mini/micro stackers.
+RULE OF THUMB: start Builder 25K ($52.50 BUILDER, 1 day, news-free) to learn or
+  Rapid 50K ($78.50 CLUB, daily 90/10) to earn; Pro 50K ($113.50) for live track.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Rapid/Pro/Builder/Flex targets, DDs, DLLs, consistency, splits,
+cadence and fees above were read from the 5 official URLs in Section 2 on 2026-09-08
+and cross-checked to Aug-2026 third-party tables sourced to MFFU checkout/help.
+CLUB/BUILDER/UNCAPPED rotate — re-check challenge checkout (?id=70&coupon=CLUB).
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Rapid intraday switch, $0 activation, daily/48h/14-day ladder,
+50% eval gates, T1 funded ban, 4:10 PM flatten, Trustpilot 4.9/A+ context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Purchases: "No more subscriptions. One-time purchases are here." / "+ 4 uses
+ of 50% off with code CLUB."
+[2] Path: "Simple evaluation." / "Trade Firm Capital" / "Withdraw Profits" /
+ "Request withdrawals and receive payouts in as fast as 1 minute."
+[3] Freedom: "No daily loss limits on Rapid and Pro funded accounts. No
+ consistency rules on Rapid." / "Trade Your Strategy, Not Ours."
+[4] Scale: "Scale up to $100K in payouts based on plan and performance."
+[5] Platforms: "Use Your Favorite Trading Platform" — Fintevo, Deep-Chart,
+ TradingView, NinjaTrader, Quantower, Tradovate.
+[6] Sim: "The funded account stage operates exclusively in a simulated trading
+ environment." / "may, at our sole discretion, receive an invitation to access
+ live capital ... through one of our affiliated companies."
+[7] Payouts: "Payouts are based on simulated account profits and are subject to
+ rules compliance, trading day requirements, and firm review."
+[8] Discord: "72K+ active users, 15 Active channels, Promotions every month."
+================================================================================
+END OF FILE — MYFUNDEDFUTURES COMPLETE. Next firm is a separate task (not started).
+================================================================================

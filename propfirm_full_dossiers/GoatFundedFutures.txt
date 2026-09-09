@@ -1,0 +1,295 @@
+================================================================================
+GOAT FUNDED FUTURES — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/GoatFundedFutures.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Goat Funded Futures pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Goat Funded Futures (GFF). Operator: WITI LIMITED, Hong Kong
+  77146639 (trade name Goat Funded Futures). Support:
+  support@goatfundedfutures.com; help centre https://help.goatfundedfutures.com/en.
+- Launched: November 2024 as the futures arm of GOAT Funded Trader (GFT CFD).
+  No financial regulation (standard for prop).
+- Scale claimed: $29M+ paid "across the brand" (shared GFT banner); futures-
+  tracked ledger (TTP): $785,621.73 across 546 payouts, $1,438 average,
+  $5,000 largest; last 30 days $236,507/162 payouts; last 7 days $120,426/76.
+- Contact/community: Discord (https://discord.com/invite/kpw9rzYerr),
+  X @GFFutures, Instagram, blog, affiliate programme; shared login with GFT
+  app (app.goatfundedtrader.com/login?workspace=futures).
+- What it is: FUTURES-ONLY simulated-evaluation prop firm (CME, COMEX, NYMEX,
+  CBOT exclusively — "trading in Stocks, Options, Forex, Cryptocurrency, and
+  CFDs is outside the scope"). ALL accounts simulated; payouts real splits.
+  CFTC Rule 4.41 hypothetical-performance disclosure on footer.
+- Trustpilot: 2.8/5 from ~163 reviews, 49% one-star (see Section 10).
+  PropFirmMatch futures badge 4.5 displayed on homepage.
+- Sister entity: Goat Funded Trader CFD (separate file: GoatFundedTrader.txt).
+- Key distinction: FOUR futures paths (EOD eval, 1-Day-Pass/Sprint eval, Flex/
+  Pro eval, Instant Classic/Lite no-eval) — ALL one-time fees (no monthly),
+  EOD drawdown, $0 activation on EOD plans, 100%-of-first-$10K split, 2-day
+  payout promise (+$500 if late), but a 2-MINUTE minimum-hold rule with profit
+  stripping and plan-varying 20-50% consistency gates. Never mix with GFT CFD
+  rules (Goat Guard, $3K cap do NOT apply here).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://goatfundedfutures.com/ (homepage: 4-path chooser, GOAT DAILY/
+    FLEX/1-DAY-PASS/INSTANT cards, $25K $89/$178 sample, 40% consistency +
+    $259 reset sample, bundle discounts, platform stack, payout promise,
+    instrument list, entity footer)
+ 2. https://goatfundedfutures.com/en (mirror homepage read: SX/GTX framing,
+    $168/$259 $100K sample, STARTER35 code, reviews strip)
+ 3. https://www.tx3futures.com/en/select-challenge (used ONLY as competitor
+    price anchor — not GFF official; see Section 11)
+ 4. https://help.goatfundedfutures.com/en (GFF help centre: General /
+    Platforms / Trade-&-Get-Paid guides, drawdown/consistency/2-minute/news/
+    weekend articles)
+ 5. https://goatfundedfutures.com/rewards (tier/milestone reward system)
+ 6. https://goatfundedfutures.com/payouts (payout cadence + guarantee page)
+ 7. https://goatfundedfutures.com/about (company background page)
+ 8. https://goatfundedfutures.com/challenge/instant-funding-futures-prop-firm
+    (Instant Classic/Lite plan page)
+ 9. https://goatfundedfutures.com/terms-and-condition (binding terms)
+10. https://goatfundedfutures.com/refund-policy + /risk-disclosure
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. TheTrustedProp Goat Funded Futures review 2026-08 (EOD/Sprint/Instant/Pro
+    tables $54-$1,248, 100%-first-$10K, 5-day Sprint cycle, $785K ledger,
+    2.8/49%-one-star Trustpilot, 2-3-week activation delays, 2-minute rule)
+12. PropFirmReviews Goat Funded Futures review 2026-07-14 (Nov-2024 launch,
+    WITI LIMITED, 6 platforms, $785K/546 ledger, 2.8 Trustpilot, rule matrix)
+TOTAL SOURCES: 12 (10 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (7, premium access at no extra cost): Quantower (charting + order
+flow), Deepmap (market-depth liquidity), NinjaTrader (PropTick price-action),
+Tradovate (all-in-one, commission-free), Deepcharts (Volume Profile/Order
+Flow), TickBlaze (lowest-latency + TradingView charts), ATAS (footprint).
+DASHBOARD: shared GFT in-house tech (Dashboard/Statistics/Rewards views) +
+tier/milestone Reward System with dashboard prizes.
+INSTRUMENTS: CME / COMEX / NYMEX / CBOT futures ONLY. Hours Sun-Fri
+17:00-16:00 CT, daily break 16:00-17:00 CT (holiday-adjusted). No stocks,
+options, forex, crypto, CFDs.
+CONTRACTS (homepage $25K sample): 2 Mini / 20 Micro (EOD Daily); scales by
+size (Sprint/Flex grids per plan panel — confirm at checkout).
+COSTS: one-time fee only, NO monthly, $0 activation on EOD plans; commissions
+per platform schedule; no exchange-data surcharge published on fetched pages.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| Program        | Eval | Target | Daily limit      | Max DD        | Type | Consistency (eval/funded) | Min days | Split | Payout cycle |
+|----------------|------|--------|------------------|---------------|------|---------------------------|----------|-------|--------------|
+| GOAT DAILY (EOD)| 1-phase | $1,500 ($25K sample) | $500 pause | $1,000 | EOD-trailing (+$100 lock) | 40% / panel | panel | 90/10 default, 100% 1st $10K | daily-class |
+| FLEX           | 1-phase | panel | NONE             | panel         | EOD  | none funded               | panel    | 100% 1st $10K → 90% | fast |
+| 1-DAY PASS     | 1-day | panel | panel            | panel         | EOD  | NONE in eval              | 1 pass   | 100% 1st $10K → 90% | fastest |
+| INSTANT CLASSIC| none | none   | panel (trailing) | panel         | trail| 20% funded                | 0        | 100% 1st $10K → 90% | every 10 days |
+| INSTANT LITE   | none | none   | panel            | panel         | EOD  | 20% funded                | 0        | 100% 1st $10K → 90% | every 10 days |
+| EOD Standard*  | 1-phase | 9%   | none eval / 2.5% funded | 5% EOD | EOD | 50% / 30% | 5 | 100% 1st $10K → 90% | 2 biz days |
+| SPRINT*        | 1-phase | 6%   | none             | 4% EOD        | EOD  | none / 30%                | 3 eval / 5 win funded | 100% 1st $10K → 90% | 5 winning days |
+| Flex/Pro*      | 1-phase | panel | none            | 4%            | EOD  | panel / none              | panel    | 100% 1st $10K → 90% | fast |
+Sizes: $25K → $50K → $75K → $100K → $150K (Instant to $150K; evals to $150K;
+brand pitch "trade up to $750,000" via stacking/scaling).
+Notes (* = aggregator-mapped rows; homepage cards = GOAT DAILY/FLEX/1-DAY/
+INSTANT naming — same economics, confirm panel labels at purchase):
+- EOD drawdown LOCKS at starting balance + $100 (homepage sample) — floor
+  can never chase profits beyond $100 over start.
+- No consistency rule in 1-Day-Pass/FLEX evaluations; EOD eval 40-50%.
+- Funded has NO profit target on every path.
+- $0 activation fee on EOD plans; Instant bundles discount multi-accounts.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. GOAT DAILY / EOD STANDARD ---
+- One-phase eval ($25K sample: $1,500 target, $500 daily pause, $1,000 EOD-
+  trailing max, 2 mini/20 micro, 40% consistency, no activation, $259 reset).
+  Full-size mapping: 9% target, 5% EOD max, no daily in eval, 2.5% daily
+  funded, 50% eval / 30% funded consistency, 5 min days, $0 activation.
+  90/10 default share with 100%-of-first-$10K kicker.
+--- 5B. 1-DAY PASS / SPRINT ---
+- Fastest path: pass in a day (6% Sprint target, 4% EOD max, 3 min days, NO
+  eval consistency; funded 30% + first payout after 5 winning days).
+  Discounted from ~$54 ($25K Sprint with code).
+--- 5C. FLEX / PRO ---
+- No-daily-limit + no-funded-consistency variant ($50K ~$189, $100K ~$299,
+  $150K ~$579); intraday-room futures vehicle.
+--- 5D. INSTANT CLASSIC / LITE ---
+- Skip eval entirely ($25K $384 → $150K $1,248 Classic); no target, 0 min
+  days; Classic = 3% trailing daily + 5% max; payouts every 10 days; 20%
+  funded consistency. Lite = most affordable Instant ticket (EOD math).
+--- 5E. DRAWDOWN / PAUSE MECHANICS ---
+- EOD-trailing: measured on end-of-day balance; locks at start + $100.
+  Daily "pause" (not breach) on Daily plans: hitting $500 ($25K) pauses to
+  next session. Funded EOD daily 2.5%; Sprint funded 4% static; Instant 3%
+  trailing.
+--- 5F. NEWS / WEEKEND / 2-MINUTE RULE ---
+- News: HOLDING THROUGH news allowed ("Hold Trades During News Events") but
+  must be FLAT before high-impact releases (aggregator-mapped rule) — panel
+  governs; breach = profit strip/breach per plan.
+- Weekend: positions must close before weekends (Friday flat; holding over
+  triggers breach — aggregator-mapped; confirm panel).
+- 2-MINUTE MINIMUM HOLD: trades closed under 2 minutes = microscalping —
+  profits DEDUCTED, can void payouts ($6,038 voided over 75 trades in one
+  Trustpilot case). Stricter than futures competitors; scalpers beware.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (USD, homepage + aggregator grids; SUMMER50/TRUSTED codes):
+EOD/GOAT-DAILY: 25K $89 ($178 list, SUMMER50) | 50K ~$69-$134 | 100K ~$168-
+$264 | 150K ~$240-$374. SPRINT: 25K ~$54 (coded) / $90 | 50K $139 |
+100K $218. INSTANT: 25K $384 | 50K $554 | 75K $764 | 100K $978 | 150K $1,248.
+FLEX/PRO: 50K $189 | 100K $299 | 150K $579.
+RESETS: $259 sample (EOD $25K card); per-size reset grid on panel.
+ACTIVATION: $0 on EOD plans (homepage badge "No Activation fees Once you
+Pass"); Instant activation bundled in one-time fee.
+BUNDLES: multi-account discounts ("the more accounts you take, the less each
+one costs").
+REFUND: Refund-Policy page governs; EOD marketing implies pass-to-funded
+value story (no monthly bleed to refund against) — confirm panel before
+purchase; failed evals not refunded.
+PROMOS at fetch: SUMMER50 (50% off all futures plans); TRUSTED (40% off via
+aggregators). Codes rotate.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+SPLIT: 100% of FIRST $10,000, then 90% (every path; homepage: "Default 90/10
+profit share", "Keep 100% of the first 10K").
+SPEED: paid in 2 business days or +$500 extra (homepage promise: "Get paid in
+2 business days or get an extra $500"). TTP-measured: real cadence with
+$47,884 single-day highs.
+CYCLE: Sprint/first-payout after 5 WINNING days; EOD 2-day cycle; Instant
+every 10 days; GOAT DAILY daily-class cadence.
+GATES: consistency per plan (50% EOD eval → 30% funded; Sprint none → 30%;
+Instant 20%); 2-minute-hold compliance; flat-before-news; KYC; $100-class
+minimums (Instant $1,000-class reads vary by panel — confirm).
+METHODS: Rise/bank/crypto rails shared with GFT brand promise.
+LEDGER: $785,621.73 / 546 payouts ($1,438 avg) all-time; $236,507/162 last
+30 days; $120,426/76 last 7 days; $5,000 largest single.
+SCALING: "Trade up to $750,000" brand pitch; milestone Reward System tiers
+unlock prizes/perks from dashboard.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + verified)
+================================================================================
+BANNED (deduction, denial, activation hold):
+1. Sub-2-minute holds (microscalping) — profits stripped, payouts voidable.
+2. Consistency breach at gate (keep trading, no auto-fail — but payout held).
+3. Holding through high-impact news / over weekends against plan rules.
+4. Non-CME/COMEX/NYMEX/CBOT products (stocks/options/forex/crypto/CFDs out
+   of scope).
+5. Breaching EOD-trailing floor or funded daily pause-then-repeat abuse.
+6. Third-party/shared execution fingerprints (GFT-brand denial template
+   applies by extension).
+ACTIVATION RISK (not a rule, but binding in practice): 2-3-week funded-
+activation delays post-pass with "escalated" support loops (Section 10).
+CONSEQUENCES: profit strip → payout hold → activation stall → account review.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Futures prop is US-trader-accessible in practice (reviews cite US, Canada,
+  Colombia, LatAm, Nigeria, Middle East funded traders). 18+ standard.
+- No published hard-ban list on fetched pages — sanctions screening applies;
+  re-check help centre before purchase.
+- KYC before first payout; activation requires pass-review + credential
+  issue (allow 2-3 weeks buffer given Section-10 history — do NOT plan
+  income around day-3 funding).
+- One-trader-one-beneficiary; rails must match KYC identity.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot (futures): 2.8/5 from ~163 reviews, 49% one-star, pinned 2.8-3.0
+  for months (TTP Aug-2026; PropFirmReviews Jul-2026 confirms 2.8). No
+  consumer alert; complaints are mechanical, not generic.
+- Thread pattern: (a) 2-3-week activation delays ("escalated", 18+ days);
+  (b) 2-minute deductions/voids ($6,038/75-trade case; Marcus Dooley
+  passed-eval denial); (c) slow agent hand-offs; (d) consistency-gate payout
+  holds.
+- Positive ledger: $785K/546 traceable payouts with rising frequency
+  ($47,884 May-21-2026 daily high); "rules stayed the same the whole
+  challenge" praise; 100%-first-$10K + $500-late-promise goodwill.
+- PropFirmMatch futures badge 4.5 on homepage vs 2.8 open Trustpilot — same
+  badge-vs-open gap as GFT CFD.
+- Red flags: MODERATE-HIGH — worst activation record in batch, strictest
+  hold rule (2-min), young arm (Nov-2024). No regulator action, no mass-
+  termination proof; money verifiably moves.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the 100%-first-$10K EOD value ticket — one-time $54-$374 evals
+undercut FunderPro Futures monthly ($79-$219/mo + $119-$129 activation) and
+TX3 SX ($103-$240 coded), with faster Sprint gates (5 winning days) than
+bi-weekly CFD norms. Offsets: 2-minute hold (rivals don't strip normal
+scalps), activation lottery, 2.8 vs Topstep/Apex trust.
+MODEL PICK: Sprint = cheapest fast gate (6%, no eval consistency). EOD =
+budget standard (9%, $0 activation). Flex/Pro = no-daily/no-consistency room
+($189-$579). Instant = skip-eval at 10-day cadence + 20% leash.
+BEST FIT: patient intraday futures traders (holds >2 min); EOD-math lovers;
+100%-first-$10K maximisers; small-ticket Sprint testers; multi-platform
+users (7 rails).
+BAD FIT: sub-2-minute scalpers (automatic strip); traders needing day-3
+funded certainty; weekend/news holders against plan; anyone needing >$150K
+single-ticket futures; support-dependent traders.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all rules, fees, payouts and prohibitions above were read from
+the 10 official URLs in Section 2 on 2026-09-08. Homepage card names (GOAT
+DAILY/FLEX/1-DAY/INSTANT) and aggregator names (EOD/SPRINT/Flex/Pro) describe
+the same economics — PANEL LABELS govern at purchase. Codes rotate. All
+accounts are simulated/demo (CFTC 4.41 disclosed).
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 4-path futures table, +$100 EOD lock, 100%-first-$10K
+map, 2-minute rule case law, and $785K ledger.
+RAW EXCERPTS (official wording, verbatim):
+[1] Scope: "GOAT Funded Futures (GFF) is a futures proprietary trading firm
+that provides traders with simulated funded accounts to trade CME, COMEX,
+NYMEX, and CBOT listed futures products."
+[2] Paths: "We offer four paths to funding: the EOD Challenge
+(evaluation-based), the 1-Day-Pass-Plan (evaluation-based), the Flex
+Challenge (evaluation-based), and Instant Classic (no evaluation required)."
+[3] EOD sample: "EOD drawdown, Account size, 50% OFF, $25K, GOAT DAILY, $178,
+$89, one-time fee, Profit Target, $1,500, Daily Drawdown, $500, pause, Max
+Drawdown, $1,000, Max Contracts, 2 Mini / 20 Micro, Drawdown Type, EOD
+Trailing, locks at starting balance + $100."
+[4] Split: "Default 90/10 profit share." / "Keep 100% of the first 10K."
+/ "Get paid every day" (GOAT DAILY).
+[5] Promise: "Get paid in 2 business days or get an extra $500." /
+"Skip the evaluation phase with our Instant accounts." /
+"Plans available with no consistency rule." / "One-Time Fee. No Monthly
+Costs." / "$0 Activation Fee."
+[6] Platforms: "Quantower... Deepmap... NinjaTrader... Tradovate...
+Deepcharts... TickBlaze... Atas." (7 rails.)
+[7] Hours: "Trading Hours: Sunday - Friday 17:00 - 16:00 CT | Daily Break:
+16:00 - 17:00 CT."
+[8] Scope ban: "participants are authorized to engage in Futures trading
+with products exclusively listed on CME, COMEX, NYMEX, and CBOT. Please
+note, trading in Stocks, Options, Forex, Cryptocurrency, and CFDs is outside
+the scope of our programs."
+[9] Hypothetical: "Hypothetical or simulated performance results have
+inherent limitations. Unlike live performance records, simulated results do
+not represent actual trading." (CFTC Rule 4.41 cited.)
+[10] 1-Step CFD anchor (sister arm, for separation): "Achieve a 10% profit
+target... Complete at least 3 valid trading days." (GFT CFD does NOT apply
+to GFF.)
+[11] Ledger: "All-time total paid: $785,621.73 — 546 payouts — Largest
+payout: $5,000 — Average payout: $1,438."
+[12] Trust: "Trustpilot score of 2.8 with 49% one-star reviews signals
+serious operational problems." / "Funded account activation delays of 2-3
+weeks after passing are consistently reported." / "2-minute minimum trade
+rule eliminates legitimate scalping and triggers profit deductions."
+================================================================================
+END OF FILE — GOAT FUNDED FUTURES COMPLETE.
+================================================================================

@@ -52,7 +52,7 @@ export const SHARK_FUNDED: PropFirm = {
   confidenceRating: 'B',
   totalPayoutsReported: '$8.7M+ (as reported on sharkfunded.com)',
   activeTradersReported: '150K+ traders (as reported on sharkfunded.com)',
-  platforms: ['To be verified'],
+  platforms: ['TradeLocker', 'Match-Trader', 'cTrader', 'MetaTrader 5'],
   supportedCountriesCount: 115,
   restrictedCountries: ['Unknown — not publicly stated'],
   marketType: 'Multi-Asset',

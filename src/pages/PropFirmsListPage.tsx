@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
+import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
 import { REAL_FIRMS } from '../data/propFirmMatchReal.ts';
 import { PropFirm, SourceEvidence } from '../types/schema.ts';
 import { Building, Star, Globe, Search, Filter, ArrowUpDown, Shield, Check, Crown, Zap, AlertTriangle, ArrowRight, Scale, Eye, Clock, Award, TrendingUp } from 'lucide-react';
@@ -30,13 +31,35 @@ function getMaxAllocation(firm: any): number {
 
 function getMinPrice(firm: any): number | null {
   let min = Infinity;
+  if (Array.isArray(firm.pricingRegistry) && firm.pricingRegistry.length > 0) {
+    for (const p of firm.pricingRegistry) {
+      if (typeof p.price === 'number' && p.price > 0 && p.price < min) {
+        min = p.price;
+      }
+    }
+  }
   for (const prog of firm.programs ?? []) {
     for (const acc of prog.accounts ?? []) {
       if (acc.priceUnknown) continue;
       const price = acc.discountedPrice ?? acc.price;
-      if (typeof price === 'number' && price < min) min = price;
+      if (typeof price === 'number' && price > 0 && price < min) min = price;
     }
   }
+  if (min !== Infinity) return min;
+
+  try {
+    const canonical = getFirmCanonicalProfile(firm.slug, firm);
+    if (canonical && Array.isArray(canonical.pricingRegistry) && canonical.pricingRegistry.length > 0) {
+      for (const p of canonical.pricingRegistry) {
+        if (typeof p.price === 'number' && p.price > 0 && p.price < min) {
+          min = p.price;
+        }
+      }
+    }
+  } catch {
+    // ignore
+  }
+
   return min === Infinity ? null : min;
 }
 
@@ -102,6 +125,22 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       if (cf.slug === 'goat-funded-trader') continue; // handled below for legacy behavior
       const existsIdx = mapped.findIndex((m:any)=> norm(m.slug)===norm(cf.slug));
       const entry = { ...(cf as any), trustScore: (cf as any).scorecard?.overallScore ?? 0 } as any;
+      try {
+        const canonical = getFirmCanonicalProfile(cf.slug, cf);
+        if (canonical) {
+          if (!entry.pricingRegistry && canonical.pricingRegistry) {
+            entry.pricingRegistry = canonical.pricingRegistry;
+          }
+          if ((!entry.programs || entry.programs.length === 0) && canonical.models) {
+            entry.programs = canonical.models.map(m => ({
+              id: `prog-${m.id}`,
+              name: m.name,
+              programType: m.categoryLabel || '2-Step',
+              description: m.tagline,
+            }));
+          }
+        }
+      } catch {}
       if (existsIdx >= 0) {
         const stub = mapped[existsIdx];
         if ((entry.reviewsOverview?.totalReviews ?? 0) === 0 && (stub.reviewsOverview?.totalReviews ?? 0) > 0) {
@@ -112,6 +151,24 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       }
       else verifiedFirst.unshift(entry);
     }
+    // Also enrich any unmerged directory entries with canonical models
+    mapped.forEach((m: any) => {
+      if (!m.programs || m.programs.length === 0) {
+        try {
+          const canonical = getFirmCanonicalProfile(m.slug, m);
+          if (canonical && canonical.models && canonical.models.length > 0) {
+            m.programs = canonical.models.map(mod => ({
+              id: `prog-${mod.id}`,
+              name: mod.name,
+              programType: mod.categoryLabel || '2-Step',
+              description: mod.tagline,
+            }));
+            m.pricingRegistry = canonical.pricingRegistry;
+            m.confidenceRating = 'A';
+          }
+        } catch {}
+      }
+    });
     const withCanonical = [...verifiedFirst, ...mapped];
     if (goatDetailed) {
       const existsIdx = withCanonical.findIndex((m:any)=>m.slug==='goat-funded-trader');
@@ -264,7 +321,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                       </td>
                       <td className="px-4 py-4">
                         <div className="flex items-center gap-3">
-                          <div className="w-9 h-9 rounded-xl bg-white border border-[#1F2228] flex items-center justify-center overflow-hidden shrink-0 p-1.5 shadow-sm">
+                          <div className="w-9 h-9 rounded-xl bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] flex items-center justify-center overflow-hidden shrink-0 p-1.5 shadow-sm">
                             <img
                               src={(firm as any).logoUrl || firm.countryFlag}
                               alt={firm.name}
@@ -383,7 +440,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                     <img
                       src={(firm as any).logoUrl || firm.countryFlag}
                       alt={firm.name}
-                      className="w-8 h-8 rounded-lg object-contain bg-white p-1.5 border border-[#1F2228] shadow-sm shrink-0"
+                      className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shadow-sm shrink-0"
                       loading="lazy"
                       onError={(e) => {
                         const el = e.currentTarget as HTMLImageElement;

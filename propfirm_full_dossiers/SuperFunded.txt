@@ -1,0 +1,269 @@
+================================================================================
+SuperFunded — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/SuperFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official SuperFunded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: SuperFunded (Super Funded, site superfunded.com; EN + JA + PT-BR).
+- Legal entity: Prop Trade Tech LLC (per PropFirm201/TradingFinder); operated by
+  Eightcap International Ltd, Seychelles FSA-licensed securities dealer (per
+  IndustrySpread V2.0 review — broking-group prop desk; challenge itself NOT
+  regulated, all trading simulated). HQ cited 500 Bourke St Melbourne Australia.
+  CEO Ryu Takahashi (Jun 2024 founding). Entity duality flagged: two documents
+  state two different incorporation countries for same entity — verify Terms PDF.
+- Contact: support@superfunded.com | portal.superfunded.com (login) |
+  Discord discord.com/invite/MFxMvkBdP6 | X @superfundedfx |
+  Instagram @superfundedfx | Contact-Us page + Complaint Management + Participant
+  Verification policies (Jun 2026 PDFs).
+- What it is: CFD simulated-evaluation prop firm. Uses broker-grade platforms/
+  partners yet SIMULATES actual placement in eval + funded; no brokerage deposit;
+  no capital risk. Rewards are real-money prizes (up to 90%), not live capital.
+- Scale claimed: 700+ trading assets; payout certificates live (CZ $1,198 200K,
+  DW $3,733 100K, TN $7,492 50K, NI $2,409 50K+add-on, SI $3,425 50K, VP $1,482,
+  YT $891, KS $866, KM $731, KK $489, SK $464, SJ $207, AM $445, OO $456, MLN/GA/OS $150-198).
+- Press: Benzinga, MarketWatch, TrustedProp (TTP) badges, 369560 badge.
+- Trustpilot: 4.6/5 from 80-85 reviews (PropFirmMap 80; Trustpilot 85; 77% 5*,
+  12% 1*); PropFirm201 4.2/30; PropFirmReviews 4.2/~80; ScamAdviser 100/100 (3.9 user).
+  Replied 66% negatives (1-month lag). FundedTrading 8.2-8.6 subscores; FT30 reviewer
+  $600 sub-$1K no-KYC payout confirmed.
+- Key distinction: TWO paths — One Phase 5K-200K (8% target, 3%/5% trailing, 1:30)
+  + Two Phase 3K-200K (10%+5%, 5%/10% static, 1:50-1:100). TradeLocker (demo creds
+  published). Up to 90% split (70->80->90 ramp). 14-day payouts (7-day add-on).
+  5% profit CAP on first 3 payouts (target > cap trap).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://superfunded.com (homepage: 1-phase $55-$1,469 + 2-phase $33-$1,299
+    tables, Eightcap, TradeLocker creds, certificates, SEP20 20% code)
+ 2. https://superfunded.com/challenges/ (challenge ladder)
+ 3. https://superfunded.com/markets/ (700+ assets)
+ 4. https://superfunded.com/affiliates/ (affiliates)
+ 5. https://superfunded.com/promotions/ (SEP20 Sep-2026 20% to Sep 30)
+ 6. https://superfunded.com/news/ + /faqs/ + /contact-us/ (news/FAQ/contact)
+ 7. https://superfunded.com/wp-content/uploads/2026/06/Super-Funded-General-Terms-and-Conditions.pdf (entity terms)
+ 8. https://superfunded.com/wp-content/uploads/2026/08/SuperFunded-Rules-and-Conditions-31.08.26.pdf (Rules V2 03.08.26)
+ 9. https://superfunded.com/wp-content/uploads/2026/06/SuperFunded-Privacy-Policy-V2.0.pdf (privacy)
+10. https://superfunded.com/wp-content/uploads/2026/06/Super-Funded-Website-Terms-and-Conditions-V1.0.pdf (site terms)
+11. https://superfunded.com/wp-content/uploads/2026/06/Super-Funded-Complaint-Management-Policy-V1.0.pdf (complaints)
+12. https://superfunded.com/wp-content/uploads/2026/06/Super-Funded-Participant-Verification-Policy-V1.0.pdf (KYC)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. PropFirmMap SuperFunded firm page Jul 2026 (Grade B, 5.2 score, 13-challenge table)
+14. FundedTrading SuperFunded review Aug 2026 (8.2-8.6, FT30 30%, $1K-no-KYC note)
+15. IndustrySpread SuperFunded review Aug 2026 (entity-duality + 5%-cap analysis)
+16. PropFirmReviews.net Super Funded review 2026 (6.5/10, 70->90 ramp, EA ban)
+17. PropFirm201 Super Funded review Apr 2026 (4.2/30, $33-$999 matrix, Prop Trade Tech)
+18. TradingFinder Super Funded review Jun 2026 ($7/lot, 0.01% crypto, 30d cycle)
+19. Trustpilot https://www.trustpilot.com/review/superfunded.com (4.6/85)
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- TradeLocker — primary (demo creds published on homepage; desktop/mobile;
+  linked to SuperFunded dashboard; low-latency real-time data).
+- DXtrade cited by reviewers (PropFirmReviews/PropFirm201); Eightcap execution.
+- NO MT4, NO MT5. EAs BANNED across all accounts (DXtrade non-EA natively).
+  MT-scripts/algo users must go manual/discretionary.
+INSTRUMENTS: 700+ assets (homepage) / 500+ (reviews) across Forex, Crypto, CFDs,
+Oil, Indices, Metals, Stocks, Commodities. Partner broker Eightcap.
+Weekend/overnight holding ALLOWED (both paths). No time limit (30-day inactivity
+auto-fail). All costs COUNT toward equity/balance DD.
+LEVERAGE: One Phase 1:30 (forex; 1:2 crypto); Two Phase 1:50 (homepage) to 1:100
+(forex per reviews; 1:30 indices/crypto/metals). Per-symbol caps in specs.
+COMMISSIONS: $7 per lot (non-crypto); 0.01% of volume on crypto (TradingFinder).
+Challenge phases may show zero-commission promos — funded commissions apply.
+Spreads praised as very low; swing at no extra cost.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program   | Steps | Sizes    | Target          | Daily loss | Max loss     | Min days | Leverage | Split        | Payout       |
+|---|-----------|-------|----------|-----------------|------------|--------------|----------|----------|--------------|--------------|
+| 1 | One Phase | 1     | 5K-200K  | 8% single       | 3%         | 5% trailing  | 3        | 1:30     | up to 90% (80% flat V2) | 14 days |
+| 2 | Two Phase | 2     | 3K-200K  | 10% + 5%        | 5%         | 10% static   | 4+4 (5 funded) | 1:50-1:100 | up to 90% (70/80/90 ramp) | 14d (30d first per reviews) |
+Notes:
+- One Phase direct to funded (no Phase 2). Two Phase optional 7-Withdrawal-Days
+  add-on (first withdrawal 7d vs 14d).
+- One Phase trailing (highest-equity high-water, never falls); Two Phase static
+  (initial balance, profit cannot move stop-out). Both breached on intraday equity
+  (lower of balance/equity), daily off prior close.
+- Up to 3 simultaneous accounts ($600K combined). $200K hard cap per account.
+- No scaling plan. 30-day inactivity = auto-fail. Refund via Refund Add-on only.
+- 5% PROFIT CAP each of first 3 payouts (before split; excess forfeited on reset).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ONE PHASE (5K-200K, 1:30) ---
+- Target single 8% ($800 on 10K). Daily 3% ($300), max 5% TRAILING ($500).
+  Min 3 trading days. Split 80% flat (V2) / up to 90% (with 90%-add-on +35%).
+  Payout 14 days from opening/previous. ($100K: +$8,000; $3,000/day; $5,000 trail.)
+  News restricted on funded (10-min window per reviews); EAs banned.
+--- 5B. TWO PHASE (3K-200K, 1:50-1:100) ---
+- Targets 10% Ph1 + 5% Ph2 ($1,000+$500 on 10K). Daily 5% EOD-based ($500),
+  max 10% STATIC ($1,000). Min 4 days/phase (5 funded). Split 70% 1st -> 80% 2nd
+  -> 90% 3rd+ (V2: 70/80/90; homepage up-to-90%). First withdrawal 14d (Map) /
+  30d (reviews) — buy 7-day add-on (+30% fee) for 7d. Static = headroom for runners.
+--- 5C. SHARED RULES ---
+- Profit CAP: 5% of bankroll each first-3 payouts (100K = $5,000 gross / $4,000
+  at 80%; excess DELETED on reset, not carried). At 14d intervals cap phase >=6 weeks.
+  Two Phase pre-Sep-2025 10%-to-$50K variant now flat 5% (Map note).
+- Profit Distribution (funded only): no single UTC+0 day >40% of requested payout
+  (30% on $50K+); excess DEDUCTED from withdrawal (not breach — dilute to fix).
+  Free accounts lifetime limit undisclosed.
+- Tick scalping, martingale, grid, HFT banned. Copy from third-party banned.
+  Hedging/arbitrage/feed exploits banned. 30-day funded evaluation window must end
+  positive before withdrawal (Map min_trading_days_for_payout note).
+- Weekend/overnight ALLOWED. Minimum payout $100. KYC only above $1,000 cumulative
+  (sub-$1K KYC-free — key differentiator).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (list; promos SEP20 20% to Sep 30 2026, FT30 30%, site 15-26% rolling):
+ONE PHASE: 5K $55 | 10K $99 | 25K $165 | 50K $299 | 100K $599 | 200K $1,469.
+TWO PHASE: 3K $33 | 6K $66 | 10K $99 | 25K $158 | 50K $298 | 100K $550 | 200K $1,299.
+ADD-ONS (% of initial fee): 7-Withdrawal-Days +30%; 90% split +35%; swap-free +25%;
+Refund Add-on (refund path; otherwise NO refunds after withdrawal). Payout-cycle and
+split add-ons compound against discounts (discounts lower base, add-ons % of base).
+PROMOS: SEP20 20% September; FT30 30%; 15-26% rolling site-wide.
+REFUND: ONLY via Refund Add-on; NO refunds after withdrawal; failed evals lose fee.
+Payment: cards, USDT (ERC20/TRC20), BTC, DOGE. No subscription, no hidden platform fee.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: One Phase 80% flat (V2) to up to 90% (add-on); Two Phase 70% -> 80% ->
+  90% (1st/2nd/3rd+). Homepage up-to-90% ceiling. 60-90 days to reach 90% on 2-step
+  (30d first + 15d cadence) — trails 80-day-one rivals.
+- First payout: One Phase 14 days after funded; Two Phase 14 days (Map) / 30 days
+  (reviews) after funded (7 days with add-on). Subsequent every 14-15 days.
+- Minimum: $100 (V2). Funded 30-day window must end positive (Map).
+- Methods: bank wire transfer or cryptocurrency (USDT/BTC). No KYC under $1,000
+  cumulative (verification policy); KYC above $1,000.
+- Processing: approved requests in 24-48 hours (V2). Certificates: $150-$7,492 live.
+- CAP: 5% per first-3 payouts (see 5C). Distribution rule 40%/30% deduction (see 5C).
+- Fee refund via add-on only. No scaling plan; $200K/account, 3 accounts ($600K).
+- Verified paid: NO public total disclosed (certificates only; no completed-
+  withdrawal review found by IndustrySpread in 57-review sample).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: Rules and Conditions 31.08.26 (V2) + General Terms + FAQ.
+BANNED (breach = cap deduction, suspension, termination):
+1. Tick scalping, HFT, latency arbitrage, feed exploits, server spamming.
+2. Martingale, grid (aggressive-strategy bans); EAs of ANY kind (manual only).
+3. Third-party copy/services; account sharing; cross-account hedging.
+4. Exceeding 3%/5% daily or 5%/10% overall (intraday-equity breach).
+5. News-window trading on funded (10-min window per reviews; verify V2).
+6. 30-day inactivity (auto-fail); KYC/verification fraud; chargebacks.
+7. Free-account lifetime-limit abuse (undisclosed cap).
+CAP/DEDUCTION (not breach): 5%-cap forfeit on reset; 40%/30%-day deduction.
+Consequences ladder: payout deduction, suspension, termination. Complaints via
+Complaint Management Policy (Jun 2026 PDF).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; up to 3 accounts ($600K). EN/JA/PT-BR site.
+- USA: site not directed at residents where use violates local laws (Risk Disclosure);
+  confirm checkout geo-block (TradeLocker global; Eightcap entity routing).
+- Australia HQ (Melbourne) + Seychelles dealer (Eightcap International Ltd);
+  Prop Trade Tech LLC entity. Duality — read WHICH entity your Terms name.
+- HARD BANS: sanctioned (Iran, North Korea, Syria, Cuba, Russia/Belarus, occupied
+  regions) + local-law exclusions; full list in General Terms PDF (verify before pay).
+- KYC: Participant Verification Policy — REQUIRED once cumulative withdrawals exceed
+  $1,000; sub-$1K KYC-free (differentiator for small testers). Matching beneficiary.
+- VPN/VPS: single-consistent IP advised; sharing flags risk review.
+- Challenge NOT regulated financial service (licensed-group operation ≠ licensed product).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/superfunded.com: 4.6/5, 85 reviews
+  (77% 5*, 12% 1*). 5*: clear rules, fair conditions, smooth dashboard/setup,
+  weekend support, $600 sub-$1K no-KYC payout, X-found swing-friendly. 1*: support
+  resolution gaps. NO completed-withdrawal review in IndustrySpread 57-sample;
+  no substantiated paid/denied account either — thin evidence both ways.
+- PropFirmMap: Safety B, Score 5.2, Payout Reliability B, $33 entry; 13 challenges.
+- FundedTrading 8.2-8.6 (Pricing/Rules/Platform/Payouts/Features); FT30 code.
+- IndustrySpread: entity-duality + target>cap + 70->90 ramp + trailing-vs-static
+  WARNINGS (most critical review; read V2.0 before paying).
+- PropFirmReviews 6.5/10 (EA ban + 70%-start + 30d-first + no-scale flags);
+  PropFirm201 4.2/30 ($33-$999 matrix); TradingFinder ($7/lot, 30d cycle).
+- Red flags: NONE systemic (no scam cluster, no regulator action). Watch: 2024
+  vintage (~80 reviews, small sample); entity-duality uncertainty; target>cap math;
+  70%-first ramp; EA ban; no MT4/5; no scale; 1-month support lag on negatives.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest 2-step ($33 3K vs $39-55 rivals) + sub-$1K KYC-free (unique)
++ Eightcap-group + 700 assets + static 10% two-step headroom. But 70%-first ramp
+trails 80-day-one rivals; 5%-cap first-3 (target>cap) unique drag; EA ban vs
+EA-friendly rivals; no MT4/5 vs MT5 rivals; no scale vs $1-3M rivals; 30d-first
+(variant) trails 7-14d rivals.
+BEST FIT: budget micro-testers ($33 3K); manual discretionary swing (two-step static,
+weekend/overnight, no extra cost); low-spread scalpers (non-tick, non-HFT);
+sub-$1K KYC-averse withdrawers; TradeLocker-native; patient 14d cyclers accepting
+5%-cap first 6 weeks.
+BAD FIT: EA/algo/MT4-5 locked; tick-scalp/martingale/grid/HFT; anyone needing
+>5% in first-3 cycles (cap forfeits excess); 90%-day-one needy; >$200K single or
+>$600K combined seekers; scalers (no plan); certainty-of-entity demanders (read PDFs).
+RULE OF THUMB: want Room => Two Phase static (accept 70%-first + cap); want Speed
+=> One Phase (accept 5% trail + 1:30); always earn UNDER 5% per first-3 cycles or
+excess is deleted.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + challenges/markets/affiliates/promotions/news/FAQs/contact
++ 6 PDFs (General/Privacy/Rules-31.08.26/Site/Complaint/Verification) read
+2026-09-08; pricing cross-checked Jul-2026 Map, Aug-2026 FundedTrading, Aug-2026
+IndustrySpread V2.0, 2026 PropFirmReviews/PropFirm201/TradingFinder tables.
+Promos (SEP20/FT30) rotate — re-check checkout. All accounts simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 2-path table, trailing-vs-static map, 70/80/90 ramp, 5%-cap +
+40%/30%-day deductions, sub-$1K KYC-free, entity-duality flag.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Rise To The Challenge! Level Up And Become A Super Trader" |
+"700+ Trading Assets Available".
+[2] Goal: "our goal is to help traders learn and hone their trading strategy
+without requiring a large deposit at a brokerage." | "we use the same platforms
+and partners that a broker uses, yet simulate the actual trade being placed in
+the evaluation and funded stages."
+[3] One Phase ($5K): "Profit Target 8% | Minimum Trading Days 3 | Max Daily Loss
+3% | Maximum Total Loss 5% | Leverage 1:30 | Profit Split up to 90% | Price $55".
+[4] Two Phase ($3K): "Profit Target Phase 1 10% | Phase 2 5% | Minimum Trading
+Days 4 | Max Daily Loss 5% | Maximum Total Loss 10% | Leverage 1:50 | Profit Split
+up to 90% | Price $33".
+[5] Process: "Stage 1 - Evaluation ... Follow risk management rules and achieve
+appropriate targets" | "Stage 2 - Funding ... simulated capital ... evaluation
+passing certificate" | "Stage 3 - Trade! ... earn real money - up to 90% of your
+profits as a prize."
+[6] Partner: "Trade world class assets ... Trade Forex, Crypto, CFD's, Oil,
+Indices and metals with our partner broker Eightcap." | "Partnered With Eightcap."
+[7] Certs: "Payout Certificate $1,198.14 Challenge passed $200,000 Two Phase
+Challenge Funded - TL Name CZ" (through "$7,492.84 $50,000 Two Phase ... TN").
+[8] Legal: "Super Funded, does not provide any of the investment services listed."
+| "Super Funded is not a broker and do not accept deposits." | "powered by the
+third-party liquidity providers."
+[9] Promo: "Get 20% off this September! ... ends 30th September 2026. Use Code SEP20".
+[10] Cap (via IndustrySpread V2 cite): "5% of the nominated bankroll on each of the
+first three approved payouts. Anything above it 'is forfeited and will be removed
+when your Account is reset'." | "Profit share: 80% flat on the one-step; 70%, then
+80%, then 90% from the third payout on the two-step."
+[11] KYC (via Map cite): "KYC required once cumulative withdrawal requests exceed
+$1,000." | "Minimum payout $100" | "approved requests processed in 24-48 hours."
+================================================================================
+END OF FILE — SuperFunded COMPLETE. Next firm is a separate task (not started).
+================================================================================

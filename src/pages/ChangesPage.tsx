@@ -1,5 +1,7 @@
 import React from 'react';
 import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
+import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
+import { RuleChange } from '../types/schema.ts';
 import { History, ArrowRight, Calendar, AlertTriangle, Shield, Clock } from 'lucide-react';
 
 interface ChangesPageProps { onNavigate: (path: string) => void; }
@@ -11,7 +13,30 @@ export const ChangesPage: React.FC<ChangesPageProps> = ({ onNavigate }) => {
     return PROP_FIRMS_DATA.find(f => f.slug === selectedFirmSlug) || PROP_FIRMS_DATA[0];
   }, [selectedFirmSlug]);
 
-  const changes = currentFirm.recentChanges || [];
+  const changes: RuleChange[] = React.useMemo(() => {
+    if (currentFirm.recentChanges && currentFirm.recentChanges.length > 0) {
+      return currentFirm.recentChanges;
+    }
+    const profile = getFirmCanonicalProfile(currentFirm.slug, currentFirm);
+    if (profile && profile.changeHistory && profile.changeHistory.length > 0) {
+      return profile.changeHistory.map(ch => ({
+        id: ch.id,
+        firmId: currentFirm.id,
+        firmName: currentFirm.name,
+        ruleName: ch.title,
+        oldValue: ch.previousRule,
+        newValue: ch.newRule,
+        effectiveDate: ch.date,
+        changeType: (ch.impactLevel === 'favorable' ? 'MODIFIED' : ch.impactLevel === 'unfavorable' ? 'MODIFIED' : 'ADDED') as any,
+        plainEnglishSummary: ch.explanation,
+        whoIsAffected: ch.affectedModels?.join(', ') || 'All evaluation and funded account tiers',
+        sourceUrl: profile.website || currentFirm.website,
+        sourceTitle: ch.source || 'Official Rulebook Release',
+        impactLevel: (ch.impactLevel === 'major' ? 'HIGH' : ch.impactLevel === 'moderate' ? 'MODERATE' : 'LOW') as any,
+      }));
+    }
+    return [];
+  }, [currentFirm]);
 
   return (
     <div className="bg-[#080A10] min-h-screen">

@@ -1,0 +1,315 @@
+================================================================================
+HOLA PRIME — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/HolaPrime.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Hola Prime pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Hola Prime ("We are Traders").
+- Founded: 2024, Hong Kong (Hola Prime Limited, Hong Kong — website owner/
+  operator). Young firm (<3 years at Sep-2026 reads).
+- Group entities (official footer):
+  * Hola Prime Limited Cyprus (HE 454359), wholly owned subsidiary of Hola
+    Prime Limited, Hong Kong.
+  * MT4/MT5 services: Hola Prime Ltd Mauritius (reg. 220248, 4th Floor Docks
+    4, Caudan, Port Louis) — authorized/regulated by FSC Mauritius as
+    Investment Dealer (Full Service Dealer excl. underwriting), licence
+    GB24203729.
+  * DXtrade/Match-Trader services: Gooey Trade, GT Tech LLC, 6800 Broken
+    Sound Parkway NW Suite 150, Boca Raton, FL 33487, USA.
+- Contact: contactus@holaprime.com | live chat 24/5 | Discord
+  https://discord.com/invite/hjDcUcEfgA | X @HolaPrimeGlobal.
+- What it is: Forex + Futures (+ Direct brokerage arm Hola Prime Markets)
+  simulated-evaluation prop firm. Challenge + Sim-Funded accounts are
+  SIMULATED; funded traders receive performance Rewards, not live capital.
+  Sister offer: https://holaprimemarkets.com/ ("Trade Your Money", 1-hour
+  withdrawals) is the SEPARATE brokerage arm — never confuse its rules with
+  prop challenge rules.
+- Scale claimed on holaprime.com: payout transparency report + payout stories
+  pages; "Fastest Payout Prop Firm" award supported by ~33-minute average
+  processing (UF Awards/iFX Expo/Dubai); ISO 9001:2015 + ISO 22301:2019 +
+  ISO/IEC 27001:2022 badges displayed.
+- Evaluation pass-rate disclosure (footer): 35% of traders who traded at
+  least one evaluation obtained a Sim-Funded account, 10 Nov 2024-29 May 2025.
+- Trustpilot: 4.5/5 (~3,491-3,537 reviews Aug-2026; 1,000-review milestone
+  Apr-2026 per firm blog).
+- Key distinction: FOREX arm (Pro / Prime / Prime X 2-Step / Direct) and
+  FUTURES arm (1-Step Prime / Direct / Simplified / Step-into-Futures) are
+  SEPARATE rulebooks with different targets, drawdowns, platforms and payouts.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://holaprime.com/ (homepage: ecosystem, payout system, split menu,
+    Pro-vs-Prime leverage, entities, risk disclosures, pass rate, bans)
+ 2. https://holaprime.com/forex/pro-challenge/ (Forex Pro grid)
+ 3. https://holaprime.com/forex/prime-challenge/ (Forex Prime grid)
+ 4. https://holaprime.com/forex/2-step-prime-x/ (Prime X, no-risk-rule, 10% max)
+ 5. https://holaprime.com/forex/direct-account/ (Forex Direct)
+ 6. https://holaprime.com/forex/scaling/ (Scaling Plan)
+ 7. https://holaprime.com/forex/forex-trading-rules/ (Trading Objectives)
+ 8. https://holaprime.com/futures/1-step-prime/ (Futures Prime grid)
+ 9. https://holaprime.com/futures/direct-account/ (Futures Direct)
+10. https://holaprime.com/futures/futures-trading-rules/ (Futures objectives)
+11. https://holaprime.com/1-hour-payouts/ (1-hour payout system)
+12. https://holaprime.com/payout-transparency-report/ (payout data)
+13. https://holaprime.com/about-us/ + /teams/ + /awards/ + /risk-compliance/
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+14. BrokerAnalysis Hola Prime review 2026-08-29 (7.8/10, fee ladder, rules)
+15. Proptradercheck Hola Prime review Jul-2026 (6 variants, $48-$1,499 matrix,
+    65-95% splits, 30-35% gates, 110% refund)
+16. PropFirmMap Hola Prime firm page (Grade B+, 4.5 stars Sep-2026)
+17. Trustpilot https://www.trustpilot.com/review/holaprime.com (4.5/5, ~3.5K)
+18. PropFirmsCompared Hola Prime review 2026 (150+ instruments, platforms)
+TOTAL SOURCES: 18 (13 official + 5 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+FOREX PLATFORMS: MT4, MT5, cTrader, DXtrade, TradeLocker, Match-Trader
+(BrokerAnalysis dataset). Price Transparency Report published at
+https://holaprime.com/forex/transparency-report/.
+FUTURES PLATFORMS: per https://holaprime.com/futures/trading-platforms/
+(Tradovate/Rithmic-style routing + TradingView; confirm instrument page at
+https://holaprime.com/futures/instruments/ before purchase).
+INSTRUMENTS: 150+ instruments incl. major forex pairs + altcoins
+(PropFirmsCompared); futures contracts per Futures Instruments page.
+LEVERAGE (official homepage FAQ):
+- Pro Accounts: 100:1 (aggressive/momentum traders).
+- Prime Accounts: 50:1 (tighter control/steady risk). Prime allows weekend
+  holding + news trading WITHOUT restrictions.
+- Futures leverage per contract specs on Instruments page.
+NEWS/WEEKEND: Prime accounts = weekend holding + news trading unrestricted.
+Pro = confirm variant card (tighter). Futures = news allowed per objectives.
+EAs: allowed. Copy trading allowed ONLY between your own Hola Prime
+Sim-Funded accounts (homepage FAQ: "Yes, but only between your own Hola
+Prime (Sim. Funded) Account"). Min trading days: 3 (audited variants).
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Market | Steps | Sizes       | Target        | Daily loss | Max loss | Split          | First payout |
+|---|----------------------|--------|-------|-------------|---------------|------------|----------|----------------|--------------|
+| 1 | Forex 1-Step Prime   | Forex  | 1     | 5K-300K     | 10%           | 3%         | 6%       | 65/80/95% menu | ~7 days      |
+| 2 | Forex 2-Step Pro     | Forex  | 2     | 5K-300K     | 8% + 5%       | up to 5%   | 10%      | 65/80/95% menu | ~7 days      |
+| 3 | Forex 2-Step Prime   | Forex  | 2     | 5K-300K     | 8% + 5%       | up to 5%   | 10%      | 65/80/95% menu | ~7 days      |
+| 4 | Forex Prime X (2-Step)| Forex | 2     | 5K-300K     | 8% + 5%       | — (no risk rule) | 10% | 65/80/95% menu | ~7 days      |
+| 5 | Forex Direct         | Forex  | 0     | 5K-300K     | none          | per-card   | per-card | bi-weekly to 90% | on-demand  |
+| 6 | Futures 1-Step Prime | Futures| 1     | per-grid    | per-card      | per-card   | per-card | per-card       | per-card     |
+| 7 | Futures Direct       | Futures| 0     | per-grid    | none          | per-card   | per-card | per-card       | on-demand    |
+Notes:
+- 1-Step Prime is the flagship: 10% / 3% daily / 6% max (e.g. $100K:
+  +$10,000 / $3,000/day / $6,000 max).
+- 2-Step Pro/Prime: 8% Phase 1 + 5% Phase 2, up to 5% daily, 10% max.
+- Prime X: same 8%+5%/10% box with NO (daily) Risk Rule — the loosest eval.
+- 2% max risk-per-trade-idea rule applies (position sizing discipline).
+- Consistency gate ~30-35% on funded/select evals (audit: 30% eval / ~35%
+  funded). Prime Circle funded inner circle: Black Card, extra 20% off,
+  $2M capital track.
+- Payout SPLIT MENU (homepage FAQ): Bi-Weekly 80% / Monthly 95% (+20% fee) /
+  Direct bi-weekly to 90% / On-Demand 80%. Weekly 65% tier per audit grid.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. FOREX 1-STEP PRIME (5K-300K) ---
+- Target 10% single phase. Daily 3%. Max 6%. 2% risk-per-trade-idea.
+  Consistency ~30% (eval) — keep trading till ratio fixed, not auto-breach.
+  Leverage 50:1 (Prime). News + weekend unrestricted. Min days 3.
+--- 5B. FOREX 2-STEP PRO (5K-300K) ---
+- Targets 8% P1 + 5% P2. Daily up to 5%. Max 10%. Leverage 100:1 (Pro).
+  2% risk-per-idea. Consistency ~30-35%. Min days 3.
+--- 5C. FOREX 2-STEP PRIME / PRIME X (5K-300K) ---
+- Same 8%+5% / 10% max box; Prime at 50:1 with news/weekend freedom.
+  PRIME X removes the (daily) Risk Rule entirely ("No Risk Rule and 10% Max
+  Loss Limit" banner). Min days 3.
+--- 5D. FOREX DIRECT ACCOUNT ---
+- No evaluation, no target. Sim-Funded from day one. Bi-weekly to 90% split,
+  on-demand options. Risk box per Direct card; 2% idea rule still applies.
+--- 5E. FUTURES 1-STEP PRIME + FUTURES DIRECT (+ Simplified / Step-into-Futures) ---
+- Futures Prime: single-phase eval per
+  https://holaprime.com/futures/futures-trading-rules/ (targets/drawdown/
+  contract limits on card). Futures Direct: no eval, funded day one.
+  Futures Simplified + Step-into-Futures: onboarding-lite rails for new
+  futures traders (rules on their pages). Data fees + contract limits +
+  session rules confirmed at checkout.
+--- 5F. FUNDED (ALL) ---
+- No profit target to stay funded. Split chosen by PAYOUT SPEED:
+  On-Demand/Weekly 65-80% vs Bi-Weekly 80% vs Monthly 95% (+20% fee).
+  Min payout $50 (trader share). First payout ~7 days (day 5 funded
+  per audit flow). 2% idea rule + ~35% consistency gate on select plans.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME CHALLENGE FEES (upfront purchase, not subscription):
+Flagship 1-Step Prime ladder (BrokerAnalysis Aug-2026): 5K $49 | 10K $89 |
+  25K $215 | 50K $329 | 100K $579 | 200K $1,049 | 300K $1,599.
+Audit matrix (Proptradercheck Jul-2026): 5K $48 | 50K $274 | 100K $499 |
+  200K $923 | 300K $1,499 (Instant/Direct from $129 at 5K).
+2-Step Pro/Prime priced slightly differently per variant card; Monthly-95%
+  split choice adds 20% to the fee (homepage FAQ).
+Max allocation: $300K per account slab; up to $500K total (BrokerAnalysis);
+  audit scaling roadmap to $2M via Prime Circle ($100K->$200K->$400K->$2M).
+  Prime Circle Black Card gives extra 20% off.
+PROMO: WELCOME20 = 20% off (live Aug-2026). Rotating homepage offers.
+REFUND: 110% fee refund with the FIRST payout/withdrawal (audit headline:
+  "110 percent fee refund on the first withdrawal") — the most generous
+  refund in this batch. Confirm payout-eligibility conditions at checkout.
+PAYMENT RAILS: PayPal, BTC/ETH, G Pay, Apple Pay, Rise, Mastercard, AmEx,
+  Visa, Stripe, Neteller, Revolut Pay, CoinPayments, bank transfer, Skrill.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- SPLIT MENU (official homepage FAQ, verbatim logic): Bi-Weekly 80% /
+  Monthly 95% / Direct bi-weekly up to 90% / On-Demand 80%. Audit adds
+  Weekly 65% tier. Monthly-95% costs +20% fee. Choice = speed vs split.
+- SPEED: 1-hour payouts ("money in your hands within just one hour. Every
+  single time") via 10-Point Solid Payout System; audited average ~33 min;
+  "Fastest Payout Prop Firm – MEA 2026" award; Payout Junction + blockchain
+  rails; real-time payout data published.
+- First payout ~7 days (bi-weekly cycle needs 3 profitable days to qualify);
+  funded on-demand from day 5 per audit flow. Min payout $50 (trader share).
+- Methods: wire, crypto, Rise (audit: "Wire, Crypto, Rise"); no withdrawal
+  fee stated. Cap per cycle unspecified; cap per account to $4M (audit).
+- Scaling: Forex Scaling Plan
+  (https://holaprime.com/forex/scaling/) + Prime Circle inner circle
+  ($2M capital track, Black Card, extra 20% off). Roadmap $100K->$2M max.
+- Refund: 110% of fee with first payout (see Section 6).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: Risk & Compliance + Trading Objectives + FAQ rulebooks.
+BANNED (trade removal, disqualification, reward forfeiture or termination):
+1. Account sharing / third-party trading; only purchaser may trade.
+2. Copy trading EXCEPT between your own Hola Prime Sim-Funded accounts
+   (homepage FAQ allows own-account copying only).
+3. Exploiting errors: price-feed errors, stale/slow feeds, latency arbitrage.
+4. Coordinated manipulation incl. hedging across connected accounts/other
+   firms/other people; one-account opposite positions permitted.
+5. Unfair-tech edge: HFT/latency/mass-order gaming tools.
+6. Breaching the 2% max risk-per-trade-idea rule (stacked exposure per
+   symbol/correlated basket counts as one idea).
+7. Consistency-gate circumvention (spreading one idea across days to dodge
+   the ~30-35% gate).
+ALLOWED: EAs/bots; news trading (Prime unrestricted); weekend holding
+(Prime). Permissions never override daily/max-loss hard lines.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Global brand (Hong Kong -> London presence claimed).
+- USA: served via Gooey Trade/GT Tech rails for DXtrade/Match-Trader;
+  MT4/MT5 via Mauritius entity. UK/EU: served.
+- HARD BANS (official footer disclosure): Afghanistan, Belarus, Burundi,
+  China, Cuba, Congo, Sudan, Sri Lanka, North Korea (DPRK), Yemen. List can
+  expand — check Terms before purchase. "This is the only website for Hola
+  Prime. We are not using any third party websites or links" (anti-phishing).
+- KYC: ID + liveness/contract after passing eval, before Sim-Funded
+  credentials; beneficiary must match KYC. Min payout $50.
+- VPN/VPS allowed; logins must be yours. Only https://holaprime.com/ is
+  official — never pay via third-party links.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/holaprime.com: 4.5/5,
+  ~3,491 reviews (Aug-2026 read) / 3,537 (PropFirmMap Sep-2026); 1,000-review
+  milestone blog Apr-2026. Themes: "fast payouts, clear rules, real support",
+  "quickest prop to payout ... under 10 minutes", sub-12h payouts. One
+  1-star payout-rejection thread (Aug-2026, risk-dept email) — isolated, firm
+  replies to reviews.
+- PropFirmMap: Grade B+, 4.5 stars (Sep-2026).
+- BrokerAnalysis: 7.8/10 (Rules 7.5, Pricing 9.8, Payouts 10.0, Platforms
+  10.0, Education 7.0, Trust 7.9). Verdict: speed + split menu stand out;
+  youth + Dubai jurisdiction + 30% consistency cited as watch items.
+- Proptradercheck: 6 audited variants (Jul-2026); strengths "110% refund,
+  <12h payouts, 95% tier"; weakness "30% consistency, very young firm".
+- Sentiment (positive): 1-hour/33-min payouts, 110% refund, split menu
+  choice, 6-platform stack, Prime Academy 1-on-1 coaching, 25K+ Discord.
+- Complaints: 2% idea rule tight for scalpers; monthly-95% +20% fee;
+  young-firm counterparty risk; footer entity complexity (HK/Cyprus/
+  Mauritius/USA) confuses beginners.
+- Red flags: NONE regulatory (FSC Mauritius licence verified GB24203729;
+  no warning-list hit). Watch: firm age <3 years; always withdraw early.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: the speed leader (1-hour/33-min payouts, MEA 2026 award) with
+the richest refund (110%) and a split MENU (not a fixed split) — unique in
+this batch. 6-platform stack is widest here. Youth (<3 yrs) is the main
+discount vs 8-13-year rivals.
+PRIME X VS PRO: Prime X removes the daily Risk Rule (same 10% max) — for
+traders who hate daily stops. Pro gives 100:1 leverage for momentum traders;
+Prime gives 50:1 + news/weekend freedom for controlled traders.
+PAYOUT MENU: need cash fast -> On-Demand/Bi-Weekly 80%. Can wait a month ->
+Monthly 95% (+20% fee). Math: monthly wins only if profit >> fee uplift.
+FOREX VS FUTURES: forex = leverage + 24/5 markets; futures = exchange
+contracts + data fees. Direct (either) skips evaluation for experienced
+traders.
+BEST FIT: payout-speed-sensitive traders; split optimizers; 6-platform
+traders; news/weekend (Prime) traders; coached beginners (Prime Academy);
+futures + forex under one brand.
+BAD FIT: traders needing >$300K single slab; 2%-idea-rule breakers; HFT/
+latency styles; banned-country residents; traders uncomfortable with young
+firms or multi-entity footers.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Hola Prime programs, fees, targets, drawdowns, splits,
+payouts, entities, bans and prohibitions above were read from the 13 official
+URLs in Section 2 on 2026-09-08, cross-checked against the 5 aggregator
+sources. Promos (WELCOME20) rotate — re-check pricing anchors before
+purchase. All challenge/funded accounts are simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Forex + Futures + Direct triple coverage, split menu,
+110% refund, 2% idea rule, Prime X no-risk-rule, entity/ban disclosures.
+RAW EXCERPTS (official wording, verbatim):
+[1] Mission: "We're not just another prop firm. We're traders first, and we
+built Hola Prime from the ground up to solve the problems we faced ourselves
+- access to real capital, the freedom to trade our way, 1-hour payouts, and
+the transparency we always wished existed."
+[2] Payout promise: "With our 10-Point Solid Payout System, your money is in
+your hands within just one hour. Every single time."
+[3] Split menu: "Bi-Weekly: 80% split / Monthly: 95% split / Direct Plan:
+Bi-Weekly, up to 90% split / On-Demand payouts: 80% Profit split".
+[4] Pro vs Prime: "Pro Accounts: Higher leverage (100:1) ... Prime Accounts:
+Moderate leverage (50:1) ... Also, Prime accounts allows weekend holding and
+news trading without any restrictions."
+[5] Copy: "Is copy trading allowed? Yes, but only between your own Hola
+Prime (Sim. Funded) Account".
+[6] Banner: "2-Step PRIME X | No Risk Rule and 10% Max Loss Limit".
+[7] Entities: "Hola Prime Limited Cyprus ... HE 454359, is a wholly owned
+subsidiary of Hola Prime Limited, Hong Kong" / "Hola Prime Ltd Mauritius ...
+220248 ... authorized and regulated by the FSC of Mauritius ... GB24203729"
+/ "Gooey Trade, GT Tech LLC, 6800 Broken Sound Parkway NW, Suite 150, Boca
+Raton, FL 33487, United States."
+[8] Pass rate: "The customer pass rate of the Challenge/Evaluation program
+was 35% between 10th November, 2024 – 29th May, 2025, who traded at least
+one evaluation and obtained a Hola Prime (Sim. Funded) Account".
+[9] Bans: "Hola Prime does not provide services to the residents of certain
+countries including – Afghanistan, Belarus, Burundi, China, Cuba, Congo,
+Sudan, Sri Lanka, North Korea (Democratic People's Republic of Korea)
+and Yemen."
+[10] Sim disclaimer: "Hola Prime only provides services of simulated trading
+and educational tools for skill assessment ... Hola Prime does not act as a
+broker and does not accept any deposits."
+[11] Audit (Proptradercheck Jul-2026): "pricing tracked from $48 (5K) to
+$1,499 (300K), with splits of 65–95% by payout frequency and first payout
+after 7 days" / "110% fee refund on the first withdrawal".
+[12] Review (BrokerAnalysis Aug-2026): "1-step challenges starting from $49
+... 80% on the On-Demand and Bi-Weekly cycles; 95% only on the Monthly cycle,
+which adds 20% to the fee ... up to $300,000 ... average reward processing
+time of roughly one hour".
+================================================================================
+END OF FILE — HOLA PRIME COMPLETE. Next firm is a separate task (not started).
+================================================================================

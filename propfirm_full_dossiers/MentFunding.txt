@@ -1,0 +1,304 @@
+================================================================================
+MENT FUNDING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/MentFunding.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Ment Funding pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against
+third-party reviews. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Ment Funding (affiliated with MentFX trading education).
+- Founded: 2021 (funding traders since 2021; 5-year anniversary edition
+  competition 2026). Founder/CEO: Anton Calmes (also runs mentfx.com).
+- Headquarters: Pennsylvania, USA (reviewers); registered as Ment Funding
+  LLC in Texas, affiliated with Prop Account LLC (per PropFirmPal).
+- Broker infra: ThinkMarkets partnership (reviewer-cited); raw-spread
+  aggregated liquidity, majors from 0.1 pips.
+- Contact: Discord (CEO active; issues resolved in hours per reviewers),
+  Instagram @mentfunding, X @mentfunding, YouTube @mentfunding, dashboard
+  support; NO website live chat (Discord-based support).
+- What it is: multi-asset (Forex CFDs + Futures + Equities) 1-step
+  evaluation prop firm. Evaluation accounts simulated; funded accounts
+  described as LIVE capital (differs from sim-only peers).
+- Scale/claims: "Not a single refused payout since 2021." Trustpilot
+  4.8/5 (229 reviews) displayed on homepage. East-vs-West $3M prize-pool
+  free competition (skill-weighted, multi-accounts = permanent ban).
+- Promo at fetch: 25% off all accounts, code MENTSIDE (ended Sep 7).
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://mentfunding.com (homepage: Forex/Futures/Equities tabs, account
+    ladder $25K-$5M, full 12-point Forex rules, 12-point Futures rules,
+    14-point Equities rules, scaling ladder, Trustpilot badge, competition)
+ 2. https://mentfunding.com/affiliates/ (Affiliates page)
+ 3. https://dashboard.mentfunding.com/ (Dashboard / order-challenge checkout)
+ 4. https://dashboard.mentfunding.com/public-competitions/ (Competition page)
+ 5. https://mentfunding.com/contact/ (Press kit / contact page)
+ 6. https://mentfunding.com/terms-of-service.html (Terms of Service)
+ 7. https://mentfunding.com/privacy-policy.html (Privacy Policy)
+ 8. https://mentfunding.com/risk-disclaimer.html (Risk Disclaimer)
+ 9. https://mentfunding.com/refund-policy.html (Refund Policy)
+10. https://mentfunding.com/cookie-policy.html (Cookie Policy)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+11. TheTrustedProp Ment Funding review Aug 2026 (pricing, trailing-DD explainer,
+    25% futures consistency, payouts via Riseworks/Columis, TRUSTED 5% code)
+12. MyPropGenius Ment Funding review 2026-07-14 (4.5/5; 6-tier product, $7/lot
+    commission, 33% consistency, on-demand first payout, $5M scaling)
+TOTAL SOURCES: 12 (10 official + 2 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS: MT5 + Match-Trader (BrokerAnalysis 2026-08-29); cTrader, DXtrade,
+Match Trader cited across reviewers. TradingView integration varies.
+FOREX INSTRUMENTS: Forex pairs, metals, indices, oil, crypto CFDs. Raw
+spreads via aggregated LPs (0.1 pips majors). Commissions: $7 round-trip per
+lot forex/metals; $0 round-trip commodities + indices (homepage pricing tile).
+FUTURES INSTRUMENTS: full CME suite — index, currency, energy, metal,
+agricultural futures, majors + micros incl. micro crypto. FRONT-MONTH
+contracts only (no out-months). Size capped by balance + exchange margin.
+EQUITIES INSTRUMENTS: S&P 100 names only. 2:1 buying power. Short selling
+allowed (overnight borrow cost). No pre-market/after-hours; no holding
+through corporate actions (earnings/dividends/splits/mergers = hard breach).
+LEVERAGE (official): forex + metals up to 1:20; indices up to 1:10; oil up
+to 1:5; crypto up to 1:2 ("may be lower depending on market conditions").
+Futures: exchange margin governs. Equities: 2:1 fixed.
+SESSIONS: Forex positions close Fri 3:45 PM EST unless weekend-hold add-on;
+Futures Globex 17:00 CST-15:55 CST auto-close, no weekend holds; Equities
+cash session 09:30-15:55 ET, flatten by 15:55.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program            | Steps | Sizes              | Target          | Daily loss | Max loss     | Split      | Payouts        |
+|---|--------------------|-------|--------------------|-----------------|------------|--------------|------------|----------------|
+| 1 | Forex 1-Step       | 1     | $25K-$1M (+$2M*)   | 10%             | 5%         | 6% static    | 75% (90%+) | 1st on-demand, then /30d |
+| 2 | Futures 1-Step     | 1     | $25K-$400K         | 10%             | 3%         | 6% static    | 75% (90%+) | 1st w/ target+cons., then /30d |
+| 3 | Equities Static    | 1     | $5K-$100K          | 15%             | 2%*        | 6% static    | 80% (90%+) | 1st @14d, then /14d, $100 min |
+| 4 | Equities Trailing  | 1     | $5K-$100K          | 10%             | 3%*        | 6% trailing  | 80% (90%+) | same as Static |
+Notes:
+- (* $2M Forex tier: 35% consistency + 2.5% daily profit cap; not scalable;
+  only direct sizes up to $1M qualify for scaling; cap $5M.)
+- (* Equities daily: 2% Static / 3% Trailing, trailing intraday vs
+  high-water mark; 3% daily PROFIT cap = soft pause, not fail.)
+- Forex funded >$1M: 35% consistency before withdrawal.
+- Futures eval window: max 90 calendar days from first trade (365-day add-on
+  on $400K); funded = no time limit. Forex/Equities evals: NO time limit.
+- No minimum trading days anywhere. Forex/Futures funded: no profit target.
+- Scaling is account-DOUBLING to $5M (see Section 7), separate per market.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. FOREX 1-STEP ---
+- Target 10% of start, one phase, no verification. ($100K: +$10,000.)
+- Max loss 6% STATIC (fixed 6% below start; never trails; LOCKS at starting
+  balance after first payout). Hard breach if exceeded.
+- Daily loss 5% of PREVIOUS-day balance, reset 5 PM EST; compounds upward
+  with balance (prior-day basis). Hard breach. (Official example: prior EOD
+  $100,000 => breach if equity touches $95,000 intraday.)
+- Consistency: NONE on $25K-$1M (free trading). Funded >$1M: 35% rule.
+- No daily profit cap (except $2M tier: 2.5%/day cap, excess doesn't count).
+- News: cannot OPEN within 3 min before/after high-impact events; HOLDING
+  through is fine.
+- Weekend: close by Fri 3:45 PM EST or buy weekend-hold add-on at checkout.
+- EAs/hedging/scalping: ALL permitted, any strategy.
+- Inactivity: 30 days no trades = breach. Split 75% (90% add-on).
+--- 5B. FUTURES 1-STEP ---
+- Target 10% + 33% CONSISTENCY (no single day >33% of total profit; eval AND
+  before each payout => target built across >=3 days). 90-day window.
+- Max loss 6% static (locks at start on first withdrawal). Daily 3% of prior
+  close, 5 PM EST recalc. Hard breaches.
+- Front-month only. Full CME suite. News trading ALLOWED (manage own risk).
+  Globex hours only; no weekend holds. 30-day activity rule.
+- Platform/data fee: $52/month on funded (per TheTrustedProp).
+- Split 75% (90% add-on). Payouts every 30 days after qualifying first.
+--- 5C. EQUITIES (STATIC vs TRAILING) ---
+- Targets: 15% Static / 10% Trailing, one phase, no time limit.
+- Max loss 6% both; Static fixed, Trailing follows closed balance to +6%
+  then locks at start.
+- Daily loss 2% Static / 3% Trailing (intraday high-water trailing). Hard.
+- 3% daily PROFIT cap: hit +3% => positions close, account pauses to next
+  session (SOFT, not fail).
+- 33% consistency: Static = eval + funded; Trailing = eval only.
+- THREE profitable days >=0.5% each (eval AND funded) before payout.
+- 1-minute minimum hold (faster = profit forfeited on that trade).
+- Cash session 09:30-15:55 ET; S&P 100 only; swing (overnight/weekend) OK;
+  no holding through corporate actions. 30-day activity rule.
+- Split 80% (90% add-on ~+15% fee). Payouts: first after 14 days, then /14d,
+  $100 min.
+--- 5D. WORKED EXAMPLE (FOREX $100K, 75% split) ---
+- Grow $100,000 -> $120,000, request $16,000 withdrawal: receive $12,000
+  (90% add-on: $14,400). Balance drops to $104,000; max DD LOCKS at $100,000
+  => $4,000 room left. Full withdrawal to the lock line = forfeit account;
+  always keep a cushion.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+FOREX 1-STEP ONE-TIME FEES (BrokerAnalysis 2026-08-29; homepage $1M static
+card $9,750 shown, $8,600 crossed):
+$25K $325 | $50K $585 | $100K $1,105 | $200K $2,145 | $400K $4,225 |
+$1M $9,750 | $2M $21,000.
+(Older reviewer tiles: $25K $250 / $50K $325+ / $100K $750-$975 — promos move;
+homepage MENTSIDE 25% off ended Sep 7; TRUSTED 5% code per TTP.)
+FUTURES 1-STEP: from ~$900 at $100K (per TTP: "$900 minimum for futures");
+$52/mo platform+data fee on funded; 365-day window add-on on $400K.
+EQUITIES: $5K-$100K Static/Trailing (verify live checkout); 90% split add-on
+~+15% fee.
+ADD-ONS: 90% split upgrade (+~20% fee Forex / ~15% Equities); weekend-hold
+(Forex); 365-day window ($400K Futures).
+REFUND: evaluation fees NOT refunded on breach (one-time per attempt; fresh
+attempt = fresh fee). Refund Policy page governs; no pass-refund published.
+PAYMENT: credit/debit card, crypto, PayPal (reviewers).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Splits: Forex/Futures 75% default, 90% add-on; Equities 80% default, 90%
+  add-on. Firm withdraws its share simultaneously on approval.
+- First payout: Forex = ANYTIME from day 1 (no min days/profit gate except
+  >$1M 35% rule). Futures = once target + 33% consistency met. Equities =
+  after 14 days + 3x0.5% days + consistency.
+- Cadence: Forex/Futures every 30 days thereafter; Equities every 14 days
+  ($100 min).
+- Methods/time: bank via Riseworks (email link) + crypto wallet via Columis
+  (direct). Typically ~24h, up to 48 business hours in demand. Same-day and
+  <$6K-USDT/<24h cases on Trustpilot.
+- DD-lock warning: post-withdrawal balance near the locked line = thin room;
+  full withdrawal = forfeited account (Section 5D math).
+- SCALING (account doubling to $5M, per market): (1) first withdrawal done;
+  (2) any rolling 6 months with 3 months >+2% (non-consecutive OK); (3) total
+  profits (current + past payouts) >=10% of start. Then: split paid, account
+  closes, NEW account opens at 2X. Cap $5M; only <=$1M direct sizes qualify
+  ($2M tier excluded). Merging same-size funded accounts case-by-case.
+- Claims: zero refused payouts since 2021 (homepage).
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official + reviewer-noted)
+================================================================================
+1. News open-blackout (Forex): no NEW positions 3 min before to 3 min after
+   high-impact events (Forex Factory red); managing open trades OK. (Futures:
+   news allowed.)
+2. Weekend: Forex flat by Fri 3:45 PM EST w/o add-on (auto-close = soft
+   breach); Futures no weekend holds; Equities swing OK.
+3. Strategy-switching between eval and funded: prohibited (primary approach
+   must persist).
+4. Martingale / averaging-down: banned. All-in / gambling / high-risk
+   overlap: banned.
+5. Latency/pricing exploits, insider/front-running: banned.
+6. Off-the-shelf pass-challenge EAs/bots: banned (custom EAs/scripts OK).
+7. Copy trading (EA/manual/group): banned.
+8. Equities: sub-1-minute holds forfeit profit; holding through corporate
+   actions = hard breach; non-S&P-100 names banned.
+9. Futures: out-month contracts banned.
+10. Competition: multi-accounts = permanent Ment-wide ban.
+11. Inactivity 30 days = breach (all programs).
+Consequences: hard breach = account ends (gains paid per PropFirmPal "gains
+paid on hard breach" flag — confirm T&Cs); soft breach (Friday close, 3%
+equity cap) = continue.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- US firm (founder PA/USA); US traders accepted.
+- Published ban list: "Due to regulatory requirements, we are unable to
+  accept traders from the following countries:" (live list on checkout/help
+  — verify at purchase; country eligibility decided at KYC per reviewers).
+- Age 18+. Individuals; KYC + contractual steps after passing before live
+  allocation.
+- VPN/VPS: jurisdiction evasion not permitted; confirm T&Cs.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- REVIEW 1 — TheTrustedProp (Aug 2026, TTP 8.0, users 8.7/10): one-step/no-
+  time/live-funding simplicity praised; payouts real (same-day bank, <$6K
+  USDT <24h cases); flags premium pricing (~2x FTMO), tight trailing 6%,
+  3% futures daily, Discord-only support, $52/mo futures fee, 25% futures
+  consistency. Code TRUSTED 5%.
+- REVIEW 2 — MyPropGenius (2026-07-14, 4.5/5 top-tier w/ FTMO/Alpha/Aqua):
+  narrow single-product clarity; live funded; on-demand first payout;
+  $5M scaling + merges; BUT 1:20/1:5 leverage tight, $7/lot forex commission
+  hurts scalpers, $2M 2.5% cap + 35% rule. Fee-to-target 5% at $100K.
+- Extra: Trustpilot 4.8-4.9/5 (228-229 reviews) homepage badge; PropFirmSwitch
+  (PA/USA, $5M cap, 30-day cadence); PropFirmPal (Ment LLC Texas, ThinkMarkets,
+  PayPal+crypto, gains-paid-on-breach flag); PropFirmPickr 3.9/5 (3.6-star
+  community, PICKR 20% off).
+- Sentiment: positive on simplicity, live capital, CEO engagement, zero-
+  denial claim; negative on price + tight trailing + news/Friday mechanics.
+- Red flags: NONE regulatory/payout-scam; watch = trailing-DD comprehension
+  + $2M-tier caps + checkout ban-list check.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: only 1-step + live-funded + $5M-doubling + on-demand first
+payout combo in class. Pricier than FTMO (~2x at $100K) but simpler (no P2,
+no min days). Trailing 6% tighter than FTMO static 10%; leverage 1:20 vs
+1:100 rivals; $7/lot forex commission vs $0 index.
+FOREX VS FUTURES: Forex = 5% daily, no consistency (to $1M), news blackout,
+weekend add-on. Futures = 3% daily + 33% consistency + 90-day window + $52/mo
+but news-free + full CME suite. Volatility-tolerant news traders -> Futures;
+set-and-hold FX discretionary -> Forex.
+EQUITIES: only S&P-100 1-step equities in set (15%/10% targets, 3%/day caps,
+1-min holds, 14-day cycle) — niche for US stock traders.
+BEST FIT: disciplined discretionary FX/futures/equity traders; time-flexible
+passers; scalers chasing $5M; EA/hedge users (custom); Trustpilot-sensitive
+buyers.
+BAD FIT: leverage-hungry (1:100) traders; high-frequency scalpers ($7/lot);
+$2M one-shot gamblers (2.5% cap); live-chat-only support demanders; banned-
+country residents; weekend-hold refusers (without add-on).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: Forex/Futures/Equities 12/12/14-point rule blocks, ladder,
+scaling conditions, withdrawal math, leverage, competition and legal pages
+were read live from mentfunding.com on 2026-09-08. Pricing cross-checked
+vs BrokerAnalysis ($325-$21,000 ladder, 2026-08-29) + TTP + MyPropGenius;
+promos rotate — re-check checkout before purchase.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 3-program rule blocks, $5M doubling, DD-lock math.
+RAW EXCERPTS (official wording, verbatim):
+[1] Claim: "Not a single refused payout since 2021."
+[2] Forex: "One-step evaluation. Hit 10% profit on the starting balance,
+respect drawdown limits — you're funded. No second phase."
+[3] Static: "6% static drawdown. Max loss is fixed at 6% below the starting
+balance and doesn't trail with profits. After your first payout it locks at
+the starting balance. Hard breach if exceeded."
+[4] Daily: "5% daily loss limit... calculated using the previous day balance
+which resets at 5 PM EST... if your prior day's end of day balance (5pm EST)
+was $100,000, your account would violate the daily stop loss limit if your
+equity reached $95,000 during the day."
+[5] Split: "75% profit split. Default split. 90% available as a checkout
+add-on on any account. First payout from day 1."
+[6] Caps: "No daily profit cap... except the $2M tier, which carries a 2.5%
+daily cap." / "No consistency rule. None on $25K to $1M accounts."
+[7] News/weekend: "You can't open a position within 3 minutes before and
+after a news event, but holding one through is fine. Positions close by 3:45
+PM EST Friday, or hold them through the weekend with a checkout add-on."
+[8] Withdrawal: "Your first withdrawal can be requested at any time.
+Thereafter, you can withdraw the gains in your account every 30 days. When a
+withdrawal is approved, we also withdraw our share of the gains, and your Max
+Drawdown locks in at your starting balance... Take a full withdrawal and your
+balance sits on the Max Drawdown line and forfeits the account."
+[9] Futures consistency: "33% consistency rule. No single trading day can be
+more than 33% of your total profit. Applies on every account size, in the
+evaluation and before each payout."
+[10] Futures window: "The evaluation runs a maximum of 90 calendar days from
+your first trade... Once you're funded the timer is gone."
+[11] Scaling: "Once funded, your account closes and reopens at double the
+size when three conditions are met: 1 First withdrawal completed... 2 In any
+rolling 6 months, 3 months with a gain above 2%... 3 Total profits (current +
+past payouts) reach 10% of the starting balance... Cap: $5M."
+[12] Equities: "3% daily profit cap. Stop for the day once you're up 3%."
+/ "One-minute minimum hold. Hold every position at least a minute."
+/ "Three profitable days. Book at least three separate days of 0.5% or more."
+================================================================================
+END OF FILE — MENT FUNDING COMPLETE. Next firm is a separate task (not started).
+================================================================================

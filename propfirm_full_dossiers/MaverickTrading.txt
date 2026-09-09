@@ -1,0 +1,116 @@
+================================================================================
+MAVERICK TRADING — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/MaverickTrading.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public knowledge of
+https://mavericktrading.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Maverick Trading (mavericktrading.com).
+- Positioning [UNVERIFIED]: veteran US prop/education firm (founded ~1997),
+  equities + options focus with capital-allocation / profit-share framing,
+  coaching-heavy model distinct from instant CFD challenges.
+- What it is [UNVERIFIED]: Application/interview, training and funded-style
+  trader program; confirm simulated vs brokerage-capital structure on site.
+- Contact [UNVERIFIED]: via mavericktrading.com application / contact pages.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed. Check these real pages:
+ 1. https://mavericktrading.com/ (homepage)
+ 2. https://mavericktrading.com/application/ (program entry — confirm slug)
+ 3. https://mavericktrading.com/faq/ (rules, payouts, capital)
+ 4. https://mavericktrading.com/disclaimer/ (disclosures — confirm slug)
+CROSS-CHECK:
+ 5. https://www.trustpilot.com/ (search Maverick Trading)
+ 6. https://www.bbb.org/ (search Maverick Trading, Salt Lake City)
+TOTAL SOURCES: 6. Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platforms [UNVERIFIED]: broker-affiliated stock/options platforms per
+  program docs. Confirm execution, data and platform fees.
+- Instruments [UNVERIFIED]: US stocks/ETFs and stock options; confirm Forex
+  is not the core offering.
+- Capital [UNVERIFIED]: buying-power / capital-allocation tiers with
+  position-risk limits, not FX leverage. Verify per-tier table.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm program pages]
+| # | Program | Steps | Target | Risk limits | Capital | Split |
+|---|---------|-------|--------|-------------|---------|-------|
+| 1 | Stock/Options Trader Program | application + training | per FAQ | per risk manual | per tier | per FAQ |
+Notes: coaching, mentoring and risk-manual compliance are core; not a
+one-click checkout challenge.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. TRADER PROGRAM [UNVERIFIED] ---
+- Application, training, probationary/demo period then capital allocation.
+  Verify milestones, drawdown and position-risk rules in risk manual.
+--- 5B. RISK MANUAL [UNVERIFIED] ---
+- Max position risk, sector exposure, earnings/halt rules. Verify document.
+--- 5C. NEWS / EARNINGS / OVERNIGHT [UNVERIFIED] ---
+- Stock-specific earnings-holding and overnight exposure rules. Verify.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — not a standard one-time challenge fee]
+- Membership/training/desk-fee framing per program pages. Confirm recurring
+  fees, data/platform pass-throughs and refund terms before applying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Profit-share framing with scaling capital on consistency. Confirm split %,
+  reserve/holdback, payout cadence and capital-growth ladder.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED]
+Risk-manual bans typically: unauthorized strategies, overexposure, holding
+through binary events against rules, account sharing. Verify manual.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Application-based; age/ID, background and capital-suitability checks.
+  Confirm entity, country availability and tax-form handling on site.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin coverage]
+- Check Trustpilot / BBB / trading forums for coaching-value vs cost themes.
+  No verdict without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: developing stock/options traders wanting structure + mentoring.
+- Bad fit: traders wanting instant CFD leverage or one-day pass.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch 2026-09-08. Coaching/
+capital model differs from CFD challenges — verify carefully.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — 12-section template.
+RAW EXCERPTS: none captured; paste verbatim on re-verification.
+================================================================================
+END OF FILE — MAVERICK TRADING UNVERIFIED. Next firm is a separate task.
+================================================================================

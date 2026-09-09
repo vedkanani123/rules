@@ -1,0 +1,296 @@
+================================================================================
+OrionFunded — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/OrionFunded.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Orion Funded pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Orion Funded (brand OrionFunded / OGM, site orionfunded.com).
+- Legal entity: Orion Global FZCO, Dubai UAE; related entities in Saint Lucia
+  and Hong Kong. Established 2023 (Jan 2023 per PropFirmMap).
+- Team: 100+ team members; real trading floor; head trading coach Carlos
+  Valverde (16+ years); leading prop firm across Spanish-speaking countries;
+  #1 trading podcast in Spanish; Orion Funded TV live every Wednesday 18:30 Spain.
+- Contact: live chat 24/7, email support, support centre support.orionfunded.com,
+  Discord 8000+ members (discord.com/invite/hfRRye4SuP), YouTube @OrionFunded /
+  @OrionFundedTV, Instagram @orionfundedcom, X @orionfundedcom, WhatsApp channel.
+- What it is: CFD simulated-evaluation prop firm. ALL accounts are DEMO accounts
+  with fictitious funds; trading is simulated. Funded traders receive real-money
+  performance Rewards (profit splits), not live capital.
+- Scale claimed on orionfunded.com: 100,000+ customers worldwide, $4M+ paid in
+  rewards, 160+ countries reached. Trader stories: Alex Ojea $72,914, Jean
+  Beltran $20,994, SR Machado $20,000, Javier Batista $15,087, Andres Genti
+  $13,500, Marco $12,000.
+- Awards: Best Prop Trading Firm of the Year 2024 + 2025 (FundedTrading awards);
+  Best Challenge Prop Trading Firm badge.
+- Trustpilot: 4.6/5 from 1,700+ reviews (1,725 PropFirmMap Aug 2026; 1,392-1,384
+  Trustpilot reads). Replied to 99% of negatives. PropFirmMap Safety Grade B+,
+  PFM Score 6.9.
+- Key distinction: FIVE NewGen V3 programs (Zero instant, Nova pay-after-pass,
+  Lite 1-step, Standard 2-step, Select 3-step) plus Swing variant. Shared-cost
+  model: pay 50% upfront, 50% on funded activation (evals). 48h Reward Guarantee
+  with real penalty. Max allocation $400K standard, $4M via scaling.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://orionfunded.com (homepage: V3, 100K+/ $4M+ stats, 5 programs,
+    48h guarantee, Standard/Swing, dashboard preview, stories)
+ 2. https://orionfunded.com/0-step-orion-challenge (Orion Zero instant)
+ 3. https://orionfunded.com/orion-nova (Orion Nova pay-after-pass)
+ 4. https://orionfunded.com/2-step-orion-challenge (Orion Standard 2-step)
+ 5. https://orionfunded.com/3-step-orion-challenge (Orion Select 3-step)
+ 6. https://orionfunded.com/faq (FAQ: demo disclaimer, rules, payouts)
+ 7. https://orionfunded.com/terms-and-conditions (binding terms)
+ 8. https://orionfunded.com/privacy-policy (privacy)
+ 9. https://orionfunded.com/contact (contact)
+10. https://app.orionfunded.com/checkout (checkout: Standard/Swing, USD/EUR,
+    Select $100K $409, promos NEW50/DRIFT/V3, Buy-2-Get-3)
+11. https://support.orionfunded.com (support centre)
+12. https://blog.orionfunded.com/ (blog / Orion TV)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. FundedTrading Orion review Jul 2026 (pricing, 48h guarantee, 4.6 Trustpilot)
+14. PropFirmMap Orion review Aug 2026 + firm page (29 challenges table, B+ grade)
+15. PropFirmReviews.net Orion review Jul 2026 (7.3/10, no-consistency + interview notes)
+16. Propvator payout methods Jul 2026 (Rise/crypto, 14-day cycle)
+17. VettedPropFirms Orion review May 2026 (payout speed summary)
+18. Trustpilot https://www.trustpilot.com/review/orionfunded.com (4.6, 1,700+ reviews)
+TOTAL SOURCES: 18 (12 official + 6 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase):
+- MetaTrader 5 (MT5) — desktop/mobile/web, EA support (MQL5).
+- MatchTrader (Match-Trader) — web intuitive, advanced charts, fast execution.
+- V3 dashboard: portfolio view, wallet + Orion Score, real-time metrics, journal,
+  analytics, economic calendar, alerts, certificates, leaderboard, affiliate tools.
+- NO MT4, NO cTrader, NO DXtrade, NO TradingView. MT4 EA holders must migrate.
+INSTRUMENTS: Forex, Indices, Metals, Commodities/Energies, Stocks, Crypto
+(count not publicly disclosed). Simulated feed; weekend/overnight holding
+allowed on ALL programs without add-ons.
+LEVERAGE: Up to 1:100 (checkout + aggregators). Per-symbol lower on stocks/crypto.
+COMMISSIONS/SPREADS: Raw spreads claimed lowest-tried; tight spreads + fast
+execution praised; some reviews note spread widening + stop-slippage beyond set
+stop (volatility explanation disputed by one reviewer). Commissions/spreads/swaps
+COUNT toward daily/max loss (equity-based).
+TV/EDUCATION: Orion Funded TV live sessions, journaling calendar, position-size
+calculator, account dashboard included.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program         | Steps | Sizes      | Target          | Daily loss | Max loss          | Period    | Split | Fee model              |
+|---|-----------------|-------|------------|-----------------|------------|-------------------|-----------|-------|------------------------|
+| 1 | Orion Lite      | 1     | 5K-200K    | 10%             | 6%         | 3% total          | Unlimited | 80%   | one-time $39-$799      |
+| 2 | Orion Standard  | 2     | 5K-200K    | 6% + 6%         | 3%         | 6% static         | Unlimited | 80%   | 50/50 split $49-$1,149 |
+| 2a| Orion Swing     | 2     | 5K-200K    | 8% + 5%         | 3%         | 8% static         | Unlimited | 80%   | same as Standard       |
+| 3 | Orion Select    | 3     | 5K-200K    | 5%+5%+5%        | 5%         | 5% total          | Unlimited | 80%   | one-time $59-$739      |
+| 4 | Orion Nova      | 1     | 5K-200K    | 4%              | none publ. | 8% total (trailing lock) | Unlimited | 80% | $7 start + balance after pass ($69-$1,099 total) |
+| 5 | Orion Zero      | 0     | 5K-100K    | none            | 3%         | 6% trailing lock  | Unlimited | 80%   | flat $199-$1,149       |
+Notes:
+- Zero stops at $100K; others to $200K. Max allocation $400K standard, $4M scaled.
+- Shared-cost evals: pay 50% upfront, 50% activation after passing. Fail = lose
+  first half only. Zero = flat one-time, no second payment.
+- No minimum trading days on 2-step/3-step. No consistency rule per Jul-2026
+  review (older pages cited 30% single-day cap — treat as removed in V3; verify
+  dashboard before payout).
+- 3% risk-per-trade execution rule enforced (actual fill, not intended stop).
+- Funded = Orion Trader Account (demo) with no profit target, bi-weekly rewards.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ORION LITE (1-step) ---
+- Target 10% single phase, unlimited time. Daily 6%, total 3%. ($100K: +$10K,
+  $6K/day room, $3K total floor at $97,000.)
+- Tightest total-loss program — one bad day can end it. Best for quick-pass scalpers.
+- News allowed in eval; funded 2-min news window on Standard-type (see 5F).
+--- 5B. ORION STANDARD (2-step, most popular) ---
+- Targets 6% Phase 1 + 6% Phase 2. Daily 3% hard, total 6% STATIC (floor fixed
+  at start, e.g. $100K floor $94,000 forever). Unlimited time, no min days.
+- Standard vs Swing same price; Swing targets 8%+5% with NO news restrictions
+  on funded (news traders pick Swing).
+--- 5C. ORION SELECT (3-step, cheapest) ---
+- Targets 5% x3 phases. Daily 5%, total 5% symmetric. Mildest targets, strictest
+  total. $100K $409 cheapest $100K route. Unlimited, no min days.
+--- 5D. ORION NOVA (1-phase pay-after-pass) ---
+- Target single 4%, total 8% trailing-lock (floor rises with profits, locks at
+  funded start after first payout). No published daily limit. Start for $7
+  registration; balance due after passing ($69-$1,099 total). No time limit.
+  First 3% of funded profit is safety buffer (not withdrawable).
+--- 5E. ORION ZERO (instant, no eval) ---
+- No target. Daily 3%, total 6% trailing-lock from day one. No eval; start funded
+  immediately. First 3% buffer reserved. News trades opened/closed within 5 min
+  of high-impact event rewarded at 50% split (vs 80%).
+--- 5F. SHARED RULES (all models) ---
+- News: allowed in eval; funded Standard-type: 2-minute restriction window
+  around high-impact news (breach = reduced/eliminated reward). Swing: no restriction.
+- Weekend/overnight: allowed all programs, no add-on.
+- EAs: permitted all programs EXCL HFT/hedging/arbitrage algos. Copy trading
+  COMPLETELY prohibited (even own accounts per Jul-2026 review).
+- 3% max risk per trade (execution-based, slippage counts). Hedging/third-party
+  involvement = denial + video-interview verification on larger payouts.
+- Unlimited trading period. No profit target on funded.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (Aug-2026 PropFirmMap table, USD; EUR parity at checkout):
+LITE 1-step: 5K $39 | 10K $59 | 25K $129 | 50K $59 (promo) | 100K $449 | 200K $799.
+STANDARD 2-step: 5K $49 | 10K $99 | 25K $209 | 50K $329 | 100K $629 | 200K $1,149.
+SELECT 3-step: 5K $59 | 10K $89 | 25K $179 | 50K $299 | 100K $409 | 200K $739.
+NOVA 1-phase (total): 5K $69 | 10K $109 | 25K $209 | 50K $349 | 100K $669 |
+  200K $1,099 (start $7, balance after pass).
+ZERO instant: 5K $199 | 10K $349 | 25K $499 | 50K $799 | 100K $1,149 (no 200K).
+Shared-cost: evals pay 50% upfront + 50% activation on pass (e.g. Select $100K
+$205 + $204). Zero flat, no second payment.
+PROMOS: NEW50 (50% new users), V3 (30% most programs, excl Swing/Nova/Standard
+200K), DRIFT (Mustang experience draw), Buy-2-Get-3 summer bundle. USD/EUR selector.
+ADD-ONS: Swing vs Standard same price; no drawdown/split add-ons sold.
+REFUND: original program fee refunded AFTER 4TH successful withdrawal (not first).
+Failed evals: lose upfront half only (Nova/Nova-type); Zero non-refundable.
+Payment: cards, PayPal, crypto at checkout; no hidden platform fee.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 80% from FIRST eligible reward on ALL programs. Rises to 90% permanently
+  after scaling qualification. Guarantee-miss cycle pays 100% split. Zero news-
+  window trades pay 50% on that portion.
+- First payout: eligible as soon as in profit with no open positions (no initial
+  wait per Propvator); dashboard 14-day cycle; first window ~14 days. Video
+  interview may precede larger first payouts (manual-trading verification).
+- Frequency: bi-weekly (14 calendar days after each approved reward).
+- Methods: Credit/Debit Card, PayPal, Cryptocurrency; Rise + crypto typical.
+  No withdrawal fees by Orion; third-party transfer fees may apply.
+- Processing: 48-HOUR GUARANTEE — if missed, trader receives 100% split that
+  cycle + 100% fee refund. Average <5h; same-day/next-day confirmed in reviews.
+- Buffer: Zero/Nova first 3% funded profit reserved as safety buffer.
+- KYC required before first payout. Fee refund on 4th withdrawal.
+- SCALING (Lite/Standard/Select only, not Zero): in rolling 3-month cycle with
+  15% return, 2 of 3 months positive, 3 rewards completed => +25% balance and
+  80%->90% split permanently. Max $4M across accounts ($400K pre-scale path).
+- Maxima: $200K per account ($100K Zero); $400K combined standard; $4M scaled.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: FAQ + Terms + program pages + review-cited clauses.
+BANNED (breach = reward cut, suspension, termination):
+1. HFT / hedging / arbitrage algos (EAs otherwise allowed).
+2. Copy trading of ANY kind (including own accounts per current review).
+3. Third-party involvement: others trading your account / you trading others;
+   hedging across connected accounts/firms; mechanical-execution flags.
+4. Exceeding 3% risk per executed trade (slippage counts, not intended stop).
+5. Funded news-strategy abuse: opening/closing within 2 min (Standard-type) /
+   5 min (Zero) of high-impact news — reward halved or denied.
+6. Exploiting price/feed errors, latency arbitrage, server spamming.
+7. Account rolling / gambling / risk-free arbitrage.
+8. KYC fraud, chargebacks, multi-IP account sharing.
+RISK INTERVIEW: larger payouts may require video interview; vague
+non-authentic-execution findings can cut payout to 30-40% settlement.
+MID-EVAL CHANGES: past complaints of drawdown cuts (10%->8%) without notice —
+re-check program page + dashboard after purchase.
+Consequences ladder: reward reduction (50%/30%), settlement offer, suspension,
+termination of all agreements.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; entities contact support.
+- USA: check checkout (CFD Offering typically excludes US; confirm dashboard).
+- UK/EU/Australia/LatAm/Asia: served (160+ countries; Spanish-speaking focus).
+- Saint Lucia registration = limited regulatory oversight; UAE FZCO operating entity.
+- HARD BANS: sanctioned jurisdictions (Iran, Syria, North Korea, Cuba, Russia/
+  Belarus, occupied regions) + financial-crime convictions + previously banned.
+  Full list in Terms/FAQ; map governs and can change.
+- KYC: government ID + liveness before first payout; matching beneficiary for
+  card/PayPal/crypto; video risk interview on larger withdrawals.
+- VPN/VPS: allowed but multi-IP logins risk third-party flags — keep single IP.
+- Inactivity: confirm dashboard (unlimited period advertised; no min days 2/3-step).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/orionfunded.com: 4.6/5 from
+  1,700+ reviews (1,725 Aug 2026; 86% five-star, ~8% one-star). Replied to 99%
+  of negatives with rule-clause cites. Praise: fast withdrawals (<12h-72h),
+  clear rules, low spreads, professional multilingual support. Complaints: payout
+  denied over third-party/hedging claims, news-window denials, 3%-risk slippage
+  breaches, mid-eval drawdown cuts, stop-slippage/spread widening.
+- PropFirmMap: Safety B+, PFM Score 6.9, Payout Reliability B, bi-weekly.
+  $39 entry vs $40 CFD median; 80% split trails 90% typical.
+- FundedTrading: Best Prop Firm of Year 2024 + 2025; Pricing 8, Rules 8,
+  Platform 8.5, Payouts 8, Features 8.9.
+- PropFirmReviews.net: 7.3/10; no-consistency + 48h-guarantee praised; MT4 gap,
+  copy-ban, 4th-payout refund criticized.
+- VettedPropFirms: fast payout marketing + 4.6 social proof; warns rules differ
+  by program, 80% not top-tier.
+- Red flags: NONE systemic (no regulator action, no mass-termination cluster).
+  Watch items: Saint Lucia oversight; interview-gate on large payouts; rule-change
+  notice history; review base (1.7K) smaller than FTMO/FundingPips tens of thousands.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: only firm with 1/2/3-phase + instant + pay-after-pass under one
+roof at $100K $409-$1,149. 48h guarantee + penalty is rare (most firms promise
+speed without penalty). 80%-flat split simpler than tiered rivals but below
+90-95% top splits. $39 5K entry competitive. V3 dashboard (journal/analytics/
+calendar) replaces paid third-party tools.
+BEST FIT: choice-maximisers wanting drawdown-profile selection; Nova
+low-risk triers ($7 start); news/swing traders (Swing no-restriction); weekend
+holders; MT5-native EAs (non-HFT); Spanish-speaking community learners (TV +
+Discord); patient bi-weekly withdrawers.
+BAD FIT: MT4/cTrader/TradingView-locked; copy-traders (full ban); HFT/arbitrage/
+hedging styles; traders needing >$200K single account or >$400K pre-scale;
+anyone unwilling to do video KYC interview; US persons if checkout blocks.
+RULE OF THUMB: news-heavy => Swing; cheapest $100K => Select $409; try-before-
+commit => Nova $7; need-now => Zero (accept 50%-news haircut + 3% buffer).
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + 4 program pages + FAQ/terms/contact + checkout + support
++ blog read 2026-09-08; pricing cross-checked Aug-2026 PropFirmMap 29-challenge
+table + Jul-2026 FundedTrading/PropFirmReviews tables. Promos (NEW50/V3/DRIFT/
+3x2) rotate — re-check checkout before purchase. All accounts simulated/demo.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 5-program V3 table, 50/50 shared-cost, 48h-guarantee penalty,
+trailing-lock vs static split, 80->90% scaling.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Orion V3: The New Standard for Funded Traders."
+[2] Scale: "100,000+ Customers Worldwide" | "Established in 2023" |
+"100+ Team Members" | "$4M+ Paid in rewards" | "160+ Countries reached".
+[3] Path: "Complete the Trading Objectives and receive your Orion Funded Account"
+| "Balances up to $200k" | "Up to 1:100 Leverage" | "Bi-Weekly Payouts" |
+"$400k Max Allocation" | "Unlimited Trading Period" | "80% Reward Split" |
+"48h Guarantee" | "Average Processing time <5h".
+[4] Guarantee: "If we are late, you receive: 100% Reward Split / 100% Refund."
+[5] Programs: "Orion Zero, Lite, Standard/Swing & Select Programs" |
+"Standard & Swing accounts" | "No Eval / Instant Funding / Orion Zero" |
+"3-Step Evaluation / Orion Select" | "2-Step Evaluation / Orion Standard" |
+"Start for $7 / Pay After You Pass" (Nova).
+[6] Objectives (Select $100K): "Profit Target 5% | 5% | 5% | Daily Loss 5% |
+Max Loss 5% | Trading Period Unlimited | Reward 80%".
+[7] Terms carryover: "all accounts purchased prior to the Orion V2.2 update
+(up to March 22, 2026) remain governed by the terms and conditions in effect
+at the time of purchase."
+[8] Checkout: "One-time - Refundable - For New Users" | "Payment Currency USD/EUR".
+[9] Stories: "Verified Stories From Traders Who Trusted Orion And Got Rewarded."
+[10] Support: "24/7, Support Anytime" | "Live Chat 24/7 / Email Support" (20+ languages).
+[11] Entity: "Orion Global FZCO provides simulated trading services and
+educational tools for traders only." | "does not act as a broker and does not
+accept deposits."
+[12] Demo disclaimer: "Please note that all accounts we provide to our clients
+are demo accounts with fictitious funds and any trading is in a simulated
+environment only."
+================================================================================
+END OF FILE — OrionFunded COMPLETE. Next firm is a separate task (not started).
+================================================================================

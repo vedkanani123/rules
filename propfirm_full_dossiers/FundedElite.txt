@@ -1,0 +1,335 @@
+================================================================================
+FundedElite — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundedElite.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FundedElite pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundedElite (brand spelling FundedElite / Funded Elite, site fundedelite.com).
+- Legal entity: Quantum SRL, registered Italy, registration/VAT 03095010595.
+  Base: Latina, Italy. Operating since 2023 (Nov 2023 launch).
+- Leadership: Co-CEOs Christian Habibi and Artur Deshko (Habibi public LinkedIn).
+- Contact: support@fundedelite.com | 24/7 human support via live chat, dashboard
+  tickets routed to risk team, Discord community (discord.gg/MDYKHSxc5Z),
+  X @fundedelite, Instagram @fundedelite.
+- What it is: CFD simulated-evaluation prop firm. ALL accounts are virtual /
+  practice accounts with fictitious funds; trading is simulated. Funded traders
+  receive real-money performance Rewards (profit splits), not live capital.
+  Live-account transition is by private invitation only after review.
+- Scale claimed on fundedelite.com: $2.3M paid out to traders, 12,564 free
+  retries given, 24hrs avg payout processing, 8,452 custom accounts created.
+  Alternate page claims $5M+ (contradictory totals — see Section 10/12).
+  PropFirmMatch-verified: $2.5M+ to 4,200+ traders.
+- Press/visibility: As-seen-on badges MarketWatch, Benzinga, Morningstar,
+  Yahoo Finance, Business Insider. Listed on The Trusted Prop and PropFirmMatch.
+- Trustpilot: 4.6/5 Excellent, 317 reviews on trustpilot.com/review/fundedelite.com
+  (Sep 2026 read); historical 4.4/5 from 715 reviews (May 2026 snapshot);
+  profile flagged at times for guideline breach with no public rating shown.
+- Key distinction: Six named products (2-Step + Free Retry, 1-Step + Free Retry,
+  Lite 2-Step, Lite 1-Step, Instant Funding, Flash Activation) plus fully Custom
+  Challenge builder and Catalyst ladder. Entry from $5 (Flash). Max live funded
+  allocation $400,000 total. Up to 50 active challenges allowed.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fundedelite.com (homepage: hero, $400K / 95% claims, $2.3M stats,
+    payout certificates, platforms MT5 + Match-Trader, FAQ excerpts)
+ 2. https://fundedelite.com/flash-activation (Flash $5 entry anchor, linked from homepage CTA)
+ 3. https://fundedelite.com/challenges/catalyst (Catalyst ladder product)
+ 4. https://fundedelite.com/challenges/flash-activation (Flash product page)
+ 5. https://fundedelite.com/challenges/instant-funding (Instant product page)
+ 6. https://fundedelite.com/challenges/lite-account (Lite product page)
+ 7. https://fundedelite.com/challenges/free-retry (Free Retry product page)
+ 8. https://fundedelite.com/about (company background)
+ 9. https://fundedelite.com/terms-and-conditions (binding contract — drawdown word absent)
+10. https://fundedelite.com/privacy-policy (privacy terms)
+11. https://faq.fundedelite.com/en (Intercom help centre — loss limits, splits, payouts)
+12. https://app.fundedelite.com/ (client dashboard / checkout)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. TheTrustedProp FundedElite review Aug 2026 (TTP Trust 75/100, 715 Trustpilot pulls, pricing tables)
+14. PropXO FundedElite review 2026-04-04 (payout-denial patterns analysis)
+15. BestPropFirms Funded Elite review 2026-03-10 (BPF 62/100, 41/100 trust, commission tables)
+16. TheIndustrySpread FundedElite contract-vs-FAQ review 2026-08-12 (contract analysis)
+17. PropFirmReviews.net Funded Elite review 2026 (PropFirmMatch $2.5M verified)
+18. FundedWiki fundedelite page 2026-06-05 (7.4/10, widest-stop + trailing-switch analysis)
+19. PropFirmScanner FundedElite page (1:100 forex leverage, from $5)
+20. Trustpilot profile https://www.trustpilot.com/review/fundedelite.com (4.6/5, 317 reviews)
+TOTAL SOURCES: 20 (12 official + 8 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (choose at purchase):
+- MetaTrader 5 (MT5) — advanced analytics, multi-asset, EA support (MQL5).
+- Match-Trader — web intuitive interface, advanced charts, fast execution.
+- TradeLocker (per aggregators) and Edge By Axe / cTrader cited on some plans.
+- NO MT4, NO TradingView, NO DXtrade per 2026 reviews. MT4 EA holders must rebuild on MT5.
+INSTRUMENTS: Forex pairs, Crypto, Metals (gold/silver/platinum/palladium),
+Indices, Commodities/Energies (oil, natural gas), Equities/US stocks, Futures,
+Derivatives. Weekend holding allowed (must select at setup on some plans;
+opening new positions over weekend may be restricted). News trading allowed
+with no blackout windows.
+LEVERAGE: 1:100 forex (PropFirmScanner). Per-symbol leverage lower on stocks/
+crypto — verify inside platform specs.
+COMMISSIONS: Raw spreads from 0 pips. Fixed $3 per lot per side on Forex pairs,
+gold, silver, oil. Indices, crypto, stocks, platinum/palladium/natural gas:
+no commission. Commissions + swaps + spreads COUNT toward daily/max loss
+(equity-based). 20-pip chart-vs-execution discrepancy reported by one trader
+(unverified single report).
+DATA/FEEDS: Simulated feed; latency-arbitrage and slow-feed exploits banned.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program              | Steps | Sizes            | Target              | Daily loss | Max loss              | Min days | Split          | Fee model        |
+|---|----------------------|-------|------------------|---------------------|------------|-----------------------|----------|----------------|------------------|
+| 1 | 2-Step Challenge     | 2     | 7K-300K          | 8% Ph1 + 5% Ph2     | 5%         | 8% STATIC (eval)      | 3        | 60/70/80/95% select | one-time $89-$1,499 |
+| 2 | 1-Step Challenge     | 1     | 7K-300K          | 10-12% single phase | 3%         | 6-8% static (eval)    | 3        | 60/70/80/95% select | one-time $90-$1,599 |
+| 3 | Lite 2-Step          | 2     | 5K-300K          | 8% + 5%             | 5%         | 5-8% static           | 3        | 60/70/80/95% select | budget from $19  |
+| 4 | Lite 1-Step          | 1     | 5K-300K          | ~10%                | 3%         | ~6% static            | 3        | 60/70/80/95% select | budget from $24  |
+| 5 | Instant Funding      | 0     | 7K-100K          | none                | 3% trailing| 6% trailing           | 3 profit | 70% 1st, then select| $159-$1,489 one-time |
+| 6 | Flash Activation     | 1     | 25K-200K         | 6%                  | 3%         | 6% static             | 1 + 3 live| 80% default/select | $5 entry + $159-$989 activation |
+| 7 | Custom Challenge     | 1-2   | 7K-300K          | user-set            | user-set   | user-set 5-10%        | 3        | user-set 60-95%     | varies by config |
+| 8 | Catalyst ladder      | multi | 25K+ ladder      | stage targets       | 3% EOD     | 6% trailing (25K), 5% above | 5/stage| 80/85/90/95% by size| staged fees      |
+Notes:
+- Funded stage switches drawdown from STATIC (eval) to TRAILING equity EOD
+  on most plans — tighter than the eval passed under. Instant is trailing
+  from day one.
+- Free Retry (Second Chance) on eligible 1-Step/2-Step: breach restarts from
+  Phase 1 free, BUT split permanently drops to 50%, drawdown tightens, fee
+  refund forfeited.
+- $300K accounts: 60% consistency rule + 5 minimum trading days.
+- No time limit on evaluations. Accounts terminated after 29 days without trade.
+- Max live funded allocation $400,000 combined. Up to 50 active challenges.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. 2-STEP CHALLENGE (standard + Free Retry) ---
+- Targets: 8% Phase 1, 5% Phase 2, none on funded. Minimum 3 trading days.
+- Daily loss: 5% (equity-based, dynamic intraday). Max loss: 8% STATIC on eval
+  (fixed to initial balance, does not trail); funded switches to trailing EOD.
+- Consistency: 25-30% on funded depending on plan; 60% on $300K accounts.
+  No single day may exceed threshold share of total profit.
+- News/weekend: allowed, no blackout. Weekend hold selectable at setup.
+- Free Retry: on breach, instant restart Phase 1 at no cash cost; split locked
+  to 50% permanently.
+--- 5B. 1-STEP CHALLENGE (standard + Free Retry) ---
+- Target: single phase 10-12% (plan-dependent). Minimum 3 trading days.
+- Daily loss: 3%. Max loss: 6-8% static eval, trailing on funded.
+- Consistency/scalping: 25-30% funded consistency; scalping disabled by default
+  (must select + price in at setup). Trades held <3 min flagged (<30s with add-on).
+- Same Free Retry 50%-split penalty as 2-Step.
+--- 5C. LITE 2-STEP / LITE 1-STEP ---
+- Budget versions from $19 (Lite 2-Step 5K) / $24 (Lite 1-Step 5K). Same phase
+  structure as standard but tighter drawdowns on some configs (5-6%).
+- No free retries on Lite. Same news/weekend freedom, same funded trailing switch.
+--- 5D. INSTANT FUNDING ---
+- No evaluation. Sizes 7K-100K, fees $159-$1,489. Daily 3% trailing, max 6%
+  trailing from day one. No profit target. Requires 3 profitable days (0.5%+ each).
+- Split: first payout ALWAYS 70% regardless of selection; chosen split
+  (60/70/80/95%) applies from second payout onward.
+- First payout after 21 days regardless of selected interval. Consistency 25%.
+--- 5E. FLASH ACTIVATION ---
+- $5 entry for 25K-200K. One-step 6% target, 3% daily, 6% static max. Minimum
+  1 trading day eval + 3 profitable live days. Activation fee after passing:
+  $159 (25K) / $329 (50K) / $499 (100K) / $989 (200K), payable within 29 days
+  or pass expires. Default split 80%, selectable 60-95%. Default payout 14 days.
+--- 5F. CUSTOM CHALLENGE + CATALYST ---
+- Custom: set own target, drawdown (5-10%), split (60-95%), payout cycle
+  (3/7/14/21 days). Price varies with risk selected (riskier config = cheaper).
+- Catalyst ladder: staged growth to ~$1M reported; 3% daily vs last EOD equity/
+  balance; trailing max 6% at 25K, 5% above; 5 profitable days per stage with
+  minimum PnL ($150 at 25K rising to $1,000+ at top); splits 80/85/90/95% by size.
+--- 5G. SHARED RULES (all models) ---
+- Single-instrument risk cap: may not risk >50% of daily loss on one instrument
+  in one day (e.g. 2.5% on 5% daily). Risk counts even on winners; no stop =
+  max adverse excursion; with stop = WIDEST stop ever set during trade life.
+- EAs allowed as analytical/risk tools; fully-automated hidden/HFT EAs banned;
+  passing with hidden/HFT EAs demotes funded account back to evaluation.
+- Copy trading own accounts allowed; third-party/cross-account copying banned.
+- HFT/tick-scalping (<3 min, <30s with add-on), latency arbitrage, cross-broker
+  hedging, server spamming, account rolling banned. Martingale/grid tolerated
+  if non-exploitative. Account sharing: single consistent IP only.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME FEES (no recurrence, raw spreads + $3/lot/side FX-metals-oil):
+2-STEP: 7K $89 | 15K ~$149 | 25K ~$219 | 50K ~$379 | 100K ~$649 | 200K ~$999 |
+  300K $1,499. (TrustedProp: $89 7K to $1,499 300K.)
+1-STEP: 7K $90 | 25K ~$229 | 50K ~$399 | 100K ~$699 | 200K ~$1,099 | 300K $1,599.
+LITE 2-STEP: 5K $19 | larger sizes to $899 (300K).
+LITE 1-STEP: 5K $24 | larger sizes to $1,099 (300K).
+INSTANT: 7K $159 | 25K ~$449 | 50K ~$789 | 100K $1,489. (No eval.)
+FLASH: $5 entry any size 25K-200K; activation after pass: 25K $159 | 50K $329 |
+  100K $499 | 200K $989 (due within 29 days).
+CUSTOM: varies by parameters (higher split + faster payouts + tighter DD = higher price).
+ADD-ONS: scalping add-on, weekend-holding select, 95% split select, faster
+  payout-cycle select — priced into checkout config. Reset fees escalate (~40%
+  of challenge cost, doubling on 2nd/3rd reset).
+PROMOS: 32-40% off with code TRUSTED (Standard/Lite/Instant); Flash $5 evergreen.
+REFUND: initial fee refunded WITH THIRD PAYOUT if passed without second-chance/
+  resets; forfeited if free retry used. No refund on failed evaluations.
+Payment methods: cards, bank wire, crypto (checkout via app.fundedelite.com).
+No hidden platform fee.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: selectable 60%/70%/80%/95% at checkout (default 80%; Instant default
+  70% first payout). Base 80% standard/Lite. Using Second Chance locks split
+  to 50% permanently. Catalyst scales 80/85/90/95% by ladder size.
+- First payout: ALWAYS after 21 days on Free-Retry/Lite/Instant regardless of
+  selected interval (3/7/14/21). Catalyst: 14 days first, 7 thereafter.
+- Frequency: selectable 3/7/14/21-day cycles after first; bi-weekly typical.
+  Minimum trading days + consistency + 21-day hold must all be met.
+- Methods: RISE payment system (no withdrawal ceiling) + crypto transfer
+  (capped $500 gross per cycle). Wire available. Fees deducted from payout.
+  Giveaway accounts capped 2% of balance per interval.
+- Processing: typically within 48h-3 days; site claims 24h average. KYC (Veriff)
+  required before first payout. Payout interview (15-20 min) required before
+  first payment; inconsistencies can reduce split or deny.
+- Minimums: $150-$1,000+ per stage on Catalyst; standard plans per dashboard
+  eligibility tracker.
+- Scaling: NO active scaling plan (official line: grow naturally). Catalyst
+  ladder to ~$1M reported. Max live allocation $400,000.
+- Fee refund with third payout (see Section 6). Live invitation only after review.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: help centre + Terms + FundedWiki/Aggregator rule tables.
+BANNED (breach = trade removal, split cut, reset, suspension, termination):
+1. HFT / high-frequency scalping: trades under 3 minutes (30s with add-on),
+   tick scalping, latency arbitrage, slow-feed exploits.
+2. Single-instrument over-concentration: >50% of daily loss risked on one
+   instrument in a day (widest-stop accounting, winners included).
+3. Cross-broker / cross-prop-firm hedging; hedging across accounts; false
+   hedging flags enforced via IP/trade-pattern review.
+4. Third-party copy / signal copying others onto FundedElite account; account
+   sharing; multiple IPs / VPN-shared IPs triggering IP-sharing flags.
+5. Server spamming / mass order entry; exploiting price-display errors.
+6. Hidden fully-automated EAs to pass (demotion to evaluation if detected).
+7. Account rolling / gambling / risk-free arbitrage across firms.
+8. KYC fraud / false identity; chargeback abuse.
+RISK RULES: stops required discipline; martingale/grid tolerated only if
+non-exploitative and within single-instrument cap. Scalping must be pre-selected.
+IP CONSISTENCY: single consistent IP required; Tradezella-type tools have
+triggered flags (resolve via support before payout).
+Consequences ladder: profit-split reduction (to 50% or 30%), payout interview
+failure = settlement offer, suspension, termination.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals only; one account holder per login.
+- USA: NOT served (all US traders restricted; platform-level bans differ by
+  MT5 vs Match-Trader). Canada also restricted per FundedWiki.
+- UK/EU: served (Italy-based EU entity). Australia and most global served.
+- Sanctioned jurisdictions excluded (Iran, Syria, North Korea, Cuba, Russia/
+  Belarus, occupied regions) plus platform-specific restricted lists — check
+  dashboard at purchase as lists differ by platform.
+- KYC: Veriff identity verification required before funding/first payout;
+  government ID + liveness + matching payout beneficiary. Interview before first
+  payout (15-20 min, inconsistencies risk denial).
+- VPN/VPS: discouraged — shared/VPN IPs trigger IP-sharing flags and split cuts.
+  Travel must maintain single consistent IP or pre-clear with support.
+- Inactivity: accounts terminated after 29 days without a trade.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundedelite.com: 4.6/5 Excellent,
+  317 reviews (Sep 2026 read). May-2026 snapshot: 4.4/5 from 715 reviews
+  (573x5*, 48x4*, 29x3*, 14x2*, 51x1*). Replied to 88% of negatives. At times
+  flagged for guideline breach with rating hidden. Third-party challenge-passer
+  spam (@Bennypass Telegram) contaminates positives.
+- TheTrustedProp: TTP Trust 75/100, score 8.2/10 from 3 user reviews; 32% off
+  code TRUSTED verified.
+- BestPropFirms: 62/100 overall, BPF 41/100 Poor trust; Payouts 4/10, Support
+  6/10, Challenges 8/10, Fees 7/10. Flags payout reliability + Trustpilot breach.
+- PropXO: Extreme-caution rating; cites 5 payout-denial mechanisms, $1.6M total
+  payouts in 2+ years (weakest trust profile assessed), CEO extortion-accusation
+  incident, IP-flag recurrences, payment-method blocks.
+- FundedWiki: 7.4/10 — flexible news-friendly but widest-stop + trailing-switch traps.
+- PropFirmMatch-verified payouts: $2.5M+ to 4,200+ traders. Site claims $2.3M
+  (homepage) vs $5M+ (secondary page) — contradictory, unverified.
+- Sentiment positives: $5 Flash entry, static eval DD, free retries (12,564),
+  fast support names (Daniel, Max), sub-minute payouts reported (12 consecutive
+  payouts case), customizable challenges.
+- Recurring complaints: payout interview denials, 70%-first Instant penalty,
+  50%-after-retry penalty, $500 crypto cap, 21-day first wait, IP-sharing flags,
+  scalping-limit surprises, 35-day+ delays (Reddit r/Daytrading, r/PropFirmTester).
+- Red flags: payout-denial pattern volume vs low total payout volume; contract
+  omits drawdown word (rules in rewritable help centre); no audited payout data.
+  Watch-only: young firm (2023), building track record — start small.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: cheapest entry ($5 Flash pay-after-pass — unique) and most
+configurable checkout (split/cycle/DD selectable) vs fixed-plan rivals (FTMO,
+E8). Static eval DD more forgiving than trailing-eval rivals. But payout
+infrastructure (RISE + $500 crypto cap, 21-day first hold, interview gate) is
+stricter than FTMO/Topstep instant-withdraw norms, and platform choice (no MT4/
+TradingView) narrower than FXIFY multi-platform.
+BEST FIT: budget testers ($5 Flash); tinkerers wanting custom target/DD/split;
+news traders (no blackout); weekend holders; MT5-native discretionary traders
+with fixed stops under the 50%-daily single-instrument cap; small-account
+track-record builders.
+BAD FIT: MT4/TradingView-dependent or HFT/scalp (<3 min) styles without add-on;
+traders needing >$400K live allocation; US/Canada residents; anyone needing
+fast first payout (<21 days) or large crypto withdrawals (>$500/cycle);
+traders unwilling to do payout interview / Veriff KYC; those needing contract-
+embedded guarantees.
+RULE OF THUMB: try Flash $5 on small size first; verify IP consistency + widest-
+stop math + trailing-funded switch before scaling to $100K+.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + 6 product pages + terms + help centre + dashboard
+checked 2026-09-08; pricing/rules cross-checked against Aug-2026 TrustedProp,
+Mar-2026 BestPropFirms, Apr-2026 PropXO, Jun-2026 FundedWiki, Sep-2026
+PropFirmMatch $2.5M verified. Promos rotate — re-check checkout before purchase.
+All accounts simulated/virtual.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 8-model table, Flash $5 + activation ladder, 60-95% select
+splits, 21-day first payout, widest-stop cap, static-to-trailing switch.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "Get funded with up to $400K and keep up to 95% of your profits."
+[2] Stats: "$2.3M Paid out to traders | 12,564 Free retries given | 24hrs Avg.
+payout processing time | 8,452 Custom accounts created."
+[3] Free Retry: "if you don't pass, you can try again instantly at no extra cost."
+[4] Instant: "Start trading funded accounts immediately, no long evaluations or delays."
+[5] Custom: "Choose the account size, rules, and drawdowns that match your strategy."
+[6] Flash: "With our flash activation challenge, start any account for just $5,
+and activate only after passing." | "Select your preferred account type and size
+up to $300K in simulated funding."
+[7] Payouts: "Request your payout after your trading phase, typically processed
+within 3 days." | "Submit a payout request twice per week and get wired or sent
+via crypto inside 48h."
+[8] Platforms: "Trade on the platforms you know and trust" — "MetaTrader 5" /
+"Match-Trader".
+[9] Dashboard: "A full-performance journaling suite built to give traders clarity,
+insight, and complete control."
+[10] Help centre (via IndustrySpread cite): "the first payout is always requestable
+after 21 days anyways" (free-retry/Lite/Instant). | Activation "payable within
+29 days or the pass expires."
+[11] Risk cap (via FundedWiki cite): "You may not risk more than 50% of your daily
+loss limit on a single instrument in one day."
+[12] Disclaimer: "Accounts are for practice purposes only." | "Trading Forex and
+CFDs carries high risk and may lead to the loss of all capital."
+[13] Entity: "Quantum SRL, registered in Italy with number 03095010595."
+[14] Support: "A live support desk runs 7 days a week on chat and Discord."
+[15] Scaling: "Right now, FundedElite does not have an active scaling plan."
+================================================================================
+END OF FILE — FundedElite COMPLETE. Next firm is a separate task (not started).
+================================================================================

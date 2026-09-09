@@ -1,0 +1,187 @@
+================================================================================
+TOPONEFUTURES — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/TopOneFutures.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Top One Futures pages on 2026-09-08
+(see Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Top One Futures (TopOneFutures.com; sister: Top One Trader FX/CFD).
+- Founded: 2023-2024, USA (US-registered futures prop). Distinct from Top One
+  Trader (forex arm) — futures arm is CME-only.
+- Address: USA, online-only (24/7 live chat, <60s response claimed).
+- Contact: https://www.toponefutures.com support chat, Help Center
+  https://help.toponefutures.com, email support.
+- What it is: Futures-only multi-track eval prop firm. Elite Evaluation,
+  Challenge, S2F PRO, IGNITE, Instant Sim-Funded tracks -> Sim Funded (90%
+  split, progressive 6%/5%/4% payout targets) -> scale to $1.5M sim.
+- Scale claimed: up to $1.5M sim funds per trader; payouts averaging under
+  4 hours; Trustpilot 4.8/5 from 3,311 reviews.
+- Key distinction: EOD trailing that locks at start+$100; no eval consistency
+  on Elite (25-40% on funded, resets after each payout); 1-day pass possible;
+  ProjectX/Tradovate/NinjaTrader/CQG stack.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://www.toponefutures.com (homepage: sizes, EOD DD, splits, payouts)
+ 2. https://www.toponefutures.com/home (Elite Access $39 challenge cards)
+ 3. https://help.toponefutures.com/en/articles/11020730-overview-of-the-elite-evaluation (Elite rules)
+ 4. https://www.toponefutures.com/funded-rules (funded rules reference)
+ 5. https://www.toponefutures.com/evaluation-rules (evaluation rules reference)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. TradersPost TopOneFutures Pricing Guide 2026-02-10 (S2F PRO $201, NINJA60)
+ 7. ForTraders Top One Futures Review 2026-07-23 (pricing/rules/payouts)
+ 8. Trustpilot Top One Futures profile (4.8/5, 3,311 reviews)
+TOTAL SOURCES: 8 (5 official + 3 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- ProjectX, Tradovate, NinjaTrader, CQG (all tracks).
+- Rithmic execution where listed; TradingView via Tradovate/ProjectX bridges.
+- Data: CME live data included; Level 2 per plan.
+INSTRUMENTS: CME futures — ES, NQ, CL, GC + micros. No forex/CFD (see Top One
+  Trader for FX), no stocks, no crypto spot.
+CONTRACT SIZING (max; no scaling on Elite):
+  Elite Eval: 25K 1-2 | 50K 3-5 | 100K 6-10 | 150K 7-15 (card-variant caps).
+  S2F PRO 150K: 12 minis / 120 micros.
+LEVERAGE: exchange margin; size label is risk-limit label.
+COMMISSIONS/FEES: exchange + execution counted in net P/L.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Steps | Sizes | Target | Max Loss (EOD-trail) | DLL | Contracts | Consistency | Split | Fee model |
+|---|---------|-------|-------|--------|----------------------|-----|-----------|-------------|-------|-----------|
+| 1 | Elite Evaluation | 1 | 25K/50K/100K/150K | $1.5K/$3K/$6K/$9K (6%) | $1K/$2K/$3K/$4.5K EOD | 2.5% EOD pause/day | fixed caps | NONE eval / 25% funded | 90% | $39 promo (list $139-359) + $149 activation |
+| 2 | Challenge/Daily | 1 | 25K-150K | 6% | EOD variants | per card | per card | 40% | 90% | $80-247 promo (list $178-549) + activation |
+| 3 | Instant Sim-Funded | 0 | 25K-150K | none (6/5/4% payout gates) | EOD $1K-5.25K | per card | per card | 15-20% | 90% | $189-423 promo one-time |
+Notes:
+- 1-day pass possible on Elite (hit 6% clean in one session).
+- EOD floor locks at start+$100 once reached; no contract scaling on Elite.
+- Resets $29/$39/$79/$119 by size (Elite); activation $29-299 by track.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. ELITE EVALUATION ---
+- 6% target; daily DD 2.5% of EOD balance (pause-the-day, resume next day —
+  not a breach); max trailing per table, EOD-stepped on highest closed balance.
+  Example 50K: close $51K -> floor $49K; locks $50.1K once reached.
+- No eval consistency; funded 25% (no single day >25% of total; resets after
+  each payout). Challenge cards show 40% on Daily tracks.
+- No contract scaling; fixed max per size.
+- Breach = reset ($29-119) not rebuy.
+--- 5B. CHALLENGE / S2F PRO / IGNITE ---
+- S2F PRO 150K: $9K target, $3,750 DLL, $4.5K trail, 12 minis, 25% consistency.
+- IGNITE: instant-funding positioned, highest payouts, 45%-off promos.
+--- 5C. SIM FUNDED ---
+- Payout gates: 1st 6% of start, 2nd 5%, 3rd+ 4% (e.g. 100K: $6K then $5K then
+  $4K). Gates + consistency reset after each payout.
+- Max accounts per category (Instant/Elite caps per Help Center); $1.5M total.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ELITE PROMO (55%-off codes; list in parens):
+- 25K: $39 ($139). Target $1.5K, DD $1K. Reset $29.
+- 50K: $39 ($218). Target $3K, DD $2K. Reset $39.
+- 100K: $39 ($259). Target $6K, DD $3K. Reset $79.
+- 150K: $39 ($359). Target $9K, DD $4.5K. Reset $119.
+CHALLENGE DAILY PROMO: 25K $80 ($178) | 50K $98 ($218) | 100K $179 ($398) |
+  150K $247 ($549).
+INSTANT: 25K $189 ($419) | 50K $306 ($679) | 100K $369 ($821) | 150K $423 ($939).
+S2F PRO 150K: $201/mo (35% off, reg $309).
+ACTIVATION: $149 Elite Sim Funded (all sizes); $29-299 track-variant.
+CODES: NINJA60 60% off first; FEB 45% off S2F PRO/IGNITE (rotate).
+REFUND: eval fees NOT refunded; activation not refunded after funded.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 90% on all tracks (sim profits -> real cash).
+- Gates: 6% -> 5% -> 4% of start per successive payout (resets each time).
+- Cadence: biweekly performance rewards; 8-day minimum trading window; $1,000
+  minimum (help docs) / $500 refs on Instant cards — verify track at purchase.
+- Speed: averaging under 4 hours (firm claim); 1-5 BD via ACH/crypto.
+- Methods: ACH, crypto.
+- Scaling: $1.5M sim max; size up via larger tracks or multiple funded.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. Max-trailing / contract breach = breach (reset).
+2. Daily-drawdown pause: stop for the day; next-day resume (Elite).
+3. Funded consistency 25% (15-40% track-variants) gates payouts, not breach.
+4. Copy/hedge-across-accounts evasion banned; automation per track terms.
+5. Weekend-hold rules per track (verify card before holding).
+Consequences: eval breach (reset), funded closure, payout gate until rebalanced.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. USA SERVED; 140+ countries where CME permitted.
+- KYC: ID + payout-method verification before first payout.
+- Futures arm CME-only; FX/CFD traders use Top One Trader entity.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot 4.8/5 from 3,311 reviews (firm-claimed; ForTraders cross-check).
+  Positives: sub-4h payouts, 90% split, $39 promos, broad platform stack.
+  Negatives: trailing-lock tightness, promo-price vs list confusion, support
+  lag at peaks, reset stacking costs.
+- Third-party: TradersPost neutral-positive on value; ForTraders 6-8/10 pillars
+  (pricing 8, rules 6, platforms 8, payouts 7, support 6).
+- Red flags: NONE systemic. Watch: payout-gate math (6/5/4%), track-variant
+  rule differences, promo expiry.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX: Apex ~$55/150K sale vs TOF $201 S2F PRO; TOF 4h payouts + no-eval-consistency
+  Elite vs Apex 8-day rhythm. Multi-account scalers -> Apex; fast-payout EOD -> TOF.
+VS TOPSTEP: TOF $39 promo undercuts $49-199 subs; both EOD; Topstep 15yr history
+  vs TOF youth + 4.8 rating.
+BEST FIT: CME day traders wanting 1-day pass option, EOD-lock, 90% split,
+  sub-4h payouts, $39 promo entries.
+BAD FIT: traders needing static drawdown, one-time forever pricing, or
+  guaranteed live capital.
+RULE OF THUMB: start Elite 50K ($39 promo + $149 activation); bank 6% with no
+  single day over 25% of total to clear first $3K gate.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all Elite/Challenge/Instant targets, EOD DDs, DLLs, contracts,
+splits, fees above were read from the 5 official URLs in Section 2 on 2026-09-08.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Elite EOD ladder, $39 promos, $149 activation, 6/5/4% gates,
+4.8-Trustpilot context.
+RAW EXCERPTS (official wording, verbatim):
+[1] Target: "Traders in the Elite Evaluation must reach a 6% profit target ...
+ $25,000 -> $1,500 ... $150,000 -> $9,000."
+[2] Eval edge: "we have no consistency rule during the Evaluation phase."
+[3] Daily: "Daily Drawdown: Set at 2.5% of the account balance, based on the
+ end-of-day balance. If this is breached, trading will pause for the day."
+[4] Trail: "This trailing drawdown adjusts dynamically based on your highest
+ closed balance at the end of the day."
+[5] Lock: "Once you reach the drawdown limit plus $100, it stays locked at your
+ starting balance + $100."
+[6] Activation: "a one-time activation fee of $149 to activate your Sim Funded
+ Account."
+[7] Funded consistency: "a 25% consistency rule applies ... no single trading
+ day's profit exceeds 25% of your total profits."
+[8] Reset: "you can reset your Evaluation account at a reduced fee ... $25,000
+ -> $29 ... $150,000 -> $119."
+[9] Speed: "pass the Elite Evaluation in just one trading day."
+[10] Gates: "1st Payout: 6% ... 2nd Payout: 5% ... 3rd Payout and beyond: 4%."
+================================================================================
+END OF FILE — TOPONEFUTURES COMPLETE. Next firm is a separate task (not started).
+================================================================================

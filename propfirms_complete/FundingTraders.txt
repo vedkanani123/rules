@@ -1,0 +1,293 @@
+================================================================================
+FundingTraders — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundingTraders.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official FundingTraders pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundingTraders (Funding Traders, site fundingtraders.com).
+- Legal entity: FT US Inc, 901 Pennsylvania Ave Suite 3-440, Miami Beach FL 33139
+  USA (site owner/operator; simulated trading services). Hong Kong base cited
+  (2023 launch); veteran Wall Street Trader leadership marketed.
+- Contact: help@fundingtraders.com | 24/7 human support (live chat, WhatsApp,
+  email; <30-sec replies marketed; 50+ support team) | Discord discord.gg/
+  fundingtraders (50K+ members) | YouTube @FundingTraders (30K+ subs) |
+  Instagram/Facebook @fundingtraders.
+- What it is: CFD simulated-evaluation + instant prop firm. ALL accounts are
+  simulated/demo; no investment advice; no client capital at risk. Rewards are
+  real-money shares. Margin Forex/CFDs highly leveraged (risk disclosure).
+- Scale claimed: 53,000+ accounts funded; 50,000+ funded-trader Blueprint base;
+  100,000+ challenges analysed; live payout tracker (names/amounts/countries/types);
+  $5.56M / 2,712 payouts TTP Sep 2026 ($47,510 record); $4.7M+ Directions/Reviews;
+  interviews: Adal Basharat (scale to $2M), Yunes Guerinal, CJ Clarke, Bhuwan Ghole,
+  Gerad Gomez (50K->150K scale).
+- Verification: FXVerify 4.9, MyFXBook 4.6, TrustedProp 4.9, FundedForYou verified
+  partner badges; Tools: Clarity dashboard, FT Intel AI (COT/smart-money), Economic
+  Calendar, Calculators; Education: weekly livestreams, CEO Brief blog, Blueprint guide.
+- Trustpilot: 4.5/5 from 2,500-2,560 reviews (Directions/DailyForex); TTP payouts
+  page 4.9 rating / 322 reviews / Trust 90/100. PropFirmReviews 7.8/10; DailyForex
+  4.4/5; FundedWiki 7.7/10; TradingFinder; Directions 4.4/5.
+- Key distinction: FOUR types (Instant, 2-Step PRO10, 2-Step PRO6, 1-Step) from
+  $5K to $400K (up to $500K per Directions). MT5 + TradeLocker. 80-100% splits
+  (100% via add-on). 48H-or-$1,000 Reward Protection. Reset/Revive + 24/7 trading.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://fundingtraders.com (homepage: 53K+ funded, 4-type pricing $25-$2,349,
+    48H/$1,000 guarantee, MT5+TradeLocker, reset/Intel, bans)
+ 2. https://app.fundingtraders.com/express_checkout (checkout: TRYFT/PURPLE codes,
+    predefined 4-58 plan IDs, Visa/MC/Amex/Discover/crypto/Apple/Google/PayPal/BNPL)
+ 3. https://fundingtraders.com/prop-trading-payouts (live payout tracker)
+ 4. https://fundingtraders.com/help/en/ (Help Center + collections 4864125 rules)
+ 5. https://fundingtraders.com/help/en/articles/13224028-payout-guarantee (guarantee terms)
+ 6. https://reset.fundingtraders.com/ (Reset Phase1 60% / Phase2 130%)
+ 7. https://fundingtraders.com/ai-trading-intel (FT Intel institutional feed)
+ 8. https://fundingtraders.com/funded-trader-dashboard-clarity (Clarity dashboard)
+ 9. https://fundingtraders.com/terms-of-service + /refund-policy + /withdrawal-policy
+    + /privacy-policy + /anti-money-laundering + /know-your-customer (legal set)
+10. https://fundingtraders.com/prop-trading-partners + /partners-terms-of-service (affiliates)
+11. https://fundingtraders.com/blog/ + /economic-calendar + /trading-calculators (content/tools)
+12. https://fundingtraders.com/contact-us (contact)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+13. TheTrustedProp Funding Traders review Aug 2026 + payouts Sep 2026 ($5.56M/2,712)
+14. PropFirmReviews.net Funding Traders review 2026 (7.8/10, 53K+ funded)
+15. DirectionsMag review Apr 2026 (4.4/5, HK base, 2% rule focus)
+16. DailyForex review Dec 2024 upd 2026 (4.4/5, 2,560 reviews, add-on math)
+17. FundedWiki funding-traders Jun 2026 (7.7/10, Instant traps analysis)
+18. TradingFinder review Aug 2026 ($39 min, weekly payouts)
+19. Trustpilot https://www.trustpilot.com/review/fundingtraders.com (4.5/2,560)
+TOTAL SOURCES: 19 (12 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS:
+- MetaTrader 5 (MT5) — full EA support, advanced analytics; NOT for US citizens/
+  residents (footer MT5 restriction).
+- TradeLocker — next-gen browser/mobile, seamless execution.
+- DXtrade login credentials issued for spread checks (Directions); TradeLocker +
+  DXtrade spread-verifiable.
+INSTRUMENTS: Forex, Indices, Commodities, Metals, Crypto (CFDs). Raw spreads
+from 0.0 pips; $3.00/lot round-trip FX+Indices on funded (challenge commission-
+free + swap-free during eval). Weekend/overnight holding permitted (Pro).
+24/7 trading (US100/SILVER/GOLD/US500/WTI badges). All costs COUNT toward
+daily/max equity limits.
+LEVERAGE: 1:100 Forex; 1:50 metals/indices; 1:5 crypto (DailyForex). Per-symbol
+caps in platform specs.
+TOOLS: Clarity dashboard, FT Intel (institutional positioning/COT/smart-money),
+calculators, economic calendar.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program      | Steps | Sizes      | Target          | Daily loss | Max loss | Min days | Risk/trade | Split     | Payout       |
+|---|--------------|-------|------------|-----------------|------------|----------|----------|------------|-----------|--------------|
+| 1 | Instant      | 0     | 10K-400K   | none            | 3%         | 6%       | none     | 1%         | 90%-100%  | 7-14 days    |
+| 2 | 2-Step PRO10 | 2     | 5K-200K    | 10% + 5%        | 5%         | 10%      | 4        | 2% funded  | 80%-100%  | 14-21 days   |
+| 3 | 2-Step PRO6  | 2     | 5K-200K    | 6% + 6%         | 3%         | 6%       | 4        | 2% funded  | 80%-100%  | 14-21 days   |
+| 4 | 1-Step       | 1     | 5K-200K    | 10%             | 3%         | 10%      | 4        | 2%         | 90%-100%  | 14 days      |
+Notes:
+- Instant: 90% default (highest base), 100% via add-on; 15% consistency;
+  3% non-withdrawable cushion; NO news trading (hard breach).
+- PRO10/PRO6 funded: NO consistency score (rare); 1-Step funded: 50% consistency.
+- All eval fees REFUNDABLE with first payout. No time limits (no deadline).
+  Up to $400K Instant single; $2M total allocation per trader (Directions).
+- Avg rewards: Instant $100K $3,087; PRO10 $100K $4,681; PRO6 $100K $3,124;
+  1-Step $100K $4,681.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. INSTANT (no eval, 10K-400K) ---
+- No target, no min days. Daily 3% ($3,000 on 100K), max 6% ($6,000).
+  Risk per trade 1% ($1,000). Split 90%-100%. Consistency 15% (best day <=15%
+  of total + biggest loss must not exceed biggest win). Payout 7 days (cards)
+  / 14 days base. ($400K: $12K/day, $24K max, $4K/trade, $9,834 avg.)
+  Cushion: 3% safety buffer locked. News: ANY open trade during high-impact
+  (±5 min) = TERMINATION. Weekend: FLAT — close ALL incl crypto 1h before Friday
+  close. Activity: >=5 profitable days per 30d, each >=0.25%.
+--- 5B. 2-STEP PRO10 (10%+5%, most popular) ---
+- Targets 10% Ph1 + 5% Ph2. Daily 5%, max 10% (PRO10 roomiest). Min 4 days.
+  Risk 2% funded only. Split 80%-100%. NO consistency on funded. Payout 14-21d
+  (14d add-on). News: unrestricted in challenge; funded 2-min no-open/close +
+  <=30% profits from news trades. ($100K: $10K/$5K; $5K/day; $10K max.)
+--- 5C. 2-STEP PRO6 (6%+6%, tight) ---
+- Targets 6% + 6%. Daily 3%, max 6%. Min 4 days. Risk 2% funded. Split 80%-100%.
+  NO consistency. Payout 14-21d. Same news rules as PRO10. ($5K $25 entry cheapest.)
+--- 5D. 1-STEP (single 10%) ---
+- Target single 10%. Daily 3%, max 10%. Min 4 days. Risk 2% (all phases).
+  Consistency 50% on funded. Split 90%-100%. Payout 14 days. ($5K $30 entry.)
+--- 5E. SHARED RULES ---
+- 2% per-trade loss cap (hard-fail even if DD intact — top fail reason).
+- Copy own accounts manually allowed; copy software between Instant banned;
+  copying others/letting others copy = termination of ALL accounts.
+- News (evals): unrestricted challenge; Instant funded banned (see 5A).
+- Algos/swing/news/weekend allowed (Pro); hedging/grid/HFT per risk framework.
+- KYC before funded account (ID + selfie + ≤3-month address proof).
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+ONE-TIME REFUNDABLE FEES (list; promos TRYFT 50% first, TRUSTED 50%, PURPLE 55%
++ 100% split + 200% refund, add-ons extra):
+INSTANT: 10K $179->$90 | 25K $319->$160 | 50K $479->$240 | 100K $749->$375 |
+200K $1,349->$675 | 400K $2,349->$1,175.
+PRO10: 5K $69->$35 | 10K $119->$60 | 25K $229->$115 | 50K $339->$170 |
+100K $599->$300 | 200K $999->$500.
+PRO6: 5K $49->$25 | 10K $79->$40 | 25K $159->$80 | 50K $259->$130 |
+100K $459->$230 | 200K $799->$400.
+1-STEP: 5K $59->$30 | 10K $109->$55 | 25K $229->$115 | 50K $329->$165 |
+100K $589->$295 | 200K $999->$500.
+ADD-ONS: 100% split upgrade (all types); 14-day payout add-on (PRO6/PRO10);
+weekly payouts; higher split tiers (90/100%). $5K 100%+weekly = $77.50 (Directions).
+RESET: Failed Phase 1 reset 60% off (50% per comparison table); Phase 2 continue
+130% (reset site). Only fair-second-chance firm marketed.
+REFUND: ALL eval fees refunded WITH FIRST PAYOUT (incl crypto-paid refunded in
+USDT-ERC20). Failed evals lose fee minus reset discount.
+Payment: Visa/MC/Amex/Discover/crypto/Apple/Google/PayPal/BNPL; $3/lot funded.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: Instant 90%-100%; PRO10/PRO6 80%-100%; 1-Step 90%-100%. Default 80-90%,
+  100% via add-on (PURPLE includes 100%). No commissions on challenges.
+- First payout: Instant 7-14 days; 1-Step 14 days; PRO6/PRO10 14-21 days (21d
+  default, 14d add-on). Eligibility: closed trades, >1% profit (Instant),
+  consistency met, min days met.
+- Frequency: Instant 7-14d; 1-Step 14d; PRO 14-21d (weekly via add-on).
+- Methods: Crypto USDT-ERC20 (min $50, 2-5 business days) or bank via Rise
+  (min $200). Crypto-paid fees refunded in USDT with first payout.
+- Processing: avg <24 HOURS (marketing) / 48H guarantee. REWARD PROTECTION:
+  eligible payouts beyond window => $500 cash + $500 credits ($1,000 total).
+  Live tracker verifiable; avg rewards $188 (5K PRO6) to $9,834 (400K Instant).
+- Minimum: $50 crypto / $200 bank. Fee refund with first payout.
+- KYC before funded (ID/selfie/address). Risk interview on large payouts reported.
+- SCALING: to $2,000,000 per trader (Directions/TradingFinder); Gerad 50K->150K
+  case; 6th-scale unlocks psychologists/coaches (DailyForex). Up to $400K Instant
+  single; $500K sizes cited.
+- Verified paid: $5.56M/2,712 (TTP); $4.7M+ (reviews); 53K+ funded.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+Source: Help Center 4864125 + Terms + withdrawal/AML/KYC.
+BANNED (breach = hard-fail, split cut, suspension, termination):
+1. Exceeding 2% loss on single trade (hard-fail even if DD intact).
+2. Instant: ANY open trade (incl crypto) during ±5-min high-impact news =
+   termination; weekend open past Friday-1h = breach.
+3. Exceeding 1% risk on Instant single position (split-cut discipline).
+4. Breaching 15% Instant / 50% 1-Step consistency at request (hold, not breach —
+   keep trading to dilute; biggest-loss > biggest-win also flags).
+5. Copy software between Instant; copying others/others copying you (ALL terminated).
+6. Hedging/grid/HFT/abusive arbitrage; feed/latency exploits; server spamming.
+7. Exceeding 30% news-profit share on Pro funded; 2-min news open/close on Pro funded.
+8. 30% combined-margin / revenge-trading / tight-stop abuse per internal risk
+   framework (discretionary; 50%-payout compromise offered in disputes).
+9. KYC fraud; chargebacks; multi-IP sharing.
+Consequences ladder: payout hold/reduction (50%), suspension, termination.
+Risk Dept reviews ALL payouts vs TOS + execution/risk-reward patterns.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. Individuals; multiple accounts to $2M total.
+- USA: FT US Inc Miami operator BUT MT5 not for US citizens/residents; US trader
+  payouts (Daniel/Alex/Jose/Terrance) via TradeLocker path — confirm checkout geo.
+- UK/EU/Global: served (53K+ funded; FR/BR/ES/US/JP/NL/DK/AE/PK/IT/RS/DE/PT cases).
+- HARD BANS: Afghanistan, Kazakhstan, Mongolia, Morocco, Poland, Taiwan, Ukraine,
+  Venezuela, Central African Republic, North Korea, Congo/Zaire, Iran, Iraq, Libya,
+  Mali, Saipan, Somalia, South Sudan, Yemen, Ontario, Myanmar (+ sanctioned).
+  Dashboard governs; can change.
+- KYC: ID + selfie + ≤3-month address proof BEFORE funded account; matching
+  crypto/Rise beneficiary; risk interview on large/flagged payouts.
+- VPN/VPS: allowed but secure account; multi-IP risks sharing flags — single IP advised.
+- 24/7 trading; no time limits on evals.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/fundingtraders.com: 4.5/5 from
+  2,500-2,560 reviews. 5*: fast payouts, 24/7 <30-sec support, clear Pro rules.
+  1* (~21%): payout-reduced 50% over internal margin/revenge rules; news/margin
+  denials with trade-log defences; $1,144 wrong-address crypto case; XAU -$106/
+  $500-vs-$50 asymmetry claim; 144h+ $3K delay (processor blame); 6-month non-pay
+  claims (unverified) + PropFirmMatch-delisting allegation.
+  Firm replies with data + 50%-compromise offers; third-party passer spam noted.
+- TTP: Trust 90/100, 4.9/322 reviews; $5.56M/2,712 on-chain proof; TRUSTED 50% code.
+- PropFirmReviews 7.8/10 (refundable + guarantee praise; 5% Instant + news-ban caveats).
+- Directions 4.4/5; DailyForex 4.4/5 (2% rule caution); FundedWiki 7.7/10 (Instant
+  trailing-lock/buffer/news/weekend traps); TradingFinder $39 min.
+- Red flags: NONE systemic (pays when compliant; guarantee penalises lateness).
+  Watch: Instant is strictest (trailing-to-lock + 3% buffer + news-termination +
+  weekend-flat-crypto); internal-risk subjectivity on 50% cuts; young (2023-24).
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS INDUSTRY: only 48H-or-$1,000 guarantee + live tracker + 90%-base Instant +
+refundable-everything + 60%-reset + FT Intel/COT. Cheapest PRO6 $25 vs $39-59
+rivals. But Instant 15% + buffer + news-termination stricter than no-rule rivals;
+2% per-trade harder than DD-only rivals; MT5+TradeLocker only (no cTrader/DXtrade/TV).
+BEST FIT: guarantee-needy (48H/$1K); Instant-now (no eval, 90% base); PRO10 roomy
+(10%/5% static, no consistency); PRO6 cheap-tight; 1-Step single-phase; EA/algo
+(MT5) + weekend holders (Pro); scalers to $2M; support-sensitive (<30-sec 24/7).
+BAD FIT: news-open holders (Instant = termination); weekend-crypto holders
+(Instant flat rule); >1-2% per-trade riskers; one-day-star (15%/50% block);
+copy-software Instant users; US MT5 needy; banned 20+ jurisdictions.
+RULE OF THUMB: want Easy-funded => PRO10 (room + no consistency); want Cheap =>
+PRO6 $25; want Now => Instant (respect +3% lock/buffer/news/flat); want Single =>
+1-Step 10%.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: homepage + checkout + payouts/Help/guarantee/reset/Intel/Clarity +
+full legal set + partners/blog/tools/contact read 2026-09-08; pricing cross-checked
+Aug-2026 TTP, 2026 PropFirmReviews/Directions/DailyForex/FundedWiki tables.
+Promos (TRYFT/TRUSTED/PURPLE) rotate — re-check checkout. All simulated.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes 4-type table, Instant trailing-lock/buffer/news-flat trio,
+15%/50%/none consistency map, 2%/1% risk pair, 48H-$1K guarantee.
+RAW EXCERPTS (official wording, verbatim):
+[1] Hero: "53,000+ Accounts Funded — Institutional Grade Prop Firm" |
+"Clear and Simple Rules. Fast 48-Hour Payouts. Zero Surprises".
+[2] Instant ($100K): "Profit Target None | Daily Loss 3% | Max Loss 6% |
+Min. Trading Days None | Risk Per Trade 1% | Reward Share 90%-100% |
+Consistency Score 15% | Payout Schedule 7 Days" | "$749 $375 One-time Fee" |
+"$3,087 Avg. Reward".
+[3] PRO10 ($100K): "Phase 1: 10% Phase 2: 5% | Daily Loss 5% | Max Loss 10% |
+Min. Trading Days 4 | Risk Per Trade 2% (Funded Only) | 80%-100% | 14-21 Days".
+[4] PRO6 ($100K): "Phase 1: 6% Phase 2: 6% | Daily Loss 3% | Max Loss 6% | ..."
+[5] 1-Step ($100K): "Profit Target 10% | Daily Loss 3% | Max Loss 10% |
+Min. Trading Days 4 | Consistency Score 50% | Risk Per Trade 2% | 90%-100% |
+14 Days".
+[6] Guarantee: "Reward Protection — Your payout. With added protection." |
+"If eligible, you get $500 in cash, and $500 in credit." | "Every Payout
+Verifiable. 48 Hours or Less".
+[7] FAQ: "Your evaluation fee is refunded with your first payout." |
+"Minimum crypto payout is $50 ... via Rise (min $200)." | "Instant ... no news
+trading ... 15% consistency ... 3% non-withdrawable safety cushion".
+[8] News: "On Instant Funded accounts, news trading is not allowed — opening,
+closing, or holding ... is a Hard Breach." | "On funded 1-Step/PRO ... may not
+open or close within 2 minutes ... no more than 30% ... from news".
+[9] Copy: "You are allowed to manually copy your own trades across your own
+FundingTraders accounts. Using copy trading software between FT Instant Accounts
+is not allowed."
+[10] Consistency: "Your highest single-day profit cannot exceed [15% Instant /
+50% 1-Step PRO] ... Exceeding ... doesn't breach; you simply keep trading".
+[11] Entities: "FT US Inc ... 901 Pennsylvania Ave, Suite 3-440, Miami Beach,
+FL 33139 ... provides the simulated trading services" | "Metatrader 5 MT5
+services ... not intended for U.S. citizens/residents".
+[12] Bans: "does not accept applications from [22 listed incl] Afghanistan ...
+Ontario ... Myanmar."
+[13] Promo: "Enter The Evolved Matrix. Use Code PURPLE | 55% OFF + 100% Split +
+200% Refund" | "Your First Challenge Half the Price — 50% OFF Use code TRYFT".
+================================================================================
+END OF FILE — FundingTraders COMPLETE. Next firm is a separate task (not started).
+================================================================================

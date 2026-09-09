@@ -1,0 +1,220 @@
+================================================================================
+BULENOX — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/Bulenox.txt | Status: COMPLETE | Verification date: 2026-09-08
+================================================================================
+All data below was fetched from official Bulenox pages on 2026-09-08 (see
+Section 2 for the full source list) and cross-checked against third-party
+pricing/review aggregators. No TODOs, no placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: Bulenox LLC (Bulenox — Invest in Yourself).
+- Founded: 2020-2022 (Wilmington, Delaware, USA). 4-6 years operating.
+- Address: Bulenox LLC, 1201 N Orange St Suite 7149, Wilmington, DE 19801, USA.
+  Phone: 302-803-6753. Email: support@bulenox.com.
+- Contact: https://bulenox.com/contact, Help Center, FAQ, Discord, X/Instagram.
+- What it is: Futures-only 3-stage prop firm (Qualification -> Master ->
+  Funded). Qualification + Master are SIMULATED with real payouts; Funded is
+  real capital after 3 successful Master payouts. Static-drawdown specialist.
+- Scale: niche vs mass-market (1,557-1,775 Trustpilot reviews vs Apex 19K+)
+  but identical 4.7-4.8 rating; up to $150K-$250K funded; up to 11 Master
+  accounts (3 active); 20+ platforms.
+- Promo: BULENOX launch offer (Qualification/Fast Track/Momentum); MARKET code
+  on 50K/100K; Rithmic 14-day free trial.
+- Key distinction: buyer locks Trailing (no-scaling, full size day one) OR
+  EOD-with-scaling + DLL at purchase (permanent). Static floor positioning
+  marketed vs trailing peers; Master has no monthly fee.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+LIVE-FETCHED (full page content retrieved and quoted in this file):
+ 1. https://bulenox.com (homepage: $150K funded, 90%, 100% first $10K, news
+    allowed, 4 CME markets, 3 paths, trailing vs EOD selector, Rithmic+NinjaTrader)
+ 2. https://bulenox.com/accounts-pricing (pricing + $116/mo CME data note)
+ 3. https://bulenox.com/faq (FAQ index reference)
+ 4. https://bulenox.com/help-center (Help Center index reference)
+ 5. https://bulenox.com/help/master-account/ (Master 40% consistency, 10-day ref)
+CROSS-CHECK SOURCES (third-party, for pricing/reviews only):
+ 6. MarketsCoupons Bulenox Review 2026-04-17 (static $1.5K-5.5K, $145-535/mo)
+ 7. Proptradercheck Bulenox Review 2026-07-19 ($125-535/mo, $78 reset, 40% gate)
+ 8. Tradecovex Bulenox Rules 2026-04 (Qual->Master->Funded, EAs/copiers allowed)
+ 9. PropJournal Bulenox Rules ($1.5K-6K EOD, no consistency eval variant)
+10. FuturesFury Bulenox (100% first $10K, dual drawdown, weekly payouts)
+11. Trustpilot https://www.trustpilot.com/review/bulenox.com (1,701-1,775 reviews)
+12. TradersUnion Bulenox Trust Tracker (Trust 4.2, Reviews 4.7 from 1,769)
+TOTAL SOURCES: 12 (5 official + 7 third-party cross-checks).
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+PLATFORMS (Rithmic-only execution, 20+ front-ends):
+- R | Trader Pro (authorization base), NinjaTrader (official partner),
+  Quantower, Sierra Chart, MultiCharts, ATAS, Bookmap, Tiger.Trade, Optimus Flow,
+  Photon Trader, MotiveWave, OverCharts, Trade Navigator, QST, Inside Edge,
+  Investor/RT, Medved Trader, QScalp, ScalpTool, TSLab, VolFix.
+- Data provider: Rithmic; platform partner: NinjaTrader. Professional CME/CBOT/
+  NYMEX/COMEX data billed $116/mo on top of account (pricing page note).
+- No Tradovate/ProjectX browser option; no EUREX.
+INSTRUMENTS: 4 CME Group exchanges — CME, CBOT, NYMEX, COMEX (ES/NQ/YM/RTY, CL,
+  GC/SI, 6E, MBT micro-Bitcoin). Futures/options on futures where permitted.
+CONTRACT LIMITS: 25K: 3 | 50K: 7 | 100K: 12 | 150K: 15 | 250K: 25.
+  Trailing option = full size day one; EOD option = scales with cash on hand.
+LEVERAGE: exchange margin; label is qualification-size label.
+COMMISSIONS/FEES: Rithmic + exchange counted in net P/L incl. open positions
+  on trailing option.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+| # | Program | Sizes | Target | Drawdown | DLL | Min days | Consistency | Split | Fee model |
+|---|---------|-------|--------|----------|-----|----------|-------------|-------|-----------|
+| 1 | Qualification Trailing (no scaling) | 25K/50K/100K/150K/250K | $1.5K/$3K/$6K/$9K/$15K | $1.5K/$2.5K/$3K/$4.5K/$5.5K STATIC/trailing-live | none | none (1-day refs) | none eval | n/a | monthly $145/$125/$155/$325/$535 |
+| 2 | Qualification EOD (scaling + DLL) | same 5 | same targets | same amounts EOD (fixed intraday) | varies, pauses day | none | none eval | n/a | same monthly |
+| 3 | Master (sim funded) | same as qual | none | same as qual, stops at start+$100 | EOD DLL removed at start+ | 10 days to 1st payout | 40% at payout | 100% first $10K then 90/10 | no monthly fee + activation $98-348 |
+| 4 | Funded (real) | $10K-250K | none | per funded terms | per terms | per terms | per terms | 90/10 | after 3 Master payouts |
+Notes:
+- Three paths marketed: Qualification / Fast Track / Momentum (same risk engines,
+  different speed/payout rails; Fast Track + Momentum = daily payouts).
+- CME data $116/mo extra. Reset $78 across tiers. Multiple accounts permitted.
+- EAs, algos, bots, trade copiers EXPLICITLY allowed on all account types (rare).
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. QUALIFICATION TRAILING (Option 1, no scaling) ---
+- Target/DD per table; floor follows highest point INCL. open positions in real
+  time (tracked live, commissions incl.); rises only, never falls; full contracts
+  day one. No min days — pass when target hit cleanly.
+- Static positioning: floor effectively fixed once cushion built (never moves
+  against you); simplest mental model vs Apex intraday.
+--- 5B. QUALIFICATION EOD (Option 2, scaling + DLL) ---
+- Same targets/amounts but floor moves once daily at close on realized profit;
+  fixed intraday. Contracts scale with cash on hand; DLL pauses day instead of
+  closing account (forgiving for volatile days).
+- Choice locked for life of account — 30 seconds at purchase decides engine.
+--- 5C. MASTER (Sim Funded) ---
+- Same DD as qual; stops trailing at start + $100 (e.g. $103,000 on $100K);
+  EOD DLL removed at that point.
+- 10 trading days minimum before first withdrawal; 40% consistency (largest day
+  <40% of net) at payout; first 3 payouts capped by size, uncapped after.
+- Weekly activity: 1+ trade every 5 trading days. No reset — breach = permanent
+  close. No monthly fee; activation $98 (10K) to ~$348 (250K) to open Master.
+- Trade until 15:59 CT (later than most); news allowed (CPI/FOMC/NFP, no blackout).
+--- 5D. FUNDED (Real capital) ---
+- After 3 successful Master payouts, transition to Funded with real capital.
+  Terms per funded agreement; 90/10 ongoing.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+MONTHLY QUALIFICATION (list; MARKET/BULENOX promos common):
+- 25K: $145/mo. Target $1.5K, DD $1.5K, 3 lots. Reset $78.
+- 50K: $125/mo ($175 was; $19.25 MARKET variant). Target $3K, DD $2.5K, 7 lots.
+- 100K: $155/mo ($215 was; $23.65 MARKET variant). Target $6K, DD $3K, 12 lots.
+- 150K: $325/mo. Target $9K, DD $4.5K, 15 lots.
+- 250K: $535/mo. Target $15K, DD $5.5K, 25 lots.
+DATA: +$116/mo professional CME data on top. MASTER: no monthly; activation
+  $98-348 by size. TRIAL: 14-day Rithmic free trial.
+REFUND: monthly consumed, NOT refunded; failed quals not refunded (resubscribe
+  $78 reset); activation not refunded after Master opened.
+PAYMENT: cards via site; payouts via ACH/Wire/PayPal/Wise (~$1,000 min).
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+- Split: 100% of first $10,000 to trader, then 90/10 (headline advantage).
+- Cadence: 7-day cycle; first payout min 10 trading days; daily payouts on Fast
+  Track/Momentum; Wednesday processing widely reported (same-day in best cases).
+- Caps: first 3 Master payouts capped by size; uncapped thereafter; no numeric
+  cap recorded (0 = uncapped).
+- Min withdrawal ~$1,000. No monthly Master fee drag.
+- Scaling: up to 11 Masters (3 active); $10K->$100K->$250K roadmap; 90/10 ongoing.
+- Flipping rule (vague anti-gaming) can deny payouts — only vaguely defined,
+  primary complaint source; verify Help Center before aggressive patterns.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+1. DD/DLL/contract breach = fail/close (real-time on trailing incl. open P/L).
+2. 40% payout consistency: largest day must stay under 40% of net at withdrawal.
+3. Master weekly activity (1 trade / 5 trading days) required.
+4. Flipping/gaming (statistically undefined) can void payouts — trade naturally.
+5. EAs/copiers/automation ALLOWED (explicit) — rare permission; still no
+   latency/error exploitation, no cross-account hedging to game payouts.
+Consequences: qual fail (reset $78), Master permanent close, Funded removal,
+  payout hold/denial if consistency/activity/flipping flagged.
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+- Age 18+. No background check at registration (official How-It-Works).
+- USA: SERVED (Delaware LLC; ACH/Wire payouts).
+- International: served where Rithmic/CME permitted; no EUREX.
+- KYC: ID + payout-method verification at Master activation/first payout.
+- Multiple accounts allowed; 11 Masters max (3 active simultaneously).
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+- Trustpilot https://www.trustpilot.com/review/bulenox.com: 4.7-4.8/5 from
+  1,557-1,775 reviews (MarketsCoupons 4.8/1,557; TradersUnion 4.7/1,769 with
+  90.39% 5-star, 3.9% 1-star; Trustpilot header 4-star/1,701-1,775 mirrors).
+  Active subscription; invites reviews; payout/support praise dominant.
+- Sentiment: positives on static simplicity, fast Wednesday/same-day payouts
+  (8th-payout proofs, 3-year users), clear rules, patient support, cheap MARKET
+  evals; negatives isolated on flipping-rule vagueness, $116 data add-on
+  surprise, monthly cost vs Apex $19.90, Rithmic-only limitation.
+- Third-party: MarketsCoupons positive (static differentiator); Proptradercheck
+  neutral-structured (40% gate, 7-day cycle); Tradecovex positive (copier/EA
+  permission); Phidias notes sim-funded nature.
+- Red flags: NONE systemic (5yr record, real payouts, DE registration).
+  Watch: flipping definition, data fee, monthly vs one-time math.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+VS APEX: Bulenox static (never moves) vs Apex trailing (shifts under feet);
+  Bulenox monthly + $116 data + no activation vs Apex one-time + $85-139
+  activation. Apex cheaper to fail, more platforms, 20 accounts; Bulenox kinder
+  to conviction scalpers + 100% first $10K.
+VS TPT/TOPSTEP: Bulenox no-min-days qual + daily Fast Track vs TPT buffer +
+  intraday-PRO vs Topstep 5x$150 grind. News allowed everywhere at Bulenox.
+BEST FIT: trailing-traumatized scalpers, news traders (FOMC/CPI/NFP), EA/copier
+  users (explicit allow), multi-Master operators (11), Rithmic+Ninja loyalists.
+BAD FIT: price-sensitive first-timers (Apex $19.90 cheaper to fail), Tradovate/
+  browser-only traders, EUREX seekers, 10+ parallel farmers.
+RULE OF THUMB: start 50K MARKET ($19.25-125) Trailing for full-size day one or
+  EOD for DLL safety; bank first $10K at 100% before scaling.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: all qual/Master targets, DDs, contracts, splits, fees, rails and
+platforms above were read from the 5 official URLs in Section 2 on 2026-09-08
+and cross-checked to Apr-Jul-2026 third-party tables sourced to Bulenox pricing/
+Help Center. Promos (BULENOX/MARKET) rotate — re-check pricing anchors.
+CHANGE LOG (this file): 2026-09-08 v1.0 COMPLETE — created with all 12
+sections; includes Trailing vs EOD lock-in, $145-535/mo + $116 data, $78 reset,
+100%-first-$10K then 90/10, 40% Master gate, EA/copier allow, Trustpilot 4.7-4.8.
+RAW EXCERPTS (official wording, verbatim):
+[1] Funded: "Get funded up to $150,000 to trade futures" / "Keep up to 90% of
+ profits" / "First $10,000 in payouts is 100% yours" / "Trade the news — allowed".
+[2] Days: "No minimum trading days." / "Your skills decide when you pass."
+[3] Trailing: "Your loss limit follows your highest point — including open
+ positions, in real time." / "Rises with new highs, never falls back."
+[4] EOD: "Your loss limit moves only once a day — at the close, on realised
+ profit." / "The daily loss limit pauses your trading for the day instead of
+ closing the account."
+[5] Payouts: "Request a payout on any trading day and have it processed the same
+ day. Available on Fast Track and Momentum accounts."
+[6] Master fees: "Once the Master Account is activated, there will be no monthly fees."
+[7] Window: "Trade until 15:59 CT" / "Trade straight through the economic calendar.
+ CPI, FOMC, NFP — no blackout windows."
+[8] Data: "Professional CME, CBOT, NYMEX and COMEX data is billed at $116/month
+ on top of your account."
+[9] Address: "Bulenox LLC, 1201 N Orange St, Suite 7149, Wilmington, DE 19801."
+================================================================================
+END OF FILE — BULENOX COMPLETE. Next firm is a separate task (not started).
+================================================================================

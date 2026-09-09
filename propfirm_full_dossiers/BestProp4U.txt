@@ -1,0 +1,96 @@
+================================================================================
+BESTPROP4U — COMPLETE FIRM DOSSIER
+================================================================================
+Website: https://bestprop4u.com/
+Status: ACTIVE
+
+--- COMPANY OVERVIEW ---
+- Tagline: "Trade Futures, Crypto or FX CFDs. We have them ALL!"
+- Mission: "Built by traders, for traders"
+- Affiliate of: Prop Account LLC (registered 6800 Broken Sound Parkway, Suite 150, Boca Raton, FL 33487 USA)
+- Dashboard: https://bestprop4udashboard.propaccount.com/en/sign-in
+- Social: Instagram @bestprop4u.trading, Discord (discord.gg/kWrE7VvCG8), Telegram (t.me/bestprop4u), LinkedIn, TikTok @best.prop.4.u, X @bestprop4u, YouTube
+
+--- KEY FEATURES ---
+- ONLY 4 Rules
+- 50% Max DrawDown (on funded Futures plan)
+- NO minimum trading days
+- Trade Any Strategy (EA/algorithm allowed)
+- Trade during the Weekend
+- No Consistency Rule
+- Payout during Evaluation
+- Payout even if Breached (get paid on gains even if you breach)
+- 4 Trading Platforms: DX Trade / cTrader / Match Trader
+- Hold during News allowed
+- Inactivity: 30 days
+- Leverage: 1:50 (FX), 1:5 for BTC & ETH, 1:2 for other crypto
+- Time Limit: No limit
+- DrawDown type: STATIC (FX), TRAILING (Futures)
+- Withdrawals: Greater of 1% of initial balance or $100. First withdrawal at any time, then once every 30 days. DrawDown level Lock Upon Payout applies (add-on available to deactivate).
+
+--- CATEGORIES & PLANS (6 Categories, 39 plans from $5,000 to $1,000,000) ---
+1. Forex CFDs
+2. Crypto only
+3. Futures
+4. Instant Funding
+5. Pay Later
+6. $1 Million
+
+--- ACCOUNT SIZES ---
+Forex CFDs: $5K, $10K, $25K, $50K, $100K, 250K(-30%), $400K
+Crypto: $5K, $10K, $25K, $50K, $100K, $200K
+Futures: $25K, $50K, $100K, $150K, $1M
+Instant Funding: $25K, $50K, $100K
+Pay Later: $25K, $50K, $100K
+
+--- PRICING (USD) ---
+Forex CFD 1-Phase: $5K=$10, $10K=$39, $25K=$84, $50K=$213, $100K=$422, $250K=$1,206(-30%), $400K=$844
+Forex CFD 2-Phase: $5K=$28, $10K=$56, $25K=$141, $50K=$253, $100K=$723(-30%), $250K=$506, $400K=$1,406
+Forex CFD Instant: $5K=$225, $10K=$450, $25K=$1,266, $50K=$2,813, $100K=$5,625
+Forex CFD 4-Phase: $5K=$50, $10K=$107, $25K=$281, $50K=$590, $100K=$1,181, $200K=$2,418
+Crypto 1-Phase: $5K=$39, $10K=$90, $25K=$236, $50K=$484, $100K=$1,013, $200K=$2,250
+Crypto 2-Phase: $5K=$300, $10K=$590, $25K=$1,125, $50K=$1,795, $100K=$4,500
+Futures: $25K, $50K, $100K, $150K, $1M
+Pay Later: $25K, $50K, $100K
+
+--- RULES BY PLAN TYPE ---
+1-Phase (Forex CFD): Profit Target 10%, Daily Draw Down 5%, Max Draw Down 6%, Profit Share (Funded) 80%
+2-Phase (Forex CFD): Phase 1 8%/5% DD/7% Max, Phase 2 5%/5%/7%, Funded 80%
+Instant Funding: Profit Share 80%, Daily DD 5%, Max DD 8%
+4-Phase: Phase 1 9%/+/-3% cap/6%, Funded 90%
+5-Phase: Phase 1 6%/+/-3%/9%, Phase 2 9%/+/-3%/9%, Funded 90%
+Pay Later (4-Phase): Phase 1 3%, Phase 2 5%, Phase 3 7%, Phase 4 9%, Phase 5 11%, Funded 80%/90%+20%
+
+--- FUTURES PLAN RULES ---
+- Profit Target per Phase: 9%
+- Max Loss Trails on EOD balance: 5%
+- Consistency Rule: 25% max per day, minimum 4 days to finish each phase
+- Time Limit: 60 days
+- Live Funded Account: Max DrawDown 50%, Profit share 90%, Time Limit N/A
+- Inactivity: Evaluation phases 14 days, Live Funded 7 days
+- Position Holding: End of Day Closing for Evaluation and Live phase
+
+--- PAY LATER PLAN RULES ---
+- Consistency Rule applies only to Funded stage: no single day's profit may exceed 25% of total profit over life of account
+- Profit Buffer: First 3% remains in account as buffer, only profits above 3% can be withdrawn
+- Platforms: DX Trade / cTrader / Match Trader
+- DrawDown type: STATIC
+
+--- DISCOUNTS / PROMOS ---
+- Code CHALLENGE10: Pay $10 platform fee, remaining after passing challenge (first purchase only)
+
+--- FAQ HIGHLIGHTS ---
+- How to lose account: 4 ways - Max Daily Stop Rule, Max Loss Rule, Inactivity (30 days), Prohibited Practices
+- Funded account timing: 24-48 business hours after passing + KYC + Trader Agreement
+- Futures payout during evaluation: YES, after completing phase and meeting 25% consistency rule
+- Breach with gains: YES, paid share of gains even if breached
+
+--- DISCLAIMER ---
+- Trading online is risky, may not be suitable for all
+- Not all traders pass challenge
+- Past performance not indicator of future results
+- Best Prop 4 U is affiliate of Prop Account LLC
+- Prop Account LLC offers fee-based simulated trading assessments
+- ©2025 BestProp4U
+
+================================================================================

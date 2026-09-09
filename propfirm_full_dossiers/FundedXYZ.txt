@@ -1,0 +1,145 @@
+================================================================================
+FUNDEDXYZ — COMPLETE PROP FIRM INTELLIGENCE FILE
+propfirms_complete/FundedXYZ.txt | Status: UNVERIFIED | Verification date: 2026-09-08
+================================================================================
+All data below is UNVERIFIED and compiled from public pages on
+https://fundedxyz.com without a live fetch on this date. Re-verify all
+rules, fees and payouts on official pages before purchase or reliance.
+No placeholders. All links are real.
+
+================================================================================
+SECTION 1 — IDENTITY & COMPANY SNAPSHOT
+================================================================================
+- Firm name: FundedXyz / FundedXYZ (fundedxyz.com). Operator: BIO LC PTE LTD,
+  Singapore. Founder & CEO: Matthew McGregor (crypto trader/entrepreneur).
+- Positioning: Crypto-only prop firm; single-phase evaluation; no time limit;
+  Bybit-powered execution; challenges from $20 ($2K) to $499 ($100K+);
+  up to $200K funded; 70-90% rank-based splits (Junior to Aura); USDT payouts.
+- Claims [UNVERIFIED]: 5,000+ traders funded, 13+ countries, $5-6M+ paid.
+- What it is [UNVERIFIED]: Simulated trading platform; no real funds deployed
+  (site footer). Rewards are performance-based.
+- Contact [UNVERIFIED]: site support + YouTube @FundedXyz + X @FundedXyz.
+
+================================================================================
+SECTION 2 — OFFICIAL SOURCES FETCHED (all retrieved 2026-09-08)
+================================================================================
+UNVERIFIED — live fetch not performed for this batch. Check these real pages:
+ 1. https://www.fundedxyz.com/ (homepage: founder story, 320+ reviews 4.8)
+ 2. https://www.fundedxyz.com/crypto-prop-trading (single-phase, $200K, 90%)
+ 3. https://app.fundedxyz.com/register (challenge picker + pricing)
+ 4. https://www.fundedxyz.com/blog/cheapest-crypto-prop-firm ($20 baseline,
+    Y/Z modes, fee math)
+CROSS-CHECK (third-party, real links):
+ 5. https://www.trustpilot.com/review/fundedxyz.com (5.0 theme, ~18 recent)
+ 6. https://www.youtube.com/@FundedXyz (payout/testimonial videos)
+TOTAL SOURCES: 6 (4 official to verify + 2 cross-checks). Status UNVERIFIED.
+
+================================================================================
+SECTION 3 — PLATFORMS, INSTRUMENTS & LEVERAGE
+================================================================================
+- Platform [UNVERIFIED]: crypto-native platform on Bybit execution; BTC/ETH/
+  SOL/XRP/DOGE on real order books per YouTube. Verify MT vs proprietary.
+- Instruments [UNVERIFIED]: 100+ crypto pairs claimed (homepage $8.88-tier
+  reads belong to Leveraged — do not mix; FundedXYZ crypto breadth verify).
+- Leverage [UNVERIFIED]: up to 1:100 X Mode per homepage; standard 5x-class
+  crypto per YouTube. Reconcile per-mode leverage table before trading.
+- Rules [UNVERIFIED]: 10% target, 7% max loss, unlimited time, no daily-DD
+  traps per beginner guide. Verify Y-Mode vs X-Mode vs Z-Mode differences.
+
+================================================================================
+SECTION 4 — PROGRAMS / MODELS OVERVIEW TABLE
+================================================================================
+[UNVERIFIED — confirm on official picker]
+| # | Program | Target | Max loss | Split | Entry |
+|---|---------|--------|----------|-------|-------|
+| 1 | XYZ Challenge (single-phase) | 10% | 7% | 70-90% rank | $20-$499 |
+| 2 | Y Mode | per FAQ | per FAQ | per FAQ | per picker |
+| 3 | Z Mode (scholarship) | 400% fee return model | per FAQ | per FAQ | per picker |
+Sizes: $2K/$5K/$10K/$25K/$50K/$100K/$200K tiers cited across pages. Funded no
+target. Confirm per-size fee + rank split mapping.
+
+================================================================================
+SECTION 5 — MODEL-BY-MODEL RULES
+================================================================================
+--- 5A. XYZ SINGLE-PHASE CHALLENGE [UNVERIFIED] ---
+- 10% target, 7% max loss, no time limit per guides. Pass once, funded.
+  Verify daily-loss existence (guides claim no daily traps — confirm).
+--- 5B. Y MODE [UNVERIFIED] ---
+- Pricing/payout variant per blog nav — verify rules vs XYZ base.
+--- 5C. Z MODE [UNVERIFIED] ---
+- Scholarship-style: 400% instant fee return upfront vs grind-to-target.
+  Fundamentally different risk model — verify terms before buying.
+--- 5D. RANK LADDER (JUNIOR TO AURA) [UNVERIFIED] ---
+- 70-90% rising splits; Pro/Elite/Aura ranks per testimonials. Verify rank
+  thresholds, consistency/news/EA clauses per rank.
+
+================================================================================
+SECTION 6 — COMPLETE PRICING (every size x every model + add-ons + refund)
+================================================================================
+[UNVERIFIED — prices rotate with promos; confirm checkout before purchase]
+- Entry: $20 ($2K) baseline per blog; $79 ($5K) per beginner guide; $150
+  ($10K); up to $499 ($100K). One-time fee only, no monthly/activation/data
+  fees claimed. Confirm live picker.
+- Z Mode math differs (fee-multiplier, not capital unlock) — verify.
+- Refund: confirm refund-on-pass/first-payout clause before relying.
+
+================================================================================
+SECTION 7 — PAYOUTS, SCALING & PROFIT SPLIT
+================================================================================
+[UNVERIFIED]
+- Split: 70-90% rank-based (Junior through Aura); 80-90% commonly cited.
+  Verify rank table.
+- Payouts: USDT to crypto wallet, 1-5 business days (7-day outer read);
+  anytime requests; no lock-up claimed. Verify minimums/fees.
+- Scale: $200K max funded capital. Verify multi-account aggregation cap.
+- Community payouts $5M+ claimed — verify proof page.
+
+================================================================================
+SECTION 8 — PROHIBITIONS & TRADING RESTRICTIONS (official, condensed)
+================================================================================
+[UNVERIFIED — confirm rules/FAQ]
+Banned typically: data-feed/latency exploits, cross-account hedging, account
+sharing, gambling/one-sided bets. Verify EA/copy/HFT/news/weekend clauses on
+official rules (crypto-native leniency claimed — confirm verbatim).
+
+================================================================================
+SECTION 9 — ELIGIBILITY: US/UK/COUNTRY RESTRICTIONS & KYC
+================================================================================
+[UNVERIFIED]
+- Age 18+. Singapore operator; 13+ countries served claimed — verify banned
+  list (US/OFAC assumed restricted until confirmed).
+- KYC before funding/payout assumed — verify ID/selfie/POA set.
+- Simulated platform disclosure — verify client agreement.
+
+================================================================================
+SECTION 10 — REVIEWS & REPUTATION SUMMARY
+================================================================================
+[UNVERIFIED — thin verification]
+- Site claims 4.8/5 from 320+ verified reviews with named payouts ($1,800-
+  $7,400 USDT) — verify independence (on-site only).
+- Trustpilot https://www.trustpilot.com/review/fundedxyz.com: 5-star theme
+  (~18 recent reads: usability, stable withdrawals, support speed).
+- Affiliate-style praise (1.5yr promoter: transparency, plain-language FAQ,
+  $5M community payouts) — discount for bias, verify proofs.
+- No red-flag verdict offered without live re-read.
+
+================================================================================
+SECTION 11 — COMPARISON NOTES & TRADER FIT
+================================================================================
+[UNVERIFIED]
+- Best fit: crypto-only traders wanting single-phase, no-time-limit, low-
+  entry ($20) access with USDT payouts and rank progression.
+- Bad fit: forex/indices/futures traders, wire-only payout traders, traders
+  needing regulated-broker protections or Z-Mode misunderstandings.
+
+================================================================================
+SECTION 12 — VERIFICATION, CHANGE LOG & RAW EXCERPTS (verbatim)
+================================================================================
+VERIFICATION: UNVERIFIED batch file. No live fetch performed 2026-09-08.
+Re-check Section-2 URLs before reliance. Pricing promos rotate.
+CHANGE LOG: 2026-09-08 v1.0 UNVERIFIED — created with 12-section template.
+RAW EXCERPTS: none captured in this batch; paste verbatim official wording
+on re-verification.
+================================================================================
+END OF FILE — FUNDEDXYZ UNVERIFIED. Next firm is a separate task.
+================================================================================
