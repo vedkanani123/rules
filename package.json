@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && tsx scripts/prerender.tsx && tsx scripts/generate-sitemap.ts",
+    "deploy": "npm run build && wrangler deploy",
     "seo:check": "tsx scripts/validate-seo.ts",
     "preview": "vite preview",
     "test": "vitest run",
@@ -41,6 +42,7 @@
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vite": "^7.3.1",
-    "vitest": "^4.0.18"
+    "vitest": "^4.0.18",
+    "wrangler": "^4.130.0"
   }
 }
