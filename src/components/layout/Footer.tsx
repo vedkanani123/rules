@@ -18,10 +18,19 @@ export const Footer: React.FC<FooterProps> = () => {
           {/* Col 1: Brand & Purpose */}
           <div className="lg:col-span-4">
             <Link href="/" className="flex items-center gap-2.5">
-              <div className="w-6 h-6 bg-white flex items-center justify-center">
-                <div className="w-3 h-3 bg-[#080A10] rotate-45" />
+              <img
+                src="/favicon-48x48.png"
+                alt="Funded Trading Rules Logo"
+                width={28}
+                height={28}
+                className="w-7 h-7 rounded-lg border border-white/10"
+              />
+              <div className="flex flex-col">
+                <span className="text-sm font-semibold text-white leading-tight">
+                  Funded<span className="text-emerald-400">TradingRules</span>
+                </span>
+                <span className="text-[10px] text-[#9CA3AF] mt-0.5">Prop Firm Rules Intelligence</span>
               </div>
-              <span className="text-sm font-semibold text-white">FundedTradingRules.com</span>
             </Link>
             <p className="text-xs leading-relaxed text-[#9CA3AF] mt-3 max-w-sm">
               Independent, evidence-backed intelligence for prop firm traders. Every rule verified with official citations and deterministic math.

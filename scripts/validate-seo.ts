@@ -203,6 +203,25 @@ function validateSeo() {
         message: `Deep page missing visible Breadcrumb navigation`,
       });
     }
+
+    // 9. Google Favicon Multiple of 48px check (home page)
+    if (route.path === '/') {
+      if (!html.includes('sizes="48x48"') || !html.includes('favicon-48x48.png')) {
+        issues.push({
+          route: route.path,
+          type: 'ERROR',
+          message: 'Homepage missing Google-required 48x48px favicon tag in <head>',
+        });
+      }
+      const has48File = fs.existsSync(path.join(distDir, 'favicon-48x48.png'));
+      if (!has48File) {
+        issues.push({
+          route: route.path,
+          type: 'ERROR',
+          message: 'dist/favicon-48x48.png does not exist for Googlebot-Favicons',
+        });
+      }
+    }
   }
 
   // Summary report

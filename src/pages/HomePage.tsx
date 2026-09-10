@@ -36,6 +36,8 @@ import {
   Vote,
   ArrowUpRight,
   Sparkles,
+  ChevronDown,
+  HelpCircle,
 } from 'lucide-react';
 
 interface HomePageProps {
@@ -79,8 +81,31 @@ export const HomePage: React.FC<HomePageProps> = ({
   );
   const allRulesCount = PROP_FIRMS_DATA.reduce((acc, f) => acc + f.rules.length, 0);
 
-  // Coverage tabs (kept for completeness below engine — not in engine itself)
   const [activeTab, setActiveTab] = useState<CoverageTabId>('drawdown');
+  const [openFaq, setOpenFaq] = useState<number | null>(null);
+
+  const homeFaqs = [
+    {
+      q: 'What are funded trading rules?',
+      a: 'Funded trading rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms (prop firms) that traders must follow to pass evaluations and maintain funded accounts. Core rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
+    },
+    {
+      q: 'What are the most common prop firm trading rules?',
+      a: 'The most common prop firm rules include: (1) Daily Loss Limit (typically 3% to 5%), (2) Maximum Trailing or Static Drawdown (typically 6% to 10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
+    },
+    {
+      q: 'How do daily drawdown rules work in funded accounts?',
+      a: 'Daily loss limits cap the maximum equity or balance decline allowed in a single server day (usually resetting at 00:00 server time). In balance-based models, the floor is calculated from the day-start balance. In equity-based models, intraday open profits can pull the daily loss floor upwards, meaning open trades that retrace can trigger a daily drawdown breach.',
+    },
+    {
+      q: 'Why do traders fail prop firm rules?',
+      a: 'The vast majority of prop firm failures are caused by hidden rule mechanics rather than market analysis errors. Common pitfalls include trailing drawdown on unrealized floating profit peaks, violating the 80% margin utilization cap, entering or closing trades within the 2-minute news buffer, and failing to meet weekend flat-position requirements.',
+    },
+    {
+      q: 'What is the difference between a soft breach and a hard breach rule?',
+      a: 'A hard breach (such as exceeding the daily loss limit or maximum overall drawdown) immediately liquidates all positions and closes the funded account. A soft breach (such as leaving a trade open over the weekend or a minor lot size breach) automatically closes the offending trade or cancels profits from that trade without terminating the challenge account.',
+    },
+  ];
 
   const goatAccount = goatFirm.programs.find(p => p.slug === '2-step-standard')?.accounts.find(a=> a.nominalSize===100000) || goatFirm.programs[0]?.accounts[0];
   const dailyLimit = goatAccount?.dailyLossLimit ?? 4;
@@ -163,13 +188,13 @@ export const HomePage: React.FC<HomePageProps> = ({
               </div>
 
               <h1 className="mt-5 text-[30px] sm:text-[38px] lg:text-[42px] xl:text-[46px] font-bold tracking-[-0.032em] leading-[1.05] text-white">
-                Funded Trading Rules:
-                <span className="block text-[#3b82f6]">Know every rule</span>
+                Funded Trading Rules:{' '}
+                <span className="block text-[#3b82f6]">Know every rule</span>{' '}
                 before you buy the challenge.
               </h1>
 
               <p className="mt-4 text-[14px] sm:text-[15px] leading-relaxed text-white/60 max-w-[500px]">
-                Independent prop firm rules intelligence. Compare verified trailing drawdowns, news restrictions, consistency limits, and payout policies across 24 leading proprietary trading firms.
+                Independent prop firm rules intelligence. Compare verified trailing drawdowns, daily loss limits, news restrictions, consistency rules, and payout policies across 24 leading proprietary trading firms.
               </p>
 
               <div className="mt-6 flex flex-col sm:flex-row sm:flex-wrap items-stretch sm:items-center gap-2.5">
@@ -471,6 +496,181 @@ export const HomePage: React.FC<HomePageProps> = ({
                 initialDrawdownType="static"
               />
             </div>
+          </div>
+        </section>
+
+        {/* ================= SEO KNOWLEDGE PILLAR: FUNDED TRADING RULES GUIDE ================= */}
+        <section className="space-y-6">
+          <div className="flex flex-col gap-2">
+            <div className="inline-flex items-center gap-2 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] w-fit text-[11px] font-mono tracking-wide uppercase text-emerald-400">
+              <BookOpen className="w-3 h-3" /> Core Rules Intelligence
+            </div>
+            <h2 className="text-[22px] sm:text-[28px] font-bold tracking-tight text-white leading-tight">
+              Funded Trading Rules: The Complete Prop Firm Evaluation Guide
+            </h2>
+            <p className="text-sm leading-relaxed text-white/50 max-w-3xl">
+              Proprietary trading firms evaluate traders using strict risk limits and contractual boundaries.
+              Whether taking a 1-step, 2-step, or instant evaluation challenge, mastering these six core prop firm trading rules
+              protects your challenge fees from unexpected breaches.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 text-emerald-400">
+                  <TrendingDown className="w-4 h-4" />
+                  <h3 className="text-[15px] font-semibold text-white">Daily Drawdown Rules</h3>
+                </div>
+                <p className="text-xs leading-relaxed text-white/50">
+                  Caps your single-day loss at 3%–5%. In balance-based models, the threshold locks at 00:00 server time.
+                  In equity-based models, floating open profits pull the daily floor up intraday, making pullbacks an instant breach.
+                </p>
+              </div>
+              <button
+                onClick={() => onNavigate('/rules/daily-loss-limit')}
+                className="text-xs font-mono text-emerald-400 hover:text-emerald-300 inline-flex items-center gap-1 w-fit cursor-pointer"
+              >
+                Learn Daily Loss Math →
+              </button>
+            </div>
+
+            <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 text-sky-400">
+                  <Activity className="w-4 h-4" />
+                  <h3 className="text-[15px] font-semibold text-white">Maximum Trailing Drawdown</h3>
+                </div>
+                <p className="text-xs leading-relaxed text-white/50">
+                  Measures maximum loss from high-water mark equity. Unlike static drawdowns that lock at nominal balance,
+                  trailing drawdowns trail behind unrealized profit peaks until the floor reaches the starting nominal balance.
+                </p>
+              </div>
+              <button
+                onClick={() => onNavigate('/rules/trailing-drawdown')}
+                className="text-xs font-mono text-sky-400 hover:text-sky-300 inline-flex items-center gap-1 w-fit cursor-pointer"
+              >
+                Compare Trailing Models →
+              </button>
+            </div>
+
+            <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 text-amber-400">
+                  <Clock3 className="w-4 h-4" />
+                  <h3 className="text-[15px] font-semibold text-white">News Trading Buffers</h3>
+                </div>
+                <p className="text-xs leading-relaxed text-white/50">
+                  Red-folder economic events (CPI, NFP, FOMC) carry high slippage. Many firms strictly prohibit
+                  order execution or position closing 2 minutes before and after scheduled releases on funded tiers.
+                </p>
+              </div>
+              <button
+                onClick={() => onNavigate('/rules/news-trading-restrictions')}
+                className="text-xs font-mono text-amber-400 hover:text-amber-300 inline-flex items-center gap-1 w-fit cursor-pointer"
+              >
+                View News Trading Rules →
+              </button>
+            </div>
+
+            <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 text-purple-400">
+                  <Scale className="w-4 h-4" />
+                  <h3 className="text-[15px] font-semibold text-white">Consistency Rules</h3>
+                </div>
+                <p className="text-xs leading-relaxed text-white/50">
+                  Enforces regular sizing and prevents 'one-trade passes'. Common consistency rules mandate that no single
+                  trading day or single trade can account for more than 15% to 50% of your total evaluation profit target.
+                </p>
+              </div>
+              <button
+                onClick={() => onNavigate('/rules/consistency-rule')}
+                className="text-xs font-mono text-purple-400 hover:text-purple-300 inline-flex items-center gap-1 w-fit cursor-pointer"
+              >
+                Analyze Consistency Limits →
+              </button>
+            </div>
+
+            <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 text-rose-400">
+                  <ShieldAlert className="w-4 h-4" />
+                  <h3 className="text-[15px] font-semibold text-white">Prohibited Strategies</h3>
+                </div>
+                <p className="text-xs leading-relaxed text-white/50">
+                  Prop firms ban toxic execution behaviors including high-frequency latency arbitrage, toxic grid/martingale
+                  averaging down, account sharing, VPN/IP cluster copying, and exploiting delayed broker quotes.
+                </p>
+              </div>
+              <button
+                onClick={() => onNavigate('/rules/prohibited-trading-practices')}
+                className="text-xs font-mono text-rose-400 hover:text-rose-300 inline-flex items-center gap-1 w-fit cursor-pointer"
+              >
+                Explore Prohibited Systems →
+              </button>
+            </div>
+
+            <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
+              <div className="space-y-2">
+                <div className="flex items-center gap-2 text-cyan-400">
+                  <Banknote className="w-4 h-4" />
+                  <h3 className="text-[15px] font-semibold text-white">Payout Gates &amp; Buffer</h3>
+                </div>
+                <p className="text-xs leading-relaxed text-white/50">
+                  Withdrawing profit splits requires meeting active trading day counts (typically 4–5 days),
+                  maintaining account buffer floors, completing KYC identity verification, and passing compliance audits.
+                </p>
+              </div>
+              <button
+                onClick={() => onNavigate('/rules/payout-requirements')}
+                className="text-xs font-mono text-cyan-400 hover:text-cyan-300 inline-flex items-center gap-1 w-fit cursor-pointer"
+              >
+                Inspect Payout Criteria →
+              </button>
+            </div>
+          </div>
+        </section>
+
+        {/* ================= FAQ SECTION (MATCHES SCHEMA.ORG FAQPAGE) ================= */}
+        <section className="rounded-xl bg-[#111318] border border-[#1F2228] p-5 sm:p-7 space-y-5">
+          <div className="space-y-1">
+            <div className="inline-flex items-center gap-1.5 text-xs font-mono text-white/40 uppercase tracking-widest">
+              <HelpCircle className="w-3.5 h-3.5 text-emerald-400" /> Knowledge Base
+            </div>
+            <h2 className="text-[20px] sm:text-[24px] font-bold tracking-tight text-white">
+              Frequently Asked Questions About Prop Firm &amp; Funded Trading Rules
+            </h2>
+            <p className="text-xs sm:text-sm text-white/40 leading-relaxed max-w-2xl">
+              Everything you need to know about passing proprietary trading challenges and maintaining funded accounts.
+            </p>
+          </div>
+
+          <div className="divide-y divide-[#1F2228] border-t border-[#1F2228]">
+            {homeFaqs.map((faq, idx) => {
+              const isOpen = openFaq === idx;
+              return (
+                <div key={idx} className="py-4">
+                  <button
+                    type="button"
+                    onClick={() => setOpenFaq(isOpen ? null : idx)}
+                    className="w-full text-left flex items-center justify-between gap-4 group cursor-pointer"
+                  >
+                    <span className="text-sm sm:text-[15px] font-medium text-white group-hover:text-emerald-400 transition-colors">
+                      {faq.q}
+                    </span>
+                    <span className={`w-6 h-6 rounded-md bg-[#16181E] border border-[#1F2228] flex items-center justify-center text-white/40 group-hover:text-white shrink-0 transition-transform ${isOpen ? 'rotate-180 text-emerald-400' : ''}`}>
+                      <ChevronDown className="w-3.5 h-3.5" />
+                    </span>
+                  </button>
+                  {isOpen && (
+                    <div className="mt-3 text-xs sm:text-sm text-white/60 leading-relaxed pr-8">
+                      <p>{faq.a}</p>
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </section>
 

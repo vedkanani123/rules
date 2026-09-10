@@ -1,12 +1,22 @@
 {
-  "name": "FundedTradingRules.com - Funded Trading & Prop Firm Rules Intelligence",
-  "short_name": "FundedTradingRules",
+  "name": "Funded Trading Rules — Prop Firm Rules & Drawdown Intelligence",
+  "short_name": "Funded Trading Rules",
   "description": "Verified Funded Trading & Prop Firm Rules, Restrictions & Evidence Intelligence",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#080A10",
   "theme_color": "#080A10",
   "icons": [
+    {
+      "src": "/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
     {
       "src": "/favicon-32x32.png",
       "sizes": "32x32",

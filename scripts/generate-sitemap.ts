@@ -40,7 +40,7 @@ function generateSitemapXml(): string {
       changefreq = 'monthly';
     }
 
-    const loc = `${BASE_URL}${route.path === '/' ? '' : route.path}`;
+    const loc = route.canonicalUrl;
 
     return `  <url>
     <loc>${loc}</loc>

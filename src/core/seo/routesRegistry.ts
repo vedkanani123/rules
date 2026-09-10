@@ -34,22 +34,47 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/',
     pageType: 'core',
-    title: 'FundedTradingRules.com — Verified Prop Firm Rules, Restrictions & Evidence Intelligence',
-    metaDescription: 'Know the rules before you buy the challenge. Compare prop trading firms with verified official rules, plain-English explanations, real trader complaints, and account risk simulation.',
+    title: 'Funded Trading Rules & Prop Firm Rules Guide (2026) | Verified Drawdowns & Limits',
+    metaDescription: 'Master funded trading rules and prop firm evaluation rules. Compare verified daily drawdowns, max loss limits, news trading rules, consistency rules, and payout policies across 24+ prop firms.',
     canonicalUrl: `${BASE_URL}/`,
     h1: 'Funded Trading Rules: Know every rule before you buy the challenge.',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [{ name: 'Home', url: '/' }],
-    schemaGraph: [generateOrganizationSchema(), generateWebSiteSchema()],
+    schemaGraph: [
+      generateOrganizationSchema(),
+      generateWebSiteSchema(),
+      generateFAQSchema([
+        {
+          question: 'What are funded trading rules?',
+          answer: 'Funded trading rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms (prop firms) that traders must follow to pass evaluations and maintain funded accounts. Core rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
+        },
+        {
+          question: 'What are the most common prop firm trading rules?',
+          answer: 'The most common prop firm rules include: (1) Daily Loss Limit (typically 3%–5%), (2) Maximum Trailing or Static Drawdown (typically 6%–10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
+        },
+        {
+          question: 'How do daily drawdown rules work in funded accounts?',
+          answer: 'Daily loss limits cap the maximum equity or balance decline allowed in a single server day (usually resetting at 00:00 server time). In balance-based models, the floor is calculated from the day-start balance. In equity-based models, intraday open profits can pull the daily loss floor upwards, meaning open trades that retrace can trigger a daily drawdown breach.',
+        },
+        {
+          question: 'Why do traders fail prop firm rules?',
+          answer: 'The vast majority of prop firm failures are caused by hidden rule mechanics rather than market analysis errors. Common pitfalls include trailing drawdown on unrealized floating profit peaks, violating the 80% margin utilization cap, entering or closing trades within the 2-minute news buffer, and failing to meet weekend flat-position requirements.',
+        },
+        {
+          question: 'What is the difference between a soft breach and a hard breach rule?',
+          answer: 'A hard breach (such as exceeding the daily loss limit or maximum overall drawdown) immediately liquidates all positions and closes the funded account. A soft breach (such as leaving a trade open over the weekend or a minor lot size breach) automatically closes the offending trade or cancels profits from that trade without terminating the challenge account.',
+        },
+      ]),
+    ],
   },
   {
     path: '/prop-firms',
     pageType: 'core',
-    title: 'Prop Firm Directory & Rules Index — Verified Firms | FundedTradingRules.com',
-    metaDescription: 'Browse 24+ proprietary trading firms with verified rules, drawdown models, profit targets, payout consistency rules, and official contract citations.',
+    title: 'Prop Firm Rules Directory & Index — 24+ Verified Trading Firms | FundedTradingRules.com',
+    metaDescription: 'Browse 24+ prop trading firms with verified rules, daily drawdown models, profit targets, payout consistency rules, and official contract citations.',
     canonicalUrl: `${BASE_URL}/prop-firms`,
-    h1: 'Verified Prop Firm Intelligence Directory',
+    h1: 'Prop Firm Directory & Rules Index: Compare 24+ Verified Firms',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -71,10 +96,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/rules',
     pageType: 'core',
-    title: 'Rule Intelligence Guides — Master Every Prop Firm Rule | FundedTradingRules.com',
-    metaDescription: 'Deep architectural guides to every prop firm rule: trailing vs balance drawdown, 2-minute news buffers, 80% margin limits, IP clustering, and payout gates.',
+    title: 'Prop Firm Rules & Funded Trading Rules Guide | FundedTradingRules.com',
+    metaDescription: 'Comprehensive prop firm rules guide: trailing vs balance drawdown, 2-minute news buffers, 80% margin caps, IP clustering rules, and payout consistency requirements.',
     canonicalUrl: `${BASE_URL}/rules`,
-    h1: 'Prop Firm Rules & Contract Intelligence Hub',
+    h1: 'Prop Firm Rules & Funded Trading Rules Guide: Interactive Rule Intelligence',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [

@@ -221,10 +221,10 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                 <Building className="w-3 h-3" /> Prop Firm Directory — Evidence-First
               </p>
               <h1 className="text-[26px] sm:text-[32px] font-semibold tracking-tight text-white leading-tight">
-                Every prop firm, <span className="text-[#8A8F98]">decoded.</span>
+                Prop Firm Rules Directory: <span className="text-[#8A8F98]">Every Firm Decoded.</span>
               </h1>
               <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-2 max-w-2xl">
-                Compare verified rules, not marketing. Each firm shows real program-level rules, drawdown math, payout gates and hidden conditions — with source.
+                Compare verified prop firm trading rules, not marketing hype. Each firm shows real program-level drawdown math, profit splits, news policies, and payout criteria with official citations.
               </p>
               <div className="flex flex-wrap items-center gap-2 mt-3">
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-medium text-emerald-400"><Shield className="w-3 h-3" />{verifiedCount} verified</span>

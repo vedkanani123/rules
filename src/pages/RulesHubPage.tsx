@@ -355,8 +355,10 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
           <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6">
             <div>
               <p className="text-[11px] tracking-[0.14em] uppercase font-medium text-[#8A8F98] flex items-center gap-2 mb-3"><BookOpen className="w-3 h-3" /> Learning Hub — Evidence-First</p>
-              <h1 className="text-[28px] sm:text-[36px] font-semibold tracking-tight text-white leading-tight">Every rule, <span className="text-[#8A8F98]">visually decoded.</span></h1>
-              <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl">Not a blog. An interactive learning system — every rule has a live visual, formula, real dollar example, and the exact firm wording that traps traders.</p>
+              <h1 className="text-[28px] sm:text-[36px] font-semibold tracking-tight text-white leading-tight">
+                Prop Firm Rules &amp; Funded Trading Rules Guide: <span className="text-[#8A8F98]">Visually Decoded.</span>
+              </h1>
+              <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl">Not a marketing blog. An interactive rule intelligence system — every prop firm rule has a live visual, calculation formula, real dollar example, and verified citation.</p>
               <div className="flex flex-wrap items-center gap-2 mt-4">
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-medium text-emerald-400"><Shield className="w-3 h-3" />{RULE_GUIDES.length} guides</span>
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Calculator className="w-3 h-3" />{cats.length - 1} categories</span>

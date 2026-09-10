@@ -28,13 +28,20 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath, onOpenSearch }) => 
     <header className="sticky top-0 z-40 w-full bg-[#080A10]/90 backdrop-blur-xl border-b border-[#1F2228]">
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8" ref={ref}>
         <div className="flex items-center justify-between h-[64px] gap-3">
-          <Link href="/" className="flex items-center gap-2.5 shrink-0" aria-label="FundedTradingRules.com Home">
-            <div className="w-8 h-8 rounded-md bg-white flex items-center justify-center text-[#080A10] shadow-sm">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
-                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-              </svg>
+          <Link href="/" className="flex items-center gap-2.5 shrink-0 group" aria-label="Funded Trading Rules Home">
+            <img
+              src="/favicon-48x48.png"
+              alt="Funded Trading Rules Logo"
+              width={32}
+              height={32}
+              className="w-8 h-8 rounded-lg shadow-sm border border-white/10 group-hover:border-emerald-500/40 transition-colors"
+            />
+            <div className="flex flex-col">
+              <span className="text-[15px] font-bold tracking-[-0.015em] text-white leading-tight">
+                Funded<span className="text-emerald-400">TradingRules</span>
+              </span>
+              <span className="text-[9px] font-mono text-white/40 tracking-wider uppercase hidden sm:block">Rules Intelligence</span>
             </div>
-            <span className="text-[15px] font-bold tracking-[-0.015em] text-white">FundedTradingRules</span>
           </Link>
 
           <nav className="hidden lg:flex items-center gap-7">

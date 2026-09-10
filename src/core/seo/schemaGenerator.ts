@@ -13,13 +13,20 @@ export function generateOrganizationSchema() {
     '@type': 'Organization',
     '@id': `${BASE_URL}/#organization`,
     name: 'FundedTradingRules.com',
-    alternateName: ['FundedTradingRules', 'PropFirmRules'],
+    alternateName: [
+      'Funded Trading Rules',
+      'FundedTradingRules',
+      'Prop Firm Rules',
+      'Prop Firm Trading Rules',
+      'Funded Rules',
+      'PropFirmRules'
+    ],
     url: BASE_URL,
     logo: {
       '@type': 'ImageObject',
-      url: `${BASE_URL}/og-image.png`,
-      width: 1200,
-      height: 630,
+      url: `${BASE_URL}/logo.png`,
+      width: 512,
+      height: 512,
     },
     description: 'Independent, evidence-backed intelligence and deterministic rule calculation for funded trading accounts and proprietary trading firms.',
     contactPoint: {
@@ -36,8 +43,16 @@ export function generateWebSiteSchema() {
     '@type': 'WebSite',
     '@id': `${BASE_URL}/#website`,
     url: BASE_URL,
-    name: 'FundedTradingRules.com',
-    alternateName: ['Funded Trading Rules Intelligence', 'Prop Firm Rules'],
+    name: 'Funded Trading Rules',
+    alternateName: [
+      'FundedTradingRules',
+      'FundedTradingRules.com',
+      'Funded Trading Rules Intelligence',
+      'Prop Firm Rules',
+      'Prop Firm Trading Rules',
+      'Funded Rules',
+      'PropFirmRules'
+    ],
     description: 'Verified Prop Firm Rules, Restrictions & Evidence Intelligence',
     publisher: {
       '@id': `${BASE_URL}/#organization`,
