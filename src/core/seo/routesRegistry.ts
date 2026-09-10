@@ -34,10 +34,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/',
     pageType: 'core',
-    title: 'Funded Trading Rules & Prop Firm Rules Guide (2026) | Verified Drawdowns & Limits',
-    metaDescription: 'Master funded trading rules and prop firm evaluation rules. Compare verified daily drawdowns, max loss limits, news trading rules, consistency rules, and payout policies across 24+ prop firms.',
+    title: 'Funded Rules: Prop Firm Trading Rules & Drawdowns (2026)',
+    metaDescription: 'Compare verified funded rules and prop firm trading rules. Real drawdown math, news buffers, consistency rules, and payout terms across 24+ firms.',
     canonicalUrl: `${BASE_URL}/`,
-    h1: 'Funded Trading Rules: Know every rule before you buy the challenge.',
+    h1: 'Funded Rules & Prop Firm Trading Rules: Know Every Rule Before You Buy',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [{ name: 'Home', url: '/' }],
@@ -46,23 +46,23 @@ const CORE_ROUTES: RouteSEOData[] = [
       generateWebSiteSchema(),
       generateFAQSchema([
         {
-          question: 'What are funded trading rules?',
-          answer: 'Funded trading rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms (prop firms) that traders must follow to pass evaluations and maintain funded accounts. Core rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
+          question: 'What are funded rules in prop trading?',
+          answer: 'Funded rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms (prop firms) that traders must follow to pass evaluations and maintain funded accounts. Core funded rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
         },
         {
-          question: 'What are the most common prop firm trading rules?',
-          answer: 'The most common prop firm rules include: (1) Daily Loss Limit (typically 3%–5%), (2) Maximum Trailing or Static Drawdown (typically 6%–10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
+          question: 'What are the most common funded rules and prop firm restrictions?',
+          answer: 'The most common funded rules include: (1) Daily Loss Limit (typically 3%–5%), (2) Maximum Trailing or Static Drawdown (typically 6%–10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
         },
         {
-          question: 'How do daily drawdown rules work in funded accounts?',
+          question: 'How do daily drawdown funded rules work in prop trading?',
           answer: 'Daily loss limits cap the maximum equity or balance decline allowed in a single server day (usually resetting at 00:00 server time). In balance-based models, the floor is calculated from the day-start balance. In equity-based models, intraday open profits can pull the daily loss floor upwards, meaning open trades that retrace can trigger a daily drawdown breach.',
         },
         {
-          question: 'Why do traders fail prop firm rules?',
+          question: 'Why do traders fail funded rules?',
           answer: 'The vast majority of prop firm failures are caused by hidden rule mechanics rather than market analysis errors. Common pitfalls include trailing drawdown on unrealized floating profit peaks, violating the 80% margin utilization cap, entering or closing trades within the 2-minute news buffer, and failing to meet weekend flat-position requirements.',
         },
         {
-          question: 'What is the difference between a soft breach and a hard breach rule?',
+          question: 'What is the difference between soft breach and hard breach funded rules?',
           answer: 'A hard breach (such as exceeding the daily loss limit or maximum overall drawdown) immediately liquidates all positions and closes the funded account. A soft breach (such as leaving a trade open over the weekend or a minor lot size breach) automatically closes the offending trade or cancels profits from that trade without terminating the challenge account.',
         },
       ]),

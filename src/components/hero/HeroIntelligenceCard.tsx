@@ -306,7 +306,7 @@ export const HeroIntelligenceCard: React.FC<HeroIntelligenceCardProps> = ({ onOp
             <div className="w-8 h-8 rounded-lg bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] flex items-center justify-center overflow-hidden shrink-0 p-0.5">
               <img
                 src={(firm as any).logoUrl || firm.countryFlag}
-                alt=""
+                alt={`${firm.name} logo`}
                 className="w-full h-full object-contain"
                 onError={(event) => {
                   (event.currentTarget as HTMLImageElement).src = firm.countryFlag;

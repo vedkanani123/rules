@@ -59,7 +59,10 @@ export function generateWebSiteSchema() {
     },
     potentialAction: {
       '@type': 'SearchAction',
-      target: `${BASE_URL}/rules?q={search_term_string}`,
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: `${BASE_URL}/rules?q={search_term_string}`,
+      },
       'query-input': 'required name=search_term_string',
     },
   };

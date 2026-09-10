@@ -129,7 +129,7 @@ export const AttributeLandingPage: React.FC<AttributeLandingPageProps> = ({ attr
                         </td>
                         <td className="py-3.5 px-4 text-[#8A8F98]">
                           <div className="flex items-center gap-1.5">
-                            <span className="text-xs">{firm.countryFlag ? <img src={firm.countryFlag} alt="" className="w-3.5 h-2.5 inline-block mr-1" /> : null}</span>
+                            <span className="text-xs">{firm.countryFlag ? <img src={firm.countryFlag} alt={`${firm.country} flag`} className="w-3.5 h-2.5 inline-block mr-1" /> : null}</span>
                             <span>{firm.country}</span>
                             <span className="text-emerald-400 font-mono font-bold ml-1">{firm.scorecard.overallScore}/100</span>
                           </div>
