@@ -27,8 +27,8 @@ import { CookieConsent } from './components/layout/CookieConsent.tsx';
 import { trackEvent } from './utils/analytics.ts';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from './data/propFirmsData.ts';
 import { REAL_FIRMS } from './data/propFirmMatchReal.ts';
-import { SourceEvidence } from './types/schema.ts';
 import { getRouteSEOData as getRouteByPath } from './core/seo/routesRegistry.ts';
+import { BASE_URL } from './core/seo/schemaGenerator.ts';
 
 const PageSkeleton: React.FC = () => (
   <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-4 animate-pulse">
@@ -139,7 +139,7 @@ export const App: React.FC = () => {
     metaDesc.setAttribute('content', desc);
 
     // 3. Update Canonical Tag
-    const canonicalUrl = `https://fundedtradingrules.com${cleanPath === '/' ? '' : cleanPath}`;
+    const canonicalUrl = `${BASE_URL}${cleanPath === '/' ? '' : cleanPath}`;
     let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
     if (!canonical) {
       canonical = document.createElement('link');

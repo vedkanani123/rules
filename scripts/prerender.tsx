@@ -7,6 +7,7 @@ import path from 'node:path';
 import React from 'react';
 import ReactDOMServer from 'react-dom/server';
 import { ALL_SEO_ROUTES, RouteSEOData } from '../src/core/seo/routesRegistry.ts';
+import { BASE_URL } from '../src/core/seo/schemaGenerator.ts';
 import { App } from '../src/App.tsx';
 
 // Setup Mock DOM environment for Node SSR
@@ -16,7 +17,7 @@ function setupMockDom(targetPath: string) {
       pathname: targetPath,
       search: '',
       hash: '',
-      href: `https://fundedtradingrules.com${targetPath}`,
+      href: `${BASE_URL}${targetPath}`,
     },
     addEventListener: () => {},
     removeEventListener: () => {},

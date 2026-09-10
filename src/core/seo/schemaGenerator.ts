@@ -6,7 +6,7 @@ export interface BreadcrumbItem {
   url: string;
 }
 
-export const BASE_URL = 'https://fundedtradingrules.com';
+export const BASE_URL = 'https://www.fundedtradingrules.com';
 
 export function generateOrganizationSchema() {
   return {

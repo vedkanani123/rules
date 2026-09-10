@@ -7,5 +7,5 @@ Disallow: /admin
 Disallow: /crawler-admin
 
 # Host and Sitemap
-Host: https://fundedtradingrules.com
-Sitemap: https://fundedtradingrules.com/sitemap.xml
+Host: https://www.fundedtradingrules.com
+Sitemap: https://www.fundedtradingrules.com/sitemap.xml
