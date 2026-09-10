@@ -27,6 +27,7 @@ import { CookieConsent } from './components/layout/CookieConsent.tsx';
 import { trackEvent } from './utils/analytics.ts';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from './data/propFirmsData.ts';
 import { REAL_FIRMS } from './data/propFirmMatchReal.ts';
+import { SourceEvidence } from './types/schema.ts';
 import { getRouteSEOData as getRouteByPath } from './core/seo/routesRegistry.ts';
 import { BASE_URL } from './core/seo/schemaGenerator.ts';
 

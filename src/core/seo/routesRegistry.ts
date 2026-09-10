@@ -37,7 +37,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     title: 'FundedTradingRules.com — Verified Prop Firm Rules, Restrictions & Evidence Intelligence',
     metaDescription: 'Know the rules before you buy the challenge. Compare prop trading firms with verified official rules, plain-English explanations, real trader complaints, and account risk simulation.',
     canonicalUrl: `${BASE_URL}/`,
-    h1: 'Know the rules before you buy the challenge.',
+    h1: 'Funded Trading Rules: Know every rule before you buy the challenge.',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [{ name: 'Home', url: '/' }],

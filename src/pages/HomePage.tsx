@@ -163,13 +163,13 @@ export const HomePage: React.FC<HomePageProps> = ({
               </div>
 
               <h1 className="mt-5 text-[30px] sm:text-[38px] lg:text-[42px] xl:text-[46px] font-bold tracking-[-0.032em] leading-[1.05] text-white">
-                Know the rules
-                <span className="block text-[#3b82f6]">before you pay</span>
-                for the challenge.
+                Funded Trading Rules:
+                <span className="block text-[#3b82f6]">Know every rule</span>
+                before you buy the challenge.
               </h1>
 
               <p className="mt-4 text-[14px] sm:text-[15px] leading-relaxed text-white/60 max-w-[500px]">
-                Every FAQ, term sheet and payout policy — read and cited. No affiliate hype. Know the traps before you buy the challenge.
+                Independent prop firm rules intelligence. Compare verified trailing drawdowns, news restrictions, consistency limits, and payout policies across 24 leading proprietary trading firms.
               </p>
 
               <div className="mt-6 flex flex-col sm:flex-row sm:flex-wrap items-stretch sm:items-center gap-2.5">

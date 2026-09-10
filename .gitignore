@@ -16,7 +16,6 @@ prop-firm-intelligence-platform/dist/
 coverage/
 
 # Local tooling / caches
-.wrangler/
 .claude/settings.local.json
 .omc/
 .ruff_cache/
