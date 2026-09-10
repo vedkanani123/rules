@@ -1,0 +1,267 @@
+// Curated High-Intent Firm Comparison Pairs
+// Alphabetically sorted canonical pairs (firmA < firmB) to prevent duplicate A/B vs B/A pages.
+
+import { PROP_FIRMS_DATA } from '../../data/propFirmsData.ts';
+import { ALL_FIRMS_CANONICAL_DATA } from '../../data/allFirmsCanonicalData.ts';
+
+export interface ComparisonPair {
+  slug: string;
+  firmASlug: string;
+  firmBSlug: string;
+  firmAName: string;
+  firmBName: string;
+  title: string;
+  metaDescription: string;
+  verdict: string;
+  keyDifferences: {
+    title: string;
+    description: string;
+  }[];
+  suitabilityA: string;
+  suitabilityB: string;
+}
+
+// Canonical pair generator helper
+export function getCanonicalCompareSlug(firmA: string, firmB: string): string {
+  const [first, second] = [firmA, firmB].sort();
+  return `${first}-vs-${second}`;
+}
+
+export const CURATED_COMPARISONS: ComparisonPair[] = [
+  {
+    slug: 'ftmo-vs-topstep',
+    firmASlug: 'ftmo',
+    firmBSlug: 'topstep',
+    firmAName: 'FTMO',
+    firmBName: 'Topstep',
+    title: 'FTMO vs Topstep Rules & Drawdown Comparison (2026)',
+    metaDescription: 'Direct side-by-side rule comparison: FTMO (Forex/CFD static drawdown) vs Topstep (Futures intraday trailing drawdown). Target, daily loss, and payout rules compared.',
+    verdict: 'FTMO is best for Forex/CFD swing and day traders wanting static balance drawdown. Topstep is the premier choice for CME/CBOT futures day traders seeking rapid scaling and exchange compliance.',
+    keyDifferences: [
+      {
+        title: 'Drawdown Mechanism',
+        description: 'FTMO uses a static 10% maximum loss calculated against initial account balance. Topstep uses an End-of-Day (EOD) trailing maximum drawdown that trails upward with unrealized trading gains.',
+      },
+      {
+        title: 'Tradable Instruments & Venues',
+        description: 'FTMO provides simulated CFD trading on Forex, Metals, Indices, and Crypto via MT4, MT5, cTrader, and DXtrade. Topstep provides direct market access to regulated Futures (ES, NQ, CL, GC) on NinjaTrader and TradingView.',
+      },
+      {
+        title: 'News & Weekend Trading',
+        description: 'FTMO Swing accounts allow weekend holding and news execution without restriction (Standard challenge has a 2-minute news buffer). Topstep strictly prohibits holding futures positions through weekend exchange market closures.',
+      },
+      {
+        title: 'Profit Split & Payouts',
+        description: 'FTMO offers 80% to 90% profit splits with bi-weekly payout cycles. Topstep provides 100% of the first $10,000 in payouts, scaling to 90% thereafter with daily payout processing upon qualification.',
+      },
+    ],
+    suitabilityA: 'Swing traders, algorithmic MT5 EA users, and multi-asset CFD traders looking for generous drawdown cushions.',
+    suitabilityB: 'Intraday futures scalpers and order-flow traders who want 100% initial profit retention and TradingView integration.',
+  },
+  {
+    slug: 'ftmo-vs-funding-pips',
+    firmASlug: 'ftmo',
+    firmBSlug: 'funding-pips',
+    firmAName: 'FTMO',
+    firmBName: 'Funding Pips',
+    title: 'FTMO vs Funding Pips Rules & Fees Comparison (2026)',
+    metaDescription: 'Compare FTMO vs Funding Pips: Evaluation targets (8% vs 10%), balance-based daily loss rules, payout frequency, and pricing side-by-side with verified evidence.',
+    verdict: 'Funding Pips provides significantly lower entry prices ($32 for 5k vs FTMO €155 minimum) with lower phase targets (8%/5%), while FTMO offers superior operational longevity, DXtrade/cTrader options, and higher institutional trust.',
+    keyDifferences: [
+      {
+        title: 'Phase 1 Profit Target',
+        description: 'Funding Pips requires an 8% Phase 1 profit target, whereas FTMO mandates a 10% profit target on standard challenges.',
+      },
+      {
+        title: 'Pricing & Entry Fees',
+        description: 'Funding Pips accounts are priced among the most affordable in the industry ($399 for $100k), whereas FTMO $100k costs approximately €540 ($580).',
+      },
+      {
+        title: 'Platforms Supported',
+        description: 'FTMO supports MetaTrader 4, MetaTrader 5, cTrader, and DXtrade. Funding Pips operates on TradeLocker, Match-Trader, and cTrader.',
+      },
+      {
+        title: 'First Payout Waiting Period',
+        description: 'Funding Pips offers weekly on-demand payouts on funded stages after the initial 14-day cycle. FTMO provides on-demand payout requests every 14 days.',
+      },
+    ],
+    suitabilityA: 'Traders who prioritize an audited 10-year track record, large scaling up to $2M, and premium broker feeds.',
+    suitabilityB: 'Budget-conscious traders looking for 8% targets, fast 1-day minimum trading days, and low challenge fees.',
+  },
+  {
+    slug: 'ftmo-vs-funded-next',
+    firmASlug: 'ftmo',
+    firmBSlug: 'funded-next',
+    firmAName: 'FTMO',
+    firmBName: 'FundedNext',
+    title: 'FTMO vs FundedNext Rules & Profit Split Comparison (2026)',
+    metaDescription: 'Side-by-side rules comparison between FTMO and FundedNext. Compare Stellar 1-Step, 2-Step, balance-based drawdowns, and 15% evaluation profit sharing.',
+    verdict: 'FundedNext differentiates itself by paying a 15% profit share during the evaluation challenge phase and offering both 1-step and instant funding, whereas FTMO represents the gold standard for institutional discipline and dispute-free payouts.',
+    keyDifferences: [
+      {
+        title: 'Evaluation Profit Share',
+        description: 'FundedNext pays traders 15% of the simulated profits generated during Phase 1 & Phase 2 once they pass and receive their first funded payout. FTMO does not share profits made during challenge phases.',
+      },
+      {
+        title: 'Drawdown Calculation',
+        description: 'Both firms feature balance-based daily loss options, but FundedNext also offers 1-step challenges with trailing drawdown and instant funding accounts.',
+      },
+      {
+        title: 'Consistency Rule on Payouts',
+        description: 'FTMO has zero consistency rules on standard challenges. FundedNext enforces a consistency range rule on certain models to prevent lot-size gambling before payout review.',
+      },
+    ],
+    suitabilityA: 'Traders seeking an uncompromised institutional benchmark with zero payout consistency traps.',
+    suitabilityB: 'Traders who want evaluation profit bonuses, 1-step options, and 95% scaling profit splits.',
+  },
+  {
+    slug: 'ftmo-vs-the-5ers',
+    firmASlug: 'ftmo',
+    firmBSlug: 'the-5ers',
+    firmAName: 'FTMO',
+    firmBName: 'The 5%ers',
+    title: 'FTMO vs The 5%ers Rules, Scaling & Bootcamp Comparison',
+    metaDescription: 'Compare FTMO vs The 5%ers: High Stakes 2-step, $4M career scaling bootcamp, static drawdowns, and leverage limits compared with official source citations.',
+    verdict: 'The 5%ers excels for long-term career traders through their $4,000,000 scaling plan and Bootcamp model, whereas FTMO delivers higher leverage (1:100 vs 1:30) and multi-platform diversity.',
+    keyDifferences: [
+      {
+        title: 'Scaling Ceiling',
+        description: 'The 5%ers offers career scaling up to $4,000,000 with doubling account sizes every 10% gain. FTMO caps standard allocation at $400,000 ($2M with scaling plan).',
+      },
+      {
+        title: 'Leverage',
+        description: 'FTMO provides up to 1:100 leverage on Forex instruments. The 5%ers restricts standard leverage to 1:30 or 1:10 to enforce strict institutional risk boundaries.',
+      },
+      {
+        title: 'Bootcamp 3-Step Model',
+        description: 'The 5%ers provides a low entry-cost Bootcamp challenge where traders only pay the full challenge fee after passing evaluation phases.',
+      },
+    ],
+    suitabilityA: 'High-leverage day traders and scalp traders wanting 1:100 purchasing power.',
+    suitabilityB: 'Low-risk swing traders and systematic portfolio builders focused on multi-million dollar career capital.',
+  },
+  {
+    slug: 'apex-trader-funding-vs-topstep',
+    firmASlug: 'apex-trader-funding',
+    firmBSlug: 'topstep',
+    firmAName: 'Apex Trader Funding',
+    firmBName: 'Topstep',
+    title: 'Apex Trader Funding vs Topstep: Futures Rules Compared (2026)',
+    metaDescription: 'Detailed futures prop firm comparison: Apex Trader Funding vs Topstep. Intraday trailing drawdown vs End-of-Day trailing, payout thresholds, and contract limits.',
+    verdict: 'Topstep provides a safer End-of-Day (EOD) trailing drawdown and free activation fees on TradingView, while Apex Trader Funding offers higher account allocations (up to 20 accounts) with deep promotional discounts.',
+    keyDifferences: [
+      {
+        title: 'Trailing Drawdown Calculation',
+        description: 'Apex Trader Funding enforces an intraday trailing drawdown that ratchets upward on unrealized open equity ticks. Topstep uses an End-of-Day (EOD) calculation that calculates only at the daily market close.',
+      },
+      {
+        title: 'Multi-Account Capability',
+        description: 'Apex allows traders to trade up to 20 funded accounts concurrently using trade copiers. Topstep limits traders to 3 concurrent Express Funded Accounts.',
+      },
+      {
+        title: 'Payout Gates & Minimum Days',
+        description: 'Apex mandates 10 active trading days per payout request with strict payout caps during the first 3 months. Topstep requires winning days of $200+ with 50% consistency compliance.',
+      },
+    ],
+    suitabilityA: 'Experienced multi-account copy traders who can manage intraday peak trailing drawdown without letting profits evaporate.',
+    suitabilityB: 'Futures traders who need intraday breathing room and refuse to be penalized by unrealized intra-trade pullbacks.',
+  },
+  {
+    slug: 'funding-pips-vs-goat-funded-trader',
+    firmASlug: 'funding-pips',
+    firmBSlug: 'goat-funded-trader',
+    firmAName: 'Funding Pips',
+    firmBName: 'Goat Funded Trader',
+    title: 'Funding Pips vs Goat Funded Trader Rules & Traps Comparison',
+    metaDescription: 'Compare Funding Pips vs Goat Funded Trader: Balance-based daily drawdown, 1-step vs 2-step evaluation rules, news trading windows, and payout consistency.',
+    verdict: 'Both firms feature trader-friendly balance-based daily loss rules, but Goat Funded Trader provides on-demand 24h payout guarantees and BOGO promos, while Funding Pips maintains simpler rule consistency terms.',
+    keyDifferences: [
+      {
+        title: 'Daily Loss Calculation Basis',
+        description: 'Both firms calculate daily loss from midnight starting balance/equity, protecting traders from floating profit traps.',
+      },
+      {
+        title: 'News Trading Buffer',
+        description: 'Goat Funded Trader enforces a strict 2-minute news buffer on funded accounts for red-folder releases. Funding Pips permits news holding on standard accounts.',
+      },
+      {
+        title: 'Program Variety',
+        description: 'Goat Funded Trader offers 1-step, 2-step, and instant funding with up to 100% profit split. Funding Pips offers 1-step, 2-step, and zero-evaluation accounts.',
+      },
+    ],
+    suitabilityA: 'Traders who prefer clean payout guidelines and Match-Trader / cTrader interfaces.',
+    suitabilityB: 'Traders seeking high profit splits (up to 100%), instant scaling, and promotional BOGO incentives.',
+  },
+  {
+    slug: 'e8-markets-vs-ftmo',
+    firmASlug: 'e8-markets',
+    firmBSlug: 'ftmo',
+    firmAName: 'E8 Markets',
+    firmBName: 'FTMO',
+    title: 'E8 Markets vs FTMO Rules & Custom Evaluation Comparison',
+    metaDescription: 'Compare E8 Markets vs FTMO: E8 custom drawdown sliders (up to 14% max loss), 1-step to 3-step flexibility, vs FTMO static 10% institutional challenge.',
+    verdict: 'E8 Markets offers unmatched rule customization (choose your own drawdown, profit target, and payout split), while FTMO maintains higher brand trust, tighter spreads, and greater regulatory clarity.',
+    keyDifferences: [
+      {
+        title: 'Customizable Rules & Sizing',
+        description: 'E8 Markets allows traders to build custom challenge accounts with adjustable drawdown (up to 14%) and payout parameters. FTMO maintains fixed evaluation rules.',
+      },
+      {
+        title: 'Scaling Framework',
+        description: 'E8 Markets features the E8 Track scaling program up to $1,000,000 with balance increments. FTMO scales by 25% every 4 months with sustained profit.',
+      },
+      {
+        title: 'Trading Days Requirements',
+        description: 'E8 Markets has zero minimum trading days on evaluation phases. FTMO requires a minimum of 4 trading days per phase.',
+      },
+    ],
+    suitabilityA: 'Traders wanting custom risk parameters, higher max drawdown buffers, and immediate 1-day phase passes.',
+    suitabilityB: 'Traders who want verified execution consistency, top-tier institutional liquidity, and zero slippage disputes.',
+  },
+];
+
+// Helper to look up curated comparison or generate dynamic pair
+export function getComparisonPairData(slug: string): ComparisonPair | null {
+  const curated = CURATED_COMPARISONS.find(c => c.slug === slug);
+  if (curated) return curated;
+
+  // Dynamic resolution for arbitrary pairs: [firmA]-vs-[firmB]
+  const parts = slug.split('-vs-');
+  if (parts.length !== 2) return null;
+  const [slugA, slugB] = parts;
+
+  const firmA = PROP_FIRMS_DATA.find(f => f.slug === slugA);
+  const firmB = PROP_FIRMS_DATA.find(f => f.slug === slugB);
+  if (!firmA || !firmB) return null;
+
+  return {
+    slug,
+    firmASlug: firmA.slug,
+    firmBSlug: firmB.slug,
+    firmAName: firmA.name,
+    firmBName: firmB.name,
+    title: `${firmA.name} vs ${firmB.name} Rules & Drawdown Comparison`,
+    metaDescription: `Compare ${firmA.name} vs ${firmB.name} side by side: Daily loss limits, maximum drawdown mechanics, profit targets, payout frequency, and official terms citations.`,
+    verdict: `${firmA.name} and ${firmB.name} offer distinct trading terms. Compare their drawdown mechanics, news trading restrictions, and payout rules below to find the best match.`,
+    keyDifferences: [
+      {
+        title: 'Drawdown Model',
+        description: `${firmA.name} uses ${firmA.programs[0]?.accounts[0]?.drawdownType || 'static'} drawdown, while ${firmB.name} enforces ${firmB.programs[0]?.accounts[0]?.drawdownType || 'static'} drawdown.`,
+      },
+      {
+        title: 'Daily Loss Limit',
+        description: `${firmA.name} allows ${firmA.programs[0]?.accounts[0]?.dailyLossLimit || 5}% daily loss, compared to ${firmB.programs[0]?.accounts[0]?.dailyLossLimit || 5}% at ${firmB.name}.`,
+      },
+      {
+        title: 'Supported Trading Platforms',
+        description: `${firmA.name} supports ${firmA.platforms.slice(0, 3).join(', ')}, while ${firmB.name} offers ${firmB.platforms.slice(0, 3).join(', ')}.`,
+      },
+      {
+        title: 'News Trading & Restrictions',
+        description: `${firmA.name} lists news trading as ${firmA.programs[0]?.accounts[0]?.newsTradingRule || 'Allowed'}, whereas ${firmB.name} specifies ${firmB.programs[0]?.accounts[0]?.newsTradingRule || 'Allowed'}.`,
+      },
+    ],
+    suitabilityA: `Traders prioritizing ${firmA.tagline || firmA.name + ' terms and platform infrastructure'}.`,
+    suitabilityB: `Traders prioritizing ${firmB.tagline || firmB.name + ' terms and platform infrastructure'}.`,
+  };
+}

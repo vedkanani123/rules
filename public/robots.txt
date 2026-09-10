@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow private admin / internal crawler tools
+Disallow: /admin
+Disallow: /crawler-admin
+
+# Host and Sitemap
+Host: https://fundedtradingrules.com
+Sitemap: https://fundedtradingrules.com/sitemap.xml

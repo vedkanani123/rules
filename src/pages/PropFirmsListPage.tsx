@@ -3,6 +3,9 @@ import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
 import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
 import { REAL_FIRMS } from '../data/propFirmMatchReal.ts';
 import { PropFirm, SourceEvidence } from '../types/schema.ts';
+import { Link } from '../components/common/Link.tsx';
+import { Breadcrumbs } from '../components/common/Breadcrumbs.tsx';
+import { ATTRIBUTE_PAGES } from '../core/seo/attributePagesData.ts';
 import { Building, Star, Globe, Search, Filter, ArrowUpDown, Shield, Check, Crown, Zap, AlertTriangle, ArrowRight, Scale, Eye, Clock, Award, TrendingUp } from 'lucide-react';
 
 interface PropFirmsListPageProps {
@@ -211,6 +214,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       {/* Header */}
       <div className="border-b border-[#1F2228] bg-[#080A10]">
         <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
+          <Breadcrumbs items={[{ name: 'Home', url: '/' }, { name: 'Prop Firms', url: '/prop-firms' }]} className="pb-3" />
           <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-4">
             <div>
               <p className="text-[11px] tracking-[0.14em] uppercase font-medium text-[#8A8F98] mb-2 flex items-center gap-2">
@@ -232,10 +236,24 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
             <div className="shrink-0 flex flex-col gap-2 sm:items-end">
               <div className="flex items-center gap-2 text-[11px] text-[#8A8F98]">
                 <span className="hidden sm:inline">Methodology</span>
-                <a href="#" onClick={(e)=>{e.preventDefault(); onNavigate('/compare');}} className="px-3 py-1.5 rounded-full bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] text-white text-xs">Compare programs →</a>
+                <Link href="/compare" className="px-3 py-1.5 rounded-full bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] text-white text-xs">Compare programs →</Link>
               </div>
               <p className="text-[11px] text-[#6B7280]">PROGRAM = unit, not firm • EVAL ≠ FUNDED ≠ PAYOUT</p>
             </div>
+          </div>
+
+          {/* Curated Filter Hubs */}
+          <div className="mt-5 flex flex-wrap gap-2 pt-4 border-t border-[#1F2228]/50">
+            <span className="text-xs text-[#8A8F98] py-1 font-medium mr-1 flex items-center gap-1"><Filter className="w-3 h-3" /> Rule Hubs:</span>
+            {ATTRIBUTE_PAGES.slice(0, 6).map((attr) => (
+              <Link
+                key={attr.slug}
+                href={`/prop-firms/${attr.slug}`}
+                className="px-2.5 py-1 rounded-lg bg-[#111318] border border-[#1F2228] hover:border-sky-500/40 text-[11px] text-white/80 hover:text-white transition-colors"
+              >
+                {attr.badge}
+              </Link>
+            ))}
           </div>
 
           {/* Filters bar */}
@@ -413,10 +431,10 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                       </td>
                       <td className="px-4 py-4 text-right">
                         <div className="flex items-center justify-end gap-2">
-                          <button onClick={(e)=>{e.stopPropagation(); onNavigate(`/prop-firms/${firm.slug}`);}} className="px-4 py-2 rounded-full bg-white text-[#080A10] text-xs font-semibold hover:bg-white/90 transition-colors shadow-sm">View</button>
-                          <button onClick={(e)=>{e.stopPropagation(); onNavigate('/compare');}} className="w-8 h-8 rounded-full bg-[#080A10] border border-[#1F2228] flex items-center justify-center text-[#8A8F98] hover:text-white hover:border-[#2A2D35] transition-colors" title="Compare">
+                          <Link href={`/prop-firms/${firm.slug}`} className="px-4 py-2 rounded-full bg-white text-[#080A10] text-xs font-semibold hover:bg-white/90 transition-colors shadow-sm">View</Link>
+                          <Link href="/compare" className="w-8 h-8 rounded-full bg-[#080A10] border border-[#1F2228] flex items-center justify-center text-[#8A8F98] hover:text-white hover:border-[#2A2D35] transition-colors" title="Compare">
                             <Scale className="w-3.5 h-3.5" />
-                          </button>
+                          </Link>
                         </div>
                       </td>
                     </tr>
@@ -480,12 +498,12 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                   </div>
                 )}
                 <div className="flex gap-2">
-                  <button onClick={(e)=>{e.stopPropagation(); onNavigate(`/prop-firms/${firm.slug}`);}} className="flex-1 py-2.5 rounded-xl bg-white text-[#080A10] text-sm font-semibold flex items-center justify-center gap-1.5">
+                  <Link href={`/prop-firms/${firm.slug}`} className="flex-1 py-2.5 rounded-xl bg-white text-[#080A10] text-sm font-semibold flex items-center justify-center gap-1.5">
                     View dossier <ArrowRight className="w-3.5 h-3.5" />
-                  </button>
-                  <button onClick={(e)=>{e.stopPropagation(); onNavigate('/compare');}} className="px-4 py-2.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-[#8A8F98]">
+                  </Link>
+                  <Link href="/compare" className="px-4 py-2.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-[#8A8F98] flex items-center justify-center">
                     <Scale className="w-4 h-4" />
-                  </button>
+                  </Link>
                 </div>
                 <div className="flex items-center gap-2 text-[11px] text-[#6B7280]">
                   <span className="flex items-center gap-1"><Eye className="w-3 h-3" />{firm.reviewsOverview.totalReviews} reviews</span>

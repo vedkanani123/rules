@@ -18,9 +18,17 @@ import { GoatRulesDemoPage } from './pages/GoatRulesDemoPage.tsx';
 import { GoatResearchTerminalV3Page } from './pages/GoatResearchTerminalV3Page.tsx';
 import { FirmResearchTerminalV3Page } from './pages/FirmResearchTerminalV3Page.tsx';
 import { RiskSimulator } from './components/simulator/RiskSimulator.tsx';
+import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage.tsx';
+import { TermsPage } from './pages/TermsPage.tsx';
+import { DisclaimerPage } from './pages/DisclaimerPage.tsx';
+import { ContactPage } from './pages/ContactPage.tsx';
+import { AttributeLandingPage } from './pages/AttributeLandingPage.tsx';
+import { CookieConsent } from './components/layout/CookieConsent.tsx';
+import { trackEvent } from './utils/analytics.ts';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from './data/propFirmsData.ts';
 import { REAL_FIRMS } from './data/propFirmMatchReal.ts';
 import { SourceEvidence } from './types/schema.ts';
+import { getRouteSEOData as getRouteByPath } from './core/seo/routesRegistry.ts';
 
 const PageSkeleton: React.FC = () => (
   <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-4 animate-pulse">
@@ -83,30 +91,96 @@ export const App: React.FC = () => {
     };
   }, [isSearchOpen, selectedEvidence]);
 
-  // SEO: update document title per route + evidence-first meta
+  // Route metadata synchronization
   useEffect(() => {
-    const titles: Record<string, string> = {
-      '/': 'PropFirmRules.io — Know the rules before you buy the challenge. | Evidence-First Prop Firm Intelligence',
-      '/compare': 'Compare Prop Firms Side-by-Side — Evidence-Based | PropFirmRules.io',
-      '/wizard': 'Find My Best Prop Firm — Personalized Matching | PropFirmRules.io',
-      '/reviews': 'Trader Reviews vs Firm Responses — Neutral Evidence | PropFirmRules.io',
-      '/changes': 'Rule Changes Changelog — Live Audit Trail | PropFirmRules.io',
-      '/simulator': 'Risk Simulator — Test Drawdowns Before You Buy | PropFirmRules.io',
-      '/rules': 'Rule Intelligence Guides — Master Every Prop Firm Rule | PropFirmRules.io',
-      '/demo-3': 'Goat Funded Trader Research Terminal v3 — Verified Rules & Risk Simulator | PropFirmRules.io',
-      '/demo': 'Goat Funded Trader Visual Rules Demo | PropFirmRules.io',
-    };
-    if (currentPath.startsWith('/prop-firms/')) {
-      const slug = currentPath.split('/prop-firms/')[1]?.split('/')[0];
-      const firm = PROP_FIRMS_DATA.find(f=>f.slug===slug);
-      document.title = firm ? `${firm.name} — Verified Rules, Hidden Traps & Dollar Math | PropFirmRules.io` : 'Prop Firm Dossier — Verified Intelligence | PropFirmRules.io';
-    } else if (currentPath.startsWith('/rules/')) {
-      const slug = currentPath.replace('/rules/','').split('/')[0];
-      const guide = RULE_GUIDES.find(g=>g.slug===slug);
-      document.title = guide ? `${guide.name} — In-Depth Guide | PropFirmRules.io` : titles['/rules'];
-    } else {
-      document.title = titles[currentPath] || titles['/'];
+    const cleanPath = currentPath === '/' ? '/' : currentPath.split('?')[0].split('#')[0];
+    const registeredRoute = getRouteByPath(cleanPath);
+
+    let title = registeredRoute?.title;
+    let desc = registeredRoute?.metaDescription;
+
+    if (!title || !desc) {
+      if (currentPath.startsWith('/prop-firms/')) {
+        const slug = currentPath.split('/prop-firms/')[1]?.split('/')[0]?.split('?')[0];
+        const firm = PROP_FIRMS_DATA.find((f) => f.slug === slug);
+        if (firm) {
+          title = `${firm.name} — Verified Rules, Hidden Traps & Dollar Math | FundedTradingRules.com`;
+          desc = `Complete evidence dossier for ${firm.name}. Verified drawdown calculation, consistency limits, news trading rules, and trader dispute track record.`;
+        } else {
+          title = 'Prop Firm Dossier — Verified Intelligence | FundedTradingRules.com';
+          desc = 'Browse proprietary trading firms with verified rules, drawdown models, profit targets, payout consistency rules, and official contract citations.';
+        }
+      } else if (currentPath.startsWith('/rules/')) {
+        const slug = currentPath.replace('/rules/', '').split('/')[0]?.split('?')[0];
+        const guide = RULE_GUIDES.find((g) => g.slug === slug);
+        if (guide) {
+          title = `${guide.name} — In-Depth Rule Guide & Traps | FundedTradingRules.com`;
+          desc = guide.shortDefinition || `Comprehensive guide to ${guide.name} across proprietary trading firms. How it's calculated, violation triggers, and defense playbook.`;
+        } else {
+          title = 'Rule Intelligence Guides — Master Every Prop Firm Rule | FundedTradingRules.com';
+          desc = 'Deep architectural guides to every prop firm rule: trailing vs balance drawdown, 2-minute news buffers, 80% margin limits, and IP clustering.';
+        }
+      } else {
+        title = 'FundedTradingRules.com — Know the rules before you buy the challenge. | Evidence-First Prop Firm Intelligence';
+        desc = 'Know the rules before you buy the challenge. Compare prop firms with verified official rules, plain-English explanations, real trader complaints, and account risk simulation.';
+      }
     }
+
+    // 1. Update Title
+    document.title = title;
+
+    // 2. Update Meta Description
+    let metaDesc = document.querySelector('meta[name="description"]');
+    if (!metaDesc) {
+      metaDesc = document.createElement('meta');
+      metaDesc.setAttribute('name', 'description');
+      document.head.appendChild(metaDesc);
+    }
+    metaDesc.setAttribute('content', desc);
+
+    // 3. Update Canonical Tag
+    const canonicalUrl = `https://fundedtradingrules.com${cleanPath === '/' ? '' : cleanPath}`;
+    let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
+    if (!canonical) {
+      canonical = document.createElement('link');
+      canonical.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonical);
+    }
+    canonical.setAttribute('href', canonicalUrl);
+
+    // 4. Update OpenGraph Tags
+    const setMetaProp = (prop: string, val: string) => {
+      let el = document.querySelector(`meta[property="${prop}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('property', prop);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', val);
+    };
+
+    const setMetaName = (name: string, val: string) => {
+      let el = document.querySelector(`meta[name="${name}"]`);
+      if (!el) {
+        el = document.createElement('meta');
+        el.setAttribute('name', name);
+        document.head.appendChild(el);
+      }
+      el.setAttribute('content', val);
+    };
+
+    setMetaProp('og:title', title);
+    setMetaProp('og:description', desc);
+    setMetaProp('og:url', canonicalUrl);
+    setMetaName('twitter:title', title);
+    setMetaName('twitter:description', desc);
+
+    // 5. Track Virtual Pageview for Google Ads & Analytics
+    trackEvent('page_view', {
+      page_title: title,
+      page_location: canonicalUrl,
+      page_path: currentPath,
+    });
   }, [currentPath]);
 
   const navigate = (path: string) => {
@@ -172,6 +246,12 @@ export const App: React.FC = () => {
           onOpenSource={handleOpenSource}
         />
       );
+    }
+
+    // 1.4 Attribute Landing Pages: /prop-firms/with-:attr (e.g. with-static-drawdown, with-no-consistency-rule)
+    if (currentPath.startsWith('/prop-firms/with-')) {
+      const attrSlug = currentPath.replace('/prop-firms/', '').split('/')[0].split('?')[0];
+      return <AttributeLandingPage attributeSlug={attrSlug} onNavigate={navigate} />;
     }
 
     // 1.5 Prop Firms List Route: /prop-firms, /firms, /directory
@@ -243,9 +323,10 @@ export const App: React.FC = () => {
       );
     }
 
-    // 3. Compare Route
-    if (currentPath === '/compare' || currentPath === '/compare/') {
-      return <ComparePage onNavigate={navigate} onOpenSource={handleOpenSource} />;
+    // 3. Compare Route (with support for dedicated pair URLs: /compare/:pair e.g. /compare/ftmo-vs-topstep)
+    if (currentPath.startsWith('/compare')) {
+      const pairSlug = currentPath.replace('/compare/', '').replace('/compare', '').split('/')[0].split('?')[0];
+      return <ComparePage pairSlug={pairSlug || undefined} onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
     // 4. Wizard & Account Finder Route: /wizard, /finder, /find, /match
@@ -335,7 +416,21 @@ export const App: React.FC = () => {
       return <AdminCrawlerPage />;
     }
 
-    // 11. Homepage
+    // 11. Legal & Regulatory Compliance Routes (Google Ads Mandate)
+    if (currentPath === '/privacy' || currentPath === '/privacy/') {
+      return <PrivacyPolicyPage onNavigate={navigate} />;
+    }
+    if (currentPath === '/terms' || currentPath === '/terms/') {
+      return <TermsPage onNavigate={navigate} />;
+    }
+    if (currentPath === '/disclaimer' || currentPath === '/disclaimer/' || currentPath === '/risk') {
+      return <DisclaimerPage onNavigate={navigate} />;
+    }
+    if (currentPath === '/contact' || currentPath === '/contact/' || currentPath === '/support') {
+      return <ContactPage onNavigate={navigate} />;
+    }
+
+    // 12. Homepage
     if (currentPath === '/' || currentPath === '' || currentPath.startsWith('/?')) {
       return (
         <HomePage
@@ -397,6 +492,9 @@ export const App: React.FC = () => {
           ruleTitle={selectedEvidence?.ruleTitle}
         />
       )}
+
+      {/* Cookie Consent Banner (Google Consent Mode v2 ready) */}
+      <CookieConsent onNavigate={navigate} />
     </div>
   );
 };

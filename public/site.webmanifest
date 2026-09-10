@@ -1,0 +1,16 @@
+{
+  "name": "FundedTradingRules.com - Funded Trading & Prop Firm Rules Intelligence",
+  "short_name": "FundedTradingRules",
+  "description": "Verified Funded Trading & Prop Firm Rules, Restrictions & Evidence Intelligence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080A10",
+  "theme_color": "#080A10",
+  "icons": [
+    {
+      "src": "/og-image.png",
+      "sizes": "1200x630",
+      "type": "image/png"
+    }
+  ]
+}

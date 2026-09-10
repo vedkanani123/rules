@@ -1,6 +1,8 @@
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { RULE_GUIDES } from '../data/propFirmsData.ts';
+import { Link } from '../components/common/Link.tsx';
+import { Breadcrumbs } from '../components/common/Breadcrumbs.tsx';
 import { BookOpen, Calculator, Clock, Shield, Search, Filter, TrendingDown, AlertTriangle, Zap, Scale, Eye, Activity, Timer, Boxes, FileText, Sparkles, ArrowRight, CheckCircle2, Flame, Target, Wallet, ShieldAlert, Crown } from 'lucide-react';
 
 interface RulesHubPageProps { onNavigate: (path: string) => void; }
@@ -303,7 +305,31 @@ const visuals: Record<string, React.FC> = {
 };
 
 export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
-  const [q, setQ] = useState('');
+  const [q, setQ] = useState(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        const params = new URLSearchParams(window.location.search);
+        return params.get('q') || '';
+      } catch {
+        return '';
+      }
+    }
+    return '';
+  });
+
+  // Listen to popstate or search updates
+  useEffect(() => {
+    const handlePop = () => {
+      try {
+        const params = new URLSearchParams(window.location.search);
+        const searchQ = params.get('q');
+        if (searchQ !== null) setQ(searchQ);
+      } catch {}
+    };
+    window.addEventListener('popstate', handlePop);
+    return () => window.removeEventListener('popstate', handlePop);
+  }, []);
+
   const [cat, setCat] = useState<string>('All');
   const [showAll, setShowAll] = useState(false);
   const cats = ['All', ...Array.from(new Set(RULE_GUIDES.map(g=>g.category)))];
@@ -325,6 +351,7 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
       {/* Hero */}
       <div className="border-b border-[#1F2228] bg-[#080A10]">
         <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-10">
+          <Breadcrumbs items={[{ name: 'Home', url: '/' }, { name: 'Rules', url: '/rules' }]} className="pb-4" />
           <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6">
             <div>
               <p className="text-[11px] tracking-[0.14em] uppercase font-medium text-[#8A8F98] flex items-center gap-2 mb-3"><BookOpen className="w-3 h-3" /> Learning Hub — Evidence-First</p>
@@ -372,14 +399,14 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
         <div className="rounded-2xl bg-[#111318] border border-[#1F2228] p-4">
           <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] flex items-center gap-2 mb-3"><Sparkles className="w-3.5 h-3.5 text-[#3b82f6]" /> All rules at a glance — every single rule topic ({RULE_GUIDES.length})</p>
           <div className="flex flex-wrap gap-2">
-            {glanceList.map((g, idx)=>{
+            {glanceList.map((g)=>{
               const Icon = categoryIcons[g.category] || BookOpen;
               const globalIdx = RULE_GUIDES.findIndex(x=>x.slug===g.slug);
               return (
-                <button key={g.slug} onClick={()=>onNavigate(`/rules/${g.slug}`)} className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#080A10] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] text-xs font-medium text-white/70 hover:text-white transition-colors">
+                <Link key={g.slug} href={`/rules/${g.slug}`} className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#080A10] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] text-xs font-medium text-white/70 hover:text-white transition-colors">
                   <span className="w-5 h-5 rounded-full bg-white text-[#080A10] flex items-center justify-center text-[10px] font-bold">{String(globalIdx+1).padStart(2,'0')}</span>
                   <Icon className="w-3 h-3" /> {g.name}
-                </button>
+                </Link>
               );
             })}
           </div>
@@ -394,12 +421,12 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
       {/* Grid */}
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8 pb-8">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-          {filtered.map((guide, idx)=>{
+          {filtered.map((guide)=>{
             const Icon = categoryIcons[guide.category] || BookOpen;
             const Visual = visuals[guide.slug] || (()=> <VisualGeneric icon={Icon} label={guide.name} desc={guide.shortDefinition} />);
             const globalIdx = RULE_GUIDES.findIndex(g=>g.slug===guide.slug);
             return (
-              <button key={guide.slug} onClick={()=>onNavigate(`/rules/${guide.slug}`)} className="text-left rounded-2xl bg-[#111318] border border-[#1F2228] overflow-hidden hover:border-sky-500/30 hover:bg-[#16181E] hover:shadow-[0_8px_32px_rgba(59,130,246,0.08)] transition-all group flex flex-col">
+              <Link key={guide.slug} href={`/rules/${guide.slug}`} className="text-left rounded-2xl bg-[#111318] border border-[#1F2228] overflow-hidden hover:border-sky-500/30 hover:bg-[#16181E] hover:shadow-[0_8px_32px_rgba(59,130,246,0.08)] transition-all group flex flex-col">
                 <div className="p-4">
                   <Visual />
                 </div>
@@ -411,7 +438,7 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
                     </span>
                     <span className="ml-auto inline-flex items-center gap-1 px-2 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-[11px] font-bold text-emerald-400"><Eye className="w-3 h-3" /> Visual</span>
                   </div>
-                  <h3 className="text-[18px] font-bold text-white leading-tight group-hover:text-sky-400 transition-colors">{guide.name}</h3>
+                  <h2 className="text-[18px] font-bold text-white leading-tight group-hover:text-sky-400 transition-colors">{guide.name}</h2>
                   <p className="text-[13px] leading-relaxed text-white/45 line-clamp-2">{guide.shortDefinition}</p>
                   <div className="rounded-xl bg-[#080A10] border border-[#1F2228] px-3 py-2.5 font-mono text-[11px] leading-relaxed text-sky-300/80 line-clamp-2">
                     {guide.formula}
@@ -421,7 +448,7 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
                     <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white text-[#080A10] text-xs font-bold group-hover:bg-sky-500 group-hover:text-white transition-colors">Learn <ArrowRight className="w-3 h-3" /></span>
                   </div>
                 </div>
-              </button>
+              </Link>
             );
           })}
         </div>
@@ -435,10 +462,10 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
         {/* Bottom CTA */}
         <div className="mt-8 rounded-2xl bg-gradient-to-br from-[#111318] to-[#0f1a2e] border border-[#1F2228] p-6 sm:p-8 flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6">
           <div>
-            <h4 className="text-[16px] font-semibold text-white flex items-center gap-2"><Sparkles className="w-4 h-4 text-[#3b82f6]" /> Test your knowledge live</h4>
+            <h3 className="text-[16px] font-semibold text-white flex items-center gap-2"><Sparkles className="w-4 h-4 text-[#3b82f6]" /> Test your knowledge live</h3>
             <p className="text-[13px] leading-relaxed text-white/50 mt-1 max-w-xl">Try the interactive drawdown simulator with real firm floors — see the same trade live vs breach across programs.</p>
           </div>
-          <button onClick={()=>onNavigate('/simulator')} className="shrink-0 px-5 py-3 rounded-xl bg-white text-[#080A10] text-sm font-semibold flex items-center gap-2 hover:bg-white/90">Open simulator <Calculator className="w-4 h-4" /></button>
+          <Link href="/simulator" className="shrink-0 px-5 py-3 rounded-xl bg-white text-[#080A10] text-sm font-semibold flex items-center gap-2 hover:bg-white/90">Open simulator <Calculator className="w-4 h-4" /></Link>
         </div>
       </div>
     </div>
