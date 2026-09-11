@@ -27,6 +27,7 @@ export interface RouteSEOData {
   isIndexable: boolean;
   breadcrumbs: BreadcrumbItem[];
   schemaGraph: any[];
+  keywords?: string;
 }
 
 // 1. Core Pages
@@ -34,10 +35,11 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/',
     pageType: 'core',
-    title: 'Funded Rules: Prop Firm Trading Rules & Drawdowns (2026)',
+    title: 'Funded Rules: Best Funded Accounts & Prop Firm Trading Rules (2026)',
     metaDescription: 'Compare verified funded rules and prop firm trading rules. Real drawdown math, news buffers, consistency rules, and payout terms across 24+ firms.',
     canonicalUrl: `${BASE_URL}/`,
-    h1: 'Funded Rules & Prop Firm Trading Rules: Know Every Rule Before You Buy',
+    h1: 'Funded Rules & Best Funded Accounts: Know Every Rule Before You Buy',
+    keywords: 'best funded account, best funded accounts, funded rules, funded trading rules, prop firm trading rules, prop firm rules, compare funded accounts, prop firm comparison, trailing drawdown, static drawdown, funded account rules, ftmo rules',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [{ name: 'Home', url: '/' }],
@@ -74,7 +76,8 @@ const CORE_ROUTES: RouteSEOData[] = [
     title: 'Prop Firm Rules Directory & Index — 24+ Verified Trading Firms | FundedTradingRules.com',
     metaDescription: 'Browse 24+ prop trading firms with verified rules, daily drawdown models, profit targets, payout consistency rules, and official contract citations.',
     canonicalUrl: `${BASE_URL}/prop-firms`,
-    h1: 'Prop Firm Directory & Rules Index: Compare 24+ Verified Firms',
+    h1: 'Best Funded Accounts & Prop Firm Rules Directory: 24+ Verified Firms',
+    keywords: 'best funded accounts, prop trading firms, best prop firms, funded accounts directory, prop firm list 2026, prop firm reviews, prop firm rules comparison',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -100,6 +103,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Comprehensive prop firm rules guide: trailing vs balance drawdown, 2-minute news buffers, 80% margin caps, IP clustering rules, and payout consistency requirements.',
     canonicalUrl: `${BASE_URL}/rules`,
     h1: 'Prop Firm Rules & Funded Trading Rules Guide: Interactive Rule Intelligence',
+    keywords: 'prop firm rules, funded account rules, funded trading rules, prop firm drawdown rules, daily loss limit, consistency rule, news trading rules, prop firm traps',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -326,6 +330,7 @@ const FIRM_ROUTES: RouteSEOData[] = PROP_FIRMS_DATA.map(firm => {
     h1: `${firm.name} Rules & Evaluation Intelligence Dossier`,
     lastmod: firm.lastVerified || '2026-09-10',
     isIndexable: true,
+    keywords: `${firm.name} rules, ${firm.name} drawdown, ${firm.name} funded account, ${firm.name} payout rules, ${firm.name} consistency rule, ${firm.name} evaluation target, ${firm.name} trading rules 2026`,
     breadcrumbs,
     schemaGraph: [
       generateOrganizationSchema(),
@@ -403,6 +408,8 @@ const RULE_ROUTES: RouteSEOData[] = ALL_RULE_GUIDES.map(guide => {
     h1: `${guide.name} — Prop Firm Rule Guide`,
     lastmod: '2026-09-10',
     isIndexable: true,
+    keywords: `${guide.name} prop firm, ${guide.name} rules, prop firm ${guide.name}, funded account ${guide.name}, how ${guide.name} works, avoid ${guide.name} breach`,
+
     breadcrumbs,
     schemaGraph: [
       generateOrganizationSchema(),
@@ -446,6 +453,8 @@ const COMPARE_ROUTES: RouteSEOData[] = CURATED_COMPARISONS.map(pair => {
     h1: `${pair.firmAName} vs ${pair.firmBName}: Rules & Drawdown Compared`,
     lastmod: '2026-09-10',
     isIndexable: true,
+    keywords: `${pair.firmAName} vs ${pair.firmBName}, compare ${pair.firmAName} and ${pair.firmBName}, ${pair.firmAName} or ${pair.firmBName}, ${pair.firmAName} vs ${pair.firmBName} rules, ${pair.firmAName} vs ${pair.firmBName} drawdown, best funded account ${pair.firmAName} vs ${pair.firmBName}`,
+
     breadcrumbs,
     schemaGraph: [
       generateOrganizationSchema(),
@@ -474,6 +483,8 @@ const ATTRIBUTE_ROUTES: RouteSEOData[] = ATTRIBUTE_PAGES.map(attr => {
     h1: attr.h1,
     lastmod: '2026-09-10',
     isIndexable: true,
+    keywords: `${attr.h1.toLowerCase()}, prop firms ${attr.badge.toLowerCase()}, best funded accounts ${attr.badge.toLowerCase()}, prop trading firms ${attr.slug.replace('with-', '').replace(/-/g, ' ')}`,
+
     breadcrumbs,
     schemaGraph: [
       generateOrganizationSchema(),

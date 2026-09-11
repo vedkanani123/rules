@@ -1,0 +1,57 @@
+# Funded Trading Rules Intelligence
+
+> Independent, evidence-backed intelligence for proprietary trading firm rules, drawdown calculations, and payout policies. Every rule is verified with official contract citations and deterministic math.
+
+## Website Overview
+- Website: https://www.fundedtradingrules.com
+- Primary Focus: Verified prop firm trading rules, daily loss limit mechanics, trailing vs static drawdown formulas, payout consistency conditions, news trading buffers, and hidden Gotchas.
+- Coverage: 24+ top proprietary trading firms across Forex/CFD and CME/CBOT Futures venues.
+
+## Core Hubs & Directories
+- Prop Firms Directory: https://www.fundedtradingrules.com/prop-firms
+  Browse 24+ evaluated and audited prop firms with full corporate dossiers, platforms, and rulebooks.
+- Prop Firm Rules Guide: https://www.fundedtradingrules.com/rules
+  Master reference manual covering 40+ operational rules, mathematical formulas, and violation failure points.
+- Compare Engine: https://www.fundedtradingrules.com/compare
+  Side-by-side comparison of rules, pricing, profit splits, and drawdowns between leading firms.
+- Strategy Matcher Wizard: https://www.fundedtradingrules.com/wizard
+  Interactive tool to match your trading strategy (scalping, swing, EA, news) with the safest prop firm rulebooks.
+- Drawdown Risk Simulator: https://www.fundedtradingrules.com/simulator
+  Deterministic simulation engine to stress-test your strategy against balance-based vs equity-based trailing drawdown rules.
+
+## High-Intent Curated Directories
+- Prop Firms with Static Drawdown: https://www.fundedtradingrules.com/prop-firms/with-static-drawdown
+  Firms where the maximum loss floor remains permanently fixed below the starting balance and never ratchets upward on profit.
+- Prop Firms with Trailing Drawdown: https://www.fundedtradingrules.com/prop-firms/with-trailing-drawdown
+  Firms using End-of-Day (EOD) or intraday peak equity trailing locks.
+- Prop Firms with Instant Funding: https://www.fundedtradingrules.com/prop-firms/with-instant-funding
+  Accounts with zero evaluation phases: direct access to funded capital and profit share from day one.
+- Prop Firms with No Consistency Rule: https://www.fundedtradingrules.com/prop-firms/with-no-consistency-rule
+  Firms with unrestricted payouts, zero single-day profit caps, and no lot-size ratio constraints.
+- Prop Firms with No Daily Loss Limit: https://www.fundedtradingrules.com/prop-firms/with-no-daily-loss
+  Firms that only enforce an overall maximum account loss, eliminating midnight equity reset breaches.
+- Prop Firms Allowing News Trading: https://www.fundedtradingrules.com/prop-firms/with-news-trading
+  Firms allowing trade execution during red-folder macroeconomic releases (CPI, NFP, FOMC) without 2-minute buffer bans.
+- Prop Firms Allowing Weekend Holding: https://www.fundedtradingrules.com/prop-firms/with-weekend-holding
+  Swing trading friendly firms permitting open positions past Friday market close.
+- Prop Firms Allowing EAs & Automated Bots: https://www.fundedtradingrules.com/prop-firms/with-ea-trading
+  Firms permitting MetaTrader Expert Advisors, algorithmic bots, and VPS hosting.
+
+## Top Side-by-Side Comparisons
+- FTMO vs Topstep: https://www.fundedtradingrules.com/compare/ftmo-vs-topstep
+- FTMO vs Funding Pips: https://www.fundedtradingrules.com/compare/ftmo-vs-funding-pips
+- FTMO vs FundedNext: https://www.fundedtradingrules.com/compare/ftmo-vs-funded-next
+- FTMO vs The 5%ers: https://www.fundedtradingrules.com/compare/ftmo-vs-the-5ers
+- Apex Trader Funding vs Topstep: https://www.fundedtradingrules.com/compare/apex-trader-funding-vs-topstep
+- Funding Pips vs FundedNext: https://www.fundedtradingrules.com/compare/funded-next-vs-funding-pips
+- Take Profit Trader vs Topstep: https://www.fundedtradingrules.com/compare/take-profit-trader-vs-topstep
+- Alpha Capital Group vs FTMO: https://www.fundedtradingrules.com/compare/alpha-capital-vs-ftmo
+- Funding Pips vs Goat Funded Trader: https://www.fundedtradingrules.com/compare/funding-pips-vs-goat-funded-trader
+- E8 Markets vs FTMO: https://www.fundedtradingrules.com/compare/e8-markets-vs-ftmo
+
+## Critical Rule Mathematical Definitions
+- Daily Loss Limit (Balance-Based): Loss Floor = Day-Start Balance - (Initial Balance * Daily Loss %). Open profits do not move the floor upward.
+- Daily Loss Limit (Equity-Based): Loss Floor = Day-Start Equity - (Initial Balance * Daily Loss %). High floating intraday profits ratchet the floor up.
+- Static Max Drawdown: Breach Floor = Initial Balance - (Initial Balance * Max Loss %). Permanent fixed level.
+- Intraday Trailing Drawdown: Breach Floor = Highest Unrealized Peak Equity Reached - Max Loss Allowance.
+- 1% Floating Loss Rule: Any single position reaching -1.00% unrealized loss relative to starting account nominal capital triggers an instantaneous termination.

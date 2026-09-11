@@ -505,6 +505,24 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.fundedtradingrules.com/compare/alpha-capital-vs-ftmo</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/compare/funded-next-vs-funding-pips</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/compare/take-profit-trader-vs-topstep</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/with-static-drawdown</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -548,6 +566,12 @@
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/with-1-percent-floating-loss</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/prop-firms/with-instant-funding</loc>
     <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

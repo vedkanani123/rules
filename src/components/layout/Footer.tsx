@@ -66,7 +66,7 @@ export const Footer: React.FC<FooterProps> = () => {
           <div className="lg:col-span-3">
             <p className="text-xs font-semibold tracking-widest uppercase text-[#9CA3AF] mb-3">Curated Rule Hubs</p>
             <div className="space-y-1">
-              {ATTRIBUTE_PAGES.slice(0, 6).map((attr) => (
+              {ATTRIBUTE_PAGES.map((attr) => (
                 <Link
                   key={attr.slug}
                   href={`/prop-firms/${attr.slug}`}
@@ -115,7 +115,7 @@ export const Footer: React.FC<FooterProps> = () => {
         {/* Comparison Shortcuts Strip */}
         <div className="mt-8 pt-6 border-t border-[#1F2228] text-xs text-[#8A8F98]">
           <span className="font-semibold text-white/70 mr-2">Top Comparisons:</span>
-          {CURATED_COMPARISONS.slice(0, 6).map((comp, idx) => (
+          {CURATED_COMPARISONS.map((comp, idx) => (
             <React.Fragment key={comp.slug}>
               {idx > 0 && <span className="text-white/20 mx-1.5">•</span>}
               <Link href={`/compare/${comp.slug}`} className="hover:text-white transition-colors">

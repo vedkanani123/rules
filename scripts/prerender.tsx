@@ -84,6 +84,11 @@ async function prerender() {
     // Update <meta name="description">
     pageHtml = pageHtml.replace(/<meta name="description" content=".*?" \/>/i, `<meta name="description" content="${route.metaDescription}" />`);
 
+    // Update <meta name="keywords">
+    if (route.keywords) {
+      pageHtml = pageHtml.replace(/<meta name="keywords" content=".*?" \/>/i, `<meta name="keywords" content="${route.keywords}" />`);
+    }
+
     // Update OpenGraph and Twitter
     pageHtml = pageHtml.replace(/<meta property="og:title" content=".*?" \/>/i, `<meta property="og:title" content="${route.title}" />`);
     pageHtml = pageHtml.replace(/<meta property="og:description" content=".*?" \/>/i, `<meta property="og:description" content="${route.metaDescription}" />`);

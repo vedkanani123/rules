@@ -154,4 +154,23 @@ export const ATTRIBUTE_PAGES: AttributePageConfig[] = [
       ) || firm.slug === 'goat-funded-trader';
     },
   },
+  {
+    slug: 'with-instant-funding',
+    filterKey: 'instant-funding',
+    badge: 'Funding Model',
+    h1: 'Prop Firms with Instant Funding (2026)',
+    title: 'Prop Firms with Instant Funding — No Evaluation Accounts (2026)',
+    metaDescription: 'Complete list of verified prop trading firms with instant funding. Compare direct funded accounts, profit splits, drawdown buffers, and payout rules with zero evaluation phases.',
+    summary: 'Instant funding prop firm accounts bypass Phase 1 and Phase 2 evaluation challenges entirely: traders gain direct access to simulated live-funded capital and profit share from day one upon paying the setup fee.',
+    whyItMatters: 'Traders save weeks of evaluation time and avoid multi-phase target hurdles. However, instant funding accounts typically feature tighter maximum drawdown limits (e.g. 5%-6%) and stricter floating loss tripwires.',
+    mathematicalDefinition: 'Evaluation Target = 0%. Direct funded status activated immediately. Loss Floor = Starting Nominal Capital - Max Allowable Drawdown (e.g. 5% trailing or static).',
+    trapWarning: 'Watch out for micro-risk tripwires! Several instant funding models enforce a strict "1% single-trade floating loss limit" or minimum trading day gates before your first payout withdrawal.',
+    matcher: (firm: PropFirm) => {
+      return firm.programs.some(p => 
+        p.programType === 'Instant' || 
+        p.name.toLowerCase().includes('instant') ||
+        p.accounts.some(a => a.name.toLowerCase().includes('instant'))
+      );
+    },
+  },
 ];
