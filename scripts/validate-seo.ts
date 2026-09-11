@@ -118,6 +118,16 @@ function validateSeo() {
       validDescriptions.add(desc);
     }
 
+    // 3b. Meta keywords validation
+    const kwMatch = html.match(/<meta name="keywords" content="(.*?)"/i);
+    if (!kwMatch || !kwMatch[1] || kwMatch[1].trim().length < 5) {
+      issues.push({
+        route: route.path,
+        type: 'ERROR',
+        message: 'Missing or empty meta keywords tag',
+      });
+    }
+
     // 4. H1 validation
     const h1Matches = html.match(/<h1[^>]*>[\s\S]*?<\/h1>/gi);
     if (!h1Matches || h1Matches.length === 0) {

@@ -129,6 +129,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Direct side-by-side comparison matrix for prop trading firms. Compare daily loss limits, trailing drawdown basis, news restrictions, and hidden traps.',
     canonicalUrl: `${BASE_URL}/compare`,
     h1: 'Side-by-Side Prop Firm Comparison Matrix',
+    keywords: 'compare funded accounts, prop firm comparison, funded account comparison, compare prop firms, best funded account comparison, prop trading firm comparison matrix',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -150,6 +151,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Interactive prop firm recommendation engine. Match your unique trading style, risk tolerance, and profit expectations with audited prop firm rules.',
     canonicalUrl: `${BASE_URL}/wizard`,
     h1: 'Personalized Prop Firm Strategy Matcher',
+    keywords: 'find funded account, best funded account for me, prop firm strategy matcher, swing trading prop firm, ea friendly prop firm, best prop firm quiz',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -171,6 +173,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Simulate intraday balance vs equity drawdowns, open lots, and trailing stops against verified prop firm risk boundaries before risking challenge fees.',
     canonicalUrl: `${BASE_URL}/simulator`,
     h1: 'Interactive Prop Firm Risk & Drawdown Simulator',
+    keywords: 'drawdown simulator, prop firm drawdown calculator, daily loss limit calculator, trailing drawdown calculator, prop firm risk calculator',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -192,6 +195,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Neutral dispute evidence registry. Real trader payout and breach complaints paired directly with official prop firm terms and verified outcomes.',
     canonicalUrl: `${BASE_URL}/reviews`,
     h1: 'Prop Firm Trader Dispute & Evidence Registry',
+    keywords: 'prop firm reviews, prop firm complaints, prop firm payout disputes, trader dispute registry, prop firm proof, scam prop firms list',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -213,6 +217,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Real-time audit log of rule changes across all major prop firms. Track sudden drawdown adjustments, news bans, and consistency updates.',
     canonicalUrl: `${BASE_URL}/changes`,
     h1: 'Prop Firm Rule Changes & Audit Trail',
+    keywords: 'prop firm rule changes, prop firm news updates, prop firm policy updates 2026, prop firm rule updates, ftmo rule changes',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -234,6 +239,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Reach the FundedTradingRules research desk to submit undocumented rule changes, dispute evidence, or editorial feedback.',
     canonicalUrl: `${BASE_URL}/contact`,
     h1: 'Contact FundedTradingRules Research Desk',
+    keywords: 'contact funded trading rules, submit prop firm rule change, prop firm editorial desk, dispute submission',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -255,6 +261,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Privacy policy for FundedTradingRules.com. Details on data collection, Google Consent Mode v2, cookie controls, GDPR rights, and data protection.',
     canonicalUrl: `${BASE_URL}/privacy`,
     h1: 'Privacy Policy',
+    keywords: 'funded trading rules privacy policy, gdpr compliance, ccpa notice',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -276,6 +283,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Terms of service governing access to FundedTradingRules.com independent prop trading intelligence and simulation tools.',
     canonicalUrl: `${BASE_URL}/terms`,
     h1: 'Terms of Service',
+    keywords: 'funded trading rules terms of service, user agreement',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
@@ -297,6 +305,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     metaDescription: 'Comprehensive risk disclosure, simulated trading limitations, CFTC Rule 4.41 compliance, and proprietary evaluation warnings.',
     canonicalUrl: `${BASE_URL}/disclaimer`,
     h1: 'Risk & Regulatory Disclaimer',
+    keywords: 'cftc rule 4.41 disclaimer, prop trading risk disclosure, simulated trading disclaimer',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
