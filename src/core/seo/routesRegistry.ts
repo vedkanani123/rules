@@ -99,11 +99,11 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/rules',
     pageType: 'core',
-    title: 'Prop Firm Rules & Funded Trading Rules Guide | FundedTradingRules.com',
+    title: 'Funded Rules Explained: Prop Firm Trading Rules Guide (2026) | FundedTradingRules.com',
     metaDescription: 'Comprehensive prop firm rules guide: trailing vs balance drawdown, 2-minute news buffers, 80% margin caps, IP clustering rules, and payout consistency requirements.',
     canonicalUrl: `${BASE_URL}/rules`,
-    h1: 'Prop Firm Rules & Funded Trading Rules Guide: Interactive Rule Intelligence',
-    keywords: 'prop firm rules, funded account rules, funded trading rules, prop firm drawdown rules, daily loss limit, consistency rule, news trading rules, prop firm traps',
+    h1: 'Funded Rules Explained: Complete Prop Firm Trading Rules Guide (2026)',
+    keywords: 'funded rules, funded rules forex, funded account rules, prop firm rules explained, prop firm rules explained 2026, funded rules pdf, trading rules for funded accounts, prop firm trading rules, daily loss limit, maximum drawdown rules, prop firm traps',
     lastmod: '2026-09-10',
     isIndexable: true,
     breadcrumbs: [
