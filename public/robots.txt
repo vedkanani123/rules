@@ -1,4 +1,30 @@
 # https://www.robotstxt.org/robotstxt.html
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# AI Crawlers & Answer Engines (Perplexity, ChatGPT Search, Claude, Gemini)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# General Directives
 User-agent: *
 Allow: /
 
@@ -13,4 +39,3 @@ Sitemap: https://www.fundedtradingrules.com/sitemap.xml
 # LLM & AI Search indexing files (Perplexity, ChatGPT, Claude)
 # https://www.fundedtradingrules.com/llms.txt
 # https://www.fundedtradingrules.com/llms-full.txt
-

@@ -408,10 +408,12 @@ const RULE_ROUTES: RouteSEOData[] = ALL_RULE_GUIDES.map(guide => {
     },
   ];
 
+  const cleanName = guide.name.replace(/\s+rules?$/i, '');
+
   return {
     path: `/rules/${guide.slug}`,
     pageType: 'rule',
-    title: `${guide.name} Rules & Calculation | FundedTradingRules.com`,
+    title: `${cleanName} Rules & Calculation | FundedTradingRules.com`,
     metaDescription: `${guide.shortDefinition} Complete calculation formula, practical examples, common violation mistakes, and prop firms using this rule.`,
     canonicalUrl: `${BASE_URL}/rules/${guide.slug}`,
     h1: `${guide.name} — Prop Firm Rule Guide`,

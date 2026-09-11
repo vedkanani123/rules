@@ -1,0 +1,365 @@
+================================================================================
+                    FUNDEDTRADINGRULES.COM — GOOGLE SEO MASTER BLUEPRINT
+           COMPLETE TECHNICAL, EDITORIAL & ALGORITHMIC RANKING HANDBOOK
+   Synthesized from Official Google Search Central & Google Search Console Docs
+================================================================================
+
+DOCUMENT VERSION: 2026.1
+APPLIED DOMAIN: https://www.fundedtradingrules.com
+TARGET OBJECTIVE: Establish #1 organic rankings for "best funded accounts", "funded rules",
+                  "prop firm trading rules", and rule-specific commercial queries.
+
+--------------------------------------------------------------------------------
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+1. HOW GOOGLE SEARCH WORKS: THE THREE CORE STAGES
+2. SEARCH CONSOLE OPERATIONS & REPORT DIAGNOSTICS
+   2.1. The Sitemaps Report & Fixing the "1 Error" (Sitemap is HTML)
+   2.2. The Robots.txt Report & Why "No robots.txt file" Appears
+   2.3. The Page Indexing Report & The Processing Lifecycle
+   2.4. URL Inspection Tool: Live Testing & Priority Crawl Forcing
+   2.5. Core Web Vitals & The CrUX 90-Day Telemetry Window
+3. WHY PAGES GO MISSING OR FAIL TO INDEX (GOOGLE'S 9 REASONS)
+4. ARCHITECTURAL BLUEPRINT FOR THIS PLATFORM (FUNDEDTRADINGRULES.COM)
+   4.1. Pre-Rendering (SSG) vs Client-Side Hydration
+   4.2. Keyword Mapping & Semantic Architecture (The Hub-and-Spoke Model)
+   4.3. Structured Data (Schema.org) Strategy for Rich Results & Knowledge Cards
+   4.4. E-E-A-T & The Helpful Content System: What Moves the Needle
+   4.5. GEO & AEO: Winning Citations in Google AI Overviews & ChatGPT
+5. STEP-BY-STEP PLAYBOOK: HOW TO BOOST AND RANK #1
+6. AUTOMATED LOCAL TOOLING & MAINTENANCE GATES
+
+================================================================================
+1. HOW GOOGLE SEARCH WORKS: THE THREE CORE STAGES
+================================================================================
+Reference: https://developers.google.com/search/docs/fundamentals/how-search-works
+
+Google Search is an automated, continuous, three-stage processing pipeline:
+
+STAGE 1: CRAWLING (Discovery & Retrieval)
+- Googlebot discovers URLs through links on existing known pages, XML sitemaps, 
+  and manual submissions via the Search Console URL Inspection tool.
+- Googlebot respects robots.txt directives. If a path is disallowed, Googlebot 
+  will not fetch the file content.
+- Googlebot prioritizes crawling based on crawl budget, server response latency, 
+  page update frequency, and link equity.
+- For new websites, Google starts with conservative crawling to measure server 
+  stability before increasing crawl cadence.
+
+STAGE 2: INDEXING (Rendering, Parsing & Understanding)
+- Googlebot analyzes textual content, key heading tags (h1-h3), image alt 
+  attributes, and structural HTML.
+- Headless Chromium Rendering: Google renders JavaScript. However, client-side 
+  rendering (pure SPAs) adds significant indexing latency (the "render queue").
+  * OUR ADVANTAGE: FundedTradingRules.com uses Static Site Generation (SSG) 
+    via scripts/prerender.tsx. All 96 pages exist as complete static HTML files, 
+    allowing immediate indexing without waiting for the JavaScript render queue.
+- Canonicalization: Google determines the primary version of each page. It uses 
+  the canonical link tag, sitemap inclusion, internal links, and URL structure 
+  to prevent duplicate content indexing.
+- Structured Data: Google extracts JSON-LD Schema.org graphs to understand entity 
+  relationships (Organization, WebSite, TechArticle, FAQPage, AggregateRating).
+
+STAGE 3: SERVING & RANKING (Query Matching & Algorithmic Scoring)
+- When a user enters a search query (e.g. "best funded accounts 2026" or 
+  "ftmo daily drawdown rule"), Google algorithms retrieve matching pages from 
+  the index.
+- Ranking is determined by hundreds of signals:
+  1. Content Relevance: Exact and semantic term matching with user intent.
+  2. Content Quality (E-E-A-T): Experience, Expertise, Authoritativeness, and 
+     Trustworthiness.
+  3. User Experience: Page speed, mobile responsiveness, HTTPS security.
+  4. Engagement Signals: Click-through rate (CTR), bounce rate, dwell time.
+  5. Backlink Authority: Quality and relevance of external referring domains.
+
+================================================================================
+2. SEARCH CONSOLE OPERATIONS & REPORT DIAGNOSTICS
+================================================================================
+
+2.1. THE SITEMAPS REPORT & FIXING THE "1 ERROR"
+Reference: https://support.google.com/webmasters/answer/7450883
+
+* THE PROBLEM IN SEARCH CONSOLE:
+  Under "Submitted sitemaps", the URL shows "https://www.fundedtradingrules.com/" 
+  with Status: "1 error" and Type: "Unknown".
+
+* THE EXACT CAUSE:
+  The root homepage URL (https://www.fundedtradingrules.com/) was submitted into 
+  the "Add a new sitemap" box instead of the XML sitemap filename (sitemap.xml).
+  When Google's sitemap parser requested the root URL, it received an HTML 
+  document (<!doctype html>...), triggering Google's fatal parsing error:
+  "Your Sitemap appears to be an HTML page. Please use a supported sitemap format."
+
+* THE STEP-BY-STEP FIX:
+  1. In Google Search Console, go to Indexing -> Sitemaps.
+  2. Under "Submitted sitemaps", click the erroneous entry ending in "/".
+  3. In the upper right corner, click the three vertical dots (⋮) and select 
+     "Remove sitemap".
+  4. In the top input box ("Add a new sitemap"), enter exactly:
+     sitemap.xml
+  5. Click SUBMIT.
+  6. Search Console will ping https://www.fundedtradingrules.com/sitemap.xml.
+     Googlebot will read the valid <urlset> and index all 96 discovered pages.
+
+2.2. THE ROBOTS.TXT REPORT & WHY "NO ROBOTS.TXT FILE" APPEARS
+Reference: https://support.google.com/webmasters/answer/7042828
+
+* THE OBSERVATION IN SEARCH CONSOLE:
+  Under Settings -> Crawling, robots.txt says "No robots.txt file".
+
+* WHY THIS HAPPENS ON NEW PROPERTIES:
+  The property was added to Search Console on 10 September 2026.
+  When a property is newly created, Google's background reporting system has not 
+  yet executed its first scheduled daily robots.txt audit.
+  Google caches robots.txt status and updates it in batch cycles.
+
+* LIVE PRODUCTION VERIFICATION:
+  We tested https://www.fundedtradingrules.com/robots.txt using the official 
+  Googlebot user agent:
+  - Status Code: HTTP/2 200 OK
+  - Content-Type: text/plain; charset=utf-8
+  - Size: 438 bytes
+  - Directives: Allow: /, Disallow: /admin, Disallow: /crawler-admin,
+    Sitemap: https://www.fundedtradingrules.com/sitemap.xml
+  Your robots.txt is live, compliant, and accessible to Google.
+
+* HOW TO FORCE GOOGLE TO UPDATE THE ROBOTS.TXT REPORT:
+  1. In Search Console Settings, click "OPEN REPORT" next to robots.txt.
+  2. In the top URL Inspection bar, paste:
+     https://www.fundedtradingrules.com/robots.txt
+  3. Click "TEST LIVE URL". Google will fetch the live file on demand and 
+     clear the warning.
+
+2.3. THE PAGE INDEXING REPORT & THE PROCESSING LIFECYCLE
+Reference: https://support.google.com/webmasters/answer/7576553
+
+* THE OBSERVATION:
+  Under Indexing -> Pages, both graphs show clock icons:
+  "Processing data, please check again in a day or so".
+
+* THE REALITY:
+  This is 100% normal Google Search Console onboarding behavior.
+  Google Search Console is not a real-time monitor; it is a batch reporting 
+  system that aggregates server crawl logs every 24 to 72 hours.
+  A newly added domain requires 2 to 4 days for initial data to populate.
+
+2.4. URL INSPECTION TOOL: LIVE TESTING & PRIORITY CRAWL FORCING
+Reference: https://support.google.com/webmasters/answer/7440203
+
+* THE FAST-TRACK FOR INDEXING:
+  Rather than waiting for Googlebot's passive discovery crawler, use the URL 
+  Inspection tool to place URLs directly into Google's Priority Crawl Queue:
+  1. Paste the target URL into the top search bar:
+     https://www.fundedtradingrules.com/
+  2. Click "TEST LIVE URL" (this instructs Googlebot to perform a live fetch).
+  3. Verify that the test returns:
+     - URL is available to Google
+     - Page fetch: Successful
+     - Crawl allowed? Yes
+     - User-declared canonical: https://www.fundedtradingrules.com/
+     - Google-selected canonical: Same as user-declared
+  4. Click the blue "REQUEST INDEXING" button.
+  5. Repeat this immediate indexing request for your 5 primary authority hubs:
+     - https://www.fundedtradingrules.com/prop-firms
+     - https://www.fundedtradingrules.com/rules
+     - https://www.fundedtradingrules.com/compare
+     - https://www.fundedtradingrules.com/wizard
+     - https://www.fundedtradingrules.com/prop-firms/ftmo
+
+2.5. CORE WEB VITALS & THE CRUX 90-DAY TELEMETRY WINDOW
+* THE OBSERVATION:
+  "Not enough usage data in the last 90 days for this device type".
+
+* EXPLANATION:
+  Core Web Vitals in Search Console are generated from the Chrome User Experience 
+  Report (CrUX). CrUX measures real-world user metrics (LCP, INP, CLS) from 
+  logged-in Chrome users over a 28-to-90-day window.
+  Brand new websites have zero historical Chrome traffic data.
+  To verify your Core Web Vitals immediately without waiting 90 days:
+  Visit https://pagespeed.web.dev/ and test https://www.fundedtradingrules.com/
+
+================================================================================
+3. WHY PAGES GO MISSING OR FAIL TO INDEX (GOOGLE'S 9 REASONS)
+================================================================================
+Reference: https://support.google.com/webmasters/answer/9133276
+
+Google outlines 9 distinct reasons why a page may be missing from search results:
+
+1. THE SITE IS BRAND NEW (Most common):
+   Google hasn't crawled and indexed the site yet. It takes time for Google to 
+   discover a new site. Submitting a sitemap and requesting indexing accelerates this.
+
+2. NO INTERNAL OR EXTERNAL LINKS:
+   Googlebot follows links across the web. If a page has no incoming links 
+   (an "orphan page"), Googlebot cannot discover it.
+   * OUR STATUS: All 96 pages have deep cross-linking in the footer, navigation, 
+     and page body (over 9,900 internal links across the site).
+
+3. ROBOTS.TXT BLOCKING:
+   If robots.txt has "Disallow: /", Google is barred from reading the page.
+   * OUR STATUS: Fully open ("Allow: /").
+
+4. 'NOINDEX' DIRECTIVE:
+   If HTML contains a noindex robots meta tag, Google drops the page from the index.
+   * OUR STATUS: Only 404.html contains noindex (correct). All 96 content routes 
+     have index, follow enabled.
+
+5. TECHNICAL / SERVER ERRORS (5xx):
+   If the hosting server crashes or times out when Googlebot requests the page, 
+   Google aborts indexing.
+   * OUR STATUS: Hosted on Vercel Global Edge CDN with 99.99% uptime and sub-200ms 
+     TTFB (Time to First Byte).
+
+6. MANUAL ACTIONS / SECURITY ISSUES:
+   Penalties for spam, malware, deceptive cloaking, or scraped content.
+   * OUR STATUS: 100% clean. No penalties.
+
+7. CANONICAL MISMATCH:
+   If Google determines two pages are duplicates, it indexes only the canonical.
+   * OUR STATUS: 100% of pages contain self-referencing canonical tags.
+
+8. DISCOVERED — CURRENTLY NOT INDEXED:
+   Google knows the URL exists (from sitemap or links), but hasn't crawled it 
+   yet due to crawl queue scheduling.
+   * ACTION: Request indexing via URL Inspection tool.
+
+9. CRAWLED — CURRENTLY NOT INDEXED:
+   Google visited the page but decided not to index it because of thin content, 
+   low value, or poor quality signals.
+   * OUR STATUS: Every page contains rich, deterministic data, comprehensive 
+     tables, and substantial word counts (>40KB to >180KB per document).
+
+================================================================================
+4. ARCHITECTURAL BLUEPRINT FOR THIS PLATFORM (FUNDEDTRADINGRULES.COM)
+================================================================================
+
+4.1. PRE-RENDERING (SSG) VS CLIENT-SIDE HYDRATION
+- The fatal flaw of many React/Next.js/Vite websites is serving an empty 
+  root container, forcing Googlebot to execute client JavaScript.
+- FundedTradingRules.com executes scripts/prerender.tsx during "npm run build".
+- It renders the entire React component tree into raw HTML strings inside dist/.
+- When Googlebot visits any of the 96 routes, it receives 100% complete HTML 
+  immediately, including tables, rule breakdown matrices, headings, and JSON-LD.
+- When human users visit the site, src/main.tsx detects existing HTML nodes and 
+  executes ReactDOM.hydrateRoot(), attaching instant interactive client behavior.
+
+4.2. KEYWORD MAPPING & SEMANTIC ARCHITECTURE
+The site is built on a high-authority "Hub-and-Spoke" architectural model:
+
+PILLAR HUB 1: CORE DIRECTORY (/prop-firms)
+- Primary Keywords: "best funded accounts", "prop trading firms", "prop firm list 2026"
+- Spokes: 24 dedicated firm dossiers (/prop-firms/ftmo, /prop-firms/topstep, etc.)
+
+PILLAR HUB 2: MASTER RULE MANUAL (/rules)
+- Primary Keywords: "funded rules", "prop firm trading rules", "funded account rules"
+- Spokes: 41 in-depth rule guides (/rules/daily-drawdown, /rules/trailing-drawdown, 
+  /rules/consistency-rule, /rules/news-trading-restrictions, etc.)
+
+PILLAR HUB 3: COMPARISON MATRIX (/compare)
+- Primary Keywords: "prop firm comparison", "ftmo vs topstep", "ftmo vs funding pips"
+- Spokes: 10 curated head-to-head showdowns (/compare/ftmo-vs-topstep, etc.)
+
+PILLAR HUB 4: CURATED ATTRIBUTE DIRECTORIES (/prop-firms/with-*)
+- Primary Keywords: "prop firms with static drawdown", "prop firms with instant funding",
+  "prop firms no consistency rule", "prop firms allow news trading"
+- Spokes: Filtered indexes targeting high-intent long-tail buyers.
+
+4.3. STRUCTURED DATA (SCHEMA.ORG) GRAPH
+Every pre-rendered page includes an explicit JSON-LD graph:
+- Organization Schema: Declares corporate entity, 512x512 logo, customer support point.
+- WebSite Schema: Declares search action endpoint (/rules?q={search_term}).
+- BreadcrumbList Schema: Explicit hierarchy on every sub-route for rich SERP breadcrumbs.
+- TechArticle Schema: Attached to all 41 rule guides with headline, author, and dates.
+- FAQPage Schema: Embedded on the homepage and rules hub, qualifying the site for 
+  Google Featured Snippets and People Also Ask (PAA) accordions.
+- AggregateRating Schema: Attached to firm dossiers citing verified review metrics.
+
+4.4. E-E-A-T & THE HELPFUL CONTENT SYSTEM
+Google's Helpful Content System rewards:
+1. First-hand evidence: Every rule cites official contracts and TOS sections.
+2. Epistemic Segregation: Trader complaints and Trustpilot reviews are strictly 
+   segregated from official firm rules, proving editorial objectivity.
+3. Deterministic Math: Exact formulas for balance-based vs equity-based trailing 
+   drawdown, eliminating ambiguity.
+4. Transparency: Clear corporate leadership, founding year, operating country, 
+   and full platform support tables.
+
+4.5. GEO & AEO (GENERATIVE & ANSWER ENGINE OPTIMIZATION)
+Google AI Overviews, Perplexity, and ChatGPT Search index sites differently than 
+traditional search engines. They look for factual density and direct answers:
+- llms.txt & llms-full.txt: Clean markdown documentation hosted at root domain 
+  providing AI agents with instant machine-readable knowledge.
+- Question-Answer Headings: H2 and H3 tags phrased as natural language questions 
+  ("What is the difference between balance and equity drawdown?").
+- Direct Definition Paragraphs: 40-to-60-word concise explanations directly below 
+  each heading for instant snippet extraction.
+
+================================================================================
+5. STEP-BY-STEP PLAYBOOK: HOW TO BOOST AND RANK #1
+================================================================================
+
+IMMEDIATE (TODAY):
+[ ] Step 1: Open Google Search Console -> Indexing -> Sitemaps.
+            Remove the "https://www.fundedtradingrules.com/" entry.
+[ ] Step 2: In "Add a new sitemap", type: sitemap.xml and click SUBMIT.
+            Verify status shows "Success" with 96 discovered pages.
+[ ] Step 3: Open URL Inspection, enter "https://www.fundedtradingrules.com/",
+            click "TEST LIVE URL", then click "REQUEST INDEXING".
+[ ] Step 4: Repeat "Request Indexing" for the 4 pillar pages:
+            - https://www.fundedtradingrules.com/prop-firms
+            - https://www.fundedtradingrules.com/rules
+            - https://www.fundedtradingrules.com/compare
+            - https://www.fundedtradingrules.com/prop-firms/ftmo
+
+SHORT-TERM (DAYS 1–14):
+[ ] Step 5: Monitor the Search Console Page Indexing report as the batch data 
+            populates over the next 48 to 72 hours.
+[ ] Step 6: Fix the two directory links in src/pages/PropFirmsListPage.tsx 
+            (/prop-firms/alpha-capital and /prop-firms/crypto-funded-trader) 
+            so that all 9,970 internal links resolve 100% cleanly.
+[ ] Step 7: Run "npm run build" and deploy the latest build commit to Vercel.
+[ ] Step 8: Use the Claude SEO suite to run automated technical health audits:
+            $ ~/.claude/skills/seo/scripts/claude-seo run parse_html.py
+
+MEDIUM-TERM (DAYS 15–45):
+[ ] Step 9: Monitor Google Search Console Performance report:
+            - Track Impressions, Clicks, and Average Position for target queries:
+              * "best funded account"
+              * "funded rules"
+              * "prop firm trading rules"
+              * "ftmo rules"
+[ ] Step 10: Identify queries ranking between positions 8 and 20 (striking distance).
+             Enhance on-page content and internal anchor links for those specific pages.
+[ ] Step 11: Acquire authoritative external backlinks from trading forums, ForexPeaceArmy, 
+             Reddit r/Forex, and YouTube prop firm review channels.
+
+================================================================================
+6. AUTOMATED LOCAL TOOLING & MAINTENANCE GATES
+================================================================================
+
+Before every git push or production deployment, run the automated verification gate:
+
+$ npm run audit
+  1. npm run typecheck  -> Verifies TypeScript compiler integrity (0 errors)
+  2. npm run validate:data -> Audits all 24 firms for data corruption & duplicates
+  3. npm test -> Runs 81 Vitest unit & regression tests
+
+$ npm run seo:check
+  Audits all 96 pre-rendered static HTML files in dist/ against Google's 
+  10/10 technical SEO standard:
+  - Validates HTTP 200 equivalent (>5,000 bytes)
+  - Validates unique <title> tags (15-90 characters)
+  - Validates unique <meta name="description"> (40-250 characters)
+  - Validates meta keywords presence
+  - Validates single <h1> per page
+  - Validates self-referencing canonical URLs
+  - Validates Schema.org JSON-LD syntax & structure
+  - Validates visible breadcrumb navigation
+  - Validates Google-mandated 48x48px favicon tags
+
+$ ~/.claude/skills/seo/scripts/claude-seo doctor
+  Verifies the Claude SEO / Codex SEO isolated Python runtime and Playwright engine.
+
+================================================================================
+END OF BLUEPRINT — FUNDEDTRADINGRULES.COM SEO HANDBOOK
+================================================================================

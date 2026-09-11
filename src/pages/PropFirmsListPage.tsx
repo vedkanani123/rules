@@ -83,7 +83,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       const displayFirm: any = {
         id: rf.id,
         name: rf.name,
-        slug: rf.slug,
+        slug: rf.slug === 'alpha-capital-group' ? 'alpha-capital' : rf.slug === 'crypto-fund-trader' ? 'crypto-funded-trader' : rf.slug,
         brandName: rf.name.split(' ')[0].slice(0,6).toUpperCase(),
         country: rf.country,
         countryFlag: flagUrl,
