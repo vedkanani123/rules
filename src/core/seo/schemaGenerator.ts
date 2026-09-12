@@ -107,17 +107,27 @@ export function generateFirmSchema(firm: {
   reviewsCount?: number;
 }) {
   const schema: any = {
-    '@type': 'Organization',
-    '@id': `${BASE_URL}/prop-firms/${firm.slug}#entity`,
-    name: firm.name,
-    url: firm.website,
-    address: {
-      '@type': 'PostalAddress',
-      addressCountry: firm.country,
-      addressLocality: firm.headquarters,
+    '@type': 'FinancialProduct',
+    '@id': `${BASE_URL}/prop-firms/${firm.slug}#product`,
+    name: `${firm.name} Funded Account Programs`,
+    url: `${BASE_URL}/prop-firms/${firm.slug}`,
+    brand: {
+      '@type': 'Brand',
+      name: firm.name,
     },
-    foundingDate: firm.foundedYear ? `${firm.foundedYear}` : undefined,
     description: firm.description || `Verified trading rules, drawdown calculation, and evaluation terms for ${firm.name}.`,
+    provider: {
+      '@type': 'Organization',
+      '@id': `${BASE_URL}/prop-firms/${firm.slug}#entity`,
+      name: firm.name,
+      url: firm.website,
+      address: {
+        '@type': 'PostalAddress',
+        addressCountry: firm.country,
+        addressLocality: firm.headquarters,
+      },
+      foundingDate: firm.foundedYear ? `${firm.foundedYear}` : undefined,
+    },
   };
 
   if (firm.rating && firm.reviewsCount && firm.reviewsCount > 0) {

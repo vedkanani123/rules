@@ -32,8 +32,7 @@ Allow: /
 Disallow: /admin
 Disallow: /crawler-admin
 
-# Host and Sitemap
-Host: https://www.fundedtradingrules.com
+# Sitemap
 Sitemap: https://www.fundedtradingrules.com/sitemap.xml
 
 # LLM & AI Search indexing files (Perplexity, ChatGPT, Claude)

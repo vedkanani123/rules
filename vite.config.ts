@@ -21,6 +21,18 @@ export default defineConfig({
   },
   build: {
     chunkSizeWarningLimit: 600,
+    modulePreload: {
+      polyfill: true,
+      resolveDependencies(filename, deps) {
+        return deps.filter((dep) => {
+          return !dep.includes('pages-terminal') &&
+                 !dep.includes('component-simulator') &&
+                 !dep.includes('pages-legal') &&
+                 !dep.includes('data-goat') &&
+                 !dep.includes('data-extended');
+        });
+      },
+    },
     rollupOptions: {
       output: {
         manualChunks(id) {

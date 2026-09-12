@@ -78,7 +78,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
             <button key={firm.id} onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className="text-left group p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors flex flex-col gap-4 min-h-[200px]">
               <div className="flex items-start justify-between gap-3">
                 <div className="flex items-center gap-3 min-w-0">
-                  <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0" onError={(e)=>{ 
+                  <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} width="32" height="32" loading="lazy" decoding="async" className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0" onError={(e)=>{ 
                       const target = e.currentTarget as HTMLImageElement;
                       try {
                         const domain = new URL(firm.website || '').hostname;
@@ -128,7 +128,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
                   <tr key={firm.id} className="hover:bg-[#16181E]/60 transition-colors">
                     <td className="px-4 py-3">
                       <div className="flex items-center gap-3">
-                        <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} className="w-6 h-6 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244]" onError={(e)=>{ 
+                        <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} width="24" height="24" loading="lazy" decoding="async" className="w-6 h-6 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244]" onError={(e)=>{ 
                       const target = e.currentTarget as HTMLImageElement;
                       try {
                         const domain = new URL(firm.website || '').hostname;

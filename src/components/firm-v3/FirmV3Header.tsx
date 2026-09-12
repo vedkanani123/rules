@@ -144,6 +144,9 @@ export const FirmV3Header: React.FC<FirmV3HeaderProps> = ({
               <img
                 src={firm.logoUrl}
                 alt={firm.name}
+                width="80"
+                height="80"
+                decoding="async"
                 className="w-full h-full object-contain rounded-xl filter drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)]"
                 onError={(e) => {
                   const target = e.currentTarget as HTMLImageElement;

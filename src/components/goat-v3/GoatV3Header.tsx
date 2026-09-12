@@ -138,6 +138,9 @@ export const GoatV3Header: React.FC<GoatV3HeaderProps> = ({
               <img
                 src="/goat-brand-logo.png"
                 alt="Goat Funded Trader"
+                width="80"
+                height="80"
+                decoding="async"
                 className="w-full h-full object-contain rounded-xl"
                 onError={(e) => {
                   (e.currentTarget as HTMLImageElement).src =

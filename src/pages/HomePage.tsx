@@ -82,7 +82,7 @@ export const HomePage: React.FC<HomePageProps> = ({
   const allRulesCount = PROP_FIRMS_DATA.reduce((acc, f) => acc + f.rules.length, 0);
 
   const [activeTab, setActiveTab] = useState<CoverageTabId>('drawdown');
-  const [openFaq, setOpenFaq] = useState<number | null>(null);
+  const [openFaq, setOpenFaq] = useState<number | null>(0);
 
   const homeFaqs = [
     {
@@ -650,24 +650,27 @@ export const HomePage: React.FC<HomePageProps> = ({
             {homeFaqs.map((faq, idx) => {
               const isOpen = openFaq === idx;
               return (
-                <div key={idx} className="py-4">
+                <div key={idx} className="py-4" itemScope itemType="https://schema.org/Question">
                   <button
                     type="button"
                     onClick={() => setOpenFaq(isOpen ? null : idx)}
                     className="w-full text-left flex items-center justify-between gap-4 group cursor-pointer"
                   >
-                    <span className="text-sm sm:text-[15px] font-medium text-white group-hover:text-emerald-400 transition-colors">
+                    <span className="text-sm sm:text-[15px] font-medium text-white group-hover:text-emerald-400 transition-colors" itemProp="name">
                       {faq.q}
                     </span>
                     <span className={`w-6 h-6 rounded-md bg-[#16181E] border border-[#1F2228] flex items-center justify-center text-white/40 group-hover:text-white shrink-0 transition-transform ${isOpen ? 'rotate-180 text-emerald-400' : ''}`}>
                       <ChevronDown className="w-3.5 h-3.5" />
                     </span>
                   </button>
-                  {isOpen && (
-                    <div className="mt-3 text-xs sm:text-sm text-white/60 leading-relaxed pr-8">
-                      <p>{faq.a}</p>
-                    </div>
-                  )}
+                  <div
+                    className={`mt-3 text-xs sm:text-sm text-slate-300 leading-relaxed pr-8 ${isOpen ? 'block' : 'hidden'}`}
+                    itemScope
+                    itemProp="acceptedAnswer"
+                    itemType="https://schema.org/Answer"
+                  >
+                    <p itemProp="text">{faq.a}</p>
+                  </div>
                 </div>
               );
             })}
