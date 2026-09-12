@@ -40,7 +40,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/`,
     h1: 'Funded Rules & Best Funded Accounts: Know Every Rule Before You Buy',
     keywords: 'best funded account, best funded accounts, funded rules, funded trading rules, prop firm trading rules, prop firm rules, compare funded accounts, prop firm comparison, trailing drawdown, static drawdown, funded account rules, ftmo rules',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [{ name: 'Home', url: '/' }],
     schemaGraph: [
@@ -78,7 +78,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/prop-firms`,
     h1: 'Best Funded Accounts & Prop Firm Rules Directory: 24+ Verified Firms',
     keywords: 'best funded accounts, prop trading firms, best prop firms, funded accounts directory, prop firm list 2026, prop firm reviews, prop firm rules comparison',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -104,7 +104,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/rules`,
     h1: 'Funded Rules Explained: Complete Prop Firm Trading Rules Guide (2026)',
     keywords: 'funded rules, funded rules forex, funded account rules, prop firm rules explained, prop firm rules explained 2026, funded rules pdf, trading rules for funded accounts, prop firm trading rules, daily loss limit, maximum drawdown rules, prop firm traps',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -130,7 +130,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/compare`,
     h1: 'Side-by-Side Prop Firm Comparison Matrix',
     keywords: 'compare funded accounts, prop firm comparison, funded account comparison, compare prop firms, best funded account comparison, prop trading firm comparison matrix',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -152,7 +152,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/wizard`,
     h1: 'Personalized Prop Firm Strategy Matcher',
     keywords: 'find funded account, best funded account for me, prop firm strategy matcher, swing trading prop firm, ea friendly prop firm, best prop firm quiz',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -174,7 +174,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/simulator`,
     h1: 'Interactive Prop Firm Risk & Drawdown Simulator',
     keywords: 'drawdown simulator, prop firm drawdown calculator, daily loss limit calculator, trailing drawdown calculator, prop firm risk calculator',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -196,7 +196,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/reviews`,
     h1: 'Prop Firm Trader Dispute & Evidence Registry',
     keywords: 'prop firm reviews, prop firm complaints, prop firm payout disputes, trader dispute registry, prop firm proof, scam prop firms list',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -218,7 +218,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/changes`,
     h1: 'Prop Firm Rule Changes & Audit Trail',
     keywords: 'prop firm rule changes, prop firm news updates, prop firm policy updates 2026, prop firm rule updates, ftmo rule changes',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -240,7 +240,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/contact`,
     h1: 'Contact FundedTradingRules Research Desk',
     keywords: 'contact funded trading rules, submit prop firm rule change, prop firm editorial desk, dispute submission',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -262,7 +262,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/privacy`,
     h1: 'Privacy Policy',
     keywords: 'funded trading rules privacy policy, gdpr compliance, ccpa notice',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -284,7 +284,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/terms`,
     h1: 'Terms of Service',
     keywords: 'funded trading rules terms of service, user agreement',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -306,7 +306,7 @@ const CORE_ROUTES: RouteSEOData[] = [
     canonicalUrl: `${BASE_URL}/disclaimer`,
     h1: 'Risk & Regulatory Disclaimer',
     keywords: 'cftc rule 4.41 disclaimer, prop trading risk disclosure, simulated trading disclaimer',
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
       { name: 'Home', url: '/' },
@@ -337,7 +337,7 @@ const FIRM_ROUTES: RouteSEOData[] = PROP_FIRMS_DATA.map(firm => {
     metaDescription: `Complete verified rules dossier for ${firm.name}. Drawdown calculation, consistency limits, news trading rules, lot size caps, and trader dispute record backed by official citations.`,
     canonicalUrl: `${BASE_URL}/prop-firms/${firm.slug}`,
     h1: `${firm.name} Rules & Evaluation Intelligence Dossier`,
-    lastmod: firm.lastVerified || '2026-09-10',
+    lastmod: firm.lastVerified || '2026-09-13',
     isIndexable: true,
     keywords: `${firm.name} rules, ${firm.name} drawdown, ${firm.name} funded account, ${firm.name} payout rules, ${firm.name} consistency rule, ${firm.name} evaluation target, ${firm.name} trading rules 2026`,
     breadcrumbs,
@@ -417,7 +417,7 @@ const RULE_ROUTES: RouteSEOData[] = ALL_RULE_GUIDES.map(guide => {
     metaDescription: `${guide.shortDefinition} Complete calculation formula, practical examples, common violation mistakes, and prop firms using this rule.`,
     canonicalUrl: `${BASE_URL}/rules/${guide.slug}`,
     h1: `${guide.name} — Prop Firm Rule Guide`,
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     keywords: `${guide.name} prop firm, ${guide.name} rules, prop firm ${guide.name}, funded account ${guide.name}, how ${guide.name} works, avoid ${guide.name} breach`,
 
@@ -462,7 +462,7 @@ const COMPARE_ROUTES: RouteSEOData[] = CURATED_COMPARISONS.map(pair => {
     metaDescription: pair.metaDescription,
     canonicalUrl: `${BASE_URL}/compare/${pair.slug}`,
     h1: `${pair.firmAName} vs ${pair.firmBName}: Rules & Drawdown Compared`,
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     keywords: `${pair.firmAName} vs ${pair.firmBName}, compare ${pair.firmAName} and ${pair.firmBName}, ${pair.firmAName} or ${pair.firmBName}, ${pair.firmAName} vs ${pair.firmBName} rules, ${pair.firmAName} vs ${pair.firmBName} drawdown, best funded account ${pair.firmAName} vs ${pair.firmBName}`,
 
@@ -492,7 +492,7 @@ const ATTRIBUTE_ROUTES: RouteSEOData[] = ATTRIBUTE_PAGES.map(attr => {
     metaDescription: attr.metaDescription,
     canonicalUrl: `${BASE_URL}/prop-firms/${attr.slug}`,
     h1: attr.h1,
-    lastmod: '2026-09-10',
+    lastmod: '2026-09-13',
     isIndexable: true,
     keywords: `${attr.h1.toLowerCase()}, prop firms ${attr.badge.toLowerCase()}, best funded accounts ${attr.badge.toLowerCase()}, prop trading firms ${attr.slug.replace('with-', '').replace(/-/g, ' ')}`,
 
@@ -555,7 +555,7 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
         metaDescription: `Compare ${firmA.name} vs ${firmB.name} side-by-side: Daily loss limits, maximum drawdown mechanics, profit targets, payout frequency, and official terms citations.`,
         canonicalUrl: `${BASE_URL}${cleanPath}`,
         h1: `${firmA.name} vs ${firmB.name} Rules Comparison`,
-        lastmod: '2026-09-10',
+        lastmod: '2026-09-13',
         isIndexable: true,
         breadcrumbs,
         schemaGraph: [
@@ -591,7 +591,7 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
         metaDescription: `Verified evaluation rules for ${firm.name} ${accName}. Exact daily loss, maximum drawdown, profit split, and failure trigger math.`,
         canonicalUrl: `${BASE_URL}${cleanPath}`,
         h1: `${firm.name} — ${accName} Rules & Conditions`,
-        lastmod: firm.lastVerified || '2026-09-10',
+        lastmod: firm.lastVerified || '2026-09-13',
         isIndexable: true,
         breadcrumbs,
         schemaGraph: [

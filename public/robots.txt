@@ -1,12 +1,19 @@
 User-agent: *
 Disallow: /admin
+Disallow: /admin/
 Disallow: /crawler-admin
+Disallow: /crawler-admin/
 Allow: /
 
 # Search Crawlers
 User-agent: Googlebot
 Disallow: /admin
+Disallow: /admin/
 Disallow: /crawler-admin
+Disallow: /crawler-admin/
+Allow: /
+
+User-agent: Google-InspectionTool
 Allow: /
 
 User-agent: Googlebot-Image
@@ -14,10 +21,15 @@ Allow: /
 
 User-agent: Bingbot
 Disallow: /admin
+Disallow: /admin/
 Disallow: /crawler-admin
+Disallow: /crawler-admin/
 Allow: /
 
 # AI Crawlers & Answer Engines (Perplexity, ChatGPT Search, Claude, Gemini)
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: GPTBot
 Allow: /
 
@@ -31,6 +43,12 @@ User-agent: PerplexityBot
 Allow: /
 
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
 Allow: /
 
 # Sitemap
