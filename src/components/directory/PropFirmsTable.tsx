@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { PropFirm, SourceEvidence } from '../../types/schema.ts';
+import { DEFINITIVE_FIRMS_RANK } from '../../pages/PropFirmsListPage.tsx';
 import {
   Search,
   ArrowRight,
@@ -30,12 +31,16 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
         const m = firm.name.toLowerCase().includes(q) || firm.brandName.toLowerCase().includes(q) || firm.headquarters.toLowerCase().includes(q) || firm.platforms.some((p) => p.toLowerCase().includes(q));
         if (!m) return false;
       }
-      if (selectedMarket !== 'ALL' && firm.marketType && firm.marketType !== selectedMarket && firm.marketType !== 'Multi-Asset') return false;
-      return true;
-    });
-    if (sortBy === 'rating_desc') r = [...r].sort((a,b) => b.scorecard.overallScore - a.scorecard.overallScore);
-    else r = [...r].sort((a,b) => a.name.localeCompare(b.name));
-    return r;
+    if (selectedMarket !== 'ALL' && firm.marketType && firm.marketType !== selectedMarket && firm.marketType !== 'Multi-Asset') return false;
+    return true;
+  });
+  const getRank = (slug: string) => {
+    const norm = (slug || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    return DEFINITIVE_FIRMS_RANK[norm]?.rank ?? DEFINITIVE_FIRMS_RANK[slug]?.rank ?? 99;
+  };
+  if (sortBy === 'rating_desc') r = [...r].sort((a,b) => getRank(a.slug) - getRank(b.slug));
+  else r = [...r].sort((a,b) => a.name.localeCompare(b.name));
+  return r;
   }, [firms, search, selectedMarket, sortBy]);
 
   return (

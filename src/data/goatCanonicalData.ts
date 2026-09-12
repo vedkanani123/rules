@@ -574,7 +574,7 @@ export const GFT_CANONICAL_MODELS: GFTModel[] = [
     verificationStatus: 'officially_verified',
     confidenceScore: 98,
     evidenceExcerpt: '2-Step Standard: Phase 1 target 10%, Phase 2 target 5%. Daily DD 5%. Max DD 10% Static. 3 minimum trading days in evaluation phases. 4 valid days in funded.',
-    sourceUrl: 'https://help.goatfundedtrader.com/en/articles/2-step-standard',
+    sourceUrl: 'https://help.goatfundedtrader.com/en/',
     sourceDoc: 'GFT Knowledgebase Article 12687827',
   },
   {

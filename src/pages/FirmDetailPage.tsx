@@ -984,7 +984,7 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
                 Using &gt;80% Margin Confiscates All Profits at Payout
               </h3>
               <p className="text-xs text-white/70 leading-relaxed">
-                If your concurrent open positions ever consume more than 80% of available margin, GFT flags this as "gambling". When you request a payout, the risk desk deducts all profits made and resets your balance.
+                If your concurrent open positions ever consume more than 80% of available margin, {firm.brandName || firm.name} flags this as "gambling". When you request a payout, the risk desk deducts all profits made and resets your balance.
               </p>
               <div className="p-2.5 rounded-lg bg-red-950/30 border border-red-900/50 text-[11px] text-red-300 font-mono">
                 <strong>Limit on {fmt(selectedCapital)}:</strong> Keep total used margin strictly below {fmt(selectedCapital * 0.8)}. (Confirmed in trader Imane dispute).

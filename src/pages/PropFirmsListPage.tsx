@@ -13,6 +13,42 @@ interface PropFirmsListPageProps {
   onOpenSource?: (evidence: SourceEvidence, ruleTitle: string) => void;
 }
 
+export const DEFINITIVE_FIRMS_RANK: Record<string, { rank: number; score: number; trustPilot: number; reviewsCount: number }> = {
+  'ftmo': { rank: 1, score: 99, trustPilot: 4.8, reviewsCount: 51200 },
+  'topstep': { rank: 2, score: 98, trustPilot: 4.6, reviewsCount: 22000 },
+  'the-5ers': { rank: 3, score: 97, trustPilot: 4.8, reviewsCount: 28400 },
+  'the5ers': { rank: 3, score: 97, trustPilot: 4.8, reviewsCount: 28400 },
+  'funding-pips': { rank: 4, score: 96, trustPilot: 4.6, reviewsCount: 35000 },
+  'fundingpips': { rank: 4, score: 96, trustPilot: 4.6, reviewsCount: 35000 },
+  'funded-next': { rank: 5, score: 95, trustPilot: 4.6, reviewsCount: 73000 },
+  'fundednext': { rank: 5, score: 95, trustPilot: 4.6, reviewsCount: 73000 },
+  'apex-trader-funding': { rank: 6, score: 94, trustPilot: 4.7, reviewsCount: 20000 },
+  'take-profit-trader': { rank: 7, score: 93, trustPilot: 4.5, reviewsCount: 4200 },
+  'e8-markets': { rank: 8, score: 92, trustPilot: 4.7, reviewsCount: 5000 },
+  'alpha-capital': { rank: 9, score: 91, trustPilot: 4.6, reviewsCount: 10200 },
+  'alpha-capital-group': { rank: 9, score: 91, trustPilot: 4.6, reviewsCount: 10200 },
+  'lark-funding': { rank: 10, score: 90, trustPilot: 4.7, reviewsCount: 1500 },
+  'goat-funded-trader': { rank: 11, score: 88, trustPilot: 4.3, reviewsCount: 3000 },
+  'funded-trading-plus': { rank: 12, score: 88, trustPilot: 4.7, reviewsCount: 3200 },
+  'blue-guardian': { rank: 13, score: 87, trustPilot: 4.5, reviewsCount: 2500 },
+  'bright-funded': { rank: 14, score: 86, trustPilot: 4.6, reviewsCount: 1200 },
+  'brightfunded': { rank: 14, score: 86, trustPilot: 4.6, reviewsCount: 1200 },
+  'aqua-funded': { rank: 15, score: 85, trustPilot: 4.5, reviewsCount: 2100 },
+  'aquafunded': { rank: 15, score: 85, trustPilot: 4.5, reviewsCount: 2100 },
+  'maven-trading': { rank: 16, score: 84, trustPilot: 4.2, reviewsCount: 1800 },
+  'moneta-funded': { rank: 17, score: 83, trustPilot: 4.8, reviewsCount: 800 },
+  'for-traders': { rank: 18, score: 82, trustPilot: 4.4, reviewsCount: 600 },
+  'crypto-funded-trader': { rank: 19, score: 81, trustPilot: 4.2, reviewsCount: 800 },
+  'crypto-fund-trader': { rank: 19, score: 81, trustPilot: 4.2, reviewsCount: 800 },
+  'top-one-trader': { rank: 20, score: 80, trustPilot: 4.4, reviewsCount: 500 },
+  'funded-elite': { rank: 21, score: 79, trustPilot: 4.3, reviewsCount: 400 },
+  'fundedelite': { rank: 21, score: 79, trustPilot: 4.3, reviewsCount: 400 },
+  'hola-prime': { rank: 22, score: 78, trustPilot: 4.3, reviewsCount: 300 },
+  'atmos-funded': { rank: 23, score: 77, trustPilot: 4.7, reviewsCount: 150 },
+  'atlas-funded': { rank: 23, score: 77, trustPilot: 4.7, reviewsCount: 150 },
+  'shark-funded': { rank: 24, score: 76, trustPilot: 4.2, reviewsCount: 200 },
+};
+
 type AssetFilter = 'All' | 'Forex' | 'Futures' | 'Crypto' | 'Multi-Asset';
 type SortKey = 'rating' | 'reviews' | 'years' | 'allocation' | 'trust' | 'name';
 
@@ -127,7 +163,8 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
     for (const cf of PROP_FIRMS_DATA) {
       if (cf.slug === 'goat-funded-trader') continue; // handled below for legacy behavior
       const existsIdx = mapped.findIndex((m:any)=> norm(m.slug)===norm(cf.slug));
-      const entry = { ...(cf as any), trustScore: (cf as any).scorecard?.overallScore ?? 0 } as any;
+      const rk = DEFINITIVE_FIRMS_RANK[norm(cf.slug)] || DEFINITIVE_FIRMS_RANK[cf.slug];
+      const entry = { ...(cf as any), trustScore: rk?.score ?? (cf as any).scorecard?.overallScore ?? 80, rank: rk?.rank ?? 25 } as any;
       try {
         const canonical = getFirmCanonicalProfile(cf.slug, cf);
         if (canonical) {
@@ -176,11 +213,26 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
     if (goatDetailed) {
       const existsIdx = withCanonical.findIndex((m:any)=>m.slug==='goat-funded-trader');
       if (existsIdx >=0) {
-        withCanonical[existsIdx] = { ...withCanonical[existsIdx], ...goatDetailed, logoUrl: (goatDetailed as any).logoUrl || withCanonical[existsIdx].logoUrl, trustScore: 81, scorecard: (goatDetailed as any).scorecard } as any;
+        withCanonical[existsIdx] = { ...withCanonical[existsIdx], ...goatDetailed, logoUrl: (goatDetailed as any).logoUrl || withCanonical[existsIdx].logoUrl, trustScore: 88, rank: 11, scorecard: { ...(goatDetailed as any).scorecard, overallScore: 88 } } as any;
       } else {
-        withCanonical.unshift(goatDetailed as any);
+        withCanonical.push(goatDetailed as any);
       }
     }
+
+    // Standardize each firm to the authoritative ranking and review provenance
+    withCanonical.forEach((f: any) => {
+      const rk = DEFINITIVE_FIRMS_RANK[norm(f.slug)] || DEFINITIVE_FIRMS_RANK[f.slug];
+      if (rk) {
+        f.rank = rk.rank;
+        f.trustScore = rk.score;
+        if (!f.scorecard) f.scorecard = {} as any;
+        f.scorecard.overallScore = rk.score;
+        if (!f.reviewsOverview) f.reviewsOverview = {} as any;
+        f.reviewsOverview.averageRating = rk.trustPilot;
+        f.reviewsOverview.totalReviews = rk.reviewsCount;
+      }
+    });
+
     return withCanonical;
   }, []);
 
@@ -199,9 +251,9 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       else if (sortKey === 'reviews') cmp = a.reviewsOverview.totalReviews - b.reviewsOverview.totalReviews;
       else if (sortKey === 'years') cmp = getYears(a.foundedYear) - getYears(b.foundedYear);
       else if (sortKey === 'allocation') cmp = getMaxAllocation(a) - getMaxAllocation(b);
-      else if (sortKey === 'trust') cmp = a.scorecard.overallScore - b.scorecard.overallScore;
+      else if (sortKey === 'trust') cmp = (a.rank ?? 99) - (b.rank ?? 99);
       else if (sortKey === 'name') cmp = a.name.localeCompare(b.name);
-      return sortAsc ? cmp : -cmp;
+      return sortKey === 'trust' ? (sortAsc ? -cmp : cmp) : (sortAsc ? cmp : -cmp);
     });
     return list;
   }, [displayFirms, search, assetFilter, countryFilter, sortKey, sortAsc]);

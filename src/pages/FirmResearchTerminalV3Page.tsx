@@ -26,6 +26,9 @@ import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
 // Cloned Header & About Firm with Company Parameterization
 import { FirmV3Header } from '../components/firm-v3/FirmV3Header.tsx';
 import { FirmV3AboutFirm } from '../components/firm-v3/FirmV3AboutFirm.tsx';
+import { FirmV3TrustCenter } from '../components/firm-v3/FirmV3TrustCenter.tsx';
+import { FirmV3PricingPromos } from '../components/firm-v3/FirmV3PricingPromos.tsx';
+import { FirmV3CompleteModelRuleTable } from '../components/firm-v3/FirmV3CompleteModelRuleTable.tsx';
 
 // Direct Reuse of Full-Power Goat Terminal Components
 import { GoatV3ModelSelector } from '../components/goat-v3/GoatV3ModelSelector.tsx';
@@ -76,6 +79,10 @@ export const FirmResearchTerminalV3Page: React.FC<FirmResearchTerminalV3PageProp
     const pfd = PROP_FIRMS_DATA.find((p) => norm(p.slug) === norm(slug));
     const fallback = { ...rf, ...pfd };
     return getFirmCanonicalProfile(slug, fallback);
+  }, [slug]);
+  const isGoat = slug === 'goat-funded-trader';
+  const targetPropFirm = useMemo(() => {
+    return PROP_FIRMS_DATA.find((p) => norm(p.slug) === norm(slug)) || PROP_FIRMS_DATA[0];
   }, [slug]);
 
   // ── 1. Core Selection State ──
@@ -457,75 +464,116 @@ export const FirmResearchTerminalV3Page: React.FC<FirmResearchTerminalV3PageProp
                 />
 
                 {/* 2.5 Complete Rules for Selected Model (Central Feature) */}
-                <GoatV3CompleteModelRuleTable
-                  canonicalRules={canonicalRules}
-                  selectedModel={selectedModel}
-                  selectedSize={selectedSize}
-                  selectedStage={selectedStage}
-                  selectedVersion={selectedVersion}
-                  selectedPlatform={selectedPlatform}
-                  selectedTradingStyle={selectedTradingStyle}
-                  onSelectModel={handleSelectModel}
-                  onSelectSize={setSelectedSize}
-                  onSelectStage={setSelectedStage}
-                  onSelectVersion={setSelectedVersion}
-                  onSelectPlatform={setSelectedPlatform}
-                  onOpenSourceModal={(evidence, title, sourceUrl) =>
-                    setEvidenceModalData({ evidence, title, sourceUrl })
-                  }
-                />
+                {isGoat ? (
+                  <GoatV3CompleteModelRuleTable
+                    canonicalRules={canonicalRules}
+                    selectedModel={selectedModel}
+                    selectedSize={selectedSize}
+                    selectedStage={selectedStage}
+                    selectedVersion={selectedVersion}
+                    selectedPlatform={selectedPlatform}
+                    selectedTradingStyle={selectedTradingStyle}
+                    onSelectModel={handleSelectModel}
+                    onSelectSize={setSelectedSize}
+                    onSelectStage={(s) => setSelectedStage(s as any)}
+                    onSelectVersion={(v) => setSelectedVersion(v as any)}
+                    onSelectPlatform={setSelectedPlatform}
+                    onOpenSourceModal={(evidence, title, sourceUrl) =>
+                      setEvidenceModalData({ evidence, title, sourceUrl })
+                    }
+                  />
+                ) : (
+                  <FirmV3CompleteModelRuleTable
+                    firm={targetPropFirm}
+                    firmProfile={firmProfile}
+                    selectedModel={selectedModel}
+                    selectedSize={selectedSize}
+                    selectedStage={selectedStage}
+                    selectedVersion={selectedVersion}
+                    selectedPlatform={selectedPlatform}
+                    selectedTradingStyle={selectedTradingStyle}
+                    onSelectModel={handleSelectModel}
+                    onSelectSize={setSelectedSize}
+                    onSelectStage={setSelectedStage}
+                    onSelectVersion={setSelectedVersion}
+                    onSelectPlatform={setSelectedPlatform}
+                    onOpenSourceModal={(evidence, title, sourceUrl) =>
+                      setEvidenceModalData({ evidence, title, sourceUrl })
+                    }
+                  />
+                )}
 
                 {/* 3. Quick Decision Guide & Suitability Matrix */}
-                <GoatV3QuickDecision
-                  recommendations={decisionRecommendations}
-                  onSelectModelById={handleSelectModelById}
-                  currentSelectedModelId={selectedModel.id}
-                />
+                {isGoat && (
+                  <GoatV3QuickDecision
+                    recommendations={decisionRecommendations}
+                    onSelectModelById={handleSelectModelById}
+                    currentSelectedModelId={selectedModel.id}
+                  />
+                )}
 
                 {/* 4. Rule Snapshot */}
-                <GoatV3RuleSnapshot
-                  canonicalRules={canonicalRules}
-                  onNavigateToCompleteTable={() => scrollToSection('complete-rules-table')}
-                  onNavigateToExplorer={() => scrollToSection('explorer')}
-                  onOpenSourceModal={(evidence, title) =>
-                    setEvidenceModalData({ evidence, title, sourceUrl: selectedModel.sourceUrl })
-                  }
-                />
+                {isGoat && (
+                  <GoatV3RuleSnapshot
+                    canonicalRules={canonicalRules}
+                    onNavigateToCompleteTable={() => scrollToSection('complete-rules-table')}
+                    onNavigateToExplorer={() => scrollToSection('explorer')}
+                    onOpenSourceModal={(evidence, title) =>
+                      setEvidenceModalData({ evidence, title, sourceUrl: selectedModel.sourceUrl })
+                    }
+                  />
+                )}
 
                 {/* 5. Multi-Model Comparison Workspace */}
-                <GoatV3ComparisonWorkspace
-                  allModels={firmProfile.models}
-                  selectedModelIds={comparisonModelIds}
-                  onRemoveModel={handleRemoveCompare}
-                  onAddModel={handleAddCompare}
-                  comparisonSize={comparisonSize}
-                  onChangeComparisonSize={setComparisonSize}
-                />
+                {isGoat && (
+                  <GoatV3ComparisonWorkspace
+                    allModels={firmProfile.models}
+                    selectedModelIds={comparisonModelIds}
+                    onRemoveModel={handleRemoveCompare}
+                    onAddModel={handleAddCompare}
+                    comparisonSize={comparisonSize}
+                    onChangeComparisonSize={setComparisonSize}
+                  />
+                )}
 
                 {/* 6. Model-Specific Risk Simulator (Phase 7-G) */}
-                <GoatV3RiskSimulator
-                  canonicalRules={canonicalRules}
-                />
+                {isGoat && (
+                  <GoatV3RiskSimulator
+                    canonicalRules={canonicalRules}
+                  />
+                )}
 
                 {/* 7. Full Rule Explorer & Verification Audit (Phase 7-E) */}
-                <GoatV3RuleExplorer
-                  rules={rulesList}
-                  accountSize={selectedSize}
-                  onOpenSourceModal={(evidence, title, sourceUrl) =>
-                    setEvidenceModalData({ evidence, title, sourceUrl })
-                  }
-                />
+                {isGoat && (
+                  <GoatV3RuleExplorer
+                    rules={rulesList}
+                    accountSize={selectedSize}
+                    onOpenSourceModal={(evidence, title, sourceUrl) =>
+                      setEvidenceModalData({ evidence, title, sourceUrl })
+                    }
+                  />
+                )}
 
                 {/* 8. Pricing & Promotion Verification Engine (Phase 7-H) */}
-                <GoatV3PricingPromos
-                  model={selectedModel}
-                  pricingList={pricingList}
-                  selectedSize={selectedSize}
-                  onSelectSize={setSelectedSize}
-                />
+                {isGoat ? (
+                  <GoatV3PricingPromos
+                    model={selectedModel}
+                    pricingList={pricingList}
+                    selectedSize={selectedSize}
+                    onSelectSize={setSelectedSize}
+                  />
+                ) : (
+                  <FirmV3PricingPromos
+                    firm={firmProfile}
+                    model={selectedModel}
+                    pricingList={pricingList}
+                    selectedSize={selectedSize}
+                    onSelectSize={setSelectedSize}
+                  />
+                )}
 
                 {/* 9. Dedicated CME Futures Desk (Phase 8) */}
-                {futuresModels.length > 0 && (
+                {isGoat && futuresModels.length > 0 && (
                   <GoatV3FuturesWorkspace futuresModels={futuresModels} />
                 )}
 
@@ -536,7 +584,7 @@ export const FirmResearchTerminalV3Page: React.FC<FirmResearchTerminalV3PageProp
                 />
 
                 {/* 11. Trust & Verification Framework (Phase 7-I) */}
-                <GoatV3TrustCenter />
+                {isGoat ? <GoatV3TrustCenter /> : <FirmV3TrustCenter firm={firmProfile} />}
 
                 {/* 12. Community Reports & Trader Testimonials (Phase 7-J) */}
                 <GoatV3CommunityReviews reviews={communityReviews} />

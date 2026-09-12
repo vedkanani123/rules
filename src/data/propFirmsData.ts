@@ -688,7 +688,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
         sources: [
           {
             id: 'src-payout-days-1',
-            sourceUrl: 'https://help.goatfundedtrader.com/en/articles/rewards-payout-rules',
+            sourceUrl: 'https://help.goatfundedtrader.com/en/',
             sourceTitle: 'GFT Rewards & Payout Documentation',
             sourceType: 'OFFICIAL_SUPPORT',
             sourceExcerpt: 'Effective July 25, 2026: Funded accounts now require 4 active trading days per payout cycle (previously 3 days for legacy purchases).',
@@ -1399,7 +1399,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
         },
         sourceB: {
           claim: '4 Minimum Funded Trading Days + No Open Positions Requirement',
-          url: 'https://help.goatfundedtrader.com/en/articles/rewards-payout-rules',
+          url: 'https://help.goatfundedtrader.com/en/',
           sourceType: 'OFFICIAL_SUPPORT',
           context: 'Help Center Payout Guidelines (Updated July 2026)',
         },
@@ -1433,7 +1433,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
         topic: 'Standard Payouts: 80% Bi-Weekly vs 65/70/80 Ladder Every 10 Days',
         sourceA: {
           claim: '80% profit split with bi-weekly rewards after 4 active funded trading days.',
-          url: 'https://help.goatfundedtrader.com/en/articles/rewards-payout-rules',
+          url: 'https://help.goatfundedtrader.com/en/',
           sourceType: 'OFFICIAL_SUPPORT',
           context: 'Help Center payout guidelines',
         },
@@ -1700,7 +1700,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
         impactLevel: 'HIGH',
         whoIsAffected: 'All new funded account holders purchasing after July 25, 2026',
         plainEnglishSummary: 'Traders must now log 4 individual trading days instead of 3 before requesting their profit reward.',
-        sourceUrl: 'https://help.goatfundedtrader.com/en/articles/rewards-payout-rules',
+        sourceUrl: 'https://help.goatfundedtrader.com/en/',
         sourceTitle: 'Official Help Center Announcement',
       },
       {
