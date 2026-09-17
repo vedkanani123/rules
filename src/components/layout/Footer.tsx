@@ -1,3 +1,5 @@
+import { RULE_GUIDES } from "../../data/propFirmsData";
+
 import React from 'react';
 import { PROP_FIRMS_DATA } from '../../data/propFirmsData.ts';
 import { Link } from '../common/Link.tsx';
@@ -33,7 +35,7 @@ export const Footer: React.FC<FooterProps> = () => {
               </div>
             </Link>
             <p className="text-xs leading-relaxed text-[#9CA3AF] mt-3 max-w-sm">
-              Independent, evidence-backed intelligence for prop firm traders. Every rule verified with official citations and deterministic math.
+              Rule documentation and analysis for prop firm traders. Some links may contain referral parameters — see our affiliate disclosure.
             </p>
             <p className="text-[11px] leading-relaxed text-[#6B7280] mt-3 max-w-sm">
               <strong className="text-slate-400">Risk Disclosure:</strong> Proprietary trading evaluations involve simulated trading with substantial risk of loss. Past performance does not guarantee future results. Not financial advice.
@@ -79,7 +81,7 @@ export const Footer: React.FC<FooterProps> = () => {
                 href="/rules"
                 className="block text-xs text-sky-400 hover:text-sky-300 pt-1 font-medium"
               >
-                Browse all 40+ rule guides →
+                Browse all {RULE_GUIDES.length} rule guides →
               </Link>
             </div>
           </div>
@@ -98,7 +100,11 @@ export const Footer: React.FC<FooterProps> = () => {
                 ['Privacy Policy (GDPR / CCPA)', '/privacy'],
                 ['Terms of Service', '/terms'],
                 ['Risk & CFTC Disclaimer', '/disclaimer'],
+                ['Affiliate Disclosure', '/affiliate-disclosure'],
                 ['Contact & Evidence Desk', '/contact'],
+                ['About Us', '/about'],
+                ['Methodology', '/methodology'],
+                ['Editorial Policy', '/editorial-policy'],
               ].map(([label, path]) => (
                 <Link
                   key={label}
@@ -127,7 +133,10 @@ export const Footer: React.FC<FooterProps> = () => {
 
         {/* Bottom Bar */}
         <div className="mt-8 pt-6 border-t border-[#1F2228] flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-[#9CA3AF]">
-          <span>© 2026 FundedTradingRules.com — Evidence-Backed Proprietary Trading Intelligence.</span>
+          <div>
+            <span>© 2026 FundedTradingRules — Evidence-Backed Proprietary Trading Intelligence.</span>
+            <p className="text-[11px] text-[#6B7280] mt-2">FundedTradingRules Research Desk · Independent Digital Publication · <a href="mailto:support@fundedtradingrules.com" className="hover:text-white/50">support@fundedtradingrules.com</a></p>
+          </div>
           <div className="flex items-center gap-4 text-[11px] text-[#8A8F98]">
             <Link href="/privacy" className="hover:text-white transition-colors">Privacy</Link>
             <span>•</span>

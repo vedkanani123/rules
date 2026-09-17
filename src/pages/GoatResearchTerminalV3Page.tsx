@@ -668,7 +668,7 @@ export const GoatResearchTerminalV3Page: React.FC<GoatResearchTerminalV3PageProp
 
             <div className="flex flex-wrap items-center justify-between gap-2 pt-2 border-t border-white/[0.04] text-xs">
               <span className="text-slate-400 text-[11px]">
-                Status: <strong className="text-emerald-400">Audit Grade A Verified</strong>
+                Status: <strong className="text-emerald-400">Audit Data Documented</strong>
               </span>
 
               {evidenceModalData.sourceUrl && (

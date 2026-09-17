@@ -4,8 +4,7 @@ import type { FirmCanonicalProfile } from './firmTypes.ts';
 
 /**
  * Real Prop Firms mapped directly from EXTENDED_CANONICAL_FIRMS_PROFILES.
- * Sourced 100% from authentic propfirms_complete/ dossiers and verified filings.
- * Zero placeholder stubs, zero unknown pricing.
+ * Complete canonical rule definitions for the remaining 30 firms.
  */
 
 function canonicalProfileToPropFirm(profile: FirmCanonicalProfile, slugOverride?: string): PropFirm {
@@ -182,7 +181,7 @@ function canonicalProfileToPropFirm(profile: FirmCanonicalProfile, slugOverride?
 }
 
 export const REMAINING_FIRMS: PropFirm[] = [
-  canonicalProfileToPropFirm(EXTENDED_CANONICAL_FIRMS_PROFILES['crypto-fund-trader'], 'crypto-funded-trader'),
+  canonicalProfileToPropFirm(EXTENDED_CANONICAL_FIRMS_PROFILES['crypto-fund-trader'], 'crypto-fund-trader'),
   canonicalProfileToPropFirm(EXTENDED_CANONICAL_FIRMS_PROFILES['for-traders'], 'for-traders'),
   canonicalProfileToPropFirm(EXTENDED_CANONICAL_FIRMS_PROFILES['fundedelite'], 'funded-elite'),
   canonicalProfileToPropFirm(EXTENDED_CANONICAL_FIRMS_PROFILES['hola-prime'], 'hola-prime'),

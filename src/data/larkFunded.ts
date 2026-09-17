@@ -4,7 +4,6 @@ const RETRIEVED = '2026-09-06';
 const LV = '2026-09-06';
 const SITE = 'https://larkfunding.com';
 const HELP = 'https://helpdesk.larkfunding.com';
-const PFM = 'https://propfirmmatch.com';
 
 function ev(id: string, url: string, title: string, excerpt: string, sourceType: any = 'OFFICIAL_SUPPORT', confidence: any = 'A', verificationStatus: any = 'VERIFIED') {
   return { id, sourceUrl: url, sourceTitle: title, sourceType, sourceExcerpt: excerpt, retrievedAt: RETRIEVED, confidence, verificationStatus } as any;
@@ -20,8 +19,8 @@ export const LARK_FUNDED: PropFirm = {
   helpCenterUrl: `${HELP}/en/`,
   headquarters: 'Canada',
   country: 'Canada',
-  countryFlag: 'https://flagcdn.com/w80/ca.png',
-  logoUrl: 'https://media.propfirmmatch.com/system/dok3kczwb88juvpqtdrgnw8e/65e0eca6d4f625647843efd8_Lark-Funding.svg',
+  countryFlag: '',
+  logoUrl: '',
   foundedYear: 2022,
   ceoName: 'Matt L',
   status: 'ACTIVE',
@@ -34,8 +33,8 @@ export const LARK_FUNDED: PropFirm = {
     details: '5% OFF + free account of same size upon reaching payout on all challenges except 200K and Instant (PropFirmMatch).',
   },
   payoutGuarantee: 'Most payouts handled in under 6 hours (allow 3 business days) via Riseworks',
-  totalPayoutsReported: 'Hundreds of payouts over 4 years (CEO Matt)',
-  activeTradersReported: '4,442+ PropFirmMatch tracking · 524 Trustpilot reviews 4.2/5',
+  totalPayoutsReported: 'Hundreds of payouts over 4 years (CEO Matt)', // UNVERIFIED: Needs source URL
+  activeTradersReported: '4,442+ PropFirmMatch tracking · 524 Trustpilot reviews 4.2/5', // UNVERIFIED: Needs source URL
   supportedCountriesCount: 158,
   restrictedCountries: ['Afghanistan','Belarus','Central African Republic','Cuba','Democratic Republic of the Congo','Guinea','Haiti','Iran','Iraq','Libya','Mali','Myanmar','North Korea','Puerto Rico','Quebec (Canada)','Republic of the Congo','Russia','Somalia','South Korea','South Sudan','Sudan','Syria','Ukraine','US States (AK,CO,GA,ID,IN,ME,MS,NJ,OK,TN,UT,VT,WA)','US Virgin Islands','Venezuela','Yemen'],
   platforms: ['Match Trader','cTrader','DXTrade','GooeyTrade'],

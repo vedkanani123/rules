@@ -5,7 +5,6 @@ const LV = '2026-09-06';
 const CFD_HELP = 'https://help.blueguardian.com';
 const FUT_HELP = 'https://helpfutures.blueguardian.com';
 const SITE = 'https://blueguardian.com';
-const PFM = 'https://propfirmmatch.com';
 
 function ev(id: string, url: string, title: string, excerpt: string, sourceType: any = 'OFFICIAL_SUPPORT', confidence: any = 'A', verificationStatus: any = 'VERIFIED') {
   return { id, sourceUrl: url, sourceTitle: title, sourceType, sourceExcerpt: excerpt, retrievedAt: RETRIEVED, confidence, verificationStatus } as any;
@@ -21,8 +20,8 @@ export const BLUE_GUARDIAN: PropFirm = {
   helpCenterUrl: `${CFD_HELP}/en`,
   headquarters: 'United Kingdom / Dubai — CFD + Futures (AquaFutures-style)',
   country: 'United Kingdom',
-  countryFlag: 'https://flagcdn.com/w80/gb.png',
-  logoUrl: 'https://media.propfirmmatch.com/user_2s52JelP7NsVT2WTM72aXmiLnJm/kd896n044t6yr2dpqbrhnxa0/d7za0ua4c70vsb16ab4t25gz.svg',
+  countryFlag: '',
+  logoUrl: '',
   foundedYear: 2021,
   ceoName: 'Not publicly stated',
   status: 'ACTIVE',
@@ -35,8 +34,8 @@ export const BLUE_GUARDIAN: PropFirm = {
     details: 'Per PropFirmMatch — CFD & Futures pricing per model; instant starter $5K one-payout $250 cap. Platforms MT5/MatchTrader/TradeLocker + DeepCharts/Tradovate/Ninja/TradingView for Futures.',
   },
   payoutGuarantee: '24 business hours or +10% profit share — pause weekends/bank holidays/risk reviews/Rise onboarding',
-  totalPayoutsReported: 'Not disclosed',
-  activeTradersReported: 'FCS verified — CFD Nano weekly, Futures Reserve/Express instant daily caps',
+  totalPayoutsReported: 'Not disclosed', // UNVERIFIED: Needs source URL
+  activeTradersReported: 'FCS verified — CFD Nano weekly, Futures Reserve/Express instant daily caps', // UNVERIFIED: Needs source URL
   supportedCountriesCount: 150,
   restrictedCountries: ['United States (MT5 CFD restricted — MatchTrader/TradeLocker only)', 'Restricted Territories per Futures help — see helpfutures restricted-territories'],
   platforms: ['MetaTrader 5','Match Trader','TradeLocker','DeepCharts','Tradovate','NinjaTrader','TradingView'],

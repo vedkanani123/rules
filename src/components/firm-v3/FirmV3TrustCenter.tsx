@@ -29,7 +29,7 @@ export const FirmV3TrustCenter: React.FC<FirmV3TrustCenterProps> = ({
   }> = [
     {
       status: 'officially_verified',
-      title: 'Officially Verified',
+      title: 'Source Available',
       badge: 'Tier 1 Evidence',
       color: 'text-emerald-400 border-emerald-500/30 bg-emerald-500/10',
       description: `Confirmed directly from active official ${firm.name} documentation, terms of service, or checkout contracts.`,

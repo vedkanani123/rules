@@ -73,146 +73,170 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.fundedtradingrules.com/prop-firms/goat-funded-trader</loc>
+    <loc>https://www.fundedtradingrules.com/about</loc>
     <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/methodology</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/editorial-policy</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/affiliate-disclosure</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.fundedtradingrules.com/prop-firms/goat-funded-trader</loc>
+    <lastmod>2026-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/ftmo</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/funding-pips</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/funded-next</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/the-5ers</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/topstep</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/take-profit-trader</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/apex-trader-funding</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/e8-markets</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/moneta-funded</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/bright-funded</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/lark-funding</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/alpha-capital</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/aqua-funded</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/atmos-funded</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/blue-guardian</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/funded-trading-plus</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://www.fundedtradingrules.com/prop-firms/crypto-funded-trader</loc>
-    <lastmod>2026-09-13</lastmod>
+    <loc>https://www.fundedtradingrules.com/prop-firms/crypto-fund-trader</loc>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/for-traders</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/funded-elite</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/hola-prime</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/maven-trading</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/top-one-trader</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
   <url>
     <loc>https://www.fundedtradingrules.com/prop-firms/shark-funded</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>

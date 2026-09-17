@@ -363,7 +363,7 @@ export const RulesHubPage: React.FC<RulesHubPageProps> = ({ onNavigate }) => {
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-medium text-emerald-400"><Shield className="w-3 h-3" />{RULE_GUIDES.length} guides</span>
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Calculator className="w-3 h-3" />{cats.length - 1} categories</span>
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Eye className="w-3 h-3" />Live visuals</span>
-                <span className="text-[11px] text-[#6B7280] hidden sm:inline">• No affiliate fluff • Source-backed</span>
+                <span className="text-[11px] text-[#6B7280] hidden sm:inline">• Source-backed analysis</span>
               </div>
             </div>
             <div className="shrink-0 rounded-2xl bg-[#111318] border border-[#1F2228] p-4 min-w-[280px]">

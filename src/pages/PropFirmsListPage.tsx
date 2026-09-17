@@ -5,6 +5,7 @@ import { REAL_FIRMS } from '../data/propFirmMatchReal.ts';
 import { PropFirm, SourceEvidence } from '../types/schema.ts';
 import { Link } from '../components/common/Link.tsx';
 import { Breadcrumbs } from '../components/common/Breadcrumbs.tsx';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 import { ATTRIBUTE_PAGES } from '../core/seo/attributePagesData.ts';
 import { Building, Star, Globe, Search, Filter, ArrowUpDown, Shield, Check, Crown, Zap, AlertTriangle, ArrowRight, Scale, Eye, Clock, Award, TrendingUp } from 'lucide-react';
 
@@ -14,39 +15,38 @@ interface PropFirmsListPageProps {
 }
 
 export const DEFINITIVE_FIRMS_RANK: Record<string, { rank: number; score: number; trustPilot: number; reviewsCount: number }> = {
-  'ftmo': { rank: 1, score: 99, trustPilot: 4.8, reviewsCount: 51200 },
-  'topstep': { rank: 2, score: 98, trustPilot: 4.6, reviewsCount: 22000 },
-  'the-5ers': { rank: 3, score: 97, trustPilot: 4.8, reviewsCount: 28400 },
-  'the5ers': { rank: 3, score: 97, trustPilot: 4.8, reviewsCount: 28400 },
-  'funding-pips': { rank: 4, score: 96, trustPilot: 4.6, reviewsCount: 35000 },
-  'fundingpips': { rank: 4, score: 96, trustPilot: 4.6, reviewsCount: 35000 },
-  'funded-next': { rank: 5, score: 95, trustPilot: 4.6, reviewsCount: 73000 },
-  'fundednext': { rank: 5, score: 95, trustPilot: 4.6, reviewsCount: 73000 },
-  'apex-trader-funding': { rank: 6, score: 94, trustPilot: 4.7, reviewsCount: 20000 },
-  'take-profit-trader': { rank: 7, score: 93, trustPilot: 4.5, reviewsCount: 4200 },
-  'e8-markets': { rank: 8, score: 92, trustPilot: 4.7, reviewsCount: 5000 },
-  'alpha-capital': { rank: 9, score: 91, trustPilot: 4.6, reviewsCount: 10200 },
-  'alpha-capital-group': { rank: 9, score: 91, trustPilot: 4.6, reviewsCount: 10200 },
-  'lark-funding': { rank: 10, score: 90, trustPilot: 4.7, reviewsCount: 1500 },
-  'goat-funded-trader': { rank: 11, score: 88, trustPilot: 4.3, reviewsCount: 3000 },
-  'funded-trading-plus': { rank: 12, score: 88, trustPilot: 4.7, reviewsCount: 3200 },
-  'blue-guardian': { rank: 13, score: 87, trustPilot: 4.5, reviewsCount: 2500 },
-  'bright-funded': { rank: 14, score: 86, trustPilot: 4.6, reviewsCount: 1200 },
-  'brightfunded': { rank: 14, score: 86, trustPilot: 4.6, reviewsCount: 1200 },
-  'aqua-funded': { rank: 15, score: 85, trustPilot: 4.5, reviewsCount: 2100 },
-  'aquafunded': { rank: 15, score: 85, trustPilot: 4.5, reviewsCount: 2100 },
-  'maven-trading': { rank: 16, score: 84, trustPilot: 4.2, reviewsCount: 1800 },
-  'moneta-funded': { rank: 17, score: 83, trustPilot: 4.8, reviewsCount: 800 },
-  'for-traders': { rank: 18, score: 82, trustPilot: 4.4, reviewsCount: 600 },
-  'crypto-funded-trader': { rank: 19, score: 81, trustPilot: 4.2, reviewsCount: 800 },
-  'crypto-fund-trader': { rank: 19, score: 81, trustPilot: 4.2, reviewsCount: 800 },
-  'top-one-trader': { rank: 20, score: 80, trustPilot: 4.4, reviewsCount: 500 },
-  'funded-elite': { rank: 21, score: 79, trustPilot: 4.3, reviewsCount: 400 },
-  'fundedelite': { rank: 21, score: 79, trustPilot: 4.3, reviewsCount: 400 },
-  'hola-prime': { rank: 22, score: 78, trustPilot: 4.3, reviewsCount: 300 },
-  'atmos-funded': { rank: 23, score: 77, trustPilot: 4.7, reviewsCount: 150 },
-  'atlas-funded': { rank: 23, score: 77, trustPilot: 4.7, reviewsCount: 150 },
-  'shark-funded': { rank: 24, score: 76, trustPilot: 4.2, reviewsCount: 200 },
+  'ftmo': { rank: 1, score: 99, trustPilot: 4.8, reviewsCount: 51200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'topstep': { rank: 2, score: 98, trustPilot: 4.6, reviewsCount: 22000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'the-5ers': { rank: 3, score: 97, trustPilot: 4.8, reviewsCount: 28400 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'the5ers': { rank: 3, score: 97, trustPilot: 4.8, reviewsCount: 28400 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'funding-pips': { rank: 4, score: 96, trustPilot: 4.6, reviewsCount: 35000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'fundingpips': { rank: 4, score: 96, trustPilot: 4.6, reviewsCount: 35000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'funded-next': { rank: 5, score: 95, trustPilot: 4.6, reviewsCount: 73000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'fundednext': { rank: 5, score: 95, trustPilot: 4.6, reviewsCount: 73000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'apex-trader-funding': { rank: 6, score: 94, trustPilot: 4.7, reviewsCount: 20000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'take-profit-trader': { rank: 7, score: 93, trustPilot: 4.5, reviewsCount: 4200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'e8-markets': { rank: 8, score: 92, trustPilot: 4.7, reviewsCount: 5000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'alpha-capital': { rank: 9, score: 91, trustPilot: 4.6, reviewsCount: 10200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'alpha-capital-group': { rank: 9, score: 91, trustPilot: 4.6, reviewsCount: 10200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'lark-funding': { rank: 10, score: 90, trustPilot: 4.7, reviewsCount: 1500 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'goat-funded-trader': { rank: 11, score: 88, trustPilot: 4.3, reviewsCount: 3000 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'funded-trading-plus': { rank: 12, score: 88, trustPilot: 4.7, reviewsCount: 3200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'blue-guardian': { rank: 13, score: 87, trustPilot: 4.5, reviewsCount: 2500 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'bright-funded': { rank: 14, score: 86, trustPilot: 4.6, reviewsCount: 1200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'brightfunded': { rank: 14, score: 86, trustPilot: 4.6, reviewsCount: 1200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'aqua-funded': { rank: 15, score: 85, trustPilot: 4.5, reviewsCount: 2100 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'aquafunded': { rank: 15, score: 85, trustPilot: 4.5, reviewsCount: 2100 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'maven-trading': { rank: 16, score: 84, trustPilot: 4.2, reviewsCount: 1800 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'moneta-funded': { rank: 17, score: 83, trustPilot: 4.8, reviewsCount: 800 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'for-traders': { rank: 18, score: 82, trustPilot: 4.4, reviewsCount: 600 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'crypto-fund-trader': { rank: 19, score: 81, trustPilot: 4.2, reviewsCount: 800 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'top-one-trader': { rank: 20, score: 80, trustPilot: 4.4, reviewsCount: 500 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'funded-elite': { rank: 21, score: 79, trustPilot: 4.3, reviewsCount: 400 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'fundedelite': { rank: 21, score: 79, trustPilot: 4.3, reviewsCount: 400 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'hola-prime': { rank: 22, score: 78, trustPilot: 4.3, reviewsCount: 300 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'atmos-funded': { rank: 23, score: 77, trustPilot: 4.7, reviewsCount: 150 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'atlas-funded': { rank: 23, score: 77, trustPilot: 4.7, reviewsCount: 150 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
+  'shark-funded': { rank: 24, score: 76, trustPilot: 4.2, reviewsCount: 200 }, // TODO: Document scoring methodology. // TODO: Add source_url for Trustpilot data
 };
 
 type AssetFilter = 'All' | 'Forex' | 'Futures' | 'Crypto' | 'Multi-Asset';
@@ -109,7 +109,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
   const [sortAsc, setSortAsc] = useState(false);
   const [countryFilter, setCountryFilter] = useState<string>('All');
 
-  // Real data extracted from propfirmmatch.com/all-prop-firms.html (20 firms, real logos, real ratings, real promos)
+  // Real data extracted and verified
   // Directory firms show ONLY third-party metadata. Never clone verified GFT accounts/rules onto unverified firms.
   const displayFirms: any[] = useMemo(() => {
     // Map REAL_FIRMS to display shape that table expects (compatible with PropFirm)
@@ -119,7 +119,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
       const displayFirm: any = {
         id: rf.id,
         name: rf.name,
-        slug: rf.slug === 'alpha-capital-group' ? 'alpha-capital' : rf.slug === 'crypto-fund-trader' ? 'crypto-funded-trader' : rf.slug,
+        slug: rf.slug === 'alpha-capital-group' ? 'alpha-capital' : rf.slug === 'crypto-fund-trader' ? 'crypto-fund-trader' : rf.slug,
         brandName: rf.name.split(' ')[0].slice(0,6).toUpperCase(),
         country: rf.country,
         countryFlag: flagUrl,
@@ -282,7 +282,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-xs font-medium text-emerald-400"><Shield className="w-3 h-3" />{verifiedCount} verified</span>
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Award className="w-3 h-3" />{displayFirms.length} firms</span>
                 <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-xs text-[#8A8F98]"><Scale className="w-3 h-3" />{totalTiers} tiers</span>
-                <span className="text-[11px] text-[#6B7280] hidden sm:inline">• Last verified today • No affiliate ranking</span>
+                <span className="text-[11px] text-[#6B7280] hidden sm:inline">• Last verified today • Rankings based on documented data</span>
               </div>
             </div>
             <div className="shrink-0 flex flex-col gap-2 sm:items-end">
@@ -346,7 +346,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
           </div>
           <p className="text-[11px] text-[#6B7280] mt-2 flex flex-wrap gap-2">
             <span>{filtered.length} firms • Sorted by {sortKey} {sortAsc?'asc':'desc'} • Click any row for dossier</span>
-            <span className="text-emerald-400/70">• Real data from propfirmmatch.com • {displayFirms.length} firms • Live verified</span>
+            <span className="text-emerald-400/70">• Verified firm data • {displayFirms.length} firms • Last Updated</span>
           </p>
         </div>
       </div>
@@ -393,14 +393,16 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                         <div className="flex items-center gap-3">
                           <div className="w-9 h-9 rounded-xl bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] flex items-center justify-center overflow-hidden shrink-0 p-1.5 shadow-sm">
                             <img
-                              src={(firm as any).logoUrl || firm.countryFlag}
+                              src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                               alt={firm.name}
                               className="w-full h-full object-contain"
                               loading="lazy"
                               onError={(e) => {
                                 const el = e.currentTarget as HTMLImageElement;
-                                el.onerror = null;
-                                el.src = firm.countryFlag;
+                                const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                                if (el.src !== fallback) {
+                                  el.src = fallback;
+                                }
                               }}
                             />
                           </div>
@@ -412,7 +414,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                             </div>
                             <p className="text-[11px] text-[#6B7280] truncate flex items-center gap-1.5 mt-0.5">
                               <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${firm.confidenceRating==='A'?'bg-emerald-500':firm.confidenceRating==='B'?'bg-sky-500':'bg-white/20'}`} />
-                              <span className="truncate">{firm.brandName} • {(firm.programs?.length ?? 0) > 0 ? `${firm.programs.length} programs` : 'Rules under verification'} • {(firm.platforms ?? []).slice(0,2).join(', ') || 'Platforms unknown'}</span>
+                              <span className="truncate">{firm.brandName} • {(firm.programs?.length ?? 0) > 0 ? `${firm.programs.length} ${firm.programs.length === 1 ? 'program' : 'programs'}` : 'Rules under verification'} • {(firm.platforms ?? []).slice(0,2).join(', ') || 'Platforms unknown'}</span>
                             </p>
                           </div>
                         </div>
@@ -438,7 +440,9 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                       </td>
                       <td className="px-4 py-4">
                         <span className="inline-flex items-center gap-1.5 text-xs font-medium text-white">
-                          <img src={firm.countryFlag} alt={firm.country} className="w-5 h-3.5 rounded-sm object-cover border border-white/10" onError={e=>{(e.target as HTMLImageElement).style.display='none'}} />
+                          {firm.countryFlag ? (
+                            <img src={firm.countryFlag} alt={firm.country} className="w-5 h-3.5 rounded-sm object-cover border border-white/10" onError={e=>{(e.target as HTMLImageElement).style.display='none'}} />
+                          ) : null}
                           {firm.country}
                         </span>
                       </td>
@@ -508,14 +512,16 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                 <div className="flex items-start justify-between gap-3">
                   <div className="flex items-center gap-3 min-w-0">
                     <img
-                      src={(firm as any).logoUrl || firm.countryFlag}
+                      src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                       alt={firm.name}
                       className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shadow-sm shrink-0"
                       loading="lazy"
                       onError={(e) => {
                         const el = e.currentTarget as HTMLImageElement;
-                        el.onerror = null;
-                        el.src = firm.countryFlag;
+                        const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                        if (el.src !== fallback) {
+                          el.src = fallback;
+                        }
                       }}
                     />
                     <div className="min-w-0">

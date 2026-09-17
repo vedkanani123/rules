@@ -401,7 +401,7 @@ export const AccountDetailPage: React.FC<AccountDetailPageProps> = ({ firm, acco
                     <p className="text-xs text-white/40 mt-0.5">Sticker price vs real cost — All-In Quantitative Fee Model</p>
                   </div>
                 </div>
-                <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white text-[#080A10] text-xs font-semibold">Evidence-based • No affiliate markup</span>
+                <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-white text-[#080A10] text-xs font-semibold">Evidence-based analysis</span>
               </div>
               <div className="grid grid-cols-1 lg:grid-cols-2 gap-0 divide-y lg:divide-y-0 lg:divide-x divide-[#1F2228]">
                 <div className="p-6 space-y-3">

@@ -76,7 +76,7 @@ export const GoatV3RuleSnapshot: React.FC<GoatV3RuleSnapshotProps> = ({
             Rule Snapshot — {modelName} ({nominalCapitalFormatted})
           </h2>
           <p className="text-xs sm:text-sm text-slate-400">
-            Controlled summary view strictly reading from the Complete Rule Table single source of truth. Zero manual values.
+            Controlled summary view strictly reading from the Complete Rule Table single source of truth.
           </p>
         </div>
 

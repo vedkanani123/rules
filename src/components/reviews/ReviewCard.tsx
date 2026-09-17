@@ -16,17 +16,27 @@ export const ReviewCard: React.FC<ReviewCardProps> = ({ review }) => {
       default: return 'bg-[#080A10] text-[#8A8F98] border-[#1F2228]';
     }
   };
+  const formatName = (name: string) => {
+    if (!name) return 'Unknown';
+    const parts = name.trim().split(' ');
+    if (parts.length > 1) {
+      return `${parts[0]} ${parts[parts.length - 1][0]}.`;
+    }
+    return name;
+  };
+
+  const displayName = formatName(review.author);
 
   return (
     <div className="bg-[#111318] border border-[#1F2228] rounded-xl p-4 sm:p-5 space-y-4">
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-b border-[#1F2228] pb-3">
         <div className="flex items-center gap-3 min-w-0">
           <div className="w-9 h-9 sm:w-8 sm:h-8 rounded-full bg-[#080A10] border border-[#1F2228] flex items-center justify-center font-mono font-bold text-white text-xs shrink-0">
-            {review.author.slice(0, 2).toUpperCase()}
+            {displayName.slice(0, 2).toUpperCase()}
           </div>
           <div className="min-w-0 flex-1">
             <div className="flex flex-wrap items-center gap-1.5">
-              <span className="font-semibold text-white text-sm">{review.author}</span>
+              <span className="font-semibold text-white text-sm">{displayName}</span>
               {review.traderCountry && <span className="text-xs font-mono text-[#6B7280] hidden sm:inline">({review.traderCountry})</span>}
             </div>
             <div className="flex flex-wrap items-center gap-1.5 text-xs font-mono text-[#6B7280] mt-0.5">
@@ -85,7 +95,7 @@ export const ReviewCard: React.FC<ReviewCardProps> = ({ review }) => {
         <div className="space-y-1 min-w-0 flex-1">
           <div className="flex flex-wrap items-center gap-2">
             <span className="font-bold text-white text-[11px] font-mono tracking-widest uppercase">Platform Assessment</span>
-            <span className="text-[10px] font-mono tracking-widest uppercase px-2 py-0.5 rounded-full bg-[#3b82f6]/10 text-[#3b82f6] border border-[#3b82f6]/20">
+            <span className="text-[10px] text-[#6B7280] font-mono">
               Evidence: {review.evidenceStrength}
             </span>
           </div>

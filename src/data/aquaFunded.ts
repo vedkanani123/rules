@@ -21,8 +21,8 @@ export const AQUA_FUNDED: PropFirm = {
   helpCenterUrl: `${CFD_HELP}/en`,
   headquarters: 'Dubai Silicon Oasis, DDP Building A2, Dubai, UAE',
   country: 'United Arab Emirates',
-  countryFlag: 'https://flagcdn.com/w80/ae.png',
-  logoUrl: 'https://media.propfirmmatch.com/system/dj52yiqtko1lajk4xg6i26bd/66df6b936b9b3130088ae508_AquaFunded-Logo.svg',
+  countryFlag: '',
+  logoUrl: '',
   foundedYear: 2023,
   ceoName: 'Lewis Morton (COO)',
   status: 'ACTIVE',
@@ -35,8 +35,8 @@ export const AQUA_FUNDED: PropFirm = {
     details: '30% OFF + 150% refund on 4th payout + free account of same size if reaching payout on all accounts (Pay Later excluded). PropFirmMatch.',
   },
   payoutGuarantee: 'Bi-weekly CFD (7-day add-on), Weekly/Flex On-Demand Futures; Futures Instant 100% weekly',
-  totalPayoutsReported: 'Not disclosed',
-  activeTradersReported: '15,012+ PropFirmMatch tracking · 295 reviews 4.4/5 (PFM) · 1,199 Trustpilot 48% 5★ 37% 1★',
+  totalPayoutsReported: 'Not disclosed', // UNVERIFIED: Needs source URL
+  activeTradersReported: '15,012+ PropFirmMatch tracking · 295 reviews 4.4/5 (PFM) · 1,199 Trustpilot 48% 5★ 37% 1★', // UNVERIFIED: Needs source URL
   supportedCountriesCount: 120,
   restrictedCountries: ['Cuba','Iran','North Korea','Syria','Russia','Belarus','Myanmar','Venezuela','Sudan','Syria','Ukraine Crimea','US restricted states'],
   platforms: ['TradeLocker','Match Trader','MetaTrader 5','cTrader','DeepCharts','Tradovate','NinjaTrader','TradingView'],

@@ -78,7 +78,7 @@ export const DisclaimerPage: React.FC<DisclaimerPageProps> = ({ onNavigate }) =>
       <section className="space-y-3 rounded-xl border border-white/[0.08] bg-slate-900/40 p-6">
         <h2 className="text-white font-semibold text-lg">Affiliate & Compensation Policy (FTC / Google Ads)</h2>
         <p className="text-sm leading-relaxed">
-          FundedTradingRules.com operates on an evidence-first principle. We do not accept payment to hide rule violations, alter trailing drawdown calculations, or remove verified trader complaints. Some outbound links may contain referral parameters that help support the independent operation and continuous crawler infrastructure of this site at no extra cost to you. We strictly prohibit pay-to-play rankings.
+          FundedTradingRules.com provides rule documentation and analysis. Some outbound links on this site are affiliate links, meaning we may earn a commission if you click through and make a purchase. This helps support the independent operation of this site at no extra cost to you. Affiliate relationships do not influence our rule documentation, firm rankings, analysis, or editorial content.
         </p>
       </section>
 

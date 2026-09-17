@@ -55,7 +55,7 @@ export const GoatV3RuleExplorer: React.FC<GoatV3RuleExplorerProps> = ({
       case 'officially_verified':
         return (
           <span className="inline-flex items-center gap-1 text-[10px] px-2 py-0.5 rounded font-mono font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-            <CheckCircle2 className="w-2.5 h-2.5" /> Officially Verified
+            <CheckCircle2 className="w-2.5 h-2.5" /> Source Available
           </span>
         );
       case 'conflicting_sources':

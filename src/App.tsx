@@ -22,7 +22,11 @@ import { PrivacyPolicyPage } from './pages/PrivacyPolicyPage.tsx';
 import { TermsPage } from './pages/TermsPage.tsx';
 import { DisclaimerPage } from './pages/DisclaimerPage.tsx';
 import { ContactPage } from './pages/ContactPage.tsx';
+import { AboutPage } from './pages/AboutPage.tsx';
+import { MethodologyPage } from './pages/MethodologyPage.tsx';
+import { EditorialPolicyPage } from './pages/EditorialPolicyPage.tsx';
 import { AttributeLandingPage } from './pages/AttributeLandingPage.tsx';
+import { AffiliateDisclosurePage } from './pages/AffiliateDisclosurePage.tsx';
 import { CookieConsent } from './components/layout/CookieConsent.tsx';
 import { trackEvent } from './utils/analytics.ts';
 import { PROP_FIRMS_DATA, RULE_GUIDES } from './data/propFirmsData.ts';
@@ -105,24 +109,24 @@ export const App: React.FC = () => {
         const slug = currentPath.split('/prop-firms/')[1]?.split('/')[0]?.split('?')[0];
         const firm = PROP_FIRMS_DATA.find((f) => f.slug === slug);
         if (firm) {
-          title = `${firm.name} — Verified Rules, Hidden Traps & Dollar Math | FundedTradingRules.com`;
+          title = `${firm.name} — Verified Rules, Hidden Traps & Dollar Math | FundedTradingRules`;
           desc = `Complete evidence dossier for ${firm.name}. Verified drawdown calculation, consistency limits, news trading rules, and trader dispute track record.`;
         } else {
-          title = 'Prop Firm Dossier — Verified Intelligence | FundedTradingRules.com';
+          title = 'Prop Firm Dossier — Verified Intelligence | FundedTradingRules';
           desc = 'Browse proprietary trading firms with verified rules, drawdown models, profit targets, payout consistency rules, and official contract citations.';
         }
       } else if (currentPath.startsWith('/rules/')) {
         const slug = currentPath.replace('/rules/', '').split('/')[0]?.split('?')[0];
         const guide = RULE_GUIDES.find((g) => g.slug === slug);
         if (guide) {
-          title = `${guide.name} — In-Depth Rule Guide & Traps | FundedTradingRules.com`;
+          title = `${guide.name} — In-Depth Rule Guide & Traps | FundedTradingRules`;
           desc = guide.shortDefinition || `Comprehensive guide to ${guide.name} across proprietary trading firms. How it's calculated, violation triggers, and defense playbook.`;
         } else {
-          title = 'Rule Intelligence Guides — Master Every Prop Firm Rule | FundedTradingRules.com';
+          title = 'Rule Intelligence Guides — Master Every Prop Firm Rule | FundedTradingRules';
           desc = 'Deep architectural guides to every prop firm rule: trailing vs balance drawdown, 2-minute news buffers, 80% margin limits, and IP clustering.';
         }
       } else {
-        title = 'FundedTradingRules.com — Know the rules before you buy the challenge. | Evidence-First Prop Firm Intelligence';
+        title = 'FundedTradingRules — Know the rules before you buy the challenge. | Evidence-First Prop Firm Intelligence';
         desc = 'Know the rules before you buy the challenge. Compare prop firms with verified official rules, plain-English explanations, real trader complaints, and account risk simulation.';
       }
     }
@@ -175,6 +179,17 @@ export const App: React.FC = () => {
     setMetaProp('og:url', canonicalUrl);
     setMetaName('twitter:title', title);
     setMetaName('twitter:description', desc);
+
+    // Set og:type based on page type
+    if (currentPath.startsWith('/prop-firms/') || currentPath.startsWith('/rules/')) {
+      setMetaProp('og:type', 'article');
+      // Use lastmod from route data if available
+      if (registeredRoute?.lastmod) {
+        setMetaProp('article:modified_time', registeredRoute.lastmod);
+      }
+    } else {
+      setMetaProp('og:type', 'website');
+    }
 
     // 5. Track Virtual Pageview for Google Ads & Analytics
     trackEvent('page_view', {
@@ -429,6 +444,19 @@ export const App: React.FC = () => {
     }
     if (currentPath === '/contact' || currentPath === '/contact/' || currentPath === '/support') {
       return <ContactPage onNavigate={navigate} />;
+    }
+    if (currentPath === '/about' || currentPath === '/about/') {
+      return <AboutPage onNavigate={navigate} />;
+    }
+    if (currentPath === '/methodology' || currentPath === '/methodology/') {
+      return <MethodologyPage onNavigate={navigate} />;
+    }
+    if (currentPath === '/editorial-policy' || currentPath === '/editorial-policy/') {
+      return <EditorialPolicyPage onNavigate={navigate} />;
+    }
+    
+    if (currentPath === '/affiliate-disclosure' || currentPath === '/affiliate-disclosure/') {
+      return <AffiliateDisclosurePage onNavigate={navigate} />;
     }
 
     // 12. Homepage

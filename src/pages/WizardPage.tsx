@@ -38,6 +38,7 @@ import {
   LayoutGrid,
 } from 'lucide-react';
 import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
+import { getFirmLogoUrl } from "../utils/firmLogos.ts";
 import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
 
 interface WizardPageProps {
@@ -271,7 +272,7 @@ export const WizardPage: React.FC<WizardPageProps> = ({ onNavigate }) => {
       const logoUrl =
         firm.logoUrl ||
         canonical?.logoUrl ||
-        `https://flagcdn.com/w80/${firm.country?.toLowerCase() || 'us'}.png`;
+        getFirmLogoUrl(firm.slug, firm.name);
 
       const trustScore = canonical?.trustScore || firm.scorecard?.overallScore || 90;
       const trustGrade =
@@ -1357,7 +1358,7 @@ export const WizardPage: React.FC<WizardPageProps> = ({ onNavigate }) => {
           </h1>
           <p className="text-[13px] sm:text-[15px] leading-relaxed text-[#8A8F98] max-w-2xl mx-auto mt-3">
             Select the trading freedoms you must have, ban the sneaky gotchas and dealbreakers you refuse to accept,
-            and inspect 100% verified real-time data across all 24 certified prop firms.
+            and inspect 100% verified real-time data across all {PROP_FIRMS_DATA.length} certified prop firms.
           </p>
 
           {/* Trust Guarantees */}
@@ -2377,7 +2378,7 @@ export const WizardPage: React.FC<WizardPageProps> = ({ onNavigate }) => {
                             }}
                             className="text-xs text-blue-400 hover:text-blue-300 font-semibold inline-flex items-center gap-1"
                           >
-                            View all {accounts.length} models for {firmName} →
+                            View all {accounts.length} {accounts.length === 1 ? 'model' : 'models'} for {firmName} →
                           </button>
                         </div>
                       )}

@@ -84,10 +84,6 @@ async function prerender() {
     // Update <meta name="description">
     pageHtml = pageHtml.replace(/<meta name="description" content=".*?" \/>/i, `<meta name="description" content="${route.metaDescription}" />`);
 
-    // Update <meta name="keywords">
-    if (route.keywords) {
-      pageHtml = pageHtml.replace(/<meta name="keywords" content=".*?" \/>/i, `<meta name="keywords" content="${route.keywords}" />`);
-    }
 
     // Update OpenGraph and Twitter
     pageHtml = pageHtml.replace(/<meta property="og:title" content=".*?" \/>/i, `<meta property="og:title" content="${route.title}" />`);
@@ -96,6 +92,19 @@ async function prerender() {
     pageHtml = pageHtml.replace(/<meta name="twitter:title" content=".*?" \/>/i, `<meta name="twitter:title" content="${route.title}" />`);
     pageHtml = pageHtml.replace(/<meta name="twitter:description" content=".*?" \/>/i, `<meta name="twitter:description" content="${route.metaDescription}" />`);
     pageHtml = pageHtml.replace(/<meta name="twitter:url" content=".*?" \/>/i, `<meta name="twitter:url" content="${route.canonicalUrl}" />`);
+
+    const isArticle = route.path.startsWith('/prop-firms/') || route.path.startsWith('/rules/');
+    const ogType = isArticle ? 'article' : 'website';
+    let ogTypeTags = `<meta property="og:type" content="${ogType}" />`;
+    if (isArticle && route.lastmod) {
+      ogTypeTags += `\n    <meta property="article:modified_time" content="${route.lastmod}" />`;
+    }
+    
+    if (pageHtml.includes('<meta property="og:type"')) {
+      pageHtml = pageHtml.replace(/<meta property="og:type" content=".*?" \/>/i, ogTypeTags);
+    } else {
+      pageHtml = pageHtml.replace('</head>', `    ${ogTypeTags}\n  </head>`);
+    }
 
     // Inject Canonical URL
     const canonicalTag = `<link rel="canonical" href="${route.canonicalUrl}" />`;

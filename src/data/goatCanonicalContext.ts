@@ -201,7 +201,7 @@ export function getStatusBadgeInfo(status: VerificationStatus): {
   switch (status) {
     case 'officially_verified':
       return {
-        label: 'Officially Verified',
+        label: 'Source Available',
         bgClass: 'bg-emerald-500/10',
         textClass: 'text-emerald-400',
         borderClass: 'border-emerald-500/20',
@@ -425,7 +425,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Not applicable — informational account identity.',
     example: `Selecting ${model.name} with ${fmt(accountSize)} capital applies specific drawdown rules.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: model.sourceDoc,
     sourceDoc: model.sourceDoc,
     sourceUrl: model.sourceUrl,
@@ -460,7 +460,7 @@ export function buildCanonicalSelectedRules(
       ? 'Pass Phase 1 target and advance to funded contract.'
       : 'Trade immediately towards the first payout window.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: model.sourceDoc,
     sourceDoc: model.sourceDoc,
     sourceUrl: model.sourceUrl,
@@ -487,7 +487,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'All loss floors and target dollar levels are derived from this capital amount.',
     example: `On a ${fmt(accountSize)} account, a 4% loss is -$${((accountSize * 0.04)).toLocaleString()}; on $50,000 it is -$2,000.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Catalog Pricing Matrix',
     sourceDoc: 'GFT Catalog Pricing Matrix',
     sourceUrl: model.sourceUrl,
@@ -516,7 +516,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Advancement or payout request is delayed until required valid days are logged. Never breaches the account.',
     example: `On ${fmt(accountSize)}, a trading day with $100 profit does not count if the threshold is $500.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT FAQ 14190822',
     sourceDoc: 'GFT FAQ 14190822',
     sourceUrl: model.sourceUrl,
@@ -543,7 +543,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: '30 consecutive days of inactivity locks account access.',
     example: 'Placing a 0.01 lot trade every 25 days prevents inactivity lock.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Trading Terms Clause 8.2',
     sourceDoc: 'GFT Trading Terms Clause 8.2',
     sourceUrl: model.sourceUrl,
@@ -577,7 +577,7 @@ export function buildCanonicalSelectedRules(
       ? `Reaching $${(accountSize + targetDollars).toLocaleString()} closed equity passes Phase 1.`
       : 'All profits can be requested on payout day.',
     verificationStatus: hasProfitTarget ? 'officially_verified' : 'not_applicable',
-    statusLabel: hasProfitTarget ? 'Officially Verified' : 'Not Applicable',
+    statusLabel: hasProfitTarget ? 'Source Available' : 'Not Applicable',
     evidence: model.sourceDoc,
     sourceDoc: model.sourceDoc,
     sourceUrl: model.sourceUrl,
@@ -621,7 +621,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: hasP2 ? 'Phase remains open until target equity is reached.' : 'Not applicable.',
     example: hasP2 ? `Reaching +${fmt(p2TargetDollars)} in Phase 2 advances to funded stage.` : 'Not applicable.',
     verificationStatus: hasP2 ? 'officially_verified' : 'not_applicable',
-    statusLabel: hasP2 ? 'Officially Verified' : 'Not Applicable',
+    statusLabel: hasP2 ? 'Source Available' : 'Not Applicable',
     evidence: model.sourceDoc,
     sourceDoc: model.sourceDoc,
     sourceUrl: model.sourceUrl,
@@ -648,7 +648,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'None.',
     example: 'Generating 15% profit on a funded account allows requesting the trader share on the payout date.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Funded Trader FAQ',
     sourceDoc: 'GFT Funded Trader FAQ',
     sourceUrl: model.sourceUrl,
@@ -684,10 +684,10 @@ export function buildCanonicalSelectedRules(
     model.id === 'one_step'
       ? termsVersion === 'pre_aug_2026'
         ? 'Historical / Grandfathered'
-        : 'Officially Verified'
+        : 'Source Available'
       : hasDailyLossLimit
-      ? 'Officially Verified'
-      : 'Officially Verified';
+      ? 'Source Available'
+      : 'Source Available';
 
   allRuleItems.push({
     id: 'daily-loss-rule',
@@ -763,7 +763,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Floating loss carried through rollover counts towards the new day’s loss floor.',
     example: 'Holding open floating losses at 4:59 PM EST into 5:01 PM EST consumes part of the next day’s buffer.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Rollover Policy FAQ',
     sourceDoc: 'GFT Rollover Policy FAQ',
     sourceUrl: model.sourceUrl,
@@ -797,7 +797,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: `If equity touches ${fmt(maxDDFloorDollars)}, account is liquidated immediately.`,
     example: `On ${fmt(accountSize)} with ${maxDDPct}% drawdown, dropping to ${fmt(maxDDFloorDollars)} breaches the account.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT FAQ 10742114',
     sourceDoc: 'GFT FAQ 10742114',
     sourceUrl: model.sourceUrl,
@@ -845,7 +845,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Touching the locked floor terminates the contract.',
     example: `Once account reaches ${fmt(accountSize + maxDDDollars)}, the loss floor stays at ${fmt(accountSize)} forever.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Trailing Rule Addendum',
     sourceDoc: 'GFT Trailing Rule Addendum',
     sourceUrl: model.sourceUrl,
@@ -881,9 +881,9 @@ export function buildCanonicalSelectedRules(
     model.id === 'instant_premium'
       ? termsVersion === 'pre_aug_2026'
         ? 'Historical / Grandfathered'
-        : 'Officially Verified'
+        : 'Source Available'
       : hasFloatingLossCap
-      ? 'Officially Verified'
+      ? 'Source Available'
       : 'Not Applicable';
 
   allRuleItems.push({
@@ -958,7 +958,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Requesting payout before cycle elapses displays a locked timer in dashboard.',
     example: `On a $10,000 profit month, trader receives $${((10000 * model.profitSplit.basePct) / 100).toLocaleString()}.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Reward Terms',
     sourceDoc: 'GFT Reward Terms',
     sourceUrl: model.sourceUrl,
@@ -985,7 +985,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Does not apply if trader has pending KYC, open trades, or rule inquiries.',
     example: 'Payout submitted Monday 9 AM processed by Wednesday 9 AM.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Payout Policy SLA Document',
     sourceDoc: 'GFT Payout Policy SLA Document',
     sourceUrl: model.sourceUrl,
@@ -1012,7 +1012,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Requests under $100 cannot be submitted in client portal.',
     example: '$80 profit cannot be withdrawn; rolls over until next cycle.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Withdrawal Guide',
     sourceDoc: 'GFT Withdrawal Guide',
     sourceUrl: model.sourceUrl,
@@ -1048,7 +1048,7 @@ export function buildCanonicalSelectedRules(
       ? 'If requesting $5,000 payout, no single day can have >$1,000 profit.'
       : 'Earn $10,000 in one day and withdraw the entire amount.',
     verificationStatus: 'officially_verified',
-    statusLabel: hasConsistencyRule ? 'Withdrawal Pause Only' : 'Officially Verified',
+    statusLabel: hasConsistencyRule ? 'Withdrawal Pause Only' : 'Source Available',
     evidence: 'GFT FAQ 15290379',
     sourceDoc: 'GFT FAQ 15290379',
     sourceUrl: model.sourceUrl,
@@ -1132,7 +1132,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Synchronized trade matching across multiple accounts triggers termination.',
     example: 'Running a private bespoke algorithm is permitted; running an unmodified MQL5 commercial bot is flagged.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Algorithmic Trading Policy',
     sourceDoc: 'GFT Algorithmic Trading Policy',
     sourceUrl: model.sourceUrl,
@@ -1159,7 +1159,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Copy trading between different KYC profiles causes immediate account termination.',
     example: 'Copying trades from your 1-Step to your 2-Step account is allowed if both are in your name.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Terms Clause 9.4',
     sourceDoc: 'GFT Terms Clause 9.4',
     sourceUrl: model.sourceUrl,
@@ -1187,7 +1187,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Margin call occurs if available margin drops below required margin.',
     example: `On ${model.leverage.forex}, 1 standard lot EUR/USD ($100,000) requires $1,000 or $2,000 margin.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Instrument Matrix',
     sourceDoc: 'GFT Instrument Matrix',
     sourceUrl: model.sourceUrl,
@@ -1214,7 +1214,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Over-leveraging on crypto volatility can accelerate drawdown breaches.',
     example: 'Holding BTC/USD over the weekend is allowed; rollover swap rates apply.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Crypto Trading Terms',
     sourceDoc: 'GFT Crypto Trading Terms',
     sourceUrl: model.sourceUrl,
@@ -1242,7 +1242,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Attempting to access MT5 from a US IP address is blocked by platform gateway.',
     example: 'US traders must select TradeLocker or Match-Trader during checkout.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Platform Guide',
     sourceDoc: 'GFT Platform Guide',
     sourceUrl: model.sourceUrl,
@@ -1270,7 +1270,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Scaling eligibility resets if a breach occurs.',
     example: `A ${fmt(accountSize)} account scales to ${fmt(accountSize * 1.25)} after 3 profitable months.`,
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Scaling Policy Document',
     sourceDoc: 'GFT Scaling Policy Document',
     sourceUrl: model.sourceUrl,
@@ -1298,7 +1298,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Breaching daily floor closes account instantaneously.',
     example: 'Touching maximum drawdown floor constitutes an irreversible hard breach.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Terms Clause 11',
     sourceDoc: 'GFT Terms Clause 11',
     sourceUrl: model.sourceUrl,
@@ -1326,7 +1326,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'Accounts created before cutoffs retain grandfathered rules where officially documented.',
     example: 'Selecting Pre-Aug 2026 loads historical 4% 1-Step daily loss rules.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Legal Terms Archive',
     sourceDoc: 'GFT Legal Terms Archive',
     sourceUrl: model.sourceUrl,
@@ -1355,7 +1355,7 @@ export function buildCanonicalSelectedRules(
     breachTrigger: 'If an evaluation account is breached prior to funded payout, registration fee is forfeited.',
     example: 'Earn first funded payout of $2,000 + receive 100% registration fee refund.',
     verificationStatus: 'officially_verified',
-    statusLabel: 'Officially Verified',
+    statusLabel: 'Source Available',
     evidence: 'GFT Fee Refund Terms',
     sourceDoc: 'GFT Fee Refund Terms',
     sourceUrl: model.sourceUrl,

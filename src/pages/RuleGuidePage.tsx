@@ -137,9 +137,7 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug }) => {
               <p className="text-[15px] leading-relaxed text-white/50 mt-4 max-w-2xl">
                 {guide.shortDefinition}
               </p>
-              <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl">
-                {guide.detailedExplanation}
-              </p>
+
               <div className="flex flex-wrap items-center gap-2 mt-5">
                 <span className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-[#111318] border border-[#1F2228] text-xs font-medium text-[#8A8F98]">
                   <Clock className="w-3.5 h-3.5" /> 5 min • Interactive
@@ -168,7 +166,7 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug }) => {
                   href={`/rules/${prev.slug}`}
                   className="text-xs text-white/40 hover:text-white flex items-center gap-1 lg:justify-end"
                 >
-                  <ArrowLeft className="w-3 h-3" /> Prev: {prev.name.slice(0, 20)}
+                  <ArrowLeft className="w-3 h-3" /> Prev: {prev.name}
                 </Link>
               )}
               {next && (
@@ -176,7 +174,7 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug }) => {
                   href={`/rules/${next.slug}`}
                   className="text-xs text-white/40 hover:text-white flex items-center gap-1 lg:justify-end"
                 >
-                  Next: {next.name.slice(0, 20)} <ArrowRight className="w-3 h-3" />
+                  Next: {next.name} <ArrowRight className="w-4 h-4 ml-2" />
                 </Link>
               )}
             </div>

@@ -27,7 +27,7 @@ export const AttributeLandingPage: React.FC<AttributeLandingPageProps> = ({ attr
   const breadcrumbs = [
     { name: 'Home', url: '/' },
     { name: 'Prop Firms', url: '/prop-firms' },
-    { name: config.badge, url: `/prop-firms/${config.slug}` },
+    { name: config.h1, url: `/prop-firms/${config.slug}` },
   ];
 
   return (

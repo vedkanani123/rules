@@ -85,14 +85,14 @@ export const GoatV3CommunityReviews: React.FC<GoatV3CommunityReviewsProps> = ({
         </div>
       </div>
 
-      {/* Independent Verification & Dispute Evidence Standards Notice */}
+      {/* Verification & Dispute Evidence Standards Notice */}
       <div className="p-4 rounded-xl bg-slate-900/90 border border-slate-800 text-xs text-slate-300 space-y-1.5 shadow-lg">
         <div className="flex items-center gap-2 font-bold text-sky-300">
           <ShieldCheck className="w-4 h-4 text-sky-400 shrink-0" />
-          <span>Independent Verification & Dispute Evidence Standards</span>
+          <span>Verification & Dispute Evidence Standards</span>
         </div>
         <p className="text-[11px] text-slate-400 leading-relaxed">
-          <strong className="text-slate-300">Independent Review Policy:</strong> Community feedback, verified Trustpilot submissions, and public trader forum records are monitored independently from sponsored affiliations. Individual trader experiences do not override contractual rule limits. For binding terms, refer to the verified Rule Table above.
+          <strong className="text-slate-300">Review Policy:</strong> Community feedback, verified Trustpilot submissions, and public trader forum records are monitored. Individual trader experiences do not override contractual rule limits. For binding terms, refer to the verified Rule Table above.
         </p>
       </div>
 
@@ -142,10 +142,6 @@ export const GoatV3CommunityReviews: React.FC<GoatV3CommunityReviewsProps> = ({
                   <span className={`inline-block px-2 py-0.5 rounded text-[10px] font-semibold border ${badge.bg}`}>
                     {badge.label}
                   </span>
-                </span>
-
-                <span className="text-slate-400 font-mono text-[10px]">
-                  Audited Case
                 </span>
               </div>
             </div>

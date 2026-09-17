@@ -25,6 +25,7 @@ import {
   Check,
 } from 'lucide-react';
 import { FirmCanonicalProfile } from '../../data/allFirmsCanonicalData.ts';
+import { getFirmLogoUrl } from '../../utils/firmLogos.ts';
 
 interface FirmV3HeaderProps {
   firm: FirmCanonicalProfile;
@@ -112,7 +113,7 @@ export const FirmV3Header: React.FC<FirmV3HeaderProps> = ({
         <div className="flex flex-wrap items-center gap-2 text-[11px]">
           <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded font-mono font-bold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 uppercase tracking-wider">
             <ShieldCheck className="w-3 h-3" />
-            Grade A Audited
+            Rules Documented
           </span>
           <span className="text-slate-300">
             Official {firm.name} rulebook, multi-model risk engine &amp; corporate transparency dossier.
@@ -142,7 +143,7 @@ export const FirmV3Header: React.FC<FirmV3HeaderProps> = ({
           <div className="flex items-start gap-4 sm:gap-5">
             <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-2xl bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] p-1.5 flex items-center justify-center shadow-2xl shadow-black/80 shrink-0 overflow-hidden">
               <img
-                src={firm.logoUrl}
+                src={firm.logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                 alt={firm.name}
                 width="80"
                 height="80"
@@ -150,14 +151,10 @@ export const FirmV3Header: React.FC<FirmV3HeaderProps> = ({
                 className="w-full h-full object-contain rounded-xl filter drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)]"
                 onError={(e) => {
                   const target = e.currentTarget as HTMLImageElement;
-                  try {
-                    const domain = new URL(firm.website || '').hostname;
-                    if (domain && !target.src.includes('unavatar.io')) {
-                      target.src = 'https://unavatar.io/' + domain;
-                      return;
-                    }
-                  } catch {}
-                  target.src = firm.countryFlag;
+                  const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                  if (target.src !== fallback) {
+                    target.src = fallback;
+                  }
                 }}
               />
             </div>
@@ -169,7 +166,7 @@ export const FirmV3Header: React.FC<FirmV3HeaderProps> = ({
                 </h1>
                 <span className="px-2.5 py-0.5 text-xs font-bold rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 flex items-center gap-1">
                   <CheckCircle2 className="w-3.5 h-3.5" />
-                  Grade A Verified
+                  Data Documented
                 </span>
                 <span className="px-2 py-0.5 text-xs font-semibold rounded bg-white/[0.06] text-white/80 border border-white/[0.08]">
                   ACTIVE OPERATIONAL

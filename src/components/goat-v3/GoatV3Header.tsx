@@ -106,7 +106,7 @@ export const GoatV3Header: React.FC<GoatV3HeaderProps> = ({
         <div className="flex flex-wrap items-center gap-2 text-[11px]">
           <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded font-mono font-bold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 uppercase tracking-wider">
             <ShieldCheck className="w-3 h-3" />
-            Grade A Audited
+            Rules Documented
           </span>
           <span className="text-slate-300">
             Official rulebook, multi-model risk engine &amp; corporate transparency dossier.
@@ -121,7 +121,7 @@ export const GoatV3Header: React.FC<GoatV3HeaderProps> = ({
           <a
             href="https://www.goatfundedtrader.com"
             target="_blank"
-            rel="noopener noreferrer"
+            rel="sponsored noopener"
             className="text-blue-400 hover:text-blue-300 underline flex items-center gap-1"
           >
             Official Website <ExternalLink className="w-3 h-3" />
@@ -142,10 +142,6 @@ export const GoatV3Header: React.FC<GoatV3HeaderProps> = ({
                 height="80"
                 decoding="async"
                 className="w-full h-full object-contain rounded-xl"
-                onError={(e) => {
-                  (e.currentTarget as HTMLImageElement).src =
-                    'https://cdn.prod.website-files.com/692d3a3e37a293dd19f3b43e/69aabf903c2bdd94b7e148ad_brand_webclip.png';
-                }}
               />
             </div>
 
@@ -156,7 +152,7 @@ export const GoatV3Header: React.FC<GoatV3HeaderProps> = ({
                 </h1>
                 <span className="px-2.5 py-0.5 text-xs font-bold rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 flex items-center gap-1">
                   <CheckCircle2 className="w-3.5 h-3.5" />
-                  Grade A Verified
+                  Data Documented
                 </span>
                 <span className="px-2 py-0.5 text-xs font-semibold rounded bg-white/[0.06] text-white/80 border border-white/[0.08]">
                   ACTIVE OPERATIONAL

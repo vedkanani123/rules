@@ -30,7 +30,7 @@ export const GoatV3TrustCenter: React.FC = () => {
   }> = [
     {
       status: 'officially_verified',
-      title: 'Officially Verified',
+      title: 'Source Available',
       badge: 'Tier 1 Evidence',
       color: 'text-emerald-400 border-emerald-500/30 bg-emerald-500/10',
       description: 'Confirmed directly from active official GFT documentation, terms of service, or checkout contracts.',

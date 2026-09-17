@@ -174,7 +174,7 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
     firmBName: 'Goat Funded Trader',
     title: 'Funding Pips vs Goat Funded Trader Rules & Traps Comparison',
     metaDescription: 'Compare Funding Pips vs Goat Funded Trader: Balance-based daily drawdown, 1-step vs 2-step evaluation rules, news trading windows, and payout consistency.',
-    verdict: 'Both firms feature trader-friendly balance-based daily loss rules, but Goat Funded Trader provides on-demand 24h payout guarantees and BOGO promos, while Funding Pips maintains simpler rule consistency terms.',
+    verdict: 'Both firms feature trader-friendly balance-based daily loss rules, but Goat Funded Trader provides on-demand 24h payout guarantees and promotional discounts, while Funding Pips maintains simpler rule consistency terms.',
     keyDifferences: [
       {
         title: 'Daily Loss Calculation Basis',
@@ -190,7 +190,7 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
       },
     ],
     suitabilityA: 'Traders who prefer clean payout guidelines and Match-Trader / cTrader interfaces.',
-    suitabilityB: 'Traders seeking high profit splits (up to 100%), instant scaling, and promotional BOGO incentives.',
+    suitabilityB: 'Traders seeking high profit splits (up to 100%), instant scaling, and promotional incentives.',
   },
   {
     slug: 'e8-markets-vs-ftmo',

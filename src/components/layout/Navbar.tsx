@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { PROP_FIRMS_DATA } from '../../data/propFirmsData.ts';
 import { Link } from '../common/Link.tsx';
+import { getFirmLogoUrl } from '../../utils/firmLogos.ts';
 import { Search, Menu, X, Building2, Scale, BookOpen, Sliders, History, MessageSquareQuote, Sparkles } from 'lucide-react';
 
 interface NavbarProps {
@@ -190,11 +191,15 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath, onOpenSearch }) => 
                 className="flex items-center gap-3 w-full text-left py-2 hover:bg-white/[0.02] rounded-lg px-1"
               >
                 <img
-                  src={(f as any).logoUrl || f.countryFlag}
+                  src={(f as any).logoUrl || getFirmLogoUrl(f.slug, f.name)}
                   alt={f.name}
                   className="w-5 h-5 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0"
                   onError={(e) => {
-                    (e.currentTarget as HTMLImageElement).src = f.countryFlag;
+                    const target = e.currentTarget as HTMLImageElement;
+                    const fallback = getFirmLogoUrl(f.slug, f.name);
+                    if (target.src !== fallback) {
+                      target.src = fallback;
+                    }
                   }}
                 />
                 <span className="text-sm text-white truncate">{f.name}</span>

@@ -33,11 +33,17 @@ export const PrivacyPolicyPage: React.FC<PrivacyPolicyPageProps> = ({ onNavigate
 
       {/* Intro */}
       <section className="space-y-4 text-sm leading-relaxed">
+        <section>
+          <h2 className="font-bold text-white mb-2">Data Controller</h2>
+          <p><strong>Controller:</strong> FundedTradingRules Operations</p>
+          <p><strong>Entity:</strong> Digital Research & Intelligence Platform</p>
+          <p><strong>Email:</strong> <a href="mailto:privacy@fundedtradingrules.com" className="text-sky-400 hover:underline">privacy@fundedtradingrules.com</a></p>
+        </section>
         <p>
           At <strong className="text-white">FundedTradingRules.com</strong> (&quot;we&quot;, &quot;our&quot;, or &quot;us&quot;), we are committed to protecting your privacy and treating your data with strict integrity. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information when you visit our website, utilize our interactive comparison engines, risk simulators, or review directory.
         </p>
         <p>
-          By using FundedTradingRules.com, you consent to the data practices described in this policy. If you disagree with any terms, please discontinue using our service.
+          We process personal data under the following lawful bases: (a) legitimate interest for website analytics and security, (b) consent for non-essential cookies and marketing communications, (c) contractual necessity for responding to your inquiries.
         </p>
       </section>
 
@@ -85,6 +91,14 @@ export const PrivacyPolicyPage: React.FC<PrivacyPolicyPageProps> = ({ onNavigate
           We use functional cookies and performance tracking pixels. In compliance with the European Economic Area (EEA) and UK privacy directives, we implement <strong className="text-white">Google Consent Mode v2</strong>. Tracking cookies for personalized advertising (<code className="text-xs bg-slate-800 px-1 py-0.5 rounded text-sky-300">ad_storage</code>, <code className="text-xs bg-slate-800 px-1 py-0.5 rounded text-sky-300">ad_user_data</code>, <code className="text-xs bg-slate-800 px-1 py-0.5 rounded text-sky-300">ad_personalization</code>) are only set in accordance with your preferences chosen via our Cookie Consent banner.
         </p>
         <p className="text-sm leading-relaxed">
+          Our cookies include:
+        </p>
+        <ul className="list-disc pl-5 space-y-2 text-sm text-slate-300">
+          <li><strong>Essential cookies:</strong> Required for maintaining your session and storing your consent preferences.</li>
+          <li><strong>Analytics cookies:</strong> Used to understand how visitors interact with our site (e.g., Google Analytics). Only set with your consent.</li>
+          <li><strong>No advertising cookies</strong> are set without your explicit consent.</li>
+        </ul>
+        <p className="text-sm leading-relaxed mt-2">
           You can modify or revoke cookie preferences at any time through your browser settings or by clearing your site data.
         </p>
       </section>

@@ -32,9 +32,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'the-5ers',
     name: 'The 5%ers',
     brandName: 'The5ers',
-    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/d0tfly4u6umzlf9ti03joqhz/jadjbsw5o3buct9yk1zmcfxu.svg',
+    logoUrl: '',
     country: 'GB',
-    countryFlag: 'https://flagcdn.com/w80/gb.png',
+    countryFlag: '',
     headquarters: 'London, United Kingdom',
     foundedYear: 2016,
     ceoFounder: 'Snir Ahiel & Gil Ben Hur',
@@ -43,8 +43,8 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     trustScore: 97,
     reviewScore: 4.8,
     reviewsCount: 28400,
-    totalPayoutsReported: '$110,000,000+',
-    activeTradersReported: '262,000+',
+    totalPayoutsReported: '$110,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '262,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated trading environment with real performance rewards and career scaling up to $4,000,000.',
     activePromo: {
@@ -379,19 +379,19 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'ftmo',
     name: 'FTMO',
     brandName: 'FTMO',
-    logoUrl: 'https://media.propfirmmatch.com/system/rhqtxm6a1o626qooi63z4zk8/65e0eb3d25da793d39335ba9_FTMO.svg',
+    logoUrl: '',
     country: 'CZ',
-    countryFlag: 'https://flagcdn.com/w80/cz.png',
+    countryFlag: '',
     headquarters: 'Prague, Czech Republic',
     foundedYear: 2015,
     ceoFounder: 'Otakar Suffner & Marek Vasicek',
     website: 'https://ftmo.com',
     supportEmail: 'support@ftmo.com',
-    trustScore: 98,
+    trustScore: 99,
     reviewScore: 4.8,
     reviewsCount: 51200,
-    totalPayoutsReported: '$650,000,000+',
-    activeTradersReported: '4,500,000+',
+    totalPayoutsReported: '$650,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '4,500,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated evaluation environment with performance rewards.',
     activePromo: {
@@ -611,7 +611,7 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
         date: '2026-03-15',
         title: 'Launch of FTMO Futures Beta',
         previousRule: 'Only CFD products supported',
-        newRule: 'Direct CME/CBOT futures beta live via Tradeovate/NinjaTrader',
+        newRule: 'Direct CME/CBOT futures beta live via Tradovate/NinjaTrader',
         affectedModels: ['ftmo_challenge_normal'],
         source: 'FTMO Press Release',
         explanation: 'Introduced official US and EU futures trading products.',
@@ -648,19 +648,19 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'e8-markets',
     name: 'E8 Markets',
     brandName: 'E8 Markets',
-    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/cookchclfl3h9qn9klhz3bh7/yh8tmzcf4fybtca4ciixoijm.svg',
+    logoUrl: '',
     country: 'US',
-    countryFlag: 'https://flagcdn.com/w80/us.png',
+    countryFlag: '',
     headquarters: 'Dallas, Texas, USA',
     foundedYear: 2021,
     ceoFounder: 'Dylan Elchami',
     website: 'https://e8markets.com',
     supportEmail: 'support@e8markets.com',
-    trustScore: 96,
+    trustScore: 92,
     reviewScore: 4.8,
     reviewsCount: 483,
-    totalPayoutsReported: '$77,000,000+',
-    activeTradersReported: '500,000+',
+    totalPayoutsReported: '$77,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '500,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Official pass rate: 17.7% for traders who took trades from Jan 2023 to Mar 2024.',
     activePromo: {
@@ -1044,19 +1044,19 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'funding-pips',
     name: 'Funding Pips',
     brandName: 'Funding Pips',
-    logoUrl: 'https://media.propfirmmatch.com/system/b5filxasbwwrg110uhxvgv4v/675854fe6df8f98dc09b6caf_FundingPips-Logotype.svg',
+    logoUrl: '',
     country: 'AE',
-    countryFlag: 'https://flagcdn.com/w80/ae.png',
+    countryFlag: '',
     headquarters: 'Dubai, UAE',
     foundedYear: 2022,
     ceoFounder: 'Khaled Ayesh',
     website: 'https://fundingpips.com',
     supportEmail: 'support@fundingpips.com',
-    trustScore: 94,
+    trustScore: 96,
     reviewScore: 4.8,
     reviewsCount: 67819,
-    totalPayoutsReported: '$303,000,000+',
-    activeTradersReported: '3,000,000+',
+    totalPayoutsReported: '$303,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '3,000,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated environment with real performance rewards.',
     activePromo: {
@@ -1447,9 +1447,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'fundednext',
     name: 'FundedNext',
     brandName: 'FundedNext',
-    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/qhbxdzpcco86uuzxsc9yp8v2/Firm=FundedNext,_Category=Prop_Firm.svg',
+    logoUrl: '',
     country: 'AE',
-    countryFlag: 'https://flagcdn.com/w80/ae.png',
+    countryFlag: '',
     headquarters: 'Dubai, UAE & Nicosia, Cyprus',
     foundedYear: 2022,
     ceoFounder: 'Abdullah Zayed',
@@ -1458,8 +1458,8 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     trustScore: 95,
     reviewScore: 4.7,
     reviewsCount: 41200,
-    totalPayoutsReported: '$125,000,000+',
-    activeTradersReported: '1,200,000+',
+    totalPayoutsReported: '$125,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '1,200,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated accounts with real reward payouts.',
     activePromo: {
@@ -1923,19 +1923,19 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'topstep',
     name: 'Topstep',
     brandName: 'Topstep',
-    logoUrl: 'https://cdn.prod.website-files.com/69e902b0a74d3d99a517f56d/6a299fdfbdc3a918fdf4b3ff_topstep_logo-white.webp',
+    logoUrl: '',
     country: 'US',
-    countryFlag: 'https://flagcdn.com/w80/us.png',
+    countryFlag: '',
     headquarters: 'Chicago, Illinois, USA',
     foundedYear: 2012,
     ceoFounder: 'Michael Patak',
     website: 'https://topstep.com',
     supportEmail: 'support@topstep.com',
-    trustScore: 97,
+    trustScore: 98,
     reviewScore: 4.6,
     reviewsCount: 16500,
-    totalPayoutsReported: '$85,000,000+',
-    activeTradersReported: '750,000+',
+    totalPayoutsReported: '$85,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '750,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Futures simulated trading combine with live Express Funded Account conversion.',
     activePromo: {
@@ -2129,7 +2129,7 @@ export function getFirmCanonicalProfile(slug: string, directoryMetadata?: any): 
 
   const name = directoryMetadata?.name || slug.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const country = directoryMetadata?.country || 'US';
-  const countryFlag = directoryMetadata?.countryFlag || `https://flagcdn.com/w80/${country.toLowerCase()}.png`;
+  const countryFlag = directoryMetadata?.countryFlag || '';
   const founded = directoryMetadata?.foundedYear || 2022;
   const rating = directoryMetadata?.reviewScore || directoryMetadata?.reviewsOverview?.averageRating || 4.7;
   const reviews = directoryMetadata?.reviewsCount || directoryMetadata?.reviewsOverview?.totalReviews || 1200;
@@ -2292,8 +2292,8 @@ export function getFirmCanonicalProfile(slug: string, directoryMetadata?: any): 
     trustScore: directoryMetadata?.trustScore || 90,
     reviewScore: rating,
     reviewsCount: reviews,
-    totalPayoutsReported: '$25,000,000+',
-    activeTradersReported: '100,000+',
+    totalPayoutsReported: '$25,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '100,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated evaluation environment with performance rewards.',
     activePromo: directoryMetadata?.activePromo || {

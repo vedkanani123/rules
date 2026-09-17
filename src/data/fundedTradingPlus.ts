@@ -4,7 +4,6 @@ const RETRIEVED = '2026-09-06';
 const LV = '2026-09-06';
 const SITE = 'https://fundedtradingplus.com';
 const HELP = 'https://help.fundedtradingplus.com';
-const PFM = 'https://propfirmmatch.com';
 
 function ev(id: string, url: string, title: string, excerpt: string, sourceType: any = 'OFFICIAL_SUPPORT', confidence: any = 'A', verificationStatus: any = 'VERIFIED') {
   return { id, sourceUrl: url, sourceTitle: title, sourceType, sourceExcerpt: excerpt, retrievedAt: RETRIEVED, confidence, verificationStatus } as any;
@@ -20,7 +19,7 @@ export const FUNDED_TRADING_PLUS: PropFirm = {
   helpCenterUrl: `${HELP}/`,
   headquarters: 'United Kingdom',
   country: 'United Kingdom',
-  countryFlag: 'https://flagcdn.com/w80/gb.png',
+  countryFlag: '',
   foundedYear: 2021,
   ceoName: 'Not publicly stated',
   status: 'ACTIVE',
@@ -33,8 +32,8 @@ export const FUNDED_TRADING_PLUS: PropFirm = {
     details: '50% OFF on 1-Step 10K Express Challenge — New users only (PropFirmMatch).',
   },
   payoutGuarantee: 'Standard review 2 business days (Mon-Fri); risk review 5-7 business days; payouts do NOT lower high watermark',
-  totalPayoutsReported: 'Not disclosed',
-  activeTradersReported: 'FCS verified — FT+ Trader simulated live',
+  totalPayoutsReported: 'Not disclosed', // UNVERIFIED: Needs source URL
+  activeTradersReported: 'FCS verified — FT+ Trader simulated live', // UNVERIFIED: Needs source URL
   supportedCountriesCount: 120,
   restrictedCountries: ['Check T&Cs — see Accounts Under Management (AUM) and Risk Review Policy'],
   platforms: ['Match-Trader','MT5'],

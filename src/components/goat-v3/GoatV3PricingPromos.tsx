@@ -45,7 +45,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
       appliesTo: 'Evaluation & Instant Funding Tiers',
       status: 'Observed Campaign (Subject to Confirmation)',
       dateChecked: 'September 2026',
-      source: 'Marketing campaign observation',
+      source: 'Observed from public marketing (unconfirmed)',
       verificationStatus: 'Requires direct checkout confirmation',
     },
     {
@@ -54,7 +54,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
       appliesTo: 'New accounts / first-time registrations',
       status: 'Reported Introductory Offer',
       dateChecked: 'September 2026',
-      source: 'Public trader community reports',
+      source: 'Observed from public marketing (unconfirmed)',
       verificationStatus: 'Requires direct checkout confirmation',
     },
     {
@@ -63,7 +63,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
       appliesTo: 'Pay Later ($5 initial fee model)',
       status: 'Reported Campaign',
       dateChecked: 'September 2026',
-      source: 'Promotional bulletin',
+      source: 'Observed from public marketing (unconfirmed)',
       verificationStatus: 'Requires direct checkout confirmation',
     },
   ];
@@ -74,7 +74,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
         <div>
           <h2 className="text-xl sm:text-2xl font-black text-white tracking-tight flex items-center gap-2">
             <DollarSign className="w-5 h-5 text-emerald-400" />
-            Pricing & Promotional Reference Engine
+            Pricing Overview
           </h2>
           <p className="text-xs sm:text-sm text-slate-400">
             Catalog retail pricing and observed promotional discount structures.
@@ -87,7 +87,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
         <AlertTriangle className="w-4 h-4 text-amber-400 shrink-0 mt-0.5" />
         <div>
           <span className="font-bold text-amber-300">Checkout Verification Disclaimer:</span>{' '}
-          Prices and promotional discounts shown are demonstration reference data observed from public announcements. Price or promotion requires direct checkout confirmation on the official Goat Funded Trader payment gateway before purchase.
+          Prices shown are observed from public announcements and may change. Always confirm pricing directly on the official checkout page before purchase.
         </div>
       </div>
 
@@ -172,7 +172,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
                   <th className="py-2.5 px-3">Capital Size</th>
                   <th className="py-2.5 px-3">Listed Price</th>
                   <th className="py-2.5 px-3">Observed Discount</th>
-                  <th className="py-2.5 px-3">Promo Coupon</th>
+                  <th className="py-2.5 px-3">Promo Coupon (unconfirmed)</th>
                   <th className="py-2.5 px-3">Verification Status</th>
                 </tr>
               </thead>
@@ -256,7 +256,7 @@ export const GoatV3PricingPromos: React.FC<GoatV3PricingPromosProps> = ({
           <div className="p-3 rounded-xl bg-slate-900/60 border border-slate-800 text-[11px] text-slate-400 space-y-1">
             <span className="font-semibold text-slate-300 block">Promotional Policy Notice:</span>
             <p>
-              Coupons are provided as reference data observed from marketing channels. Antigravity does not guarantee coupon validity, affiliate relationships, or final cart discounts. Always confirm totals at the checkout page.
+              Coupons are provided as reference data observed from marketing channels. FundedTradingRules does not guarantee coupon validity or final cart discounts. Always confirm totals directly on the official checkout page. Some links may contain referral parameters. See our affiliate disclosure for details.
             </p>
           </div>
         </div>

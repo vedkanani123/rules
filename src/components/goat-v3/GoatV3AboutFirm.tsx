@@ -90,10 +90,7 @@ export const GoatV3AboutFirm: React.FC<GoatV3AboutFirmProps> = ({ onScrollToSect
           <div className="flex items-center justify-between gap-2">
             <span className="text-xs font-bold text-amber-300 flex items-center gap-1.5">
               <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-              Verified Official Promos
-            </span>
-            <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 font-semibold">
-              Live Verified
+              Observed Promo Codes (Unconfirmed)
             </span>
           </div>
 
@@ -101,15 +98,15 @@ export const GoatV3AboutFirm: React.FC<GoatV3AboutFirmProps> = ({ onScrollToSect
             {[
               {
                 code: 'BOGO40',
-                benefit: '40% OFF + Free BOGO Account',
+                benefit: '40% OFF + Free BOGO Account (unconfirmed — verify at checkout)',
               },
               {
                 code: 'FIRSTGFT',
-                benefit: '50% OFF First Evaluation Purchase',
+                benefit: '50% OFF First Evaluation Purchase (unconfirmed — verify at checkout)',
               },
               {
                 code: 'BOGO35',
-                benefit: 'Pay Later Model Entry from $5',
+                benefit: 'Pay Later Model Entry from $5 (unconfirmed — verify at checkout)',
               },
             ].map((promo) => {
               const isCopied = copiedCode === promo.code;

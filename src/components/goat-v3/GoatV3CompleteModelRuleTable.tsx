@@ -352,7 +352,7 @@ export const GoatV3CompleteModelRuleTable: React.FC<GoatV3CompleteModelRuleTable
         <div>
           <div className="flex items-center gap-2">
             <span className="px-2 py-0.5 rounded bg-blue-500/10 border border-blue-500/30 text-blue-400 text-[10px] font-mono font-bold uppercase tracking-wider">
-              Canonical Source of Truth
+              Rule Reference Table
             </span>
             <span className="text-xs text-slate-400">Independent Research Terminal</span>
           </div>

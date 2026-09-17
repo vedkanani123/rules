@@ -12,14 +12,10 @@ export function generateOrganizationSchema() {
   return {
     '@type': 'Organization',
     '@id': `${BASE_URL}/#organization`,
-    name: 'FundedTradingRules.com',
+    name: 'FundedTradingRules',
     alternateName: [
       'Funded Trading Rules',
-      'FundedTradingRules',
-      'Prop Firm Rules',
-      'Prop Firm Trading Rules',
-      'Funded Rules',
-      'PropFirmRules'
+      'FundedTradingRules.com',
     ],
     url: BASE_URL,
     logo: {
@@ -43,15 +39,10 @@ export function generateWebSiteSchema() {
     '@type': 'WebSite',
     '@id': `${BASE_URL}/#website`,
     url: BASE_URL,
-    name: 'Funded Trading Rules',
+    name: 'FundedTradingRules',
     alternateName: [
-      'FundedTradingRules',
+      'Funded Trading Rules',
       'FundedTradingRules.com',
-      'Funded Trading Rules Intelligence',
-      'Prop Firm Rules',
-      'Prop Firm Trading Rules',
-      'Funded Rules',
-      'PropFirmRules'
     ],
     description: 'Verified Prop Firm Rules, Restrictions & Evidence Intelligence',
     publisher: {
@@ -129,16 +120,6 @@ export function generateFirmSchema(firm: {
       foundingDate: firm.foundedYear ? `${firm.foundedYear}` : undefined,
     },
   };
-
-  if (firm.rating && firm.reviewsCount && firm.reviewsCount > 0) {
-    schema.aggregateRating = {
-      '@type': 'AggregateRating',
-      ratingValue: firm.rating,
-      reviewCount: firm.reviewsCount,
-      bestRating: '5',
-      worstRating: '1',
-    };
-  }
 
   return schema;
 }

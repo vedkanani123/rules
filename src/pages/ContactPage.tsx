@@ -83,8 +83,9 @@ export const ContactPage: React.FC<ContactPageProps> = ({ onNavigate }) => {
               <MapPin className="w-4 h-4 text-purple-400 flex-shrink-0 mt-1" />
               <div>
                 <p className="text-slate-400 text-xs">Publisher Details</p>
-                <p className="text-slate-200">FundedTradingRules Independent Intelligence</p>
-                <p className="text-slate-400 text-xs">Digital Publication • Worldwide Access</p>
+                <p className="text-slate-200">FundedTradingRules Research Desk</p>
+                <p className="text-[#8A8F98] text-xs">Proprietary Trading Intelligence Platform</p>
+                <p className="text-[#8A8F98] text-xs">Worldwide Access & Digital Evidence Desk</p>
               </div>
             </div>
           </div>

@@ -47,14 +47,7 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
           r.type === 'complaint' ? 'RULES' : 'PAYOUT'
         ) as any,
         traderAllegation: r.fullQuote || r.summary,
-        firmResponse: {
-          responderName: `${currentFirm.name} Official Risk Desk`,
-          responderTitle: 'Customer Operations Manager',
-          responseDate: r.date,
-          responseText: r.officialRuleRef
-            ? `Thank you for the review. All accounts operate strictly under published clause ${r.officialRuleRef}. Our team conducts automated server trade logs audits to guarantee neutrality.`
-            : `Thank you for sharing your feedback. We are committed to transparency and adherence to our documented terms of service.`,
-        },
+        firmResponse: (r as any).firmResponse && (r as any).firmResponse.source_url ? (r as any).firmResponse : undefined,
         platformNeutralAnalysis: r.conflictsWithOfficialRule
           ? `Trader allegation directly conflicts with official published rule ${r.officialRuleRef || 'documentation'}. Platform audit records confirm the firm adhered to documented drawdown boundaries.`
           : `Trader feedback matches standard operational workflows. Payout records and platform executions were confirmed within standard operating parameters.`,
@@ -64,19 +57,14 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
     return [];
   }, [currentFirm, canonicalProfile]);
 
-  const totalReviewsCount = currentFirm.reviewsOverview?.totalReviews || canonicalProfile?.reviewsCount || 3200;
-  const averageRatingScore = currentFirm.reviewsOverview?.averageRating || canonicalProfile?.reviewScore || 4.7;
+  const totalReviewsCount = currentFirm.reviewsOverview?.totalReviews || canonicalProfile?.reviewsCount || 0;
+  const averageRatingScore = currentFirm.reviewsOverview?.averageRating || canonicalProfile?.reviewScore || 0;
 
   const complaintThemes = useMemo(() => {
     if (currentFirm.reviewsOverview?.complaintThemeBreakdown && currentFirm.reviewsOverview.complaintThemeBreakdown.length > 0) {
       return currentFirm.reviewsOverview.complaintThemeBreakdown;
     }
-    return [
-      { category: 'PAYOUT', percentage: 42, count: Math.round(totalReviewsCount * 0.04), description: 'Payout verification windows and KYC clearance turnaround.' },
-      { category: 'RULES', percentage: 28, count: Math.round(totalReviewsCount * 0.03), description: 'Daily loss limit rollover reset times and drawdown parameters.' },
-      { category: 'PLATFORM', percentage: 18, count: Math.round(totalReviewsCount * 0.02), description: 'Server execution speeds during major economic news volatility.' },
-      { category: 'SUPPORT', percentage: 12, count: Math.round(totalReviewsCount * 0.01), description: 'Ticket turnaround times over weekend market sessions.' },
-    ];
+    return [];
   }, [currentFirm, totalReviewsCount]);
 
   const filteredReviews = useMemo(() => {
@@ -101,11 +89,11 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
             <MessageSquareQuote className="w-3 h-3" /> Trader evidence registry
           </div>
           <h1 className="text-[30px] sm:text-[40px] font-semibold tracking-tight leading-[0.95] text-white max-w-3xl mx-auto">Trader allegations vs<br /><span className="text-[#8A8F98]">firm responses</span></h1>
-          <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl mx-auto">We never present reviews as facts. Every card shows: what the trader alleges, what the firm replied, and our neutral analysis — with source and confidence.</p>
+          <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl mx-auto">We never present reviews as facts. Every card shows: what the trader alleges, what the firm replied, and our neutral analysis.</p>
           <div className="flex items-center justify-center gap-3 mt-6">
             <div className="px-5 py-3 rounded-2xl bg-[#111318] border border-[#1F2228] text-center">
               <div className="flex items-center justify-center gap-1.5 text-amber-400"><Star className="w-4 h-4 fill-amber-400" /><span className="text-lg font-semibold text-white">{averageRatingScore.toFixed(1)}</span></div>
-              <p className="text-[11px] tracking-wide uppercase text-[#8A8F98] mt-1">{totalReviewsCount.toLocaleString()} reviews</p>
+              {totalReviewsCount > 0 && <p className="text-[11px] tracking-wide uppercase text-[#8A8F98] mt-1">{totalReviewsCount.toLocaleString()} reviews</p>}
             </div>
             <div className="hidden sm:flex flex-col items-center px-5 py-3 rounded-2xl bg-[#111318] border border-[#1F2228] text-center">
               <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98]">Separation</p>
@@ -182,16 +170,24 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
         </div>
 
         {/* Reviews */}
-        <div className="mt-6 grid grid-cols-1 lg:grid-cols-2 gap-4">
-          {filteredReviews.map(r=>(
-            <ReviewCard key={r.id} review={r} />
-          ))}
-        </div>
-        {filteredReviews.length===0 && (
+        {totalReviewsCount === 0 ? (
           <div className="mt-6 text-center py-12 rounded-2xl bg-[#111318] border border-[#1F2228]">
-            <p className="text-[13px] font-medium text-white">No reviews for this filter</p>
-            <button onClick={()=>{setSelectedCategory('ALL'); setSelectedRating('ALL');}} className="mt-3 px-4 py-2 rounded-full bg-white text-[#080A10] text-[13px] font-medium min-h-[44px]">Clear filters</button>
+            <p className="text-[13px] font-medium text-white">No verified reviews available for this firm yet.</p>
           </div>
+        ) : (
+          <>
+            <div className="mt-6 grid grid-cols-1 lg:grid-cols-2 gap-4">
+              {filteredReviews.map(r=>(
+                <ReviewCard key={r.id} review={r} />
+              ))}
+            </div>
+            {filteredReviews.length===0 && (
+              <div className="mt-6 text-center py-12 rounded-2xl bg-[#111318] border border-[#1F2228]">
+                <p className="text-[13px] font-medium text-white">No reviews for this filter</p>
+                <button onClick={()=>{setSelectedCategory('ALL'); setSelectedRating('ALL');}} className="mt-3 px-4 py-2 rounded-full bg-white text-[#080A10] text-[13px] font-medium min-h-[44px]">Clear filters</button>
+              </div>
+            )}
+          </>
         )}
       </div>
     </div>

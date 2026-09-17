@@ -3,7 +3,7 @@
  * Independent Intelligence & Verification Platform
  *
  * Real verified data compiled from official terms, proprietary dossiers (propfirms_complete/),
- * and directory records. No fabricated values or demo placeholders.
+ * and directory records.
  */
 
 export type ModelCategory = 'one_step' | 'two_step' | 'three_step' | 'instant' | 'futures';
@@ -135,19 +135,19 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
     brandName: 'FTMO',
     marketType: 'Forex',
     country: 'CZ',
-    countryFlag: 'https://flagcdn.com/w80/cz.png',
+    countryFlag: '',
     headquarters: 'Prague, Czech Republic',
     foundedYear: 2015,
     ceoFounder: 'Otakar Suffner & Marek Vasicek',
     website: 'https://ftmo.com',
     supportEmail: 'support@ftmo.com',
     helpCenterUrl: 'https://ftmo.com/en/faq/',
-    logoUrl: 'https://media.propfirmmatch.com/system/rhqtxm6a1o626qooi63z4zk8/65e0eb3d25da793d39335ba9_FTMO.svg',
+    logoUrl: '',
     trustScore: 98,
     reviewScore: 4.8,
     reviewsCount: 51200,
-    totalPayoutsReported: '$650,000,000+',
-    activeTradersReported: '4,500,000+',
+    totalPayoutsReported: '$650,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '4,500,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated evaluation environment with performance rewards.',
     activePromo: {
@@ -222,7 +222,7 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
         version: 'v2026.2',
         title: 'Launch of FTMO Futures US Expansion',
         description: 'Introduced official CME/CBOT futures beta via specialized institutional feeds.',
-        impact: 'Dedicated futures traders can now execute directly on Tradeovate and NinjaTrader.',
+        impact: 'Dedicated futures traders can now execute directly on Tradovate and NinjaTrader.',
       },
       {
         date: '2025-11-01',
@@ -374,19 +374,19 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
     brandName: 'E8 Markets',
     marketType: 'Forex',
     country: 'US',
-    countryFlag: 'https://flagcdn.com/w80/us.png',
+    countryFlag: '',
     headquarters: 'Dallas, Texas, USA',
     foundedYear: 2021,
     ceoFounder: 'Dylan Elchami',
     website: 'https://e8markets.com',
     supportEmail: 'support@e8markets.com',
     helpCenterUrl: 'https://help.e8markets.com',
-    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/cookchclfl3h9qn9klhz3bh7/yh8tmzcf4fybtca4ciixoijm.svg',
+    logoUrl: '',
     trustScore: 96,
     reviewScore: 4.8,
     reviewsCount: 483,
-    totalPayoutsReported: '$77,000,000+',
-    activeTradersReported: '500,000+',
+    totalPayoutsReported: '$77,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '500,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Official pass rate: 17.7% for traders who took trades from Jan 2023 to Mar 2024.',
     activePromo: {
@@ -583,19 +583,19 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
     brandName: 'Funding Pips',
     marketType: 'Forex',
     country: 'AE',
-    countryFlag: 'https://flagcdn.com/w80/ae.png',
+    countryFlag: '',
     headquarters: 'Dubai, UAE',
     foundedYear: 2022,
     ceoFounder: 'Khaled Ayesh',
     website: 'https://fundingpips.com',
     supportEmail: 'support@fundingpips.com',
     helpCenterUrl: 'https://help.fundingpips.com',
-    logoUrl: 'https://media.propfirmmatch.com/system/b5filxasbwwrg110uhxvgv4v/675854fe6df8f98dc09b6caf_FundingPips-Logotype.svg',
+    logoUrl: '',
     trustScore: 94,
     reviewScore: 4.8,
     reviewsCount: 67819,
-    totalPayoutsReported: '$303,000,000+',
-    activeTradersReported: '3,000,000+',
+    totalPayoutsReported: '$303,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '3,000,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated environment with real performance rewards.',
     activePromo: {
@@ -729,19 +729,19 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
     brandName: 'The 5%ers',
     marketType: 'Forex',
     country: 'GB',
-    countryFlag: 'https://flagcdn.com/w80/gb.png',
+    countryFlag: '',
     headquarters: 'London, United Kingdom',
     foundedYear: 2016,
     ceoFounder: 'Snir Ahiel & Gil Ben Hur',
     website: 'https://the5ers.com',
     supportEmail: 'help@the5ers.com',
     helpCenterUrl: 'https://the5ers.com/faqs/',
-    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/d0tfly4u6umzlf9ti03joqhz/jadjbsw5o3buct9yk1zmcfxu.svg',
+    logoUrl: '',
     trustScore: 97,
     reviewScore: 4.8,
     reviewsCount: 28400,
-    totalPayoutsReported: '$110,000,000+',
-    activeTradersReported: '262,000+',
+    totalPayoutsReported: '$110,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '262,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated evaluation with scaling to live capital accounts.',
     activePromo: {
@@ -926,19 +926,19 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
     brandName: 'FundedNext',
     marketType: 'Forex',
     country: 'AE',
-    countryFlag: 'https://flagcdn.com/w80/ae.png',
+    countryFlag: '',
     headquarters: 'Dubai, UAE & Nicosia, Cyprus',
     foundedYear: 2022,
     ceoFounder: 'Abdullah Zayed',
     website: 'https://fundednext.com',
     supportEmail: 'support@fundednext.com',
     helpCenterUrl: 'https://help.fundednext.com',
-    logoUrl: 'https://media.propfirmmatch.com/user_2s2hlBXYjq3Z0JvbQ39DazaaarZ/qhbxdzpcco86uuzxsc9yp8v2/Firm=FundedNext,_Category=Prop_Firm.svg',
+    logoUrl: '',
     trustScore: 95,
     reviewScore: 4.7,
     reviewsCount: 41200,
-    totalPayoutsReported: '$125,000,000+',
-    activeTradersReported: '1,200,000+',
+    totalPayoutsReported: '$125,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '1,200,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Simulated accounts with real reward payouts.',
     activePromo: {
@@ -1137,19 +1137,19 @@ export const CANONICAL_FIRMS_REGISTRY: Record<string, CanonicalFirmProfile> = {
     brandName: 'Topstep',
     marketType: 'Futures',
     country: 'US',
-    countryFlag: 'https://flagcdn.com/w80/us.png',
+    countryFlag: '',
     headquarters: 'Chicago, Illinois, USA',
     foundedYear: 2012,
     ceoFounder: 'Michael Patak',
     website: 'https://topstep.com',
     supportEmail: 'support@topstep.com',
     helpCenterUrl: 'https://help.topstep.com',
-    logoUrl: 'https://cdn.prod.website-files.com/69e902b0a74d3d99a517f56d/6a299fdfbdc3a918fdf4b3ff_topstep_logo-white.webp',
+    logoUrl: '',
     trustScore: 97,
     reviewScore: 4.6,
     reviewsCount: 16500,
-    totalPayoutsReported: '$85,000,000+',
-    activeTradersReported: '750,000+',
+    totalPayoutsReported: '$85,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '750,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Futures simulated trading combine with live Express Funded Account conversion.',
     activePromo: {
@@ -1295,7 +1295,7 @@ export function getOrCreateFirmCanonicalProfile(slug: string, fallbackDirectoryD
 
   const name = fallbackDirectoryData?.name || slug.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const country = fallbackDirectoryData?.country || 'US';
-  const countryFlag = fallbackDirectoryData?.countryFlag || `https://flagcdn.com/w80/${country.toLowerCase()}.png`;
+  const countryFlag = fallbackDirectoryData?.countryFlag || '';
   const founded = fallbackDirectoryData?.foundedYear || 2022;
   const reviews = fallbackDirectoryData?.reviewsCount || fallbackDirectoryData?.reviewsOverview?.totalReviews || 1200;
   const rating = fallbackDirectoryData?.reviewScore || fallbackDirectoryData?.reviewsOverview?.averageRating || 4.6;
@@ -1316,12 +1316,12 @@ export function getOrCreateFirmCanonicalProfile(slug: string, fallbackDirectoryD
     website: `https://${normSlug.replace(/-/g, '')}.com`,
     supportEmail: `support@${normSlug.replace(/-/g, '')}.com`,
     helpCenterUrl: `https://${normSlug.replace(/-/g, '')}.com/faq`,
-    logoUrl: fallbackDirectoryData?.logoUrl || `https://flagcdn.com/w80/${country.toLowerCase()}.png`,
+    logoUrl: fallbackDirectoryData?.logoUrl || '',
     trustScore: fallbackDirectoryData?.trustScore || 90,
     reviewScore: rating,
     reviewsCount: reviews,
-    totalPayoutsReported: '$25,000,000+',
-    activeTradersReported: '100,000+',
+    totalPayoutsReported: '$25,000,000+', // UNVERIFIED: Needs source URL
+    activeTradersReported: '100,000+', // UNVERIFIED: Needs source URL
     confidenceRating: 'A',
     passRateDisclaimer: 'Evaluation environment with performance rewards.',
     activePromo: fallbackDirectoryData?.activePromo || {

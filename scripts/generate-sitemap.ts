@@ -8,8 +8,8 @@ import { ALL_SEO_ROUTES } from '../src/core/seo/routesRegistry.ts';
 import { BASE_URL } from '../src/core/seo/schemaGenerator.ts';
 
 function generateSitemapXml(): string {
- const indexableRoutes = ALL_SEO_ROUTES.filter((r) => r.isIndexable);
-  const today = '2026-09-13';
+  const indexableRoutes = ALL_SEO_ROUTES.filter((r) => r.isIndexable);
+  const today = new Date().toISOString().split('T')[0];
 
   const urlEntries = indexableRoutes.map((route) => {
     let priority = '0.7';
@@ -42,7 +42,7 @@ function generateSitemapXml(): string {
     }
 
     const loc = route.canonicalUrl;
-    const lastmod = route.lastmod && route.lastmod >= today ? route.lastmod : today;
+    const lastmod = route.lastmod || today;
 
     return `  <url>
     <loc>${loc}</loc>

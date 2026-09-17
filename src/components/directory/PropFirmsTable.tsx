@@ -8,6 +8,7 @@ import {
   Table as TableIcon,
   Star,
 } from 'lucide-react';
+import { getFirmLogoUrl } from '../../utils/firmLogos.ts';
 
 interface PropFirmsTableProps {
   firms: PropFirm[];
@@ -83,16 +84,12 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
             <button key={firm.id} onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className="text-left group p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors flex flex-col gap-4 min-h-[200px]">
               <div className="flex items-start justify-between gap-3">
                 <div className="flex items-center gap-3 min-w-0">
-                  <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} width="32" height="32" loading="lazy" decoding="async" className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0" onError={(e)=>{ 
+                  <img src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)} alt={`${firm.name} logo`} width="32" height="32" loading="lazy" decoding="async" className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0" onError={(e)=>{ 
                       const target = e.currentTarget as HTMLImageElement;
-                      try {
-                        const domain = new URL(firm.website || '').hostname;
-                        if (domain && !target.src.includes('unavatar.io')) {
-                          target.src = 'https://unavatar.io/' + domain;
-                          return;
-                        }
-                      } catch {}
-                      target.src = firm.countryFlag; 
+                      const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                      if (target.src !== fallback) {
+                        target.src = fallback;
+                      }
                     }} />
                   <div className="min-w-0">
                     <div className="text-[13px] font-semibold text-white leading-tight truncate">{firm.name}</div>
@@ -103,7 +100,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
               </div>
               <p className="text-xs leading-relaxed text-[#8A8F98] line-clamp-2">{firm.tagline || firm.programs[0]?.description || 'Verified rules with source citations.'}</p>
               <div className="flex items-center gap-2 flex-wrap">
-                <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-mono font-medium text-[#8A8F98]">{firm.programs.length} programs</span>
+                <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-mono font-medium text-[#8A8F98]">{firm.programs.length} {firm.programs.length === 1 ? 'program' : 'programs'}</span>
                 <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-mono font-medium text-[#8A8F98]">{firm.programs.reduce((a,p)=>a+p.accounts.length,0)} tiers</span>
                 <span className="inline-flex items-center gap-1 text-xs font-mono font-medium text-[#6B7280] ml-auto"><Star className="w-3 h-3 text-amber-500" /> {firm.scorecard.overallScore}</span>
               </div>
@@ -133,16 +130,12 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
                   <tr key={firm.id} className="hover:bg-[#16181E]/60 transition-colors">
                     <td className="px-4 py-3">
                       <div className="flex items-center gap-3">
-                        <img src={(firm as any).logoUrl || firm.countryFlag} alt={`${firm.name} logo`} width="24" height="24" loading="lazy" decoding="async" className="w-6 h-6 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244]" onError={(e)=>{ 
+                        <img src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)} alt={`${firm.name} logo`} width="24" height="24" loading="lazy" decoding="async" className="w-6 h-6 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244]" onError={(e)=>{ 
                       const target = e.currentTarget as HTMLImageElement;
-                      try {
-                        const domain = new URL(firm.website || '').hostname;
-                        if (domain && !target.src.includes('unavatar.io')) {
-                          target.src = 'https://unavatar.io/' + domain;
-                          return;
-                        }
-                      } catch {}
-                      target.src = firm.countryFlag; 
+                      const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                      if (target.src !== fallback) {
+                        target.src = fallback;
+                      }
                     }} />
                         <div><div className="text-sm font-medium text-white leading-none">{firm.name}</div><div className="text-[11px] font-mono text-[#6B7280] leading-none mt-1">{firm.headquarters}</div></div>
                       </div>

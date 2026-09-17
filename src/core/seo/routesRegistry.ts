@@ -27,7 +27,6 @@ export interface RouteSEOData {
   isIndexable: boolean;
   breadcrumbs: BreadcrumbItem[];
   schemaGraph: any[];
-  keywords?: string;
 }
 
 // 1. Core Pages
@@ -35,11 +34,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/',
     pageType: 'core',
-    title: 'Funded Rules: Best Prop Firms & Funded Accounts (2026)',
+    title: 'Prop Firm Rules Compared: Drawdown, Payouts & News Rules (2026) | FundedTradingRules',
     metaDescription: 'Compare verified funded rules and prop firm trading rules. Real drawdown math, news buffers, consistency rules, and payout terms across 24+ firms.',
     canonicalUrl: `${BASE_URL}/`,
-    h1: 'Funded Rules & Best Funded Accounts: Know Every Rule Before You Buy',
-    keywords: 'best funded account, best funded accounts, funded rules, funded trading rules, prop firm trading rules, prop firm rules, compare funded accounts, prop firm comparison, trailing drawdown, static drawdown, funded account rules, ftmo rules',
+    h1: 'Compare Prop Firm Rules Before You Buy a Challenge',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [{ name: 'Home', url: '/' }],
@@ -48,23 +46,23 @@ const CORE_ROUTES: RouteSEOData[] = [
       generateWebSiteSchema(),
       generateFAQSchema([
         {
-          question: 'What are funded rules in prop trading?',
-          answer: 'Funded rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms (prop firms) that traders must follow to pass evaluations and maintain funded accounts. Core funded rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
+          question: 'What rules do prop trading firms enforce?',
+          answer: 'Prop firm rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms that traders must follow to pass evaluations and maintain funded accounts. Core prop firm rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
         },
         {
-          question: 'What are the most common funded rules and prop firm restrictions?',
-          answer: 'The most common funded rules include: (1) Daily Loss Limit (typically 3%–5%), (2) Maximum Trailing or Static Drawdown (typically 6%–10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
+          question: 'What are the most common prop firm trading restrictions?',
+          answer: 'The most common prop firm rules include: (1) Daily Loss Limit (typically 3%–5%), (2) Maximum Trailing or Static Drawdown (typically 6%–10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
         },
         {
-          question: 'How do daily drawdown funded rules work in prop trading?',
+          question: 'How does the daily drawdown rule work at prop firms?',
           answer: 'Daily loss limits cap the maximum equity or balance decline allowed in a single server day (usually resetting at 00:00 server time). In balance-based models, the floor is calculated from the day-start balance. In equity-based models, intraday open profits can pull the daily loss floor upwards, meaning open trades that retrace can trigger a daily drawdown breach.',
         },
         {
-          question: 'Why do traders fail funded rules?',
+          question: 'Why do traders fail prop firm evaluations?',
           answer: 'The vast majority of prop firm failures are caused by hidden rule mechanics rather than market analysis errors. Common pitfalls include trailing drawdown on unrealized floating profit peaks, violating the 80% margin utilization cap, entering or closing trades within the 2-minute news buffer, and failing to meet weekend flat-position requirements.',
         },
         {
-          question: 'What is the difference between soft breach and hard breach funded rules?',
+          question: 'What is the difference between soft breach and hard breach prop firm rules?',
           answer: 'A hard breach (such as exceeding the daily loss limit or maximum overall drawdown) immediately liquidates all positions and closes the funded account. A soft breach (such as leaving a trade open over the weekend or a minor lot size breach) automatically closes the offending trade or cancels profits from that trade without terminating the challenge account.',
         },
       ]),
@@ -73,11 +71,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/prop-firms',
     pageType: 'core',
-    title: 'Best Prop Firms & Prop Trading Firms Directory (2026)',
+    title: 'List of Prop Trading Firms (2026): Compare Rules & Conditions | FundedTradingRules',
     metaDescription: 'Browse 24+ prop trading firms with verified rules, daily drawdown models, profit targets, payout consistency rules, and official contract citations.',
     canonicalUrl: `${BASE_URL}/prop-firms`,
     h1: 'Best Funded Accounts & Prop Firm Rules Directory: 24+ Verified Firms',
-    keywords: 'best funded accounts, prop trading firms, best prop firms, funded accounts directory, prop firm list 2026, prop firm reviews, prop firm rules comparison',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -99,11 +96,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/rules',
     pageType: 'core',
-    title: 'Prop Firm Trading Rules: Complete Guide & Calculation',
+    title: 'Prop Firm Trading Rules: Complete Guide & Calculation | FundedTradingRules',
     metaDescription: 'Comprehensive prop firm rules guide: trailing vs balance drawdown, 2-minute news buffers, 80% margin caps, IP clustering rules, and payout consistency requirements.',
     canonicalUrl: `${BASE_URL}/rules`,
     h1: 'Funded Rules Explained: Complete Prop Firm Trading Rules Guide (2026)',
-    keywords: 'funded rules, funded rules forex, funded account rules, prop firm rules explained, prop firm rules explained 2026, funded rules pdf, trading rules for funded accounts, prop firm trading rules, daily loss limit, maximum drawdown rules, prop firm traps',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -125,11 +121,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/compare',
     pageType: 'core',
-    title: 'Compare Prop Firms Side-by-Side: Drawdown & Fees',
+    title: 'Compare Prop Firms Side-by-Side: Drawdown & Fees | FundedTradingRules',
     metaDescription: 'Direct side-by-side comparison matrix for prop trading firms. Compare daily loss limits, trailing drawdown basis, news restrictions, and hidden traps.',
     canonicalUrl: `${BASE_URL}/compare`,
     h1: 'Side-by-Side Prop Firm Comparison Matrix',
-    keywords: 'compare funded accounts, prop firm comparison, funded account comparison, compare prop firms, best funded account comparison, prop trading firm comparison matrix',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -147,11 +142,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/wizard',
     pageType: 'core',
-    title: 'Prop Firm Matcher: Find Your Best Funded Account',
+    title: 'Prop Firm Matcher: Find Your Best Funded Account | FundedTradingRules',
     metaDescription: 'Interactive prop firm recommendation engine. Match your unique trading style, risk tolerance, and profit expectations with audited prop firm rules.',
     canonicalUrl: `${BASE_URL}/wizard`,
     h1: 'Personalized Prop Firm Strategy Matcher',
-    keywords: 'find funded account, best funded account for me, prop firm strategy matcher, swing trading prop firm, ea friendly prop firm, best prop firm quiz',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -169,11 +163,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/simulator',
     pageType: 'core',
-    title: 'Drawdown Risk Simulator: Test Rules Before Buying',
+    title: 'Drawdown Risk Simulator: Test Rules Before Buying | FundedTradingRules',
     metaDescription: 'Simulate intraday balance vs equity drawdowns, open lots, and trailing stops against verified prop firm risk boundaries before risking challenge fees.',
     canonicalUrl: `${BASE_URL}/simulator`,
     h1: 'Interactive Prop Firm Risk & Drawdown Simulator',
-    keywords: 'drawdown simulator, prop firm drawdown calculator, daily loss limit calculator, trailing drawdown calculator, prop firm risk calculator',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -191,11 +184,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/reviews',
     pageType: 'core',
-    title: 'Prop Firm Dispute Registry & Trader Reviews (2026)',
+    title: 'Prop Firm Reviews & Trader Dispute Registry (2026) | FundedTradingRules',
     metaDescription: 'Neutral dispute evidence registry. Real trader payout and breach complaints paired directly with official prop firm terms and verified outcomes.',
     canonicalUrl: `${BASE_URL}/reviews`,
     h1: 'Prop Firm Trader Dispute & Evidence Registry',
-    keywords: 'prop firm reviews, prop firm complaints, prop firm payout disputes, trader dispute registry, prop firm proof, scam prop firms list',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -213,11 +205,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/changes',
     pageType: 'core',
-    title: 'Prop Firm Rule Changes: Live Real-Time Audit Trail',
+    title: 'Prop Firm Rule Changes: Live Real-Time Audit Trail | FundedTradingRules',
     metaDescription: 'Real-time audit log of rule changes across all major prop firms. Track sudden drawdown adjustments, news bans, and consistency updates.',
     canonicalUrl: `${BASE_URL}/changes`,
     h1: 'Prop Firm Rule Changes & Audit Trail',
-    keywords: 'prop firm rule changes, prop firm news updates, prop firm policy updates 2026, prop firm rule updates, ftmo rule changes',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -235,11 +226,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/contact',
     pageType: 'core',
-    title: 'Contact Research Desk & Submit Rule Evidence',
+    title: 'Contact | FundedTradingRules',
     metaDescription: 'Reach the FundedTradingRules research desk to submit undocumented rule changes, dispute evidence, or editorial feedback.',
     canonicalUrl: `${BASE_URL}/contact`,
     h1: 'Contact FundedTradingRules Research Desk',
-    keywords: 'contact funded trading rules, submit prop firm rule change, prop firm editorial desk, dispute submission',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -257,11 +247,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/privacy',
     pageType: 'legal',
-    title: 'Privacy Policy — GDPR & CCPA Compliance | FundedTradingRules.com',
+    title: 'Privacy Policy | FundedTradingRules',
     metaDescription: 'Privacy policy for FundedTradingRules.com. Details on data collection, Google Consent Mode v2, cookie controls, GDPR rights, and data protection.',
     canonicalUrl: `${BASE_URL}/privacy`,
     h1: 'Privacy Policy',
-    keywords: 'funded trading rules privacy policy, gdpr compliance, ccpa notice',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -279,11 +268,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/terms',
     pageType: 'legal',
-    title: 'Terms of Service & Platform User Agreement',
+    title: 'Terms of Service | FundedTradingRules',
     metaDescription: 'Terms of service governing access to FundedTradingRules.com independent prop trading intelligence and simulation tools.',
     canonicalUrl: `${BASE_URL}/terms`,
     h1: 'Terms of Service',
-    keywords: 'funded trading rules terms of service, user agreement',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -301,11 +289,10 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/disclaimer',
     pageType: 'legal',
-    title: 'Risk & CFTC Rule 4.41 Regulatory Disclaimer',
+    title: 'Risk Disclaimer | FundedTradingRules',
     metaDescription: 'Comprehensive risk disclosure, simulated trading limitations, CFTC Rule 4.41 compliance, and proprietary evaluation warnings.',
     canonicalUrl: `${BASE_URL}/disclaimer`,
     h1: 'Risk & Regulatory Disclaimer',
-    keywords: 'cftc rule 4.41 disclaimer, prop trading risk disclosure, simulated trading disclaimer',
     lastmod: '2026-09-13',
     isIndexable: true,
     breadcrumbs: [
@@ -318,6 +305,78 @@ const CORE_ROUTES: RouteSEOData[] = [
         { name: 'Home', url: '/' },
         { name: 'Disclaimer', url: '/disclaimer' },
       ]),
+    ],
+  },
+  {
+    path: '/about',
+    pageType: 'legal',
+    title: 'About FundedTradingRules | Who We Are & Our Mission',
+    metaDescription: 'Learn about FundedTradingRules.com, our mission to document prop firm rules accurately, and why we built this intelligence platform.',
+    canonicalUrl: `${BASE_URL}/about`,
+    h1: 'About FundedTradingRules',
+    lastmod: '2026-09-13',
+    isIndexable: true,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'About', url: '/about' },
+    ],
+    schemaGraph: [
+      generateOrganizationSchema(),
+      generateBreadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'About', url: '/about' }]),
+    ],
+  },
+  {
+    path: '/methodology',
+    pageType: 'legal',
+    title: 'Research Methodology | How We Verify Prop Firm Rules',
+    metaDescription: 'Discover our rigorous research methodology for verifying, documenting, and updating proprietary trading firm rules and data.',
+    canonicalUrl: `${BASE_URL}/methodology`,
+    h1: 'Our Methodology',
+    lastmod: '2026-09-13',
+    isIndexable: true,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'Methodology', url: '/methodology' },
+    ],
+    schemaGraph: [
+      generateOrganizationSchema(),
+      generateBreadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'Methodology', url: '/methodology' }]),
+    ],
+  },
+  {
+    path: '/editorial-policy',
+    pageType: 'legal',
+    title: 'Editorial Policy | Independence & Objective Research',
+    metaDescription: 'Read our editorial policy outlining our commitment to independent, objective, and accurate proprietary trading rule documentation.',
+    canonicalUrl: `${BASE_URL}/editorial-policy`,
+    h1: 'Editorial Policy',
+    lastmod: '2026-09-13',
+    isIndexable: true,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'Editorial Policy', url: '/editorial-policy' },
+    ],
+    schemaGraph: [
+      generateOrganizationSchema(),
+      generateBreadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'Editorial Policy', url: '/editorial-policy' }]),
+    ],
+  },
+  {
+    path: '/affiliate-disclosure',
+    pageType: 'legal',
+    title: 'Affiliate Disclosure | How We Are Funded',
+    metaDescription: 'Complete transparency regarding our affiliate partnerships, commissions, and how FundedTradingRules.com remains free to use.',
+    canonicalUrl: `${BASE_URL}/affiliate-disclosure`,
+    h1: 'Affiliate Disclosure',
+    lastmod: '2026-09-13',
+    isIndexable: true,
+    breadcrumbs: [
+      { name: 'Home', url: '/' },
+      { name: 'Affiliate Disclosure', url: '/affiliate-disclosure' },
+    ],
+    schemaGraph: [
+      generateOrganizationSchema(),
+      generateBreadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'Affiliate Disclosure', url: '/affiliate-disclosure' }]),
     ],
   },
 ];
@@ -333,13 +392,12 @@ const FIRM_ROUTES: RouteSEOData[] = PROP_FIRMS_DATA.map(firm => {
   return {
     path: `/prop-firms/${firm.slug}`,
     pageType: 'firm',
-    title: `${firm.name} Rules, Drawdown & Payouts (2026) | Funded Rules`,
+    title: `${firm.name} Rules, Drawdown & Payouts (2026) | FundedTradingRules`,
     metaDescription: `Complete verified rules dossier for ${firm.name}. Drawdown calculation, consistency limits, news trading rules, lot size caps, and trader dispute record backed by official citations.`,
     canonicalUrl: `${BASE_URL}/prop-firms/${firm.slug}`,
     h1: `${firm.name} Rules & Evaluation Intelligence Dossier`,
     lastmod: firm.lastVerified || '2026-09-13',
     isIndexable: true,
-    keywords: `${firm.name} rules, ${firm.name} drawdown, ${firm.name} funded account, ${firm.name} payout rules, ${firm.name} consistency rule, ${firm.name} evaluation target, ${firm.name} trading rules 2026`,
     breadcrumbs,
     schemaGraph: [
       generateOrganizationSchema(),
@@ -413,13 +471,12 @@ const RULE_ROUTES: RouteSEOData[] = ALL_RULE_GUIDES.map(guide => {
   return {
     path: `/rules/${guide.slug}`,
     pageType: 'rule',
-    title: `${cleanName} Rules & Math | Funded Rules`,
+    title: `${cleanName} Rules & Math | FundedTradingRules`,
     metaDescription: `${guide.shortDefinition} Complete calculation formula, practical examples, common violation mistakes, and prop firms using this rule.`,
     canonicalUrl: `${BASE_URL}/rules/${guide.slug}`,
     h1: `${guide.name} — Prop Firm Rule Guide`,
     lastmod: '2026-09-13',
     isIndexable: true,
-    keywords: `${guide.name} prop firm, ${guide.name} rules, prop firm ${guide.name}, funded account ${guide.name}, how ${guide.name} works, avoid ${guide.name} breach`,
 
     breadcrumbs,
     schemaGraph: [
@@ -458,13 +515,12 @@ const COMPARE_ROUTES: RouteSEOData[] = CURATED_COMPARISONS.map(pair => {
   return {
     path: `/compare/${pair.slug}`,
     pageType: 'compare',
-    title: `${pair.firmAName} vs ${pair.firmBName}: Rules & Fees (2026)`,
+    title: `${pair.firmAName} vs ${pair.firmBName}: Rules & Fees (2026) | FundedTradingRules`,
     metaDescription: pair.metaDescription,
     canonicalUrl: `${BASE_URL}/compare/${pair.slug}`,
     h1: `${pair.firmAName} vs ${pair.firmBName}: Rules & Drawdown Compared`,
     lastmod: '2026-09-13',
     isIndexable: true,
-    keywords: `${pair.firmAName} vs ${pair.firmBName}, compare ${pair.firmAName} and ${pair.firmBName}, ${pair.firmAName} or ${pair.firmBName}, ${pair.firmAName} vs ${pair.firmBName} rules, ${pair.firmAName} vs ${pair.firmBName} drawdown, best funded account ${pair.firmAName} vs ${pair.firmBName}`,
 
     breadcrumbs,
     schemaGraph: [
@@ -494,7 +550,6 @@ const ATTRIBUTE_ROUTES: RouteSEOData[] = ATTRIBUTE_PAGES.map(attr => {
     h1: attr.h1,
     lastmod: '2026-09-13',
     isIndexable: true,
-    keywords: `${attr.h1.toLowerCase()}, prop firms ${attr.badge.toLowerCase()}, best funded accounts ${attr.badge.toLowerCase()}, prop trading firms ${attr.slug.replace('with-', '').replace(/-/g, ' ')}`,
 
     breadcrumbs,
     schemaGraph: [
@@ -551,7 +606,7 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
       return {
         path: cleanPath,
         pageType: 'compare',
-        title: `${firmA.name} vs ${firmB.name} Rules & Drawdown Comparison | FundedTradingRules.com`,
+        title: `${firmA.name} vs ${firmB.name} Rules & Drawdown Comparison | FundedTradingRules`,
         metaDescription: `Compare ${firmA.name} vs ${firmB.name} side-by-side: Daily loss limits, maximum drawdown mechanics, profit targets, payout frequency, and official terms citations.`,
         canonicalUrl: `${BASE_URL}${cleanPath}`,
         h1: `${firmA.name} vs ${firmB.name} Rules Comparison`,
@@ -587,7 +642,7 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
       return {
         path: cleanPath,
         pageType: 'account',
-        title: `${firm.name} ${accName} Account Rules & Drawdown Limits | FundedTradingRules.com`,
+        title: `${firm.name} ${accName} Account Rules & Drawdown Limits | FundedTradingRules`,
         metaDescription: `Verified evaluation rules for ${firm.name} ${accName}. Exact daily loss, maximum drawdown, profit split, and failure trigger math.`,
         canonicalUrl: `${BASE_URL}${cleanPath}`,
         h1: `${firm.name} — ${accName} Rules & Conditions`,

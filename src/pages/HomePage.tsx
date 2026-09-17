@@ -86,24 +86,24 @@ export const HomePage: React.FC<HomePageProps> = ({
 
   const homeFaqs = [
     {
-      q: 'What are funded rules & prop firm trading rules?',
-      a: 'Funded rules (also known as funded trading rules) are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms (prop firms) that traders must follow to pass evaluations and keep funded accounts. Core funded rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
+      q: 'What rules do prop trading firms enforce?',
+      a: 'Prop firm rules are the operational risk guidelines, profit objectives, and contractual trading restrictions set by proprietary trading firms that traders must follow to pass evaluations and keep funded accounts. Core prop firm rules include daily loss limits, maximum drawdown thresholds, news trading restrictions, consistency rules, and payout criteria.',
     },
     {
-      q: 'What are the most common prop firm trading rules and funded rules?',
-      a: 'The most common prop firm rules and funded rules include: (1) Daily Loss Limit (typically 3% to 5%), (2) Maximum Trailing or Static Drawdown (typically 6% to 10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
+      q: 'What are the most common prop firm trading restrictions?',
+      a: 'The most common prop firm rules include: (1) Daily Loss Limit (typically 3% to 5%), (2) Maximum Trailing or Static Drawdown (typically 6% to 10%), (3) Consistency Rules (limiting the percentage of profit earned on a single trading day), (4) News Trading Buffers (prohibiting execution ±2 minutes around red-folder releases), and (5) Minimum Trading Days requirements.',
     },
     {
-      q: 'How do daily drawdown rules work in funded accounts?',
+      q: 'How does the daily drawdown rule work at prop firms?',
       a: 'Daily loss limits cap the maximum equity or balance decline allowed in a single server day (usually resetting at 00:00 server time). In balance-based models, the floor is calculated from the day-start balance. In equity-based models, intraday open profits can pull the daily loss floor upwards, meaning open trades that retrace can trigger a daily drawdown breach.',
     },
     {
-      q: 'Why do traders fail funded rules?',
-      a: 'The vast majority of traders fail funded rules due to hidden rule mechanics rather than market analysis errors. Common pitfalls across funded rules include trailing drawdown on unrealized floating profit peaks, violating the 80% margin utilization cap, entering or closing trades within the 2-minute news buffer, and failing to meet weekend flat-position requirements.',
+      q: 'Why do traders fail prop firm evaluations?',
+      a: 'Traders most commonly fail prop firm rules by misunderstanding trailing drawdown mechanics, accidentally holding trades through restricted high-impact news events, triggering hard consistency rules that invalidate their profits, or failing to lock in profits before the end of the server day, which resets daily equity loss floors.',
     },
     {
-      q: 'What is the difference between soft breach and hard breach funded rules?',
-      a: 'In funded rules, a hard breach (such as exceeding the daily loss limit or maximum overall drawdown) immediately liquidates all positions and closes the funded account. A soft breach (such as leaving a trade open over the weekend or a minor lot size breach) automatically closes the offending trade or cancels profits from that trade without terminating the challenge account.',
+      q: 'What is the difference between soft breach and hard breach prop firm rules?',
+      a: 'A hard breach (such as exceeding the daily loss limit or maximum overall drawdown) immediately liquidates all positions and closes the funded account. A soft breach (such as leaving a trade open over the weekend or a minor lot size breach) automatically closes the offending trade or cancels profits from that trade without terminating the challenge account.',
     },
   ];
 
@@ -183,18 +183,16 @@ export const HomePage: React.FC<HomePageProps> = ({
                   Evidence-backed
                 </span>
                 <span className="inline-flex items-center h-7 px-2.5 rounded-full bg-[#111318] border border-[#1F2228] text-[10px] font-medium tracking-[0.08em] uppercase text-white/70">
-                  No affiliate bias
+                  Rankings based on documented data
                 </span>
               </div>
 
               <h1 className="mt-5 text-[30px] sm:text-[38px] lg:text-[42px] xl:text-[46px] font-bold tracking-[-0.032em] leading-[1.05] text-white">
-                Funded Rules &amp; Prop Firm Trading Rules:{' '}
-                <span className="block text-[#3b82f6]">Know every rule</span>{' '}
-                before you buy the challenge.
+                Compare Prop Firm Rules Before You Buy a Challenge
               </h1>
 
               <p className="mt-4 text-[14px] sm:text-[15px] leading-relaxed text-white/60 max-w-[500px]">
-                Independent funded rules and prop firm intelligence. Compare verified trailing drawdowns, daily loss limits, news restrictions, consistency rules, and payout policies across 24 leading proprietary trading firms.
+                Independent prop firm intelligence. Compare verified trailing drawdowns, daily loss limits, news restrictions, consistency rules, and payout policies across {PROP_FIRMS_DATA.length} leading proprietary trading firms.
               </p>
 
               <div className="mt-6 flex flex-col sm:flex-row sm:flex-wrap items-stretch sm:items-center gap-2.5">
@@ -506,11 +504,11 @@ export const HomePage: React.FC<HomePageProps> = ({
               <BookOpen className="w-3 h-3" /> Core Rules Intelligence
             </div>
             <h2 className="text-[22px] sm:text-[28px] font-bold tracking-tight text-white leading-tight">
-              Funded Rules: The Complete Prop Firm Evaluation Guide
+              The Complete Prop Firm Evaluation Guide
             </h2>
             <p className="text-sm leading-relaxed text-white/50 max-w-3xl">
               Proprietary trading firms evaluate traders using strict risk limits and contractual boundaries.
-              Whether taking a 1-step, 2-step, or instant evaluation challenge, mastering these core funded rules and prop firm trading rules
+              Whether taking a 1-step, 2-step, or instant evaluation challenge, mastering these core prop firm trading rules
               protects your challenge fees from unexpected breaches.
             </p>
           </div>
@@ -639,7 +637,7 @@ export const HomePage: React.FC<HomePageProps> = ({
               <HelpCircle className="w-3.5 h-3.5 text-emerald-400" /> Knowledge Base
             </div>
             <h2 className="text-[20px] sm:text-[24px] font-bold tracking-tight text-white">
-              Frequently Asked Questions About Funded Rules &amp; Prop Firms
+              Frequently Asked Questions About Prop Firm Rules
             </h2>
             <p className="text-xs sm:text-sm text-white/40 leading-relaxed max-w-2xl">
               Everything you need to know about passing proprietary trading challenges and maintaining funded accounts.
@@ -685,7 +683,7 @@ export const HomePage: React.FC<HomePageProps> = ({
                 Why traders trust us
               </div>
               <h3 className="text-[16px] sm:text-[18px] font-semibold tracking-tight text-white">Built for clarity, not hype.</h3>
-              <p className="text-sm leading-relaxed text-white/40 mt-2">No affiliate rankings. No paid placements. Every rule shows its source, every drawdown shows its math, every trader claim stays separate from official terms.</p>
+              <p className="text-sm leading-relaxed text-white/40 mt-2">Rankings based on documented rules and data. See our affiliate disclosure. Every rule shows its source, every drawdown shows its math, every trader claim stays separate from official terms.</p>
             </div>
             <div className="relative flex flex-wrap gap-2 lg:justify-end">
               <span className="inline-flex items-center gap-1.5 px-3.5 py-2.5 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-mono text-white/60 min-h-[44px]">

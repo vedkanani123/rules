@@ -3,6 +3,7 @@ import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
 import { SourceEvidence, PropFirm } from '../types/schema.ts';
 import { ReviewCard } from '../components/reviews/ReviewCard.tsx';
 import { RiskSimulator } from '../components/simulator/RiskSimulator.tsx';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 import {
   ExternalLink,
   CheckCircle2,
@@ -2885,9 +2886,16 @@ export const GoatRulesDemoPage: React.FC<GoatRulesDemoPageProps> = ({
           <div className="flex items-start gap-4">
             <div className="w-14 h-14 rounded-2xl bg-white p-1.5 flex items-center justify-center shrink-0 shadow-md">
               <img
-                src={firm.logoUrl || firm.countryFlag}
+                src={firm.logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                 alt={firm.name}
                 className="w-full h-full object-contain"
+                onError={(e) => {
+                  const target = e.currentTarget as HTMLImageElement;
+                  const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                  if (target.src !== fallback) {
+                    target.src = fallback;
+                  }
+                }}
               />
             </div>
             <div className="space-y-1">

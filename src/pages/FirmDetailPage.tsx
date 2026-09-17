@@ -5,6 +5,7 @@ import { RiskSimulator } from '../components/simulator/RiskSimulator.tsx';
 import { RulesAccordion } from '../components/rules/RulesAccordion.tsx';
 import { RulesQuickView } from '../components/rules/RulesQuickView.tsx';
 import { buildParameterRules } from '../core/pipeline/parameterRules.ts';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 import {
   ExternalLink,
   Building,
@@ -502,14 +503,16 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
           <div className="flex items-start gap-3 sm:gap-4 min-w-0">
             <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-2xl bg-white border border-[#1F2228] flex items-center justify-center overflow-hidden shadow-sm shrink-0 p-1.5">
               <img
-                src={(firm as any).logoUrl || firm.countryFlag}
+                src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                 alt={firm.name}
                 className="w-full h-full object-contain"
                 loading="lazy"
                 onError={(e) => {
                   const el = e.currentTarget as HTMLImageElement;
-                  el.onerror = null;
-                  el.src = firm.countryFlag;
+                  const fallback = getFirmLogoUrl(firm.slug, firm.name);
+                  if (el.src !== fallback) {
+                    el.src = fallback;
+                  }
                 }}
               />
             </div>

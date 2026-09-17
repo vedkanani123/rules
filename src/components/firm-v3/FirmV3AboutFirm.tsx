@@ -133,7 +133,7 @@ export const FirmV3AboutFirm: React.FC<FirmV3AboutFirmProps> = ({
               Verified Official Promos
             </span>
             <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 font-semibold">
-              Live Verified
+              Last Updated
             </span>
           </div>
 
