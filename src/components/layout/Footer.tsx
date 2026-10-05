@@ -131,6 +131,32 @@ export const Footer: React.FC<FooterProps> = () => {
           ))}
         </div>
 
+        {/* All Prop Firm Dossiers Strip */}
+        <div className="mt-4 pt-4 border-t border-[#1F2228]/60 text-xs text-[#8A8F98]">
+          <span className="font-semibold text-white/70 mr-2">All Prop Firm Dossiers:</span>
+          {firms.map((firm, idx) => (
+            <React.Fragment key={firm.id}>
+              {idx > 0 && <span className="text-white/20 mx-1.5">•</span>}
+              <Link href={`/prop-firms/${firm.slug}`} className="hover:text-white transition-colors">
+                {firm.name}
+              </Link>
+            </React.Fragment>
+          ))}
+        </div>
+
+        {/* Popular Rule Guides Strip */}
+        <div className="mt-4 pt-4 border-t border-[#1F2228]/60 text-xs text-[#8A8F98]">
+          <span className="font-semibold text-white/70 mr-2">Popular Rule Guides:</span>
+          {RULE_GUIDES.slice(0, 12).map((guide, idx) => (
+            <React.Fragment key={guide.slug}>
+              {idx > 0 && <span className="text-white/20 mx-1.5">•</span>}
+              <Link href={`/rules/${guide.slug}`} className="hover:text-white transition-colors">
+                {guide.name}
+              </Link>
+            </React.Fragment>
+          ))}
+        </div>
+
         {/* Bottom Bar */}
         <div className="mt-8 pt-6 border-t border-[#1F2228] flex flex-col sm:flex-row justify-between items-center gap-3 text-xs text-[#9CA3AF]">
           <div>

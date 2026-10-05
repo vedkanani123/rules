@@ -44,7 +44,7 @@ export const SHARK_FUNDED: PropFirm = {
   helpCenterUrl: `${HELP}/`,
   headquarters: 'Gros-Islet, Saint Lucia',
   country: 'LC',
-  countryFlag: '',
+  countryFlag: 'https://flagcdn.com/w80/lc.png',
   logoUrl: '/sharkfunded-logo.png',
   foundedYear: 2023,
   ceoName: 'Not publicly stated',

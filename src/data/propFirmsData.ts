@@ -14,6 +14,7 @@ import { ATMOS_FUNDED } from './atmosFunded.ts';
 import { BLUE_GUARDIAN } from './blueGuardian.ts';
 import { FUNDED_TRADING_PLUS } from './fundedTradingPlus.ts';
 import { REMAINING_FIRMS } from './remainingFirms.ts';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 
 export const PROP_FIRMS_DATA: PropFirm[] = [
   {
@@ -26,8 +27,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     helpCenterUrl: 'https://help.goatfundedtrader.com/en/',
     headquarters: 'Hong Kong & Saint Lucia',
     country: 'Hong Kong',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/lc.png',
+    logoUrl: '/goat-brand-logo.png',
     foundedYear: 2023,
     ceoName: 'Edoardo Dalla Torre',
     status: 'ACTIVE',
@@ -1749,8 +1750,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     helpCenterUrl: 'https://ftmo.com/en/faq/',
     headquarters: 'Prague, Czech Republic',
     country: 'Czech Republic',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/cz.png',
+    logoUrl: '/logos/ftmo.svg',
     foundedYear: 2015,
     ceoName: 'Otakar Šuffner',
     status: 'ACTIVE',
@@ -1863,8 +1864,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     supportUrl: 'https://fundingpips.com/contact',
     headquarters: 'Dubai, UAE',
     country: 'United Arab Emirates',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/ae.png',
+    logoUrl: '/logos/funding-pips.svg',
     foundedYear: 2022,
     ceoName: 'Khaled Aref',
     status: 'ACTIVE',
@@ -1959,8 +1960,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     helpCenterUrl: 'https://fundednext.com/general-rules/cfds/trading-objectives',
     headquarters: 'Ajman, UAE & Hong Kong & Limassol, Cyprus',
     country: 'United Arab Emirates',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/ae.png',
+    logoUrl: '/logos/fundednext.svg',
     foundedYear: 2022,
     ceoName: 'Syed Abdullah Jayed',
     status: 'ACTIVE',
@@ -4552,8 +4553,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     supportUrl: 'https://the5ers.com/contact',
     headquarters: 'Ra\'anana, Israel & London, UK',
     country: 'United Kingdom',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/il.png',
+    logoUrl: '/logos/the-5ers.svg',
     foundedYear: 2016,
     ceoName: 'Saul Lokier',
     status: 'ACTIVE',
@@ -4656,8 +4657,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     supportUrl: 'https://topstep.com/contact',
     headquarters: 'Chicago, Illinois, USA',
     country: 'United States',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/us.png',
+    logoUrl: '/logos/topstep.webp',
     foundedYear: 2012,
     ceoName: 'Michael Patak',
     status: 'ACTIVE',
@@ -4794,7 +4795,7 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     supportUrl: 'https://takeprofittrader.com/contact',
     headquarters: 'Orlando, Florida, USA',
     country: 'United States',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/us.png',
     logoUrl: 'https://takeprofittrader.com/assets/desktop-logo.svg',
     foundedYear: 2021,
     ceoName: 'James Sixsmith',
@@ -4896,8 +4897,8 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
     supportUrl: 'https://apextraderfunding.com/contact',
     headquarters: 'Austin, Texas, USA',
     country: 'United States',
-    countryFlag: '',
-    logoUrl: '',
+    countryFlag: 'https://flagcdn.com/w80/us.png',
+    logoUrl: '/logos/apex-trader-funding.png',
     foundedYear: 2021,
     ceoName: 'Darrell Martin',
     status: 'ACTIVE',
@@ -5006,6 +5007,9 @@ export const PROP_FIRMS_DATA: PropFirm[] = [
 // Firms without clause-level rules get honest parameter-derived rules (INFERENCE
 // evidence, clause citation pending) so no dossier page ever renders empty.
 PROP_FIRMS_DATA.forEach((firm) => {
+  if (!firm.logoUrl || firm.logoUrl.trim() === '') {
+    firm.logoUrl = getFirmLogoUrl(firm.slug, firm.name);
+  }
   if (firm.rules.length === 0) {
     try {
       firm.rules = buildParameterRules(firm);

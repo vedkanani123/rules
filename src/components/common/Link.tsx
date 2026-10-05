@@ -38,6 +38,7 @@ export const Link: React.FC<LinkProps> = ({
     }
 
     e.preventDefault();
+    e.stopPropagation();
 
     if (window.location.pathname + window.location.search + window.location.hash !== href) {
       window.history.pushState({}, '', href);

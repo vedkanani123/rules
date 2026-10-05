@@ -35,7 +35,7 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
     firmAName: 'FTMO',
     firmBName: 'Topstep',
     title: 'FTMO vs Topstep Rules & Drawdown Comparison (2026)',
-    metaDescription: 'Direct side-by-side rule comparison: FTMO (Forex/CFD static drawdown) vs Topstep (Futures intraday trailing drawdown). Target, daily loss, and payout rules compared.',
+    metaDescription: 'Side-by-side rule comparison: FTMO (static balance drawdown) vs Topstep (Futures EOD trailing drawdown). Targets, daily loss, and payout rules compared.',
     verdict: 'FTMO is best for Forex/CFD swing and day traders wanting static balance drawdown. Topstep is the premier choice for CME/CBOT futures day traders seeking rapid scaling and exchange compliance.',
     keyDifferences: [
       {
@@ -65,7 +65,7 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
     firmAName: 'FTMO',
     firmBName: 'Funding Pips',
     title: 'FTMO vs Funding Pips Rules & Fees Comparison (2026)',
-    metaDescription: 'Compare FTMO vs Funding Pips: Evaluation targets (8% vs 10%), balance-based daily loss rules, payout frequency, and pricing side-by-side with verified evidence.',
+    metaDescription: 'Compare FTMO vs Funding Pips: evaluation targets (8% vs 10%), balance-based daily loss rules, payout frequency, and challenge fees with verified evidence.',
     verdict: 'Funding Pips provides significantly lower entry prices ($32 for 5k vs FTMO €155 minimum) with lower phase targets (8%/5%), while FTMO offers superior operational longevity, DXtrade/cTrader options, and higher institutional trust.',
     keyDifferences: [
       {
@@ -147,7 +147,7 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
     firmAName: 'Apex Trader Funding',
     firmBName: 'Topstep',
     title: 'Apex Trader Funding vs Topstep: Futures Rules Compared (2026)',
-    metaDescription: 'Detailed futures prop firm comparison: Apex Trader Funding vs Topstep. Intraday trailing drawdown vs End-of-Day trailing, payout thresholds, and contract limits.',
+    metaDescription: 'Futures prop firm comparison: Apex Trader Funding vs Topstep. Compare intraday vs End-of-Day trailing drawdown, payout rules, and contract scaling limits.',
     verdict: 'Topstep provides a safer End-of-Day (EOD) trailing drawdown and free activation fees on TradingView, while Apex Trader Funding offers higher account allocations (up to 20 accounts) with deep promotional discounts.',
     keyDifferences: [
       {
@@ -254,8 +254,8 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
     firmBSlug: 'funding-pips',
     firmAName: 'FundedNext',
     firmBName: 'Funding Pips',
-    title: 'FundedNext vs Funding Pips Rules & Profit Split Comparison (2026)',
-    metaDescription: 'Compare FundedNext vs Funding Pips: 15% evaluation profit split vs weekly payouts, balance-based daily loss rules, challenge pricing, and consistency requirements.',
+    title: 'FundedNext vs Funding Pips Rules & Profit Split (2026)',
+    metaDescription: 'Compare FundedNext vs Funding Pips: 15% evaluation profit bonus vs weekly payouts, balance-based daily loss limits, challenge fees, and consistency rules.',
     verdict: 'FundedNext stands out with a 15% profit bonus earned during challenge phases and diverse evaluation models, while Funding Pips provides industry-leading low challenge fees, 1-day minimum trading, and fast weekly payouts without consistency traps.',
     keyDifferences: [
       {
@@ -285,7 +285,7 @@ export const CURATED_COMPARISONS: ComparisonPair[] = [
     firmAName: 'Take Profit Trader',
     firmBName: 'Topstep',
     title: 'Take Profit Trader vs Topstep: Futures Rules & Payouts (2026)',
-    metaDescription: 'Compare Take Profit Trader vs Topstep: Day-1 immediate payout eligibility vs 50% consistency rules, intraday vs End-of-Day trailing drawdowns, and futures platform fees.',
+    metaDescription: 'Compare Take Profit Trader vs Topstep: Day-1 payout eligibility vs 50% consistency rule, intraday vs End-of-Day trailing drawdown, and futures fees.',
     verdict: 'Take Profit Trader allows day-one payout withdrawals with Pro+ accounts and zero minimum trading days, whereas Topstep provides a safer End-of-Day trailing drawdown, free TradingView activation, and institutional CME education.',
     keyDifferences: [
       {
@@ -324,14 +324,19 @@ export function getComparisonPairData(slug: string): ComparisonPair | null {
   const firmB = PROP_FIRMS_DATA.find(f => f.slug === slugB);
   if (!firmA || !firmB) return null;
 
+  const fullDynamicTitle = `${firmA.name} vs ${firmB.name}: Rules & Drawdown (2026)`;
+  const dynamicTitle = fullDynamicTitle.length <= 65
+    ? fullDynamicTitle
+    : `${firmA.name} vs ${firmB.name} Rules Compared`;
+
   return {
     slug,
     firmASlug: firmA.slug,
     firmBSlug: firmB.slug,
     firmAName: firmA.name,
     firmBName: firmB.name,
-    title: `${firmA.name} vs ${firmB.name} Rules & Drawdown Comparison`,
-    metaDescription: `Compare ${firmA.name} vs ${firmB.name} side by side: Daily loss limits, maximum drawdown mechanics, profit targets, payout frequency, and official terms citations.`,
+    title: dynamicTitle,
+    metaDescription: `Compare ${firmA.name} vs ${firmB.name} side by side: daily loss limits, max drawdown rules, profit targets, payout splits, and official citations.`,
     verdict: `${firmA.name} and ${firmB.name} offer distinct trading terms. Compare their drawdown mechanics, news trading restrictions, and payout rules below to find the best match.`,
     keyDifferences: [
       {

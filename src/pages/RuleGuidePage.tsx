@@ -70,6 +70,25 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug }) => {
     apex: 'apex-trader-funding',
     'take profit trader': 'take-profit-trader',
     'alpha capital': 'alpha-capital',
+    'alpha capital group': 'alpha-capital',
+    'e8 markets': 'e8-markets',
+    'moneta funded': 'moneta-funded',
+    brightfunded: 'bright-funded',
+    'bright funded': 'bright-funded',
+    'lark funding': 'lark-funding',
+    aquafunded: 'aqua-funded',
+    'aqua funded': 'aqua-funded',
+    'atmos funded': 'atmos-funded',
+    'blue guardian': 'blue-guardian',
+    'funded trading plus': 'funded-trading-plus',
+    'crypto fund trader': 'crypto-fund-trader',
+    'for traders': 'for-traders',
+    fundedelite: 'funded-elite',
+    'funded elite': 'funded-elite',
+    'hola prime': 'hola-prime',
+    'maven trading': 'maven-trading',
+    'top one trader': 'top-one-trader',
+    'shark funded': 'shark-funded',
   };
   const primaryFirmName = guide.firmsUsing?.[0]?.firmName ?? '';
   const primaryFirmSlug = FIRM_SLUG_MAP[primaryFirmName.trim().toLowerCase()] ?? '';
@@ -261,15 +280,19 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug }) => {
               <div>
                 <h3 className="text-sm font-semibold text-white">Firms using this rule</h3>
                 <div className="flex flex-wrap gap-2 mt-2">
-                  {guide.firmsUsing.map((f) => (
-                    <span
-                      key={f.firmName}
-                      className="px-3 py-1.5 rounded-full bg-[#080A10] border border-[#1F2228] text-xs text-white/60"
-                    >
-                      <Building className="w-3 h-3 inline mr-1" />
-                      {f.firmName} <span className="text-white/30">•</span> {f.modelVariation.slice(0, 32)}
-                    </span>
-                  ))}
+                  {guide.firmsUsing.map((f) => {
+                    const slug = FIRM_SLUG_MAP[f.firmName.trim().toLowerCase()];
+                    return (
+                      <Link
+                        key={f.firmName}
+                        href={slug ? `/prop-firms/${slug}` : '/prop-firms'}
+                        className="px-3 py-1.5 rounded-full bg-[#080A10] border border-[#1F2228] text-xs text-white/60 hover:text-white hover:border-sky-500/30 transition-colors"
+                      >
+                        <Building className="w-3 h-3 inline mr-1" />
+                        {f.firmName} <span className="text-white/30">•</span> {f.modelVariation.slice(0, 32)}
+                      </Link>
+                    );
+                  })}
                 </div>
               </div>
               <Link
@@ -278,6 +301,44 @@ export const RuleGuidePage: React.FC<RuleGuidePageProps> = ({ guideSlug }) => {
               >
                 Compare firms →
               </Link>
+            </section>
+
+            {/* Visible FAQ Section matching RULE_ROUTES FAQPage JSON-LD */}
+            <section className="rounded-2xl bg-[#111318] border border-[#1F2228] p-6 sm:p-8 space-y-5">
+              <div>
+                <p className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] mb-1">
+                  Rule FAQ
+                </p>
+                <h2 className="text-[15px] font-semibold text-white">
+                  Frequently Asked Questions: {guide.name}
+                </h2>
+              </div>
+              <div className="space-y-3">
+                <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-1.5">
+                  <h3 className="text-xs font-semibold text-white">
+                    What is the {guide.name}?
+                  </h3>
+                  <p className="text-[13px] leading-relaxed text-white/60">
+                    {guide.shortDefinition}
+                  </p>
+                </div>
+                <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-1.5">
+                  <h3 className="text-xs font-semibold text-white">
+                    How is {guide.name} calculated across prop firms?
+                  </h3>
+                  <p className="text-[13px] leading-relaxed text-white/60">
+                    {guide.formula || guide.detailedExplanation}
+                  </p>
+                </div>
+                <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-1.5">
+                  <h3 className="text-xs font-semibold text-white">
+                    What are the most common mistakes traders make with {guide.name}?
+                  </h3>
+                  <p className="text-[13px] leading-relaxed text-white/60">
+                    {(guide.commonMistakes || []).join(' ')}
+                  </p>
+                </div>
+              </div>
             </section>
 
             {relatedGuides.length > 0 && (

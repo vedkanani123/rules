@@ -193,6 +193,9 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPath, onOpenSearch }) => 
                 <img
                   src={(f as any).logoUrl || getFirmLogoUrl(f.slug, f.name)}
                   alt={f.name}
+                  width={20}
+                  height={20}
+                  loading="lazy"
                   className="w-5 h-5 rounded object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0"
                   onError={(e) => {
                     const target = e.currentTarget as HTMLImageElement;

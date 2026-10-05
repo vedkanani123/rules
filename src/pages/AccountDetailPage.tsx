@@ -6,6 +6,8 @@ import { ShieldAlert, ArrowLeft, Receipt, Wallet, Calculator, Info, FileCheck2 }
 import { calculateAllInCost } from '../core/calculator/engine.ts';
 import { ruleAppliesToProgram } from '../core/pipeline/parameterRules.ts';
 import { SameTradeVisual } from '../components/comparison/SameTradeVisual.tsx';
+import { Link } from '../components/common/Link.tsx';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 
 interface AccountDetailPageProps {
   firm: PropFirm;
@@ -322,25 +324,44 @@ export const AccountDetailPage: React.FC<AccountDetailPageProps> = ({ firm, acco
   const scopedClauseRules = firm.rules.filter((r) =>
     ruleAppliesToProgram(r, accountProgram?.programType, accountProgram?.slug)
   );
+  const baseAccountTitle = account.name.toLowerCase().includes(firm.name.toLowerCase())
+    ? account.name
+    : `${firm.name} ${account.name}`;
+  const siblingAccounts = firm.programs.flatMap((p) => p.accounts);
 
   return (
     <div className="bg-[#080A10] min-h-screen">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
         {/* Eyebrow */}
         <div className="pt-10 sm:pt-12 pb-8 border-b border-[#1F2228]">
-          <button onClick={() => onNavigate(`/prop-firms/${firm.slug}`)} className="inline-flex items-center gap-1.5 text-[13px] text-[#8A8F98] hover:text-white transition-colors min-h-[44px] px-2 -mx-2 rounded-xl mb-4">
-            <ArrowLeft className="w-4 h-4 shrink-0" />
-            <span>Back to {firm.name} Dossier</span>
-          </button>
+          <nav aria-label="Breadcrumb">
+            <Link href={`/prop-firms/${firm.slug}`} className="inline-flex items-center gap-1.5 text-[13px] text-[#8A8F98] hover:text-white transition-colors min-h-[44px] px-2 -mx-2 rounded-xl mb-4">
+              <ArrowLeft className="w-4 h-4 shrink-0" />
+              <span>Back to {firm.name} Dossier</span>
+            </Link>
+          </nav>
           <p className="text-[11px] tracking-[0.14em] uppercase font-medium text-[#8A8F98] mb-3">THE DOSSIER — ACCOUNT DEEP-DIVE</p>
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
-            <div>
-              <div className="flex flex-wrap items-center gap-2 mb-2">
-                <span className="text-[11px] font-bold px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-white">{firm.name}</span>
-                <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98]">Account deep-dive</span>
+            <div className="flex items-start gap-4">
+              <div className="w-14 h-14 rounded-2xl bg-[#111318] border border-[#1F2228] flex items-center justify-center p-2 shrink-0">
+                <img
+                  src={firm.logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
+                  alt={`${firm.name} logo`}
+                  width={40}
+                  height={40}
+                  className="w-full h-full object-contain"
+                />
               </div>
-              <h1 className="text-[26px] sm:text-[36px] font-semibold text-white tracking-tight leading-tight">{account.name}</h1>
-              <p className="text-[13px] text-[#8A8F98] mt-2 max-w-2xl">Exact dollar thresholds, breach math, and verified sources for this tier.</p>
+              <div>
+                <div className="flex flex-wrap items-center gap-2 mb-2">
+                  <span className="text-[11px] font-bold px-2.5 py-1 rounded-full bg-[#111318] border border-[#1F2228] text-white">{firm.name}</span>
+                  <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98]">Account deep-dive</span>
+                </div>
+                <h1 className="text-[26px] sm:text-[36px] font-semibold text-white tracking-tight leading-tight">
+                  {baseAccountTitle} Account Rules
+                </h1>
+                <p className="text-[13px] text-[#8A8F98] mt-2 max-w-2xl">Exact dollar thresholds, breach math, and verified sources for this tier.</p>
+              </div>
             </div>
             <div className="shrink-0 bg-[#111318] border border-[#1F2228] rounded-2xl p-4 min-w-[180px]">
               <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] block">Registration Fee</span>
@@ -397,7 +418,7 @@ export const AccountDetailPage: React.FC<AccountDetailPageProps> = ({ firm, acco
                 <div className="flex items-center gap-3">
                   <span className="w-9 h-9 rounded-xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center"><Receipt className="w-4 h-4 text-emerald-400" /></span>
                   <div>
-                    <h3 className="text-sm font-semibold text-white tracking-tight">All-In Cost to First Payout</h3>
+                    <h2 className="text-sm font-semibold text-white tracking-tight">All-In Cost to First Payout</h2>
                     <p className="text-xs text-white/40 mt-0.5">Sticker price vs real cost — All-In Quantitative Fee Model</p>
                   </div>
                 </div>
@@ -490,7 +511,7 @@ export const AccountDetailPage: React.FC<AccountDetailPageProps> = ({ firm, acco
         <section className="mt-8 space-y-3">
           <div className="text-center">
             <p className="text-[11px] tracking-[0.14em] uppercase font-medium text-[#8A8F98]">SIGNATURE VISUAL</p>
-            <h3 className="text-[18px] font-semibold text-white tracking-tight mt-1">Same trade, different fate — see why</h3>
+            <h2 className="text-[18px] font-semibold text-white tracking-tight mt-1">Same trade, different fate — see why</h2>
             <p className="text-[13px] text-[#8A8F98] max-w-2xl mx-auto">
               This +1.8% win (+${Math.round(account.nominalSize * 0.018).toLocaleString()}) followed by a -0.5% loss with an intraday dip is replayed against each program's real drawdown math.
             </p>
@@ -526,6 +547,129 @@ export const AccountDetailPage: React.FC<AccountDetailPageProps> = ({ firm, acco
             {scopedClauseRules.map((rule) => (
               <RuleCard key={rule.id} rule={rule} onOpenSource={onOpenSource} />
             ))}
+          </div>
+        </section>
+
+        {/* Visible FAQ Section */}
+        <section className="mt-10 rounded-2xl bg-[#111318] border border-[#1F2228] p-6 sm:p-8 space-y-6">
+          <div className="space-y-1">
+            <p className="text-[11px] tracking-[0.14em] uppercase font-medium text-[#8A8F98]">ACCOUNT FAQ</p>
+            <h2 className="text-[20px] font-semibold text-white">
+              Frequently Asked Questions: {firm.name} {account.name} Rules
+            </h2>
+          </div>
+          <div className="space-y-4">
+            <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-2">
+              <h3 className="text-sm font-semibold text-white">
+                What are the {firm.name} {account.name} account rules?
+              </h3>
+              <p className="text-[13px] text-[#8A8F98] leading-relaxed">
+                The {firm.name} {account.name} (${account.nominalSize.toLocaleString()} nominal capital) enforces a{' '}
+                {account.dailyLossLimit > 0 ? `${account.dailyLossLimit}% daily loss limit` : 'no daily loss limit'}, a{' '}
+                {account.maxTotalLoss}% {account.drawdownType.replace(/_/g, ' ')} maximum drawdown,{' '}
+                {account.profitTargetPhase1
+                  ? `a ${account.profitTargetPhase1}% Phase 1 profit target${
+                      account.profitTargetPhase2 ? ` and ${account.profitTargetPhase2}% Phase 2 target` : ''
+                    }`
+                  : 'instant funding with no evaluation profit target'}
+                , and {account.minimumTradingDays} minimum trading days.
+              </p>
+            </div>
+            <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-2">
+              <h3 className="text-sm font-semibold text-white">
+                How is drawdown calculated on the {firm.name} {account.name} account?
+              </h3>
+              <p className="text-[13px] text-[#8A8F98] leading-relaxed">
+                {account.dailyLossLimit > 0
+                  ? `Daily drawdown is ${account.dailyLossLimit}% ($${(
+                      (account.nominalSize * account.dailyLossLimit) /
+                      100
+                    ).toLocaleString()}) calculated via ${account.dailyLossCalculation.replace(/_/g, ' ')}. `
+                  : 'This tier has no daily drawdown cap; only the lifetime maximum loss limit applies. '}
+                Maximum total loss is {account.maxTotalLoss}% ($
+                {((account.nominalSize * account.maxTotalLoss) / 100).toLocaleString()}) enforced as{' '}
+                {account.drawdownType.replace(/_/g, ' ')} from the ${account.nominalSize.toLocaleString()} starting balance.
+              </p>
+            </div>
+            <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-2">
+              <h3 className="text-sm font-semibold text-white">
+                What is the profit split and minimum trading days for {firm.name} {account.name}?
+              </h3>
+              <p className="text-[13px] text-[#8A8F98] leading-relaxed">
+                Traders receive a {account.profitSplit}% base profit split
+                {account.profitSplitMaxWithAddon ? ` (up to ${account.profitSplitMaxWithAddon}% with add-on)` : ''}{' '}
+                paid on a {account.payoutFrequency.toLowerCase()} cycle, with {account.minimumTradingDays} minimum
+                trading days required per evaluation phase.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        {/* Crawlable Sibling Account Tiers & Related Rule Guides */}
+        <section className="mt-8 rounded-2xl bg-[#111318] border border-[#1F2228] p-6 sm:p-8 space-y-6">
+          <div className="space-y-3">
+            <h2 className="text-base font-semibold text-white">
+              All {firm.name} Account Tiers &amp; Sizes
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              {siblingAccounts.map((sib) => (
+                <Link
+                  key={sib.id}
+                  href={`/prop-firms/${firm.slug}/accounts/${sib.id}`}
+                  className={`px-3 py-1.5 rounded-xl text-xs font-medium border transition-colors ${
+                    sib.id === account.id
+                      ? 'bg-white text-[#080A10] border-white font-semibold'
+                      : 'bg-[#080A10] text-[#8A8F98] border-[#1F2228] hover:text-white hover:border-white/30'
+                  }`}
+                >
+                  {sib.name} (${sib.nominalSize.toLocaleString()})
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          <div className="pt-4 border-t border-[#1F2228] space-y-3">
+            <h3 className="text-xs font-semibold uppercase tracking-wider text-[#8A8F98]">
+              Related Rule Guides &amp; Tools
+            </h3>
+            <div className="flex flex-wrap gap-2">
+              <Link
+                href={`/prop-firms/${firm.slug}`}
+                className="px-3 py-1.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-xs text-sky-400 hover:text-sky-300 transition-colors"
+              >
+                {firm.name} Complete Rulebook →
+              </Link>
+              <Link
+                href="/rules/daily-drawdown"
+                className="px-3 py-1.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98] hover:text-white transition-colors"
+              >
+                Daily Drawdown Guide
+              </Link>
+              <Link
+                href="/rules/consistency-rule"
+                className="px-3 py-1.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98] hover:text-white transition-colors"
+              >
+                Consistency Rule Guide
+              </Link>
+              <Link
+                href="/rules/lot-size-limits"
+                className="px-3 py-1.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98] hover:text-white transition-colors"
+              >
+                Lot Size &amp; Exposure Limits
+              </Link>
+              <Link
+                href="/rules/hidden-conditions"
+                className="px-3 py-1.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98] hover:text-white transition-colors"
+              >
+                Hidden Conditions &amp; Payout Denials
+              </Link>
+              <Link
+                href="/simulator"
+                className="px-3 py-1.5 rounded-xl bg-[#080A10] border border-[#1F2228] text-xs text-emerald-400 hover:text-emerald-300 transition-colors"
+              >
+                Interactive Drawdown Simulator
+              </Link>
+            </div>
           </div>
         </section>
       </div>

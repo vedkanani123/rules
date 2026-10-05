@@ -313,28 +313,38 @@ export const GoatResearchTerminalV3Page: React.FC<GoatResearchTerminalV3PageProp
           )}
 
           {/* Main Content Area */}
-          <main className="flex-1 min-w-0 space-y-10 sm:space-y-12 w-full">
+          <div className="flex-1 min-w-0 space-y-10 sm:space-y-12 w-full">
             {/* Navigation Breadcrumb & Version Pill */}
             <div className="flex flex-wrap items-center justify-between gap-3 text-xs text-slate-400">
-              <div className="flex items-center gap-2">
-                <span
-                  onClick={() => onNavigate('/prop-firms')}
+              <nav aria-label="Breadcrumb" className="flex items-center gap-2">
+                <a
+                  href="/"
+                  onClick={(e) => { e.preventDefault(); onNavigate('/'); }}
+                  className="hover:text-white cursor-pointer"
+                >
+                  Home
+                </a>
+                <span>/</span>
+                <a
+                  href="/prop-firms"
+                  onClick={(e) => { e.preventDefault(); onNavigate('/prop-firms'); }}
                   className="hover:text-white cursor-pointer"
                 >
                   Prop Firms
-                </span>
+                </a>
                 <span>/</span>
-                <span
-                  onClick={() => onNavigate('/prop-firms/goat-funded-trader')}
-                  className="hover:text-white cursor-pointer text-slate-300"
+                <a
+                  href="/prop-firms/goat-funded-trader"
+                  onClick={(e) => { e.preventDefault(); onNavigate('/prop-firms/goat-funded-trader'); }}
+                  className="hover:text-white cursor-pointer text-slate-300 font-semibold"
                 >
                   Goat Funded Trader
-                </span>
+                </a>
                 <span>/</span>
                 <span className="text-blue-400 font-medium">
                   {viewMode === 'matrix' ? 'Phase-by-Phase Rules Matrix' : 'Official Rules & Intelligence Hub'}
                 </span>
-              </div>
+              </nav>
 
               <div className="flex flex-wrap items-center gap-2">
                 <span className="inline-flex items-center gap-1 px-2.5 py-1 rounded-full text-[11px] font-mono font-semibold bg-emerald-500/10 text-emerald-300 border border-emerald-500/20">
@@ -487,7 +497,7 @@ export const GoatResearchTerminalV3Page: React.FC<GoatResearchTerminalV3PageProp
                 <GoatV3ChangeHistory changeHistory={changeHistoryList} />
               </>
             )}
-          </main>
+          </div>
         </div>
       </div>
 

@@ -20,6 +20,61 @@
       "source": "/prop-firms/crypto-funded-trader",
       "destination": "/prop-firms/crypto-fund-trader",
       "permanent": true
+    },
+    {
+      "source": "/prop-firms/fundednext",
+      "destination": "/prop-firms/funded-next",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/aquafunded",
+      "destination": "/prop-firms/aqua-funded",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/brightfunded",
+      "destination": "/prop-firms/bright-funded",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/fundedelite",
+      "destination": "/prop-firms/funded-elite",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/alpha-capital-group",
+      "destination": "/prop-firms/alpha-capital",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/the5ers",
+      "destination": "/prop-firms/the-5ers",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/the-5-ers",
+      "destination": "/prop-firms/the-5ers",
+      "permanent": true
+    },
+    {
+      "source": "/prop-firms/fundingpips",
+      "destination": "/prop-firms/funding-pips",
+      "permanent": true
+    },
+    {
+      "source": "/compare/ftmo-vs-fundednext",
+      "destination": "/compare/ftmo-vs-funded-next",
+      "permanent": true
+    },
+    {
+      "source": "/firms",
+      "destination": "/prop-firms",
+      "permanent": true
+    },
+    {
+      "source": "/firms/:slug",
+      "destination": "/prop-firms/:slug",
+      "permanent": true
     }
   ],
   "rewrites": [

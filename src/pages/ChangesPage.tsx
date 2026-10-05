@@ -3,6 +3,7 @@ import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
 import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
 import { RuleChange } from '../types/schema.ts';
 import { History, ArrowRight, Calendar, AlertTriangle, Shield, Clock } from 'lucide-react';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 
 interface ChangesPageProps { onNavigate: (path: string) => void; }
 
@@ -49,6 +50,9 @@ export const ChangesPage: React.FC<ChangesPageProps> = ({ onNavigate }) => {
           <h1 className="text-[30px] sm:text-[40px] font-semibold tracking-tight leading-[0.95] text-white max-w-3xl mx-auto">Rule changes<br /><span className="text-[#8A8F98]">changelog</span></h1>
           <p className="text-[13px] leading-relaxed text-[#8A8F98] mt-3 max-w-2xl mx-auto">When a firm updates trading days, alters drawdown, or adds a policy, our snapshot diff captures what changed, when, and who is affected — with source.</p>
           <div className="flex flex-wrap items-center justify-center gap-3 mt-6">
+            <div className="w-9 h-9 rounded-xl bg-[#111318] border border-[#1F2228] flex items-center justify-center p-1.5 shrink-0">
+              <img src={currentFirm.logoUrl || getFirmLogoUrl(currentFirm.slug, currentFirm.name)} alt={`${currentFirm.name} logo`} width={24} height={24} className="w-full h-full object-contain" />
+            </div>
             <select
               aria-label="Select prop firm"
               value={selectedFirmSlug}
@@ -70,12 +74,15 @@ export const ChangesPage: React.FC<ChangesPageProps> = ({ onNavigate }) => {
               <div key={change.id} className="rounded-2xl bg-[#111318] border border-[#1F2228] overflow-hidden hover:border-[#2A2D35] transition-colors">
                 <div className="p-5 sm:p-6">
                   <div className="flex flex-wrap items-center gap-2 mb-3">
+                    <div className="w-6 h-6 rounded-md bg-[#080A10] border border-[#1F2228] flex items-center justify-center p-0.5 shrink-0">
+                      <img src={currentFirm.logoUrl || getFirmLogoUrl(currentFirm.slug, change.firmName)} alt={`${change.firmName} logo`} width={18} height={18} loading="lazy" className="w-full h-full object-contain" />
+                    </div>
                     <span className="text-[13px] font-semibold text-white">{change.firmName}</span>
                     <span className={`px-2.5 py-1 rounded-full text-[11px] font-semibold tracking-wide uppercase border ${change.changeType==='MODIFIED' ? 'bg-amber-500/10 text-amber-400 border-amber-500/20' : change.changeType==='ADDED' ? 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20' : 'bg-[#080A10] text-[#8A8F98] border-[#1F2228]'}`}>{change.changeType}</span>
                     <span className={`px-2 py-1 rounded-full text-xs font-medium border ${change.impactLevel==='HIGH' ? 'bg-red-500/10 text-red-400 border-red-500/20' : 'bg-[#080A10] text-[#8A8F98] border-[#1F2228]'}`}>{change.impactLevel}</span>
                     <span className="ml-auto inline-flex items-center gap-1 text-[13px] text-[#8A8F98]"><Calendar className="w-3 h-3" /> {change.effectiveDate}</span>
                   </div>
-                  <h3 className="text-[15px] font-semibold text-white leading-tight">{change.ruleName}</h3>
+                  <h2 className="text-[15px] font-semibold text-white leading-tight">{change.ruleName}</h2>
                   <div className="mt-4 grid grid-cols-1 sm:grid-cols-[1fr_auto_1fr] gap-3 items-center">
                     <div className="p-3 rounded-xl bg-red-500/5 border border-red-500/15">
                       <p className="text-[11px] font-semibold tracking-[0.12em] uppercase text-red-400/70">Before</p>

@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { PropFirm, ProgramModel, AccountTier } from '../../types/schema.ts';
 import { Search, ArrowRight, LayoutGrid, Table as TableIcon } from 'lucide-react';
+import { getFirmLogoUrl } from '../../utils/firmLogos.ts';
 
 export interface FlatAccountItem { firm: PropFirm; program: ProgramModel; account: AccountTier; }
 
@@ -29,9 +30,14 @@ export const AllAccountsTable: React.FC<{ firms: PropFirm[]; onNavigate: (path: 
       {viewMode==='cards' ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {filtered.map(it=>(
-            <button key={it.account.id} onClick={()=>onNavigate(`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`)} className="text-left p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors space-y-3 group">
+            <a key={it.account.id} href={`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`} onClick={(e)=>{e.preventDefault(); onNavigate(`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`);}} className="block text-left p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors space-y-3 group">
               <div className="flex items-center justify-between">
-                <span className="text-[10px] font-mono tracking-widest uppercase px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-[#6B7280]">{it.firm.brandName}</span>
+                <div className="flex items-center gap-2">
+                  <div className="w-6 h-6 rounded-md bg-[#080A10] border border-[#1F2228] flex items-center justify-center p-0.5 shrink-0">
+                    <img src={it.firm.logoUrl || getFirmLogoUrl(it.firm.slug, it.firm.name)} alt={`${it.firm.name} logo`} width={18} height={18} loading="lazy" className="w-full h-full object-contain" />
+                  </div>
+                  <span className="text-[10px] font-mono tracking-widest uppercase px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-[#8A8F98]">{it.firm.brandName}</span>
+                </div>
                 <span className="text-xs font-mono font-medium text-white">{it.account.priceUnknown ? 'Unknown' : `$${it.account.price}`}</span>
               </div>
               <div className="text-[13px] font-semibold text-white leading-tight">{it.account.name}</div>
@@ -41,7 +47,7 @@ export const AllAccountsTable: React.FC<{ firms: PropFirm[]; onNavigate: (path: 
                 <span className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-mono font-medium text-[#8A8F98]">{it.account.maxTotalLoss}% max</span>
               </div>
               <div className="flex items-center gap-1 text-xs font-medium text-[#3b82f6] group-hover:text-white pt-2 border-t border-[#1F2228] transition-colors">View details <ArrowRight className="w-3 h-3" /></div>
-            </button>
+            </a>
           ))}
         </div>
       ) : (
@@ -51,7 +57,7 @@ export const AllAccountsTable: React.FC<{ firms: PropFirm[]; onNavigate: (path: 
             <thead><tr className="border-b border-[#1F2228] bg-[#0F1014]"><th scope="col" className="px-4 py-3 text-[10px] font-mono font-semibold tracking-widest uppercase text-[#6B7280]">Account</th><th scope="col" className="px-4 py-3 text-[10px] font-mono font-semibold tracking-widest uppercase text-[#6B7280]">Daily</th><th scope="col" className="px-4 py-3 text-[10px] font-mono font-semibold tracking-widest uppercase text-[#6B7280]">Max</th><th className="px-4 py-3"></th></tr></thead>
             <tbody className="divide-y divide-[#1F2228]/60">
               {filtered.map(it=>(
-                <tr key={it.account.id} className="hover:bg-[#16181E]/60"><td className="px-4 py-3 text-sm text-white font-medium">{it.account.name} <span className="text-[#6B7280] font-mono text-xs">· {it.firm.name}</span></td><td className="px-4 py-3 text-sm font-mono text-[#8A8F98]">{it.account.dailyLossLimit}%</td><td className="px-4 py-3 text-sm font-mono text-[#8A8F98]">{it.account.maxTotalLoss}%</td><td className="px-4 py-3 text-right"><button onClick={()=>onNavigate(`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`)} className="px-3 py-1.5 rounded-lg bg-[#2563eb] hover:bg-[#1d4ed8] text-white text-xs font-medium">View</button></td></tr>
+                <tr key={it.account.id} className="hover:bg-[#16181E]/60"><td className="px-4 py-3 text-sm text-white font-medium"><div className="flex items-center gap-2"><div className="w-6 h-6 rounded-md bg-[#080A10] border border-[#1F2228] flex items-center justify-center p-0.5 shrink-0"><img src={it.firm.logoUrl || getFirmLogoUrl(it.firm.slug, it.firm.name)} alt={`${it.firm.name} logo`} width={18} height={18} loading="lazy" className="w-full h-full object-contain" /></div><span>{it.account.name} <span className="text-[#6B7280] font-mono text-xs">· {it.firm.name}</span></span></div></td><td className="px-4 py-3 text-sm font-mono text-[#8A8F98]">{it.account.dailyLossLimit}%</td><td className="px-4 py-3 text-sm font-mono text-[#8A8F98]">{it.account.maxTotalLoss}%</td><td className="px-4 py-3 text-right"><a href={`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`} onClick={(e)=>{e.preventDefault(); onNavigate(`/prop-firms/${it.firm.slug}/accounts/${it.account.id}`);}} className="inline-block px-3 py-1.5 rounded-lg bg-[#2563eb] hover:bg-[#1d4ed8] text-white text-xs font-medium">View</a></td></tr>
               ))}
             </tbody>
           </table>

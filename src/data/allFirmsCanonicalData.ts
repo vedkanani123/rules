@@ -23,6 +23,7 @@ import {
 export type { FirmCorporateEntity, FirmCanonicalProfile } from './firmTypes.ts';
 import { FirmCanonicalProfile } from './firmTypes.ts';
 import { EXTENDED_CANONICAL_FIRMS_PROFILES } from './canonicalFirmsExtended.ts';
+import { getFirmLogoUrl, getCountryFlag } from '../utils/firmLogos.ts';
 
 export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
   // ──────────────────────────────────────────────────────────────────────────
@@ -32,9 +33,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'the-5ers',
     name: 'The 5%ers',
     brandName: 'The5ers',
-    logoUrl: '',
+    logoUrl: '/logos/the-5ers.svg',
     country: 'GB',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/il.png',
     headquarters: 'London, United Kingdom',
     foundedYear: 2016,
     ceoFounder: 'Snir Ahiel & Gil Ben Hur',
@@ -379,9 +380,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'ftmo',
     name: 'FTMO',
     brandName: 'FTMO',
-    logoUrl: '',
+    logoUrl: '/logos/ftmo.svg',
     country: 'CZ',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/cz.png',
     headquarters: 'Prague, Czech Republic',
     foundedYear: 2015,
     ceoFounder: 'Otakar Suffner & Marek Vasicek',
@@ -648,9 +649,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'e8-markets',
     name: 'E8 Markets',
     brandName: 'E8 Markets',
-    logoUrl: '',
+    logoUrl: '/logos/e8-markets.svg',
     country: 'US',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/us.png',
     headquarters: 'Dallas, Texas, USA',
     foundedYear: 2021,
     ceoFounder: 'Dylan Elchami',
@@ -1044,9 +1045,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'funding-pips',
     name: 'Funding Pips',
     brandName: 'Funding Pips',
-    logoUrl: '',
+    logoUrl: '/logos/funding-pips.svg',
     country: 'AE',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/ae.png',
     headquarters: 'Dubai, UAE',
     foundedYear: 2022,
     ceoFounder: 'Khaled Ayesh',
@@ -1447,9 +1448,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'fundednext',
     name: 'FundedNext',
     brandName: 'FundedNext',
-    logoUrl: '',
+    logoUrl: '/logos/fundednext.svg',
     country: 'AE',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/ae.png',
     headquarters: 'Dubai, UAE & Nicosia, Cyprus',
     foundedYear: 2022,
     ceoFounder: 'Abdullah Zayed',
@@ -1923,9 +1924,9 @@ export const ALL_FIRMS_CANONICAL_DATA: Record<string, FirmCanonicalProfile> = {
     slug: 'topstep',
     name: 'Topstep',
     brandName: 'Topstep',
-    logoUrl: '',
+    logoUrl: '/logos/topstep.webp',
     country: 'US',
-    countryFlag: '',
+    countryFlag: 'https://flagcdn.com/w80/us.png',
     headquarters: 'Chicago, Illinois, USA',
     foundedYear: 2012,
     ceoFounder: 'Michael Patak',
@@ -2124,16 +2125,29 @@ export function normalizeFirmSlug(slug: string): string {
 export function getFirmCanonicalProfile(slug: string, directoryMetadata?: any): FirmCanonicalProfile {
   const normSlug = normalizeFirmSlug(slug);
   if (ALL_FIRMS_CANONICAL_DATA[normSlug]) {
-    return ALL_FIRMS_CANONICAL_DATA[normSlug];
+    const base = ALL_FIRMS_CANONICAL_DATA[normSlug];
+    if (slug.toLowerCase().trim() === 'atmos-funded') {
+      return {
+        ...base,
+        slug: 'atmos-funded',
+        name: directoryMetadata?.name || 'Atmos Funded',
+        brandName: directoryMetadata?.brandName || 'Atmos',
+        logoUrl: directoryMetadata?.logoUrl || '/logos/atmos-funded.svg',
+        country: directoryMetadata?.country || 'AE',
+        countryFlag: directoryMetadata?.countryFlag || 'https://flagcdn.com/w80/ae.png',
+        website: directoryMetadata?.website || 'https://atmosfunded.com',
+      };
+    }
+    return base;
   }
 
   const name = directoryMetadata?.name || slug.split('-').map((w: string) => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const country = directoryMetadata?.country || 'US';
-  const countryFlag = directoryMetadata?.countryFlag || '';
+  const countryFlag = directoryMetadata?.countryFlag || getCountryFlag(normSlug) || getCountryFlag(country);
   const founded = directoryMetadata?.foundedYear || 2022;
   const rating = directoryMetadata?.reviewScore || directoryMetadata?.reviewsOverview?.averageRating || 4.7;
   const reviews = directoryMetadata?.reviewsCount || directoryMetadata?.reviewsOverview?.totalReviews || 1200;
-  const logo = directoryMetadata?.logoUrl || countryFlag;
+  const logo = directoryMetadata?.logoUrl || getFirmLogoUrl(normSlug, name);
   const maxAlloc = directoryMetadata?.maxAllocation || 400000;
   const marketType = directoryMetadata?.marketType || 'Forex';
 

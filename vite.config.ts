@@ -48,8 +48,25 @@ export default defineConfig({
           if (id.includes('src/data/canonicalFirmsExtended')) {
             return 'data-extended';
           }
-          if (id.includes('src/data/propFirmsData') || id.includes('src/data/allFirmsCanonicalData')) {
-            return 'data-firms';
+          if (
+            id.includes('src/data/aquaFunded') ||
+            id.includes('src/data/sharkFunded') ||
+            id.includes('src/data/blueGuardian') ||
+            id.includes('src/data/monetaFunded') ||
+            id.includes('src/data/atmosFunded') ||
+            id.includes('src/data/e8Markets') ||
+            id.includes('src/data/larkFunded') ||
+            id.includes('src/data/alphaCapitol') ||
+            id.includes('src/data/brightFunded') ||
+            id.includes('src/data/fundedTradingPlus')
+          ) {
+            return 'data-firms-dossiers';
+          }
+          if (id.includes('src/data/allFirmsCanonicalData') || id.includes('src/data/firmsCanonicalRegistry')) {
+            return 'data-firms-canonical';
+          }
+          if (id.includes('src/data/propFirmsData') || id.includes('src/data/propFirmMatchReal') || id.includes('src/data/remainingFirms')) {
+            return 'data-firms-core';
           }
           if (id.includes('src/pages/GoatResearchTerminal') || id.includes('src/pages/FirmResearchTerminal') || id.includes('src/pages/AdminCrawler')) {
             return 'pages-terminal';

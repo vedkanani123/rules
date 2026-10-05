@@ -2303,11 +2303,17 @@ export const WizardPage: React.FC<WizardPageProps> = ({ onNavigate }) => {
                         <div className="flex items-center gap-3">
                           <div className="w-12 h-12 rounded-xl bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] shadow-md flex items-center justify-center p-1.5">
                             <img
-                              src={firstAcc.logoUrl}
+                              src={firstAcc.logoUrl || getFirmLogoUrl(firstAcc.firmSlug, firmName)}
                               alt={firmName}
+                              width={36}
+                              height={36}
+                              loading="lazy"
                               className="w-full h-full object-contain filter drop-shadow"
                               onError={(e) => {
-                                (e.currentTarget as HTMLImageElement).src = firstAcc.countryFlag;
+                                const fallback = getFirmLogoUrl(firstAcc.firmSlug, firmName);
+                                if ((e.currentTarget as HTMLImageElement).src !== fallback) {
+                                  (e.currentTarget as HTMLImageElement).src = fallback;
+                                }
                               }}
                             />
                           </div>
@@ -2322,6 +2328,9 @@ export const WizardPage: React.FC<WizardPageProps> = ({ onNavigate }) => {
                                   <img
                                     src={firstAcc.countryFlag}
                                     alt={firstAcc.country}
+                                    width={16}
+                                    height={12}
+                                    loading="lazy"
                                     className="w-4 h-3 inline object-cover rounded-sm"
                                   />
                                 ) : (
@@ -2547,11 +2556,17 @@ const AccountCard = React.memo<AccountCardProps>(({
             {/* High-contrast dark logo pill */}
             <div className="w-12 h-12 rounded-xl bg-gradient-to-b from-[#1c202d] to-[#10121a] border border-[#2b3244] shadow-sm flex items-center justify-center p-1.5 shrink-0">
               <img
-                src={item.logoUrl}
+                src={item.logoUrl || getFirmLogoUrl(item.firmSlug, item.firmName)}
                 alt={item.firmName}
+                width={36}
+                height={36}
+                loading="lazy"
                 className="w-full h-full object-contain filter drop-shadow"
                 onError={(e) => {
-                  (e.currentTarget as HTMLImageElement).src = item.countryFlag;
+                  const fallback = getFirmLogoUrl(item.firmSlug, item.firmName);
+                  if ((e.currentTarget as HTMLImageElement).src !== fallback) {
+                    (e.currentTarget as HTMLImageElement).src = fallback;
+                  }
                 }}
               />
             </div>
@@ -2565,6 +2580,9 @@ const AccountCard = React.memo<AccountCardProps>(({
                   <img
                     src={item.countryFlag}
                     alt={item.country}
+                    width={14}
+                    height={10}
+                    loading="lazy"
                     className="w-3.5 h-2.5 inline object-cover rounded-sm shrink-0"
                   />
                 ) : (

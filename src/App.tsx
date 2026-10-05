@@ -34,6 +34,7 @@ import { REAL_FIRMS } from './data/propFirmMatchReal.ts';
 import { SourceEvidence } from './types/schema.ts';
 import { getRouteSEOData as getRouteByPath } from './core/seo/routesRegistry.ts';
 import { BASE_URL } from './core/seo/schemaGenerator.ts';
+import { CURATED_COMPARISONS } from './core/seo/comparisonData.ts';
 
 const PageSkeleton: React.FC = () => (
   <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-4 animate-pulse">
@@ -48,9 +49,9 @@ const PageSkeleton: React.FC = () => (
 );
 
 export const App: React.FC = () => {
-  const getPath = () => window.location.pathname + window.location.search + window.location.hash;
+  const getPath = () => (window.location.pathname || '/') + (window.location.search || '') + (window.location.hash || '');
   const [currentPath, setCurrentPath] = useState<string>(() => {
-    return window.location.pathname || '/';
+    return getPath();
   });
 
   const [isSearchOpen, setIsSearchOpen] = useState<boolean>(false);
@@ -62,7 +63,7 @@ export const App: React.FC = () => {
   // Sync route with browser history
   useEffect(() => {
     const handlePopState = () => {
-      setCurrentPath(window.location.pathname || '/');
+      setCurrentPath(getPath());
     };
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
@@ -98,15 +99,15 @@ export const App: React.FC = () => {
 
   // Route metadata synchronization
   useEffect(() => {
-    const cleanPath = currentPath === '/' ? '/' : currentPath.split('?')[0].split('#')[0];
+    const cleanPath = currentPath === '/' ? '/' : (currentPath.split('?')[0].split('#')[0] || '/');
     const registeredRoute = getRouteByPath(cleanPath);
 
     let title = registeredRoute?.title;
     let desc = registeredRoute?.metaDescription;
 
     if (!title || !desc) {
-      if (currentPath.startsWith('/prop-firms/')) {
-        const slug = currentPath.split('/prop-firms/')[1]?.split('/')[0]?.split('?')[0];
+      if (cleanPath.startsWith('/prop-firms/')) {
+        const slug = cleanPath.split('/prop-firms/')[1]?.split('/')[0];
         const firm = PROP_FIRMS_DATA.find((f) => f.slug === slug);
         if (firm) {
           title = `${firm.name} — Verified Rules, Hidden Traps & Dollar Math | FundedTradingRules`;
@@ -115,8 +116,8 @@ export const App: React.FC = () => {
           title = 'Prop Firm Dossier — Verified Intelligence | FundedTradingRules';
           desc = 'Browse proprietary trading firms with verified rules, drawdown models, profit targets, payout consistency rules, and official contract citations.';
         }
-      } else if (currentPath.startsWith('/rules/')) {
-        const slug = currentPath.replace('/rules/', '').split('/')[0]?.split('?')[0];
+      } else if (cleanPath.startsWith('/rules/')) {
+        const slug = cleanPath.replace('/rules/', '').split('/')[0];
         const guide = RULE_GUIDES.find((g) => g.slug === slug);
         if (guide) {
           title = `${guide.name} — In-Depth Rule Guide & Traps | FundedTradingRules`;
@@ -144,7 +145,7 @@ export const App: React.FC = () => {
     metaDesc.setAttribute('content', desc);
 
     // 3. Update Canonical Tag
-    const canonicalUrl = `${BASE_URL}${cleanPath === '/' ? '' : cleanPath}`;
+    const canonicalUrl = registeredRoute?.canonicalUrl || `${BASE_URL}${cleanPath === '/' ? '/' : cleanPath}`;
     let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement;
     if (!canonical) {
       canonical = document.createElement('link');
@@ -174,14 +175,16 @@ export const App: React.FC = () => {
       el.setAttribute('content', val);
     };
 
+    setMetaName('title', title);
     setMetaProp('og:title', title);
     setMetaProp('og:description', desc);
     setMetaProp('og:url', canonicalUrl);
     setMetaName('twitter:title', title);
     setMetaName('twitter:description', desc);
+    setMetaName('twitter:url', canonicalUrl);
 
     // Set og:type based on page type
-    if (currentPath.startsWith('/prop-firms/') || currentPath.startsWith('/rules/')) {
+    if (cleanPath.startsWith('/prop-firms/') || cleanPath.startsWith('/rules/')) {
       setMetaProp('og:type', 'article');
       // Use lastmod from route data if available
       if (registeredRoute?.lastmod) {
@@ -189,6 +192,24 @@ export const App: React.FC = () => {
       }
     } else {
       setMetaProp('og:type', 'website');
+    }
+
+    // 4b. Synchronize JSON-LD Schema.org graph on client-side navigation
+    if (registeredRoute?.schemaGraph && registeredRoute.schemaGraph.length > 0) {
+      let ldScript = document.querySelector('script[type="application/ld+json"]') as HTMLScriptElement | null;
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.setAttribute('type', 'application/ld+json');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(
+        {
+          '@context': 'https://schema.org',
+          '@graph': registeredRoute.schemaGraph,
+        },
+        null,
+        2
+      );
     }
 
     // 5. Track Virtual Pageview for Google Ads & Analytics
@@ -201,7 +222,7 @@ export const App: React.FC = () => {
 
   const navigate = (path: string) => {
     window.history.pushState({}, '', path);
-    setCurrentPath(window.location.pathname || '/');
+    setCurrentPath(getPath());
     const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     // Scroll restoration: top on route change; anchor scroll when hash present
     requestAnimationFrame(() => {
@@ -317,13 +338,163 @@ export const App: React.FC = () => {
       return <FirmDetailPage firm={targetFirm} onNavigate={navigate} onOpenSource={handleOpenSource} />;
     }
 
+    // Helper to render crawlable account tier links, FAQ section, and SEO hub links for a firm
+    const renderFirmAccountLinks = (firmSlug: string) => {
+      const firm = PROP_FIRMS_DATA.find((f) => f.slug === firmSlug);
+      if (!firm || !firm.programs.length) return null;
+      const accounts = firm.programs.flatMap((p) => p.accounts);
+      if (!accounts.length) return null;
+
+      const firstAcc = firm.programs[0]?.accounts[0];
+      const matchingComparisons = CURATED_COMPARISONS.filter(
+        (c) => c.firmASlug === firm.slug || c.firmBSlug === firm.slug
+      );
+      const topComparisons = [
+        { href: '/compare/ftmo-vs-topstep', label: 'FTMO vs Topstep' },
+        { href: '/compare/ftmo-vs-funded-next', label: 'FTMO vs FundedNext' },
+        { href: '/compare/ftmo-vs-funding-pips', label: 'FTMO vs Funding Pips' },
+        { href: '/compare/ftmo-vs-the-5ers', label: 'FTMO vs The 5%ers' },
+      ];
+      const handleCrawlLink = (e: React.MouseEvent<HTMLAnchorElement>, path: string) => {
+        if (!e.metaKey && !e.ctrlKey && !e.shiftKey && !e.altKey && e.button === 0) {
+          e.preventDefault();
+          navigate(path);
+        }
+      };
+
+      const faqItems = [
+        {
+          q: `What are ${firm.name}'s daily drawdown and maximum loss rules?`,
+          a: `${firm.name} (${firm.tagline}) enforces a ${firstAcc?.dailyLossLimit ?? 5}% daily loss limit (${(firstAcc?.dailyLossCalculation || 'balance_based').replace(/_/g, ' ')}) and a ${firstAcc?.maxTotalLoss ?? 10}% maximum total drawdown (${(firstAcc?.drawdownType || 'static').replace(/_/g, ' ')}) on its primary ${firstAcc?.name || 'evaluation'} account${firstAcc?.profitTargetPhase1 ? `, with a Phase 1 profit target of ${firstAcc.profitTargetPhase1}%` : ''}${firstAcc?.profitTargetPhase2 ? ` and Phase 2 target of ${firstAcc.profitTargetPhase2}%` : ''}.`,
+        },
+        {
+          q: `What is the maximum lot size and consistency rule at ${firm.name}?`,
+          a: `At ${firm.name}, the consistency rule on the ${firstAcc?.name || 'primary'} tier is: ${firstAcc?.consistencyRule || 'No consistency rule'}. Maximum position sizing and lot capacity are governed by ${firstAcc?.leverage || '1:100'} leverage and margin utilization limits across ${firm.platforms.join(', ')}.`,
+        },
+        {
+          q: `Does ${firm.name} allow news trading, weekend holding, and EAs?`,
+          a: `For ${firm.name}'s ${firstAcc?.name || 'standard'} program: News trading is ${firstAcc?.newsTradingRule || 'subject to program rules'}${firstAcc?.newsTradingDetail ? ` (${firstAcc.newsTradingDetail})` : ''}. Weekend holding is ${firstAcc?.weekendHolding ? 'allowed' : 'restricted'}, overnight holding is ${firstAcc?.overnightHolding ? 'allowed' : 'restricted'}, and automated Expert Advisors (EAs) are ${firstAcc?.eaAllowed ? 'permitted' : 'restricted'}.`,
+        },
+        {
+          q: `What is ${firm.name}'s profit split and payout frequency?`,
+          a: `${firm.name} offers a base profit split of ${firstAcc?.profitSplit ?? 80}%${firstAcc?.profitSplitMaxWithAddon ? ` (scalable up to ${firstAcc.profitSplitMaxWithAddon}% with add-ons or scaling)` : ''}. Payout frequency is ${firstAcc?.payoutFrequency || 'Every 14 days'}${firstAcc?.firstPayoutConditions ? ` (${firstAcc.firstPayoutConditions})` : ''}, with a minimum of ${firstAcc?.minimumTradingDays ?? 0} trading days during evaluation.`,
+        },
+      ];
+
+      return (
+        <section aria-label={`${firm.name} account tier specifications`} className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-10 space-y-6">
+          {/* 1. All Account Tier Specifications */}
+          <div className="rounded-xl bg-[#111318] border border-[#1F2228] p-4 sm:p-5">
+            <h2 className="text-xs font-mono font-semibold tracking-widest uppercase text-[#9CA3AF] mb-3">
+              All {firm.name} Account Tier Specifications ({accounts.length})
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              {accounts.map((acc) => (
+                <a
+                  key={acc.id}
+                  href={`/prop-firms/${firm.slug}/accounts/${acc.id}`}
+                  onClick={(e) => handleCrawlLink(e, `/prop-firms/${firm.slug}/accounts/${acc.id}`)}
+                  className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#080A10] border border-[#1F2228] hover:border-[#2563eb]/50 text-xs text-slate-300 hover:text-white transition-colors"
+                >
+                  <span>{acc.name}</span>
+                  <span className="text-[10px] font-mono text-[#8A8F98]">${(acc.nominalSize / 1000).toFixed(0)}K</span>
+                </a>
+              ))}
+            </div>
+          </div>
+
+          {/* 2. Visible FAQ Section */}
+          <div className="rounded-xl bg-[#111318] border border-[#1F2228] p-4 sm:p-6 space-y-4">
+            <h2 className="text-base sm:text-lg font-bold text-white tracking-tight">
+              Frequently Asked Questions: {firm.name} Trading Rules
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {faqItems.map((item, idx) => (
+                <div key={idx} className="rounded-xl bg-[#080A10] border border-[#1F2228] p-4 space-y-2">
+                  <h3 className="text-xs sm:text-sm font-semibold text-white leading-snug">
+                    {item.q}
+                  </h3>
+                  <p className="text-xs text-[#9CA3AF] leading-relaxed">
+                    {item.a}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* 3. Compare Side-by-Side & Related Rule Guides */}
+          <div className="rounded-xl bg-[#111318] border border-[#1F2228] p-4 sm:p-5 space-y-4">
+            <h2 className="text-xs font-mono font-semibold tracking-widest uppercase text-[#9CA3AF]">
+              Compare {firm.name} Side-by-Side &amp; Related Rule Guides
+            </h2>
+            <div className="flex flex-wrap gap-2">
+              <a
+                href="/compare"
+                onClick={(e) => handleCrawlLink(e, '/compare')}
+                className="px-3 py-1.5 rounded-lg bg-[#2563eb]/15 border border-[#2563eb]/40 text-xs font-semibold text-sky-400 hover:text-white transition-colors"
+              >
+                Compare {firm.name} Side-by-Side →
+              </a>
+              {matchingComparisons.map((comp) => (
+                <a
+                  key={comp.slug}
+                  href={`/compare/${comp.slug}`}
+                  onClick={(e) => handleCrawlLink(e, `/compare/${comp.slug}`)}
+                  className="px-3 py-1.5 rounded-lg bg-[#080A10] border border-[#1F2228] hover:border-sky-500/40 text-xs text-slate-300 hover:text-white transition-colors"
+                >
+                  {comp.firmAName} vs {comp.firmBName}
+                </a>
+              ))}
+              {topComparisons
+                .filter((tc) => !matchingComparisons.some((mc) => `/compare/${mc.slug}` === tc.href))
+                .map((tc) => (
+                  <a
+                    key={tc.href}
+                    href={tc.href}
+                    onClick={(e) => handleCrawlLink(e, tc.href)}
+                    className="px-3 py-1.5 rounded-lg bg-[#080A10] border border-[#1F2228] hover:border-sky-500/40 text-xs text-slate-300 hover:text-white transition-colors"
+                  >
+                    {tc.label}
+                  </a>
+                ))}
+            </div>
+            <div className="flex flex-wrap gap-2 pt-2 border-t border-[#1F2228]/60">
+              {[
+                { href: '/rules/daily-drawdown', label: 'Daily Drawdown Guide' },
+                { href: '/rules/consistency-rule', label: 'Consistency Rule Guide' },
+                { href: '/rules/lot-size-limits', label: 'Lot Size Limits Guide' },
+                { href: '/rules/hidden-conditions', label: 'Hidden Conditions & Traps' },
+                { href: '/rules/news-trading-restrictions', label: 'News Trading Restrictions' },
+                { href: '/prop-firms/with-static-drawdown', label: 'Firms with Static Drawdown' },
+                { href: '/prop-firms/with-no-consistency-rule', label: 'Firms with No Consistency Rule' },
+              ].map((guide) => (
+                <a
+                  key={guide.href}
+                  href={guide.href}
+                  onClick={(e) => handleCrawlLink(e, guide.href)}
+                  className="px-3 py-1.5 rounded-lg bg-[#080A10] border border-[#1F2228] hover:border-[#2563eb]/50 text-xs text-[#9CA3AF] hover:text-white transition-colors"
+                >
+                  {guide.label}
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+      );
+    };
+
     // 1.95 Main Goat Funded Trader Route -> Research Terminal v3 (The #1 comprehensive research station - UNTOUCHED)
     if (
       currentPath === '/prop-firms/goat-funded-trader' ||
       currentPath === '/prop-firms/goat-funded-trader/' ||
       currentPath === '/firm/goat-funded-trader'
     ) {
-      return <GoatResearchTerminalV3Page onNavigate={navigate} onOpenSource={handleOpenSource} />;
+      return (
+        <>
+          <GoatResearchTerminalV3Page onNavigate={navigate} onOpenSource={handleOpenSource} />
+          {renderFirmAccountLinks('goat-funded-trader')}
+        </>
+      );
     }
 
     // 2. Firm Detail Route: /prop-firms/:slug or /firm/:slug -> Universal Research Terminal v3 for all companies
@@ -331,11 +502,14 @@ export const App: React.FC = () => {
       const rawSlug = currentPath.replace('/prop-firms/', '').replace('/firm/', '').split('/')[0];
       const slug = (rawSlug || '').split('?')[0].split('#')[0];
       return (
-        <FirmResearchTerminalV3Page
-          slug={slug}
-          onNavigate={navigate}
-          onOpenSource={handleOpenSource}
-        />
+        <>
+          <FirmResearchTerminalV3Page
+            slug={slug}
+            onNavigate={navigate}
+            onOpenSource={handleOpenSource}
+          />
+          {renderFirmAccountLinks(slug)}
+        </>
       );
     }
 
@@ -358,15 +532,15 @@ export const App: React.FC = () => {
     }
 
     // 5. Standalone Simulator Route
-    if (currentPath === '/simulator') {
+    if (currentPath === '/simulator' || currentPath === '/simulator/') {
       return (
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6 pb-20">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8 pb-20">
           <div className="border-b border-white/[0.06] pb-4">
             <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight text-balance">
               Interactive Prop Firm Account Simulator
             </h1>
             <p className="text-xs sm:text-sm text-white/60 mt-1.5 leading-relaxed">
-              Simulate market drawdowns, open lots, and intraday equity pullbacks against verified prop firm risk boundaries.
+              Simulate market drawdowns, open lots, and intraday equity pullbacks against verified prop firm risk boundaries before risking challenge fees.
             </p>
           </div>
           <RiskSimulator
@@ -375,6 +549,68 @@ export const App: React.FC = () => {
             initialMaxLossPct={8}
             initialDrawdownType="static"
           />
+          <section className="rounded-2xl bg-[#111318] border border-[#1F2228] p-6 sm:p-8 space-y-6">
+            <div>
+              <h2 className="text-lg sm:text-xl font-bold text-white tracking-tight">
+                Prop Firm Drawdown Mathematical Reference
+              </h2>
+              <p className="text-xs sm:text-sm text-[#8A8F98] mt-1 leading-relaxed">
+                Understanding how your daily loss limit and maximum overall drawdown floor update in real time is critical to surviving prop firm evaluations. Different firms calculate daily reset baselines using either closed balance, intraday equity, or whichever is higher at server midnight.
+              </p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-2">
+                <h3 className="text-sm font-semibold text-white">Static Drawdown Floor</h3>
+                <p className="text-xs text-[#8A8F98] leading-relaxed">
+                  Fixed at a constant percentage below initial starting balance (e.g., $90,000 on a $100,000 account with a 10% max loss). Profitable trades increase your effective drawdown buffer.
+                </p>
+                <a href="/prop-firms/with-static-drawdown" onClick={(e) => { e.preventDefault(); navigate('/prop-firms/with-static-drawdown'); }} className="inline-block text-xs font-medium text-[#3b82f6] hover:underline">
+                  View Static Drawdown Firms →
+                </a>
+              </div>
+              <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-2">
+                <h3 className="text-sm font-semibold text-white">Intraday Trailing (HWM)</h3>
+                <p className="text-xs text-[#8A8F98] leading-relaxed">
+                  Trails your highest unrealized floating equity peak in real time. If an open trade reaches +$3,000 floating profit and reverses without closing, your liquidation floor has already ratcheted up by $3,000.
+                </p>
+                <a href="/rules/trailing-drawdown" onClick={(e) => { e.preventDefault(); navigate('/rules/trailing-drawdown'); }} className="inline-block text-xs font-medium text-[#3b82f6] hover:underline">
+                  Read Trailing Drawdown Guide →
+                </a>
+              </div>
+              <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-2">
+                <h3 className="text-sm font-semibold text-white">End-of-Day (EOD) Trailing</h3>
+                <p className="text-xs text-[#8A8F98] leading-relaxed">
+                  Updates the maximum loss floor only at market close based on closed end-of-day balance, preventing intraday floating profit spikes from prematurely raising your breach level.
+                </p>
+                <a href="/prop-firms/with-trailing-drawdown" onClick={(e) => { e.preventDefault(); navigate('/prop-firms/with-trailing-drawdown'); }} className="inline-block text-xs font-medium text-[#3b82f6] hover:underline">
+                  View Trailing &amp; EOD Drawdown Firms →
+                </a>
+              </div>
+            </div>
+            <div className="border-t border-[#1F2228] pt-6 space-y-4">
+              <h2 className="text-base sm:text-lg font-bold text-white">
+                Frequently Asked Questions: Prop Firm Drawdown Simulator
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-1.5">
+                  <h3 className="text-xs sm:text-sm font-semibold text-white">
+                    How is prop firm daily drawdown calculated?
+                  </h3>
+                  <p className="text-xs text-[#8A8F98] leading-relaxed">
+                    Daily drawdown is calculated as a fixed percentage (typically 3% to 5%) of either your previous day&apos;s closed balance or the higher of your closed balance and floating equity at server reset. If your intraday floating equity drops below the daily floor at any millisecond, the account is breached.
+                  </p>
+                </div>
+                <div className="p-4 rounded-xl bg-[#080A10] border border-[#1F2228] space-y-1.5">
+                  <h3 className="text-xs sm:text-sm font-semibold text-white">
+                    What is the difference between static, EOD, and trailing drawdown?
+                  </h3>
+                  <p className="text-xs text-[#8A8F98] leading-relaxed">
+                    Static drawdown stays fixed at its initial dollar floor forever. End-of-Day (EOD) trailing drawdown moves up only at the end of the trading day based on closed balance. Intraday trailing drawdown follows your highest unrealized floating equity tick-by-tick until it locks at the starting balance.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
         </div>
       );
     }
@@ -382,7 +618,7 @@ export const App: React.FC = () => {
     // 6. Rule Guide Route: /rules/:slug
     if (currentPath.startsWith('/rules/') && currentPath !== '/rules') {
       const slug = currentPath.replace('/rules/', '').split('/')[0].split('?')[0];
-      const guideExists = RULE_GUIDES.some((g) => g.slug === slug);
+      const guideExists = slug === '1-percent-floating-loss' || RULE_GUIDES.some((g) => g.slug === slug);
       if (!guideExists && slug) {
         return (
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center space-y-4">
@@ -491,12 +727,18 @@ export const App: React.FC = () => {
 
   return (
     <div className="min-h-[100dvh] bg-[#080A10] text-slate-100 flex flex-col overflow-x-clip">
+      <a
+        href="#main-content"
+        className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-[100] focus:px-4 focus:py-2 focus:rounded-lg focus:bg-white focus:text-[#080A10] focus:font-semibold"
+      >
+        Skip to main content
+      </a>
       <Navbar
         currentPath={currentPath}
         onNavigate={navigate}
         onOpenSearch={() => setIsSearchOpen(true)}
       />
-      <main className="flex-1 pt-4 sm:pt-6 pb-safe w-full max-w-[100vw] overflow-x-clip">
+      <main id="main-content" tabIndex={-1} className="flex-1 pt-4 sm:pt-6 pb-safe w-full max-w-[100vw] overflow-x-clip">
         <Suspense fallback={<PageSkeleton />}>
           {renderCurrentView()}
         </Suspense>

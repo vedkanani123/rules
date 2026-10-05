@@ -4,6 +4,7 @@ Disallow: /admin/
 Disallow: /crawler-admin
 Disallow: /crawler-admin/
 Allow: /
+Content-Signal: search=yes, ai-input=yes
 
 # Search Crawlers
 User-agent: Googlebot
@@ -33,6 +34,9 @@ Allow: /
 User-agent: Claude-SearchBot
 Allow: /
 
+User-agent: Claude-User
+Allow: /
+
 User-agent: GPTBot
 Allow: /
 
@@ -45,7 +49,13 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
+User-agent: Perplexity-User
+Allow: /
+
 User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-CloudVertexBot
 Allow: /
 
 User-agent: Applebot
@@ -60,3 +70,4 @@ Sitemap: https://www.fundedtradingrules.com/sitemap.xml
 # LLM & AI Search indexing files (Perplexity, ChatGPT, Claude)
 # https://www.fundedtradingrules.com/llms.txt
 # https://www.fundedtradingrules.com/llms-full.txt
+

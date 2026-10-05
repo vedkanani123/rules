@@ -5,6 +5,7 @@ import { SourceEvidence } from '../types/schema.ts';
 import { PropFirmsTable } from '../components/directory/PropFirmsTable.tsx';
 import { RiskSimulator } from '../components/simulator/RiskSimulator.tsx';
 import { HeroIntelligenceCard } from '../components/hero/HeroIntelligenceCard.tsx';
+import { Link } from '../components/common/Link.tsx';
 import {
   Shield,
   ArrowRight,
@@ -461,24 +462,24 @@ export const HomePage: React.FC<HomePageProps> = ({
             <p className="text-sm leading-relaxed text-white/40">Master the math behind drawdowns, consistency rules, news buffers and inactivity limits — with formulas and real dollar examples.</p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
               {RULE_GUIDES.slice(0, 4).map((g) => (
-                <button
+                <Link
                   key={g.slug}
-                  onClick={() => onNavigate(`/rules/${g.slug}`)}
+                  href={`/rules/${g.slug}`}
                   className="text-left p-4 rounded-xl bg-[#080A10] border border-[#1F2228] hover:border-[#2563eb]/30 hover:bg-[#0e1016] transition-colors group"
                 >
                   <span className="text-[11px] font-mono font-semibold tracking-wide uppercase text-white/30">{g.category}</span>
                   <span className="block text-sm font-medium text-white mt-1 leading-tight group-hover:text-white">{g.name}</span>
                   <span className="block text-xs text-white/40 mt-1.5 line-clamp-2 leading-relaxed">{g.shortDefinition}</span>
                   <span className="inline-flex items-center gap-1 text-xs font-medium text-white/30 mt-3 group-hover:text-white">Read guide <ChevronRight className="w-3 h-3" /></span>
-                </button>
+                </Link>
               ))}
             </div>
-            <button onClick={() => onNavigate('/rules')} className="text-sm font-medium text-white/40 hover:text-white inline-flex items-center gap-1">
+            <Link href="/rules" className="text-sm font-medium text-white/40 hover:text-white inline-flex items-center gap-1">
               All guides <ArrowRight className="w-3.5 h-3.5" />
-            </button>
+            </Link>
           </div>
 
-          <div className="lg:col-span-5 rounded-xl bg-[#111318] border border-[#1F2228] p-5 sm:p-6 space-y-4">
+          <div className="lg:col-span-5 rounded-xl bg-[#111318] border border-[#1F2228] space-y-4 p-5 sm:p-6">
             <div className="flex items-center gap-2">
               <span className="w-7 h-7 rounded-lg bg-[#1a1d23] border border-[#1F2228] flex items-center justify-center">
                 <SlidersHorizontal className="w-3.5 h-3.5 text-white/40" />
@@ -525,12 +526,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   In equity-based models, floating open profits pull the daily floor up intraday, making pullbacks an instant breach.
                 </p>
               </div>
-              <button
-                onClick={() => onNavigate('/rules/daily-loss-limit')}
+              <Link
+                href="/rules/daily-drawdown"
                 className="text-xs font-mono text-emerald-400 hover:text-emerald-300 inline-flex items-center gap-1 w-fit cursor-pointer"
               >
                 Learn Daily Loss Math →
-              </button>
+              </Link>
             </div>
 
             <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
@@ -544,12 +545,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   trailing drawdowns trail behind unrealized profit peaks until the floor reaches the starting nominal balance.
                 </p>
               </div>
-              <button
-                onClick={() => onNavigate('/rules/trailing-drawdown')}
+              <Link
+                href="/rules/trailing-drawdown"
                 className="text-xs font-mono text-sky-400 hover:text-sky-300 inline-flex items-center gap-1 w-fit cursor-pointer"
               >
                 Compare Trailing Models →
-              </button>
+              </Link>
             </div>
 
             <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
@@ -563,12 +564,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   order execution or position closing 2 minutes before and after scheduled releases on funded tiers.
                 </p>
               </div>
-              <button
-                onClick={() => onNavigate('/rules/news-trading-restrictions')}
+              <Link
+                href="/rules/news-trading-restrictions"
                 className="text-xs font-mono text-amber-400 hover:text-amber-300 inline-flex items-center gap-1 w-fit cursor-pointer"
               >
                 View News Trading Rules →
-              </button>
+              </Link>
             </div>
 
             <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
@@ -582,12 +583,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   trading day or single trade can account for more than 15% to 50% of your total evaluation profit target.
                 </p>
               </div>
-              <button
-                onClick={() => onNavigate('/rules/consistency-rule')}
+              <Link
+                href="/rules/consistency-rule"
                 className="text-xs font-mono text-purple-400 hover:text-purple-300 inline-flex items-center gap-1 w-fit cursor-pointer"
               >
                 Analyze Consistency Limits →
-              </button>
+              </Link>
             </div>
 
             <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
@@ -601,12 +602,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   averaging down, account sharing, VPN/IP cluster copying, and exploiting delayed broker quotes.
                 </p>
               </div>
-              <button
-                onClick={() => onNavigate('/rules/prohibited-trading-practices')}
+              <Link
+                href="/rules/prohibited-strategies"
                 className="text-xs font-mono text-rose-400 hover:text-rose-300 inline-flex items-center gap-1 w-fit cursor-pointer"
               >
                 Explore Prohibited Systems →
-              </button>
+              </Link>
             </div>
 
             <div className="p-5 rounded-xl bg-[#111318] border border-[#1F2228] flex flex-col justify-between gap-3">
@@ -620,12 +621,12 @@ export const HomePage: React.FC<HomePageProps> = ({
                   maintaining account buffer floors, completing KYC identity verification, and passing compliance audits.
                 </p>
               </div>
-              <button
-                onClick={() => onNavigate('/rules/payout-requirements')}
+              <Link
+                href="/rules/payout-gates"
                 className="text-xs font-mono text-cyan-400 hover:text-cyan-300 inline-flex items-center gap-1 w-fit cursor-pointer"
               >
                 Inspect Payout Criteria →
-              </button>
+              </Link>
             </div>
           </div>
         </section>

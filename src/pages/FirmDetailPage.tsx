@@ -505,6 +505,8 @@ export const FirmDetailPage: React.FC<FirmDetailPageProps> = ({
               <img
                 src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                 alt={firm.name}
+                width={64}
+                height={64}
                 className="w-full h-full object-contain"
                 loading="lazy"
                 onError={(e) => {

@@ -3,6 +3,7 @@ import { ATTRIBUTE_PAGES, AttributePageConfig } from '../core/seo/attributePages
 import { PROP_FIRMS_DATA } from '../data/propFirmsData.ts';
 import { Breadcrumbs } from '../components/common/Breadcrumbs.tsx';
 import { Link } from '../components/common/Link.tsx';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 import {
   ShieldCheck,
   AlertTriangle,
@@ -117,19 +118,43 @@ export const AttributeLandingPage: React.FC<AttributeLandingPageProps> = ({ attr
                 <tbody className="divide-y divide-[#1F2228]/60">
                   {matchingFirms.map((firm) => {
                     const firstAcc = firm.programs[0]?.accounts[0];
+                    const topAccounts = firm.programs.flatMap((p) => p.accounts).slice(0, 4);
                     return (
                       <tr key={firm.id} className="hover:bg-[#080A10]/50 transition-colors">
                         <td className="py-3.5 px-4 font-medium text-white">
                           <Link
                             href={`/prop-firms/${firm.slug}`}
-                            className="flex items-center gap-2 hover:text-sky-400 transition-colors"
+                            className="flex items-center gap-2.5 hover:text-sky-400 transition-colors"
                           >
+                            <div className="w-7 h-7 rounded-lg bg-[#080A10] border border-[#1F2228] flex items-center justify-center p-1 shrink-0">
+                              <img
+                                src={firm.logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
+                                alt={`${firm.name} logo`}
+                                width={20}
+                                height={20}
+                                loading="lazy"
+                                className="w-full h-full object-contain"
+                              />
+                            </div>
                             <span className="font-semibold">{firm.name}</span>
                           </Link>
+                          {topAccounts.length > 0 && (
+                            <div className="flex flex-wrap gap-1 mt-2">
+                              {topAccounts.map((acc) => (
+                                <Link
+                                  key={acc.id}
+                                  href={`/prop-firms/${firm.slug}/accounts/${acc.id}`}
+                                  className="px-2 py-0.5 rounded bg-[#080A10] border border-[#1F2228] hover:border-sky-500/40 text-[10px] font-mono text-[#8A8F98] hover:text-white transition-colors"
+                                >
+                                  {acc.name} (${(acc.nominalSize / 1000).toFixed(0)}K)
+                                </Link>
+                              ))}
+                            </div>
+                          )}
                         </td>
                         <td className="py-3.5 px-4 text-[#8A8F98]">
                           <div className="flex items-center gap-1.5">
-                            <span className="text-xs">{firm.countryFlag ? <img src={firm.countryFlag} alt={`${firm.country} flag`} className="w-3.5 h-2.5 inline-block mr-1" /> : null}</span>
+                            <span className="text-xs">{firm.countryFlag ? <img src={firm.countryFlag} alt={`${firm.country} flag`} width={14} height={10} loading="lazy" className="w-3.5 h-2.5 inline-block mr-1" /> : null}</span>
                             <span>{firm.country}</span>
                             <span className="text-emerald-400 font-mono font-bold ml-1">{firm.scorecard.overallScore}/100</span>
                           </div>
@@ -164,6 +189,39 @@ export const AttributeLandingPage: React.FC<AttributeLandingPageProps> = ({ attr
             </div>
           </div>
         </div>
+
+        {/* Visible FAQ Section */}
+        <section className="mt-12 rounded-2xl bg-[#111318] border border-[#1F2228] p-6 space-y-4">
+          <h2 className="text-lg sm:text-xl font-bold text-white tracking-tight">
+            Frequently Asked Questions: {config.h1}
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div className="rounded-xl bg-[#080A10] border border-[#1F2228] p-4 space-y-2">
+              <h3 className="text-xs sm:text-sm font-semibold text-white leading-snug">
+                What does {config.badge} mean in prop firms?
+              </h3>
+              <p className="text-xs text-[#8A8F98] leading-relaxed">
+                {config.summary}
+              </p>
+            </div>
+            <div className="rounded-xl bg-[#080A10] border border-[#1F2228] p-4 space-y-2">
+              <h3 className="text-xs sm:text-sm font-semibold text-white leading-snug">
+                How is it calculated mathematically?
+              </h3>
+              <p className="text-xs text-[#8A8F98] leading-relaxed font-mono">
+                {config.mathematicalDefinition}
+              </p>
+            </div>
+            <div className="rounded-xl bg-[#080A10] border border-[#1F2228] p-4 space-y-2">
+              <h3 className="text-xs sm:text-sm font-semibold text-white leading-snug">
+                What is the primary risk or trap to watch out for?
+              </h3>
+              <p className="text-xs text-[#8A8F98] leading-relaxed">
+                {config.trapWarning}
+              </p>
+            </div>
+          </div>
+        </section>
 
         {/* Quick Jumps to Other Filter Hubs */}
         <div className="mt-14 pt-8 border-t border-[#1F2228] space-y-4">

@@ -6,6 +6,7 @@ import { AccountTier, PropFirm, SourceEvidence } from '../types/schema.ts';
 import { CURATED_COMPARISONS, getComparisonPairData } from '../core/seo/comparisonData.ts';
 import { Breadcrumbs } from '../components/common/Breadcrumbs.tsx';
 import { Link } from '../components/common/Link.tsx';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 import { Scale, ArrowRight, Check, FileCheck, Info, CheckCircle2, ShieldCheck, Sparkles } from 'lucide-react';
 
 interface ComparePageProps {
@@ -282,11 +283,22 @@ export const ComparePage: React.FC<ComparePageProps> = ({ pairSlug, onNavigate, 
                   </th>
                   {selectedItems.map((item, idx) => (
                     <th key={idx} className="px-3 py-3 min-w-[180px]">
-                      <div className="space-y-1">
-                        <div className="flex items-center justify-between">
-                          <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98]">
-                            Slot {idx + 1}
-                          </span>
+                      <div className="space-y-1.5">
+                        <div className="flex items-center justify-between gap-2">
+                          <div className="flex items-center gap-2 min-w-0">
+                            <div className="w-6 h-6 rounded-md bg-[#111318] border border-[#1F2228] flex items-center justify-center p-0.5 shrink-0">
+                              <img
+                                src={item.firm.logoUrl || getFirmLogoUrl(item.firm.slug, item.firm.name)}
+                                alt={`${item.firm.name} logo`}
+                                width={18}
+                                height={18}
+                                className="w-full h-full object-contain"
+                              />
+                            </div>
+                            <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] truncate">
+                              Slot {idx + 1} · {item.firm.brandName || item.firm.name}
+                            </span>
+                          </div>
                           {selectedItems.length > 2 && (
                             <button
                               onClick={() => removeColumn(idx)}
@@ -353,10 +365,21 @@ export const ComparePage: React.FC<ComparePageProps> = ({ pairSlug, onNavigate, 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             {selectedItems.map((item, idx) => (
               <div key={idx} className="p-4 rounded-2xl bg-[#111318] border border-[#1F2228] space-y-3">
-                <div className="flex items-center justify-between">
-                  <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98]">
-                    Slot {idx + 1} · {item.firm.brandName}
-                  </span>
+                <div className="flex items-center justify-between gap-2">
+                  <div className="flex items-center gap-2 min-w-0">
+                    <div className="w-6 h-6 rounded-md bg-[#080A10] border border-[#1F2228] flex items-center justify-center p-0.5 shrink-0">
+                      <img
+                        src={item.firm.logoUrl || getFirmLogoUrl(item.firm.slug, item.firm.name)}
+                        alt={`${item.firm.name} logo`}
+                        width={18}
+                        height={18}
+                        className="w-full h-full object-contain"
+                      />
+                    </div>
+                    <span className="text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] truncate">
+                      Slot {idx + 1} · {item.firm.brandName}
+                    </span>
+                  </div>
                   {selectedItems.length > 2 && (
                     <button
                       onClick={() => removeColumn(idx)}
@@ -425,28 +448,76 @@ export const ComparePage: React.FC<ComparePageProps> = ({ pairSlug, onNavigate, 
           </div>
         </div>
 
+        {/* Visible FAQ Section for Curated Comparison Pairs */}
+        {pairData && (
+          <section className="mt-12 rounded-2xl bg-[#111318] border border-[#1F2228] p-6 space-y-4">
+            <h2 className="text-lg sm:text-xl font-bold text-white tracking-tight">
+              Frequently Asked Questions: {pairData.firmAName} vs {pairData.firmBName}
+            </h2>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+              <div className="rounded-xl bg-[#080A10] border border-[#1F2228] p-4 space-y-2">
+                <h3 className="text-xs sm:text-sm font-semibold text-white leading-snug">
+                  What is the main difference between {pairData.firmAName} and {pairData.firmBName}?
+                </h3>
+                <p className="text-xs text-[#8A8F98] leading-relaxed">
+                  {pairData.verdict}
+                </p>
+              </div>
+              {pairData.keyDifferences.slice(0, 2).map((d, idx) => (
+                <div key={idx} className="rounded-xl bg-[#080A10] border border-[#1F2228] p-4 space-y-2">
+                  <h3 className="text-xs sm:text-sm font-semibold text-white leading-snug">
+                    {d.title} difference between {pairData.firmAName} and {pairData.firmBName}
+                  </h3>
+                  <p className="text-xs text-[#8A8F98] leading-relaxed">
+                    {d.description}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </section>
+        )}
+
         {/* Popular Comparison Links for Crawler Discovery */}
         <div className="mt-14 pt-8 border-t border-[#1F2228] space-y-4">
           <h2 className="text-sm font-semibold uppercase tracking-wider text-[#8A8F98]">
-            Popular Prop Firm Comparisons
+            Popular Prop Firm Head-to-Head Comparisons
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
             {CURATED_COMPARISONS.map((comp) => (
-              <Link
+              <div
                 key={comp.slug}
-                href={`/compare/${comp.slug}`}
-                className="p-3.5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-sky-500/40 text-xs text-white/90 hover:text-white transition-all group flex items-center justify-between"
+                className="p-3.5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-sky-500/40 text-xs transition-all space-y-2.5"
               >
-                <div>
-                  <strong className="text-white block font-semibold">
-                    {comp.firmAName} vs {comp.firmBName}
-                  </strong>
-                  <span className="text-[11px] text-[#8A8F98] line-clamp-1 mt-0.5">
-                    {comp.title}
-                  </span>
+                <Link
+                  href={`/compare/${comp.slug}`}
+                  className="text-white/90 hover:text-white group flex items-center justify-between"
+                >
+                  <div>
+                    <strong className="text-white block font-semibold">
+                      {comp.firmAName} vs {comp.firmBName}
+                    </strong>
+                    <span className="text-[11px] text-[#8A8F98] line-clamp-1 mt-0.5">
+                      {comp.title}
+                    </span>
+                  </div>
+                  <ArrowRight className="w-3.5 h-3.5 text-[#8A8F98] group-hover:text-white group-hover:translate-x-0.5 transition-all shrink-0 ml-2" />
+                </Link>
+                <div className="flex items-center gap-2 pt-2 border-t border-[#1F2228]/60 text-[11px]">
+                  <Link
+                    href={`/prop-firms/${comp.firmASlug}`}
+                    className="text-sky-400 hover:text-sky-300 font-medium transition-colors"
+                  >
+                    {comp.firmAName} Dossier
+                  </Link>
+                  <span className="text-white/20">•</span>
+                  <Link
+                    href={`/prop-firms/${comp.firmBSlug}`}
+                    className="text-sky-400 hover:text-sky-300 font-medium transition-colors"
+                  >
+                    {comp.firmBName} Dossier
+                  </Link>
                 </div>
-                <ArrowRight className="w-3.5 h-3.5 text-[#8A8F98] group-hover:text-white group-hover:translate-x-0.5 transition-all shrink-0 ml-2" />
-              </Link>
+              </div>
             ))}
           </div>
         </div>

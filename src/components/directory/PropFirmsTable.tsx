@@ -9,6 +9,7 @@ import {
   Star,
 } from 'lucide-react';
 import { getFirmLogoUrl } from '../../utils/firmLogos.ts';
+import { Link } from '../common/Link.tsx';
 
 interface PropFirmsTableProps {
   firms: PropFirm[];
@@ -18,7 +19,7 @@ interface PropFirmsTableProps {
 
 export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
   firms,
-  onNavigate,
+  onNavigate: _onNavigate,
 }) => {
   const [search, setSearch] = useState<string>('');
   const [selectedMarket, setSelectedMarket] = useState<string>('ALL');
@@ -81,7 +82,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
       {viewMode === 'cards' ? (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
           {filteredFirms.map(firm => (
-            <button key={firm.id} onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className="text-left group p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors flex flex-col gap-4 min-h-[200px]">
+            <Link key={firm.id} href={`/prop-firms/${firm.slug}`} className="text-left group p-5 rounded-xl bg-[#111318] border border-[#1F2228] hover:border-[#2A2D35] hover:bg-[#16181E] transition-colors flex flex-col gap-4 min-h-[200px]">
               <div className="flex items-start justify-between gap-3">
                 <div className="flex items-center gap-3 min-w-0">
                   <img src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)} alt={`${firm.name} logo`} width="32" height="32" loading="lazy" decoding="async" className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shrink-0" onError={(e)=>{ 
@@ -108,7 +109,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
                 <span className="text-[11px] font-mono tracking-widest uppercase text-[#3A3E47]">{firm.foundedYear} · {firm.marketType || 'Multi-Asset'}</span>
                 <span className="inline-flex items-center gap-1 text-xs font-medium text-[#3b82f6] group-hover:text-white transition-colors">View dossier <ArrowRight className="w-3 h-3" /></span>
               </div>
-            </button>
+            </Link>
           ))}
         </div>
       ) : (
@@ -143,7 +144,7 @@ export const PropFirmsTable: React.FC<PropFirmsTableProps> = ({
                     <td className="px-4 py-3 text-sm font-mono text-[#8A8F98]">{firm.programs.length} · {firm.programs.reduce((a,p)=>a+p.accounts.length,0)} tiers</td>
                     <td className="px-4 py-3"><span className="inline-flex items-center gap-1 px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs font-mono font-medium text-[#8A8F98]"><Star className="w-3 h-3 text-amber-500" /> {firm.scorecard.overallScore}</span></td>
                     <td className="px-4 py-3 text-xs font-mono text-[#6B7280]">{firm.marketType || 'Multi-Asset'}</td>
-                    <td className="px-4 py-3 text-right"><button onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-[#2563eb] hover:bg-[#1d4ed8] text-white text-xs font-medium">View <ArrowRight className="w-3 h-3" /></button></td>
+                    <td className="px-4 py-3 text-right"><Link href={`/prop-firms/${firm.slug}`} className="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg bg-[#2563eb] hover:bg-[#1d4ed8] text-white text-xs font-medium">View <ArrowRight className="w-3 h-3" /></Link></td>
                   </tr>
                 ))}
               </tbody>

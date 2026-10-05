@@ -58,7 +58,8 @@ let unverifiedRules = 0;
 PROP_FIRMS_DATA.forEach(firm => {
   if (firm.rules) {
     firm.rules.forEach(rule => {
-      if (!rule.sourceUrl) unverifiedRules++;
+      const hasSource = Boolean((rule as any).sourceUrl) || (Array.isArray(rule.sources) && rule.sources.some((s) => Boolean(s.sourceUrl)));
+      if (!hasSource) unverifiedRules++;
     });
   }
 });

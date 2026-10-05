@@ -55,3 +55,56 @@
 - Static Max Drawdown: Breach Floor = Initial Balance - (Initial Balance * Max Loss %). Permanent fixed level.
 - Intraday Trailing Drawdown: Breach Floor = Highest Unrealized Peak Equity Reached - Max Loss Allowance.
 - 1% Floating Loss Rule: Any single position reaching -1.00% unrealized loss relative to starting account nominal capital triggers an instantaneous termination.
+
+## Direct Answers to Common Prop Firm Rule Questions
+
+### What is the consistency rule in a prop firm?
+A consistency rule restricts the maximum percentage of total profit that can be earned in a single trading day (typically 20% to 50%) before a trader can pass an evaluation or request a payout: `Required Total Profit = Best Single-Day Profit / Max Consistency %`. If your best day exceeds the cap, the account is not breached, but your profit target increases until that single day represents less than the allowed percentage.
+- Canonical Rule Guide: https://www.fundedtradingrules.com/rules/consistency-rule
+- Prop Firms with No Consistency Rule: https://www.fundedtradingrules.com/prop-firms/with-no-consistency-rule
+
+### Which prop firms have no hidden rules and static drawdown?
+Prop firms offering verified static maximum drawdown (where the loss floor remains permanently fixed below initial starting balance and never trails unrealized profit) combined with transparent balance-based daily loss calculation include FTMO, The 5%ers (High Stakes), Funding Pips (2-Step), E8 Markets (2-Step), and Goat Funded Trader (2-Step Standard).
+- Prop Firms with Static Drawdown: https://www.fundedtradingrules.com/prop-firms/with-static-drawdown
+- Static Max Drawdown Math Guide: https://www.fundedtradingrules.com/rules/max-drawdown-static
+- Hidden Conditions & Conflict Detection Guide: https://www.fundedtradingrules.com/rules/hidden-conditions
+
+### What is the max lot size rule at prop firms?
+The maximum lot size rule (or contract scaling limit) caps the total standard lots or futures contracts a trader can hold open simultaneously or execute per single order, alongside the 80% margin utilization gambling cap (`Used Margin / Current Equity <= 80%`). Exceeding hard contract caps in futures or triggering margin-gambling thresholds in CFD accounts can result in trade liquidation, profit deduction, or hard breach.
+- Lot Size & Contract Limits Guide: https://www.fundedtradingrules.com/rules/lot-size-limits
+- 80% Margin Gambling Rule Guide: https://www.fundedtradingrules.com/rules/gambling-margin-80
+- Leverage & Margin Calls Guide: https://www.fundedtradingrules.com/rules/leverage-margin
+
+### How do 5K 2-Step prop firm account rules work?
+On a $5,000 2-Step prop firm evaluation account, traders must typically achieve an 8%–10% Phase 1 profit target ($400–$500) and a 5% Phase 2 target ($250) without breaching a 4%–5% daily loss limit ($200–$250) or an 8%–10% static maximum drawdown ($400–$500, fixed floor at $4,500–$4,600). Because nominal dollar buffers are small on $5K accounts, traders must watch out for spread widening at rollover and micro-loss tripwires.
+- Micro Account Risk Tripwire Guide: https://www.fundedtradingrules.com/rules/micro-risk-tripwire
+- Profit Targets by Phase Guide: https://www.fundedtradingrules.com/rules/profit-targets-phases
+- Alpha Capital $5,000 Alpha Pro 8% 2-Step Rules: https://www.fundedtradingrules.com/prop-firms/alpha-capital/accounts/acg-pro810-5k
+- Moneta Funded $5,000 2-Step Rules: https://www.fundedtradingrules.com/prop-firms/moneta-funded/accounts/moneta-2step-5k
+
+## Canonical Prop Firm Dossiers (24 Verified Firms)
+- Goat Funded Trader: https://www.fundedtradingrules.com/prop-firms/goat-funded-trader
+- FTMO: https://www.fundedtradingrules.com/prop-firms/ftmo
+- Funding Pips: https://www.fundedtradingrules.com/prop-firms/funding-pips
+- FundedNext: https://www.fundedtradingrules.com/prop-firms/funded-next
+- The 5%ers: https://www.fundedtradingrules.com/prop-firms/the-5ers
+- Topstep: https://www.fundedtradingrules.com/prop-firms/topstep
+- Take Profit Trader: https://www.fundedtradingrules.com/prop-firms/take-profit-trader
+- Apex Trader Funding: https://www.fundedtradingrules.com/prop-firms/apex-trader-funding
+- E8 Markets: https://www.fundedtradingrules.com/prop-firms/e8-markets
+- Moneta Funded: https://www.fundedtradingrules.com/prop-firms/moneta-funded
+- BrightFunded: https://www.fundedtradingrules.com/prop-firms/bright-funded
+- Lark Funding: https://www.fundedtradingrules.com/prop-firms/lark-funding
+- Alpha Capital Group: https://www.fundedtradingrules.com/prop-firms/alpha-capital
+- AquaFunded: https://www.fundedtradingrules.com/prop-firms/aqua-funded
+- Atmos Funded: https://www.fundedtradingrules.com/prop-firms/atmos-funded
+- Blue Guardian: https://www.fundedtradingrules.com/prop-firms/blue-guardian
+- Funded Trading Plus: https://www.fundedtradingrules.com/prop-firms/funded-trading-plus
+- Crypto Fund Trader: https://www.fundedtradingrules.com/prop-firms/crypto-fund-trader
+- For Traders: https://www.fundedtradingrules.com/prop-firms/for-traders
+- FundedElite: https://www.fundedtradingrules.com/prop-firms/funded-elite
+- Hola Prime: https://www.fundedtradingrules.com/prop-firms/hola-prime
+- Maven Trading: https://www.fundedtradingrules.com/prop-firms/maven-trading
+- Top One Trader: https://www.fundedtradingrules.com/prop-firms/top-one-trader
+- Shark Funded: https://www.fundedtradingrules.com/prop-firms/shark-funded
+

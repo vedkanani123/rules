@@ -905,7 +905,7 @@ export const GoatV3CompleteModelRuleTable: React.FC<GoatV3CompleteModelRuleTable
                         <div className="flex items-start justify-between gap-2">
                           <div>
                             <span className="text-[10px] font-mono text-slate-400">#{row.index}</span>
-                            <h4 className="text-xs font-bold text-white">{row.ruleName}</h4>
+                            <h3 className="text-xs font-bold text-white">{row.ruleName}</h3>
                           </div>
                           {renderDecisionBadge(row.decision, row.decisionDetail)}
                         </div>

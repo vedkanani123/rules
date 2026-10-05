@@ -3,6 +3,7 @@ import { PROP_FIRMS_DATA, RULE_GUIDES } from '../../data/propFirmsData.ts';
 import { REAL_FIRMS } from '../../data/propFirmMatchReal.ts';
 import { searchAll } from '../../core/search/search.ts';
 import { Search, X, Shield, ArrowRight, BookOpen, Layers, DollarSign } from 'lucide-react';
+import { getFirmLogoUrl } from '../../utils/firmLogos.ts';
 
 interface GlobalSearchModalProps {
   isOpen: boolean;
@@ -194,8 +195,16 @@ export const GlobalSearchModal: React.FC<GlobalSearchModalProps> = ({
                 }`}
               >
                 <div className="flex items-center gap-3 min-w-0 flex-1">
-                  <div className={`p-2 sm:p-2.5 rounded-xl shrink-0 hidden xs:flex transition-colors ${index === selectedIndex ? 'bg-[#2563eb]/20 text-[#60a5fa]' : 'bg-slate-800 text-white/60 group-hover:text-brand-400'}`}>
-                    {item.type === 'firm' && <Shield className="w-4 h-4" />}
+                  <div className={`p-2 sm:p-2.5 rounded-xl shrink-0 hidden xs:flex items-center justify-center transition-colors ${index === selectedIndex ? 'bg-[#2563eb]/20 text-[#60a5fa]' : 'bg-slate-800 text-white/60 group-hover:text-brand-400'}`}>
+                    {item.type === 'firm' && (
+                      <img
+                        src={getFirmLogoUrl(item.path.replace('/prop-firms/', ''), item.title)}
+                        alt=""
+                        width={20}
+                        height={20}
+                        className="w-5 h-5 object-contain"
+                      />
+                    )}
                     {item.type === 'account' && <DollarSign className="w-4 h-4" />}
                     {item.type === 'rule' && <Layers className="w-4 h-4" />}
                     {item.type === 'guide' && <BookOpen className="w-4 h-4" />}

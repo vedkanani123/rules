@@ -70,9 +70,9 @@ export const RuleCard: React.FC<RuleCardProps> = ({ rule, onOpenSource }) => {
               </span>
             )}
           </div>
-          <h4 className="text-sm sm:text-base font-bold text-white tracking-tight leading-tight pr-2">
+          <h3 className="text-sm sm:text-base font-bold text-white tracking-tight leading-tight pr-2">
             {rule.name}
-          </h4>
+          </h3>
           <p className="text-xs sm:text-sm text-white/60 leading-relaxed line-clamp-2 sm:line-clamp-1">
             {rule.plainEnglish}
           </p>

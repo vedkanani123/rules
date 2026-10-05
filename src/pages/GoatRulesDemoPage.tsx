@@ -2888,6 +2888,8 @@ export const GoatRulesDemoPage: React.FC<GoatRulesDemoPageProps> = ({
               <img
                 src={firm.logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                 alt={firm.name}
+                width={56}
+                height={56}
                 className="w-full h-full object-contain"
                 onError={(e) => {
                   const target = e.currentTarget as HTMLImageElement;

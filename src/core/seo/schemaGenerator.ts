@@ -93,15 +93,24 @@ export function generateFirmSchema(firm: {
   country: string;
   headquarters: string;
   foundedYear: number;
+  logoUrl?: string;
   description?: string;
   rating?: number;
   reviewsCount?: number;
 }) {
+  const imageUrl = firm.logoUrl
+    ? firm.logoUrl.startsWith('http')
+      ? firm.logoUrl
+      : `${BASE_URL}${firm.logoUrl}`
+    : undefined;
+
   const schema: any = {
     '@type': 'FinancialProduct',
     '@id': `${BASE_URL}/prop-firms/${firm.slug}#product`,
     name: `${firm.name} Funded Account Programs`,
     url: `${BASE_URL}/prop-firms/${firm.slug}`,
+    image: imageUrl,
+    sameAs: firm.website ? [firm.website] : undefined,
     brand: {
       '@type': 'Brand',
       name: firm.name,
@@ -112,6 +121,8 @@ export function generateFirmSchema(firm: {
       '@id': `${BASE_URL}/prop-firms/${firm.slug}#entity`,
       name: firm.name,
       url: firm.website,
+      image: imageUrl,
+      sameAs: firm.website ? [firm.website] : undefined,
       address: {
         '@type': 'PostalAddress',
         addressCountry: firm.country,
@@ -140,7 +151,7 @@ export function generateRuleArticleSchema(rule: {
     articleSection: rule.category,
     author: {
       '@type': 'Organization',
-      name: 'PropFirmRules Research Desk',
+      name: 'FundedTradingRules Research Desk',
       url: BASE_URL,
     },
     publisher: {

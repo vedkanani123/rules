@@ -34,7 +34,7 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/',
     pageType: 'core',
-    title: 'Prop Firm Rules Compared: Drawdown, Payouts & News Rules (2026) | FundedTradingRules',
+    title: 'Prop Firm Rules Compared: Drawdown & Payouts (2026)',
     metaDescription: 'Compare verified funded rules and prop firm trading rules. Real drawdown math, news buffers, consistency rules, and payout terms across 24+ firms.',
     canonicalUrl: `${BASE_URL}/`,
     h1: 'Compare Prop Firm Rules Before You Buy a Challenge',
@@ -71,7 +71,7 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/prop-firms',
     pageType: 'core',
-    title: 'List of Prop Trading Firms (2026): Compare Rules & Conditions | FundedTradingRules',
+    title: 'List of Prop Trading Firms (2026): Rules & Conditions',
     metaDescription: 'Browse 24+ prop trading firms with verified rules, daily drawdown models, profit targets, payout consistency rules, and official contract citations.',
     canonicalUrl: `${BASE_URL}/prop-firms`,
     h1: 'Best Funded Accounts & Prop Firm Rules Directory: 24+ Verified Firms',
@@ -96,8 +96,8 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/rules',
     pageType: 'core',
-    title: 'Prop Firm Trading Rules: Complete Guide & Calculation | FundedTradingRules',
-    metaDescription: 'Comprehensive prop firm rules guide: trailing vs balance drawdown, 2-minute news buffers, 80% margin caps, IP clustering rules, and payout consistency requirements.',
+    title: 'Prop Firm Trading Rules: Drawdown, Lot Size & Payouts',
+    metaDescription: 'Complete prop firm rules guide: trailing vs static drawdown, 2-minute news buffers, 80% margin caps, lot size limits, and payout consistency math.',
     canonicalUrl: `${BASE_URL}/rules`,
     h1: 'Funded Rules Explained: Complete Prop Firm Trading Rules Guide (2026)',
     lastmod: '2026-09-13',
@@ -114,14 +114,17 @@ const CORE_ROUTES: RouteSEOData[] = [
       ]),
       generateItemListSchema(
         'Master Prop Firm Rule Guides',
-        RULE_GUIDES.map(g => ({ name: g.name, url: `/rules/${g.slug}` }))
+        [
+          ...RULE_GUIDES.map(g => ({ name: g.name, url: `/rules/${g.slug}` })),
+          { name: '1% Floating Loss Rule', url: '/rules/1-percent-floating-loss' },
+        ]
       ),
     ],
   },
   {
     path: '/compare',
     pageType: 'core',
-    title: 'Compare Prop Firms Side-by-Side: Drawdown & Fees | FundedTradingRules',
+    title: 'Compare Prop Firms Side-by-Side: Rules, Fees & Split',
     metaDescription: 'Direct side-by-side comparison matrix for prop trading firms. Compare daily loss limits, trailing drawdown basis, news restrictions, and hidden traps.',
     canonicalUrl: `${BASE_URL}/compare`,
     h1: 'Side-by-Side Prop Firm Comparison Matrix',
@@ -142,7 +145,7 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/wizard',
     pageType: 'core',
-    title: 'Prop Firm Matcher: Find Your Best Funded Account | FundedTradingRules',
+    title: 'Prop Firm Account Matcher: Find Best Funded Account',
     metaDescription: 'Interactive prop firm recommendation engine. Match your unique trading style, risk tolerance, and profit expectations with audited prop firm rules.',
     canonicalUrl: `${BASE_URL}/wizard`,
     h1: 'Personalized Prop Firm Strategy Matcher',
@@ -163,7 +166,7 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/simulator',
     pageType: 'core',
-    title: 'Drawdown Risk Simulator: Test Rules Before Buying | FundedTradingRules',
+    title: 'Prop Firm Drawdown Calculator & Risk Simulator (2026)',
     metaDescription: 'Simulate intraday balance vs equity drawdowns, open lots, and trailing stops against verified prop firm risk boundaries before risking challenge fees.',
     canonicalUrl: `${BASE_URL}/simulator`,
     h1: 'Interactive Prop Firm Risk & Drawdown Simulator',
@@ -179,12 +182,24 @@ const CORE_ROUTES: RouteSEOData[] = [
         { name: 'Home', url: '/' },
         { name: 'Risk Simulator', url: '/simulator' },
       ]),
+      generateFAQSchema([
+        {
+          question: 'How is prop firm daily drawdown calculated?',
+          answer:
+            "Daily drawdown is calculated as a fixed percentage (typically 3% to 5%) of either your previous day's closed balance or the higher of your closed balance and floating equity at server reset. If your intraday floating equity drops below the daily floor at any millisecond, the account is breached.",
+        },
+        {
+          question: 'What is the difference between static, EOD, and trailing drawdown?',
+          answer:
+            'Static drawdown stays fixed at its initial dollar floor forever. End-of-Day (EOD) trailing drawdown moves up only at the end of the trading day based on closed balance. Intraday trailing drawdown follows your highest unrealized floating equity tick-by-tick until it locks at the starting balance.',
+        },
+      ]),
     ],
   },
   {
     path: '/reviews',
     pageType: 'core',
-    title: 'Prop Firm Reviews & Trader Dispute Registry (2026) | FundedTradingRules',
+    title: 'Prop Firm Trader Reviews vs Official Rules (2026)',
     metaDescription: 'Neutral dispute evidence registry. Real trader payout and breach complaints paired directly with official prop firm terms and verified outcomes.',
     canonicalUrl: `${BASE_URL}/reviews`,
     h1: 'Prop Firm Trader Dispute & Evidence Registry',
@@ -205,7 +220,7 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/changes',
     pageType: 'core',
-    title: 'Prop Firm Rule Changes: Live Real-Time Audit Trail | FundedTradingRules',
+    title: 'Prop Firm Rule Changes & Policy Changelog (2026)',
     metaDescription: 'Real-time audit log of rule changes across all major prop firms. Track sudden drawdown adjustments, news bans, and consistency updates.',
     canonicalUrl: `${BASE_URL}/changes`,
     h1: 'Prop Firm Rule Changes & Audit Trail',
@@ -226,8 +241,8 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/contact',
     pageType: 'core',
-    title: 'Contact | FundedTradingRules',
-    metaDescription: 'Reach the FundedTradingRules research desk to submit undocumented rule changes, dispute evidence, or editorial feedback.',
+    title: 'Contact Our Research Desk | FundedTradingRules',
+    metaDescription: 'Reach our independent prop firm research desk to submit undocumented rule changes, payout dispute evidence, or editorial feedback.',
     canonicalUrl: `${BASE_URL}/contact`,
     h1: 'Contact FundedTradingRules Research Desk',
     lastmod: '2026-09-13',
@@ -247,8 +262,8 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/privacy',
     pageType: 'legal',
-    title: 'Privacy Policy | FundedTradingRules',
-    metaDescription: 'Privacy policy for FundedTradingRules.com. Details on data collection, Google Consent Mode v2, cookie controls, GDPR rights, and data protection.',
+    title: 'Privacy Policy & Data Protection | FundedTradingRules',
+    metaDescription: 'Comprehensive privacy policy covering data collection, Google Consent Mode v2, cookie controls, GDPR rights, and user data protection.',
     canonicalUrl: `${BASE_URL}/privacy`,
     h1: 'Privacy Policy',
     lastmod: '2026-09-13',
@@ -268,8 +283,8 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/terms',
     pageType: 'legal',
-    title: 'Terms of Service | FundedTradingRules',
-    metaDescription: 'Terms of service governing access to FundedTradingRules.com independent prop trading intelligence and simulation tools.',
+    title: 'Terms of Service & Usage Policy | FundedTradingRules',
+    metaDescription: 'Terms of service and usage conditions governing access to our independent prop trading rule database, calculators, and simulation tools.',
     canonicalUrl: `${BASE_URL}/terms`,
     h1: 'Terms of Service',
     lastmod: '2026-09-13',
@@ -289,7 +304,7 @@ const CORE_ROUTES: RouteSEOData[] = [
   {
     path: '/disclaimer',
     pageType: 'legal',
-    title: 'Risk Disclaimer | FundedTradingRules',
+    title: 'Risk & Regulatory Disclaimer | FundedTradingRules',
     metaDescription: 'Comprehensive risk disclosure, simulated trading limitations, CFTC Rule 4.41 compliance, and proprietary evaluation warnings.',
     canonicalUrl: `${BASE_URL}/disclaimer`,
     h1: 'Risk & Regulatory Disclaimer',
@@ -389,11 +404,39 @@ const FIRM_ROUTES: RouteSEOData[] = PROP_FIRMS_DATA.map(firm => {
     { name: firm.name, url: `/prop-firms/${firm.slug}` },
   ];
 
+  const primaryAcc = firm.programs[0]?.accounts[0];
+  const fullFirmTitle = `${firm.name} Rules, Drawdown & Payouts (2026) | FundedTradingRules`;
+  const title = fullFirmTitle.length <= 65 ? fullFirmTitle : `${firm.name} Rules, Drawdown & Payouts (2026)`;
+
+  const fullFirmDesc = `Verified ${firm.name} rules (2026): daily drawdown, max loss floor, lot size limits, consistency rule, news trading, and payout terms with official citations.`;
+  const metaDescription = fullFirmDesc.length <= 158
+    ? fullFirmDesc
+    : `Verified ${firm.name} rules (2026): daily drawdown, max loss floor, lot size limits, consistency rule, news trading, and official payout terms.`;
+
+  const firmFaqs = [
+    {
+      question: `What are ${firm.name}'s daily drawdown and maximum loss rules?`,
+      answer: `${firm.name}'s primary evaluation account (${primaryAcc?.name || 'Standard'}) enforces a ${primaryAcc?.dailyLossLimit ?? 5}% daily loss limit (${primaryAcc?.dailyLossCalculation || 'balance'}-based) and a ${primaryAcc?.maxTotalLoss ?? 10}% maximum overall drawdown calculated on a ${(primaryAcc?.drawdownType || 'static').replace(/_/g, ' ')} basis.`,
+    },
+    {
+      question: `What is the maximum lot size and consistency rule at ${firm.name}?`,
+      answer: `${firm.name} provides ${primaryAcc?.leverage || 'standard institutional'} leverage where position sizing is governed by margin limits and contract caps. Consistency rule policy: ${primaryAcc?.consistencyRule || 'No consistency rule is enforced on standard evaluation accounts'}.`,
+    },
+    {
+      question: `Does ${firm.name} allow news trading, weekend holding, and EAs?`,
+      answer: `At ${firm.name}, news trading is ${primaryAcc?.newsTradingRule || 'Allowed'}${primaryAcc?.newsTradingDetail ? ` (${primaryAcc.newsTradingDetail})` : ''}, weekend holding is ${primaryAcc?.weekendHolding ? 'allowed' : 'restricted before Friday close'}, and Expert Advisors (EAs) are ${primaryAcc?.eaAllowed ? 'allowed subject to fair execution rules' : 'not permitted'}.`,
+    },
+    {
+      question: `What is ${firm.name}'s profit split and payout frequency?`,
+      answer: `${firm.name} offers a ${primaryAcc?.profitSplit ?? 80}% trader profit split with payouts processed on a ${primaryAcc?.payoutFrequency || '14-day'} schedule (${primaryAcc?.firstPayoutConditions || 'subject to standard minimum trading days'}).`,
+    },
+  ];
+
   return {
     path: `/prop-firms/${firm.slug}`,
     pageType: 'firm',
-    title: `${firm.name} Rules, Drawdown & Payouts (2026) | FundedTradingRules`,
-    metaDescription: `Complete verified rules dossier for ${firm.name}. Drawdown calculation, consistency limits, news trading rules, lot size caps, and trader dispute record backed by official citations.`,
+    title,
+    metaDescription,
     canonicalUrl: `${BASE_URL}/prop-firms/${firm.slug}`,
     h1: `${firm.name} Rules & Evaluation Intelligence Dossier`,
     lastmod: firm.lastVerified || '2026-09-13',
@@ -409,10 +452,12 @@ const FIRM_ROUTES: RouteSEOData[] = PROP_FIRMS_DATA.map(firm => {
         country: firm.country,
         headquarters: firm.headquarters,
         foundedYear: firm.foundedYear,
+        logoUrl: firm.logoUrl,
         description: firm.tagline,
         rating: firm.scorecard?.overallScore ? Number((firm.scorecard.overallScore / 20).toFixed(1)) : 4.5,
         reviewsCount: firm.reviewsOverview?.totalReviews || 120,
       }),
+      generateFAQSchema(firmFaqs),
     ],
   };
 });
@@ -467,12 +512,29 @@ const RULE_ROUTES: RouteSEOData[] = ALL_RULE_GUIDES.map(guide => {
   ];
 
   const cleanName = guide.name.replace(/\s+rules?$/i, '');
+  const brandedRuleTitle = `${cleanName} Rules & Math | FundedTradingRules`;
+  const guideRuleTitle = `${cleanName}: Prop Firm Rule Guide (2026)`;
+  const shortRuleTitle = `${cleanName}: Prop Firm Rules (2026)`;
+  const title = brandedRuleTitle.length <= 65
+    ? brandedRuleTitle
+    : guideRuleTitle.length <= 65
+      ? guideRuleTitle
+      : shortRuleTitle;
+
+  const fullRuleDesc = `${guide.shortDefinition} Formula, examples & prop firms enforcing this rule.`;
+  const midRuleDesc = `${guide.shortDefinition} Formula, examples & prop firms using it.`;
+  const shortRuleDesc = `${guide.shortDefinition} Formula, math & prop firms.`;
+  const metaDescription = fullRuleDesc.length <= 158
+    ? fullRuleDesc
+    : midRuleDesc.length <= 158
+      ? midRuleDesc
+      : shortRuleDesc;
 
   return {
     path: `/rules/${guide.slug}`,
     pageType: 'rule',
-    title: `${cleanName} Rules & Math | FundedTradingRules`,
-    metaDescription: `${guide.shortDefinition} Complete calculation formula, practical examples, common violation mistakes, and prop firms using this rule.`,
+    title,
+    metaDescription,
     canonicalUrl: `${BASE_URL}/rules/${guide.slug}`,
     h1: `${guide.name} — Prop Firm Rule Guide`,
     lastmod: '2026-09-13',
@@ -515,7 +577,7 @@ const COMPARE_ROUTES: RouteSEOData[] = CURATED_COMPARISONS.map(pair => {
   return {
     path: `/compare/${pair.slug}`,
     pageType: 'compare',
-    title: `${pair.firmAName} vs ${pair.firmBName}: Rules & Fees (2026) | FundedTradingRules`,
+    title: pair.title,
     metaDescription: pair.metaDescription,
     canonicalUrl: `${BASE_URL}/compare/${pair.slug}`,
     h1: `${pair.firmAName} vs ${pair.firmBName}: Rules & Drawdown Compared`,
@@ -577,6 +639,62 @@ const ATTRIBUTE_ROUTES: RouteSEOData[] = ATTRIBUTE_PAGES.map(attr => {
   };
 });
 
+// 5.5 Account Detail Routes (/prop-firms/:slug/accounts/:accId)
+const ACCOUNT_ROUTES: RouteSEOData[] = PROP_FIRMS_DATA.flatMap(firm =>
+  firm.programs.flatMap(program =>
+    program.accounts.map(acc => {
+      const cleanPath = `/prop-firms/${firm.slug}/accounts/${acc.id}`;
+      const breadcrumbs: BreadcrumbItem[] = [
+        { name: 'Home', url: '/' },
+        { name: 'Prop Firms', url: '/prop-firms' },
+        { name: firm.name, url: `/prop-firms/${firm.slug}` },
+        { name: acc.name, url: cleanPath },
+      ];
+      const baseLabel = acc.name.startsWith(firm.name) ? acc.name : `${firm.name} ${acc.name}`;
+      const cand1 = `${baseLabel} Account Rules (2026)`;
+      const cand2 = `${baseLabel} Account Rules`;
+      const cand3 = `${baseLabel} Rules (2026)`;
+      const cand4 = `${baseLabel} Rules`;
+      const title = [cand1, cand2, cand3, cand4].find(c => c.length >= 35 && c.length <= 65) || cand1.slice(0, 65);
+
+      const drawdownLabel = acc.drawdownType.replace(/_/g, ' ');
+      const metaDescription = `Verified ${firm.name} ${acc.name} rules: ${acc.dailyLossLimit}% daily loss, ${acc.maxTotalLoss}% max drawdown (${drawdownLabel}), ${acc.profitSplit}% split, and breach math.`;
+
+      const accountFaqs = [
+        {
+          question: `What are the ${firm.name} ${acc.name} account rules?`,
+          answer: `The ${firm.name} ${acc.name} ($${acc.nominalSize.toLocaleString()}) account enforces a ${acc.dailyLossLimit}% daily loss limit, ${acc.maxTotalLoss}% maximum (${drawdownLabel}) drawdown, ${acc.profitTargetPhase1}% Phase 1 profit target${acc.profitTargetPhase2 ? `, ${acc.profitTargetPhase2}% Phase 2 target` : ''}, and a ${acc.profitSplit}% profit split.`,
+        },
+        {
+          question: `How is drawdown calculated on the ${firm.name} ${acc.name} account?`,
+          answer: `On the ${firm.name} ${acc.name} account, maximum drawdown is ${acc.maxTotalLoss}% ($${Math.round((acc.nominalSize * acc.maxTotalLoss) / 100).toLocaleString()}) using a ${drawdownLabel} model, while the daily loss limit is ${acc.dailyLossLimit}% ($${Math.round((acc.nominalSize * acc.dailyLossLimit) / 100).toLocaleString()}) calculated on a ${acc.dailyLossCalculation} basis.`,
+        },
+        {
+          question: `What is the profit split and minimum trading days for ${firm.name} ${acc.name}?`,
+          answer: `Traders on the ${firm.name} ${acc.name} account receive an ${acc.profitSplit}% profit split (${acc.payoutFrequency} payout cycle) and must complete at least ${acc.minimumTradingDays} minimum trading days per evaluation phase.`,
+        },
+      ];
+
+      return {
+        path: cleanPath,
+        pageType: 'account' as const,
+        title,
+        metaDescription,
+        canonicalUrl: `${BASE_URL}${cleanPath}`,
+        h1: `${firm.name} — ${acc.name} Rules & Conditions`,
+        lastmod: firm.lastVerified || '2026-09-13',
+        isIndexable: true,
+        breadcrumbs,
+        schemaGraph: [
+          generateOrganizationSchema(),
+          generateBreadcrumbSchema(breadcrumbs),
+          generateFAQSchema(accountFaqs),
+        ],
+      };
+    })
+  )
+);
+
 // 6. Master Route Map & Lookup
 export const ALL_SEO_ROUTES: RouteSEOData[] = [
   ...CORE_ROUTES,
@@ -584,6 +702,7 @@ export const ALL_SEO_ROUTES: RouteSEOData[] = [
   ...RULE_ROUTES,
   ...COMPARE_ROUTES,
   ...ATTRIBUTE_ROUTES,
+  ...ACCOUNT_ROUTES,
 ];
 
 export function getRouteSEOData(path: string): RouteSEOData | null {
@@ -603,11 +722,15 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
         { name: 'Compare', url: '/compare' },
         { name: `${firmA.name} vs ${firmB.name}`, url: cleanPath },
       ];
+      const fullDynamicTitle = `${firmA.name} vs ${firmB.name}: Rules & Drawdown (2026)`;
+      const dynamicTitle = fullDynamicTitle.length <= 65
+        ? fullDynamicTitle
+        : `${firmA.name} vs ${firmB.name} Rules Compared`;
       return {
         path: cleanPath,
         pageType: 'compare',
-        title: `${firmA.name} vs ${firmB.name} Rules & Drawdown Comparison | FundedTradingRules`,
-        metaDescription: `Compare ${firmA.name} vs ${firmB.name} side-by-side: Daily loss limits, maximum drawdown mechanics, profit targets, payout frequency, and official terms citations.`,
+        title: dynamicTitle,
+        metaDescription: `Compare ${firmA.name} vs ${firmB.name} side-by-side: daily loss limits, max drawdown rules, profit targets, payout splits, and official citations.`,
         canonicalUrl: `${BASE_URL}${cleanPath}`,
         h1: `${firmA.name} vs ${firmB.name} Rules Comparison`,
         lastmod: '2026-09-13',
@@ -639,11 +762,33 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
         { name: firm.name, url: `/prop-firms/${firm.slug}` },
         { name: accName, url: cleanPath },
       ];
+      const baseLabel = accName.startsWith(firm.name) ? accName : `${firm.name} ${accName}`;
+      const cand1 = `${baseLabel} Account Rules (2026)`;
+      const cand2 = `${baseLabel} Account Rules`;
+      const cand3 = `${baseLabel} Rules (2026)`;
+      const cand4 = `${baseLabel} Rules`;
+      const title = [cand1, cand2, cand3, cand4].find(c => c.length >= 35 && c.length <= 65) || cand1.slice(0, 65);
+
+      const dynamicFaqs = [
+        {
+          question: `What are the ${firm.name} ${accName} account rules?`,
+          answer: `Verified evaluation rules for ${firm.name} ${accName}, including daily loss limits, maximum drawdown floors, profit targets, and payout conditions.`,
+        },
+        {
+          question: `How is drawdown calculated on the ${firm.name} ${accName} account?`,
+          answer: `Drawdown on the ${firm.name} ${accName} account is calculated according to the firm's official daily loss and maximum overall loss rules.`,
+        },
+        {
+          question: `What is the profit split and minimum trading days for ${firm.name} ${accName}?`,
+          answer: `Profit split and minimum trading days on the ${firm.name} ${accName} account follow ${firm.name}'s verified program schedule.`,
+        },
+      ];
+
       return {
         path: cleanPath,
         pageType: 'account',
-        title: `${firm.name} ${accName} Account Rules & Drawdown Limits | FundedTradingRules`,
-        metaDescription: `Verified evaluation rules for ${firm.name} ${accName}. Exact daily loss, maximum drawdown, profit split, and failure trigger math.`,
+        title,
+        metaDescription: `Verified ${firm.name} ${accName} rules: daily loss limits, maximum drawdown calculation, profit split, minimum trading days, and breach math.`,
         canonicalUrl: `${BASE_URL}${cleanPath}`,
         h1: `${firm.name} — ${accName} Rules & Conditions`,
         lastmod: firm.lastVerified || '2026-09-13',
@@ -652,6 +797,7 @@ export function getRouteSEOData(path: string): RouteSEOData | null {
         schemaGraph: [
           generateOrganizationSchema(),
           generateBreadcrumbSchema(breadcrumbs),
+          generateFAQSchema(dynamicFaqs),
         ],
       };
     }

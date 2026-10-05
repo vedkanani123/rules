@@ -4,6 +4,7 @@ import { getFirmCanonicalProfile } from '../data/allFirmsCanonicalData.ts';
 import { ReviewCard } from '../components/reviews/ReviewCard.tsx';
 import { TraderReview } from '../types/schema.ts';
 import { MessageSquareQuote, Star, Shield, AlertCircle, Quote, Filter } from 'lucide-react';
+import { getFirmLogoUrl } from '../utils/firmLogos.ts';
 
 interface ReviewsPageProps { onNavigate: (path: string) => void; }
 
@@ -106,7 +107,12 @@ export const ReviewsPage: React.FC<ReviewsPageProps> = ({ onNavigate }) => {
         <div className="mt-8 grid grid-cols-1 lg:grid-cols-12 gap-6">
           <div className="lg:col-span-8 space-y-4">
             <div className="rounded-2xl bg-[#111318] border border-[#1F2228] p-4 sm:p-5 flex flex-col sm:flex-row gap-4">
-              <div className="flex items-center gap-2 text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] shrink-0"><Filter className="w-3.5 h-3.5" /> Filters</div>
+              <div className="flex items-center gap-2 text-[11px] tracking-[0.12em] uppercase font-medium text-[#8A8F98] shrink-0">
+                <div className="w-7 h-7 rounded-lg bg-[#080A10] border border-[#1F2228] flex items-center justify-center p-1 shrink-0">
+                  <img src={currentFirm.logoUrl || getFirmLogoUrl(currentFirm.slug, currentFirm.name)} alt={`${currentFirm.name} logo`} width={20} height={20} className="w-full h-full object-contain" />
+                </div>
+                <Filter className="w-3.5 h-3.5" /> Filters
+              </div>
               <div className="flex flex-wrap gap-2 flex-1">
                 <select aria-label="Select firm" value={selectedFirmSlug} onChange={e=>{ setSelectedFirmSlug(e.target.value); setSelectedCategory('ALL'); setSelectedRating('ALL'); }} className="px-3.5 py-2.5 rounded-full bg-[#080A10] border border-[#1F2228] text-[13px] text-white focus:outline-none focus:border-[#2A2D35] min-h-[40px]">
                   {PROP_FIRMS_DATA.map(f => (

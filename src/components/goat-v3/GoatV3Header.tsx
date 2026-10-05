@@ -148,7 +148,7 @@ export const GoatV3Header: React.FC<GoatV3HeaderProps> = ({
             <div className="space-y-2">
               <div className="flex flex-wrap items-center gap-2">
                 <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
-                  Goat Funded Trader
+                  Goat Funded Trader <span className="text-slate-400 font-semibold text-base sm:text-xl">Rules, Drawdown &amp; Payouts</span>
                 </h1>
                 <span className="px-2.5 py-0.5 text-xs font-bold rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 flex items-center gap-1">
                   <CheckCircle2 className="w-3.5 h-3.5" />

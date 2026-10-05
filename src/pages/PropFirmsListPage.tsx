@@ -384,6 +384,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                   const minPrice = getMinPrice(firm);
                   const isTop = idx < 3;
                   const isGoat = firm.slug === 'goat-funded-trader';
+                  const firstAcc = firm.programs?.[0]?.accounts?.[0];
                   return (
                     <tr key={firm.id} onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className={`group hover:bg-[#080A10]/60 cursor-pointer transition-colors border-b border-transparent hover:border-[#1F2228]/50 ${isGoat?'bg-[#2563eb]/[0.04] hover:bg-[#2563eb]/[0.08]':''}`}>
                       <td className="px-4 py-4 text-center">
@@ -395,6 +396,8 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                             <img
                               src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                               alt={firm.name}
+                              width={24}
+                              height={24}
                               className="w-full h-full object-contain"
                               loading="lazy"
                               onError={(e) => {
@@ -408,7 +411,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                           </div>
                           <div className="min-w-0">
                             <div className="flex items-center gap-1.5 flex-wrap">
-                              <span className="text-[13px] font-semibold text-white group-hover:text-[#3b82f6] transition-colors">{firm.name}</span>
+                              <Link href={`/prop-firms/${firm.slug}`} className="text-[13px] font-semibold text-white group-hover:text-[#3b82f6] transition-colors">{firm.name}</Link>
                               {((firm.programs?.length ?? 0) > 0) && <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-emerald-500 text-white leading-none">VERIFIED</span>}
                               {firm.status==='CAUTION' && <span className="px-1.5 py-0.5 rounded text-[10px] font-bold bg-amber-500/15 text-amber-400 border border-amber-500/20 leading-none">CAUTION</span>}
                             </div>
@@ -416,6 +419,16 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                               <span className={`w-1.5 h-1.5 rounded-full shrink-0 ${firm.confidenceRating==='A'?'bg-emerald-500':firm.confidenceRating==='B'?'bg-sky-500':'bg-white/20'}`} />
                               <span className="truncate">{firm.brandName} • {(firm.programs?.length ?? 0) > 0 ? `${firm.programs.length} ${firm.programs.length === 1 ? 'program' : 'programs'}` : 'Rules under verification'} • {(firm.platforms ?? []).slice(0,2).join(', ') || 'Platforms unknown'}</span>
                             </p>
+                            {firstAcc && (
+                              <div className="mt-1">
+                                <Link
+                                  href={`/prop-firms/${firm.slug}/accounts/${firstAcc.id}`}
+                                  className="inline-flex items-center gap-1 px-2 py-0.5 rounded bg-[#080A10] border border-[#1F2228] hover:border-[#2563eb]/50 text-[10px] font-mono text-[#8A8F98] hover:text-white transition-colors"
+                                >
+                                  {firstAcc.name} (${(firstAcc.nominalSize / 1000).toFixed(0)}K)
+                                </Link>
+                              </div>
+                            )}
                           </div>
                         </div>
                       </td>
@@ -441,7 +454,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                       <td className="px-4 py-4">
                         <span className="inline-flex items-center gap-1.5 text-xs font-medium text-white">
                           {firm.countryFlag ? (
-                            <img src={firm.countryFlag} alt={firm.country} className="w-5 h-3.5 rounded-sm object-cover border border-white/10" onError={e=>{(e.target as HTMLImageElement).style.display='none'}} />
+                            <img src={firm.countryFlag} alt={firm.country} width={20} height={14} loading="lazy" className="w-5 h-3.5 rounded-sm object-cover border border-white/10" onError={e=>{(e.target as HTMLImageElement).style.display='none'}} />
                           ) : null}
                           {firm.country}
                         </span>
@@ -507,6 +520,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
             const years = getYears(firm.foundedYear);
             const allocation = getMaxAllocation(firm);
             const minPrice = getMinPrice(firm);
+            const firstAcc = firm.programs?.[0]?.accounts?.[0];
             return (
               <div key={firm.id} onClick={()=>onNavigate(`/prop-firms/${firm.slug}`)} className="p-4 rounded-2xl bg-[#111318] border border-[#1F2228] space-y-3 active:bg-[#080A10]">
                 <div className="flex items-start justify-between gap-3">
@@ -514,6 +528,8 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                     <img
                       src={(firm as any).logoUrl || getFirmLogoUrl(firm.slug, firm.name)}
                       alt={firm.name}
+                      width={32}
+                      height={32}
                       className="w-8 h-8 rounded-lg object-contain bg-gradient-to-b from-[#1c202d] to-[#10121a] p-1 border border-[#2b3244] shadow-sm shrink-0"
                       loading="lazy"
                       onError={(e) => {
@@ -526,7 +542,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                     />
                     <div className="min-w-0">
                       <p className="text-sm font-semibold text-white truncate flex items-center gap-1.5">
-                        {firm.name}
+                        <Link href={`/prop-firms/${firm.slug}`} className="hover:text-[#3b82f6] transition-colors">{firm.name}</Link>
                         {((firm.programs?.length ?? 0) > 0) && <span className="px-1.5 py-0.5 rounded text-[10px] bg-emerald-500 text-white">VERIFIED</span>}
                       </p>
                       <p className="text-xs text-[#8A8F98] truncate">{firm.brandName} • {firm.marketType} • {years}yrs • {firm.headquarters.split('•')[0]}</p>
@@ -548,6 +564,14 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
                   {(firm.platforms ?? []).slice(0,3).map((pl:string)=> <span key={pl} className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-[11px] text-[#8A8F98]">{pl}</span>)}
                   <span className="px-2 py-1 rounded-full bg-white/5 border border-[#1F2228] text-xs font-mono text-white">{allocation > 0 ? `$${(allocation/1000).toFixed(0)}K max` : 'Max unknown'}</span>
                   <span className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] text-xs text-[#8A8F98]">{minPrice !== null ? `from $${minPrice}` : 'Price unknown'}</span>
+                  {firstAcc && (
+                    <Link
+                      href={`/prop-firms/${firm.slug}/accounts/${firstAcc.id}`}
+                      className="px-2 py-1 rounded-full bg-[#080A10] border border-[#1F2228] hover:border-[#2563eb]/50 text-[11px] font-mono text-sky-400 hover:text-white transition-colors"
+                    >
+                      {firstAcc.name}
+                    </Link>
+                  )}
                 </div>
                 {firm.activePromo && (
                   <div className="flex items-center justify-between p-2.5 rounded-xl bg-gradient-to-r from-[#2563eb]/20 to-[#7c3aed]/20 border border-[#2563eb]/20">
@@ -587,7 +611,7 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
             <span>Showing {filtered.length} of {displayFirms.length} firms • Evidence-first — every firm links to source + rule history</span>
             <div className="flex items-center gap-2">
               <span className="hidden sm:inline">Want raw data?</span>
-              <button onClick={()=>onNavigate('/changes')} className="px-3 py-1.5 rounded-full bg-[#111318] border border-[#1F2228] text-white hover:bg-[#1a1d23]">View changelog</button>
+              <Link href="/changes" className="px-3 py-1.5 rounded-full bg-[#111318] border border-[#1F2228] text-white hover:bg-[#1a1d23]">View changelog</Link>
             </div>
           </div>
         )}
@@ -596,9 +620,9 @@ export const PropFirmsListPage: React.FC<PropFirmsListPageProps> = ({ onNavigate
         <div className="mt-6 p-4 sm:p-5 rounded-2xl bg-[#111318] border border-[#1F2228] flex flex-col sm:flex-row gap-4">
           <span className="w-9 h-9 rounded-xl bg-emerald-500/10 border border-emerald-500/20 flex items-center justify-center shrink-0"><Shield className="w-4 h-4 text-emerald-400" /></span>
           <div>
-            <h4 className="text-sm font-semibold text-white">How we rank (and why we don't sell rank)</h4>
+            <h2 className="text-sm font-semibold text-white">How we rank (and why we don't sell rank)</h2>
             <p className="text-xs leading-relaxed text-[#8A8F98] mt-1">
-              Firms are ordered by <span className="text-white">trust score</span> (evidence + transparency + rule stability + trader experience), not CPA. Affiliate money never changes factual data. See <button onClick={()=>onNavigate('/compare')} className="text-[#3b82f6] underline underline-offset-2">comparison methodology</button> for source hierarchy.
+              Firms are ordered by <span className="text-white">trust score</span> (evidence + transparency + rule stability + trader experience), not CPA. Affiliate money never changes factual data. See <Link href="/compare" className="text-[#3b82f6] underline underline-offset-2">comparison methodology</Link> for source hierarchy.
             </p>
           </div>
         </div>
